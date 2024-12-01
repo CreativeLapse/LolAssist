@@ -33,7 +33,7 @@ League of Legends Assist is a Python-based application that helps you find infor
     python main.py
     ```
 
-2. Ask a question about a League of Legends champion. For example:
+2. Ask a question about a League of Legends champion using OMI's app. For example:
     ```
     Tell me about Ahri.
     ```
