@@ -1,0 +1,2678 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Jinx
+the Loose Cannon
+Release date
+2013-10-10
+Last changed
+V14.23
+Class(es)
+Marksman
+Legacy
+Marksman
+Position(s)
+Bottom
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+1
+Utility
+1
+Style
+Difficulty
+Jinx
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Jinx
+Base statistics
+Edit
+Health
+630
++105
+Mana
+260
++50
+Health regen. (per 5s)
+3.75
++0.5
+Mana regen. (per 5s)
+6.7
++1
+Armor
+26
++4.7
+Attack damage
+59
++3.15
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+325
+Attack range
+525
+Attack speed
+Base AS
+0.625
+Attack windup
+16.875%
+AS ratio
+N/A
+Bonus AS
++1.4
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+550
+Special statistics
+Damage Dealt
+-10%
+Damage Received
++5%
+Damage Dealt
+-5%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Get Excited!
+Innate:
+Whenever
+Jinx
+scores a
+takedown
+against an enemy
+champion
+, epic
+monster
+,
+turret
+, or inhibitor shortly after damaging them, she gains a burst of
+movement speed
+for a few seconds. During this time, she also gains
+bonus
+attack speed
+and is allowed to exceed the attack speed cap.
+Innate:
+Whenever
+Jinx
+scores a
+takedown
+against an enemy
+champion
+, epic
+monster
+,
+turret
+, or
+inhibitor
+within 3 seconds of damaging them, she gains
+175%
+bonus
+movement speed
+decaying over 6 seconds.
+Additionally, she is allowed to exceed the
+attack speed cap
+and gains a
+stack
+of
+Get Excited!
+for the same duration, stacking up to 5 times. Only
+takedowns
+against enemy
+champions
+can grant stacks beyond the first.
+Get Excited!:
+For each stack,
+Jinx
+gains
+25%
+total
+attack speed
+, up to a maximum of
+125%
+.
+Info
+Targeting input
+Passive
+Jinx's
+attack speed cap
+is increased to 90.
+0
+for the duration, however this value is already beyond the technical limit for attack speed.
+Jinx
+will still trigger
+Get Excited
+from killing a summoned
+Rift Herald
+.
+Jinx
+will fail to trigger
+Get Excited
+in the specific circumstance of killing
+Baron Nashor
+while more than ~2500 distance away.
+(bug)
+Edit
+Switcheroo!
+COST:
+20 Mana per attack with
+Fishbones
+CAST TIME:
+none
+STATIC COOLDOWN
+:
+0.
+9
+EFFECT RADIUS:
+250
+Toggle:
+Jinx
+switches between Pow-Pow, her minigun, and Fishbones, her rocket launcher.
+Pow-Pow
+:
+Basic attacks with
+Pow-Pow
+generate stacks of
+Rev'd up
+for a short time. Stacks expire one at a time.
+Fishbones
+:
+Basic attacks with
+Fishbones
+cost mana
+to deal
+increased physical damage
+to the primary target as well as surrounding enemies. While using
+Fishbones
+,
+Jinx
+gains
+bonus
+range
+but loses a portion of her
+bonus
+attack speed
+.
+Rev'd up:
+For each stack,
+Jinx
+gains
+bonus
+attack speed
+, with the first stack being twice as potent. Only the first attack after switching to
+Fishbones
+will benefit from
+Rev'd up
+.
+Toggle:
+Jinx
+switches between
+Pow-Pow
+, her minigun, and
+Fishbones
+, her rocket launcher.
+Pow-Pow:
+Basic attacks with
+Pow-Pow
+generate a
+stack
+of
+Rev'd up
+for 2.
+5
+seconds, refreshing on subsequent attacks with
+Pow-Pow
+and stacking up to 3 times. Each stack of
+Rev'd up
+grants
+bonus
+attack speed
+, with all stacks beyond the first one being 50% effective. Stacks expire by one when the duration ends.
+Bonus Attack Speed:
+15 / 27.
+5
+/ 40 / 52.
+5
+/ 65%
+Attack Speed per Subsequent Stack:
+7.
+5
+/ 13.
+75
+/ 20 / 26.
+25
+/ 32.
+5
+%
+Maximum Attack Speed:
+30 / 55 / 80 / 105 / 130%
+Fishbones:
+Basic attacks with
+Fishbones
+cost
+mana
+on-attack
+to deal
+110% AD
+modified
+physical damage
+to the target and nearby enemies. The damage is affected by
+critical strike
+modifiers. While
+Fishbones
+is equipped,
+Jinx
+gains
+bonus
+range
+but loses
+10% of her
+bonus
+attack speed
+.
+Bonus Range:
+80 / 110 / 140 / 170 / 200
+Only the first attack after switching to
+Fishbones will benefit from
+Rev'd up
+.
+Info
+Targeting input
+Auto
+Damage type
+Type
+See Notes
+Sub-type
+Physical
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Toggle abilities do not count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Jinx's
+first attack after switching to
+Fishbones
+can be triggered after 0.
+4
+seconds, instead of using the attack timer.
+Despite
+Jinx
+starting the game using
+Pow-Pow
+she doesn't receive any bonus attack speed until
+Switcheroo!
+has been learned.
+Fishbones
+splash damage affects structures (minions will target
+Jinx
+) but does not affect targets if
+Jinx's
+attacks are
+blocked
+,
+dodged
+, or
+missed
+.
+With
+Runaan's Hurricane
+Pow-Pow
+generates one stack per enemy hit.
+Each of
+Runaan's Hurricane's
+additional bolts apply
+Fishbones'
+splash damage, which stacks with each other.
+Both weapons deal
+basic damage
+to their primary target (this includes the increased damage of
+Fishbones
+), which applies
+life steal
+based on the damage dealt (post-mitigation) as usual.
+The splash damage of
+Fishbones
+is based on the pre-mitigation damage done to the primary target (which includes critical strikes), and is not considered
+modified
+physical damage
+. It deals
+default damage
+: It doesn't apply
+life steal
+or
+on-hit effects
+.
+Fishbones
+damage:
+110% AD
+(100% + 10%).
+Fishbones
+critical strike damage:
+192.
+5
+% AD
+((100% + 10%) × 1.
+75
+).
+Fishbones
+critical strike damage with
+Infinity Edge
+:
+236.
+5
+% AD
+((100% + 10%) × 2.
+15
+).
+Fishbones
+bolt
+damage:
+60.5% AD
+((100% + 10%) ×
+0.
+55
+).
+Fishbones
+bolt
+critical strike damage:
+105.
+875
+% AD
+((100% + 10%) ×
+0.
+55
+× 1.
+75
+).
+Fishbones
+bolt
+critical strike damage with
+Infinity Edge
+:
+130.
+075
+% AD
+((100% + 10%) ×
+0.
+55
+× 2.
+15
+).
+Fishbones
+potential damage on stacked enemies with
+Runaan's Hurricane
+:
+231% AD
+(110% + 60,5% + 60,5%).
+Fishbones
+potential critical strike damage on stacked enemies with
+Runaan's Hurricane
+:
+404.
+25
+% AD
+((110% + 60,5% + 60,5%) × 1.
+75
+).
+Fishbones
+potential critical strike damage on stacked enemies with
+Runaan's Hurricane
+and
+Infinity Edge
+:
+496.
+65
+% AD
+((110% + 60,5% + 60,5%) × 2.
+15
+).
+Edit
+Zap!
+COST:
+40 / 45 / 50 / 55 / 60 Mana
+COOLDOWN:
+8 / 7 / 6 / 5 / 4
+CAST TIME:
+0.
+6
+− 0.
+4
+(based on
+bonus
+attack speed)
+RANGE:
+1500
+WIDTH:
+120
+SPEED:
+3300
+Active:
+Jinx
+fires a shock bolt in the target direction that deals
+physical damage
+to the first enemy hit,
+slowing
+and
+revealing
+them for a short time.
+Active:
+Jinx
+fires a shock blast in the target direction that deals
+physical damage
+to the first enemy it hits and
+reveals
+and
+slows
+them for 2 seconds.
+Physical Damage:
+10 / 60 / 110 / 160 / 210
+(+ 140% AD)
+Slow:
+40 / 50 / 60 / 70 / 80%
+Info
+Targeting input
+Direction
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+This ability will cast from wherever the caster is at the start of the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 10 / 70 / 130 / 190 / 250.
+AD ratio changed to
+200% AD
+.
+Edit
+Flame Chompers!
+COST:
+90 Mana
+COOLDOWN:
+24 / 20.
+5
+/ 17 / 13.
+5
+/ 10
+CAST TIME:
+none
+TARGET RANGE:
+925
+COLLISION RADIUS:
+115
+EFFECT RADIUS:
+225
+Active:
+Jinx
+tosses a line of
+Chompers
+at the target location that explode after a few seconds, dealing
+magic damage
+. If an enemy champion steps on a
+Chomper
+, it will explode,
+knock them down
+, and briefly
+root
+them.
+Active:
+Jinx
+tosses out 3
+Chompers
+centered at the target location, landing after 0.
+4
+seconds, arming after 0.
+75
+seconds, and exploding after 5 seconds to deal
+magic damage
+to nearby enemies.
+Magic Damage:
+70 / 120 / 170 / 220 / 270
+(+ 100% AP)
+Each
+Chomper
+explodes on contact with an enemy
+champion
+,
+knocking them down
+and
+rooting
+them for 1.
+5
+seconds. Enemy champions can be affected by only one
+Chomper
+.
+Flame Chompers! will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+See Notes
+Chompers
+will halt when encountering
+Wind Wall
+and
+Unbreakable
+.
+Spell shield
+does not negate the explosion.
+Each
+Chomper
+gives vision of its surrounding area.
+Edit
+Super Mega Death Rocket!
+COST:
+100 Mana
+COOLDOWN:
+85 / 65 / 45
+CAST TIME:
+0.
+6
+TARGET RANGE:
+Global
+EFFECT RADIUS:
+400
+/
+1000
+/
+1000
+WIDTH:
+280
+SPEED:
+1700
+/
+2200
+Active:
+Jinx
+fires a rocket in the target direction that explodes upon the first enemy champion hit, dealing
+physical damage
+to the target and surrounding enemies. The damage is increased based on travel time and each
+target's missing health
+. Surrounding enemies take reduced damage.
+Active:
+Jinx
+fires a massive rocket in the target direction, briefly granting
+sight
+of its
+surroundings
+and exploding upon colliding with an enemy champion. The explosion deals
+physical damage
+to
+nearby
+enemies and grants
+sight
+of the
+area
+for 2 seconds.
+Super Mega Death Rocket!
+deals
+10% − 100% (based on distance traveled)
+damage. This does not affect the
+bonus
+damage based on the
+target's
+missing
+health
+.
+Maximum Physical Damage:
+325 / 475 / 625
+(+ 165%
+bonus
+AD)
+(+ 25 / 30 / 35% of target's
+missing
+health)
+Minimum Physical Damage:
+32.
+5
+/ 47.
+5
+/ 62.
+5
+(+ 16.
+5
+%
+bonus
+AD)
+(+ 25 / 30 / 35% of target's
+missing
+health)
+Enemies surrounding the primary target take 80% damage. The
+bonus
+damage based on the
+target's
+missing
+health
+is capped at 1200 against
+monsters
+.
+Maximum Secondary Damage:
+260 / 380 / 500
+(+ 132%
+bonus
+AD)
+(+ 20 / 24 / 28% of target's
+missing
+health)
+Minimum Secondary Damage:
+26 / 38 / 50
+(+ 13.
+2
+%
+bonus
+AD)
+(+ 20 / 24 / 28% of target's
+missing
+health)
+"Bye bye!"
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Spell shield
+will not prevent the explosion.
+Super Mega Death Rocket's
+projectile has an
+icon on the mini-map while it is in flight. It can be seen by only
+Jinx
+and her allies.
+The bonus damage based on missing health is based on each unit's own missing health and not the primary target's.
+Unlike similar spells,
+Super Mega Death Rocket
+will not increase it's damage when ranked up while the missile is in flight.
+(note)
+This is because the base damage is fixed at a multiple of the damage the rocket initially started with.
+The
+bonus
+AD
+ratio will still update when
+AD
+is gained or lost between the cast and hit of the missile.
+This ability will cast from wherever the caster is at the start of the cast time.
+Tips & Tricks
+The maximum damage is reached after traveling 1500 units, which is exactly equal to the range of her
+Zap!
+, or roughly 0.
+85
+seconds of travel time. The rocket changes its visual appearance and missile speed slightly earlier, after traveling 1350 units.
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 50 / 40 / 30 seconds.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Jinx (Collection)
+.
+Original
+View in 3D
+880
+09.10.2013
+A manic and impulsive criminal from Zaun, Jinx lives to wreak havoc without care for the consequences. With an arsenal of deadly weapons, she unleashes the loudest blasts and brightest explosions to leave a trail of mayhem and panic in her wake. Jinx despises boredom, and gleefully brings her own chaotic brand of pandemonium wherever she goes.
+Sarah Anne Williams
+Katie 'TeaTime' De Sousa
+Loot eligible
+Crime City
+View in 3D
+975
+09.10.2013
+Known by state police as “La Principessa,” Jinx is an unhinged hitwoman with loose ties to the Graves crime family. Sent into rival businesses as a figurative time bomb, the slightest offense will trigger one of her jubilant rampages, with body counts as high as the ceiling.
+Sarah Anne Williams
+Michelle Hoefener
+Crime City
+Loot eligible
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+Firecracker
+View in 3D
+1350
+10.02.2015
+Never one to turn down an imaginary challenge, Jinx has constructed a number of Lunar Revel weapons, including a seven foot long rocket shaped like an angry dragon. She'll tell you it's a fun firecracker for parties. It is not.
+Sarah Anne Williams
+Jason Chan
+Lunar Revel: Firecracker
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Firecracker Jinx Chromas
+Amethyst
+Aquamarine
+Citrine
+Emerald
+Golden Tiger
+Obsidian
+Pearl
+Rose Quartz
+Zombie Slayer
+View in 3D
+1350
+05.11.2015
+When a mutagenic virus turned the world into an undead purgatory, no one was more excited than Jinx. No laws, no civilization, not even a thin veneer of polite society had survived—just a numberless horde of slime-vomiting bullet sponges and all the ammo she can forage. It's paradise.
+Sarah Anne Williams
+Christian Fell
+Zombies VS Slayers
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Star Guardian
+View in 3D
+1820
+05.10.2016
+Much to the annoyance of her team, Jinx is an impulsive and sometimes cynical Star Guardian who loves a good, glittery explosion. However, when the fighting starts, Jinx will throw herself into the battle to protect others, especially her childhood friend Lux.
+Sarah Anne Williams
+Jean 'Curing' Go
+Star Guardian Season 1
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+Star Guardian Jinx Chromas
+Mythic
+Ambitious Elf
+View in 3D
+1350
+12.12.2017
+A master toy maker and inventor, Jinx believes she could one day become the greatest Santa anyone has ever seen. Other elves worry her creations could be classified as weapons... but sometimes that's the price of true ambition.
+Sarah Anne Williams
+Jem Flores
+Snowdown Showdown
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Odyssey
+View in 3D
+1350
+12.09.2018
+Adept at building and/or destroying (but mostly destroying) a variety of haphazard, highly unstable weaponry for the Morning Star crew, Jinx also serves as the ship's pilot. Her previous job as a mining explosives technician resulted in a lot of collateral damage, and a thoroughly justified dismissal.
+Sarah Anne Williams
+Esben Lash Rasmussen
+Odyssey
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Odyssey Jinx Chromas
+Aquamarine
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+PROJECT
+View in 3D
+1350
+01.08.2019
+Jinx volunteered for PROJECT conversion, never expecting that a critical power failure would scramble her memory core, leaving her a psychopath driven by the manic voices in her head. Seemingly obsessed with destruction for its own sake, she has begun to show signs of something far more sinister than mere memory fragmentation: the cold, calculating influence of Program.
+Sarah Anne Williams
+Viktor Titov, Grafit Studio
+PROJECT
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+PROJECT: Jinx Chromas
+Aquamarine
+Catseye
+Emerald
+Obsidian
+Pearl
+Reckoning
+Rose Quartz
+Ruby
+Heartseeker
+View in 3D
+1350
+04.02.2020
+Love is a battlefield, and Jinx comes prepared! Armed with her beloved companion Fishbones, she's ready to break hearts—and bones. But if she likes you enough, she's prepared to play nice. Maybe. Probably not.
+Sarah Anne Williams
+Esben Lash Rasmussen
+Heartbreakers
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Heartseeker Jinx Chromas
+Amethyst
+Aquamarine
+Catseye
+Pearl
+Rainbow
+Rose Quartz
+Ruby
+Arcane Enemy
+View in 3D
+975
+24.11.2021
+Celebrating the RiotX Arcane event.
+Sarah Anne Williams
+Bo 'chenbowow' Chen
+Arcane
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Battle Cat
+View in 3D
+1350
+31.03.2022
+Jinx is a one-cat demolitions squad, her natural destructive impulses turned toward more productive ends: fighting off the Primordians. She's not really a soldier, doesn't seem to care about humanity's cause, and doesn't follow orders -- but there's no arguing with Jinx's results.
+Sarah Anne Williams
+Felipe Martini, West Studio
+Anima Squad
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Battle Cat Jinx Chromas
+Catseye
+Emerald
+Nightwire
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Prestige Battle Cat
+View in 3D
+Special
+31.03.2022
+Unleashed and brandishing an arsenal of squid-stomping explosives strong enough to knock over a Primordian warship, Jinx has the enemy right in her claws. With this Battle Cat on the prowl? The war is as good as over.
+Sarah Anne Williams
+Augusto Quirino, West Studio
+Anima Squad
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Battle Cat
+. Store variants are discounted for multiple purchases.
+Cafe Cuties
+View in 3D
+1350
+25.10.2023
+Determined to prove that she's the best pastry chef around, Jinx uses her unique blend of chaos and technique to impress her patrons and blow away the competition! Although she specializes in savory treats, she'll occasionally indulge in a little sugary goodness from time to time. But… don't get in her way while she's in the middle of a sugar rush.
+Sarah Anne Williams
+Jiunn Kuo, Kudos Productions
+Cafe Cuties
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Cafe Cuties Jinx Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Arcane Fractured
+View in 3D
+Special
+..
+Inventor, maniac, hero—Jinx left the twin cities reeling after killing Silco and blowing up the Piltover Council. Her future had gone up in flames, and as she faced the pieces of her fractured life, Jinx did the same. Now a symbol of change, she must decide who she will become in a world shaped by her own chaos.
+Sarah Anne Williams
+Unknown artist
+Arcane
+Loot ineligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+T1
+View in 3D
+1350
+14.08.2024
+Honoring Gumayusi's winning performance as Jinx during the 2023 World Championship.
+Sarah Anne Williams
+Alsie Lau, Kelvin Law, Mo Yan
+World Champions: 2023
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+T1 Jinx Chromas
+Elite
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.23
+Stats
+Attack damage growth increased to 3.
+15
+from 2.
+9
+.
+Zap!
+AD ratio reduced to
+140% AD
+from
+160% AD
+.
+V14.18
+Stats
+Attack speed growth increased to 1.
+4
+% from 1%.
+V14.11
+Stats
+Attack damage growth reduced to 2.
+9
+from 3.
+15
+.
+V14.9
+Super Mega Death Rocket!
+Cooldown increased to 85 / 65 / 45 seconds from 70 / 55 / 40.
+V13.21
+Get Excited!
+New Effect:
+Now capped at 5 stacks.
+Removed:
+Epic monster and structure takedowns no longer grant stacks beyond the first.
+V13.20
+Stats
+Health growth increased to 105 from 100.
+Get Excited!
+New Effect:
+Bonus attack speed now stacks upon takedowns.
+Super Mega Death Rocket!
+Cooldown reduced to 70 / 55 / 40 seconds from 75 / 65 / 55.
+Minimum base damage increased to 32.
+5
+/ 47.
+5
+/ 62.
+5
+from 30 / 45 / 60.
+Maximum base damage increased to 325 / 475 / 625 from 300 / 450 / 600.
+Minimum bonus AD ratio increased to
+16.
+5
+%
+bonus
+AD
+from
+15%
+.
+Maximum bonus AD ratio increased to
+165%
+bonus
+AD
+from
+150%
+.
+V13.11
+Stats
+Attack speed growth reduced to 1% from 1.
+36
+%.
+V13.9
+Stats
+Attack damage growth reduced to 3.
+15
+from 3.
+4
+.
+V13.5
+Stats
+Attack speed growth increased to 1.
+36
+% from 1%.
+Zap!
+Slow increased to 40 / 50 / 60 / 70 / 80% from 30 / 40 / 50 / 60 / 70%.
+Mana cost reduced to 40 / 45 / 50 / 55 / 60 from 50 / 55 / 60 / 65 / 70.
+Super Mega Death Rocket!
+Damage cap against monsters increased to 1200 from 800.
+V13.1b
+Stats
+Base mana increased to 260 from 245.
+Mana growth increased to 50 from 45.
+Zap!
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 50 / 60 / 70 / 80 / 90.
+V12.19
+Stats
+Base attack damage increased to 59 from 57.
+Super Mega Death Rocket!
+Maximum base damage increased to 300 / 450 / 600 from 250 / 375 / 500.
+Minimum base damage increased to 30 / 45 / 60 from 25 / 37.
+5
+/ 50.
+V12.18
+Zap!
+Winddown time reduced to 0 seconds from 1.
+V12.14
+General
+Bug Fix:
+Knocked up/stunned animation is now correctly played.
+V12.10
+Stats
+Base health increased to 630 from 560.
+Health growth increased to 100 from 86.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V12.8
+Stats
+Base health reduced to 560 from 610.
+V12.6
+Super Mega Death Rocket!
+Bug Fix:
+Tooltip now properly displays the correct base damage.
+V12.5
+- March 9th Hotfix
+Switcheroo!
+Fishbones mana cost increased to 20 at all ranks from 16 / 17 / 18 / 19 / 20.
+Fisbones bonus attack ranged reduced to 80 / 110 / 140 / 170 / 200 from 100 / 125 / 150 / 175 / 200.
+V12.4
+PROJECT: Jinx
+General
+Bug Fix:
+Critical strike hit SFX has been restored.
+V11.22
+General
+Updated sound and visual effects.
+Basic attack added glows to machine gun missiles. New rocket trails and explosions.
+New
+Recall
+SFX.
+Zap!
+Modernized ground telegraph, missile, and hit VFX
+Flame Chompers!
+Modernized telegraph visuals.
+Super Mega Death Rocket!
+New missile and explosion. Modernized rocket animations to emphasize its movement boost.
+V11.21
+Get Excited!
+Total attack speed increased to 25% from 15%.
+Flame Chompers!
+Cast range increased to 925 from 900.
+Super Mega Death Rocket!
+Cooldown reduced to 75 / 65 / 55 seconds from 90 / 75 / 60.
+V11.18
+Switcheroo!
+Fishbones mana cost reduced to 16 / 17 / 18 / 19 / 20 from 20 at all ranks.
+V11.13
+Star Guardian Jinx
+Bug Fix:
+Individual item purchase voice lines have been restored.
+Statikk Shiv's
+purchase lines now play for buying
+Stormrazor
+.
+V11.10
+Stats
+Base armor reduced to 26 from 28.
+Super Mega Death Rocket!
+New Effect:
+Damage based on
+missing
+health
+is now capped at 1000 against
+monsters
+, reduced to 800 for AoE damage.
+V11.9
+Switcheroo!
+Bug Fix:
+Rocket splash critical strike damage reduced to 175% from 200%.
+V11.4
+Stats
+Base health increased to 610 from 550.
+V11.3
+Stats
+Base health reduced to 550 from 610.
+Switcheroo!
+Bonus attack range increased to 100 / 125 / 150 / 175 / 200 from 75 / 100 / 125 / 150 / 175.
+Fishbones attack speed reduction reduced to 10% from 25%.
+Flame Chompers!
+Mana cost increased to 90 from 70.
+Arm time reduced to 0.
+5
+seconds from 0.
+7
+.
+New Effect:
+When casting it farther than max range, it now casts to the max range instead of causing you to walk into range and then casting.
+V10.25
+Super Mega Death Rocket!
+Undocumented:
+Minimum base damage increased to 25 / 40 / 55 from 25 / 35 / 45. Maximum base damage increased to 250 / 400 / 550 from 250 / 350 / 450.
+(note)
+V10.22
+Flame Chompers!
+New Effect:
+Now deals its damage instantly instead of over 1.
+5
+seconds.
+V10.16
+Super Mega Death Rocket!
+Bug Fix:
+Damage is no longer capped at 375.
+V10.13
+Crime City Jinx
+Skin renamed to
+Crime City Jinx
+from
+Mafia Jinx
+.
+V10.11
+Stats
+Base health increased to 610 from 581.
+Health growth increased to 86 from 84.
+V10.4
+Switcheroo!
+Bug Fix:
+Now properly switches
+Pow-Pow
+if she doesn't have enough mana.
+V10.3
+PROJECT: Jinx
+Bug Fix:
+SFX are no longer louder than her other skins' SFX.
+V10.2
+Get Excited!
+New Effect:
+Now also activates on epic monster takedowns she damaged within 3 seconds.
+V9.18
+Flame Chompers!
+Bug Fix:
+Now properly prevent
+Akali
+from moving when she uses
+Perfect Execution
+through them.
+V9.16
+General
+Adjusted splash artwork for
+Zombie Slayer Jinx
+.
+Zombie Slayer Jinx
+Slayer
+Jinx renamed to
+Zombie Slayer
+Jinx.
+V9.7
+Star Guardian Jinx
+Bug Fix:
+Buffs aura now properly follow the model during certain animations.
+V9.1
+Zap!
+Cast time reduced to
+0.
+6
+− 0.
+4
+(based on
+bonus
+attack speed)
+seconds from 0.
+6
+.
+V8.17
+General
+Adjusted splash artwork for
+Zombie Slayer Jinx
+.
+V8.14
+Stats
+Base health increased to 581 from 531.
+Health growth reduced to 84 from 88.
+V8.13
+Switcheroo!
+New Effect:
+The
+10% AD
+bonus damage from
+Fishbones
+can now critically strike.
+Zap!
+AD ratio increased to
+160% AD
+from
+140% AD
+.
+V8.11
+Stats
+Base health increased to 531 from 515.
+Health growth increased to 88 from 82.
+Base armor reduced to 28 from 32.
+Base health regeneration reduced to 3.
+75
+from 6.
+Base attack damage reduced to 57 from 61.
+Attack damage growth increased to 3.
+4
+from 2.
+7
+.
+V8.3
+Stats
+Base health regeneration increased to 6 from 5.
+84
+.
+V8.2
+Stats
+Base health reduced to 515 from 517.
+76
+.
+Base mana reduced to 245 from 245.
+6
+.
+Base attack damage reduced to 61 from 66.
+Attack damage growth increased to 2.
+7
+from 2.
+41
+.
+Base mana regeneration increased to 6.
+7
+from 6.
+68
+.
+Get Excited!
+Bonus attack speed no longer stacks.
+New Effect:
+Removes the attack speed cap for 6 seconds.
+Switcheroo!
+Bonus attack speed increased to 30 / 55 / 80 / 105 / 130% from 30 / 40 / 50 / 60 / 70%.
+Removed:
+Bonus attack speed scaling with her level (
+0% − 70% (based on level)
+).
+New Effect:
+The first attack after switching from rockets to minigun comes out within 0.
+4
+seconds of swapping instead of waiting for the full attack timer.
+Rocket attack animations updated to be more dynamic.
+Ambitious Elf Jinx
+Pow-Pow
+Bug Fix:
+Now uses skin-specific SFX, as opposed to base.
+V8.1
+Ambitious Elf Jinx
+General
+Bug Fix:
+Hair no longer stretches unnaturally during several animations.
+Zap!
+Bug Fix:
+Trail no longer appears in front of the candy projectile.
+V7.23
+Flame Chompers!
+New Effect:
+Rooted enemies are now also
+knocked down
+.
+V7.22
+Stats
+Base attack damage increased to 66 from 58.
+46
+.
+Base armor increased to 32 from 22.
+88
+.
+V7.17
+Star Guardian Jinx
+Bug Fix:
+No longer play her initial spawn song during her first respawn.
+V7.15
+Switcheroo!
+Bug Fix:
+Runaan's Hurricane
+bolts now properly deal
+Fishbones's
+bonus attack damage to their primary targets.
+Zap!
+Cooldown reduced to 8 / 7 / 6 / 5 / 4 seconds from 10 / 9 / 8 / 7 / 6.
+Star Guardian Jinx
+Bug Fix:
+Weapon glow VFX now follow Shiro and Kuro during all animations.
+Bug Fix:
+Hair no longer transitions improperly during her homeguard animation.
+V7.13
+General
+Bug Fix:
+Laugh no longer cuts off at the end when she gasps for air.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.7
+Flame Chompers!
+Cooldown reduced to 24 / 20.
+5
+/ 17 / 13.
+5
+/ 10 seconds from 24 / 22 / 20 / 18 / 16.
+V6.22
+Switcheroo!
+Bug Fix:
+Can no longer queue up
+Switcheroo!
+during the cast time of
+Super Mega Death Rocket!
+. This addresses a bug that sometimes caused the rocket to appear further ahead to enemies than it was.
+Bug Fix:
+Star Guardian Jinx's
+corpse no longer gets stuck in a "T-pose" if she dies while casting
+Switcheroo!
+.
+V6.20
+Flame Chompers!
+Base damage reduced to 70 / 120 / 170 / 220 / 270 from 80 / 135 / 190 / 240 / 300.
+Mana cost increased to 70 from 50.
+New Effect:
+Enemies now only take damage from one
+Flame Chomper
+per cast, even if they're hit by multiple explosions.
+V6.17
+Super Mega Death Rocket!
+Minimum AD ratio increased to
+15% bonus AD
+from
+10% bonus AD
+.
+Maximum AD ratio increased to
+150% bonus AD
+from
+100% bonus AD
+.
+V6.10
+Fishbones
+Attack speed reduction changed to
+25%
+bonus
+attack speed
+from
+15%
+total
+attack speed
+.
+Base attack speed at level one increased to 0.
+625
+from 0.
+531
+.
+V6.1
+Get Excited!
+Bug Fix:
+Jinx getting more than one stack for destroying inhibitors.
+Bug Fix:
+Jinx receiving less attack speed than intended while using
+Fishbones
+.
+Switcheroo!
+Bug Fix:
+Jinx was able to use
+Fishbones
+for free when out of mana.
+Removed:
+Switcheroo! can no longer be activated while disabled.
+V5.24
+Switcheroo!
+Fishbones
+basic attack cast delay reduced to 0.
+28
+seconds from 0.
+32
+(to match
+Pow-Pow
+).
+New Effect:
+Runaan's Hurricane's
+Wind's Fury
+fires miniature rockets while using
+Fishbones
+Bug Fix:
+Runaan's Hurricane's
+bolts were not critically striking while using
+Fishbones
+.
+V5.22
+Stats
+Base attack damage increased to 58.
+46
+from 53.
+04
+.
+Attack damage growth reduced to 2.
+41
+from 3.
+Get Excited!
+New Effect:
+Increases
+Jinx's
+total attack speed by 15%.
+Duration increased to 6 seconds from 4.
+Switcheroo!
+New Effect:
+Fishbones
+reduces total attack speed by 15% while active.
+V5.10
+Switcheroo!
+New Effect:
+Mini-gun bonus attack speed now increases based on ability rank and Jinx's level.
+Maximum mini-gun bonus attack speed from ranks reduced to 30 / 40 / 50 / 60 / 70% from 30 / 55 / 80 / 105 / 130%.
+New Effect:
+Maximum mini-gun bonus attack speed by level increases as
+0 − 70 (based on level)
+% attack speed.
+V5.8
+Super Mega Death Rocket!
+Base minimum damage reduced to 25 / 35 / 45 from 125 / 175 / 225.
+Base AD scaling reduced to
+10% bonus AD
+from
+50% bonus AD
+.
+Damage ramp-up increased (maximum value and time needed to reach it both unchanged)
+V4.21
+Switcheroo!
+Icon display changed to current weapon from the one upon activation.
+New Effect:
+Icon flashes while toggled on (
+Fishbones
+).
+V4.13
+Get Excited!
+New Effect:
+Activates when damaging and/or destroying inhibitors.
+V4.5
+Stats
+Base armor increased to 17 from 13.
+Super Mega Death Rocket!
+Bug Fix:
+The ability will now only go on cooldown when the rocket is created. Dying during cast will no longer put the ability on cooldown.
+V4.1
+Stats
+Base health reduced to 380 from 420.
+Health per level increased to 82 from 80.
+Flame Chompers!
+Base damage reduced to 80 / 135 / 190 / 245 / 300 from 100 / 150 / 200 / 250 / 300.
+Bug Fix:
+Dashing champions will now always trigger a chomper.
+Bug Fix:
+Arm time changed to a consistent 0.
+7
+seconds from between 0.
+5
+and 0.
+74
+seconds.
+V3.13
+Pow-Pow
+Maximum bonus attack speed reduced to 30 / 55 / 80 / 105 / 130% from 50 / 70 / 90 / 110 / 130%.
+Zap!
+Base damage reduced to 10 / 60 / 110 / 160 / 210 from 30 / 75 / 120 / 165 / 210.
+Mana cost increased to 50 / 60 / 70 / 80 / 90 from 45 / 55 / 65 / 75 / 85.
+Removed:
+No longer reveals stealthed units.
+V3.12
+Added
+Trivia
+[
+edit
+|
+edit source
+]
+Jinx
+straightforwardly means "ill omen", from the Pre-Greek noun ἴυγξ
+iynx
+"
+Eurasian wryneck
+", a bird often used as a charm.
+[2]
+In-universe, Jinx's alias was given to her by
+Vi
+.
+Jinx's dance is a reference to
+Jake's
+dance
+from
+Adventure Time
+animated series, specifically since the
+Power Animal
+episode.
+A side-by-side comparison can be seen
+here
+.
+Super Mega Death Rocket!'s
+blast radius displays a
+smiley
+face upon impact.
+Get Excited!
+also displays a smiley face over Jinx upon activation.
+Jinx is the first champion whose laugh animation automatically loops.
+Jinx's hair (or scarf on
+Crime City Jinx
+) forms a heart when she dies.
+Jinx is the only champion to have all her ability names end in an exclamation mark.
+Whenever Jinx is on the opposing team,
+Vi
+and/or
+Caitlyn
+each gain the
+Catch me if you can!
+cosmetic debuff.
+On 21 August 2018, women have statistically attributed Jinx as "The most visually appealing champion in League".
+[3]
+Jinx is the third champion to have one skin for each of the three big annual events of the year -
+Lunar Revel
+,
+Harrowing
+and
+Snowdown Showdown
+. The skin that gave her this distinction was
+Ambitious Elf Jinx
+in 2017.
+The first two were
+Katarina
+and
+Nidalee
+with their
+Warring Kingdoms
+skins in 2015.
+Annie
+almost became another champion that fulfilled the criteria after
+Panda Annie
+was released in 2013. However,
+Frostfire Annie
+was not released during the
+Snowdown Showdown
+event.
+Jinx -
+Vi
+is one of seven pairs of sibling champions (the others being
+Cassiopeia
+-
+Katarina
+,
+Kayle
+-
+Morgana
+,
+Nasus
+-
+Renekton
+,
+Garen
+-
+Lux
+,
+Yasuo
+-
+Yone
+, and
+Darius
+-
+Draven
+).
+Though not a pair,
+Anivia
+,
+Ornn
+, and
+Volibear
+are also siblings.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Marksman
+Marksmen
+(formerly "Carries") excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger. Although Marksmen have the ability to stay relatively safe by kiting their foes, they are very fragile and are extremely reliant on powerful item purchases to become true damage threats.
+At present, Marksmen do not have any official subclasses. The following have been considered:
+Demolisher
+Scrapper
+Examples
+Ashe
+Ezreal
+Lucian
+Kai'Sa
+Jhin
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Bottom
+Within a
+drafted team
+, the
+Bottom Carry
+is one of the two champions assigned to the bottom lane alongside the
+Support
+. Being the most vulnerable, the
+Bottom Carry
+has to acquire as much gold as possible to purchase key items that will greatly increase their fighting potential.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Bottom Carry
+is expected to fulfill the former designation: the position is made for champions that highly depend on item-based power spikes.
+Marksmen
+are the most likely champions to be selected in the
+Bottom Carry
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Takedown
+Takedown
+refers to a
+kill
+or
+assist
+being acceptable, with the type of enemy specified in each use case.
+Takedown
+is associated with triggering a
+passive
+effect, or timed effects shortly after scoring.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Switcheroo!
+STATIC CD:
+0.
+9
+Toggle:
+Jinx
+switches between Pow-Pow, her minigun, and Fishbones, her rocket launcher.
+Pow-Pow
+:
+Basic attacks with
+Pow-Pow
+generate stacks of
+Rev'd up
+for a short time. Stacks expire one at a time.
+Fishbones
+:
+Basic attacks with
+Fishbones
+cost mana
+to deal
+increased physical damage
+to the primary target as well as surrounding enemies. While using
+Fishbones
+,
+Jinx
+gains
+bonus
+range
+but loses a portion of her
+bonus
+attack speed
+.
+Rev'd up:
+For each stack,
+Jinx
+gains
+bonus
+attack speed
+, with the first stack being twice as potent. Only the first attack after switching to
+Fishbones
+will benefit from
+Rev'd up
+.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+Removed content
+League of Legends content
+Switcheroo!
+STATIC CD:
+0.
+9
+Toggle:
+Jinx
+switches between Pow-Pow, her minigun, and Fishbones, her rocket launcher.
+Pow-Pow
+:
+Basic attacks with
+Pow-Pow
+generate stacks of
+Rev'd up
+for a short time. Stacks expire one at a time.
+Fishbones
+:
+Basic attacks with
+Fishbones
+cost mana
+to deal
+increased physical damage
+to the primary target as well as surrounding enemies. While using
+Fishbones
+,
+Jinx
+gains
+bonus
+range
+but loses a portion of her
+bonus
+attack speed
+.
+Rev'd up:
+For each stack,
+Jinx
+gains
+bonus
+attack speed
+, with the first stack being twice as potent. Only the first attack after switching to
+Fishbones
+will benefit from
+Rev'd up
+.
+League of Legends content
+Switcheroo!
+STATIC CD:
+0.
+9
+Toggle:
+Jinx
+switches between Pow-Pow, her minigun, and Fishbones, her rocket launcher.
+Pow-Pow
+:
+Basic attacks with
+Pow-Pow
+generate stacks of
+Rev'd up
+for a short time. Stacks expire one at a time.
+Fishbones
+:
+Basic attacks with
+Fishbones
+cost mana
+to deal
+increased physical damage
+to the primary target as well as surrounding enemies. While using
+Fishbones
+,
+Jinx
+gains
+bonus
+range
+but loses a portion of her
+bonus
+attack speed
+.
+Rev'd up:
+For each stack,
+Jinx
+gains
+bonus
+attack speed
+, with the first stack being twice as potent. Only the first attack after switching to
+Fishbones
+will benefit from
+Rev'd up
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Default damage
+Default damage
+is dealt by effects that are not otherwise classified, or are deliberately left unclassified. This most common source of
+default damage
+is splash damage from basic attacks.
+Default damage
+does not interact with most other effects, such as
+Conqueror
+stacking,
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of the damage's non-reactive nature (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Standard sight
+Standard sight
+reveals units through
+fog of war
+and
+brush
+, but
+not
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Knockdown
+Knockdown
+only affects units that are performing a
+dash
+or being displaced by an
+airborne
+effect. A unit that is
+knocked down
+has its
+dash
+or
+displacement
+interrupted and is placed on the ground instantly.
+Knockdown
+is not a
+status effect
+.
+Interrupts:
+Interrupts all
+dashes
+and
+airborne effects
+(displacement
+and
+status effects).
+Knock ups
+will not have their
+airborne
+status removed if there is no sourced debuff, but their displacement still ends.
+Reduction:
+The effect is instantaneous.
+There is nothing to reduce.
+Resist:
+Resisted by
+crowd control immunity
+and
+displacement immunity
+.
+Removal:
+The effect is instantaneous.
+There is nothing to remove.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Root
+A unit that is
+rooted
+is unable to control its movement or activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Rooted
+units can still be displaced.
+Root
+is an
+immobilizing
+effect
+.
+Moving
+includes movement commands.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Wind Wall
+COOLDOWN:
+25 / 23 / 21 / 19 / 17
+Active:
+Yasuo
+raises a wind wall that drifts in the target direction for a few seconds, blocking all enemy
+projectiles
+that hit it.
+League of Legends content
+Unbreakable
+COOLDOWN:
+16 / 14 / 12 / 10 / 8
+Active:
+Braum
+sets his shield in a direction for a few seconds, intercepting any enemy
+projectiles
+to hit him and be destroyed.
+He gains damage reduction and negates the first instance of damage dealt by a champion completely from this direction.
+References
+[
+edit
+|
+edit source
+]
+↑
+Jinx's profile page
+at
+LeagueOfLegends.com
+↑
+Beekes, R.S.P.
+Etymological Dictionary of Greek
+, pp. 605-606
+↑
+Riot Blaustoise Jinx data tweet

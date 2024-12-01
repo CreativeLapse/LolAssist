@@ -1,0 +1,2877 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Corki
+the Daring Bombardier
+Release date
+2009-09-19
+Last changed
+V14.22
+Class(es)
+Marksman
+Legacy
+Marksman
+Mage
+Position(s)
+Middle
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Corki
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Corki
+Base statistics
+Edit
+Health
+610
++100
+Mana
+350
++40
+Health regen. (per 5s)
+5.5
++0.55
+Mana regen. (per 5s)
+7.4
++0.7
+Armor
+30
++4.5
+Attack damage
+52
++2
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+325
+Attack range
+550
+Attack speed
+Base AS
+0.644
+Attack windup
+27%
+AS ratio
+N/A
+Bonus AS
++2.8
+%
+Missile speed
+2000
+Unit radius
+Gameplay radius
+65
+Selection radius
+135
+Pathing radius
+35
+Acq. radius
+550
+Special statistics
+Damage Dealt
++0%
+Damage Received
+-10%
+Ability Haste
++20
+Damage Dealt
++5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Hextech Munitions
+Innate:
+Corki's
+basic attacks deal
+bonus
+true damage
+.
+Innate:
+Corki's
+basic attacks
+deal
+bonus
+true damage
+equal to
+20% AD
+. This damage is affected by
+critical strike
+modifiers.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Basic damage
+Sub-type
+Physical
+/
+True
+Counters
+Parries
+Blocked
+The mixed damage is dealt in two simultaneous instances of damage, but will pretend to be a single instance for most effects (such as
+Conqueror's
+stacks).
+The
+true damage
+is dealt in an instance before the
+physical damage
+.
+Both instances deal
+basic damage
+and thus natively apply
+life steal
+.
+The attack applies
+on-hit
+effects only once, right at the start.
+Even if the target dies from the
+true damage
+, the
+physical damage
+will still be applied to it.
+If the target dies from
+on-hit
+damage, the true damage portion will be skipped and only the physical damage applied.
+(bug)
+Runaan's Hurricane's
+Wind's Fury
+and
+Spellblade
+effects have both been special cased to benefit from
+Hextech Munitions
+, causing their damage dealt to deal
+bonus
+true damage
+equal to 20% of the
+pre-mitigation damage
+dealt.
+Edit
+Phosphorus Bomb
+COST:
+60 / 65 / 70 / 75 / 80 mana
+COOLDOWN:
+9 / 8.
+5
+/ 8 / 7.
+5
+/ 7
+CAST TIME:
+0.
+25
+TARGET RANGE:
+825
+EFFECT RADIUS:
+275
+SPEED:
+1100
+Active:
+Corki
+fires a flash bomb at the target location, dealing
+magic damage
+to enemies hit and
+revealing
+enemy
+champions
+hit.
+Active:
+Corki
+launches a bomb at the target location that explodes upon impact, dealing
+magic damage
+to enemies hit.
+Magic Damage:
+70 / 120 / 170 / 220 / 270
+(+ 120%
+bonus
+AD)
+(+ 100% AP)
+The bomb also grants
+sight
+of the area for 6 seconds and
+reveals
+enemy
+champions
+hit for the same duration.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+The missile has a minimum travel time of 0.
+227
+seconds.
+Video
+Edit
+Valkyrie
+COST:
+80 / 85 / 90 / 95 / 100 mana
+COOLDOWN:
+20 / 18 / 16 / 14 / 12
+CAST TIME:
+none
+TARGET RANGE:
+300
+/
+600
+COLLISION RADIUS:
+100
+EFFECT RADIUS:
+200
+SPEED:
+650 +
+100% movement speed
+Active:
+Corki
+flies
+a short distance to the target location, dropping bombs that create a trail of fire that deals
+magic damage
+continually to enemies within.
+Active:
+Corki
+dashes
+to the target location and drops bombs that leave up to 3 blazing patches along his path, depending on the distance traveled. Each patch lasts 2.
+5
+seconds.
+Enemies within the patches are dealt
+magic damage
+every 0.
+5
+seconds, lingering for 1 second.
+Magic Damage Per Tick:
+40 / 55 / 70 / 85 / 100
+(+ 40%
+bonus
+AD)
+(+ 30% AP)
+Total Magic Damage:
+200 / 275 / 350 / 425 / 500
+(+ 200%
+bonus
+AD)
+(+ 150% AP)
+Gatling Gun
+can be cast during the dash. Valkyrie will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+AOE DOT damage
+Sub-type
+Magic
+Counters
+Spell shield
+Not Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+No additional information.
+Map-Specific Differences
+Arena
+differences
+edit
+Total AP ratio changed to
+180% AP
+.
+Cooldown changed to 16 / 15 / 14 / 13 / 12 seconds.
+Video
+Edit
+Gatling Gun
+COST:
+50 / 55 / 60 / 65 / 70 mana
+COOLDOWN
+:
+12
+CAST TIME:
+none
+EFFECT RADIUS:
+690
+ANGLE:
+35°
+Active:
+Corki's
+gatling gun rapidly fires in a cone in front of him, continually dealing
+physical
+damage to enemies hit and applying stacks of
+Gatling Gun
+.
+Gatling Gun:
+For each stack, the target loses
+armor
+and
+magic resist
+.
+Active:
+Corki
+sprays bullets in a cone toward his facing direction for 4 seconds, dealing
+physical damage
+every 0.
+25
+seconds to all enemies hit and applying a
+stack
+to them at the same tick rate for 2 seconds, refreshing with subsequent hits and stacking up to 4 times. Each stack reduces the target's
+armor
+and
+magic resistance
+.
+Physical Damage Per Tick:
+6.
+25
+/ 9.
+375
+/ 12.
+5
+/ 15.
+625
+/ 18.
+75
+(+ 15.
+625
+%
+bonus
+AD)
+Total Physical Damage:
+100 / 150 / 200 / 250 / 300
+(+ 250%
+bonus
+AD)
+Resistances Reduction Per Stack:
+3 / 3.
+5
+/ 4 / 4.
+5
+/ 5
+Total Resistances Reduction:
+12 / 14 / 16 / 18 / 20
+Info
+Targeting input
+Auto
+Damage type
+Type
+AOE DOT damage
+Sub-type
+Physical
+Counters
+Spell shield
+Not Blocked
+Projectile
+Not Blocked
+The maximum resistances reduction is applied after 4 ticks (1 second).
+The direction of the gun firing changes depending on where
+Corki
+is facing.
+Corki
+will turn to face in the direction of the cursor upon casting
+Gatling Gun
+.
+Gatling Gun's
+area of effect can hit close by enemies next to and behind him, due to hitting
+enemy boundary edge
+.
+Video
+Edit
+Missile Barrage
+COST:
+35 mana + 1 Ammo
+COOLDOWN:
+2
+CAST TIME:
+0.
+175
+RECHARGE:
+20
+TARGET RANGE:
+1300
+/
+1500
+EFFECT RADIUS:
+150
+/
+300
+WIDTH:
+80
+SPEED:
+2000
+Active:
+Corki
+fires a missile in the target direction that explodes upon the first enemy hit, dealing
+physical damage
+to enemies in an area.
+Corki
+stores missiles over time, and starts with maximum missiles when he respawns. Every 3rd missile fired is a
+Big One
+: which fires farther and deals increased damage in a bigger explosion.
+Passive:
+Basic attacks
+on-hit
+against champions reduce
+Missile Barrage's
+remaining recharge time by
+2 − 4 (based on critical strike chance)
+seconds.
+Active:
+Corki
+fires a missile in the target direction that explodes upon the first enemy hit, dealing
+physical damage
+to enemies within the area.
+Physical Damage:
+90 / 170 / 250
+(+ 80%
+bonus
+AD)
+Corki
+periodically
+stocks
+a
+Missile Barrage
+charge, up to a maximum of 4. He gains 2 charges upon learning the ability and maximum charges upon
+respawning
+.
+Every third missile
+Corki
+fires is a
+Big One
+, dealing 100% increased damage as well as gaining increased range and explosion radius.
+Big One Physical Damage:
+180 / 340 / 500
+(+ 160%
+bonus
+AD)
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Once
+Corki
+has learned the ability:
+He receives a
+buff
+that counts a cycle of the number of times
+Missile Barrage
+has been used since the last
+Big One
+.
+An indicator becomes visible below his
+health bar
+that tracks the number of missiles in reserve and whether a
+Big One
+is available. They are spent from
+left to right
+.
+Corki
+retains progress towards a
+Big One
+when he
+dies
+.
+This ability will cast from wherever the caster is at the start of the cast time.
+Missile Barrage's
+effect radius is centered around the location of the missile as it collides.
+Malignance's
+damage from
+Missile Barrage
+does not count toward
+Eclipse's
+passive.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 100 / 200 / 300.
+Video
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Corki (Collection)
+.
+Original
+View in 3D
+790
+18.09.2009
+The yordle pilot Corki loves two things above all others: flying, and his glamorous mustache… though not necessarily in that order. After leaving Bandle City, he settled in Piltover and fell in love with the wondrous machines he found there. He dedicated himself to the development of flying contraptions, leading an aerial defense force of seasoned veterans known as the Screaming Yipsnakes. Calm under fire, Corki patrols the skies around his adopted home, and has never encountered a problem that a good missile barrage couldn’t solve.
+'Ralph'
+Unknown artist
+Loot eligible
+UFO
+View in 3D
+Special
+01.01.2010
+Everyone said this model wouldn't fly, but Corki's never let himself be discouraged by others being reasonable.
+'Ralph'
+Unknown artist
+Invaders
+Loot ineligible
+Ice Toboggan
+View in 3D
+1820
+12.02.2010
+Having broken the land-speed record in most other vehicular sports, Corki has turned his attention to the ice luge—a momentum-based activity that doesn't require a state-of-the-art flying sled with a forward-mounted machine gun. He brought one anyway.
+'Ralph'
+Unknown artist
+Winter Sports
+Loot eligible
+Legacy
+Red Baron
+View in 3D
+1820
+24.03.2010
+'Ralph'
+Unknown artist
+Legacy
+Loot eligible
+Legacy
+Hot Rod
+View in 3D
+520
+27.07.2010
+Your plane's sheeting was busted, so we replaced it with a bullet-resistant alloy, and four-cylinder external mounted coal engine. Plus we painted flames on the front. No extra charge.
+'Ralph'
+Unknown artist
+Piltover Customs
+Loot eligible
+Legacy
+Urfrider
+View in 3D
+975
+04.04.2011
+Defying all laws of physics, Corki rides Urf the Manatee into battle. With gatling guns ablazing, they charge headlong into the war against Urfwick and all other enemies who may threaten the existence of the peaceful and benevolent Urfs.
+'Ralph'
+Unknown artist
+Urf the Manatee
+Loot eligible
+Dragonwing
+View in 3D
+975
+08.02.2013
+Corki's pit crew made sure to outfit him with a special ship for Lunar Revel, emblazoned with the visage of a dragon to scare off evil spirits. It has been further modified to spray bullets and fire explosives… presumably also to scare off evil spirits.
+'Ralph'
+Concept Art House
+Lunar Revel: Firecracker
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dragonwing Corki Chromas
+Golden
+Meteorite
+Fnatic
+View in 3D
+750
+24.09.2014
+Honoring LaMiaZeaLoT's winning performance as Corki during the 2011 World Championship.
+'Ralph'
+Unknown artist
+World Champions: 2011
+Loot eligible
+Legacy
+Arcade
+View in 3D
+1350
+24.08.2016
+The fearless protagonist of a 1980s top-down shooter, Corki resists Veigar's battle bosses the same way he resists being shot down by thousands of glowing bullets—move fast, and shoot everything before it shoots him.
+'Ralph'
+Unknown artist
+Arcade: Heroes
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Arcade Corki Chromas
+Catseye
+Citrine
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Corgi
+View in 3D
+1350
+27.03.2019
+A dog trainer with some impractical ideas about canine aerodynamics, Corki has entered the world's foremost pet show with a flight-enabled Pembroke Welsh Corgi. Why has he done this? What does he hope to gain? Is he really a Yordle, or just a very small man? These are all important questions.
+'Ralph'
+Horace 'Hozure' Hsu
+Cats Versus Dogs
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Corgi Corki Chromas
+Amethyst
+Aquamarine
+Obsidian
+Pearl
+Rainbow
+Rose Quartz
+Ruby
+Astronaut
+View in 3D
+1350
+01.07.2021
+Commander Corki is both a veteran of the space program and its fearless leader. After traveling to a new and undiscovered planet with his intrepid crew, he befriended a stray alien meep that became his assistant and ally in exploring the galaxy. Together they fly, holding off the encroaching invasion of evil purple meeps that threaten the cosmos.
+'Ralph'
+Sora Kim, West Studio
+Astronauts
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Astronaut Corki Chromas
+Catseye
+Citrine
+Emerald
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.22
+Stats
+Attack damage growth reduced to 2 from 2.
+5
+.
+Mana growth reduced to 40 from 54.
+V14.21
+Hextech Munitions
+AD ratio increased to
+20% AD
+from
+15% AD
+.
+Valkyrie
+Base damage per tick increased to 40 / 55 / 70 / 85 / 100 from 30 / 45 / 60 / 75 / 90.
+Total base damage increased to 200 / 275 / 350 / 425 / 500 from 150 / 225 / 300 / 375 / 450.
+Bonus AD ratio per tick increased to
+40%
+bonus
+AD
+from
+30%
+.
+Total bonus AD ratio increased to
+200%
+bonus
+AD
+from
+150%
+.
+Missile Barrage
+Base damage increased to 90 / 170 / 250 from 80 / 160 / 240.
+Big One base damage increased to 180 / 340 / 500 from 160 / 320 / 480.
+Bonus AD ratio increased to
+80%
+bonus
+AD
+from
+70%
+.
+Big One bonus AD ratio increased to
+160%
+bonus
+AD
+from
+140%
+.
+V14.20
+Phosphorus Bomb
+Mana cost reduced to 60 / 65 / 70 / 75 / 80 from 80 at all ranks.
+Valkyrie
+New Effect:
+Now scales with
+150%
+bonus
+AD
+.
+Gatling Gun
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 50 / 60 / 70 / 80 / 90.
+V14.19
+- September 26th Hotfix
+Phosphorus Bomb
+Base damage increased to 70 / 120 / 170 / 220 / 270 from 70 / 115 / 160 / 205 / 250.
+Gatling Gun
+Base damage per tick increased to 6.
+25
+/ 9.
+38
+/ 12.
+5
+/ 15.
+63
+/ 18.
+75
+from 6.
+25
+/ 9.
+0625
+/ 11.
+875
+/ 14.
+6875
+/ 17.
+5
+.
+Total base damage increased to 100 / 150 / 200 / 250 / 300 from 100 / 145 / 190 / 235 / 280.
+V14.18
+Phosphorus Bomb
+Base damage reduced to 70 / 115 / 160 / 205 / 250 from 70 / 120 / 170 / 220 / 270.
+Missile Barrage
+Base damage reduced to 80 / 160 / 240 from 80 / 180 / 280.
+Bonus AD ratio reduced to
+70%
+bonus
+AD
+from
+80%
+.
+V14.16
+Phosphorus Bomb
+Cooldown increased to 9 / 8.
+5
+/ 8 / 7.
+5
+/ 7 seconds from 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6.
+Mana cost increased to 80 at all ranks from 60 / 65 / 70 / 75 / 80.
+V14.14
+Stats
+Base health reduced to 610 from 640.
+V14.12
+Stats
+Base attack damage reduced to 52 from 55.
+Attack speed growth increased to 2.
+8
+% from 2.
+3
+%.
+Phosphorus Bomb
+Base damage increased to 70 / 120 / 170 / 220 / 270 from 50 / 100 / 150 / 200 / 250.
+AP ratio increased to
+100% AP
+from
+70% AP
+.
+Cooldown reduced to 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6 seconds from 9 / 8.
+5
+/ 8 / 7.
+5
+/ 7.
+Gatling Gun
+Mana cost increased to 50 / 60 / 70 / 80 / 90 from 50 / 55 / 60 / 65 / 70.
+Base damage per tick reduced to 6.
+25
+/ 9.
+0625
+/ 11.
+875
+/ 14.
+6875
+/ 17.
+5
+from 6.
+25
+/ 9.
+375
+/ 12.
+5
+/ 15.
+625
+/ 18.
+75
+.
+Total damage reduced to 100 / 145 / 190 / 235 / 280 from 100 / 150 / 200 / 250 / 300.
+Resistance reduction per stack reduced to 3 / 3.
+5
+/ 4 / 4.
+5
+/ 5 from 3 / 3.
+75
+/ 4.
+5
+/ 5.
+25
+/ 6.
+Total resistances reduction reduced to 12 / 14 / 16 / 18 / 20 from 12 / 15 / 18 / 21 / 24.
+V14.11
+Missile Barrage
+Bug Fix:
+After leveling up, the visual ammo count no longer desyncs from his actual ammo count.
+Bug Fix:
+Upon learning the ability, the visual ammo count now properly displays the ammo
+Corki
+receives (two rockets).
+V14.10
+- May 16th Hotfix
+Phosphorus Bomb
+Base damage increased to 70 / 115 / 160 / 205 / 250 from 70 / 110 / 150 / 190 / 230.
+Gatling Gun
+Bonus AD ratio per tick increased to
+15.
+625
+%
+bonus
+AD
+from
+12.
+5
+%
+bonus
+AD
+.
+Maximum bonus AD ratio increased to
+250%
+bonus
+AD
+from
+200%
+bonus
+AD
+.
+Missile Barrage
+Bonus AD ratio increased to
+80%
+bonus
+AD
+from
+70%
+bonus
+AD
+.
+Big One bonus AD ratio increased to
+160%
+bonus
+AD
+from
+140%
+bonus
+AD
+.
+V14.10
+- Gameplay Update
+Stats
+Base health reduced to 610 from 640.
+Health growth reduced to 100 from 103.
+Mana regeneration growth increased to 0.
+7
+from 0.
+55
+Base attack damage reduced to 55 from 61.
+Base attack speed increased to 0.
+644
+from 0.
+638
+.
+Attack speed ratio increased to 0.
+644
+from 0.
+638
+.
+Attack windup increased to 11.
+6
+% from 10%.
+Base armor increased to 30 from 28.
+Armor growth reduced to 4.
+5
+from 4.
+7
+.
+Acquisition radius increased to 550 units from 500.
+General
+Basic attacks re-timed to launch the attack at a more appropriate frame of his attack animation. Basic attacks come out slightly more slowly.
+Hextech Munitions
+Removed:
+Corki's
+basic attacks are no longer modified to deal
+80% AD
+magic damage
+and
+20% AD
+physical damage
+.
+New Effect:
+Corki's
+basic attacks and
+Spellblade
+effects now deal
+15%
+bonus
+true damage
+.
+The Package
+- Removed Innate
+Removed:
+After
+10:00
+,
+The Package
+is delivered to both corners of the allied fountain, which can be selected by
+Corki
+to pick up after channeling for 1 second. Upon completion of the channel,
+Corki
+gains one cast of
+Special Delivery
+for 45 seconds, replacing
+Valkyrie
+for the duration. While holding the
+The Package
+,
+Corki
+gains
+40%
+bonus
+movement speed
+out of combat and ghosting.
+Corki
+cannot start the channel to pick up The Package while he is unable to cast abilities.
+Removed Ability -
+Special Delivery
+:
+Active:
+Corki
+dashes with displacement immunity to the target location, knocking aside all enemies in his path 500 units and leaving behind a trail of fire for 5 seconds, which grants sight of the area for its duration and for 3 seconds afterwards. Casting
+Special Delivery
+instantly resets
+Valkyrie's
+cooldown.
+Enemies hit by
+Corki's
+dash or within the trail are burned and slowed by 90% for 2 seconds, refreshing every 0.
+25
+seconds while inside the area. The burn deals
+7.
+5
+− 25 (based on level)
+(+ 50%
+bonus
+AD)
+(+ 6% AP)
+magic damage
+every 0.
+25
+seconds.
+Phosphorus Bomb
+Cooldown changed to 9 / 8.
+5
+/ 8 / 7.
+5
+/ 7 seconds from 8 at all ranks.
+Mana cost reduced to 60 / 65 / 70 / 75 / 80 from 60 / 70 / 80 / 90 / 100.
+Missile speed increased to 1100 from 1000.
+Minimum travel time reduced to 0.
+227
+seconds from 0.
+25
+.
+Base damage reduced to 70 / 110 / 150 / 190 / 230 from 75 / 120 / 165 / 210 / 255.
+Bonus AD ratio increased to
+120%
+bonus
+AD
+from
+70%
+.
+AP ratio increased to
+70% AP
+from
+50% AP
+.
+Valkyrie
+Mana cost increased to 80 / 85 / 90 / 95 / 100 from 80 at all ranks.
+Tick rate changed to 0.
+5
+seconds from 0.
+25
+.
+Removed:
+Enemies can no longer take damage from multiple zones.
+New Effect:
+Now has a minimum dash range of 300.
+New Effect:
+Damage over time now lingers for 1 second after the target leaves the zone.
+Particle effects have been scaled up to match the damage radius.
+Damage particles have been made less spammy.
+Gatling Gun
+Cooldown reduced to 12 seconds from 16.
+Mana cost increased to 50 / 55 / 60 / 65 / 70 from 50 at all ranks.
+Damage type changed to physical from 50% physical and 50% magic.
+Base damage per tick reduced to 6.
+25
+/ 9.
+375
+/ 12.
+5
+/ 15.
+625
+/ 18.
+75
+from 7.
+5
+/ 10.
+625
+/ 13.
+75
+/ 16.
+875
+/ 20.
+Maximum base damage reduced to 100 / 150 / 200 / 250 / 300 from 120 / 170 / 220 / 270 / 320.
+Bonus AD ratio per tick reduced to
+12.
+5
+%
+bonus
+AD
+from
+15%
+.
+Maximum bonus AD ratio reduced to
+200%
+bonus
+AD
+from
+240%
+bonus
+AD
+.
+Maximum number of stacks reduced to 4 from 8.
+Resistance reduction per stack increased to 3 / 3.
+75
+/ 4.
+5
+/ 5.
+25
+/ 6 from 1 / 1.
+375
+/ 1.
+75
+/ 2.
+125
+/ 2.
+5
+.
+Maximum resistance reduction increased to 12 / 15 / 18 / 21 / 24 from 8 / 11 / 14 / 17 / 20.
+Missile Barrage
+Recharge timer increased to 20 seconds at all ranks from 12 / 11 / 10.
+Mana cost increased to 35 from 20.
+Maximum ammo reduced to 4 from 7.
+Damage type changed to physical from magic.
+Stock upon learning the ability increased to 2 from 1.
+New Effect:
+Basic attacks on-hit against champions refund
+2 − 4 (based on critical strike chance)
+seconds of recharge time.
+Base damage increased to 80 / 180 / 280 from 80 / 115 / 150.
+Big One base damage increased to 160 / 360 / 560 from 160 / 230 / 300.
+AD ratio changed to
+70%
+bonus
+AD
+from
+25 / 50 / 75%
+total
+AD
+.
+Big One AD ratio changed to
+140%
+bonus
+AD
+from
+50 / 100 / 150%
+total
+AD
+.
+Removed:
+No longer scales with
+12% AP
+, increased to
+24% AP
+for the Big One.
+V14.3
+Valkyrie
+Cooldown reduced to 20 / 18 / 16 / 14 / 12 seconds from 20 / 19 / 18 / 17 / 16.
+Mana cost reduced to 80 from 100.
+AP ratio per second increased to
+60% AP
+from
+40% AP
+.
+Special Delivery
+Package duration reduced to 45 seconds from 60.
+V14.1
+- January 12th Hotfix
+Stats
+Base attack damage increased to 61 from 59.
+Missile Barrage
+AD ratio increased to
+25 / 50 / 75% AD
+from
+15 / 45 / 75% AD
+.
+Big One AD ratio increased to
+50 / 100 / 150% AD
+from
+30 / 90 / 150% AD
+.
+V13.24
+- December 12th Hotfix
+Stats
+Base health increased to 610 from 588.
+Health growth reduced to 103 from 105.
+Base attack damage increased to 59 from 55.
+Attack damage growth reduced to 2.
+5
+from 2.
+8
+.
+V13.23
+General
+Now replaces
+Aftershock
+with
+Grasp of the Undying
+.
+Now replaces
+Glacial Augment
+with
+First Strike
+.
+Now replaces
+Font of Life
+with
+Demolish
+.
+V12.22
+Stats
+Base mana regeneration reduced to 7.
+4
+from 7.
+42
+.
+V12.21
+Stats
+Attack damage growth increased to 2.
+8
+from 2.
+5
+.
+Health growth increased to 105 from 101.
+V12.13
+Gatling Gun
+Bonus AD ratio per tick increased to
+15%
+bonus
+AD
+from
+10%
+.
+Total bonus AD ratio increased to
+240%
+bonus
+AD
+from
+160%
+.
+Missile Barrage
+Base damage reduced to 80 / 115 / 150 from 90 / 125 / 160.
+Big One base damage reduced to 160 / 230 / 300 from 180 / 250 / 320.
+AP ratio reduced to
+12% AP
+from
+20% AP
+.
+Big One AP ratio reduced to
+24% AP
+from
+40% AP
+.
+V12.10
+Stats
+Base health increased to 588 from 518.
+Health growth increased to 101 from 87.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V12.3
+Hextech Munitions
+Package spawn time increased to 10:00 from 8:00.
+Package respawn timer increased to 300 seconds from 240.
+V11.8
+Gatling Gun
+Bug Fix:
+Corrected the tooltip to properly match its actual values.
+V10.23
+Stats
+Base mana reduced to 350 from 350.
+16
+.
+Mana growth increased to 54 from 34.
+V10.21
+Phosphorus Bomb
+Bonus AD ratio increased to
+70%
+bonus
+AD
+from
+50%
+.
+V10.7
+Special Delivery
+Minimum DoT duration increased to 2 seconds from 1.
+5
+.
+V10.3
+Special Delivery
+AD ratio increased to
+50%
+bonus
+AD
+from
+37.
+5
+%
+.
+AP ratio increased to
+6% AP
+from
+5%
+.
+Minimum DoT duration increased to 1.
+5
+seconds from 1.
+New Effect:
+Now
+slows
+champions that are directly hit and
+knocked aside
+for 1.
+5
+seconds.
+V10.1
+Missile Barrage
+Base damage increased to 90 / 125 / 160 from 90 / 115 / 140.
+V9.16
+Stats
+Base attack damage reduced to 55 from 60.
+Attack damage growth reduced to 2.
+5
+from 3.
+V9.14
+- July 22nd Hotfix
+Hextech Munitions
+Bug Fix:
+Now properly converts
+Sheen's
+entire bonus damage to magic damage.
+V9.14
+Hextech Munitions
+Bug Fix:
+The Package no longer spawns only in
+Mordekaiser's
+Realm of Death
+if
+Corki
+was banished there at the time of its spawn.
+Undocumented:
+Sheen's
+bonus damage is no longer split evenly between physical and magic damage. Now only deals physical damage.
+V9.13
+Hextech Munitions
+ARAM first package spawn time reduced to 5:00 from 8:00.
+ARAM package cooldown reduced to 150 seconds from 240.
+Missile Barrage
+Left missile is now always the next to fire, with new charges loading in from the right.
+V9.1
+Gatling Gun
+New Effect:
+Ability icon HUD now shows the remaining duration of the ability.
+V8.24b
+Missile Barrage
+Base damage increased to 90 / 115 / 140 from 75 / 100 / 125.
+V8.14
+Gatling Gun
+Total base damage increased to 120 / 170 / 220 / 270 / 320 from 80 / 140 / 200 / 260 / 320.
+Total resistance reduction increased to 8 / 11 / 14 / 17 / 20 from 4 / 8 / 12 / 16 / 20.
+V8.12
+General
+Bug Fix:
+Bolts from
+Runaan's Hurricane
+are now properly converted to partial true damage against champions when they critically strike while he has
+Infinity Edge
+, and no longer partially convert to true damage against non-champions.
+V8.6
+Fnatic Corki
+The Package
+Bug Fix:
+VFX are no longer misplaced when picked up.
+V8.3
+Stats
+Base health regeneration increased to 5.
+5
+from 5.
+424
+.
+V7.24b
+Stats
+Base attack damage reduced to 60 from 63.
+Attack damage growth reduced to 3 from 3.
+5
+.
+Phosphorus Bomb
+Base damage reduced to 75 / 115 / 155 / 195 / 235 from 75 / 120 / 165 / 210 / 255.
+V7.24
+Hextech Munitions
+Bug Fix:
+Fixed a bug where the additional damage to minions is also being factored into
+Hextech Munitions
+.
+V7.22
+Stats
+Base health increased to 518 from 512.
+76
+.
+Health growth increased to 87 from 82.
+Base attack damage increased to 63 from 55.
+Base armor increased to 28 from 23.
+38
+.
+Phosphorus Bomb
+Base damage increased to 75 / 120 / 165 / 210 / 255 from 70 / 115 / 160 / 205 / 250.
+V7.16
+Stats
+Base attack damage reduced to 55 from 58.
+Arcade Corki
+Gatling Gun
+Bug Fix:
+Visuals no longer shoot sideways when under the effect of
+Lulu's
+Whimsy
+.
+V7.12
+Stats
+Base attack speed increased to 0.
+638
+from 0.
+625
+.
+Base attack damage increased to 58 from 56.
+Hextech Munitions
+Basic attacks now deal 80% magic damage and 20% physical damage from 50% on both types.
+Valkyrie
+New Effect:
+Phosphorus Bomb
+and
+Missile Barrage
+can now be buffered during
+Valkyrie's
+travel time.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.6
+Arcade Corki
+Gatling Gun
+Bug Fix:
+VFX have been toned down to be less overwhelming.
+Missile Barrage
+Bug Fix:
+VFX have been updated to be more recognizable.
+V7.4
+General
+Adjusted splash artwork for
+Original Corki
+,
+Ice Toboggan Corki
+,
+Red Baron Corki
+,
+Hot Rod Corki
+,
+Urfrider Corki
+,
+Dragonwing Corki
+and
+Fnatic Corki
+.
+Arcade Corki
+Bug Fix:
+Fixed a bug where his model didn't immediately reappear after his recall animation.
+Missile Barrage
+Base damage reduced to 75 / 100 / 125 from 100 / 130 / 160.
+AD ratio reduced to
+15 / 45 / 75% AD
+from
+20 / 60 / 100% AD
+.
+AP ratio reduced to
+20% AP
+from
+30% AP
+.
+Big One
+bonus damage increased to 100% from 50%.
+Big One
+base damage increased 150 / 200 / 250 from 150 / 195 / 240.
+Big One
+AD ratio unchanged to
+30 / 90 / 150% AD
+.
+Big One
+AP ratio reduced to
+40% AP
+from
+45% AP
+.
+New Effect:
+The number of missiles
+Corki
+has stored is now shown in his secondary resource bar. The resource bar turns red when the next missile is a
+Big One
+.
+V6.19
+Stats
+Attack damage growth increased to 3.
+5
+from 2.
+5
+.
+V6.17
+Hextech Munitions
+Attacking wards no longer removes the
+Package's
+out of combat movement speed.
+V6.15
+Hextech Munitions
+Package cooldown reduced to 240 seconds from 300.
+V6.12
+Valkyrie
+Cooldown changed to 20 / 19 / 18 / 17 / 16 seconds from 26 / 23 / 20 / 17 / 14.
+Gatling Gun
+Base damage increased to 80 / 140 / 200 / 260 / 320 from 80 / 128 / 176 / 224 / 312.
+Damage ticks per second increased to 4 from 2.
+Stacking resistance reduction cap unchanged
+.
+V6.11
+Missile Barrage
+AD ratio increased to
+20 / 60 / 100% AD
+from
+20 / 50 / 80% AD
+.
+V6.7
+General
+New splash artwork for
+UFO Corki
+.
+Splash artwork for
+Red Baron Corki
+updated to the Chinese art.
+V6.7
+Hextech Munitions
+Removed:
+10% increased damage.
+V6.3
+Phosphorus Bomb
+Base damage reduced to 70 / 115 / 160 / 205 / 250 from 80 / 130 / 180 / 230 / 280.
+Missile Barrage
+Charge time increased to 12 / 11 / 10 seconds from 12 / 10 / 8.
+V5.23
+General
+Special Delivery
+Sound effects adjusted.
+V5.22
+General
+New ability icons.
+Stats
+Attack damage increased to 56 from 51.
+24
+.
+Attack damage growth reduced to 2.
+5
+from 3.
+Mana increased to 280 from 231.
+8
+.
+Mana growth reduced to 34 from 37.
+Hextech Munitions
+-
+New Innate
+Hextech Shrapnel Shells:
+Corki's basic attacks deal 110% of his attack damage evenly split between physical and magic damage.
+Life steal
+will apply to both damage types.
+The 55-55 modifiers interact with critical strikes and
+Runaan's Hurricane
+'s
+Wind's Fury
+while other 'bonus damage' effects are applied as normal.
+The Package:
+After an initial 8 minutes, The Package is delivered to Corki's Fountain, which he can interact with to pick up (~1 second channel time).
+Collecting The Package grants Corki 40% out-of-combat movement speed and the ability to cast
+Special Delivery
+within 60 seconds.
+A new Package will be delivery 300 seconds after
+Special Delivery
+is used.
+Valkyrie
+-
+Normal W
+Range reduced to 600 from 800.
+Special Delivery
+-
+Enhanced W
+Active:
+Corki flies up to 1800 units forward in a line, dropping bombs that knock enemies ~500 units aside and leaving a ~200-units-wide trail of fire in his wake that lingers for 5 seconds. The trail slows enemies by 90% while dealing 30 - 100 (based on level)
+(+150% Bonus AD)
+(+ 20% AP)
+magic damage per second.
+Valkyrie
+is instantly ready to cast after Special Delivery is used.
+Dash speed: 1500.
+Gatling Gun
+Base damage increased to 20 / 32 / 44 / 56 / 78 from 20 / 32 / 44 / 56 / 68.
+AD ratio increased to
+(+ 40% AD)
+from
+(+ 20% AD)
+.
+Damage type changed to half physical and half magic from all physical.
+New Effect:
+Reduces enemy's magic resistance.
+Armor and magic resistance shred reduced to 1 / 2 / 3 / 4 / 5 from 2 / 4 / 6 / 8 / 10.
+Missile Barrage
+Base damage reduced to 100 / 130 / 160 from 100 / 180 / 260.
+AD ratio increased to
+(+ 20 / 50 / 80% AD)
+from
+(+ 20 / 30 / 40% AD)
+.
+AP ratio increased to
+(+ 30% AP)
+from
+(+ 20% AP)
+.
+V5.18
+Valkyrie
+Fixed a bug where it was dealing damage too frequently.
+V5.1
+Valkyrie
+Mana cost increased to 100 from 50.
+V4.21
+Phosphorus Bomb
+Bomb speed reduced to 1000 from 1125.
+V4.17
+General
+Texture update to Classic, Hot Rod, Ice Toboggan, Red Baron, UFO, and Urfrider.
+V4.16
+Valkyrie
+Fixed a bug where it being interrupted would halt Corki's movement but still extend the damage field.
+V4.5
+Stats
+Armor increased to 17.
+5
+from 13.
+5
+.
+V4.3
+Phosphorus Bomb
+New Effect:
+(+50% Bonus AD)
+ratio.
+Area of effect indicator is now visible to allies.
+V3.14
+Phosphorus Bomb
+Mana cost reduced to 60 / 70 / 80 / 90 / 100 from 80 / 90 / 100 / 110 / 120.
+Now lobs a bomb through the air that explodes at the target location instead of instantly damaging the area.
+Cast range increased to 825 from 600.
+Now grants vision while the bomb is in the air.
+Gatling Gun
+Mana cost reduced to 50 at all ranks from 60 / 65 / 70 / 75 / 80.
+Missile Barrage
+AD ratio increased to
+(+ 20 / 30 / 40% AD)
+from
+(+ 20% AD)
+at all ranks.
+V3.13
+Stats
+Attack speed reduced to 0.
+625
+from 0.
+658
+.
+Missile Barrage
+Cooldown increased to 2 seconds (static) from 1.
+2
+.
+Base damage reduced to 100 / 180 / 260 from 120 / 190 / 260.
+V3.9
+Valkyrie
+Mana cost reduced to 50 from 100.
+Missile Barrage
+Mana cost reduced to 20 at all ranks from 30 / 35 / 40.
+V3.8
+Missile Barrage
+Fixed a bug where it would sometimes fail to deal damage.
+V3.6
+Missile Barrage
+Fixed a bug where using it restarted the cooldown for next missile.
+V3.5 (Balance update)
+Missile Barrage
+Big One
+now fires after every 3rd missile from every 4th.
+Charge time reduced to 12 / 10 / 8 seconds from 12 at all ranks.
+V1.0.0.154
+Gatling Gun
+Mana cost reduced to 60 / 65 / 70 / 75 / 80 from 60 / 70 / 80 / 90 / 100.
+V1.0.0.152
+Stats
+Movement speed increased to 325 from 300.
+V1.0.0.146
+Hextech Shrapnel Shells
+No longer benefits from critical strikes.
+Valkyrie
+Cooldown increased to 26 / 23 / 20 / 17 / 14 seconds from 20 / 18 / 16 / 14 / 12.
+Missile Barrage
+Charge time increased to 12 seconds from 10.
+V1.0.0.143
+General
+New splash artwork for
+Original Corki
+.
+Valkyrie
+Targeting indicator now scales with distance from Corki.
+V1.0.0.141
+Missile Barrage
+Area of effect and particle now properly centered around point of impact.
+Icon is now tinted when
+Big One
+is ready.
+V1.0.0.129
+Phosphorus Bomb
+Base damage increased to 80 / 130 / 180 / 230 / 280 from 70 / 120 / 170 / 220 / 270.
+Now reveals non-stealthed champions for 6 seconds in addition to revealing the area for the duration.
+V1.0.0.127
+Gatling Gun
+Now deals 20 / 32 / 44 / 56 / 68 damage per second.
+Duration changed to 4 seconds at all ranks.
+AD ratio changed to Bonus from Total.
+V1.0.0.123
+Missile Barrage
+Cooldown before next charge and current stacks now shown in the same buff.
+V1.0.0.122
+Phosphorus Bomb
+No longer blinds.
+Base damage reduced to 70 / 120 / 170 / 220 / 270 from 80 / 130 / 180 / 230 / 280.
+Gatling Gun
+AD ratio reduced to
+(+ 20% AD)
+from
+(+ 25% AD)
+Missile Barrage
+Big One
+bonus damage reduced to 50% from 60.
+V1.0.0.118
+Valkyrie
+Fixed a bug that was causing the line missile targeting display to be offset.
+Missile Barrage
+Fixed a bug causing the line missile targeting display to be offset.
+V1.0.0.106
+Stats
+Movement speed reduced to 300 from 310.
+Phosphorus Bomb
+No longer reveals stealthed units.
+Gatling Gun
+Fixed a bug where it could hit unseen non-champion stealthed targets like wards.
+Fixed a bug where it was dealing too much damage.
+Missile Barrage
+Tooltip corrected.
+V1.0.0.105
+Valkyrie
+Level-up tooltip corrected to show the effects of Corki's current cooldown reduction.
+Gatling Gun
+Tooltip corrected.
+Missile Barrage
+Base damage reduced to 120 / 190 / 260 from 125 / 200 / 275.
+Mana cost increased to 30 / 35 / 40 from 25 / 30 / 35.
+Big One
+bonus damage reduced to 60% from 100.
+Tooltip corrected.
+V1.0.0.104
+Valkyrie
+Range increased to 800 from 700.
+Speed increased to 650 from 500.
+Missile Barrage
+Tooltip updated to reflect
+Big One
+deals double damage.
+New Effect:
+(+20% AD)
+ratio in addition to AP one.
+New Effect:
+Recharge time is reduced by cooldown reduction effects.
+New Effect:
+Recharge time does not progress while at maximum missile storage capacity.
+New Effect:
+Corki respawns with 4 missiles.
+V1.0.0.103
+Phosphorus Bomb
+Mana cost reduced to 80 / 90 / 100 / 110 / 120 from 90 / 100 / 110 / 120 / 130.
+Gatling Gun
+Mana cost reduced to 60 / 70 / 80 / 90 / 100 from 60 / 75 / 90 / 105 / 120.
+V1.0.0.100
+Stats
+Attack range increased to 550 from 500.
+Attack speed per level increased to 2.
+3
+% from 1.
+86
+.
+Valkyrie
+Can no longer be cast while rooted.
+Missile Barrage
+Charge time reduced to 10 seconds from 14.
+V1.0.0.94
+Missile Barrage
+New Effect:
+Counter indicating how close to
+Big One
+.
+New Effect:
+Grants one missile when unlocking.
+New Effect:
+Charges while dead and will no longer resets stack count upon death.
+V1.0.0.72
+Valkyrie
+Animation improved.
+V1.0.0.63
+Phosphorus Bomb
+Area of effect reduced to 225 from 250.
+Mana cost increased to 90 / 100 / 110 / 120 / 130 from 70 / 85 / 100 / 115 / 130.
+Fixed a bug causing the particle to show above the fog of war even without vision of that area.
+Fixed a bug where using it placed a buff on Corki saying he would miss on attacks.
+Fixed a bug where the vision granted disappeared upon using a basic attack.
+Valkyrie
+Cast range reduced to 700 from 900.
+Mana cost increased to 100 from 100 / 90 / 80 / 70 / 60.
+Missile Barrage
+Area of effect reduced to 200 from 225.
+Big One
+area of effect reduced to 300 from 350.
+Mana cost increased to 25 / 30 / 35 from 20 / 25 / 30.
+V1.0.0.61
+Phosphorus Bomb
+Blind duration reduced to 3 seconds from 4.
+Valkyrie
+Cast range reduced to 900 from 1000.
+V0.9.25.24
+Stats
+Mana regen reduced to 0.
+8
+from 0.
+88
+.
+Mana regen per level reduced to 0.
+07
+from 0.
+08
+.
+Phosphorus Bomb
+Target's miss chance reduced to 35% from 50.
+Mana cost increased to 70 / 85 / 100 / 115 / 130 from 60 / 75 / 90 / 105 / 120.
+Gatling Gun
+Base damage reduced to
+25% Total AD
+from 33.
+Valkyrie
+AP ratio reduced to
+(+ 40% AP)
+from
+(+ 80% AP)
+.
+Missile Barrage
+Charge time increased to 14 seconds from 12.
+Mana cost increased to 20 / 25 / 30 from 15 / 20 / 25.
+V0.9.25.21
+Added
+Hextech Shrapnel Shells
+-
+I
+Corki's basic attacks deal 20% additional true damage.
+Phosphorus Bomb
+-
+Q
+Corki fires a bomb at a target location. In addition to dealing damage the blast reduces an enemy's chance to hit by 50% and reveals nearby stealthed units for 4 seconds.
+Valkyrie
+-
+W
+Corki surges to target location, dropping bombs that create a trail of destruction for opponents who remain in the fire.
+Gatling Gun
+-
+E
+Corki's gatling gun fires rapidly, dealing 40% of his total damage twice a second in an area in front of him and shredding the armor of enemies who are under continuous fire.
+Missile Barrage
+-
+R
+Corki fires a missile towards his target location that will collide with the first enemy it hits dealing damage to units around the target. Corki stores one missile every 12 seconds up to 7 missiles total. Every fourth missile will be a
+Big One
+.
+}}
+Trivia
+[
+edit
+|
+edit source
+]
+It was speculated that Corki was inspired by
+Aurel Vlaicu the Gyrocopter
+from
+Dota 2
+.
+This has been proven false given Corki was released on 19-Sep-2009 (patch
+V0.9.25.21
+) while Gyrocopter was released on 28-Jul-2010 for the original
+DotA
+custom map.
+Yet both of them are most likely based on the
+Gyrocopter
+from
+Warcraft III: Reign of Chaos
+(
+Frozen Throne
+'
+s name:
+Flying machine
+).
+Corki was the first
+champion
+to have two
+Legendary
+skins
+as well as the first and only to have three.
+All of them are old skins that are either Legacy or were never for sale to begin with.
+Corki's dance references the
+"Do a barrel roll!"
+phrase spoken by
+Peppy Hare
+in
+Star Fox 64
+.
+[2]
+A side-by-side comparison can be seen
+here
+.
+In the now-removed official League of Legends
+forums
+, the
+original icon of
+Missile Barrage
+was used to represent the "In-Game HUD Discussion" section.
+The
+old sound effect
+for when Corki picks up
+The Package
+was similar to an
+air raid siren
+, which was pointed out by a player in Syria.
+[3]
+It was promptly changed.
+[4]
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Marksman
+Marksmen
+(formerly "Carries") excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger. Although Marksmen have the ability to stay relatively safe by kiting their foes, they are very fragile and are extremely reliant on powerful item purchases to become true damage threats.
+At present, Marksmen do not have any official subclasses. The following have been considered:
+Demolisher
+Scrapper
+Examples
+Ashe
+Ezreal
+Lucian
+Kai'Sa
+Jhin
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+True damage
+Applies:
+Corrupting Potion
+Omnivamp
+Mitigated by:
+Damage shields
+Invulnerability
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Standard sight
+Standard sight
+reveals units through
+fog of war
+and
+brush
+, but
+not
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Gatling Gun
+COOLDOWN:
+12
+Active:
+Corki's
+gatling gun rapidly fires in a cone in front of him, continually dealing
+physical
+damage to enemies hit and applying stacks of
+Gatling Gun
+.
+Gatling Gun:
+For each stack, the target loses
+armor
+and
+magic resist
+.
+League of Legends content
+Persistent area damage
+Persistent area damage
+is technically not a separate type of damage, but rather a hybrid classification that is applied to some spells.
+In situations where
+persistent damage
+and
+area damage
+would have conflicting outputs, the conflict is resolved by choosing the weakest possible outcome.
+Physical vamp
+and
+Spell vamp
+(where applicable) heals with one-third effectiveness, as with
+area damage
+.
+Arcane Comet's
+cooldown is reduced by 5%, as with
+persistent damage
+, per target affected.
+Counter Strike
+reduces the damage dealt by 25%, as with
+area damage
+.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Missile Barrage
+RECHARGE:
+20
+Active:
+Corki
+fires a missile in the target direction that explodes upon the first enemy hit, dealing
+physical damage
+to enemies in an area.
+Corki
+stores missiles over time, and starts with maximum missiles when he respawns.
+Every 3rd missile fired is a
+Big One
+: which fires farther and deals increased damage in a bigger explosion.
+League of Legends content
+Hextech Munitions
+Innate:
+Corki's
+basic attacks deal
+bonus
+true damage
+.
+League of Legends content
+Valkyrie
+COOLDOWN:
+20 / 18 / 16 / 14 / 12
+Active:
+Corki
+flies
+a short distance to the target location, dropping bombs that create a trail of fire that deals
+magic damage
+continually to enemies within.
+League of Legends content
+Missile Barrage
+RECHARGE:
+20
+Active:
+Corki
+fires a missile in the target direction that explodes upon the first enemy hit, dealing
+physical damage
+to enemies in an area.
+Corki
+stores missiles over time, and starts with maximum missiles when he respawns.
+Every 3rd missile fired is a
+Big One
+: which fires farther and deals increased damage in a bigger explosion.
+League of Legends content
+Phosphorus Bomb
+COOLDOWN:
+9 / 8.
+5
+/ 8 / 7.
+5
+/ 7
+Active:
+Corki
+fires a flash bomb at the target location, dealing
+magic damage
+to enemies hit and
+revealing
+enemy
+champions
+hit.
+Removed content
+League of Legends content
+Hextech Munitions
+Innate:
+Corki's
+basic attacks deal
+bonus
+true damage
+.
+Removed content
+League of Legends content
+Special Delivery
+Active:
+Corki
+flies
+a long distance to the target location,
+knocking aside
+enemies and creating a trail of scorched earth.
+Enemies passed through by
+Corki
+or remain within the trail are
+slowed
+and take
+magic damage
+continually.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Realm of Death
+COOLDOWN:
+140 / 120 / 100
+Active:
+Mordekaiser
+slows
+the target enemy champion, then banishes them with him to the
+Death Realm
+for a few seconds, cancelling all interactions with non-banished units.
+Additionally,
+Mordekaiser
+heals
+himself for a portion of the
+target's
+maximum
+health
+and temporarily steals a portion of their
+current
+attack damage
+,
+ability power
+,
+total
+attack speed
+,
+maximum
+health
+,
+armor
+,
+magic resist
+, and
+size
+.
+If the target dies while inside the
+Death Realm
+,
+Mordekaiser
+keeps his stolen stats until they
+respawn
+.
+Death Realm:
+The
+Death Realm
+confines units in a small area. Allies and enemies cannot see or interact with those in the
+Death Realm
+but can see their locations and vice versa.
+League of Legends content
+Whimsy
+COOLDOWN:
+17 / 16.
+5
+/ 16 / 15.
+5
+/ 15
+Active:
+Lulu
+can cast
+Whimsy
+on herself or the target champion.
+Enemy cast:
+Lulu
+sends a spell to the target that
+polymorphs
+them into a harmless critter,
+disarms
+them, and reduces their
+base
+movement speed
+for a short time.
+Ally cast:
+Lulu
+instantly casts a spell on the target that grants
+bonus
+attack speed
+and
+bonus
+movement speed
+for a few seconds.
+References
+[
+edit
+|
+edit source
+]
+↑
+Corki's profile page
+at
+LeagueOfLegends.com
+↑
+"Do a Barrel Roll" on KnowYourMeme
+↑
+Reddit post regarding Package Delivery's air siren sound
+↑
+[
+https://web.archive.org/web/20151116222425/http://boards.na.leagueoflegends.com/en/c/developer-corner/d0oKyxKw-corkis-special-delivery-sfx
+Boards Riot post on Corki's Special Delivery SFX

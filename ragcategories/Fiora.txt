@@ -1,0 +1,2867 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Fiora
+the Grand Duelist
+Release date
+2012-02-29
+Last changed
+V14.9
+Class(es)
+Skirmisher
+Legacy
+Fighter
+Assassin
+Position(s)
+Top
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+3
+Toughness
+2
+Control
+2
+Mobility
+2
+Utility
+2
+Style
+Difficulty
+Fiora
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Fiora
+Base statistics
+Edit
+Health
+620
++99
+Mana
+300
++60
+Health regen. (per 5s)
+8.5
++0.55
+Mana regen. (per 5s)
+8
++0.7
+Armor
+33
++4.7
+Attack damage
+66
++3.3
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+345
+Attack range
+150
+Attack speed
+Base AS
+0.69
+Attack windup
+13.793%
+AS ratio
+N/A
+Bonus AS
++3.2
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+100
+Pathing radius
+35
+Acq. radius
+600
+Special statistics
+Damage Dealt
++0%
+Damage Received
+-5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-10%
+Damage Received
++10%
+Healing
+-35%
+Damage Dealt
+-5%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Duelist's Dance
+EFFECT RADIUS:
+1200
+1350
+/
+250
+ANGLE:
+90°
+Innate:
+Fiora
+challenges nearby enemy champions, calling out a direction from which she will try to strike their
+Vitals
+. A new
+Vital
+is called out after some time or if one is struck. Striking a vital deals
+bonus
+true damage
+based on the
+target's
+maximum
+health
+,
+heals
+Fiora
+and grants her a burst of
+movement speed
+.
+Innate:
+Fiora
+identifies the
+Vitals
+of nearby
+visible
+enemy champions, marked as an arc around them in North-, East-, South- or Westward direction.
+Vitals
+take 1.
+75
+seconds to become targetable and linger for 13.
+25
+seconds afterwards while
+Fiora
+remains near the target, otherwise the
+Vital
+will disappear. After a
+Vital
+ends,
+Fiora
+identifies a new one on her target.
+Dealing damage in the direction of a
+Vital
+will trigger it to deal
+bonus
+true damage
+equal to
+3%
+(+ 4% per 100
+bonus
+AD)
+of target's
+maximum
+health
+,
+heal
+Fiora
+for
+35 − 100 (based on level)
+, and grant her
+20 / 30 / 40 / 50% (based on
+Grand Challenge's
+Rank)
+bonus
+movement speed
+that decays over 1.
+85
+seconds.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+True
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Vitals
+can be triggered by any source of damage
+Fiora
+deals, except those with
+default damage
+and
+reactive damage
+types.
+The
+Vitals
+are visible to all units.
+A
+Vital's
+angle is fixed to the champion's model and doesn't interact with its orientation.
+Vitals
+spawn directions alternate in a Northeast-Southwest pattern. Other than that, they have a 50% chance to spawn North or East, or South or West, respectively.
+PENDING FOR TEST:
+The direction of the first Vital upon
+Fiora
+and her enemy encountering one another in the game for the first time is always South- or Westward. This is regardless of whether Fiora is in the Blue or Red team.
+Vitals
+will not trigger if the attack is
+dodged
+or missed while
+Fiora
+is
+blinded
+.
+Block
+will not prevent a trigger.
+If the
+Vital
+is triggered by
+Lunge
+, it can be
+dodged
+, but it can't be
+blocked
+and will trigger even if
+Fiora
+is
+blinded
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to
+2% of target's
+maximum
+health
+.
+Bonus AD ratio changed to
+3% per 100
+bonus
+AD
+.
+Video
+Edit
+Lunge
+COST:
+20 / 25 / 30 / 35 / 40 Mana
+COOLDOWN:
+13 / 11.
+25
+/ 9.
+5
+/ 7.
+75
+/ 6
+CAST TIME:
+none
+TARGET RANGE:
+50
+/
+400
+RANGE:
+420
+SPEED:
+See notes
+Active:
+Fiora
+dashes
+in the target direction and then stabs a nearby enemy, dealing
+physical damage
+and applying
+on-hit
+effects. If she stabs a target, the cooldown is
+reduced
+.
+Active:
+Fiora
+dashes
+in the target direction, then stabs a nearby enemy.
+Lunge
+can hit
+structures
+and
+wards
+. Stabbing a target reduces
+Lunge's
+cooldown
+by 50%.
+The stab deals
+physical damage
+and applies
+on-hit
+effects at 100% effectiveness.
+Physical Damage:
+70 / 80 / 90 / 100 / 110
+(+ 90 / 95 / 100 / 105 / 110%
+bonus
+AD)
+Fiora
+can cast any of her
+abilities
+during the dash. The target does not have to be
+visible
+to be hit by this ability.
+Info
+Targeting input
+Location
+Damage type
+Type
+Basic damage
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Parries
+See Notes
+Grounded
+Disabled
+Knockdown
+Interrupted
+Lunge's
+dash speed is modified by her
+bonus
+movement speed
+at the time of cast:
+1100 +
+350%
+bonus
+movement speed
+, capped at 1600 maximum dash speed if bonus movement speed is positive.
+1100 +
+300%
+bonus
+movement speed
+, capped at 850 minimum dash speed if bonus movement speed is negative.
+Fiora
+does not stab if the
+dash
+is
+interrupted
+.
+Flash
+gets sealed during the dash so
+Fiora
+cannot interrupt herself with it. This also means she cannot buffer
+Flash
+during the dash for it to be cast right afterward, however.
+Fiora
+can cast
+Hextech Rocketbelt
+during the dash, potentially interrupting it based on the timing, preventing the stab if it does.
+The dash
+can
+pass through walls.
+The dash has no forgiveness mechanic to clear distant or wider walls with. Any wall wider than 400 units is not crossable.
+The stab searches for targets in its radius and prioritizes in order of:
+Nearest enemy champion affected by
+Grand Challenge
+with a
+Vital
+facing
+Fiora
+.
+Nearest enemy champion
+Vital
+facing
+Fiora
+.
+Nearest enemy champion affected by
+Grand Challenge
+Enemy champion with the lowest percent health out of all champions <20% remaining health.
+Nearest enemy champion, minion, or monster within 60% of the radius (
+252) with current health below
+Lunge's
+raw damage.
+Nearest enemy champion in the radius check.
+Nearest champion in a
+rectangular check with 160 width and 450 units length backwards from
+Fiora's
+current facting direction, ignoring the normal radius check.
+Turning
+Fiora's
+facing direction during the dash (e.g. by casting
+Riposte
+) can create some very long range hits opposite to her new facing direction, especially against targets with a large gameplay radius.
+(bug)
+Nearest enemy minion with current health below
+Lunge's
+raw damage.
+Any nearest enemy minion or monster.
+Structures.
+Wards.
+Lunge
+will not attempt to strike
+jungle plants
+.
+Lunge
+deals
+basic damage
+, but also triggers spell effects by also being tagged as
+spell damage
+.
+Lunge
+cannot
+critically strike
+.
+Lunge
+won't deal damage, if the spell is
+dodged
+or
+blocked
+, but will deal damage if
+Fiora
+is
+blinded
+.
+Lunge
+does not apply
+on-attack
+effects apart from certain exceptions.
+It does apply
+Energized
+as if it was an
+on-hit
+effect.
+It does not stack
+Guinsoo's Rageblade
+nor trigger Phantom Hit.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 55 / 65 / 75 / 85 / 95.
+Bonus AD ratio changed to
+70 / 75 / 80 / 85 / 90%
+bonus
+AD
+.
+Video
+Edit
+Riposte
+COST:
+50 Mana
+COOLDOWN:
+24 / 22 / 20 / 18 / 16
+CAST TIME:
+none
+TARGET RANGE:
+900
+WIDTH:
+140
+SPEED:
+3200
+Active:
+Fiora
+briefly parries all incoming damage, debuffs, and
+disables
+, then stabs in a direction, dealing
+magic damage
+to enemies hit. The stab
+slows
+the first enemy champion hit, or
+stuns
+them if
+Fiora
+parried an
+immobilizing
+effect.
+Active:
+Fiora
+enters a defensive stance for 0.
+75
+seconds, becoming
+unable to act
+, preventing all incoming non-
+turret
+damage, and gaining
+debuff
+immunity and
+crowd control immunity
+.
+Additionally, over the first 0.
+6
+seconds of the duration,
+Fiora
+poises to strike, after which she sends a shock with her sword in a line in the target direction, dealing
+magic damage
+to all enemies hit until colliding with an enemy champion.
+Magic Damage:
+110 / 150 / 190 / 230 / 270
+(+ 100% AP)
+The enemy champion struck is also
+slowed
+and
+crippled
+by 25% for 2 seconds. If
+Riposte
+negates at least one
+hostile
+immobilizing
+effect,
+Fiora
+stuns
+the target for the same duration instead.
+(Upon blocking an immobilizing effect) "One step ahead!"
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Riposte
+is not
+invulnerability
+but instead reduces any damage to her by 100% late into the damage event. Because of this, it interacts differently with effects triggered from damage:
+Life steal
+and
+Healing
+based on damage dealt (Vamp) will still have effect even if the damage is ultimately ignored by
+Riposte
+.
+Shields
+will absorb damage before
+Riposte
+takes effect.
+Fiora
+cannot be
+executed
+by
+Pyke's
+Death from Below
+during
+Riposte
+but she can by
+Aspect of the Dragon
+.
+Riposte
+will not negate allied
+crowd control
+.
+Riposte
+will not negate
+nearsight
+.
+Immobilizing
+effects include those from
+Blast Cone
+(only if triggered by an enemy) and
+epic monsters
+.
+Debuff immunity includes
+summoner spells
+, such as
+Exhaust
+and
+Ignite
+, as well as
+damage over time
+and other effects.
+Riposte
+is and is not prioritized over certain effects:
+Riposte
+will block effects before
+spell shields
+.
+Black Shield
+will negate
+crowd control
+before
+Riposte
+.
+Riposte
+will not be able to apply its
+stun
+, as it requires
+Riposte
+to negate the
+immobilize
+and not any other external source to do so.
+Spell shield
+will also prevent
+Vitals
+from being triggered by
+Riposte
+.
+The following table refers for interactions while
+Fiora
+is performing
+Riposte
+:
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Interrupted by
+N/A
+Interrupted by
+Death
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 28 / 26 / 24 / 22 / 20 seconds.
+Video
+Edit
+Bladework
+COST:
+40 Mana
+COOLDOWN
+:
+11 / 10 / 9 / 8 / 7
+CAST TIME:
+none
+Active:
+Fiora
+gains
+bonus
+range
+and
+bonus
+attack speed
+for the next two attacks. The first attack
+slows
+the target, and the second attack will
+critically strike
+.
+Active:
+Fiora
+empowers her next two
+basic attacks
+on-attack
+within 4 seconds to gain
+25
+bonus
+range
+and
+bonus
+attack speed
+.
+Bonus Attack Speed:
+50 / 60 / 70 / 80 / 90%
+The first attack
+slows
+the target by 30% for 1 second but cannot
+critically strike
+. The second attack will
+critically strike
+for
+modified
+critical damage
+, including to
+structures
+.
+Critical damage:
+160 / 170 / 180 / 190 / 200%
+Bladework
+resets
+Fiora's
+basic attack timer.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Counters
+Spell shield
+See Notes
+Parries
+Missing
+Spell shield
+will only block the slow from the first hit.
+Sundered Sky's
+Lightshield Strike's critical damage will override
+Bladework's
+if the resulting damage would be higher.
+This does not account for any critical damage bonuses that may affect Lightshield Strike.
+PENDING FOR TEST:
+:
+Bladework's
+interaction with
+dodging
+,
+blocking
+, and
+blinding
+effects.
+Video
+Edit
+Grand Challenge
+COST:
+100 Mana
+COOLDOWN
+:
+110 / 90 / 70
+CAST TIME:
+none
+TARGET RANGE:
+500
+EFFECT RADIUS:
+550
+/
+500
+Passive:
+Duelist's Dance's
+bonus
+movement speed
+is increased.
+Active:
+Fiora
+reveals all
+Vitals
+on an enemy champion and gains
+bonus
+movement speed
+while near them. If
+Fiora
+triggers at least one
+Vital
+before the target
+dies
+, or triggers all four, she creates a
+Victory Zone
+which continually
+heals
+Fiora
+and her allies.
+Passive:
+Duelist's Dance's
+bonus
+movement speed
+is increased.
+Additional Bonus Movement Speed:
+10 / 20 / 30%
+Active:
+Fiora
+challenges the target enemy champion for 8 seconds, highlighting all four of their
+Vitals
+after a 0.
+5
+-second delay. While in effect,
+Duelist's Dance
+does not identify new
+Vitals
+on
+Fiora's
+target.
+While near the target,
+Fiora
+gains
+Duelist's Dance's
+bonus
+movement speed
+.
+If
+Fiora
+triggers at least one
+Vital
+before the target
+dies
+, or triggers all four, she creates a
+Victory Zone
+at their location for
+2 − 5 (based on Vitals hit)
+seconds, which
+heals
+Fiora
+and all allies within the area every second.
+Heal per Tick:
+75 / 100 / 125
+(+ 60%
+bonus
+AD)
+Maximum Heal:
+375 / 500 / 625
+(+ 300%
+bonus
+AD)
+Unlike
+Duelist's Dance
+, the
+Vitals
+will continue to linger even if
+Fiora
+is not nearby.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Sub-type
+True
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Grand Challenge
+is dispelled instantly if targeting a
+decoy
+.
+PENDING FOR TEST:
+:
+Sion's
+Glory in Death
+The damage of this ability scales with
+Duelist's Dance
+.
+Even if
+Fiora
+dies, the
+Victory Zone
+will trigger so long as she hit at least one
+Vital
+and they die before the
+Vitals
+wear off.
+Resurrection
+effects will not prevent the activation of the
+Victory Zone
+.
+Ally units in
+stasis
+will not be
+healed
+by the
+Victory Zone
+.
+Fiora
+will automatically attack the target upon casting if the target was selected while they weren't in range of the ability.
+Tips & Tricks
+If the target stays very close to terrain they can prevent
+Fiora
+from hitting all vitals.
+Map-Specific Differences
+One for All
+differences
+edit
+Attempting to cast
+Grand Challenge
+on a target that is already affected by it will inform the player that it "Cannot be stacked" once
+Fiora
+is in cast range.
+Video
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Fiora (Collection)
+.
+Original
+View in 3D
+880
+29.02.2012
+The most feared duelist in all Valoran, Fiora is as renowned for her brusque manner and cunning mind as she is for the speed of her bluesteel rapier. Born to House Laurent in the kingdom of Demacia, Fiora took control of the family from her father in the wake of a scandal that nearly destroyed them. House Laurent's reputation was sundered, but Fiora bends her every effort to restore her family's honor and return them to their rightful place among the great and good of Demacia.
+Karen Strassman
+Jason Chan
+Loot eligible
+Royal Guard
+View in 3D
+520
+29.02.2012
+If one dares to gaze upon the crown, they'll immediately catch the careful eye of Fiora, the captain of the Royal Guard. Cunning, keen, and shrewd, she's written her own legend at the tip of her rapier, a legend so large that it's said, as a child, she could slice a falling leaf perfectly in half. Whether or not it's true... Fiora has never told.
+Karen Strassman
+Bo 'chenbowow' Chen
+Fables
+Loot eligible
+Nightraven
+View in 3D
+750
+29.02.2012
+Karen Strassman
+Unknown artist
+Bloodstone
+Loot eligible
+Headmistress
+View in 3D
+975
+26.10.2012
+ATTENTION ALL STUDENTS: Concerning the recent upswing in vandalism and general troublemaking, it has come to my attention these behaviors may be intended to draw the personal attention of our headmistress. The dean reminds students that such encounters can be fatal, and encourages them to re-read the Academy code of conduct.
+Karen Strassman
+Unknown artist
+Academy
+Loot eligible
+Legacy
+New SFX/VFX
+Chromas
+Headmistress Fiora Chromas
+Amethyst
+Catseye
+Jasper
+Pearl
+Quartz
+Ruby
+Sandstone
+Sapphire
+PROJECT
+View in 3D
+1350
+07.09.2015
+Augmented for speed, Fiora uses her zero-pulse sword to fight alongside Ashe and the other members of G/NETIC. The full-length energy blade allows for flawless attack precision and maximum repel strength, while the spatially controlled atomic tip coating is most suited for single-target combat.
+Karen Strassman
+Alex 'alexplank' Flores
+PROJECT
+Loot eligible
+Voice filter
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+Chromas
+PROJECT: Fiora Chromas
+Reckoning
+Pool Party
+View in 3D
+1350
+13.07.2016
+Fiora can stop a pool party dead in its tracks and she knows it. What she truly longs for is a worthy opponent—but alas, some people are just too good at crushing the party scene.
+Karen Strassman
+Pan Chengwei
+Pool Party
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Pool Party Fiora Chromas
+Aquamarine
+Citrine
+Pearl
+Rainbow
+Rose Quartz
+Sapphire
+Tanzanite
+Turquoise
+Soaring Sword
+View in 3D
+1350
+27.09.2017
+A pupil of a famous martial arts school, Fiora pined after her fellow student Yi, but was never able to win his heart. Now she pursues him as he searches for the fabled sword of jade, to protect the artifact from the man she once loved.
+Karen Strassman
+Jean 'Curing' Go
+Immortal Journey
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Heartpiercer
+View in 3D
+1350
+11.02.2019
+Fiora fancies herself the ultimate rival in all things romantic—a duelist unsurpassed in swordsmanship and love. How ironic that she finally seems to have met her match…
+Karen Strassman
+Unknown artist
+Heartbreakers
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Heartpiercer Fiora Chromas
+Amethyst
+Aquamarine
+Citrine
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+iG
+View in 3D
+1350
+23.04.2019
+Honoring TheShy's winning performance as Fiora during the 2018 World Championship.
+Karen Strassman
+Pan Chengwei
+World Champions: 2018
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+iG Fiora Chromas
+Tenfold Triumph
+Pulsefire
+View in 3D
+1350
+14.05.2020
+Fiora joined the Chrono-Enforcers at a young age under the tutelage of her father. When a conflict with a temporal fugitive left him disgraced, her future was thrown into doubt, but Fiora endured. Now, despite having reclaimed her family's reputation, and forged herself into an utter paragon of the Chrono-Enforcers, recent revelations have cast her into doubt once more, but this time about the Remembrancer's true purpose...
+Karen Strassman
+Maki Planas Mata
+Pulsefire
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Pulsefire Fiora Chromas
+Amethyst
+Chrono
+Citrine
+Obsidian
+Pearl
+Ruby
+Sapphire
+Turquoise
+Lunar Beast
+View in 3D
+1350
+04.02.2021
+Fiora keeps mostly to herself, determined to reclaim her family's honor from her father's failure as a member of the last Ox Squad. She thinks the rest of the squad doesn't take their duties seriously enough, and her determination to avoid another disastrous New Year makes her seem standoffish and cold to her teammates.
+Karen Strassman
+Jennifer Wuestling
+Lunar Beast
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Lunar Beast Fiora Chromas
+Catseye
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Vitality
+Prestige Lunar Beast
+View in 3D
+Special
+04.02.2021
+Long days of community service and long nights of tactical planning have left Fiora not drained but energized. Her steely determination has hardened into foresight and loyalty. Whatever the Lunar Beast throws at them, Ox Squad knows Fiora has their back.
+Karen Strassman
+Jennifer Wuestling
+Lunar Beast
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Lunar Beast
+. Store variants are discounted for multiple purchases.
+Bewitching
+View in 3D
+1350
+07.10.2021
+Fiora is tired of Nami crashing the party every year. She's determined that apple bobbing takes a back seat to tests of true skill—like seeing who can eat the most candy.
+Karen Strassman
+West Studio
+Bewitching
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Bewitching Fiora Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Faerie Court
+View in 3D
+1350
+23.03.2023
+As ambassador of the Spring Court, Fiora has a deep love for her people… even if that love often leads her to resolve conflict via impassioned duels rather than words. The last faerie queen was Fiora's mother, and she believes her mother's untimely death was no mistake. She wants answers, and she will administer justice at the tip of her sword.
+Karen Strassman
+Eric Xie, West Studio
+Faerie Court
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Faerie Court Fiora Chromas
+Catseye
+Emerald
+Obsidian
+Peridot
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Winsome
+Dragonmancer
+View in 3D
+1350
+09.01.2024
+Dignified and exacting, Fiora challenged all who misused their power. But her true test appeared in her own gilded dreams: a duel with herself, her greatest enemy. She defeated this other self, impressing the Defiance Dragon. Both dragon and chosen laughed as she raised her chin while receiving its blessing, cementing her worthiness.
+Karen Strassman
+Eric Xie, West Studio
+Dragonmancers
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dragonmancer Fiora Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Battle Queen
+View in 3D
+1350
+28.08.2024
+Nobles in the cutthroat queendom of Telum conspired against Fiora's rise to power, taking her eye and proclaiming her dead. Yet from flowers and flame she arose, then prevailed, in the Grand Coronation. Queen Fiora now oversees arms manufacturing in her nation's steel gardens, and secures her succession by training and tempering a certain fiery princess.
+Karen Strassman
+Jiunn Kuo, Kudos Productions
+Battle Queens
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Battle Queen Fiora Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.9
+Riposte
+Bug Fix:
+Skarner's
+Ixtal's Impact
+now properly triggers the ability's stun condition.
+Bladework
+New Effect:
+Now defaults to the highest damage effect between
+Sundered Sky
+and
+Bladework's
+crit attack when they are both active at the same time.
+V14.7
+Stats
+Base attack damage reduced to 66 from 68.
+V14.5
+Bladework
+New Effect:
+Now triggers spell effects upon dealing damage.
+V14.4
+Riposte
+Cripple strength reduced to 25% from 50%.
+V14.1
+Bewitching Fiora
+,
+Faerie Court Fiora
+,
+Lunar Beast Fiora
+, and
+Prestige Lunar Beast Fiora
+Duelist's Dance
+Bug Fix:
+Indicator visibility has been updated and aligns with her base indicator visibility.
+V13.21
+Duelist's Dance
+Bug Fix:
+Vitals are no longer consumed even if the triggering attack was
+blocked
+.
+V13.7
+General
+Adjusted splash artwork for
+Faerie Court Fiora
+.
+V13.5
+Riposte
+Bug Fix:
+Now properly prevents damage dealt by
+Zeri's
+Uncharged Attack
+execute.
+V13.1
+Duelist's Dance
+Bonus AD ratio reduced to
+4% per 100
+bonus
+AD
+from
+4.
+5
+% per 100
+bonus
+AD
+.
+Lunge
+Bonus AD ratio reduced to
+90 / 95 / 100 / 105 / 110%
+bonus
+AD
+from
+95 / 100 / 105 / 110 / 115%
+.
+V12.20
+Riposte
+Bug Fix:
+Darius'
+Hemorrhage
+bleed stacks no longer deal 1 true damage at the end of
+Riposte
+despite being properly parried.
+V12.12
+Duelist's Dance
+Bonus AD ratio reduced to
+4.
+5
+% per 100
+bonus
+AD
+from
+5.
+5
+%
+.
+V12.10
+Stats
+Base health increased to 620 from 550.
+Health growth increased to 99 from 85.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Duelist's Dance
+Base heal reduced to
+35 − 100 (based on level)
+from
+40 − 115 (based on level)
+.
+Grand Challenge
+Base heal per second reduced to 75 / 100 / 125 from 80 / 110 / 140.
+V11.19
+General
+Bug Fix:
+Base voice lines have been remastered to sound clearer and more consistent.
+V11.16
+Bladework
+Cooldown increased to 11 / 10 / 9 / 8 / 7 seconds from 11 / 9.
+5
+/ 8 / 6.
+5
+/ 5.
+V11.14
+Riposte
+Bug Fix:
+SFX upon parrying an immobilizing effect now properly plays on all skins.
+Grand Challenge
+Bug Fix:
+SFX upon striking all 4 vitals or when the effect expires now properly plays on all skins.
+V11.8
+Grand Challenge
+Bug Fix:
+VO now plays from her location instead of her target's location.
+V11.4
+Duelist's Dance
+Base damage increased to
+3% of target's
+maximum
+health
+from
+2.
+5
+%
+.
+Bonus AD ratio increased to
+5.
+5
+% per 100
+bonus
+AD
+from
+4.
+5
+%
+.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.23
+Stats
+Mana growth increased to 60 from 40.
+V10.19
+- September 16th Hotfix
+Riposte
+Bug Fix:
+Reverting a bugfix from
+V10.18
+that attempted to fix a bug where
+Fiora
+would trigger her enemy's Vitals through a Spell Shield. The bugfix introduced a new bug that would negatively impact
+Fiora's
+play in Worlds, so while this bug will be fixed in the future, any changes to her this patch will be reverted.
+V10.18
+Riposte
+Bug Fix:
+Can no longer trigger her enemy's Vitals through a spell shield.
+V10.16
+Lunge
+Cooldown reduced to 13 / 11.
+25
+/ 9.
+5
+/ 7.
+75
+/ 6 seconds from 16 / 14 / 12 / 10 / 8.
+Cooldown reduction for hitting an enemy reduced to 50% from 60%.
+V10.15
+Pulsefire Fiora
+Riposte
+Bug Fix:
+After countering a hard CC ability, the ground indicator no longer disappears.
+V10.9
+Riposte
+Bug Fix:
+When blocking
+Jhin's
+basic attacks with
+Riposte
+, she will no longer get a fake Caught Out mark on her from
+Jhin's
+point-of-view.
+Duelist's Dance
+Undocumented:
+Damage dealt by Item Actives can now trigger
+Vitals
+.
+V9.19
+Lunge
+New Effect:
+Can now damage structures and wards.
+Now prioritizes champion Vitals,
+Grand Challenge's
+targets, champions, dying minions, turrets, and then wards.
+Bladework
+New Effect:
+Second basic attack now
+critically strikes
+against structures.
+V9.16
+Bladework
+Cooldown reduced to 11 / 9.
+5
+/ 8 / 6.
+5
+/ 5 seconds from 13 / 11 / 9 / 7 / 5.
+Bonus attack speed increased to 50 / 60 / 70 / 80 / 90% from 50% at all ranks.
+V9.10
+Riposte
+New Effect:
+No longer prevents
+Braum's
+Concussive Blows
+and
+Kennen's
+Mark of the Storm
+to apply the last stack of their passives. Now blocks the stun and the damage from the attack.
+V9.8
+Riposte
+Slow/stun and cripple duration increased to 2 seconds from 1.
+5
+.
+Base damage increased to 110 / 150 / 190 / 230 / 270 from 90 / 130 / 170 / 210 / 250.
+Bladework
+Mana cost reduced to 40 at all ranks from 40 / 45 / 50 / 55 / 60.
+V9.7
+Pool Party Fiora
+Bug Fix:
+Buffs aura now properly follow the model during certain animations.
+V9.2
+Riposte
+Bug Fix:
+Now properly blocks
+Pyke's
+Death from Below
+when she is below the execute threshold.
+Bug Fix:
+When cast during
+Lunge
+,
+Riposte
+now properly activates in the area designated by the indicator rather than toward the original target position.
+V8.24
+General
+New walk animation added without boots.
+V8.22
+Lunge
+Still prioritizes
+Grand Challenge's Vitals
+then
+Duelist's Dance Vitals
+, but now prioritizes an
+R
+-affected target next even without a Vital to proc.
+V8.19
+- September 26th Hotfix
+Duelist's Dance
+Heal increased to
+40 − 115 (based on level)
+from
+35 − 110 (based on level)
+.
+V8.19
+Duelist's Dance
+Heal increased to
+35 − 110 (based on level)
+from
+25 − 110 (based on level)
+.
+Lunge
+Bug Fix:
+Now once again correctly prioritize champions and vital procs over killable minions.
+V8.17
+Bladework
+Modified critical strike damage increased to 160 / 170 / 180 / 190 / 200% from 140 / 155 / 170 / 185 / 200%.
+V8.3
+Stats
+Base health regeneration increased to 8.
+5
+from 8.
+25
+.
+V7.22
+Stats
+Base attack damage increased to 68 from 60.
+Base armor increased to 33 from 24.
+Duelist's Dance
+Base maximum health ratio increased to
+2.
+5
+% of target's
+maximum
+health
+from
+2%
+.
+Lunge
+Base damage increased to 70 / 80 / 90 / 100 / 110 from 65 / 75 / 85 / 95 / 105.
+V7.18
+Duelist's Dance
+Bonus movement speed increased to
+20% / 30% / 40% / 50% (based on
+Grand Challenge's Rank)
+from
+15% / 25% / 35% / 45% (based on
+Grand Challenge's Rank)
+.
+Grand Challenge
+New Effect:
+While near the target,
+Fiora
+gains
+Duelist's Dance
+movement speed bonus.
+Bug Fix:
+Fixed a bug where particles were showing up when the spell had been blocked by
+Nocturne's
+Shroud of Darkness
+.
+V7.16
+Duelist's Dance
+Movement speed increased to
+15% / 25% / 35% / 45% (based on
+Grand Challenge's Rank)
+from
+15% / 20% / 25% / 30% (based on
+Grand Challenge's Rank)
+.
+V7.15
+Headmistress Fiora
+Bug Fix:
+Once again has SFX during her joke animation.
+Pool Party Fiora
+Bug Fix:
+Audio no longer desyncs when losing and regaining vision during recall, joke and taunt animations.
+V7.14
+Duelist's Dance
+Bonus movement speed reduced to
+15% / 20% / 25% / 30% (based on
+Grand Challenge's Rank)
+from
+20% / 30% / 40% / 50% (based on
+Grand Challenge's Rank)
+.
+Grand Challenge
+Removed:
+Gaining
+Duelist's Dance
+dance movement speed bonus while in the area.
+V7.11
+Riposte
+Bug Fix:
+No longer purges
+Sejuani's
+Permafrost
+stacks if she uses
+Riposte
+to parry an attack while at three stacks.
+V7.7
+Headmistress Fiora
+Bladework
+Bug Fix:
+First hit particles no longer exceed the ruler's length.
+V7.6
+Riposte
+Bug Fix:
+Using it while
+Banshee's Veil
+is active no longer causes it to visually go on cooldown in
+Fiora's
+inventory (or to visually fizzle, then instantly reappear).
+V6.22
+Duelist's Dance
+Bug Fix:
+PROJECT: Fiora's
+Duelist's Dance
+Vitals indicators no longer visually disappear before the effect expires.
+V6.21
+General
+Bug Fix:
+When
+Pool Party Fiora
+kills an enemy with a basic attack, the universal blue swirly death VFX now properly display.
+V6.21
+General
+New splash artwork for
+Royal Guard Fiora
+and
+Nightraven Fiora
+.
+V6.16
+Lunge
+Bug Fix:
+No longer fires in weird directions when cast while the cursor is hovering over the minimap.
+V6.14
+Duelist's Dance
+Health on vital hit increased to
+30 − 115 (based on level)
+from
+25 − 110 (based on level)
+.
+Lunge
+Bonus AD ratio increased to
+95 / 100 / 105 / 110 / 115% bonus AD
+from
+55 / 70 / 85 / 100 / 115% bonus AD
+.
+V6.13
+Lunge
+Bug Fix:
+Fixed a bug where
+Fiora
+would be locked out of
+Flash
+and
+Teleport
+if she died during
+Lunge
+until casting
+Lunge
+again.
+V6.6
+Duelist's Dance
+Base damage reduced to
+2% of target's max. health
+from
+3%
+.
+Bonus AD scaling ratio increased to
+4.
+5
+% per 100 bonus AD
+at all level from
+2.
+8
+% − 4.
+5
+% (based on level)
+% per 100 bonus AD
+.
+Bladework
+Slow
+reduced to 30% at all ranks from 40 / 45 / 50 / 55 / 60%.
+Bonus attack range reduced to 25 from 50.
+Bonus attack speed changed to additive from multiplicative.
+V6.4
+Riposte
+Cooldown increased to 24 / 22 / 20 / 18 / 16 from 19 / 18 / 17 / 16 / 15.
+Bladework
+Cooldown reduced to 13 / 11 / 9 / 7 / 5 from 15 / 13 / 11 / 9 / 7.
+New Effect:
+Cooldown now starts after the two hits are spent or the buff wears off.
+V6.2
+Duelist's Dance
+Directions chosen alternates between top-right and bottom-left sides from random.
+V5.20
+Grand Challenge
+Victory Zone's
+duration changed to 1 + (1 ×
+Vitals
+hit) seconds from 5.
+V5.18
+Stats
+Base health reduced to 550 from 570.
+Health growth reduced to 85 from 92.
+Base armor reduced to 24 from 27.
+Lunge
+Hitting an enemy will now reveal Fiora to them.
+Riposte
+Fixed a bug where Riposte wouldn't block
+Death Sentence
+.
+Tooltip now mentions all debuffs are blockable.
+August 10, 2015 Hotfix
+Stats
+Health growth increased to 92 from 80.
+Damage growth increased to 3.3 from 2.5.
+Lunge
+Mana cost reduced to 20 / 25 / 30 / 35 / 40 from 25 / 30 / 35 / 40 / 45.
+Cooldown reduced to 16 / 14 / 12 / 10 / 8 seconds from 18 / 16 / 14 / 12 / 10.
+Riposte
+Cooldown reduced to 19 / 18 / 17 / 16 / 15 seconds from 21 / 19.
+5
+/ 18 / 16.
+5
+/ 15.
+V5.15
+Full Relaunch
+General
+New splash artwork for
+Original Fiora
+.
+Model upgrade across all skins with a new animations for the new abilities.
+Stats
+Base attack damage increased to 60 from 59.
+Attack damage growth reduced to 2.
+5
+from 3.
+2
+.
+Attack speed growth increased to 3.
+2
+% from 3%.
+Base health reduced to 570 from 592.
+8
+.
+Health growth reduced to 80 from 85.
+Health regen increased to 8.
+25
+from 6.
+85
+.
+Health regen growth reduced to 0.
+55
+from 0.
+8
+.
+Base mana increased to 300 from 287.
+2
+.
+Base mana regen increased to 8 from 7.
+6
+.
+Mana regen growth increased to 0.
+7
+from 0.
+5
+Base armor increased to 27 from 25.
+Movement speed reduced to 345 from 350.
+Range increased to 150 from 125.
+Duelist's Dance
+(I)
+Fiora
+identifies the
+Vitals
+of all nearby enemy champions, which consists of a 90° section of the target's hit box.
+Vitals
+take 0.
+5
+second to identify and last for 15 seconds, after which she will immediately begin identifying a new
+Vital
+. Basic attacks against
+Vitals
+deal bonus true damage, as well as restoring a small amount of health and granting a short burst of speed.
+Lunge
+(Q)
+Active:
+Fiora
+lunges forward a short distance in the target direction, then lunges again to strike a nearby enemy dealing physical damage and applying on-hit effects. The second lunge is auto-targeted and prioritizes exposed
+Vitals
+.
+Riposte
+(W)
+Active:
+Fiora
+poises to strike in the target direction and then enters a defensive stance, parrying all damaging and immobilizing effects for the next 0.
+75
+seconds. After the duration,
+Fiora
+stabs her sword forward dealing damage and briefly
+slowing
+the first enemy champion she strikes. If
+Fiora
+parries at least one immobilizing effect,
+Riposte
+will
+stun
+instead.
+Bladework
+(E)
+Active:
+Fiora
+gains 50% bonus attack speed on her next two attacks. The first attack cannot critically strike but applies a
+slow
+, while the second benefits from 100% critical strike chance.
+Grand Challenge
+(R)
+Active:
+Fiora
+targets an enemy champion, highlighting all four of their
+Vitals
+for the next few seconds. If Fiora is able to attack all four
+Vitals
+, or if she destroys at least one before the target dies,
+Fiora
+creates a ~600 radius zone that substantially heals
+Fiora
+and allies within the area over the next 5 seconds. While within 600 units of her target and while within the healing zone,
+Fiora
+gains bonus movement speed.
+Duelist's Dance
+will not identify new
+Vitals
+while
+Fiora's
+target has at least one exposed.
+Trivia
+[
+edit
+|
+edit source
+]
+Fiora is
+voiced
+by
+Karen Strassman
+, who also voices
+Cassiopeia
+,
+Shyvana
+and
+Zyra
+.
+Karen Strassman also voices her in
+Legends of Runeterra
+.
+[2]
+Fiora's fighting style references
+Fencing
+while she herself might have been inspired by
+Julie d'Aubigny
+.
+[3]
+Her taunt references the 'salute' from duel tradition.
+In her joke, Fiora draws
+Teemo's
+face in the air.
+Her dance references
+Fred Astaire's
+to the tune of
+Puttin' On the Ritz
+in
+Blue Skies
+.
+A side-by-side comparison can be seen
+here.
+Fiora
+derives from
+Sabine
+theonym
+Flora
+, from Proto-Italic
+*flōs
+[4]
+plus
+feminine suffix
+-a
+.
+Her name might be referencing
+Fiore dei Liberi
+and/or
+Fioretto
+(Italian: 'foil')
+Her house's name is a reference to
+Nicolo Laurent
+, former CEO of Riot Games.
+Alex 'Skribbles' Yee
+chose his surname without even telling him and because he was "
+the only french person he knows
+".
+Having become CEO years after, Laurent only discovered this
+easter egg
+during the production of
+Legends of Runeterra
+.
+[5]
+Riposte
+and
+4
+Fiora's Riposte
+/
+4
+Riposte
+are named after the
+eponymous fencing move
+, but its effect is more akin to a
+Parry
+, alongside a Riposte.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Skirmisher
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Skirmishers
+(also known as Duelists) aim to shred through any nearby enemy that approaches. Because Skirmishers lack high-end burst damage or reliable ways of closing in on high-priority targets, they are instead armed with situationally powerful defensive tools to survive in the fray, along with extreme sustained damage to cut down even the most durable targets.
+Examples
+Fiora
+Jax
+Yasuo
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+True damage
+Applies:
+Corrupting Potion
+Omnivamp
+Mitigated by:
+Damage shields
+Invulnerability
+League of Legends content
+Default damage
+Default damage
+is dealt by effects that are not otherwise classified, or are deliberately left unclassified. This most common source of
+default damage
+is splash damage from basic attacks.
+Default damage
+does not interact with most other effects, such as
+Conqueror
+stacking,
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of the damage's non-reactive nature (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Reactive damage
+Reactive damage
+is a damage type that is currently exclusive to
+Bramble Vest
+and its upgrade
+Thornmail
+.
+Reactive damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+heals for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of the damage's non-reactive nature (e.g.
+Magic damage
+will be mitigated by
+Black Shield
+).
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Lunge
+COOLDOWN:
+13 / 11.
+25
+/ 9.
+5
+/ 7.
+75
+/ 6
+Active:
+Fiora
+dashes
+in the target direction and then stabs a nearby enemy, dealing
+physical damage
+and applying
+on-hit
+effects.
+If she stabs a target, the cooldown is
+reduced
+.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Ward
+Wards
+are deployable units that that grant
+sight
+over the surrounding area. They can only be destroyed by
+basic attacks
+, granting
+gold
+and
+experience
+.
+There are three kinds of deployable
+wards
+available for purchase:
+Control Ward
+,
+Warding Totem
+, and
+Farsight Alteration
+. Other types of wards, such as
+Zombie Ward
+, are usable through various means.
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Interrupt
+Interrupt
+is a quality of crowd control that
+interrupts
+an in-progress effect, preventing its completion or causing the effect to go off at an
+interrupted
+state.
+The following crowd control effects
+interrupt
+channeled and charged
+abilities (unless otherwise noted by the ability):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+The following crowd control effects
+interrupt
+dashes
+:
+Airborne
+Knockdown
+Stasis
+Basic attack windups
+are
+interrupted
+by all forms of crowd control that inhibit attacking.
+Ground
+and
+Root
+only
+interrupt
+channeled and charged movement abilities.
+League of Legends content
+Grand Challenge
+COOLDOWN:
+110 / 90 / 70
+Passive:
+Duelist's Dance's
+bonus
+movement speed
+is increased.
+Active:
+Fiora
+reveals all
+Vitals
+on an enemy champion and gains
+bonus
+movement speed
+while near them.
+If
+Fiora
+triggers at least one
+Vital
+before the target
+dies
+, or triggers all four, she creates a
+Victory Zone
+which continually
+heals
+Fiora
+and her allies.
+League of Legends content
+Riposte
+COOLDOWN:
+24 / 22 / 20 / 18 / 16
+Active:
+Fiora
+briefly parries all incoming damage, debuffs, and
+disables
+, then stabs in a direction, dealing
+magic damage
+to enemies hit.
+The stab
+slows
+the first enemy champion hit, or
+stuns
+them if
+Fiora
+parried an
+immobilizing
+effect.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Energized
+Energized
+is an effect of certain items and runes that grants
+Charges
+, up to 100. Champions with
+Energized
+gain 6
+Charges
+per basic attack and 1
+Charge
+for every 24 units travelled by any means.
+Voltaic Cyclosword
+is empowered to grant 1.
+75
+Charges
+for every 24 units travelled in
+stealth
+,
+dashes
+, and
+blinks
+.
+At 100 charges, they become fully
+Energized
+, empowering their next basic attack to consume the charges on-hit to trigger
+bonus
+effects. All sources of
+Energized
+stack with each other:
+Rapid Firecannon
+grants
+bonus
+attack range
+and deals
+bonus
+damage.
+Voltaic Cyclosword
+deals
+bonus
+damage and
+slows
+the target.
+Fleet Footwork
+grants
+bonus
+movement speed and
+heals
+the user.
+League of Legends content
+Cc-Immune
+Crowd control immunity
+prevents
+any
+type of
+crowd control
+from being
+applied
+to the unit. CC which has already been applied will still have an effect on the unit. Epic
+monsters
+(excluding a summoned
+Rift Herald
+) and
+turrets
+are always immune to all crowd control, with the exception of
+stasis
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Fiora's profile page
+at
+LeagueOfLegends.com
+↑
+[1]
+↑
+Morello on Fiora's origin
+↑
+DeVaan, M.
+Etymological Dictionary of Latin
+, p. 227-8
+↑
+Interview with Nicolo Laurent by French media Konbini
+, November 2022

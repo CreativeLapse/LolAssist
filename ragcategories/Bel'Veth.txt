@@ -1,0 +1,2883 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Bel'Veth
+the Empress of the Void
+Release date
+2022-06-09
+Last changed
+V14.18
+Class(es)
+Skirmisher
+Legacy
+Fighter
+Position(s)
+Jungle
+Resource
+Manaless
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+3
+Utility
+1
+Style
+Difficulty
+Bel'Veth
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Belveth
+Base statistics
+Edit
+Health
+610
++99
+Resource
+N/A
+Health regen. (per 5s)
+6
++0.6
+Resource regen.
+N/A
+Armor
+32
++4.7
+Attack damage
+60
++1.5
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+340
+Attack range
+150
+Attack speed
+Base AS
+0.85
+Attack windup
+24.75%
+AS ratio
+N/A
+Bonus AS
++0
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+600
+Special statistics
+Damage Dealt
++5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-10%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Death in Lavender
+Innate:
+Bel'Veth's
+attack speed cap is greatly increased, but her
+attack speed
+does not grow by
+leveling up
+. The damage dealt by her basic attacks (including
+on-hit
+effects) is reduced.
+Innate:
+Bel'Veth's
+ability
+casts generate stacks of
+Death in Lavender
+, which lasts a few seconds and stacks up to a cap. While
+Bel'Veth
+has stacks, she becomes
+ghosted
+and gains
+bonus
+attack speed
+. Her basic attacks consume stacks.
+Innate:
+When
+Bel'Veth
+scores a
+takedown
+against an enemy
+champion
+or
+monster
+, she generates a permanent stack of
+Lavender
+.
+Lavender:
+For each stack,
+Bel'Veth
+gains
+bonus
+attack speed
+.
+Innate:
+Bel'Veth
+attacks 36% faster than the median champion and her attack speed cap is modified to 9999.
+0
+, but all sources of damage (including
+on-hit
+effects) dealt by her basic attacks are reduced to 75%. Her
+attack speed
+does not increase through
+growth (per level)
+.
+Innate:
+Bel'Veth's
+ability
+casts each generate 2
+stacks
+of
+Death in Lavender
+, lasting for 5 seconds, refreshing on basic attacks and subsequent casts, and stacking up to 6 times. While
+Bel'Veth
+has stacks, she becomes
+ghosted
+and gains
+20% − 40% (based on level)
+bonus
+attack speed
+. Her
+basic attacks
+each consume 1 stack.
+Innate:
+Whenever
+Bel'Veth
+scores a
+takedown
+against a
+champion
+,
+monster
+, or large
+minion
+within 3 seconds of damaging them, she generates a permanent stack of
+Lavender
+. Large minions and monsters generate 1 stack, champions and epic monsters generate 2 stacks.
+Lavender:
+For each stack,
+Bel'Veth
+gains
+0.
+28
+% − 1% (based on level)
+bonus
+attack speed
+.
+Info
+Targeting input
+Passive
+Death in Lavender's
+takedown
+effect will not trigger against monsters if they were slain by an enemy.
+Death in Lavender
+stacks are indicated under
+Bel'Veth's
+health bar
+.
+Bel'Veth's
+basic attack damage modifier will reduce the damage dealt by on-hit effects even if they aren't applied on-hit.
+(bug)
+Map-Specific Differences
+Howling Abyss
+differences
+edit
+Bel'Veth
+gains 2 stacks from nearby siege minion deaths.
+Arena
+differences
+edit
+New Effect:
+Gains 12
+Lavender
+stacks per round.
+Edit
+Void Surge
+COOLDOWN:
+1
+CAST TIME:
+None
+RANGE:
+400
+COLLISION RADIUS:
+100
+SPEED:
+800 / 850 / 900 / 950 / 1000
++ 100% movement speed
+Per-Direction Cooldown:
+16 / 15 / 14 / 13 / 12
+Active:
+Bel'Veth
+dashes
+in the target direction, though not through
+terrain
+, dealing
+physical damage
+to enemies she passes through.
+Void Surge
+can be cast only within a cardinal direction that is off cooldown, each direction has a unique
+cooldown
+.
+Active:
+Bel'Veth
+dashes
+in the designated direction, though not through terrain, dealing
+physical damage
+to enemies she passes through. Against the first target,
+Void Surge
+can
+critically strike
+for
+(175% +
+40%
+) physical damage
+and applies
+on-hit
+effects at 75% effectiveness and
+life steal
+at 100% effectiveness.
+Physical Damage:
+10 / 15 / 20 / 25 / 30
+(+ 100% AD)
+Void Surge
+deals
+bonus
+physical damage
+to
+monsters
+and modified damage against
+minions
+.
+Monster Bonus Physical Damage:
+45 / 55 / 65 / 75 / 85
+Total Monster Damage:
+55 / 70 / 85 / 100 / 115
+(+ 100% AD)
+Modified Minion Damage:
+60 / 70 / 80 / 90 / 100%
+Void Surge
+can be cast only within a cardinal direction that is off cooldown, and incurs a cooldown between casts.
+Each cardinal direction
+has a unique
+cooldown
+that is reduced equivalent to 0.
+25
+ability haste
+per
+1%
+bonus
+attack speed
+. These cooldowns reset upon
+respawning
+.
+Void Surge
+resets
+Bel'Veth's
+basic attack timer.
+Info
+Targeting input
+Direction
+Insufficient dash range
+Dash will gain bonus range through terrain.
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Parries
+See Notes
+Grounded
+Disabled
+Knockdown
+Interrupted
+The icon partially darkens based on the combination of dashes available. When all dashes are expended, the cooldown indicates the next available dash.
+While in
+True Form
+,
+Void Surge's
+dash distance is extended up to
+225
+units when targeted across terrain.
+The basic attack reset is not considered one for
+Hail of Blades
+.
+Void Surge
+can be
+dodged
+and
+blocked
+only as the first enemy hit.
+Map-Specific Differences
+Ultra Rapid Fire
+differences
+edit
+Per-direction dash cooldown changed to 5 seconds at all ranks.
+*
+Edit
+Above and Below
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+CAST TIME:
+0.
+5
+RANGE:
+0 -
+660
+WIDTH:
+200
+Active:
+Bel'Veth
+slams her tail in the target direction that deals
+magic damage
+to enemies hit, briefly
+knocking up
+and
+slowing
+them. If this hits an enemy
+champion
+, it
+resets
+Void Surge's
+dash cooldown of the target direction.
+Active:
+Bel'Veth
+slams her tail down in the target direction that deals
+magic damage
+to enemies hit,
+knocks them up
+for 0.
+75
+seconds, and
+slows
+them by 50% for a duration.
+Magic Damage:
+70 / 110 / 150 / 190 / 230
+(+ 100%
+bonus
+AD)
+(+ 125% AP)
+Slow Duration:
+1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 / 2.
+25
+seconds
+If this hits an enemy
+champion
+, it resets
+Void Surge's
+dash
+cooldown
+of the target direction.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+This ability will cast from wherever the caster is at the start of the cast time.
+Above and Below
+can reset the cooldown of each dash from
+Void Surge
+.
+More than one cooldown can be reset if enemy champions were hit within multiple directions.
+The cooldowns that get reset are based on the relative direction to
+Bel'Veth
+at the end of the cast
+If
+Void Surge
+'s dash comes off cooldown during
+Above and Below's
+cast time,
+Bel'Veth
+will be able to dash twice in the same direction.
+(bug)
+Edit
+Royal Maelstrom
+COOLDOWN
+:
+20 / 19 / 18 / 17 / 16
+CAST TIME:
+None
+EFFECT RADIUS:
+500
+Active:
+Bel'Veth
+enters a brief defensive stance, gaining
+life steal
+and damage reduction.
+During this time,
+Bel'Veth
+rapidly slashes at the most wounded enemy, with the max number of slashes increased based on
+her
+bonus
+attack speed
+. Each slash deals
+physical damage
+, and
+applies
+life steal
+,
+on-hit
+and
+spell
+effects based on the
+target's
+missing
+health
+.
+Royal Maelstrom
+can be recast within the duration, and does so automatically afterwards or when
+Bel'Veth
+casts an ability.
+Recast:
+Bel'Veth
+ends
+Royal Maelstrom
+.
+Active:
+Bel'Veth
+enters a defensive stance for 1.
+5
+seconds, during which she is unable to move, but gains damage reduction and
+20%
+(+
+100% life steal
+)
+life steal
+.
+Damage Reduction:
+35 / 40 / 45 / 50 / 55%
+While active, she rapidly slashes at the nearest enemy with the lowest
+current
+health
+percentage for up to 6 (+ 1 per
+33.
+3
+%
+bonus
+attack speed
+) times over the duration. Each slash deals
+physical damage
+, increased by
+0% − 300% (based on target's
+missing
+health)
+, and applies
+on-hit
+,
+on-attack
+, and
+spell
+effects at
+8% − 32% (based on target's
+missing
+health)
+effectiveness.
+Minimum Physical Damage per hit:
+6 / 7 / 8 / 9 / 10
+(+ 8% AD)
+Maximum Physical Damage per hit:
+24 / 28 / 32 / 36 / 40
+(+ 32% AD)
+Royal Maelstrom
+deals 150% damage to
+monsters
+,
+applies
+life steal
+at 100% effectiveness, and is affected by
+critical strike
+modifiers.
+Bel'Veth
+cannot perform slashes while unable to declare basic attacks.
+Minimum Monster Damage per hit:
+9 / 10.
+5
+/ 12 / 13.
+5
+/ 15
+(+ 12% AD)
+Maximum Monster Damage per hit:
+36 / 42 / 48 / 54 / 60
+(+ 48% AD)
+Royal Maelstrom
+can be recast after 0.
+75
+seconds within the duration, and does so automatically after the duration or when
+Bel'Veth
+casts an ability.
+Recast:
+Bel'Veth
+ends
+Royal Maelstrom
+.
+The target does not have to be
+visible
+to be hit by this ability.
+Info
+Targeting input
+Auto
+Damage type
+Type
+See Notes
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Applies
+spell damage
+and procs
+basic damage
+required effects.
+Royal Maelstrom
+does not prioritize champions over other units.
+Bel'Veth
+cannot attack
+structures
+,
+wards
+, nor
+jungle plants
+with
+Royal Maelstrom
+.
+If
+Bel'Veth
+is
+berserked
+or
+taunted
+, she will slash at the unit she is forced to attack.
+Royal Maelstrom
+will still perform slashes even if
+Bel'Veth
+is
+feared
+during the channel.
+Each slash's damage triggers a stack of
+Conqueror
+.
+Despite this ability's cooldown starts on cast, it cannot be reduced by
+Navori Flickerblade's
+Transcendence
+during the effect of this ability.
+(bug)
+Cooldowns of the other basic abilities can be normally reduced during this ability, though.
+The following table refers for interactions while
+Bel'Veth
+is performing
+Royal Maelstrom
+:
+Attacking
+Disabled
+Abilities
+Interrupts
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+N/A
+Interrupted by
+All items interrupt
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Hexflash
+Disabled
+Teleport
+Recall
+Interrupted by
+Flash
+Interrupted by
+Death
+Map-Specific Differences
+Arena
+differences
+edit
+Life steal changed to 30%.
+Edit
+Endless Banquet
+COOLDOWN:
+1
+CAST TIME:
+1
+RANGE:
+350
+EFFECT RADIUS:
+500
+Passive:
+Every second basic attack on the same target deals
+bonus
+true damage
+and generates a stack that increases the damage. This can stack infinitely, and expires after a short time or upon switching targets.
+Passive:
+Takedowns
+against enemy
+champions
+and epic
+monsters
+spawn a
+Void Coral
+for some time. Taking down
+Baron Nashor
+, the pit
+Rift Herald
+, or a
+Voidgrub
+spawns an
+Enhance Void Coral
+.
+Active:
+Bel'Veth
+dashes
+to the target
+Void Coral
+, gradually
+slowing
+nearby enemies before violently exploding, dealing
+true damage
+based on
+their
+missing
+health
+and assuming her
+True Form
+for a while. Consuming an
+Enhanced Void Coral
+enhances her
+True Form
+.
+True Form:
+Bel'Veth
+gains bonus
+health
+, out of combat
+move speed
+,
+attack range
+, and increased
+total
+attack speed
+. During this time,
+Void Surge
+can
+dash
+through terrain, consuming more
+Void Corals
+renews the form's duration and
+heals her
+instead.
+Enhanced Void Coral Bonus:
+True Form
+is empowered with a longer duration and causes
+Void Remora
+to spawn from minions that die nearby.
+Passive:
+Bel'Veth's
+basic attacks
+on-hit
+apply a mark to the target for 5 seconds, refreshing on subsequent hits. Every second attack
+on-hit
+against the marked target deals
+bonus
+true damage
+and generates a stack of
+Endless Banquet
+that increases this damage by the same value. This effect stacks infinitely, but is capped at 5 stacks against epic
+monsters
+. The mark and stacks expire upon attacking a new target.
+Bonus True Damage:
+6 / 8 / 10
+(+ 12%
+bonus
+AD)
+Maximum Monster Damage:
+30 / 40 / 50
+(+ 60%
+bonus
+AD)
+Passive:
+When
+Bel'Veth
+scores a
+takedown
+against an enemy
+champion
+or epic
+monster
+while alive, a
+Void Coral
+is spawned from their corpse for 15 seconds.
+Baron Nashor
+, the pit
+Rift Herald
+, and
+Voidgrubs
+(once per spawn group) spawn an
+Enhanced Void Coral
+.
+Active:
+Bel'Veth
+dashes
+to the target
+Void Coral
+to consume it over the cast time,
+slowing
+nearby enemies by
+25% − 96% (based on seconds elapsed)
+for the duration. She then creates an explosion at the location to deal
+true damage
+to enemies within, capped at
+1500
+versus monsters, and assumes her
+True Form
+for 60 seconds.
+Bel'Veth
+consumes all existing
+Void Corals
+at once, generating a stack of
+Lavender
+for each one consumed.
+True Damage:
+150 / 200 / 250
+(+ 100% AP)
+(+ 25% of target's
+missing
+health)
+True Form:
+Bel'Veth
+evolves into a monster, gaining
+bonus
+health
+,
+bonus
+movement speed
+out-of-combat
+,
+75
+bonus
+attack range
+, as well as increased
+total
+attack speed
+.
+Void Surge
+can
+dash
+through
+terrain
+. Consuming a
+Void Coral
+refreshes
+the duration of
+True Form
+and
+heals
+Bel'Veth
+.
+Enhanced Void Coral Bonus:
+True Form
+is empowered to last 180 seconds and causes
+Void Remora
+to spawn from allied and enemy
+minions
+that die nearby.
+Bonus Health:
+100 / 150 / 200
+(+ 120%
+bonus
+AD)
+(+ 90% AP)
+Bonus Movement Speed:
+10 / 45 / 80
+Increased Total Attack Speed:
+10 / 15 / 20%
+Heal:
+100 / 150 / 200
+(+ 120%
+bonus
+AD)
+(+ 90% AP)
+A nearby Void Coral is required to cast this ability. The
+on-hit
+modifiers from
+Death in Lavender
+,
+Void Surge
+and
+Royal Maelstrom
+affect the
+bonus
+true damage
+applied by Endless Banquet's passive. See
+Pets
+for details about Void Remora and Void Corals.
+Info
+Targeting input
+Unit
+Damage type
+Type
+See Notes
+Sub-type
+True
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+See Notes
+Applies
+proc damage
+on the bonus true damage and deals
+area damage
+on the explosion.
+Endless Banquet's
+takedown
+effect will not trigger against monsters if they were slain by an enemy.
+Endless Banquet's
+true damage based on the target's missing health is calculated
+before
+the base damage is dealt.
+True Form's
+duration is displayed in
+Bel'Veth's
+resource bar, in seconds.
+True Form's
+duration is refreshed based on the type of
+Void Coral
+that
+Bel'Veth
+consumes.
+Consuming a normal
+Void Coral
+in a normal
+True Form
+state refreshes the duration to 60 seconds.
+Consuming an enhanced
+Void Coral
+refreshes the duration to 180 seconds and grants the enhanced effects regardless of current
+True Form
+state.
+If she consumes a normal
+Void Coral
+while in an enhanced
+True Form
+state, the current duration is extended by 60 seconds.
+The enhanced effects are
+not
+lost in this case.
+Bel'Veth
+will consume all existing
+Void Corals
+at once, therefore she is able to acquire the enhanced effects of
+True Form
+even if she does not physically consume an enhanced
+Void Coral
+.
+The
+Void Coral
+that
+Bel'Veth
+consumes herself will not expire in the process of her doing so.
+Bel'Veth
+will consume all other
+Void Corals
+upon consumption regardless of range.
+Ranking up
+Endless Banquet
+will update the bonuses dynamically; if
+Bel'Veth
+has
+True Form
+upon the level-up, she will receive the upgraded stats.
+Bel'Veth
+gains the
+bonus
+health and heal from
+Endless Banquet
+at the start of the cast time.
+Bel'Veth
+will be able to consume the target
+Void Coral
+even if her dash is interrupted.
+She dashes at the start of the cast time.
+A
+Void Coral
+will
+not
+spawn when scoring a
+takedown
+against a summoned
+Rift Herald
+.
+This ability will cast from wherever the caster is at the start of the cast time.
+The following table refers for interactions while
+Bel'Veth
+is in cast time:
+She remains locked out for 0.
+5
+seconds after the cast time completes.
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Map-Specific Differences
+Howling Abyss
+differences
+edit
+Enhanced Void Corals spawn from nearby turrets being destroyed.
+Nexus Blitz
+differences
+edit
+New Effect:
+Enemy
+Jungle Guardians
+now drop an
+Enhanced Void Coral
+upon death.
+Arena
+differences
+edit
+Base on-hit damage changed to 8 / 10 / 12.
+Pets
+[
+edit
+|
+edit source
+]
+Void Remora
+Melee
+Ranged
+Bounty
+Gold
+3
+Exp
+0
+CS
+0
+Statistics
+Health
+20 / 45 / 70% of minion's
+maximum
+health
+Attack damage
+110% of minion's AD
+Attack speed
+1.
+25
+/
+0.
+52
+Range
+110
+/
+550
+Armor
+0
+Magic resist
+0
+Move speed
+505
+Control type
+Autonomous
+Target type
+Lane Minion
+, but does not count towards the minion kill tracking score
+On-hit effects
+Void Remora's
+attacks are mitigated by
+dodge
+,
+block
+, and
+blind
+.
+Spell effects
+Void Remora's
+basic attacks apply
+spell effects
+as
+basic damage
+.
+Protection
+N/A
+Abilities
+Reborn
+Void Remora
+are summoned by all lane minions that are killed while
+Bel'Veth
+is within
+1000
+units of them including allied ones. They emerge from the Void after 0.
+75
+seconds of the minion dying. Each type of minion killed spawns a certain number of
+Void Remora
+:
+Melee minions
+- 1 Melee
+Caster minions
+- 1 Ranged
+Siege minions
+- 1 Melee and 1 Ranged
+Super minions
+- 2 Melee and 2 Ranged
+Replicate
+Void Remora
+are spawned with the stats that a minion would have at the time of the match.
+Serve
+Void Remora
+automatically move down the lane in which they were spawned in and attack any enemy within their path.
+Bel'Veth
+receives the credit for any unit the
+Void Remora
+kill.
+General
+Void Remora
+are special cased to have most of the same behaviors and interactions as regular lane minions.
+They can be empowered by the
+Hand of Baron
+.
+Bonus attack range and AD is not granted, but the haste and size is.
+Nearby allied
+Super minions
+will grant them the effects of
+Super Mech Power Field
+.
+They have equal targeting priority to
+turrets
+as minions.
+They do not have
+turret
+damage modifiers (
+Gusto
+and
+Phreakish Gusto
+) nor are treated as minions to
+Spoils of War
+.
+Void Remora
+have 400
+base
+movement speed and 150
+bonus
+movement speed from both scaling and push bonuses. This equates to 550
+total
+movement speed that is soft capped to 505.
+Void Coral
+Control type
+N/A
+Target type
+N/A
+Abilities
+Consumable
+Void Corals
+are spawned from the corpses of epic monsters and champions that
+Bel'Veth
+has
+taken down
+. She may consume the
+Void Coral
+by casting
+Endless Banquet
+on it to embrace her
+True Form
+. They cannot be targeted by any unit but
+Bel'Veth
+.
+From the Void
+Void Corals
+spawned from the corpses of
+Baron Nashor
+and
+Rift Herald
+empower
+Bel'Veth's
+True Form
+with an extended duration and the ability to summon
+Void Remora
+from the deaths of lane minions.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Bel'Veth (Collection)
+.
+Original
+View in 3D
+975
+09.06.2022
+A nightmarish empress created from the raw material of an entire devoured city, Bel’Veth is the end of Runeterra itself... and the beginning of a monstrous reality of her own design. Driven by epochs of repurposed history, knowledge, and memories from the world above, she voraciously feeds an ever-expanding need for new experiences and emotions, consuming all that crosses her path. Yet her wants could never be sated by only one world as she turns her hungry eyes toward the Void’s old masters...
+Anoush NeVart
+Terence 'Terrylefruit' Cantal
+Loot eligible
+Battle Boss
+View in 3D
+1350
+09.06.2022
+True final boss of the hit 1998 RPG "Initial Reverie VIII," Bel'Veth has become a staple of the series thanks to fan popularity and her storyline about assimilating all of reality into herself. Recruited into the war in Arcadia by Veigar, she has decided to ignore his commands, annihilate everything in her path, and assimilate all of Arcade World into herself. Who could have seen it coming?
+Anoush NeVart
+Edward Chee, West Studio
+Arcade: Battle Bosses
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Battle Boss Bel'Veth Chromas
+Catseye
+Emerald
+Obsidian
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Cosmic Matriarch
+View in 3D
+1350
+30.08.2023
+A lonely cradle of life amongst the stars, Bel'Veth wanders ruined space in the aftermath of the Cosmic Court's destruction. She refuses to allow the Dark Star's entropy to spread any further, and so has begun plucking chosen creatures from dying worlds, imbuing them with the power to fight by her side and contain the corruption before it is too late.
+Anoush NeVart
+Exia Xiaotong, West Studio
+Cosmic
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Cosmic Matriarch Bel'Veth Chromas
+Amethyst
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Turquoise
+Primordian
+View in 3D
+1350
+17.07.2024
+The tide of war has turned, with Primordians scattered and Anima Squad idling safely in Final City. But deep below the tranquil sea, Bel'Veth plots. A creature of incredible intelligence, she grew used to living in Aatrox's shadow, her masterful tactics less bombastic than his brute strength. Now her time has come to rise above the waters and strike.
+Anoush NeVart
+Herbie Wang, Kudos Productions
+Primordian
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Primordian Bel'Veth Chromas
+Abyssal
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.18
+General
+Bug Fix:
+Certain voiceover lines will now properly trigger to play.
+V14.14
+Stats
+Attack range reduced to 150 units from 175.
+Endless Banquet
+Bonus attack range increased to 75 units from 50.
+V14.9
+Death in Lavender
+Bonus attack speed per
+Lavender
+stack reduced to
+0.
+28
+% − 1% (based on level)
+from
+0.
+28
+% − 1% (based on level)
+.
+Now scales until level 17 instead of 13.
+Void Surge
+AD ratio reduced to
+100% AD
+from
+110% AD
+.
+Removed:
+No longer deals 140% damage to monsters.
+New Effect:
+Now deals 45 / 55 / 65 / 75 / 85
+bonus
+damage to monsters.
+V14.5
+Death in Lavender
+Bug Fix:
+Per-
+Voidgrub
+and
+Rift Herald
+takedowns now properly grant 2 Lavender stacks instead of 3.
+Royal Maelstrom
+Damage reduction reduced to 35 / 40 / 45 / 50 / 55% from 42 / 49 / 56 / 63 / 70%.
+V13.21
+Royal Maelstrom
+Cooldown reduced to 20 / 19 / 18 / 17 / 16 seconds from 24 / 22.
+5
+/ 21 / 19.
+5
+/ 18.
+V13.20
+Death in Lavender
+Bonus attack speed from ability casts reduced to
+20% − 40% (based on level)
+from
+25% − 50% (based on level)
+.
+Royal Maelstrom
+Damage reduction reduced to 42 / 49 / 56 / 63 / 70% from 70% at all ranks.
+Minimum base damage per hit reduced to 6 / 7 / 8 / 9 / 10 from 8 / 10 / 12 / 14 / 16.
+Maximum base damage per hit reduced to 24 / 28 / 32 / 36 / 40 from 32 / 40 / 48 / 56 / 64.
+Minimum AD ratio per hit increased to
+8% AD
+from
+6% AD
+.
+Maximum AD ratio per hit increased to
+32% AD
+from
+24% AD
+.
+On-hit, on-attack, and spell modifier increased to
+8% − 32% (based on target's
+missing
+health)
+from
+6% − 24%
+.
+New Effect:
+Damage can now critically strike.
+Endless Banquet
+Bonus movement speed changed to 10 / 45 / 80 from 25 / 50 / 75.
+Remora health changed to
+20 / 45 / 70% of minion's
+maximum
+health
+from
+40 / 50 / 60%
+.
+V13.15
+- August 3rd Hotfix
+Void Surge
+Bug Fix:
+Directional indicators restored.
+V13.13
+Endless Banquet
+Bug Fix:
+No longer causes the passive mark to expire from casting
+Void Surge
+and
+Royal Maelstrom
+on different targets.
+V13.9
+Stats
+Attack damage growth reduced to 1.
+5
+from 1.
+7
+.
+Void Surge
+Damage against monsters increased to 140% from 120%.
+V13.4
+Royal Maelstrom
+Bug Fix:
+Initial SFX no longer improperly plays for each hit of the ability.
+Bug Fix:
+Queuing the ability during
+Endless Banquet
+no longer causes the animations for both of the abilities to stutter.
+V12.21
+Royal Maelstrom
+Cooldown increased to 24 / 22.
+5
+/ 21 / 19.
+5
+/ 18 seconds from 22 / 20.
+5
+/ 19 / 17.
+5
+/ 16.
+Endless Banquet
+Void Remora health reduced to
+40 / 50 / 60% of minion's
+maximum
+health
+from
+50 / 60 / 70%
+.
+V12.15
+Royal Maelstrom
+Bug Fix:
+Fixed a bug where it would not cancel when casting
+Endless Banquet
+on an out-of-range Void Coral.
+V12.14
+Royal Maelstrom
+Bug Fix:
+The ability will no longer globally attack the enemy
+Renata Glasc
+while
+Bel'Veth
+is affected by
+berserk
+.
+V12.13
+General
+Primary resource bar now tracks the remaining duration of
+True Form
+.
+Passive stacks are now displayed by a secondary resource indicator under the health bar.
+Endless Banquet
+Bug Fix:
+Ranged
+Void Remora
+now properly receive the
+Hand of Baron
+buff.
+Bug Fix:
+Void Corals
+no longer spawn between the normal realm and the
+Realm of Death
+.
+Size while in
+True Form
+has been slightly decreased.
+V12.12
+- June 30th Hotfix
+Stats
+Attack damage growth reduced to 1.
+7
+from 2.
+Health growth reduced to 99 from 105.
+Royal Maelstrom
+Lifesteal reduced to 20% at all ranks from 20 / 21.
+5
+/ 23 / 24.
+5
+/ 26%.
+Cooldown increased to 22 / 20.
+5
+/ 19 / 17.
+5
+/ 16 seconds from 22 / 20 / 18 / 16 / 14.
+Endless Banquet
+Bonus health bonus AD ratio reduced to
+120%
+bonus
+AD
+from
+165%
+.
+Heal bonus AD ratio reduced to
+120%
+bonus
+AD
+from
+165%
+.
+V12.12
+General
+True Form
+basic attack animation adjusted to swing slightly less at slower attack speeds.
+Bug Fix:
+Attack SFX are no longer audible through the Fog of War occasionally.
+Stats
+Attack range increased to 175 from 125.
+Base health regeneration reduced to 6 from 8.
+5
+.
+Health regeneration growth reduced to 0.
+6
+from 0.
+85
+.
+Death in Lavender
+New Effect:
+Now gains
+Lavender
+stacks from scoring takedowns against large minions on
+Summoner's Rift
+within 3 seconds of damaging them.
+Bonus attack speed per
+Lavender
+stack changed to
+0.
+28
+% − 1% (based on level)
+from
+0.
+25
+% − 1.
+25
+% (based on level)
+.
+Void Surge
+Bug Fix:
+Endless Banquet's
+bonus
+true damage on-hit is no longer doubled when applied by this ability.
+Bug Fix:
+No longer triggers on-cast effects (e.g.
+Sheen
+) for casting the ability in a direction that isn't available while other dash directions are.
+Royal Maelstrom
+Minimum base damage per hit reduced to 8 / 10 / 12 / 14 / 16 from 8 / 11 / 14 / 17 / 20.
+Life steal reduced to 20 / 21.
+5
+/ 23 / 24.
+5
+/ 26% from 20 / 22 / 24 / 26 / 28%.
+Animation in
+True Form
+while at a high attack speed has been updated.
+Endless Banquet
+Health ratio reduced to
+25% of target's
+missing
+health
+at all ranks from
+25 / 30 / 35%
+.
+Bonus attack range reduced to 50 at all ranks from 50 / 75 / 100.
+Void Remora health reduced to
+50 / 60 / 70% of minion's
+maximum
+health
+from
+70%
+at all ranks.
+Bug Fix:
+Bonus health is no longer lost from consuming a
+Void Coral
+while already in
+True Form
+.
+Bug Fix:
+Remaining duration of buff no longer occasionally fails to refresh correctly upon consuming
+Void Coral
+.
+Bug Fix:
+Remora no longer spawn a
+Void Coral
+whenever dealing damage to
+Sion
+under the effect of
+Glory in Death
+.
+V12.11
+- Added
+Death in Lavender
+(Innate)
+Innate:
+After casting an ability,
+Bel'Veth
+gains 2 stacks for 5 seconds, stacking up to 6 times and refreshing on subsequent ability casts. While
+Bel'Veth
+has stacks, she becomes
+ghosted
+and gains
+25% − 50% (based on level)
+bonus
+attack speed
+. Her basic attacks each consume 1 stack.
+Innate:
+Whenever
+Bel'Veth
+scores a
+takedown
+against a
+champion
+or
+monster
+within 3 seconds of damaging them, she gains stacks of
+Lavender
+permanently. Large monsters grant her 1 stack and champions and epic monsters grant her 2. Each stack grants her
+0.
+25
+% − 1.
+25
+% (based on level)
+bonus
+attack speed
+.
+Bel'Veth
+can exceed the attack speed cap, but all sources of damage dealt or triggered by her basic attacks are reduced by 25%, including
+on-hit
+effects. She cannot gain attack speed through growth (per level).
+Void Surge
+(Q)
+Active:
+Bel'Veth
+dashes
+a fixed distance in a designated direction, though not through terrain, dealing 10 / 15 / 20 / 25 / 30
+(+ 110% AD)
+physical damage
+to enemies she passes through and applying
+on-hit
+and spell effects at 75% effectiveness to the first target hit.
+Void Surge
+can
+critically strike
+for
+(75% +
+35%
+)
+bonus
+physical damage
+.
+Void Surge
+deals 120% damage to monsters and 60 / 70 / 80 / 90 / 100% damage against minions.
+Void Surge
+can only be cast in each of
+Bel'Veth's
+cardinal directions with a cooldown that incurs between casts. Each direction has a unique cooldown that is reduced equivalent to 0.
+25
+ability haste per
+1%
+bonus
+attack speed
+.
+These cooldowns reset upon respawning.
+Void Surge
+resets
+Bel'Veth's
+basic attack timer.
+Cooldown:
+1 second.
+Per-Direction Cooldown:
+16 / 15 / 14 / 13 / 12
+seconds.
+Range:
+400,
+Collision Radius:
+100
+,
+Cast Time:
+None.
+Speed:
+800 / 850 / 900 / 950 / 1000
++ 100% movement speed
+.
+Above and Below
+(W)
+Active:
+Bel'Veth
+slams her tail down in the target direction, dealing 70 / 110 / 150 / 190 / 230
+(+ 100%
+bonus
+AD)
+(+ 125% AP)
+magic damage
+to enemies struck,
+knocking them up
+for 0.
+75
+seconds, and
+slowing
+them by 50% for 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 / 2.
+25
+seconds.
+Hitting an enemy champion with
+Above and Below
+resets
+Void Surge's
+dash cooldown of the direction they were hit.
+Cooldown:
+12 / 11 / 10 / 9 / 8 seconds.
+Range:
+0 -
+660,
+Width:
+200,
+Cast Time:
+0.
+5
+seconds.
+Royal Maelstrom
+(E)
+Active:
+Bel'Veth
+rapidly slashes at the nearest enemy with the lowest
+current
+health
+percentage 6 (+ 1 per
+33.
+3
+%
+bonus
+attack speed
+) times over 1.
+5
+seconds, dealing 8 / 11 / 14 / 17 / 20
+(+ 6% AD)
+physical damage
+with each slash, increased by
+0% − 300% (based on target's
+missing
+health)
+, and applying
+on-hit
+,
+on-attack
+, and spell effects at
+6% − 24% (based on target's
+missing
+health)
+effectiveness.
+Royal Maelstrom
+deals 150% damage to monsters and its attacks
+apply
+life steal but cannot
+critically strike
+.
+Bel'Veth
+gains 70% damage reduction, 20 / 22 / 24 / 26 / 28% (+
+100% life steal
+) life steal, and is unable to move during
+Royal Maelstrom
+. She cannot perform slashes while unable to declare basic attacks.
+Royal Maelstrom
+can be recast after 0.
+75
+seconds within the duration, and does so automatically afterwards or when
+Bel'Veth
+casts an ability.
+Recast:
+Bel'Veth
+ends
+Royal Maelstrom
+.
+Cooldown:
+22 / 20 / 18 / 16 / 14
+seconds.
+Effect Radius:
+500,
+Cast Time:
+None.
+Endless Banquet
+(R)
+Passive:
+Bel'Veth's
+basic attacks
+on-hit
+apply a mark to the target for 5 seconds, refreshing on subsequent attacks and expiring upon attacking a new target. Every second attack
+on-hit
+against the marked target deals 6 / 8 / 10
+(+ 12%
+bonus
+AD)
+bonus
+true damage
+and grants a stack that increases this damage by the same value. This effect stacks infinitely, but is capped at 5 stacks against epic
+monsters
+.
+Additionally, whenever
+Bel'Veth
+scores a
+takedown
+against a champion or epic monster while being alive, a
+Void Coral
+is spawned from their corpse for 15 seconds.
+Baron Nashor
+and
+Rift Herald
+summon an enhanced
+Void Coral
+.
+Active:
+Bel'Veth
+dashes
+to the target
+Void Coral
+and consumes it over the cast time,
+slowing
+nearby enemies by 25%, which ramps up to 99% over the duration, then creates an explosion that deals 150 / 200 / 250
+(+ 100% AP)
+(+ 25 / 30 / 35% of target's
+missing
+health)
+true damage
+to them. Upon consumption,
+Bel'Veth
+also consumes all other existing
+Void Corals
+, gains a stack of
+Lavender
+per
+Void Coral
+consumed, and assumes her
+True Form
+for 60 seconds.
+If
+Bel'Veth
+consumed at least one enhanced
+Void Coral
+, she gains an enhanced
+True Form
+that lasts 180 seconds and causes
+Void Remora
+to spawn from the deaths of nearby lane
+minions
+.
+Void Remora
+have
+70% of the minion's
+maximum
+health
+and
+110% of the minion's AD
+.
+A nearby
+Void Coral
+is required to cast this ability.
+True Form:
+Bel'Veth
+evolves into a monster, gaining 100 / 150 / 200
+(+ 165%
+bonus
+AD)
+(+ 90% AP)
+bonus
+health
+, 25 / 50 / 75
+bonus
+movement speed
+out-of-combat, 50 / 75 / 100
+bonus
+attack range, as well as 10 / 15 / 20% increased
+total
+attack speed
+. She also gains the ability to dash through terrain with
+Void Surge
+. Consuming
+Void Corals
+while in this state refreshes the duration of
+True Form
+and
+heals
+Bel'Veth
+for 100 / 150 / 200
+(+ 165%
+bonus
+AD)
+(+ 90% AP)
+.
+Cooldown:
+1 second.
+Effect Radius:
+500,
+Cast Time:
+1 second.
+Trivia
+[
+edit
+|
+edit source
+]
+Bel'Veth
+is one of 15 champions that have an ability that infinitely stacks an effect:
+Aurelion Sol
+,
+Bard
+,
+Cho'Gath
+,
+Draven
+,
+Kindred
+,
+Nasus
+,
+Senna
+,
+Shyvana
+,
+Sion
+,
+Smolder
+,
+Swain
+,
+Sylas
+,
+Thresh
+, and
+Veigar
+.
+In Bel'Veth's case,
+Death in Lavender
+infinitely stacks the bonus attack speed gained from
+Lavender
+stacks and
+Endless Banquet
+infinitely stacks the bonus true damage dealt by the passive.
+If
+Bel'Veth
+has an attack speed of
+1.
+8
+or higher, her attack animations will change to thrust at the target instead of swiping at them.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Skirmisher
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Skirmishers
+(also known as Duelists) aim to shred through any nearby enemy that approaches. Because Skirmishers lack high-end burst damage or reliable ways of closing in on high-priority targets, they are instead armed with situationally powerful defensive tools to survive in the fray, along with extreme sustained damage to cut down even the most durable targets.
+Examples
+Fiora
+Jax
+Yasuo
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Manaless
+A
+champion
+that is
+manaless
+does not use nor benefit from
+mana
+or
+mana regeneration
+, and includes the following:
+Energy
+users
+Flow
+users
+Fury
+users
+Heat
+users
+Health
+exclusive users
+Resourceless users
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Takedown
+Takedown
+refers to a
+kill
+or
+assist
+being acceptable, with the type of enemy specified in each use case.
+Takedown
+is associated with triggering a
+passive
+effect, or timed effects shortly after scoring.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Howling Abyss
+The Howling Abyss is a bottomless crevasse located in the coldest, cruelest, part of the
+Freljord
+. Legends say that, long ago, a great battle took place here on the narrow bridge spanning this chasm. No one remembers who fought here, or why, but it is said that if you listen carefully to the wind you can still hear the cries of the vanquished tossed howling into the Abyss.
+Regular Modes
+Classic 5v5
+(
+All random
+)
+Custom
+Featured Game Modes
+Legend of the Poro King
+One For All
+One For All: Mirror Mode
+Snowdown Showdown
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Endless Banquet
+COOLDOWN:
+1
+Passive:
+Every second basic attack on the same target deals
+bonus
+true damage
+and generates a stack that increases the damage. This can stack infinitely, and expires after a short time or upon switching targets.
+Passive:
+Takedowns
+against enemy
+champions
+and epic
+monsters
+spawn a
+Void Coral
+for some time. Taking down
+Baron Nashor
+, the pit
+Rift Herald
+, or a
+Voidgrub
+spawns an
+Enhance Void Coral
+.
+Active:
+Bel'Veth
+dashes
+to the target
+Void Coral
+, gradually
+slowing
+nearby enemies before violently exploding, dealing
+true damage
+based on
+their
+missing
+health
+and assuming her
+True Form
+for a while. Consuming an
+Enhanced Void Coral
+enhances her
+True Form
+.
+True Form:
+Bel'Veth
+gains bonus
+health
+, out of combat
+move speed
+,
+attack range
+, and increased
+total
+attack speed
+. During this time,
+Void Surge
+can
+dash
+through terrain, consuming more
+Void Corals
+renews the form's duration and
+heals her
+instead.
+Enhanced Void Coral Bonus:
+True Form
+is empowered with a longer duration and causes
+Void Remora
+to spawn from minions that die nearby.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Ultra Rapid Fire (U.R.F.)
+Ultra Rapid Fire
+is a
+Featured Game Mode
+that takes place on
+Summoner's Rift
+with the same objective as
+Classic 5v5
+, except all
+champions
+benefit from the
+Awesome Buff of Awesomely Awesome Buffing
+that grants excessive  ability haste and removes ability costs. The gameplay is
+explosive
+. The game mode can be played as
+All Random
+or
+Blind pick
+depending on the year.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Void Surge
+COOLDOWN:
+1
+Active:
+Bel'Veth
+dashes
+in the target direction, though not through
+terrain
+, dealing
+physical damage
+to enemies she passes through.
+Void Surge
+can be cast only within a cardinal direction that is off cooldown, each direction has a unique
+cooldown
+.
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Applies life steal
+"Applies life steal"
+is a
+damage tag
+that gives an ability the property of having a damage source apply
+life steal
+like
+basic attack damage
+would.
+This tag is located on some abilities that deal
+spell damage
+(e.g.
+Samira's
+Flair
+and
+Inferno Trigger
+) and
+items
+that deal damage
+on-hit
+.
+Life steal
+does not have a penalty for
+area of effect
+abilities and is always applied to the damage dealt at 100% effectiveness, unless otherwise specified. Unlike
+Vamp
+, the
+"applies life steal"
+tag applies life steal directly and does not
+heal
+based on damage dealt and the life steal
+stat
+. Therefore healing modifiers that affect
+life steal
+also affect abilities with the
+"applies life steal"
+tag.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+References
+[
+edit
+|
+edit source
+]
+↑
+Bel'Veth's profile page
+at
+LeagueOfLegends.com

@@ -1,0 +1,3115 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Kalista
+the Spear of Vengeance
+Release date
+2014-11-20
+Last changed
+V14.13
+Class(es)
+Marksman
+Legacy
+Marksman
+Position(s)
+Bottom
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+3
+Utility
+2
+Style
+Difficulty
+Kalista
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Kalista
+Base statistics
+Edit
+Health
+600
++114
+Mana
+300
++45
+Health regen. (per 5s)
+4
++0.75
+Mana regen. (per 5s)
+6.3
++0.4
+Armor
+24
++5.2
+Attack damage
+59
++3.25
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+525
+Attack speed
+Base AS
+0.694
+Attack windup
+36% (mod. 0.75)
+AS ratio
+N/A
+Bonus AS
++4.5
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+100
+Pathing radius
+35
+Acq. radius
+900
+Special statistics
+Damage Dealt
++10%
+Damage Received
+-10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++10%
+Damage Received
+-10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Basic Attack
+ATTACK RANGE:
+525
+Basic Attack:
+Kalista's
+basic attack windup is
+uncancellable
+except by casting
+Rend
+, although she can input a new attack command to change her target during the windup.
+Additionally,
+Kalista's
+attack windup
+is only reduced by 0.
+75
+% per
+1%
+bonus
+attack speed
+.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Basic damage
+Sub-type
+Physical
+Counters
+Parries
+Blocked
+Projectile
+Blocked
+Kalista
+shares having an unusual basic attack windup modifier with a few other champions.
+See
+List of champions/Basic attacks
+for a list.
+Kalista
+also has the longest relative basic attack windup time of all champions, however this is offset by her high base attack speed and attack speed scaling.
+Edit
+Martial Poise
+TETHER RADIUS:
+1100
+Maximum Target Range:
+240 / 263 / 280 / 300 (based on Boots Tier)
+Dash Speed:
+1025 / 1100 / 1160 (based on Boots Tier)
+Innate:
+During each basic attack or casting of
+Pierce
+,
+Kalista
+can optionally choose a target direction to quickly
+dash
+to. The range is based on dash angle and
+Kalista's
+Boots
+tier. The dash speed scales with
+bonus
+attack speed
+and certain movement speed effects.
+Innate - Oathsworn Bond:
+Kalista
+begins the game with an exclusive
+Black Spear
+.
+Innate:
+Whenever
+Kalista
+inputs a
+movement command
+during her
+basic attack
+windup or the cast time of
+Pierce
+, she will
+dash
+a short distance in the direction of the inputted location.
+Kalista
+cannot dash
+while
+immobilized
+or
+grounded
+, and she will be
+knocked down
+by any
+immobilizing
+or
+polymorphing
+crowd control during the dash.
+Martial Poise'
+s dash range and speed details:
+Dash range of basic attacks is modified by the
+tier
+of
+Kalista's
+Boots
+and the specific angle of the dash.
+At a 0° angle towards the target, the minimum dash range is
+140 / 153 / 166 / 175 (based on Boots Tier)
+units.
+At a 90° angle, the maximum dash range is
+240 / 263 / 280 / 300 (based on Boots Tier)
+units.
+Dash range of
+Pierce
+is 300 units when dashing anywhere in the direction of the point of cast.
+If the dash is inputted to a location that is
+away
+from
+Pierce's
+point of cast, the dash range is reduced based on the cast angle, with a minimum distance of 150 units if the inputted location is
+directly opposite
+to the point of cast.
+Dash speed is increased based on the
+tier
+of
+Kalista's
+Boots
+, and is affected by her
+bonus
+attack speed
+as well as multiplicative
+movement speed
+modifiers she is under the effect of (including
+slows
+).
+Innate - Oathsworn Bond:
+Kalista
+begins the game with an exclusive
+Black Spear
+that she can activate on an allied champion to
+force them
+to swear an
+oath
+with her. Once the
+oath
+has been sworn, the ally becomes her
+Oathsworn
+, causing
+Kalista
+to form a
+tether
+between her and them. While she and the ally bound as the
+Oathsworn
+are within tether range of each other, they can both interact with
+Soul-Mark
+and
+Fate's Call
+.
+"The oath has been taken."
+Info
+Targeting input
+Direction
+Counters
+Grounded
+Disabled
+Knockdown
+Interrupted
+Movement commands inputted during an attack windup or the cast time of
+Pierce
+while
+Kalista
+is
+immobilized
+or
+grounded
+will fail to cast and thus prevent the dash from triggering.
+The movement command will still be buffered to the end of the immobilization or the end of the attack windup or cast time of
+Pierce
+while grounded if it has not been overridden by other inputs.
+If multiple movement commands are inputted during the attack windup, the most recent one is used for the dash's targeting.
+If the most recent input is not a movement command, the dash will not trigger.
+In this case, the buffer for the previous movement command was cancelled by a new non-movement command such as an input for an attack or ability cast.
+Dash distance decreases as the dash direction becomes closer to the minimum direction. This defines a forward distance for basic attacks and a backwards distance for
+Pierce
+.
+Empirical testing has given the following values below.
+Basic attack dash range given the angle θ:
+{
+(
+1
+7
+5
++
+(
+1
+2
+5
+×
+sin
+⁡
+(
+θ
+)
+)
+)
+×
+T
+Where
+T
+=
+0
+.
+8
+0
+0
+,
+0
+.
+8
+7
+5
+,
+0
+.
+9
+5
+0
+,
+1
+.
+0
+0
+0
+depending on the tier of Boots (T0, T1, T2, T3)
+Minimum dash range of 225 units when dashing backwards
+Pierce's
+dash range given the angle θ:
+{
+1
+5
+0
++
+(
+1
+5
+0
+×
+sin
+⁡
+(
+θ
+)
+)
+B
+a
+c
+k
+w
+a
+r
+d
+s
+3
+0
+0
+O
+t
+h
+e
+r
+w
+i
+s
+e
+There is a very brief grace period after completing a basic attack windup wherein
+Kalista
+can still input a movement command to trigger the dash.
+The dash speed is unaffected by additive movement speed modifiers.
+There are a total of 24 different dash ranges based on direction with
+Boots
+and
+Pierce
+being cast.
+Kalista
+will automatically be issued an attack command on her attack target at the end of the dash, as long as they remain in her attack range by then.
+The attack move (default
+A + MB1
+) click feature checks for targets in brief intervals only if
+Kalista
+is not dashing.
+Kalista's
+facing direction when dashing is considered to be in the direction of the dash, not her apparent facing direction based on her model's animation state.
+Sleep
+does not count for knocking the dash down.
+(bug)
+Edit
+Pierce
+COST:
+50 / 55 / 60 / 65 / 70 Mana
+COOLDOWN:
+8
+CAST TIME:
+0.
+25
+TARGET RANGE:
+1200
+WIDTH:
+80
+SPEED:
+2400
+Active:
+Kalista
+throws a spear in the target direction that deals
+physical damage
+to the first enemy hit. If
+Pierce
+kills the target, the spear continues onward to transfer all of the target's
+Rend
+stacks to the next enemy it hits.
+Active:
+Kalista
+launches a spear in the target direction that deals
+physical damage
+to the first enemy hit.
+Physical Damage:
+20 / 85 / 150 / 215 / 280
+(+ 105% AD)
+If
+Pierce
+kills the target, the spear continues onward to transfer all of the target's
+Rend
+stacks to the next enemy it hits. This can repeat indefinitely until the spear reaches its maximum range.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+This ability will cast from wherever the caster is at the end of the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+AD ratio changed to
+135% AD
+.
+Edit
+Sentinel
+COOLDOWN:
+30
+CAST TIME:
+0.
+5
+TARGET IMMUNITY
+:
+10
+RECHARGE:
+90 / 80 / 70 / 60 / 50
+TARGET RANGE:
+1400
+/
+5000
+TETHER RADIUS:
+1100
+Passive - Soul-Marked:
+While
+Kalista
+and her
+Oathsworn
+are
+tethered
+, their basic attacks and
+Pierce
+apply a
+Soul-Mark
+to their targets for a few seconds. If both
+Soul-Marks
+are applied to the same target, they take
+bonus
+magic damage
+.
+Passive:
+Kalista
+periodically
+stocks
+a
+Sentinel
+charge, up to a cap.
+Active:
+Kalista
+summons a
+Sentinel
+that patrols back and forth on a path to the target location, granting
+sight
+along its trajectory as it travels.
+Passive - Soul-Marked:
+While
+Kalista
+and her
+Oathsworn
+are
+tethered
+, their basic attacks and
+Pierce
+apply a
+Soul-Mark
+to the target hit for 4 seconds.
+If both
+Kalista's
+and the
+Oathsworn's
+Soul-Mark
+are applied to the same enemy, the marks are consumed to deal
+magic damage
+to the target, capped against non-champions.
+Soul-Mark
+cannot affect an enemy more than once every few seconds.
+Bonus Magic Damage:
+14 / 15 / 16 / 17 / 18% of target's
+maximum
+health
+Maximum Non-Champion Damage:
+100 / 125 / 150 / 175 / 200
+Active:
+Kalista
+summons a
+Sentinel
+that patrols back and forth on a path along the target location, granting
+sight
+of its surroundings as it travels.
+Kalista
+periodically
+stocks
+a
+Sentinel
+charge, up to a maximum of 2.
+See
+Pets
+for more details about Sentinels.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Proc damage
+Sub-type
+Magic
+Counters
+Parries
+Missing
+The damage is dealt
+on-attack
+of
+Kalista's
+basic attack if she applies the second mark. If the
+Oathsworn
+does so instead, the damage is dealt
+on-hit
+of their basic attack.
+Soul-Marked's
+bonus damage is credited to
+Kalista
+and will benefit from both her
+magic penetration
+and
+spell effects
+.
+If her
+Oathsworn
+ally scores a kill using
+Soul-Marked's
+bonus damage they will get a message stating 'Kill Secured' in place of the usual gold pop-up (the gold itself is credited to
+Kalista
+).
+The
+Sentinel's
+sight
+reveal on enemy
+champions
+is accredited for
+assists
+and potentially
+kills
+(if they die shortly after being spotted).
+It does not reveal
+stealthed
+targets.
+Sentinel
+will cast from wherever
+Kalista
+is at the end of the cast time.
+PENDING FOR TEST:
+Soul Mark's
+interaction with
+parrying
+effects (
+dodge
+,
+block
+,
+blind
+).
+PENDING FOR TEST:
+If
+Pierce
+kills the target by
+Soul-Mark's
+additional damage, it will/will not continue.
+Edit
+Rend
+COST:
+30 Mana
+COOLDOWN:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8
+CAST TIME:
+0.
+25
+EFFECT RADIUS:
+1100
+Passive:
+Kalista's
+basic attacks and
+Pierce
+lodge a spear into their target, applying a
+stack
+of
+Rend
+for a few seconds.
+Active:
+Kalista
+rips all lodged spears from nearby enemies, consuming all of their stacks to deal
+physical damage
+and
+slow
+them for a short time. Each additional spear on the target deals reduced damage. If
+Rend
+kills
+at least one target, the cooldown is
+reset
+and the
+mana cost
+is partially refunded.
+Passive:
+Kalista's
+basic attacks
+on-hit
+and
+Pierce
+apply a
+stack
+of
+Rend
+to enemies for 4 seconds, refreshing on subsequent hits and stacking up to 254 times.
+Active:
+Kalista
+rips all lodged spears from nearby enemies, consuming all of their stacks to deal them
+physical damage
+and
+slow
+them for 2 seconds. Each additional spear on the target deals reduced damage.
+Rend
+deals 50% reduced damage against epic
+monsters
+.
+Physical Damage:
+10 / 20 / 30 / 40 / 50
+(+ 70% AD)
+(+ 20% AP)
+Damage per Additional Stack:
+8 / 12 / 16 / 20 / 24
+(+ 25 / 30 / 35 / 40 / 45% AD)
+(+ 20% AP)
+Slow:
+10 / 18 / 26 / 34 / 42%
+(+ 5% per 100 AP)
+If
+Rend
+kills
+at least one target, the
+cooldown
+is reset and
+Kalista
+restores
+mana
+.
+Mana Restored:
+10 / 15 / 20 / 25 / 30
+A nearby enemy with a Rend stack is required to cast this ability. Rend can be used during the dash of
+Martial Poise
+and the cast time of
+Pierce
+. In-flight spears and
+Pierce
+if in cast will be empowered to apply Rend's effects to their targets. These empowered spears can also trigger Rend's refund.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Parries
+See Notes
+Rend
+at maximum stacks will deal a total of
+2044 / 3066 / 4341 / 5869 / 7650
+(+ 5914.
+3
+/ 7079.
+618
+/ 8186.
+493
+/ 9293.
+368
+/ 10400.
+243
+% AD)
+physical damage
+.
+Rend
+cannot activate on
+untargetable
+enemies.
+Rend
+applies its effects instantly on cast.
+The cooldown will not reset if the target is protected by
+resurrection
+effects.
+If
+Rend
+is used against
+Sion
+under the effects of
+Glory in Death
+, the cooldown will reset even if it does not kill him.
+(bug)
+A stack is not applied if the attack is
+dodged
+,
+blocked
+or missed while
+Kalista
+is
+blinded
+.
+Pierce
+does not apply a stack of
+Rend
+if blocked by
+spell shield
+.
+While
+berserk
+,
+Kalista's
+attacks will also apply
+Rend
+stacks on allies.
+Kalista
+will be unable to cast
+Rend
+if there are no stacks on an enemy in range.
+Rend
+cannot cast on allies, even if a valid enemy target exists. As such, any spears on allied units are purely cosmetic.
+Rend
+has a lower cast range than effect range.
+Edit
+Fate's Call
+COST:
+100 mana
+COOLDOWN
+:
+160 / 140 / 120
+CAST TIME:
+none
+TARGET RANGE:
+1200
+TETHER RADIUS:
+1100
+Active:
+Kalista
+invokes her
+tether
+to retrieve her
+Oathsworn
+,
+vanishing
+and
+cleansing
+them from all
+crowd control
+, and hold them for a few seconds. While held, the
+Oathsworn
+may
+dash
+to reappear at the target location. If they collide with an enemy
+champion
+, they
+knock up
+all nearby enemies.
+Active:
+Kalista
+invokes her
+tether
+to retrieve and hold her
+Oathsworn
+for 4 seconds.
+Kalista
+cleanses
+the
+Oathsworn
+from all
+crowd control
+and renders them
+invulnerable
+and
+untargetable
+for the duration, and
+pulls
+them to her over 1 second.
+While held, the
+Oathsworn
+is
+vanished
+and may
+select
+a target location to
+dash
+to with
+displacement immunity
+, ending
+Fate's Call's
+invocation and reappearing at the location. If the invocation ends without the
+Oathsworn
+selecting a target location, they will automatically do so at maximum range from
+Kalista's
+facing direction.
+The
+Oathsworn's
+dash stops upon colliding with an enemy
+champion
+,
+knocking up
+all nearby enemies for a duration and landing to their
+base
+attack range
+from the target collided with.
+Knock Up Duration:
+1 / 1.
+5
+/ 2 seconds
+The Oathsworn must be within tether range to cast this ability, and is also
+silenced
+and unable to perform movement or attack commands while Fate's Call is in effect.
+"They shall not have you!"
+Info
+Targeting input
+Auto
+Damage type
+Type
+Non-Damaging
+Counters
+Spell shield
+Blocked
+The following will defer
+Fate's Call's
+effects at the time of cast to the end of their duration if the
+Oathsworn
+is:
+In a
+cast time
+.
+Channeling
+.
+Fate's Call
+will not defer by the following channels:
+Recall
+,
+Defiant Dance
+,
+Realm Warp
+, and
+The Culling
+.
+Fate's Call
+cannot be cast during the following channels:
+Teleport
+,
+Gate
+,
+Grand Starfall
+,
+Hero's Entrance
+and
+Stand United
+.
+Using an ability that preloads
+UnstoppableForceMarker
+.
+If the
+Oathsworn
+is still occupied after 6 seconds of being deferred from this time,
+Fate's Call
+will cancel.
+Fate's Call
+will not pull the
+Oathsworn
+if they are
+dashing
+but they will be retrieved after 1 second regardless.
+Fate's Call
+can be cast even if the
+Oathsworn
+is
+untargetable
+.
+Fate's Call
+is disabled if the
+Oathsworn
+is
+resurrecting
+or is being affected by another
+Fate's Call
+.
+Fate's Call
+can be used even if the
+Oathsworn
+is in a
+zombie state
+.
+Fate's Call
+does not render the target
+vanished
+while being held if they are creating
+Curse of the Black Mist's
+aura.
+The
+Oathsworn
+being held is represented by a light over
+Kalista's
+head.
+Kalista's
+death
+does not cancel
+Fate's Call
+.
+Pets
+[
+edit
+|
+edit source
+]
+Sentinel
+Patrol
+Chase
+Bounty
+Gold
+10
+Exp
+0
+Statistics
+Sight radius
+450
+Health
+2
+Incoming damage modifier
+1 from champion basic attacks
+2 from
+turrets
+Not a valid target to minions and
+abilities
+CC resist
+Immune to crowd control
+Move speed
+280
+Control type
+Autonomous
+Target type
+Minion
+Abilities
+Patrol
+The
+Sentinel
+patrols the area for 3 laps before disappearing, moving to
+the target location
+, returning to the earliest point
+near
+its cast location that it can
+see
+, and pathing around obstacles.
+Seek
+In addition to its normal sight radius, the
+Sentinel
+grants
+sight
+in a cone in front of it.
+Chase
+Upon detecting an enemy champion, the
+Sentinel
+chases them for 4 seconds, alerting
+Kalista
+to their presence with a scream,
+revealing
+their target for the duration, and disappearing after the chase ends.
+Rush
+The
+Sentinel
+initially gains
+200
+bonus
+movement speed
+, rapidly decaying down to its
+base
+movement speed
+, and is
+slowed
+by 50% while at
+1 health
+.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Kalista (Collection)
+.
+Original
+View in 3D
+880
+20.11.2014
+A specter of wrath and retribution, Kalista is the undying spirit of vengeance, an armored nightmare summoned from the Shadow Isles to hunt deceivers and traitors. The betrayed may cry out in blood to be avenged, but Kalista only answers those willing to pay with their very souls. Those who become the focus of Kalista’s wrath should make their final peace, for any pact sealed with this grim hunter can only end with the cold, piercing fire of her soul-spears.
+Misty Lee
+Pan Chengwei
+Loot eligible
+Blood Moon
+View in 3D
+975
+20.11.2014
+A demon of vengeance summoned on the night of the Blood Moon, Kalista's singular obsession with 'betrayers' knows no limits—any deception, no matter how trivial, will be met with death. Her victims are left hanging from the walls of their homes, a warning to those who remain.
+Misty Lee
+Unknown artist
+Blood Moon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Worlds 2015
+View in 3D
+975
+27.09.2015
+Celebrating Worlds 2015 in Europe.
+Misty Lee
+Christian Fell
+World Championship
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Worlds 2015 Kalista Chromas
+Golden
+SKT T1
+View in 3D
+975
+17.08.2016
+Honoring Bang's winning performance as Kalista during the 2015 World Championship.
+Misty Lee
+Victor '3rdColossus' Maury
+World Champions: 2015
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Marauder
+View in 3D
+1350
+07.01.2021
+The Magelords… furious, brutal, and glorious in their conquest—a sect of warriors long lost to the sands of time. Until now. Resurrected by the current Marauder leaders, Kalista's desire for vengeance has only festered over the millenia. Now she returns, more powerful than ever, to eradicate the Wardens and everything they've built.
+Misty Lee
+David Villegas, West Studio
+Marauder
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Marauder Kalista Chromas
+Amethyst
+Citrine
+Emerald
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Faerie Court
+View in 3D
+1350
+23.03.2023
+As captain of Her Majesty's royal guard, Kalista is dedicated to keeping her queen safe above all else. Though some grumble that Kalista was only elevated to her station because she is Karma's dearest friend, she has proven time and time again that her title is well earned. Anyone who thinks otherwise is welcome to duel her and learn firsthand.
+Misty Lee
+Francis Tneh, West Studio
+Faerie Court
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Faerie Court Kalista Chromas
+Amethyst
+Catseye
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Winsome
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.13
+Stats
+Base attack damage reduced to 59 from 61.
+Fate's Call
+Cooldown increased to 160 / 140 / 120 seconds from 150 / 120 / 90.
+V14.4
+Martial Poise
+Bug Fix:
+Tier 1
+Boots
+now properly affect dash distance.
+Rend
+Base damage reduced to 10 / 20 / 30 / 40 / 50 from 20 / 30 / 40 / 50 / 60.
+V13.20
+Worlds 2015 Kalista
+Skin renamed to
+Worlds 2015 Kalista
+from
+Championship Kalista
+.
+V13.11
+Stats
+Base health increased to 600 from 574.
+Base health regeneration increased to 4 from 3.
+75
+.
+Health regeneration growth increased 0.
+75
+from 0.
+55
+.
+Base attack damage reduced to 61 from 66.
+Attack damage growth reduced to 3.
+25
+from 3.
+75
+.
+Basic Attack
+Removed:
+No longer misses if the target leaves vision before the attack hits.
+AD ratio increased to
+100% AD
+from
+90% AD
+.
+Pierce
+AD ratio increased to
+105% AD
+from
+100% AD
+.
+Rend
+Base damage per spear reduced to 8 / 12 / 16 / 20 / 24 from 10 / 16 / 22 / 28 / 34.
+AD ratio per spear increased to
+25 / 30 / 35 / 40 / 45% AD
+from
+23.
+2
+/ 27.
+55
+/ 31.
+9
+/ 36.
+25
+/ 40.
+6
+% AD
+.
+Cooldown reduced to 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8 from 14 / 12.
+5
+/ 11 / 9.
+5
+/ 8.
+V13.10
+Rend
+New Effect:
+Damage now scales with
+20% AP
+and
+20% AP
+per subsequent spear.
+New Effect:
+Slow now scales with
+5% per 100 AP
+.
+V13.7
+Stats
+Attack damage growth increased to 3.
+75
+from 3.
+5
+.
+Martial Poise
+Oathsworn Bond timer reduced to 9 seconds from 13.
+New Effect:
+Is now forced to channel on the
+Black Spear
+while her Oathsworn is reviving.
+V13.6
+General
+Bug Fix:
+Several of her voice lines now properly play.
+Bug Fix:
+VFX overlay appearing on the platform near the end of
+Worlds 2015 Kalista's
+Recall
+animation has been restored.
+V13.5
+Fate's Call
+Bug Fix:
+Oathsworn
+can now properly see the ability's VFX on their screen while under the effect of it.
+V13.3
+Sentinel
+Bug Fix:
+Will no longer patrol between Kalista and her last
+Pierce
+target location instead of the selected cast location when cast during
+Martial Poise
+.
+V13.1
+Martial Poise
+Bug Fix:
+Can no longer attack two champions at once with
+Guinsoo's Rageblade
+.
+V12.22
+Pierce
+Bug Fix:
+Spear is no longer temporarily displaced on top of her when casting the spell.
+Sentinel
+Bug Fix:
+Passive indicator is now properly visible despite the positioning of the camera.
+Rend
+Bug Fix:
+Killing a unit while casting
+Rend
+no longer causes its cooldown to be reset.
+V12.18
+Stats
+Base health reduced to 574 to 604.
+V12.15
+Stats
+Base attack damage reduced to 66 from 69.
+V12.14
+General
+Bug Fix:
+Knocked up/stunned animation is now correctly played.
+V12.10
+Stats
+Base health increased to 604 from 534.
+Health growth increased to 114 from 100.
+Armor growth increased to 5.
+2
+from 4.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V12.7
+Stats
+Base mana increased to 300 from 250.
+Base movement speed increased to 330 from 325.
+Attack speed growth increased to 4.
+5
+% from 4%.
+V12.6
+Fate's Call
+Undocumented:
+No longer renders the target
+vanished
+while being held if they are creating
+Curse of the Black Mist's
+aura.
+V12.4
+Stats
+Base armor increased to 24 from 21.
+V11.22
+Rend
+Active AD ratio increased to
+70% AD
+from from
+60% AD
+.
+Subsequent spear AD ratio increased to
+23.
+2
+/ 27.
+55
+/ 31.
+9
+/ 36.
+25
+/ 40.
+6
+% AD
+from
+20 / 23.
+75
+/ 27.
+5
+/ 31.
+25
+/ 35% AD
+.
+V11.18
+Fate's Call
+Knock up duration reduced to 1 / 1.
+5
+/ 2 seconds from 1.
+5
+/ 1.
+75
+/ 2.
+V11.17
+- August 25th Hotfix
+Martial Poise
+Bug Fix:
+Fixed a bug where she was able to attack multiple targets by switching targets during the windup animation.
+V11.17
+Martial Poise
+Bug Fix:
+Fixed a bug where she was still able to basic attack and lunge if she was charmed at the beginning of a basic attack wind-up.
+V10.25
+Bugfixes from previous patch documented.
+V10.24
+Martial Poise
+Undocumented:
+Fixed a bug where the dash distance didn't increase properly with finished boots.
+Pierce
+Bug Fix:
+Fixed a bug where killing a target with
+Pierce
+did not transfer all of that target's
+Rend
+stacks to the next target it hits.
+Rend
+Bug Fix:
+Initial damage now properly scales with
+60% AD
+and subsequent spear damage now properly scales with
+19.
+8
+/ 23.
+748
+/ 27.
+498
+/ 31.
+248
+/ 34.
+988
+% AD
+.
+Undocumented:
+The damage and the slow is now one cast instance again.
+Can no longer trigger
+Electrocute
+or
+Phase Rush
+with only one attack and
+Rend
+.
+Can no longer trigger
+Cheap Shot
+on its own without a follow-up attack.
+V10.23
+General
+Code rescripted as part of modernization for pre-season changes, several changes were unintentionally introduced.
+Martial Poise
+Dash distance gained from finished boots is reduced.
+Pierce
+The projectile would only transfer 1 additional stack of
+Rend
+from the dead unit if Kalista did not auto attack the secondary target before transferring. (The secondary target would have at most 2 spears inside them)
+Rend
+AD ratio reduced to
+50% AD
+from
+60% AD
+.
+AD ratio per additional spear reduced to
+18 / 21 / 24 / 27 / 30% AD
+from
+19.
+8
+/ 23.
+748
+/ 27.
+498
+/ 31.
+248
+/ 34.
+998
+% AD
+.
+The slow is now its own cast instance and applied before the damage dealt.
+Can trigger
+Electrocute
+or
+Phase Rush
+with only one attack and
+Rend
+.
+Can trigger
+Cheap Shot
+on its own without a follow-up attack.
+V10.13
+Stats
+Attack damage growth reduced to 3.
+5
+from 4.
+V10.11
+Sentinel
+Soul-Marked damage increased to
+14 / 15 / 16 / 17 / 18% of the target's
+maximum
+health
+from
+10 / 12 / 14 / 16 / 18%
+.
+Removed:
+No longer has a cost of 20 mana.
+V10.10
+Martial Poise
+Bug Fix:
+Is no longer able to basic attack while channeling
+Teleport
+by repeatedly inputting attack commands.
+V10.8
+Stats
+Base armor reduced to 21 from 23.
+Rend
+Slow reduced to 10 / 18 / 26 / 34 / 42% from 25 / 30 / 35 / 40 / 45%.
+V10.1
+Stats
+Health growth increased to 100 from 89.
+Armor growth increased to 4 from 3.
+5
+.
+V9.22
+Sentinel
+Soul-Mark
+damage increased to
+10 / 12 / 14 / 16 / 18% of the target's
+maximum
+health
+from
+5 / 7.
+5
+/ 10 / 12.
+5
+/ 15%
+.
+Soul-Mark
+duration increased to 4 seconds from 3.
+V9.17
+Stats
+Base attack damage increased to 69 from 67.
+Base mana increased to 250 from 231.
+8
+.
+Mana growth increased to 45 from 35.
+V9.14
+- July 18th Hotfix
+Martial Poise
+Bug Fix:
+No longer able to hit multiple enemies if she targets them during her attack animation wind-up.
+V9.4
+Rend
+Bug Fix:
+Can no longer cast
+Rend
+with insufficient mana.
+V9.1
+Stats
+Base attack damage increased to 67 from 62.
+Attack damage growth increased to 4 from 3.
+6
+.
+Attack speed growth increased to 4% from 3.
+5
+%.
+Pierce
+Base damage increased to 20 / 85 / 150 / 215 / 280 from 10 / 70 / 130 / 190 / 250.
+Sentinel
+Removed:
+No longer gains 5 / 10 / 15 / 20 / 25
+bonus
+attack damage while near her Oathsworn.
+Rend
+New Effect:
+Now deals 50% reduced damage to epic monsters.
+V8.14
+Rend
+Tooltip now shows details on additional spear damage.
+V8.13
+Rend
+Additional spear AD ratio increased to
+19.
+8
+/ 23.
+748
+/ 27.
+498
+/ 31.
+248
+/ 34.
+998
+% AD
+from
+19.
+8
+/ 22.
+5
+/ 25 / 27.
+5
+/ 30% AD
+.
+V8.11
+Stats
+Base health increased to 534 from 517.
+76
+.
+Health growth increased to 89 from 83.
+Base armor reduced to 23 from 28.
+Base health regeneration reduced to 3.
+75
+from 6.
+Base attack damage reduced to 62 from 66.
+Attack damage growth increased to 3.
+6
+from 2.
+9
+.
+V8.4
+Stats
+Base attack range reduced to 525 from 550.
+Base attack damage reduced to 66 from 71.
+Base attack speed increased to 0.
+694
+from 0.
+644
+.
+Attack speed delay reduced to -0.
+1
+from -0.
+03
+.
+Attack speed growth increased to 3.
+5
+% from 2.
+5
+%.
+Martial Poise
+Bug Fix:
+No longer path towards the blue side fountain if given a movement command to dash while attacking an enemy inhibitor.
+Sentinel
+Removed:
+Gaining
+10% − 27% (based on level)
+bonus
+attack speed while near her Oathsworn.
+New Effect:
+While near her Oathsworn now gains 5 / 10 / 15 / 20 / 25
+bonus
+attack damage.
+Rend
+Mana refund reduced to 10 / 15 / 20 / 25 / 30 from 30 at all ranks.
+V8.3
+Martial Poise
+Bug Fix:
+Fixed a bug where it could fail to trigger at high attack speeds.
+V7.22
+Stats
+Base attack damage increased to 71 from 63.
+Base armor increased to 28 from 19.
+012
+.
+V7.18
+Fate's Call
+Cooldown increased to 150 / 120 / 90 seconds from 120 / 90 / 60.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+Sentinel
+Bug Fix:
+Fixed a bug preventing
+Rakan
+from reliably proccing soul-mark damage if he attacked too quickly after the mark was applied.
+V7.7
+Sentinel
+Bug Fix:
+Lifesteal no longer applies when hitting sentinels.
+V7.1
+Rend
+New Effect:
+Passive is no longer disabled while
+Rend
+is on cooldown.
+Number of units required to refund the mana cost reduced to 1 from 2.
+Bug Fix:
+Fixed an issue where
+Rend's
+cooldown sometimes didn't reset when
+Rend
+killed a unit.
+V6.18
+General
+Bug Fix:
+SKT T1 Kalista's
+clothes no longer turn moldy during her death animation.
+V6.17
+General
+Bug Fix:
+Runaan's Hurricane
+bolts on
+SKT T1 Kalista's
+basic attacks are now golden, matching her spears (versus spooky green like her base skin).
+Martial Poise
+Bug Fix:
+Dash no longer overwrites other displacement effects (ex. clicking on
+Thresh's
+Dark Passage
+, being hit by
+Lee Sin's
+Dragon's Rage
+).
+V6.6
+Stats
+Attack speed growth reduced to 2.
+5
+from 3.
+Base attack speed reduced to 0.
+644
+from 0.
+694
+.
+Sentinel
+New Effect:
+Gains
+10 − 27% (based on level)
+bonus attack speed when near her
+Oathsworn
+.
+Sentinel laps reduced to 3 from 7.
+Bonus magic damage reduced to
+5 / 7.
+5
+/ 10 / 12.
+5
+/ 15% of target's maximum health
+from
+10 / 12.
+5
+/ 15 / 17.
+5
+/ 20%
+.
+Fate's Call
+Cast range reduced to 1100 from 1400.
+V6.1
+Rend
+Mana cost reduced to 30 from 40.
+Removed:
+Mana refund when killing one target.
+Clarification:
+If
+Rend
+kills at least one target, its cooldown is reset. If
+Rend
+kills two or more targets, its mana cost is refunded.
+V5.22
+Stats
+Base attack damage increased to 62.
+92
+from 57.
+5
+.
+Attack damage growth reduced to 2.
+91
+from 3.
+5
+.
+Attack speed delay reduced to -0.
+1
+from -0.
+05
+.
+Base ttack speed increased to 0.
+694
+from 0.
+658
+.
+Attack speed growth reduced to 2.
+8
+% from 3.
+3
+.
+Martial Poise
+New Effect:
+Dash speed is reduced by attack speed slows.
+V5.20
+Sentinel
+Bug Fix:
+Fixed a bug where melee
+Oathsworn
+needed to attack Soul-Marked targets twice to trigger bonus damage.
+V5.17
+Sentinel
+Soul-Marked damage reduced to
+10 / 12.
+5
+/ 15 / 17.
+5
+/ 20% of target's maximum health
+from
+12 / 14 / 16 / 18 / 20%
+.
+Soul-Marked per-target cooldown increased to 10 seconds from 6.
+Fate's Call
+Cooldown increased to 120 / 90 / 60 seconds from 90 / 75 / 60.
+V5.14
+General
+Recommended items updated
+Pierce
+Bug Fix:
+Cast properly queues up after basic attack completes.
+Sentinel
+Bug Fix:
+Cast properly queues up after basic attack completes.
+V5.13
+Stats
+Base attack damage increased to 57.
+5
+from 53.
+46
+.
+Attack damage growth increased to 3.
+5
+from 3.
+25
+.
+Martial Poise
+Attack damage of basic attacks reduced to
+90% AD
+from
+100% AD
+.
+Pierce
+Removed:
+Can no longer be cast
+mid-dash
+.
+V5.9
+Martial Poise
+Removed:
+25% increased range when dashing backwards.
+V5.4
+Martial Poise
+Basic attack wind-up reduction with attack speed reduced to 66% from 100%.
+V5.1
+Martial Poise
+New Effect:
+Kalista can select a different target during the first moments of her basic attack wind-up.
+Sentinel
+Soul-Marked per-target cooldown reduced to 6 seconds from 8.
+Soul-Marked duration increased to 2 seconds from 1.
+5
+.
+V4.21
+The Black Spear
+New Effect:
+Kalista can re-bind to a different ally any time before 3:00.
+Sentinel
+Minimum damage to minions reduced to 75 from 100.
+New Effect:
+Soul-Marked executes minions at 125 health or less.
+Bug Fix:
+Fixed some cases of modified/empower attacks not triggering bonus damage.
+Removed:
+Sentinels can no longer see through brush and over walls.
+Rend
+Mana cost increased to 40 from 35.
+New Effect:
+Refunds 20 mana if it kills a unit, up to twice per cast.
+Base damage per extra spear increased to 10 / 14 / 19 / 25 / 32 from 5 / 9 / 14 / 20 / 27.
+AD ratio increased to
+19.
+8
+/ 22.
+5
+/ 25 / 27.
+5
+/ 30% AD
+from
+15 / 18 / 21 / 24 / 27% AD
+.
+Fate's Call
+Ally re-cast delay reduced to 1.
+1
+seconds from 1.
+2
+.
+Visuals updated slightly to emphasize ally re-cast delay.
+V4.20
+Added.
+Trivia
+[
+edit
+|
+edit source
+]
+A fully-stacked
+Rend
+has the highest AD ratio in the game
+(5120 / 6068.
+75
+/ 7017.
+5
+/ 7966.
+25
+/ 8915% AD)
+.
+Kalista's dance references
+Oberyn Martell's
+spear dance
+from
+Game of Thrones
+.
+A side-by-side comparison can be seen
+here
+.
+Kalista's '
+Champion Spotlight
+' was the first to feature the updated
+Summoner's Rift
+map.
+The Spear of Vengeance
+resembles
+the Arrow of Retribution
+.
+The Black Spear
+is the third champion-unique item, the first being
+Prototype Hex Core
+(
+Viktor's
+) and the second being
+Bonetooth Necklace
+(
+Rengar's
+before it merged with
+Unseen Predator
+).
+Her way of referring to herself in the third person, as well as the echo in her voice, resembles
+Ermac
+from
+Mortal Kombat
+.
+Kalista targeted many betrayers for execution during
+Harrowing
+2014.
+Cassiopeia
+for
+backstabbing
+Sivir
+.
+Hecarim
+for his
+treachery
+against her in the Blessed Isles.
+LeBlanc
+for aiding the
+barbarian invaders
+against
+Mordekaiser
+as well as betraying countless others.
+Lissandra
+for
+murdering
+Avarosa for her spearheading the rebellion against the Frozen Watchers.
+Twisted Fate
+for
+abandoning
+Graves
+to be imprisoned in the Locker (Kalista is trying to convince the Outlaw to 'give in to his hate' despite being told by the Card Master he and their crew did try to get him out, reconciling their differences and settling the feud)
+Xerath
+for
+plotting
+against
+Azir
+and laying waste to Ancient Shurima.
+Zed
+for
+murdering
+Shen's
+father Kusho, slaughtering the Kinkou Order, and founding the Order of Shadow over the remains of their monastery.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Marksman
+Marksmen
+(formerly "Carries") excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger. Although Marksmen have the ability to stay relatively safe by kiting their foes, they are very fragile and are extremely reliant on powerful item purchases to become true damage threats.
+At present, Marksmen do not have any official subclasses. The following have been considered:
+Demolisher
+Scrapper
+Examples
+Ashe
+Ezreal
+Lucian
+Kai'Sa
+Jhin
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Bottom
+Within a
+drafted team
+, the
+Bottom Carry
+is one of the two champions assigned to the bottom lane alongside the
+Support
+. Being the most vulnerable, the
+Bottom Carry
+has to acquire as much gold as possible to purchase key items that will greatly increase their fighting potential.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Bottom Carry
+is expected to fulfill the former designation: the position is made for champions that highly depend on item-based power spikes.
+Marksmen
+are the most likely champions to be selected in the
+Bottom Carry
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Rend
+COOLDOWN:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8
+Passive:
+Kalista's
+basic attacks and
+Pierce
+lodge a spear into their target, applying a
+stack
+of
+Rend
+for a few seconds.
+Active:
+Kalista
+rips all lodged spears from nearby enemies, consuming all of their stacks to deal
+physical damage
+and
+slow
+them for a short time. Each additional spear on the target deals reduced damage.
+If
+Rend
+kills
+at least one target, the cooldown is
+reset
+and the
+mana cost
+is partially refunded.
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Pierce
+COOLDOWN:
+8
+Active:
+Kalista
+throws a spear in the target direction that deals
+physical damage
+to the first enemy hit.
+If
+Pierce
+kills the target, the spear continues onward to transfer all of the target's
+Rend
+stacks to the next enemy it hits.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+Removed content
+League of Legends content
+Basic Attack
+League of Legends content
+Immobilize
+Immobilized
+units cannot control their movement. The following crowd control effects
+immobilize
+the unit:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Root
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Impaired movement
+is a similar term that, in addition to the above, also refers to units that are
+slowed
+.
+League of Legends content
+Ground
+A unit that is
+grounded
+is unable to activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Grounded
+units can still be displaced.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Ground
+is the only type of
+crowd control
+that is most commonly found in persistent area of effects, which will reapply the status effect continuously.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Knockdown
+Knockdown
+only affects units that are performing a
+dash
+or being displaced by an
+airborne
+effect. A unit that is
+knocked down
+has its
+dash
+or
+displacement
+interrupted and is placed on the ground instantly.
+Knockdown
+is not a
+status effect
+.
+Interrupts:
+Interrupts all
+dashes
+and
+airborne effects
+(displacement
+and
+status effects).
+Knock ups
+will not have their
+airborne
+status removed if there is no sourced debuff, but their displacement still ends.
+Reduction:
+The effect is instantaneous.
+There is nothing to reduce.
+Resist:
+Resisted by
+crowd control immunity
+and
+displacement immunity
+.
+Removal:
+The effect is instantaneous.
+There is nothing to remove.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Polymorph
+A unit that is
+polymorphed
+is
+silenced
+and turned into a helpless critter.
+
+A unit that is
+silenced
+is unable to cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Polymorph
+combines
+silence
+with additional effects; it is the signature effect of
+Lulu's
+Whimsy
+, which also
+disarms
+and reduces the target's movement speed for the duration.
+Interrupts:
+Interrupts all
+attack windups
+(including
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Tether
+A
+tether
+is an effect that applies a
+bind
+buff on both the source and the target(s), which then creates the actual tether that requires both to remain in close proximity so any accompanying effects (
+damage
+,
+crowd control
+,
+heals
+,
+buffs
+, etc) can apply.
+The tether breaks if it exceeds maximum range, or either conduit is removed (e.g.
+Death
+). The tether will also break from a transition into the
+zombie state
+due to the target already dying.
+Generally, a
+bind
+with an enemy will break along with the tether, whereas a bind with an ally will last indefinitely and automatically reapply the tether when within range.
+League of Legends content
+Sentinel
+RECHARGE:
+90 / 80 / 70 / 60 / 50
+Passive - Soul-Marked:
+While
+Kalista
+and her
+Oathsworn
+are
+tethered
+, their basic attacks and
+Pierce
+apply a
+Soul-Mark
+to their targets for a few seconds. If both
+Soul-Marks
+are applied to the same target, they take
+bonus
+magic damage
+.
+Passive:
+Kalista
+periodically
+stocks
+a
+Sentinel
+charge, up to a cap.
+Active:
+Kalista
+summons a
+Sentinel
+that patrols back and forth on a path to the target location, granting
+sight
+along its trajectory as it travels.
+League of Legends content
+Fate's Call
+COOLDOWN:
+160 / 140 / 120
+Active:
+Kalista
+invokes her
+tether
+to retrieve her
+Oathsworn
+,
+vanishing
+and
+cleansing
+them from all
+crowd control
+, and hold them for a few seconds.
+While held, the
+Oathsworn
+may
+dash
+to reappear at the target location. If they collide with an enemy
+champion
+, they
+knock up
+all nearby enemies.
+League of Legends content
+Sleep
+A unit that is
+asleep
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Sleep
+occurs after the duration of
+drowsiness
+finishes.
+Sleep
+is an
+immobilizing
+effect
+.
+Interrupts:
+Falling
+asleep
+interrupts
+attack windups
+(excluding
+uncancellable basic attacks
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+and taking damage (excluding damage from
+persistent damage
+,
+minions
+, and small and medium
+monsters
+, and any damage smaller than or equal to 10 post-mitigation).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Stealth
+Stealth
+renders a unit invisible to enemies and grants
+ghosting
+, allowing a unit to tread without being
+visible
+to enemies.
+Stealthed
+units within sight will briefly shimmer their silhouette upon taking damage, exposing their current position.
+Stealth
+is split into three categories:
+Invisibility
+: The unit
+can
+only
+be
+revealed by
+True Sight
+.
+Camouflage
+: The unit
+can
+only
+be
+revealed by
+True Sight
+, being within a certain detection radius of enemy
+champions
+, and nearby
+Control Wards
+.
+Stealthed trap
+: The unit
+can
+only
+be
+revealed by
+True Sight
+,
+Control Wards
+,
+Oracle Lens
+, and
+A Harmless Scarecrow
+.
+Unit-targeted
+effects cannot be cast upon stealthed units as the caster is unable to select the target without seeing them.
+Stealth
+is not a form of
+untargetability
+; units can still be hit by effects that do not require vision of targets, such as skill-shots,
+auto-targeted
+, and
+location-targeted
+effects.
+Certain actions break
+stealth
+. This can include, but is not limited to:
+basic attacking
+, casting an
+ability
+, activating an
+item
+, using a
+summoner spell
+, and taking damage. The interaction can vary among certain cases.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Kalista's profile page
+at
+LeagueOfLegends.com

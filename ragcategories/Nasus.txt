@@ -1,0 +1,2151 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Nasus
+the Curator of the Sands
+Release date
+2009-10-01
+Last changed
+V14.21
+Class(es)
+Juggernaut
+Legacy
+Fighter
+Tank
+Position(s)
+Top
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+1350
+|
+585
+Crafting
++
+810
+Ratings
+Damage
+2
+Toughness
+3
+Control
+2
+Mobility
+1
+Utility
+1
+Style
+Difficulty
+Nasus
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Nasus
+Base statistics
+Edit
+Health
+631
++104
+Mana
+326
++62
+Health regen. (per 5s)
+9
++0.9
+Mana regen. (per 5s)
+7.45
++0.5
+Armor
+34
++4.7
+Attack damage
+67
++4
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+350
+Attack range
+125
+Attack speed
+Base AS
+0.638
+Attack windup
+20.14%
+AS ratio
+N/A
+Bonus AS
++3.48
+%
+Unit radius
+Gameplay radius
+80
+Selection radius
+135
+Pathing radius
+50
+Acq. radius
+350
+Special statistics
+Damage Dealt
+-10%
+Damage Received
++5%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
+-5%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Soul Eater
+Innate:
+Nasus
+gains
+life steal
+based on level.
+Innate:
+Nasus
+gains
+9 / 15 / 21% (based on level)
+life steal
+.
+Info
+Targeting input
+Passive
+No additional details.
+Edit
+Siphoning Strike
+COST:
+20 Mana
+COOLDOWN
+:
+7.
+5
+/ 6.
+5
+/ 5.
+5
+/ 4.
+5
+/ 3.
+5
+CAST TIME:
+none
+Active:
+Nasus'
+next basic attack within a period will gain
+bonus
+range
+and deal
+bonus
+physical damage
+based on the amount of
+Siphoning Strike
+stacks. If this attack kills the target,
+Nasus
+generates permanent stacks of
+Siphoning Strike
+, increased against
+champions
+, large
+minions
+, and large
+monsters
+.
+Active:
+Nasus
+empowers his next
+basic attack
+within 10 seconds to have an
+uncancellable windup
+, gain
+50
+bonus
+range
+, and deal
+bonus
+physical damage
+.
+Bonus Physical Damage:
+35 / 55 / 75 / 95 / 115
+(+
+Siphoning Strike
+stacks)
+If
+Siphoning Strike
+kills the target,
+Nasus
+permanently gains
+3 stacks
+, increased to
+12
+if the target is a
+champion
+, large
+minion
+, or large
+monster
+.
+Siphoning Strike
+resets
+Nasus'
+basic attack timer.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Nasus
+can gain
+Siphoning Strike
+stacks
+by killing any enemy unit, this includes
+champions
+,
+minions
+,
+monsters
+,
+wards
+,
+turrets
+, and
+pets
+.
+Jungle plants
+and
+structures
+that are not turrets (e.g.
+inhibitors
+) will not grant
+stacks
+.
+Siphoning Strike
+will not generate
+stacks
+from secondary units killed by other effects (e.g.
+Tiamat
+).
+Life steal
+applies to the entire damage of
+Siphoning Strike
+Siphoning Strike
+can
+critically strike
+, but only the
+100% AD
+and flat bonus damage from ranks are increased. The bonus damage from
+stacks
+does
+not
+factor into its critical damage.
+Siphoning Strike
+will trigger
+Tear of the Goddess'
+Mana Charge
+.
+Map-Specific Differences
+Howling Abyss
+differences
+edit
+Per-kill stacks changed to
+6
+.
+Per-large-kill stacks changed to
+24
+.
+Nexus Blitz
+differences
+edit
+On-kill stacks changed to 6.
+On-large-kill stacks changed to 24.
+Arena
+differences
+edit
+New Effect:
+Gains 50 stacks per round.
+Edit
+Wither
+COST:
+80 Mana
+COOLDOWN:
+15 / 14 / 13 / 12 / 11
+CAST TIME:
+0.
+25
+TARGET RANGE:
+700
+Active:
+Nasus
+ages the target enemy champion for a few seconds, gradually
+slowing
+and
+crippling
+them over the duration.
+Active:
+Nasus
+ages the target enemy champion for 5 seconds,
+slowing
+them by 35% and
+crippling
+them by
+「 75% of that amount, 」
+「 26.
+25
+%, 」
+both increasing every second over the duration.
+Maximum Slow:
+47 / 59 / 71 / 83 / 95%
+Additional Slow Per Second:
+3 / 6 / 9 / 12 / 15%
+Maximum Cripple:
+35.
+25
+/ 44.
+25
+/ 53.
+25
+/ 62.
+25
+/ 71.
+25
+%
+Additional Cripple Per Second:
+2.
+25
+/ 4.
+5
+/ 6.
+75
+/ 9 / 11.
+25
+%
+Info
+Targeting input
+Unit
+Damage type
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Wither
+interrupts the target's
+attack windup
+when it is first applied.
+(bug)
+If
+Wither's
+duration is affected by
+Tenacity
+the effects will apply slower (negative tenacity percentage) or faster (positive tenacity percentage) so the maximum values are still reached when the modified duration ends.
+Wither's
+cripple effectiveness calculates from its slow's base values, thus
+slow resist
+will not interact with the attack speed modifier indirectly.
+Both
+slow
+and
+cripple
+from
+Wither
+are considered to be a single
+debuff
+.
+(note)
+Therefore,
+slow immunity
+will prevent both, even without technical
+cripple immunity
+.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+Edit
+Spirit Fire
+COST:
+60 / 70 / 80 / 90 / 100 Mana
+COOLDOWN:
+12
+CAST TIME:
+0.
+25
+TARGET RANGE:
+650
+EFFECT RADIUS:
+400 /
+200
+Active:
+Nasus
+unleashes a spirit fire at the target location that deals
+magic damage
+to enemies within. The fire remains for a few seconds,
+reducing enemy armor
+and continually dealing
+magic damage
+.
+Active:
+Nasus
+unleashes a spirit fire at the target location, granting
+sight
+of the
+area
+for
+2.
+5
+seconds
+and, after a
+0.
+264
+seconds
+delay, dealing
+magic damage
+to enemies within.
+Magic Damage:
+50 / 80 / 110 / 140 / 170
+(+ 60% AP)
+The fire then remains for 5 seconds, dealing
+magic damage
+each second to enemies within and inflicting them with
+armor reduction
+, lingering for 1 second.
+Magic Damage Per Tick:
+10 / 16 / 22 / 28 / 34
+(+ 12% AP)
+Total Magic Damage:
+100 / 160 / 220 / 280 / 340
+(+ 120% AP)
+Armor Reduction:
+30 / 35 / 40 / 45 / 50% of target's armor
+Info
+Targeting input
+Location
+Damage type
+Type
+AOE DOT damage
+Sub-type
+Magic
+Counters
+Spell shield
+Not Blocked
+The sight is granted when the cast time completes, the damage happens after an additional delay.
+Edit
+Fury of the Sands
+COST:
+100 Mana
+COOLDOWN
+:
+120 / 100 / 80
+CAST TIME:
+0.
+2
+EFFECT RADIUS:
+400
+Active:
+Nasus
+empowers himself for some time, gaining bonus size,
+health
+,
+armor
+,
+magic resist
+, and
+attack range
+. While empowered,
+Siphoning Strike
+has reduced
+cooldown
+, and
+Nasus
+creates an
+aura
+that continually deals
+magic damage
+to nearby enemies based on
+their
+maximum
+health
+.
+Active:
+Nasus
+empowers himself for 15 seconds, gaining
+bonus
+health
+,
+bonus
+armor
+,
+bonus
+magic resistance
+, increased
+size
+, and
+50
+bonus
+attack range
+for the duration.
+Bonus Health:
+300 / 450 / 600
+Bonus Resistances:
+40 / 55 / 70
+Increased Size:
+30 / 35 / 40%
+While
+Nasus
+is empowered, he deals
+magic damage
+every 0.
+5
+seconds to nearby enemies, capped at 240 per second, and
+Siphoning Strike's
+cooldown
+is halved.
+Magic Damage Per Tick:
+1.
+5
+/ 2 / 2.
+5
+%
+(+ 0.
+5
+% per 100 AP)
+of target's
+maximum
+health
+Total Magic Damage:
+45 / 60 / 75%
+(+ 15% per 100 AP)
+of target's
+maximum
+health
+Info
+Targeting input
+Auto
+Damage type
+Type
+AOE DOT damage
+Sub-type
+Magic
+Fury of the Sands'
+bonus health is not affected by
+Grievous Wounds
+and
+Nasus
+retains it once the duration ends.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Nasus (Collection)
+.
+Original
+View in 3D
+585
+30.09.2009
+Nasus is an imposing, jackal-headed Ascended being from ancient Shurima, a heroic figure regarded as a demigod by the people of the desert. Fiercely intelligent, he was a guardian of knowledge and peerless strategist whose wisdom guided the ancient empire of Shurima to greatness for many centuries. After the fall of the empire, he went into self-imposed exile, becoming little more than a legend. Now that the ancient city of Shurima has risen once more, he has returned, determined to ensure it never falls again.
+Erik Todd Dellums
+Christian Fell
+Loot eligible
+Galactic
+View in 3D
+520
+13.07.2010
+Erik Todd Dellums
+Unknown artist
+Galactic
+Loot eligible
+Pharaoh
+View in 3D
+520
+02.11.2010
+Immortal beast of the northern lands, Nasus wanders the expanse of the Great Desert in search of his once-green kingdom. He conjures vast sandstorms to cover his tracks, hiding his existence from the world.
+Erik Todd Dellums
+Unknown artist
+Pharaoh
+Loot eligible
+Dreadknight
+View in 3D
+975
+26.04.2011
+Dreadknight Nasus serves as keeper of the forgotten texts deep within the catacombs of his Master's labyrinthine library. It is said that within lies the secret of the Dreadknights' undoing, but no living soul has yet verified whether this is truth or fable.
+Erik Todd Dellums
+Unknown artist
+Dreadknights
+Loot eligible
+Chromas
+Dreadknight Nasus Chromas
+Blight
+Burn
+Frostbite
+Riot K-9
+View in 3D
+975
+16.08.2011
+A Riot Games skin obtained by either meeting a Rioter or attending an official Riot event in 2011 or 2012.
+Erik Todd Dellums
+Kienan 'Knockwurst' Lafferty
+Riot
+Loot eligible
+Legacy
+Infernal
+View in 3D
+1820
+20.11.2013
+The greater Infernals are somehow even more cruel and hateful than their lesser counterparts, and Nasus is no exception. A three-headed monstrosity raised from some far-flung, hellish abyss, he withers life with his merest touch… then burns it away.
+Erik Todd Dellums
+Bo Lu
+Infernal
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Archduke
+View in 3D
+750
+31.03.2015
+In primary school, Nasus was told an old dog couldn't learn new tricks. Now, in his older years as an accomplished statesman, painter, and composer, he wonders if there is truth in those words. After all, he simply cannot seem to get his chamber orchestra to listen to his directions.
+Erik Todd Dellums
+Unknown artist
+High Society
+Loot eligible
+Worldbreaker
+View in 3D
+750
+10.11.2016
+The last of four titans prophesied to shatter the world, Nasus is the true end of all things. A monstrous abomination of smoke and flame, he will emerge from the bottom of the earth in a column of hungry fire, devouring all of existence.
+Erik Todd Dellums
+Esben Lash Rasmussen
+Worldbreaker
+Loot eligible
+New SFX/VFX
+Lunar Guardian
+View in 3D
+1350
+08.02.2018
+A gift to the young Lunar Empress, Nasus was raised alongside her to guard the immortal realm from an ancient darkness. Stoic but powerful, he stands watch in the north, annihilating all who would threaten the land.
+Erik Todd Dellums
+Kelly Aleshire
+Lunar Revel
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Lunar Guardian Nasus Chromas
+Jasper
+Pearl
+Ruby
+Turquoise
+Battlecast
+View in 3D
+1350
+12.11.2020
+The latest monstrosity constructed by Viktor, Battlecast Nasus units specialize in the targeted retrieval of high-priority targets. As they hunt for their quarry, their machinery is programmed to learn and adapt, increasing their destructive capacity and empowering them to obliterate all that would stand in their way.
+Erik Todd Dellums
+Malex Zhang, Kudos Productions
+Battlecast
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Battlecast Nasus Chromas
+Aquamarine
+Catseye
+Emerald
+Obsidian
+Pearl
+Ruby
+Sapphire
+Tanzanite
+Space Groove
+View in 3D
+1350
+01.04.2021
+A storied disc jockey, music librarian, and leader of the Dog Planet, Nasus was once under Lissandra's thrall—seizing all his people's grooviest records and hiding them away, never to be heard again. Yet now, with his heart opened to the power of disco, he leads his people in rebellion against the deadly shock troopers Blitz & Crank.
+Erik Todd Dellums
+West Studio
+Space Groove
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Space Groove Nasus Chromas
+Amethyst
+Catseye
+Disco
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Armored Titan
+View in 3D
+1350
+25.08.2022
+Nasus is Strike Team Hyperion's intelligence officer. His exosuit, the S02-Anubis, is a new model of power armor that offers increased durability, energy-siphoning power cells, and access to in-depth analysis tech for processing mission-critical information. He will see Hyperion succeed; if they don't, there's no telling what destruction rogue exo-pilots may wreak.
+Erik Todd Dellums
+Jiunn Kuo, West Studio
+Steel Valkyries
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Armored Titan Nasus Chromas
+Ace
+Aquamarine
+Catseye
+Emerald
+Granite
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+Nightbringer
+View in 3D
+1350
+20.04.2023
+Nasus is forever linked with his causal brother, Renekton, not just through the scars left on each other from their battles, but also through the insight he's gained. Before, he was content to act without reason in pursuit of chaos, but now, he enjoys finding weaknesses and dismantling them for total havoc. Cause for maximum effect.
+Erik Todd Dellums
+Herbie Wang, Kudos Productions
+Nightbringer and Dawnbringer
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Nightbringer Nasus Chromas
+Citrine
+Emerald
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.21
+Soul Eater
+Life steal reduced to
+9 / 15 / 21% (based on level)
+from
+12 / 18 / 24% (based on level)
+.
+Siphoning Strike
+Base damage reduced to 35 / 55 / 75 / 95 / 115 from 40 / 60 / 80 / 100 / 120.
+V14.18
+Spirit Fire
+Initial base damage reduced to 50 / 80 / 110 / 140 / 170 from 55 / 95 / 135 / 175 / 215.
+Base damage per second reduced to 10 / 16 / 22 / 28 / 34 from 11 / 19 / 27 / 35 / 43.
+V14.13
+General
+Bug Fix:
+"Bad Blood" nemesis quest (against
+Renekton
+) no longer incorrectly triggers its win condition on
+any
+unit kill.
+Bug Fix:
+"Bad Blood" nemesis quest (against
+Renekton
+) no longer incorrectly activates when both nemeses are on the same team.
+V14.11
+Stats
+Attack damage growth increased to 4 from 3.
+5
+.
+Spirit Fire
+Armor reduction increased to 30 / 35 / 40 / 45 / 50% from 25 / 30 / 35 / 40 / 45%.
+Mana cost reduced to 60 / 70 / 80 / 90 / 100 from 70 / 85 / 100 / 115 / 130.
+V14.7
+Soul Eater
+Life steal increased to
+12 / 18 / 24% (based on level)
+from
+11 / 16 / 21% (based on level)
+.
+Siphoning Strike
+Base damage increased to 40 / 60 / 80 / 100 / 120 from 30 / 50 / 70 / 90 / 110.
+V13.12
+Soul Eater
+Life steal increased to
+11 / 16 / 21% (based on level)
+from
+9 / 14 / 19% (based on level)
+.
+Fury of the Sands
+Cooldown reduced to 120 / 100 / 80 seconds from 120 at all ranks.
+V13.4
+Fury of the Sands
+Restored VFX overlay appearing for the moment while casting the ability for
+Infernal Nasus
+.
+V12.22
+Stats
+Base mana regeneration increased to 7.
+45
+from 7.
+44
+.
+V12.19
+Siphoning Strike
+Bonus attack range increased to 50 units from 25.
+Wither
+Cripple increased to 75% of slow from 50%.
+Base cripple increased to 26.
+25
+% from 17.
+5
+%.
+Additional cripple per second increased to 2.
+25
+/ 4.
+5
+/ 6.
+75
+/ 9 / 11.
+25
+% from 1.
+5
+/ 3 / 4.
+5
+/ 6 / 7.
+5
+%.
+Maximum cripple increased to 35.
+25
+/ 44.
+25
+/ 53.
+25
+/ 62.
+25
+/ 71.
+25
+% from 23.
+5
+/ 29.
+5
+/ 35.
+5
+/ 41.
+5
+/ 47.
+5
+%.
+Fury of the Sands
+Bonus size increased to 30 / 35 / 40% from 30% at all ranks.
+New Effect:
+Damage radius now scales with bonus size.
+Minimum radius of
+400 units, which cannot be reduced below this amount. Scales with 0.
+8
+bonus range per 1% bonus size beyond
+Nasus'
+base radius of 80 units.
+Damage tick interval reduced to 0.
+5
+seconds per tick from 1 second per tick.
+Total damage unchanged.
+Bug Fix:
+Damage now displays as the stacking display type.
+V12.16
+General
+Adjusted splash artwork for
+Archduke Nasus
+.
+V12.10
+Stats
+Base health increased to 631 from 561.
+Health growth increased to 104 from 90.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Soul Eater
+Life steal reduced to
+9 / 14 / 19% (based on level)
+from
+10 / 16 / 22% (based on level)
+.
+V12.1
+Siphoning Strike
+Tooltip now includes bonus damage gained by stacks.
+V11.21
+Siphoning Strike
+Bug Fix:
+Fixed a bug where it did not deal damage to traps (such as
+Teemo's
+Noxious Trap
+and
+Nidalee's
+Bushwhack
+).
+V11.19
+Siphoning Strike
+New Effect:
+Empowered attack's damage now triggers spell effects.
+V11.12
+Soul Eater
+Life steal reduced to
+10 / 16 / 22% (based on level)
+from
+12 / 18 / 24% (based on level)
+.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+Base health reduced to 561 from 561.
+2
+.
+V10.25
+Siphoning Strike
+Cooldown reduced to 7.
+5
+/ 6.
+5
+/ 5.
+5
+/ 4.
+5
+/ 3.
+5
+seconds from 8 / 7 / 6 / 5 / 4.
+V10.23
+Stats
+Mana growth increased to 62 from 42.
+V10.22
+Fury of the Sands
+Initial resistances increased to 40 / 55 / 70 from 15 / 35 / 55.
+Removed:
+No longer gains 1 / 2 / 3 resistances each second.
+V10.7
+Wither
+Cast range increased to 700 units from 600.
+Spirit Fire
+Armor reduction increased to 25 / 30 / 35 / 40 / 45% from 15 / 20 / 25 / 30 / 35%.
+V9.6
+Fury of the Sands
+New Effect:
+Now triggers effects that are triggered by DoT AoE abilities.
+V9.1
+Siphoning Strike
+Per-large-kill stacks increased to
+12
+from
+6
+.
+Howling Abyss
+Per-large-kill stacks increased to
+24
+from
+12
+.
+New Effect:
+Can now ping the current amount of stacks.
+New Effect:
+Ability icon border now shows the remaining time for the empowered attack.
+Fury of the Sands
+New Effect:
+Ability icon HUD now shows the remaining duration of the ability.
+V8.14
+Soul Eater
+Bonus lifesteal increased to
+12% / 18% / 24% (based on level)
+from
+10% / 15% / 20% (based on level)
+.
+V8.7
+Worldbreaker Nasus
+Bug Fix:
+Seam lines have been minimized.
+V8.6
+Infernal Nasus
+Siphoning Strike
+Bug Fix:
+Special stack count interaction VOs have been restored.
+V8.3
+Stats
+Base health regeneration reduced to 9 from 9.
+012
+.
+V7.22
+Stats
+Base attack damage increased to 67 from 59.
+18
+.
+Base armor increased to 34 from 24.
+88
+.
+V7.15
+Spirit Fire
+Armor reduction changed to
+15 / 20 / 25 / 30 / 35% armor
+from 20 / 25 / 30 / 35 / 40 flat.
+Fury of the Sands
+New Effect:
+While active, the cooldown of
+Siphoning Strike
+is reduced by 50%.
+This stacks with cooldown reduction.
+V7.4
+Fury of the Sands
+Bug Fix:
+No longer plays the SFX for the whole duration if he is dead.
+V6.21
+Siphoning Strike
+New Effect:
+Bonus range now stack with the bonus range from
+Fury of the Sands
+.
+Total range while under the effects of both
+Siphoning Strike
+and
+Fury of the Sands
+increased to 200 from 175.
+Fury of the Sands
+Removed:
+Converting damage dealt into
+bonus AD
+.
+New Effect:
+Now instantly grants 15 / 35 / 55 armor and magic resistance, which increases by 1 / 2 / 3 per second, for a maximum of 30 / 65 / 100 total bonus resistances.
+V6.17
+Siphoning Strike
+New Effect:
+Grants stacks when destroying a
+Powder Keg
+.
+V6.12
+Howling Abyss
+Siphoning Strike
+Per-kill stacks increased to
+6
+from
+3
+.
+Per-large-kill stacks increased to
+12
+from
+6
+.
+V5.22
+Stats
+Mana increased to 325.
+6
+from 275.
+6
+.
+Mana growth reduced to 42 from 45.
+V5.16
+Siphoning Strike
+New Effect:
+Enhanced basic attack gains 25 bonus range (does not stack with
+Fury of the Sands
+' bonus 50).
+V5.9
+Fury of the Sands
+Bug Fix:
+Bonus health being granted up to 0.
+25
+seconds after activation.
+V4.13
+General
+Splash artwork for
+Pharaoh Nasus
+updated to the Chinese art.
+V4.5
+Stats
+Armor increased to 19 from 15.
+V4.1
+Wither
+Cast range reduced to 600 from 700.
+Fury of the Sands
+Removed:
+Granting 100 bonus cast range while active.
+V3.14
+Visual Update
+New models and textures for all skins.
+New splash artwork for
+Original Nasus
+.
+New voiceover.
+Soul Eater
+Bonus Life Steal changed to
+10 / 15 / 20 (based on level)
+% from
+14 / 17 / 20 (based on level)
+.
+V3.13
+Siphoning Strike
+New Effect:
+Is blocked by
+spell shields
+.
+V3.6
+Wither
+Attack speed slow reduced by 50%.
+V3.02
+Siphoning Strike
+Bug Fix:
+Critical strikes damaging for more than intended.
+Mana cost reduced to 20 at all ranks from 20 / 25 / 30 / 35 / 40.
+Fury of the Sands
+New Effect:
+Grants 50 bonus attack range and 100 bonus cast range while active.
+Mana cost reduced to 100 from 150.
+V3.01
+Siphoning Strike
+New Effect:
+Nasus gains double stacks (6) from large kills (champions, large minions, large monsters).
+V1.0.0.152
+Stats
+Movement speed increased to 350 from 325.
+V1.0.0.123
+Stats
+Attack range increased to 125 from 110.
+Soul Eater
+Bonus Life Steal changed to
+14 / 17 / 20 (based on level)
+% from
+10 / 15 / 20 (based on level)
+.
+Siphoning Strike
+Bug Fix:
+Sometimes gaining extra Life Steal.
+Wither
+Cooldown reduced to 15 / 14 / 13 / 12 / 11 seconds from 15 at all ranks.
+Mana cost reduced to 80 from 100.
+New Effect:
+Slow will reach maximum value even if duration is reduced by
+Tenacity
+.
+Spirit Fire
+Removed:
+0.
+5
+seconds delay before area of effect spawns (cast time unchanged).
+Duration reduced to 5 seconds from 6.
+Damage changed to 55 / 95 / 135 / 175 / 215
+(+ 60% AP)
+on-cast and 11 / 19 / 27 / 35 / 43
+(+ 12% AP)
+per second for the duration from 20 / 34 / 48 / 62 / 76
+(+ 20% AP)
+per second.
+V1.0.0.114
+Spirit Fire
+Particle updated.
+V1.0.0.111
+Fury of the Sands
+New Effect:
+Tooltip updates itself to display bonus attack damage.
+Bug Fix:
+Bonus attack damage not being added to Nasus' total AD in HUD counter.
+V1.0.0.109
+Stats
+Movement speed increased to 325 from 320.
+Siphoning Strike
+Per-kill stacks increased to 3 from 2.
+V1.0.0.103
+Siphoning Strike
+New Effect:
+Resets Nasus' basic attack timer.
+V1.0.0.100
+Fury of the Sands
+Tooltip updated.
+V1.0.0.99
+Siphoning Strike
+Removed:
+Interaction with dodge chance.
+V1.0.0.98
+Siphoning Strike
+Tooltip updated.
+V1.0.0.87
+Siphoning Strike
+Tooltip updated.
+Fury of the Sands
+Tooltip updated.
+V1.0.0.83
+General
+Recommended items updated.
+V1.0.0.61
+Siphoning Strike
+New Effect:
+Tooltip displays bonus damage from stacks.
+V1.0.0.52
+Spirit Fire
+Cooldown increased to 12 seconds from 11.
+Mana cost increased to 70 / 85 / 100 / 115 / 130 from 60 / 75 / 90 / 105 / 120.
+V0.9.25.34
+General
+Recommended items updated.
+Soul Eater
+New Effect:
+Icon will persist through death.
+Bug Fix:
+Calculating
+Siphoning Strike
+healing with maximum Life Steal value at all levels.
+Siphoning Strike
+Per-kill stacks changed to 2 at all ranks from 1 / 1.
+5
+/ 2 / 2.
+5
+/ 3.
+Wither
+Slow increased to 35% from 32.
+Slow per second reduced to 3 / 6 / 9 / 12 / 15% from 4 / 8 / 12 / 16 / 20.
+Spirit Fire
+New Effect:
+Damage cancels enemy
+Recall
+.
+Fury of the Sands
+New Effect:
+Nasus gains 300 / 450 / 600 bonus health upon activation.
+AP ratio changed to
+(+ 1% target's maximum health per 100 AP)
+from
+(+0.05 AP)
+.
+V0.9.25.24
+Added
+Trivia
+[
+edit
+|
+edit source
+]
+Original Nasus
+Nasus
+literally means "nose" in Latin - referencing his
+golden wolf
+head's long nose.
+During development he was simply called
+Anubis Head
+or '
+Ammon
+' "hidden, unseen".
+[2]
+He was voiced by Gene McDaniels.
+In the now-removed official League of Legends
+forums
+, the
+original icon of
+Fury of the Sands
+was used to represent the "Player Concepts" and "Champion Feedback" sections.
+Nasus, The Curator of the Sands
+Following the death of his original voice actor, he is voiced by
+Erik Todd Dellums
+in both
+League of Legends
+and
+Legends of Runeterra
+.
+Dellums also voices Nasus in
+Shurima: Descent into the Tomb
+and
+Rise of the Ascended
+.
+Infernal Nasus
+is voiced by the same voice actor.
+Nasus
+is one of 15 champions that have an ability that infinitely stacks an effect:
+Aurelion Sol
+,
+Bard
+,
+Bel'Veth
+,
+Cho'Gath
+,
+Draven
+,
+Kindred
+,
+Senna
+,
+Shyvana
+,
+Sion
+,
+Smolder
+,
+Swain
+,
+Sylas
+,
+Thresh
+, and
+Veigar
+.
+In Nasus' case,
+Siphoning Strike
+infinitely stacks the bonus
+physical damage
+of itself.
+Nasus -
+Renekton
+is one of seven pairs of sibling champions (the others being
+Cassiopeia
+-
+Katarina
+,
+Kayle
+-
+Morgana
+,
+Garen
+-
+Lux
+,
+Yasuo
+-
+Yone
+,
+Darius
+-
+Draven
+, and
+Vi
+-
+Jinx
+).
+Though not a pair,
+Anivia
+,
+Ornn
+, and
+Volibear
+are also siblings.
+Nasus is one of a few champions to have multiple textures in one skin. When he uses
+Fury of the Sands
+.
+Four other champions with this feature are
+LeBlanc
+(via
+Mirror Image
+),
+Shaco's
+(via
+Hallucinate
+),
+Wukong
+(via
+Warrior Trickster
+) and
+Malphite
+(via
+Granite Shield
+and
+Thunderclap
+).
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Juggernaut
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+Juggernauts
+are melee titans who relentlessly march down the opposition and devastate those foolish enough to get within their grasp. They are the only subclass who excel at both dealing and taking significant amounts of damage, but in turn they have a tough time closing in on targets due to their low range and extremely limited mobility.
+Examples
+Dr. Mundo
+Darius
+Mordekaiser
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Ward
+Wards
+are deployable units that that grant
+sight
+over the surrounding area. They can only be destroyed by
+basic attacks
+, granting
+gold
+and
+experience
+.
+There are three kinds of deployable
+wards
+available for purchase:
+Control Ward
+,
+Warding Totem
+, and
+Farsight Alteration
+. Other types of wards, such as
+Zombie Ward
+, are usable through various means.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Pet
+A
+pet
+is a
+unit summoned by a champion
+to assist them on the battlefield.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Howling Abyss
+The Howling Abyss is a bottomless crevasse located in the coldest, cruelest, part of the
+Freljord
+. Legends say that, long ago, a great battle took place here on the narrow bridge spanning this chasm. No one remembers who fought here, or why, but it is said that if you listen carefully to the wind you can still hear the cries of the vanquished tossed howling into the Abyss.
+Regular Modes
+Classic 5v5
+(
+All random
+)
+Custom
+Featured Game Modes
+Legend of the Poro King
+One For All
+One For All: Mirror Mode
+Snowdown Showdown
+League of Legends content
+Nexus Blitz
+An explosive game mode known as Nexus Blitz. Traverse down one of two different paths in order to attack your enemy at their weakest point. Work with your allies to siege the enemy base and destroy their Nexus!
+Regular Modes
+Classic 5v5
+Custom
+Maps
+Temple of Lily and Lotus
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Cripple
+A unit that is
+crippled
+has reduced
+total
+attack speed
+for the duration.
+Sources of
+cripple
+stack multiplicatively with each other.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+cripple immunity
+.
+Removal:
+Removed by
+Cleanses
+and specifically
+Master Yi's
+Highlander
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Tenacity
+Tenacity
+(or
+Crowd Control Reduction
+) is a stat that reduces the duration of all incoming
+crowd control
+effects except
+displacements
+,
+drowsy
+,
+nearsight
+,
+stasis
+, and
+suppression
+.
+
+If
+tenacity
+is reduced below 0, the crowd control duration increases.
+Tenacity
+stacks
+multiplicatively
+or
+additively
+based on the combination of effects.
+The duration of a crowd control debuff is calculated when it is applied, and
+tenacity
+can reduce it to a minimum 0.
+5
+seconds.
+League of Legends content
+Slow resist
+Slow resist
+is a stat that directly reduces the effectiveness of
+slows
+.
+League of Legends content
+Slow-immune
+Slow immunity
+is a status effect that prevents the application of
+slows
+.
+The following prevent the application of
+slows
+:
+Aphelios'
+Sentry
+Heimerdinger's
+H-28G Evolution Turret
+Master Yi's
+Highlander
+Nunu's
+Biggest Snowball Ever!
+Sejuani's
+Fury of the North
+Skarner's
+Ixtal's Impact
+Total
+crowd control immunity
+League of Legends content
+Cripple-immune
+Cripple immunity
+is a status effect that prevents the application of
+cripples
+, also known as
+attack speed
+slows.
+The following prevent the application of
+cripples
+:
+Aphelios'
+Sentry
+Master Yi's
+Highlander
+Sejuani's
+Fury of the North
+Shaco's
+Jack in the Box
+Zyra's
+Plants
+Total
+crowd control immunity
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Persistent area damage
+Persistent area damage
+is technically not a separate type of damage, but rather a hybrid classification that is applied to some spells.
+In situations where
+persistent damage
+and
+area damage
+would have conflicting outputs, the conflict is resolved by choosing the weakest possible outcome.
+Physical vamp
+and
+Spell vamp
+(where applicable) heals with one-third effectiveness, as with
+area damage
+.
+Arcane Comet's
+cooldown is reduced by 5%, as with
+persistent damage
+, per target affected.
+Counter Strike
+reduces the damage dealt by 25%, as with
+area damage
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Nasus's profile page
+at
+LeagueOfLegends.com
+↑
+http://www.ancient-egypt.co.uk/transliteration/ancient_egypt_dictionary.pdf
+, p. 30

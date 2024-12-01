@@ -1,0 +1,2472 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Hecarim
+the Shadow of War
+Release date
+2012-04-18
+Last changed
+V14.14
+Class(es)
+Diver
+Legacy
+Fighter
+Tank
+Position(s)
+Jungle
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+2
+Toughness
+2
+Control
+2
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Hecarim
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Hecarim
+Base statistics
+Edit
+Health
+625
++106
+Mana
+280
++40
+Health regen. (per 5s)
+7
++0.75
+Mana regen. (per 5s)
+7
++0.8
+Armor
+32
++5.45
+Attack damage
+66
++3.7
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+345
+Attack range
+175
+Attack speed
+Base AS
+0.67
+Attack windup
+25%
+AS ratio
+N/A
+Bonus AS
++2.5
+%
+Unit radius
+Gameplay radius
+80
+Selection radius
+140
+Pathing radius
+50
+Acq. radius
+750
+Special statistics
+Damage Dealt
++5%
+Damage Received
+-10%
+Healing
++20%
+Ability Haste
++10
+Damage Dealt
++0%
+Damage Received
+-5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Warpath
+Innate:
+Hecarim
+gains
+bonus
+attack damage
+equal to a portion of his
+bonus
+movement speed
+.
+Innate:
+Hecarim
+gains
+bonus
+attack damage
+equal to
+12% − 24% (based on level)
+of his
+bonus
+movement speed
+.
+Info
+Targeting input
+Passive
+Warpath's
+bonus
+attack damage will adjust itself to any temporary movement speed
+buffs
+and
+debuffs
+Hecarim
+is affected by.
+Since this only affects
+bonus
+values
+Hecarim
+will not dip below his regular attack damage if he is
+slowed
+below his
+base
+movement speed.
+The amount of movement speed scaling to
+bonus
+attack damage is refreshed every 0.
+25
+seconds.
+Edit
+Rampage
+COST:
+28 / 26 / 24 / 22 / 20 Mana
+COOLDOWN:
+4
+CAST TIME:
+none
+EFFECT RADIUS:
+375
+Active:
+Hecarim
+cleaves his glaive to deal
+physical damage
+to nearby enemies. Whenever
+Rampage
+hits at least one enemy, he gains a stack, up to a cap.
+Rampage:
+For each stack,
+Rampage's
+damage is increased and the cooldown is
+reduced
+.
+Active:
+Hecarim
+cleaves his glaive around himself, dealing
+physical damage
+to nearby enemies, reduced to 60% against
+minions
+.
+Physical Damage:
+60 / 85 / 110 / 135 / 160
+(+ 90%
+bonus
+AD)
+Minion damage:
+36 / 51 / 66 / 81 / 96
+(+ 54%
+bonus
+AD)
+If this damages an enemy,
+Hecarim
+gains a
+stack
+of
+Rampage
+for 8 seconds,  refreshing on subsequent damage and stacking up to 3 times. Each stack increases
+Rampage's
+damage by 3%
+(+ 4% per 100
+bonus
+AD)
+and reduces its
+base
+cooldown
+by 0.
+75
+seconds, up to a 9%
+(+ 12% per 100
+bonus
+AD)
+damage increase and a 2.
+25
+-second reduction of the
+base
+cooldown at maximum stacks. Stacks expire by one every 1 second when the duration ends.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+No additional notes.
+Map-Specific Differences
+Ultra Rapid Fire
+differences
+edit
+Stacking cooldown reduction effect removed.
+*
+Arena
+differences
+edit
+Base damage changed to 80 / 105 / 130 / 155 / 180.
+Edit
+Spirit of Dread
+COST:
+50 / 55 / 60 / 65 / 70 Mana
+COOLDOWN
+:
+14
+CAST TIME:
+none
+EFFECT RADIUS:
+525
+Active:
+Hecarim
+continually deals
+magic damage
+to nearby enemies for a short time. During this time, he gains
+bonus
+resistances and
+heals
+for a portion of any damage he and his allies deal to nearby enemies, with reduced healing on ally damage.
+Active:
+Hecarim
+surrounds himself with the Spirit of Dread for 4 seconds, dealing
+magic damage
+every second to nearby enemies.
+Magic Damage Per Tick:
+20 / 30 / 40 / 50 / 60
+(+ 20% AP)
+Total Magic Damage:
+100 / 150 / 200 / 250 / 300
+(+ 100% AP)
+While active,
+Hecarim
+gains
+bonus
+armor
+and
+bonus
+magic resistance
+and is
+healed
+for 25% of the
+post-mitigation damage
+dealt to enemies within the area from all sources, halved to 12.
+5
+% for damage dealt by allies. The healing is capped against
+minions
+and
+monsters
+.
+Bonus Resistances:
+5 / 10 / 15 / 20 / 25
+Capped Healing:
+120 / 150 / 180 / 210 / 240
+Info
+Targeting input
+Auto
+Damage type
+Type
+AOE DOT damage
+Sub-type
+Magic
+Counters
+Spell shield
+Not Blocked
+The healing cap against minions accounts for every single one regardless of how many are present and/or affected by
+Spirit of Dread
+at the time of cast.
+Map-Specific Differences
+Arena
+differences
+edit
+Base healing changed to 35% of damage dealt.
+Healing bonus AD ratio changed to
+3% per 100
+bonus
+AD
+.
+Total AP ratio changed to
+120% AP
+.
+Edit
+Devastating Charge
+COST:
+60 Mana
+COOLDOWN
+:
+20 / 19 / 18 / 17 / 16
+CAST TIME:
+none
+Active:
+Hecarim
+ignores unit collision and builds up
+bonus
+movement speed
+over a short time. During this time,
+Hecarim's
+next basic attack will gain
+bonus
+range
+and cause him to
+dash
+. Upon arrival, he deals
+modified
+physical damage
+and
+knocks back
+the target, briefly
+stunning
+them afterward. The effects are increased based on the distance he traveled in the duration.
+Active:
+Hecarim
+becomes
+ghosted
+and gains
+25% − 65% (based on time active)
+bonus total
+movement speed
+for 4 seconds.
+During this time,
+Hecarim
+empowers his next
+basic attack
+to gain
+50 − 250 (based on distance traveled)
+bonus
+range
+and cause him to
+dash
+in the target's direction,
+revealing
+them for 1 second. If the target remains nearby during the dash, the
+ghosting
+and
+bonus
+movement speed
+ends prematurely and
+Hecarim
+knocks them back
+150 − 350 (based on distance traveled)
+units, though not through terrain,
+stuns
+them for 0.
+25
+seconds, and deals them
+modified
+physical damage
+, increased by
+0% − 100% (based on distance traveled)
+.
+Minimum Physical Damage:
+30 / 45 / 60 / 75 / 90
+(+ 50%
+bonus
+AD)
+Maximum Physical Damage:
+60 / 90 / 120 / 150 / 180
+(+ 100%
+bonus
+AD)
+Devastating Charge
+can
+critically strike
+for
+(75% +
+40%
+) AD
+bonus
+physical damage
+.
+Devastating Charge
+resets
+Hecarim's
+basic attack timer.
+Hecarim
+can cast any of his
+abilities
+during the dash. Devastating Charge's duration is paused during
+Onslaught of Shadows
+.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Parries
+See Notes
+Grounded
+See Notes
+Knockdown
+See Notes
+Hecarim
+can cast any of his
+abilities
+while
+dashing
+.
+Onslaught of Shadows
+will interrupt the dash.
+If the target does not remain nearby during the dash,
+Devastating Charge's
+effect will not be consumed.
+The
+bonus
+movement speed
+stacks multiplicatively
+with other sources of movement speed boosts.
+The bonus attack range stacks additively with
+Rapid Firecannon
+.
+Devastating Charge
+will still apply its effects to the target even if the
+dash
+is
+interrupted
+, but not if he goes into
+resurrection
+.
+Devastating Charge's
+damage will apply
+life steal
+and will affect structures.
+"Distance traveled"
+can be simple movement as well as
+dashing
+and
+blinking
+.
+Devastating Charge's
+damage will not bypass
+block
+or
+dodge
+but the
+knock back
+will still be applied.
+Devastating Charge
+will still deal damage while
+blinded
+.
+While
+grounded
+or
+rooted
+,
+Hecarim
+loses the
+bonus
+attack range
+from
+Devastating Charge
+.
+Hecarim
+will not use the empowered attack while
+rooted
+.
+The
+dash
+does not follow targets. The target's position at the time of the enhanced attack is the direction
+Hecarim
+will leap to.
+Displacement immunity
+will not resist the application of the
+stun
+.
+Map-Specific Differences
+Ultra Rapid Fire
+differences
+edit
+Cooldown begins after the empowered attack is used or times out.
+*
+Arena
+differences
+edit
+Minimum base damage changed to 50 / 65 / 80 / 95 / 110.
+Maximum base damage changed to 100 / 130 / 160 / 190 / 220.
+Minimum bonus AD ratio changed to
+60%
+bonus
+AD
+.
+Maximum bonus AD ratio changed to
+120%
+bonus
+AD
+.
+Edit
+Onslaught of Shadows
+COST:
+100 Mana
+COOLDOWN:
+140 / 120 / 100
+CAST TIME:
+none
+TARGET RANGE:
+1000
+/
+300
+RANGE:
+1510
+EFFECT RADIUS:
+315
+WIDTH:
+80
+/
+480
+SPEED:
+1100
+Active:
+Hecarim
+summons spectral riders and
+charges
+in the target direction, dealing
+magic damage
+to enemies they pass through. Upon arrival, he
+fears
+and gradually
+slows
+enemies for a duration based on the distance traveled.
+Active:
+Hecarim
+dashes
+with
+displacement immunity
+to the target location and summons 5 spectral riders
+in an arrow formation
+that charge alongside him in the target direction, dealing
+magic damage
+to all enemies in their path and
+revealing
+them for 2.
+5
+seconds.
+Magic damage:
+150 / 250 / 350
+(+ 100% AP)
+Upon arrival, he
+fears
+nearby enemies for
+0.
+75
+− 1.
+5
+(based on distance traveled)
+seconds and
+slows
+them, ramping to 99% over the duration.
+The wave of spectral riders travels independently of
+Hecarim
+and will always charge at the same distance. The slow's strength cannot be reduced and is increased based on how far away the affected units are from
+Hecarim
+. Onslaught of Shadows will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Grounded
+Disabled
+Knockdown
+Not Interrupted
+The spectral rider missiles originate at
+Hecarim's
+location, 145 units behind and 100 units to either side of him, and 290 units behind and 200 units to either side. They travel 1510 units forward parallel to Hecarim from their origin each.
+Only the spectral riders deal damage to enemies they pierce,
+Hecarim
+only dashes and fears enemies at the end of it.
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio changed to
+130% AP
+.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Hecarim (Collection)
+.
+Original
+View in 3D
+880
+17.04.2012
+Hecarim is a spectral fusion of man and beast, cursed to ride down the souls of the living for all eternity. When the Blessed Isles fell into shadow, this proud knight was obliterated by the destructive energies of the Ruination, along with all his cavalry and their mounts. Now, whenever the Black Mist reaches out across Runeterra, he leads their devastating charge, reveling in the slaughter and crushing the foe beneath his armored hooves.
+Scott McNeil
+Jeremy 'Jermu' Anninos
+Loot eligible
+Blood Knight
+View in 3D
+975
+17.04.2012
+A zealous sycophant to his order, Hecarim unquestioningly serves the will of the Bloodstone. While less subtle than his masters would like, he is nonetheless effective in his purpose of executing enemies in a grisly fashion.
+Scott McNeil
+Jon Neimeister, Dirty Iron, Mathias Kollros
+Bloodstone
+Loot eligible
+Legacy
+Reaper
+View in 3D
+975
+17.04.2012
+When the dead refuse to take their place among the Death Sworn, the spectral knight Hecarim rides them down with his scythe at the ready. In his wake charge countless subjugated spirits, now yearning for nothing more than the reaping of fresh and defiant souls.
+Scott McNeil
+Jon Neimeister, Alex Konstad, Dirty Iron
+Death Sworn
+Loot eligible
+Headless
+View in 3D
+975
+26.10.2012
+There are many tales told about creatures prowling the roads at night, but none are as dark as that of the headless rider. He lost his head in a duel on horseback, and is doomed to haunt the living forevermore—a hideous jack-o-lantern resting upon his shoulders.
+Scott McNeil
+Bo Lu
+Trick-or-Treat
+Loot eligible
+Legacy
+New SFX/VFX
+Arcade
+View in 3D
+1350
+21.08.2013
+An unlikely favorite among retro purists, Hecarim has remained one of the most popular characters of the arcade era. Now he stands against the combined forces of gaming's greatest villains, proving there's no hero more noble than a rainbow-shooting chrome centaur from 1978.
+Scott McNeil
+Michal Ivan, Puppetworks Animation Studio
+Arcade: Heroes
+Loot eligible
+Voice filter
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+Elderwood
+View in 3D
+1350
+25.11.2015
+His is armor of soft-spun summerwood and rowan—the stones upon him carved in a time before the old gods danced among the trees. Even now, Hecarim travels the shallow rivers and moss-flecked paths of the Elderwood, that ageless guardian who protects the forest from mankind's darkest yearnings.
+Scott McNeil
+Victor '3rdColossus' Maury
+Elderwood
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Worldbreaker
+View in 3D
+750
+10.11.2016
+The third of four titans prophesied to shatter the world, Hecarim will begin his hunt when the moon smothers the sun. Riding from the south, his rampaging shadow will be cast across the land, infecting the living with dread and darkness.
+Scott McNeil
+Esben Lash Rasmussen
+Worldbreaker
+Loot eligible
+Lancer Zero
+View in 3D
+Special
+16.08.2017
+A mechanized sentinel called upon in times of war, Lancer Zero Hecarim is the protector of an ancient city—the last line of defense against the most fearsome opponents. Once unleashed, the damage it causes can be extraordinary, so it is always held back as a final, desperate gamble.
+Scott McNeil
+Xu 'Crow God' Cheng
+Lancer
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+High Noon
+View in 3D
+1350
+10.10.2019
+When Heaven was destroyed by mortal men, it was only a matter of time until Hell overflowed onto the prairie, bringing with it all the devils who had waited so patiently to escape their confinement. Hecarim and his black riders revel in this newfound freedom, razing everything before them to ash as they stampede across the frontier.
+Scott McNeil
+Sean 'Raiko' Tay, West Studio
+High Noon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+High Noon Hecarim Chromas
+Amethyst
+Emerald
+Nomad
+Obsidian
+Ruby
+Cosmic Charger
+View in 3D
+1350
+24.11.2020
+A knight in the Queen's court, he leads his calvary across the sky, forever expanding the outer edge of creation—bringing new life wherever his hooves fall.
+Scott McNeil
+Xiao Guang Sun, West Studio
+Cosmic
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Cosmic Charger Hecarim Chromas
+Citrine
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+Arcana
+View in 3D
+1350
+14.04.2022
+Enforcer of the Higher World, his ever-forward motion crushes those before him while carving new fates for those left in his wake. He seeks to stop Rakan of the Lower World and prevent the calamitous disaster that will result from a fated love blooming betwixt the stars.
+Scott McNeil
+Huyy Nguyen, West Studio
+Arcana
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Arcana Hecarim Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Winterblessed
+View in 3D
+1350
+06.12.2023
+"You are Polaris," answered Hecarim. With a voice hardened by centuries of servitude, he explained that Senna was the living embodiment of the Aurora; he, its protector. As each year passed, he guarded the borders in Polaris' absence while the new Winterblessed was chosen. It didn't matter who she was before, he told her: she'd been called to service now.
+Scott McNeil
+Augusto Quirino, West Studio
+Winterblessed
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Winterblessed Hecarim Chromas
+Amethyst
+Catseye
+Emerald
+Obsidian
+Rainbow
+Rose Quartz
+Ruby
+Turquoise
+Wreathguard
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.14
+Stats
+Health growth increased to 106 from 99.
+Spirit of Dread
+Healing increased to 25% from 20%.
+Healing from ally damage increased to 12.
+5
+% from 10%.
+Duration reduced to 4 seconds from 5.
+Cooldown reduced to 14 seconds at all ranks from 16 / 15.
+5
+/ 15 / 14.
+5
+/ 14.
+Devastating Charge
+Cooldown changed to 20 / 19 / 18 / 17 / 16 seconds from 18 at all ranks.
+V14.1
+Devastating Charge
+Bug Fix:
+No longer sometimes critically strikes with 0% critical strike chance.
+V13.21
+Stats
+Attack damage growth increased to 3.
+7
+from 3.
+2
+.
+Spirit of Dread
+Duration increased to 5 seconds from 4.
+V13.17
+Stats
+Base mana increased to 280 from 277.
+Mana growth reduced to 40 from 60.
+Base mana regeneration increased to 7 from 6.
+5
+.
+Mana regeneration growth increased to 0.
+8
+from 0.
+6
+.
+Rampage
+Mana cost reduced to 28 / 26 / 24 / 22 / 20 from 30 at all ranks.
+Spirit of Dread
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 50 / 60 / 70 / 80 / 90.
+Base heal reduced to 20% from 25%.
+Removed:
+Healing no longer scales with
+2% per 100
+bonus
+AD
+.
+V13.14
+Spirit of Dread
+Base bonus resistances reduced to 5 / 10 / 15 / 20 / 25 from 15 / 20 / 25 / 30 / 35.
+V13.6
+General
+New splash artwork for
+Original Hecarim
+.
+V12.23
+- December 14th Hotfix
+Rampage
+Base damage amplification per stack reduced to 3% from 4%.
+Maximum base damage amplification reduced to 9% from 12%.
+Damage amplification bonus AD ratio per stack reduced to
+4% per 100
+bonus
+AD
+from
+5%
+.
+Maximum damage amplification bonus AD ratio reduced to
+12% per 100
+bonus
+AD
+from
+15%
+.
+V12.18
+Stats
+Base health reduced to 625 from 650.
+Rampage
+Damage bonus AD ratio reduced to
+90%
+bonus
+AD
+from
+95%
+.
+Damage amplification bonus AD ratio per stack reduced to
+5% per 100
+bonus
+AD
+from
+6%
+.
+Maximum damage amplification bonus AD ratio reduced to
+15% per 100
+bonus
+AD
+from
+18%
+.
+Winddown time reduced to 0 seconds from 1.
+Spirit of Dread
+Base heal reduced to 25% from 30%
+Heal bonus AD ratio reduced to
+2% per 100
+bonus
+AD
+from
+2.
+5
+%
+.
+V12.17
+Stats
+Base armor reduced to 32 from 35.
+Health growth reduced to 99 from 104.
+Rampage
+Base damage reduced to 60 / 85 / 110 / 135 / 160 from 60 / 90 / 120 / 150 / 180.
+Damage bonus AD ratio increased to
+95%
+bonus
+AD
+from
+90%
+.
+Number of stacks increased to 3 from 2.
+Cooldown reduction per stack reduced to 0.
+75
+seconds from 1.
+Maximum cooldown reduction increased to 2.
+25
+seconds from 2.
+Base damage amplification per stack increased to 4% from 2%.
+Maximum base damage amplification increased to 12% from 4%.
+Damage amplification bonus AD ratio per stack increased to
+6% per 100
+bonus
+AD
+from
+3%
+.
+Maximum damage amplification bonus AD ratio increased to
+18% per 100
+bonus
+AD
+from
+6%
+.
+Mana cost changed to 30 at all ranks from 28 / 31 / 34 / 37 / 40.
+Undocumented:
+Stack duration increased to 8 seconds from 6.
+New Effect:
+Stacks now expire by one every 1 second instead of all at once upon expiration.
+Spirit of Dread
+Cooldown increased to 16 / 15.
+5
+/ 15 / 14.
+5
+/ 14 seconds from 14 at all ranks.
+New Effect:
+Now grants him 15 / 20 / 25 / 30 / 35
+bonus
+armor
+and
+bonus
+magic resistance
+while active.
+Devastating Charge
+Minimum bonus AD ratio reduced to
+50%
+bonus
+AD
+from
+55%
+.
+Maximum bonus AD ratio reduced to
+100%
+bonus
+AD
+from
+110%
+.
+Knock back distance reduced to
+150 − 350 (based on distance traveled)
+units from
+250 − 450 (based on distance traveled)
+.
+Cooldown changed to 18 seconds at all ranks from 20 / 19 / 18 / 17 / 16.
+Onslaught of Shadows
+Fear duration reduced to
+0.
+75
+− 1.
+5
+(based on distance traveled)
+seconds from
+0.
+75
+− 2 (based on distance traveled)
+.
+V12.10
+Stats
+Base health increased to 650 from 580.
+Health growth increased to 104 from 90.
+Armor growth increased to 5.
+45
+from 4.
+25
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+V12.9
+Rampage
+Damage bonus AD ratio increased to
+90%
+bonus
+AD
+from
+85%
+.
+Spirit of Dread
+Cooldown reduced to 14 seconds from 18.
+V12.6
+Rampage
+Base damage reduced to 60 / 90 / 120 / 150 / 180 from 60 / 97 / 134 / 171 / 208.
+Devastating Charge
+Minimum base damage reduced to 30 / 45 / 60 / 75 / 90 from 30 / 50 / 70 / 90 / 110.
+Maximum base damage reduced to 60 / 90 / 120 / 150 / 180 from 60 / 100 / 140 / 180 / 220.
+V11.21
+Devastating Charge
+New Effect:
+Now trigger spell effects when dealing damage.
+V11.20
+Spirit of Dread
+Cooldown reduced to 18 seconds at all ranks from 22 / 21 / 20 / 19 / 18.
+Healing cap increased to 120 / 150 / 180 / 210 / 240 from 90 / 120 / 150 / 180 / 210.
+V11.12
+Stats
+Base armor increased to 35 from 32.
+Rampage
+Damage bonus AD ratio increased to
+85%
+bonus
+AD
+from
+75%
+.
+V11.11
+Rampage
+Damage bonus AD ratio increased to
+75%
+bonus
+AD
+from
+70%
+.
+Devastating Charge
+Minimum bonus AD ratio increased to
+55%
+bonus
+AD
+from
+50%
+.
+Maximum bonus AD ratio increased to
+110%
+bonus
+AD
+from
+100%
+.
+V11.9
+Stats
+Base armor reduced to 32 from 36.
+Armor growth increased to 4.
+25
+from 4.
+Rampage
+Damage amplification per stack reduced to 2% from 5%.
+New Effect:
+Damage amplification per stack now scales with
+3% per 100
+bonus
+AD
+.
+Spirit of Dread
+New Effect:
+Healing now scales with
+2.
+5
+% per 100
+bonus
+AD
+.
+Healing from ally damage reduced to 15% from 30%.
+New Effect:
+Healing from ally damage now scales with
+1.
+25
+% per 100
+bonus
+AD
+.
+Devastating Charge
+Minimum base damage reduced to 30 / 50 / 70 / 90 / 110 from 35 / 65 / 95 / 125 / 155.
+Maximum base damage reduced to 60 / 100 / 140 / 180 / 220 from 70 / 130 / 190 / 250 / 310.
+V11.7
+Devastating Charge
+Bonus movement speed reduced to
+25% − 65% (based on time active)
+from
+25% − 75% (based on time active)
+.
+V11.6
+Rampage
+Base damage reduced to 60 / 97 / 134 / 171 / 208 from 60 / 102 / 144 / 186 / 228.
+V11.5
+General
+Updated visual effects.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.24
+Warpath
+Movement speed conversion reduced to
+12% − 24% (based on level)
+from
+15% − 30%
+.
+Devastating Charge
+Bonus movement speed reduced to
+25% − 75% (based on time active)
+from
+25% − 85%
+.
+Bug Fix:
+No longer gains more than 25% movement speed immediately after immediately casting.
+V10.23
+Stats
+Mana growth increased to 60 from 40.
+V10.21
+Devastating Charge
+Minimum base damage reduced to 35 / 65 / 95 / 125 / 155 from 45 / 75 / 105 / 135 / 165.
+Maximum base damage reduced to 70 / 130 / 190 / 250 / 310 from 90 / 150 / 210 / 270 / 330.
+V10.17
+Devastating Charge
+Bonus movement speed reduced to
+25% − 85% (based on time active)
+from
+25% − 100% (based on time active)
+.
+V10.16
+Devastating Charge
+Bonus movement speed increased to
+25% − 100% (based on time active)
+from
+25% − 75% (based on time active)
+.
+V10.12
+Rampage
+Bug Fix:
+Tooltip in the collection tab has been updated to accurately reflect its latest state.
+V10.11
+Rampage
+Base damage increased to 60 / 102 / 144 / 186 / 228 from 55 / 95 / 135 / 175 / 215.
+Minion damage reduced to 60% from 66.
+6
+%.
+V10.6
+Onslaught of Shadows
+Fear duration increased to
+0.
+75
+− 2 (based on distance traveled)
+seconds from
+0.
+75
+− 1.
+5
+(based on distance traveled)
+.
+V9.9
+Rampage
+Damage amplification per stack reduced to 5% from 10%.
+Devastating Charge
+Minimum base damage reduced to 45 / 75 / 105 / 135 / 165 from 45 / 80 / 115 / 150 / 185.
+Maximum base damage reduced to 90 / 150 / 210 / 270 / 330 from 90 / 160 / 230 / 300 / 370.
+V9.6
+Rampage
+New Effect:
+Now deals 10% increased damage per stack.
+Elderwood Hecarim
+Bug Fix:
+Recall no longer uses the base skin's recall audio.
+V9.4
+Rampage
+Mana cost reduced to 28 / 31 / 34 / 37 / 40 from 32 / 34 / 36 / 38 / 40.
+Devastating Charge
+Cooldown reduced to 20 / 19 / 18 / 17 / 16 seconds from 24 / 22 / 20 / 18 / 16.
+V8.16
+Rampage
+Base damage increased to 55 / 95 / 135 / 175 / 215 from 55 / 90 / 125 / 160 / 195.
+Bonus AD ratio increased to
+70%
+bonus
+AD
+from
+60%
+.
+V8.7
+Spirit of Dread
+Heal increased to 30% from 20%.
+V7.22
+Stats
+Base attack damage increased to 66 from 58.
+Base armor increased to 36 from 26.
+72
+.
+Rampage
+Base damage increased to 55 / 90 / 125 / 160 / 195 from 50 / 85 / 120 / 155 / 190.
+Devastating Charge
+Base damage increased to 45 / 80 / 115 / 150 / 185 from 40 / 75 / 110 / 145 / 180.
+V7.17
+Devastating Charge
+New Effect:
+Duration no longer ticks down during
+Onslaught of Shadows'
+charge.
+Onslaught of Shadows
+Flee duration changed to
+0.
+75
+/ 1.
+5
+(based on distance traveled)
+from 1 second at all distances.
+Arcade Hecarim
+Bug Fix:
+VO is now more audible.
+Lancer Zero Hecarim
+Rampage
+Bug Fix:
+VFX no longer ends prematurely after receiving the second stack.
+V7.11
+Devastating Charge
+Bug Fix:
+Stomp can no longer be reused if his initial target dies during the stomp animation.
+V7.1
+Devastating Charge
+Bug Fix:
+Can no longer critically strike structures.
+V6.20
+Devastating Charge
+Bug Fix:
+The basic attack component of
+Devastating Charge
+can now critically strike, in line with similar abilities such as
+Nasus'
+Siphoning Strike
+.
+V6.15
+Stats
+Base attack damage reduced to 58 from 61.
+37
+.
+Rampage
+Base damage reduced to 50 / 85 / 120 / 155 / 190 from 60 / 95 / 130 / 165 / 200.
+V6.14
+General
+Bug Fix:
+Headless Hecarim's
+smoke effects no longer stutter.
+V6.12
+Onslaught of Shadows
+Bug Fix:
+Headless Hecarim
+'s spectral riders are once again visible. Still spooky, though.
+V6.7
+General
+Adjusted splash artwork for
+Original Hecarim
+.
+V6.5
+Devastating Charge
+Bonus movement speed stacking changed to multiplicative from additive.
+New Effect:
+Knock back
+distance increases with the distance traveled by
+Hecarim
+over the duration.
+Knockback distance changed to 250 - 450 from 300.
+New Effect:
+Buff bar displays knockback level and speed.
+Bug Fix:
+Fixed a bug where Devastating Charge would move Hecarim while rooted.
+V6.2
+General
+Bug Fix:
+Fixed a bug where Hecarim lost
+Devastating Charge
+'s effects right after casting
+Onslaught of Shadows
+V5.24
+Stats
+Base health reduced to 580 from 599.
+Health growth reduced to 90 from 95.
+Warpath
+Removed Passive:
+ghosting
+.
+Devastating Charge
+New Effect:
+Hecarim
+is
+ghosted
+while active.
+V5.23
+Stats
+Base mana reduced to 277.
+2
+from 327.
+2
+.
+Mana growth increased to 40 from 37.
+V5.22
+Stats
+Base mana increased to 327.
+2
+from 277.
+2
+.
+Mana growth reduced to 37 from 40.
+V5.11
+Warpath
+Bonus attack damage value check frequency increased to every 0.
+25
+seconds from every 1.
+Devastating Charge
+Bonus movement speed stacking changed to additive from multiplicative.
+V5.9
+Rampage
+Damage to monsters increased to 100% from 66
+Mana cost increased to 32 / 34 / 36 / 38 / 40 from 20 / 23 / 26 / 29 / 32.
+V5.7
+Stats
+Base health regen reduced to 7 from 9.
+25
+.
+Base mana regen reduced to 6.
+5
+from 7.
+5
+.
+V5.1
+Rampage
+Mana cost reduced to 20 / 23 / 26 / 29 / 32 from 24 / 26 / 28 / 30 / 32.
+Spirit of Dread
+Healing cap against minions/monsters increased to 90 / 120 / 150 / 180 / 210 from 60 / 90 / 120 / 150 / 180.
+V4.13
+Warpath
+Bonus attack damage increased to 15 / 17.
+5
+/ 20 / 22.
+5
+/ 25 / 27.
+5
+% of bonus movement speed from 10 / 12.
+5
+/ 15 / 17.
+5
+/ 20 / 22.
+5
+%.
+Rampage
+Mana cost reduced to 24 / 26 / 28 / 30 / 32 from 24 / 28 / 32 / 36 / 40.
+V4.5
+Stats
+Base armor increased to 20 from 16.
+V4.1
+Spirit of Dread
+Bug Fix:
+Amount healed is now correctly 20% instead of 10 / 15 / 20 / 25 / 30%.
+V3.9
+Rampage
+Mana cost changed to 24 / 28 / 32 / 36 / 40 from 25 at all ranks.
+V3.8
+Devastating Charge
+New Effect:
+If the target is beyond narrow terrain Hecarim will leap over it to reach them.
+Onslaught of Shadows
+Removed:
+Dealing 50 / 125 / 200 +
+40% AP
+damage at end location.
+Spectral rider base damage increased to 150 / 250 / 350 from 100 / 200 / 300
+Spectral rider AP ratio increased to
+100% AP
+from
+40% AP
+.
+V3.5 (Balance update)
+Spirit of Dread
+Cooldown increased to 22 / 21 / 20 / 19 / 18 seconds from 18 / 17 / 16 / 15 / 14.
+V3.03
+Rampage
+Base damage increased to 60 / 95 / 130 / 165 / 200 from 50 / 85 / 120 / 155 / 190.
+Spirit of Dread
+Healing changed to 20% at all ranks from 10 / 15 / 20 / 25 / 30.
+Cooldown increased to 20 / 18.
+5
+/ 17 / 15.
+5
+/ 14 seconds from 14 at all ranks.
+Bug Fix:
+Fixed a tooltip error that displayed more damage was actually dealt.
+V1.0.0.152
+Stats
+Movement speed increased to 345 from 320.
+Base attack damage increased to 59 from 56.
+Attack damage per level increased to 3.
+2
+from 3.
+V1.0.0.149
+Devastating Charge
+Bug Fix:
+Fixed a bug where colliding with enemy turrets would take aggro.
+V1.0.0.144
+Devastating Charge
+Collision updated to be more responsive when hitting enemies.
+Initial bonus movement speed increased to 25% from 0%.
+Maximum bonus movement speed and distance required unchanged.
+Onslaught of Shadows
+New Effect:
+Flee speed increases based on how close enemies are to Hecarim.
+V1.0.0.140
+Rampage
+Damage to minions increased to 66% from 50%.
+Devastating Charge
+Travel distance for full charge reduced.
+V1.0.0.138
+Warpath
+(Innate)
+Hecarim ignores unit collision and gains attack damage equal to a percentage of his bonus movement speed.
+Rampage
+(Q)
+Hecarim cleaves nearby enemies, dealing physical damage.
+Spirit of Dread
+(W)
+Hecarim deals magic damage to nearby enemies for a short duration. Hecarim gains health equal to a percentage of any damage those enemies suffer.
+Devastating Charge
+(E)
+Hecarim gains increasing movement speed for a short duration. His next attack knocks the target back and deals additional physical damage based on the distance he has traveled since activating the ability.
+Onslaught of Shadows
+(Ultimate)
+Hecarim summons spectral riders and charges forward, dealing magic damage in a line. Hecarim creates a shockwave when he finishes his charge, dealing additional magic damage to nearby enemies, causing them to flee in terror.
+Trivia
+[
+edit
+|
+edit source
+]
+Hecarim might have been inspired by the
+Four Horsemen of the Apocalypse
+(specifically War) and/or
+Assault Rider
+from
+Kingdom Hearts
+.
+His dance references
+'Dope Zebra'
+by
+'rhettandlink'
+.
+A side-by-side comparison can be seen
+here.
+Warpath
+, along with
+Tailwind
+is one of the only two abilities in the game that scale with movement speed.
+Onslaught of Shadows
+might be referencing the fight with
+Ganondorf
+in
+The Legend of Zelda: Twilight Princess
+.
+The spectral riders used to be members of the Iron Order Hecarim was Knight Commander of and, together with him, became undead when the Ruination of the Blessed Isles was unleashed.
+Hecarim was deemed overpowered in
+Ultra Rapid Fire
+(2014 edition) and was ultimately disabled in non-custom games.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Diver
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+Divers
+are the more mobile portion of the Fighter class. Divers excel at singling out high-priority targets to blitz toward, immediately forcing those targets (and their teammates) to deal with the diver’s presence. Divers are not as durable as the tanks or juggernauts of the world, but Divers can take their fair share of punishment while bringing enough damage to be a real kill threat if left unchecked.
+Examples
+Hecarim
+Jarvan IV
+Vi
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Ultra Rapid Fire (U.R.F.)
+Ultra Rapid Fire
+is a
+Featured Game Mode
+that takes place on
+Summoner's Rift
+with the same objective as
+Classic 5v5
+, except all
+champions
+benefit from the
+Awesome Buff of Awesomely Awesome Buffing
+that grants excessive  ability haste and removes ability costs. The gameplay is
+explosive
+. The game mode can be played as
+All Random
+or
+Blind pick
+depending on the year.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Persistent area damage
+Persistent area damage
+is technically not a separate type of damage, but rather a hybrid classification that is applied to some spells.
+In situations where
+persistent damage
+and
+area damage
+would have conflicting outputs, the conflict is resolved by choosing the weakest possible outcome.
+Physical vamp
+and
+Spell vamp
+(where applicable) heals with one-third effectiveness, as with
+area damage
+.
+Arcane Comet's
+cooldown is reduced by 5%, as with
+persistent damage
+, per target affected.
+Counter Strike
+reduces the damage dealt by 25%, as with
+area damage
+.
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Standard sight
+Standard sight
+reveals units through
+fog of war
+and
+brush
+, but
+not
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Onslaught of Shadows
+COOLDOWN:
+140 / 120 / 100
+Active:
+Hecarim
+summons spectral riders and
+charges
+in the target direction, dealing
+magic damage
+to enemies they pass through.
+Upon arrival, he
+fears
+and gradually
+slows
+enemies for a duration based on the distance traveled.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Stacks multiplicatively
+An effect that
+stacks multiplicatively
+can be calculated by multiplying the effects together.
+Most
+champion statistics
+that stack this way are expressed through percentages.
+
+The following stats
+stack multiplicatively
+:
+Attack speed reduction
+Damage modifiers
+Percent armor penetration and reduction
+Percent magic penetration and reduction
+Slow potency reduction
+League of Legends content
+Interrupt
+Interrupt
+is a quality of crowd control that
+interrupts
+an in-progress effect, preventing its completion or causing the effect to go off at an
+interrupted
+state.
+The following crowd control effects
+interrupt
+channeled and charged
+abilities (unless otherwise noted by the ability):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+The following crowd control effects
+interrupt
+dashes
+:
+Airborne
+Knockdown
+Stasis
+Basic attack windups
+are
+interrupted
+by all forms of crowd control that inhibit attacking.
+Ground
+and
+Root
+only
+interrupt
+channeled and charged movement abilities.
+League of Legends content
+Resurrection
+A unit that is protected by
+Resurrection
+will enter a revival state and dispel most debuffs upon taking
+fatal damage
+. After the state completes, the unit is revived.
+Resurrection
+effects do not count for kills or assists.
+Resurrection
+sources have a hierarchy, and will trigger in the following order:
+Zilean's
+Chronoshift
+Guardian Angel
+Anivia's
+Rebirth
+and
+Zac's
+Cell Division
+Resurrection
+will always take precedence over
+zombie state
+effects. Entering
+resurrection
+does not cancel cast times.
+Renata Glasc's
+Bailout
+always takes priority over
+resurrection
+.
+League of Legends content
+Blink
+A
+blink
+refers to a form of movement whereby a unit displaces from point A to B without traversing the space between.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Hecarim's profile page
+at
+LeagueOfLegends.com

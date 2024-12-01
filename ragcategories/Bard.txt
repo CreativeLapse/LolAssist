@@ -1,0 +1,2664 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Bard
+the Wandering Caretaker
+Release date
+2015-03-12
+Last changed
+V14.20
+Class(es)
+Catcher
+Legacy
+Support
+Mage
+Position(s)
+Support
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+1
+Toughness
+1
+Control
+3
+Mobility
+2
+Utility
+3
+Style
+Difficulty
+Bard
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Bard
+Base statistics
+Edit
+Health
+630
++103
+Mana
+350
++50
+Health regen. (per 5s)
+5.5
++0.55
+Mana regen. (per 5s)
+6
++0.45
+Armor
+34
++5
+Attack damage
+52
++3
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+500
+Attack speed
+Base AS
+0.658
+Attack windup
+18.75%
+AS ratio
+N/A
+Bonus AS
++2
+%
+Missile speed
+2000
+Unit radius
+Gameplay radius
+80
+Selection radius
+130
+Pathing radius
+35
+Acq. radius
+600
+Special statistics
+Damage Dealt
++15%
+Damage Received
+-15%
+Healing
++20%
+Damage Dealt
++0%
+Damage Received
+-10%
+Ability Haste
++20
+Damage Dealt
++15%
+Damage Received
+-15%
+Healing
++20%
+Damage Dealt
++15%
+Damage Received
+-15%
+Healing
++20%
+Damage Dealt
++8%
+Damage Received
+-8%
+Move Speed
++20%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Traveler's Call
+Innate - Ancient Chimes:
+Bard's
+presence causes magical
+chimes
+to appear across the map. Collecting a
+chime
+grants him
+experience
+,
+mana
+, and a burst of
+movement speed
+.
+Meeps:
+Bard
+generates
+meeps
+that are each consumed in his basic attacks, dealing
+bonus
+magic damage
+. Collecting
+chimes
+causes these
+meeps
+to be ready more often and gain new effects.
+At
+5 chimes
+,
+Meeps
+apply a
+slow
+to enemies.
+At
+15 chimes
+,
+Meeps
+deal damage to nearby enemies and in a cone behind the target.
+At
+35 chimes
+, the cone's radius increases.
+Innate - Ancient Chimes:
+Bard's
+presence causes sacred
+Chimes
+to appear at random locations on the map, lingering for up to 10 minutes. Collecting a
+Chime
+restores
+12%
+maximum
+mana
+and grants
+Bard
+20 + (
+1 per minute after 5 minutes
+) experience
+, as well as
+24%
+bonus
+movement speed
+out of combat
+for 20 seconds, which stacks up to 10 times. Each
+Chime
+collected beyond the first instead grants an additional
+14%
+bonus
+movement speed
+, up to a total of
+150%
+bonus
+movement speed
+.
+Bard
+empowers his
+Meeps
+each time he collects
+5 Chimes
+.
+Innate - Meeps:
+Bard's
+presence attracts
+Meeps
+, which are small spirits that come to his side. While he has
+Meeps
+, his basic attacks are empowered to each consume a
+Meep
+on-attack
+to deal
+35
+(
++
+10
+per 5
+Chimes
+collected
+)
+(+ 40% AP)
+bonus
+magic damage
+.
+At
+5 Chimes
+,
+Meeps
+slow
+damaged enemies by
+25% − 75% (based on number of
+Chimes
+)
+for 1 second.
+At
+15 Chimes
+,
+Meeps
+deal the damage to enemies within 150 units of the primary target as well as those in a cone behind them.
+At
+35 Chimes
+, the cone's radius increases.
+Meeps
+spawn every
+8 − 4 (based on number of Chimes)
+seconds and
+Bard
+can have up to
+1 − 9 (based on number of Chimes)
+of them at a time.
+Info
+Targeting input
+Passive
+Damage type
+Type
+See Notes
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Parries
+Missing
+Projectile
+Blocked
+Primary target takes
+spell damage
+, while secondary ones take
+area damage
+.
+Meeps
+grant additional stacks of
+Electrocute
+,
+Phase Rush
+and
+Conqueror
+.
+Chime
+spawns are weighted towards the areas of the map that
+Bard
+is currently present in, and spawn every 50 seconds in pairs, with the only exception being the second and third spawns on
+Summoner's Rift
+, which spawn only one.
+Chimes
+will not spawn in either team's base and will not spawn in the enemy team's jungle before the 5 minute mark.
+Only
+Bard
+can see a
+chime
+that is in the
+fog of war
+. All other players must have
+sight
+of a
+chime
+for it to be visible to them.
+Only
+Bard
+can see a minimap icon for an uncollected
+chime
+, regardless of whether other players have vision on it or not. The minimap icon will turn red when the
+chime
+is one minute away from expiration.
+Bard
+cannot see
+chimes
+while
+nearsighted
+.
+Only
+Meep
+cone attacks are absorbed by
+spell shields
+. Those that deal damage together with the basic attack don't.
+If a
+Meep
+empowered auto attack is
+dodged
+,
+blocked
+or when
+Bard
+is
+blinded
+, the basic attack itself will deal no damage, but the
+Meep
+damage will still be applied.
+The empowered attack will not trigger against
+structures
+and
+wards
+.
+Minimum Time
+Chimes
+Effects
+Base Damage
+3:20
+5
+Meeps now
+Slow
+by 25%.
+49
+5:00
+10
+Meep limit increased to 2.
+63
+7:30
+15
+Meeps now deal splash damage.
+77
+9:10
+20
+Recharge time reduced to 7 seconds.
+91
+11:40
+25
+Slow
+increased to 35%.
+105
+13:20
+30
+Meep limit increased to 3.
+119
+15:50
+35
+Splash damage area increased.
+133
+17:30
+40
+Recharge time reduced to 6 seconds.
+147
+20:00
+45
+Slow
+increased to 45%.
+161
+21:40
+50
+Meep limit increased to 4.
+175
+24:10
+55
+Recharge time reduced to 5 seconds.
+189
+25:50
+60
+Slow
+increased to 55%.
+203
+28:20
+65
+Meep limit increased to 5.
+217
+30:00
+70
+Recharge time reduced to 4 seconds.
+231
+32:30
+75
+Slow
+increased to 65%.
+245
+34:10
+80
+Meep limit increased to 6.
+259
+36:40
+85
+Slow
+increased to 75%.
+273
+38:20
+90
+Meep limit increased to 7.
+287
+40:50
+95
+Meep limit increased to 8.
+301
+42:30
+100
+Meep limit increased to 9.
+315
+Every 5 thereafter only grants 14 bonus damage.
+Map-Specific Differences
+Howling Abyss
+differences
+edit
+Chime spawn rate changed to every 30 seconds (initial spawn unchanged).
+Nexus Blitz
+differences
+edit
+Increased chime spawn rate. First chime spawns at 30 seconds, and spawns 2 new ones every 20 seconds.
+Ultra Rapid Fire
+differences
+edit
+Meeps
+thresholds changed to one each 2
+Chimes
+.
+Meep
+respawn time set to 6 seconds.
+Arena
+differences
+edit
+Increased Chime spawn rate during combat.
+Chimes per upgrade changed to 4.
+AP ratio changed to
+50% AP
+.
+Video
+Edit
+Cosmic Binding
+COST:
+60 Mana
+COOLDOWN:
+11 / 10 / 9 / 8 / 7
+CAST TIME:
+0.
+25
+TARGET RANGE:
+850
+WIDTH:
+60
+SPEED:
+1500
+Active:
+Bard
+fires an energy bolt in the target direction that deals
+magic damage
+and
+slows
+the first enemy hit. After the bolt hits an enemy, it continues onward. If it hits
+terrain
+or another enemy, it will deal
+magic damage
+to them and
+stun
+both targets.
+Active:
+Bard
+fires an energy bolt in the target direction that deals
+magic damage
+to the first enemy hit and
+slows
+them by 60% for a duration.
+Magic Damage:
+80 / 120 / 160 / 200 / 240
+(+ 80% AP)
+Disable Duration:
+1 / 1.
+2
+/ 1.
+4
+/ 1.
+6
+/ 1.
+8
+seconds
+After
+Cosmic Binding
+hits an enemy, the bolt continues behind them for
+300 units
+. If the bolt hits terrain or a second enemy, it
+stuns
+both targets for the same duration, dealing the same damage to the secondary target.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Cosmic Binding's
+interaction with
+spell shields
+:
+If the first target has a spell shield, they will block the damage but the bolt will still pass through them.
+If the bolt hits a second target, only they will be stunned.
+If the bolt hits terrain, the first target will be stunned.
+If the second target has a spell shield, they will block the stun and damage.
+The first target will still be stunned.
+If the first target gains a spell shield after being hit, the stun will not be blocked.
+The
+stun
+will apply even if the first target becomes
+untargetable
+.
+Cosmic Binding
+can interact with
+player-generated terrain
+.
+The
+stun
+is still applied even if the first or second target dies to the ability itself or before the projectile can bind them.
+Cosmic Binding
+does not grant
+sight
+of enemies hit, but a hit can be seen and heard to indicate that at least one enemy is there.
+This ability will cast from wherever the caster is at the end of the cast time.
+Video
+Edit
+Caretaker's Shrine
+COST:
+70 Mana
+CAST TIME:
+0.
+25
+RECHARGE:
+18
+TARGET RANGE:
+800
+Active:
+Bard
+conjures a shrine which powers up over a period, disappearing when a champion steps on it. If an ally champion steps on the shrine, they gain a burst of
+movement speed
+and are
+healed
+based on the shrine's power.
+Active:
+Bard
+conjures a shrine at the target location that gathers power over 5 seconds, granting
+sight
+of its surroundings for
+1.
+8
+seconds
+. Shrines last until they are consumed by champions moving over them. Up to 3 shrines may be active at a time.
+If the champion was an ally or
+Bard
+himself, they are
+healed
+for an amount based on the shrine's power and gain
+bonus
+movement speed
+that decays over 1.
+5
+seconds.
+Minimum Heal:
+25 / 50 / 75 / 100 / 125
+(+ 30% AP)
+Maximum Heal:
+50 / 87.
+5
+/ 125 / 162.
+5
+/ 200
+(+ 60% AP)
+Bonus Movement Speed:
+20 / 22.
+5
+/ 25 / 27.
+5
+/ 30%
+(+ 5% per 100 AP)
+Bard
+periodically
+stocks
+a
+Caretaker's Shrine
+charge, up to a maximum of 2.
+Info
+Targeting input
+Location
+/
+Unit
+Damage type
+Type
+Caretaker's Shrine
+can be cast directly on an ally and it will be treated as a
+unit-targeted
+ability for effects such as
+Guardian
+. This version also has a
+forgiveness radius
+of 175 units.
+If
+Bard
+has 3
+shrines
+on the map and creates a new one that is cast directly on himself or an ally, the oldest shrine will not be destroyed. This is because the
+shrine
+is used as an actual targeted heal on himself or someone else, and not a permanent shrine, so the other 3 may stay.
+The
+spell indicator
+of
+Caretaker's Shrine
+shows the area in which it can be used as a targeted heal. After a shrine has been placed on the ground its activation area becomes smaller: allies or enemies have to step directly on the shrine to use it or destroy it.
+Leveling up
+Caretaker's Shrine
+will update the healing of existing shrines.
+Map-Specific Differences
+Arena
+differences
+edit
+Charge time changed to 8 seconds.
+Now affected by +70 ability haste.
+Maximum number of shrines active changed to 33.
+Healing doubled.
+Video
+Edit
+Magical Journey
+COST:
+30 Mana
+COOLDOWN
+:
+22 / 20.
+5
+/ 19 / 17.
+5
+/ 16
+CAST TIME:
+0.
+25
+TARGET RANGE:
+900
+SPEED:
+900
+/
+1197
+Active:
+Bard
+opens a one-way portal through nearby
+terrain
+. Champions can enter by moving into the portal, however allies will be faster.
+Active:
+Bard
+opens a one-way magical corridor through a piece of
+terrain
+in the target direction for 10 seconds.
+A champion can
+pass
+through the corridor by selecting it, becoming
+revealed
+during the travel.
+Bard
+and allies travel through the portal at 33% increased speed.
+A nearby valid piece of terrain is required to cast this ability. Magical Journey cannot be taken while
+immobilized
+or
+grounded
+.
+Info
+Targeting input
+Direction
+Target out-of-range override
+Counters
+Projectile
+Not Blocked
+Grounded
+See Notes
+Knockdown
+Interrupted
+Terrain also includes
+structures
+.
+Magical Journey's
+tunnel has a max range of 2600 units (about two screens long)
+[2]
+.
+Magical Journey
+will score assists for
+Bard
+if an ally that uses it scores a
+kill
+or
+assist
+shortly after.
+Bard
+can cast
+Magical Journey
+while
+grounded
+or
+rooted
+.
+There is no limit to how many times a given instance of
+Magical Journey
+may be used.
+Magical Journey
+cannot interact with player-created terrain due to its short lifespan.
+[3]
+Any abilities that continue during normal movement, such as
+point blank area of effects
+and various forms of
+stealth
+, will continue during the travel within
+Magical Journey
+.
+If a champion's
+dash
+is
+interrupted
+while inside terrain using
+Magical Journey
+, they will be immediately displaced out to the nearest open space, but are not rendered
+airborne
+.
+Taking
+Magical Journey
+is considered a
+dash
+, and so will interact with effects such as
+Sudden Impact
+and
+knockdown
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Now affected by +70 ability haste.
+Video
+Edit
+Tempered Fate
+COST:
+100 Mana
+COOLDOWN:
+110 / 95 / 80
+CAST TIME:
+0.
+5
+TARGET RANGE:
+3400
+EFFECT RADIUS:
+350
+Active:
+Bard
+sends spirit energy arcing to a location, putting all
+champions
+,
+minions
+,
+monsters
+, and
+turrets
+hit into
+stasis
+for a short time.
+Active:
+Bard
+sends magical energy arcing to the target location, granting
+sight
+of the area during travel. Upon impact, it puts all units within into
+stasis
+for 2.
+5
+seconds, as well as
+stunning
+all enemy
+champions
+,
+minions
+, and
+turrets
+struck for the same duration. Enemies hit are
+revealed
+for the duration.
+Epic
+monsters
+and
+turrets
+are affected by Tempered Fate despite being
+immune to crowd control
+.
+Info
+Targeting input
+Location
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Tempered Fate's
+stun
+is affected by
+Tenacity
+.
+The
+stasis
+is unaffected.
+Tempered Fate
+will affect all
+targetable
+champions
+,
+minions
+,
+monsters
+,
+turrets
+,
+wards
+, and
+jungle plants
+.
+Tempered Fate
+has no effect on enemies that have
+displacement immunity
+or
+total crowd control immunity
+, and allies that are immune from using an ability that preloads
+UnstoppableForceMarker
+.
+The only exceptions are the crowd control immunity that
+turrets
+and epic
+monsters
+have.
+All
+champions
+(including allies) during the
+stasis
+are prohibited from activating
+cleansing
+effects for its duration.
+It will not disable
+Quicksilver
+and instead put it on a 3-second
+cooldown
+.
+Tempered Fate
+deals 0
+proc
+true damage
+, which triggers
+in-combat
+effects such as drawing turret and
+monster aggression
+,
+Sudden Impact
+or applying
+Elixir of Sorcery
+.
+Elixir of Sorcery
+deals damage before the target is put into stasis.
+Tempered Fate's
+travel time varies between ~0.
+65
+at point blank and ~1.
+8
+at max range, resulting in an overall delay of ~1.
+15
+-2.
+3
+seconds including the cast time depending on distance covered.
+Video
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Bard (Collection)
+.
+Original
+View in 3D
+880
+12.03.2015
+A traveler from beyond the stars, Bard is an agent of serendipity who fights to maintain a balance where life can endure the indifference of chaos. Many Runeterrans sing songs that ponder his extraordinary nature, yet they all agree that the cosmic vagabond is drawn to artifacts of great magical power. Surrounded by a jubilant choir of helpful spirit meeps, it is impossible to mistake his actions as malevolent, as Bard always serves the greater good… in his own odd way.
+N/A; Utora, Sebastien 'Chemicalseb' Najand
+Evan 'Somnicidal' Monteiro
+Loot eligible
+Chromas
+Original Bard Chromas
+Ivy
+Marigold
+Sage
+Elderwood
+View in 3D
+975
+12.03.2015
+Bard is a creature of the old world, they say, older than the great forest, and older even than the seeds it sprouted from. Few records remain of the age before the gods, but it is likely Bard predates them—a truly primordial being, tending the land since time's first dawn.
+N/A; Utora, Sebastien 'Chemicalseb' Najand
+Unknown artist
+Elderwood
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Snow Day
+View in 3D
+1350
+10.12.2015
+Bard's vast cosmic powers and inscrutable nature are great assets in a snowball fight. Summoning an array of enchanted Winterland penguins, self-warming cups of cocoa, and portals to nowhere give this Wandering Caretaker an unbeatable edge.
+N/A; Utora, Sebastien 'Chemicalseb' Najand
+Kelly Aleshire
+Snow Day
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Snow Day Bard Chromas
+Golden
+Bard Bard
+View in 3D
+750
+17.11.2016
+Though playing a famously unpopular Riftquest character class, Bard Bard has turned the ancient art of song into a reality-altering weapon of death. Unfortunately his turns take forever, since he has no concept of linear time and speaks in those weird “bwong” sounds.
+N/A; Utora, Sebastien 'Chemicalseb' Najand
+Christian Fell
+Rift Quest
+Loot eligible
+New SFX/VFX
+Astronaut
+View in 3D
+1350
+28.05.2020
+In space, no one can hear you chime.
+N/A; Utora, Sebastien 'Chemicalseb' Najand
+Lucas Parolin, West Studio
+Astronauts
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Astronaut Bard Chromas
+Amethyst
+Aquamarine
+Catseye
+Chrono
+Citrine
+Emerald
+Rose Quartz
+Ruby
+Cafe Cuties
+View in 3D
+1350
+02.12.2021
+Bard is a wandering wordless connoisseur of the finest cafes. If he leaves behind a blessing in the form of a teacup? A hundred years of sweet success. No one knows where the Teapot Troubadour came from, or if he has a purpose beyond delighting in patisserie, but a visit from Bard instantly puts any cafe on the map!
+N/A; Utora, Sebastien 'Chemicalseb' Najand
+Augusto Quirino, West Studio
+Cafe Cuties
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Cafe Cuties Bard Chromas
+Catseye
+Emerald
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Shan Hai Scrolls
+View in 3D
+1350
+14.06.2023
+The god of plants, Bard is constantly on the move to replenish nature. As caretaker of the sacred trees of Dusk and Dawn, he's fashioned one of their broken branches into a horn capable of letting him travel anywhere within the Scrolls. He knows the mad god Jhin would use that power for his own gain, but Bard will stake his life to prevent it.
+N/A; Utora, Sebastien 'Chemicalseb' Najand
+Su Fu, Kudos Productions
+Shan Hai Scrolls
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Shan Hai Scrolls Bard Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+T1
+View in 3D
+1350
+14.08.2024
+Honoring Keria's winning performance as Bard during the 2023 World Championship.
+N/A; Utora, Sebastien 'Chemicalseb' Najand
+Alsie Lau, Kelvin Law, Mo Yan
+World Champions: 2023
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+T1 Bard Chromas
+Elite
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.20
+Caretaker's Shrine
+New Effect:
+Cast now has a forgiveness radius of 175 units.
+V14.15
+General
+Bug Fix:
+Abilities SFX are no longer audible through the Fog of War.
+V14.9
+Stats
+Selection radius increased to 130 units from 88.
+8889007568359
+.
+V14.4
+Stats
+Armor growth reduced to 5 from 5.
+2
+.
+Base attack speed increased to 0.
+658
+from 0.
+625
+.
+Attack speed ratio increased to 0.
+658
+from 0.
+625
+.
+Traveler's Call
+Damage per 5 chimes reduced to 10 from 14.
+AP ratio increased to
+40% AP
+from
+30% AP
+.
+Cosmic Binding
+Base damage reduced to 80 / 120 / 160 / 200 / 240 from 80 / 125 / 170 / 215 / 260.
+AP ratio increased to
+80% AP
+from
+65% AP
+.
+V14.2
+Caretaker's Shrine
+Bug Fix:
+Preparation time of the shrine is now properly synced with the VFX of the ability.
+This also means the animation is no longer partially skipped when transitioning to the fully charged version.
+Bug Fix:
+Can no longer be cast without going on cooldown.
+V13.19
+Tempered Fate
+Bug Fix:
+Stasis effect now properly disables
+Dragons'
+ability to move.
+V13.18
+- September 14th Hotfix
+Caretaker's Shrine
+Bug Fix:
+No longer loses a charge if he casts it outside of range and cancels the ability.
+V13.18
+Traveler's Call
+Movement speed duration increased to 20 seconds from 7.
+Maximum number of stacks increased to 10 from 5.
+Caretaker's Shrine
+New Effect:
+Now stores 2 charges of the ability with an 18 second recharge timer.
+Bonus movement speed reduced to 20 / 22.
+5
+/ 25 / 27.
+5
+/ 30% from 30% at all ranks.
+New Effect:
+Bonus movement speed now scales with
+5% per 100 AP
+.
+Shrine charge timer reduced to 5 seconds from 10.
+Cooldown reduced to 0 seconds from 14.
+V13.15
+- August 3rd Hotfix
+Caretaker's Shrine
+Bug Fix:
+Fixed a bug causing it to heal either the maximum or minimum amount.
+V13.15
+- August 2nd Hotfix
+Caretaker's Shrine
+Bug Fix:
+Now properly heals allies.
+V13.14
+Traveler's Call
+Bug Fix:
+Enemies now properly can see chimes through the fog of war.
+V13.3
+Traveler's Call
+Bug Fix:
+Location of chimes on the mini-map are not visible to all other players once more.
+V13.1
+Caretaker's Shrine
+Bug Fix:
+Can no longer cast the spell twice in a row when targeting an ally and a location each in quick succession.
+V12.14
+General
+Bug Fix:
+Knocked up/stunned animation is now correctly played.
+V12.10
+Stats
+Base health increased to 630 from 560.
+Health growth increased to 103 from 89.
+Armor growth increased to 5.
+2
+from 4.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Caretaker's Shrine
+Minimum base heal reduced to 25 / 50 / 75 / 100 / 125 from 30 / 60 / 90 / 120 / 150.
+Maximum base heal reduced to 50 / 87.
+5
+/ 125 / 162.
+5
+/ 200 from 60 / 105 / 150 / 195 / 240.
+V12.8
+Traveler's Call
+Base damage increased to 35 from 30.
+Damage per 5 chimes increased to 14 from 12.
+Caretaker's Shrine
+Maximum base heal increased to 60 / 105 / 150 / 195 / 240 from 55 / 95 / 135 / 175 / 215.
+V12.1
+Traveler's Call
+Bug Fix:
+Fixed a bug where the Meeps would become targetable after he traveled through Hexgates.
+Tempered Fate
+Bug Fix:
+Fixed a bug where it did not interact with
+Glacial Augment
+correctly.
+Enemies put into stasis are now simultaneously stunned for the same duration. This stun is affected by Tenacity, including negative Tenacity.
+V11.21
+Traveler's Call
+Undocumented/Bug Fix:
+Secondary targets hit by Meeps now trigger
+Ravenous Hydra's
+and
+Muramana's
+effects.
+V11.10
+Traveler's Call
+Base damage reduced to 30 from 40.
+V10.25
+Traveler's Call
+Bug Fix:
+Attacking a target multiple times with Meeps now properly reapplies
+Imperial Mandate
+.
+V10.16
+Stats
+Base health reduced to 560 from 575.
+Caretaker's Shrine
+Maximum base heal reduced to 55 / 95 / 135 / 175 / 215 from 70 / 110 / 150 / 190 / 230.
+V10.12
+Traveler's Call
+Bug Fix:
+Name and description are no longer missing in Death Recap.
+V10.9
+Caretaker's Shrine
+Bonus movement speed reduced to 30% from 50%.
+Cooldown increased to 14 seconds from 12.
+Magical Journey
+Cooldown increased to 22 / 20.
+5
+/ 19 / 17.
+5
+/ 16 seconds from 18 / 17 / 16 / 15 / 14.
+V10.5
+Traveler's Call
+Damage per 5 chimes reduced to 12 from 15.
+V9.18
+Traveler's Call
+Bug Fix:
+Meep cone attacks now properly break spell shields.
+V9.14
+Stats
+Base health increased to 575 from 535.
+Base health regeneration reduced to 5.
+5
+from 7.
+5
+.
+Magical Journey
+Travel speed increased to 900 from 800.
+Ally bonus speed changed to 33% at all ranks from 10 / 20 / 30 / 40 / 50%.
+V8.17
+Tempered Fate
+Cooldown reduced to 110 / 95 / 80 seconds from 130 / 115 / 90.
+V8.10
+Cosmic Binding
+Bug Fix:
+Can no longer stun units against
+Gangplank's
+Powder Keg
+with his
+Cosmic Binding
+.
+Caretaker's Shrine
+Mana cost reduced to 70 from 90.
+V8.7
+General
+Bug Fix:
+No longer T-poses when laughing.
+Magical Journey
+Bug Fix:
+Is no longer missing approach lines when clicking on
+Magical Journey
+to enter the portal.
+Snow Day Bard
+and
+Elderwood Bard
+Caretaker's Shrine
+Bug Fix:
+No longer use base VFX when placing
+Caretaker's Shrine
+.
+Bard Bard
+Magical Journey
+Bug Fix:
+Is no longer missing approach lines when clicking on
+Magical Journey
+to enter the portal.
+V7.24
+Stats
+Base health regeneration increased to 7.
+5
+from 5.
+4
+.
+Traveler's Call
+Meep base damage increased to 40 from 30.
+V7.22
+Stats
+Base armor increased to 34 from 25.
+V7.15
+Snow Day Bard
+General
+Bug Fix:
+Reattached a penguin's leg in recall and joke.
+Caretaker's Shrine
+Bug Fix:
+No longer has a higher volume level compared to his classic skin.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.7
+Traveler's Call
+Meep base damage is now 30 (+15 every 5 Chimes) from
+30 − 460 (based on Chimes)
+(+20 every 5 thereafter).
+Meep slow changed to
+25 − 75 (based on Chimes)
+% from
+25 − 80 (based on Chimes)
+%.
+Meep AoE unlock requirement reduced to 15 Chimes from 25 Chimes.
+Meep AoE increased radius requirement reduced to 35 Chimes from 65 Chimes.
+Meep recharge time reduced to
+8 / 7 / 6 / 5 / 4 (based on Chimes)
+from
+8 / 7 / 6 / 5 / 4 (based on Chimes)
+.
+Meep stock limit increased to
+1 − 9 (based on Chimes)
+from
+1 / 2 / 3 / 4 (based on Chimes)
+.
+V7.4
+Traveler's Call
+Base movement speed bonus when picking up chimes increased to 24% from 18%.
+Movement speed bonus per stack when picking up chimes increased to 14% from 12%.
+Maximum bonus movement speed at 5 chimes increased to 80% from 66%.
+V7.1
+Cosmic Binding
+Bug Fix:
+Fixed a bug causing stun to last slightly longer than intended.
+Bug Fix:
+Fixed a few cases where the snowflake ground decoration on
+Snow Day Bard's
+Cosmic Binding
+stun appeared in weird places on certain champions.
+V6.24
+Snow Day Bard
+Bug Fix:
+Singing VO during his dance animation is no longer delayed.
+V6.14
+Magical Journey
+Bug Fix:
+Restored the pathing indicator line that appears between clicking on
+Snow Day Bard's
+Magical Journey
+and entering it to become a penguin.
+V6.12
+Howling Abyss
+only:
+Traveler's Call
+Chime spawn rate changed to every 40 seconds instead of 50 seconds. (initial spawn unchanged)
+V6.7
+Magical Journey
+Bug Fix:
+Traveling through the portal no longer rarely takes you in the wrong direction.
+V6.1
+Traveler's Call
+New Effect:
+The
+「 25
+Chimes
+milestone 」
+「 area of effect damage improvement 」
+now also makes the
+Meeps
+strike in a 150-unit-radius area around the target in addition to the cone behind them.
+V5.24
+Traveler's Call
+Meeps
+basic recharge timer reduced to 8 seconds from 10.
+Caretaker's Shrine
+Uncharged shrine AP ratio increased to
+30% AP
+from
+20% AP
+Fully-charged shrine AP ratio increased to
+60% AP
+from
+45% AP
+V5.17
+Caretaker's Shrine
+Mana cost reduced to 90 at all ranks from 100 / 105 / 110 / 115 / 120.
+Magical Journey
+Cooldown reduced to 18 / 17 / 16 / 15 / 14 seconds from 20 / 19 / 18 / 17 / 16.
+V5.16
+Stats
+Health growth increased to 89 from 85.
+V5.8
+Traveler's Call
+Ancient Chimes
+No longer spawn in the enemy team's jungle before the 5 minute mark.
+New Effect:
+Experience gain increases by 1 per minute after the 5 minute mark.
+Caretaker's Shrine
+Tooltip now displays the current amount of active shrines.
+V5.7
+Stats
+Attack damage increased to 52 from 46.
+Armor increased to 25 from 21.
+Traveler's Call
+Ancient Chimes
+Mana restoration changed to
+(12% max mana)
+from 15
+(+ 8% of missing mana)
+.
+Meeps
+Spawn time reduced to
+10
+/
+9
+/
+8
+/
+7
+/
+6
+seconds from
+12
+/
+11
+/
+10
+/
+9
+/
+8
+.
+Cosmic Binding
+Base damage increased to 80 / 125 / 170 / 215 / 260 from 80 / 120 / 160 / 200 / 240.
+AP ratio increased to
+(+ 65% AP)
+from
+(+ 50% AP)
+.
+V5.6
+Cosmic Binding
+Base damage increased to 80 / 120 / 160 / 200 / 240 from 75 / 100 / 145 / 180 / 215.
+No longer can it tether to unusual units such as
+Demacian Standard
+,
+Dark Sphere
+,
+Acceleration Gate
+, and wards.
+Magical Journey
+Cooldown reduced to 20 / 19 / 18 / 17 / 16 seconds from 26 / 24 / 22 / 20 / 18.
+Clicking on a Magical Journey portal is now more forgiving.
+Bard will now score an assist if allies who use the portal score a kill shortly thereafter.
+Clones (such as those created by
+Shaco
+,
+LeBlanc
+,
+Mordekaiser
+, and
+Yorick
+) can now be commanded to use the portal.
+Tempered Fate
+Neutral monsters will no longer have their health reset while in stasis.
+V5.5
+Added
+Trivia
+[
+edit
+|
+edit source
+]
+Bard
+is one of 15 champions that have an ability that infinitely stacks an effect:
+Aurelion Sol
+,
+Bel'Veth
+,
+Cho'Gath
+,
+Draven
+,
+Kindred
+,
+Nasus
+,
+Senna
+,
+Shyvana
+,
+Sion
+,
+Smolder
+,
+Swain
+,
+Sylas
+,
+Thresh
+, and
+Veigar
+.
+In Bard's case,
+Traveler's Call
+infinitely stacks the base
+magic damage
+of his
+Meeps
+.
+Curiously enough,
+The Wonder Above
+is the antithesis of
+The Terror Beneath
+, going so far as to both having a portal-opening ability (
+Magical Journey
+and
+Tunnel
+) as well as an enemy-destructible object-placing one (
+Caretaker's Shrine
+and
+Tunnel
+)
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Catcher
+Controllers
+are defensive casters that oversee the battlefield by protecting and opening up opportunities for their allies.
+Catchers
+specialize in locking down opponents or, in some cases, entire battlefields by creating intense zones of threat that only foolish enemies would dare wade through. Although not as reliant on their friends as Enchanters, the fragile Catchers greatly benefit from allied presence - both to deter incoming danger and to help capitalize on targets they've locked down.
+Examples
+Blitzcrank
+Morgana
+Zyra
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Summoner's Rift
+The newest and most venerated battleground is known as Summoner's Rift. Traverse down one of three different paths in order to attack your enemy at their weakest point. Work with your allies to siege the enemy base and destroy their Nexus!
+Regular Modes
+Classic 5v5
+Custom
+Featured Game Modes
+Black Market Brawlers
+Doom Bots
+Hexakill
+Hunt of the Blood Moon
+Nemesis Draft
+Nexus Siege
+One For All
+One For All: Mirror Mode
+Ultra Rapid Fire
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Nearsight
+A unit that is
+nearsighted
+has their
+sight
+radius reduced and
+cannot
+see beyond their sight radius.
+While nearsighted, units cannot reveal
+stealthed
+wards
+or
+traps
+. Nearsighted units lose vision of all their allies as well as all external sources of vision (including from wards or abilities). This prevents
+unit-targeted
+effects, including
+basic attacks
+, from being used outside of the unit's reduced sight radius.
+True sight
+and
+unobstructed vision
+do
+not
+bypass the vision blocked by
+nearsight
+.
+Sources of
+nearsight
+do
+not
+stack with each other; only the application with the greatest sight reduction will take effect.
+Interrupts:
+Interrupts target commands if the
+nearsighted
+unit's target is outside of their new vision area and prevents
+automated target acquisition
+.
+Reduction:
+The
+duration
+is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+with the exceptions of
+Fiora's
+Riposte
+and
+Morgana's
+Black Shield
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast),
+Cleanse
+, and
+Mikael's Blessing
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Howling Abyss
+The Howling Abyss is a bottomless crevasse located in the coldest, cruelest, part of the
+Freljord
+. Legends say that, long ago, a great battle took place here on the narrow bridge spanning this chasm. No one remembers who fought here, or why, but it is said that if you listen carefully to the wind you can still hear the cries of the vanquished tossed howling into the Abyss.
+Regular Modes
+Classic 5v5
+(
+All random
+)
+Custom
+Featured Game Modes
+Legend of the Poro King
+One For All
+One For All: Mirror Mode
+Snowdown Showdown
+League of Legends content
+Nexus Blitz
+An explosive game mode known as Nexus Blitz. Traverse down one of two different paths in order to attack your enemy at their weakest point. Work with your allies to siege the enemy base and destroy their Nexus!
+Regular Modes
+Classic 5v5
+Custom
+Maps
+Temple of Lily and Lotus
+League of Legends content
+Ultra Rapid Fire (U.R.F.)
+Ultra Rapid Fire
+is a
+Featured Game Mode
+that takes place on
+Summoner's Rift
+with the same objective as
+Classic 5v5
+, except all
+champions
+benefit from the
+Awesome Buff of Awesomely Awesome Buffing
+that grants excessive  ability haste and removes ability costs. The gameplay is
+explosive
+. The game mode can be played as
+All Random
+or
+Blind pick
+depending on the year.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Targeting forgiveness
+Certain unit-targeted abilities present an accuracy-grace system called
+targeting forgiveness
+.
+When no valid target is
+directly selected
+upon using the ability, it will automatically search for one within a certain
+center-to-center
+forgiveness radius
+. If a valid target is found within the forgiveness radius, the ability will automatically acquire them and cast on them. If multiple targets are found, the nearest one to the forgiveness radius' center is chosen.
+Only ally-targeted abilities may utilize this system. Not to be confused with a different, priority-based system that a few other spells (e.g.
+Smite
+) use.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Standard sight
+Standard sight
+reveals units through
+fog of war
+and
+brush
+, but
+not
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Immobilize
+Immobilized
+units cannot control their movement. The following crowd control effects
+immobilize
+the unit:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Root
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Impaired movement
+is a similar term that, in addition to the above, also refers to units that are
+slowed
+.
+League of Legends content
+Ground
+A unit that is
+grounded
+is unable to activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Grounded
+units can still be displaced.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Ground
+is the only type of
+crowd control
+that is most commonly found in persistent area of effects, which will reapply the status effect continuously.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Root
+A unit that is
+rooted
+is unable to control its movement or activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Rooted
+units can still be displaced.
+Root
+is an
+immobilizing
+effect
+.
+Moving
+includes movement commands.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Stealth
+Stealth
+renders a unit invisible to enemies and grants
+ghosting
+, allowing a unit to tread without being
+visible
+to enemies.
+Stealthed
+units within sight will briefly shimmer their silhouette upon taking damage, exposing their current position.
+Stealth
+is split into three categories:
+Invisibility
+: The unit
+can
+only
+be
+revealed by
+True Sight
+.
+Camouflage
+: The unit
+can
+only
+be
+revealed by
+True Sight
+, being within a certain detection radius of enemy
+champions
+, and nearby
+Control Wards
+.
+Stealthed trap
+: The unit
+can
+only
+be
+revealed by
+True Sight
+,
+Control Wards
+,
+Oracle Lens
+, and
+A Harmless Scarecrow
+.
+Unit-targeted
+effects cannot be cast upon stealthed units as the caster is unable to select the target without seeing them.
+Stealth
+is not a form of
+untargetability
+; units can still be hit by effects that do not require vision of targets, such as skill-shots,
+auto-targeted
+, and
+location-targeted
+effects.
+Certain actions break
+stealth
+. This can include, but is not limited to:
+basic attacking
+, casting an
+ability
+, activating an
+item
+, using a
+summoner spell
+, and taking damage. The interaction can vary among certain cases.
+League of Legends content
+Interrupt
+Interrupt
+is a quality of crowd control that
+interrupts
+an in-progress effect, preventing its completion or causing the effect to go off at an
+interrupted
+state.
+The following crowd control effects
+interrupt
+channeled and charged
+abilities (unless otherwise noted by the ability):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+The following crowd control effects
+interrupt
+dashes
+:
+Airborne
+Knockdown
+Stasis
+Basic attack windups
+are
+interrupted
+by all forms of crowd control that inhibit attacking.
+Ground
+and
+Root
+only
+interrupt
+channeled and charged movement abilities.
+References
+[
+edit
+|
+edit source
+]
+↑
+Bard's profile page
+at
+LeagueOfLegends.com
+↑
+Bard Q&A comment by Rabid Llama
+↑
+Bard Q&A comment by Rabid Llama

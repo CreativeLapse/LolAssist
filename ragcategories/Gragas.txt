@@ -1,0 +1,2497 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Gragas
+the Rabble Rouser
+Release date
+2010-02-02
+Last changed
+V14.19
+Class(es)
+Vanguard
+Legacy
+Fighter
+Mage
+Position(s)
+Jungle
+Top
+Middle
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Magic
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+2
+Toughness
+3
+Control
+3
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Gragas
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Gragas
+Base statistics
+Edit
+Health
+640
++115
+Mana
+400
++47
+Health regen. (per 5s)
+5.5
++0.5
+Mana regen. (per 5s)
+6
++0.8
+Armor
+38
++5
+Attack damage
+64
++3.5
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+125
+Attack speed
+Base AS
+0.675
+Attack windup
+25%
+AS ratio
+0.625
+Bonus AS
++2.05
+%
+Unit radius
+Gameplay radius
+80
+Selection radius
+140
+Pathing radius
+50
+Acq. radius
+600
+Special statistics
+Damage Dealt
++0%
+Damage Received
+-5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Happy Hour
+STATIC COOLDOWN
+:
+12 / 10 / 8 / 6 (based on level)
+Passive:
+Every few seconds,
+Gragas
+will
+heal
+a portion of
+his
+maximum
+health
+upon casting an ability.
+Innate:
+Periodically, after casting an
+ability
+,
+Gragas
+heals
+himself for
+5.
+5
+% of his
+maximum
+health
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+No additional details.
+Map-Specific Differences
+Arena
+differences
+edit
+Heal changed to
+3.
+5
+%
+maximum
+health
+.
+Cooldown changed to 4 seconds.
+Edit
+Barrel Roll
+COST:
+80 Mana
+COOLDOWN
+:
+10 / 9 / 8 / 7 / 6
+CAST TIME:
+0.
+25
+TARGET RANGE:
+850
+EFFECT RADIUS:
+250
+SPEED:
+1000
+Active:
+Gragas
+rolls a cask to the target location that lingers for a short time before exploding.
+Barrel Roll
+can be recast within the duration once it fully travels.
+Recast:
+Gragas
+detonates the cast, dealing
+magic damage
+and
+slowing
+nearby enemies. The effects are increased based on how long the cask lingered.
+Active:
+Gragas
+rolls a cask to the target location, remaining there for 4 seconds and granting
+sight
+of the area. Upon arrival, the cask starts to ferment over the first 2 seconds of its duration to increase its
+damage
+and the effectiveness of its
+slow
+, up to a maximum of 150% of their initial values.
+Barrel Roll
+can be recast at any time within its duration after the cask has fully travelled, and does so automatically after its duration ends.
+Recast:
+Gragas
+detonates the cask, dealing
+magic damage
+to nearby enemies, reduced by 30% against
+minions
+, and
+slowing
+them for 2 seconds.
+Minimum Magic Damage:
+80 / 120 / 160 / 200 / 240
+(+ 80% AP)
+Maximum Magic Damage:
+120 / 180 / 240 / 300 / 360
+(+ 120% AP)
+Minimum Minion Damage:
+56 / 84 / 112 / 140 / 168
+(+ 56% AP)
+Maximum Minion Damage:
+84 / 126 / 168 / 210 / 252
+(+ 84% AP)
+Minimum Slow:
+40 / 45 / 50 / 55 / 60%
+Maximum Slow:
+60 / 67.
+5
+/ 75 / 82.
+5
+/ 90%
+Info
+Targeting input
+Location
+/
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+The initial cast counts as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Deactivating the ability manually does not.
+The cask ignores unit and terrain collision therefore it will only stop once it reaches the target location.
+On arrival the cask will begin to glow ever brighter as it ferments until it turns bright red.
+Barrel Roll
+has an internal cooldown while traveling so that
+Gragas
+may only make it explode on arrival.
+The charge-up countdown will only start once the cask stops rolling.
+This ability will cast from wherever the caster is at the end of the cast time.
+Edit
+Drunken Rage
+COST:
+30 Mana
+COOLDOWN:
+5
+CAST TIME:
+none
+EFFECT RADIUS:
+250
+Active:
+Gragas
+channels
+, then gains damage reduction. His next
+basic attack
+will deal
+bonus
+magic damage
+to the target and nearby enemies based on each
+target's
+maximum
+health
+.
+Active:
+Gragas
+channels
+for 0.
+75
+seconds, drinking out of his brew, and gains damage reduction for 2.
+5
+seconds.
+Damage Reduction:
+10 / 12 / 14 / 16 / 18%
+(+ 4% per 100 AP)
+Upon completing the channel,
+Gragas
+empowers his next
+basic attack
+within 5 seconds to have an
+uncancellable windup
+, gain
+50
+bonus
+range
+and deal
+bonus
+magic damage
+to the target and nearby enemies, reduced to 50% against
+structures
+and capped at 300 against
+monsters
+.
+Bonus Magic Damage:
+20 / 50 / 80 / 110 / 140
+(+ 7% of target's
+maximum
+health)
+(+ 70% AP)
+Capped Monster Damage:
+320 / 350 / 380 / 410 / 440
+(+ 70% AP)
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Parries
+Blocked
+Disruption
+Interrupted
+The enhanced attack will apply other
+on-hit effects
+and can
+critically strike
+as normal.
+The empowered attack will trigger against
+structures
+.
+The empowered attack will trigger against
+wards
+but not be consumed nor apply its effects against
+wards
+.
+The following table refers for interactions while
+Gragas
+is
+channeling
+:
+Type
+Channel
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Allowed
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Disabled
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death
+Cast-inhibiting effects
+Map-Specific Differences
+Arena
+differences
+edit
+Health ratio changed to
+9% of target's
+maximum
+health
+.
+Edit
+Body Slam
+COST:
+50 Mana
+COOLDOWN:
+14 / 13.
+5
+/ 13 / 12.
+5
+/ 12
+CAST TIME:
+none
+TARGET RANGE:
+600
+EFFECT RADIUS:
+180
+/
+180
+SPEED:
+910
+Passive:
+Gragas
+charges
+in the target direction, stopping upon the first enemy hit, which deals
+magic damage
+to nearby enemies,
+knocks them back
+, and
+stuns
+them. If
+Body Slam
+hits an enemy, the cooldown is
+reduced
+.
+Active:
+Gragas
+charges
+in the target direction and stops upon colliding with an enemy, dealing
+magic damage
+to all nearby enemies,
+knocking them back
+, though not through terrain, and
+stunning
+them for 1 second.
+Magic Damage:
+80 / 125 / 170 / 215 / 260
+(+ 60% AP)
+Body Slam's
+current
+cooldown
+is reduced by 40% if
+Gragas
+hits an enemy.
+Barrel Roll
+and
+Explosive Cask
+can be cast during the dash.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Flash
+can be casted during
+Body Slam
+, instantly ending it and affecting enemies at the flash location.
+Units hit by
+Body Slam
+turn away from
+Gragas
+.
+Displacement immunity
+will not resist the application of the
+stun
+.
+Map-Specific Differences
+Ultra Rapid Fire
+differences
+edit
+Cooldown refund changed to 0.
+25
+seconds.
+Arena
+differences
+edit
+Base damage changed to 80 / 115 / 150 / 185 / 220.
+Cooldown changed to 15 / 14.
+5
+/ 14 / 13.
+5
+/ 13 seconds.
+Cooldown refund changed to 25%.
+Edit
+Explosive Cask
+COST:
+100 Mana
+COOLDOWN:
+100 / 85 / 70
+CAST TIME:
+0.
+25
+TARGET RANGE:
+1000
+EFFECT RADIUS:
+400
+Active:
+Gragas
+hurls a cask to the target location that explodes upon impact, dealing
+magic damage
+to nearby enemies and
+knocking them back
+.
+Active:
+Gragas
+hurls a cask that travels to the target location over 0.
+5
+seconds, exploding on impact to deal
+magic damage
+to all enemies within the area and
+knock them back
+900 units, though not through terrain, from the epicenter of the explosion, as well as granting
+sight
+of the area for 1 second.
+Magic Damage:
+200 / 300 / 400
+(+ 80% AP)
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+This ability will cast from wherever the caster is at the end of the cast time.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Gragas (Collection)
+.
+Original
+View in 3D
+790
+02.02.2010
+Equal parts jolly and imposing, Gragas is a massive, rowdy brewmaster on his own quest for the perfect pint of ale. Hailing from parts unknown, he now searches for rare ingredients among the unblemished wastes of the Freljord, trying each recipe as he goes. Often intoxicated and extremely impulsive, he is legendary for the brawls he starts, which often end in all-night parties and widespread property damage. Any appearance from Gragas must surely foreshadow drinking and destruction—in that order.
+J.S. Gilbert
+Unknown artist
+Loot eligible
+Scuba
+View in 3D
+975
+03.05.2010
+J.S. Gilbert
+Unknown artist
+Day Job
+Loot eligible
+Legacy
+Hillbilly
+View in 3D
+520
+01.08.2010
+J.S. Gilbert
+Unknown artist
+Legacy
+Loot eligible
+Santa
+View in 3D
+975
+14.12.2010
+Some might say Gragas would be the perfect Santa, and between his jolly frame and wild beard he certainly fits the bill. But Gragas is also very unreliable, constantly intoxicated, and starts fights seemingly at random—but he likes the costume, and no one is brave enough to take it back.
+J.S. Gilbert
+Unknown artist
+Snowdown Showdown
+Loot eligible
+Legacy
+New SFX/VFX
+Gragas, Esq.
+View in 3D
+975
+12.04.2011
+One of the city's top criminal defense attorneys, Gragas, Esquire is often seen carousing with the chief of police and various circuit court judges—mostly because they know he has access to the finest prohibited goods… but also because he's been paying them off for decades.
+J.S. Gilbert
+Unknown artist
+Crime City
+Loot eligible
+New SFX/VFX
+Vandal
+View in 3D
+975
+02.03.2012
+Gragas causes enough trouble to be kicked out of every wasteland settlement twenty times over, but the man found a way to mix potent brew and unrefined gasoline into the staple beverage of the post-apocalypse. Might as well let him wreck a few bars. He's earned it.
+J.S. Gilbert
+Unknown artist
+Vandal
+Loot eligible
+Legacy
+New SFX/VFX
+Oktoberfest
+View in 3D
+975
+21.09.2012
+Gragas is the world's premier authority on beverages. Here, at the international beverage festival and funfair, he's drinking a lot of them.
+J.S. Gilbert
+Unknown artist
+Wonders of the World
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Superfan
+View in 3D
+750
+18.06.2014
+Gragas is Runeterra's biggest Order United fan, and he makes sure everyone knows it by leading chants, foregoing clothing for blue body paint, and making sure everyone around him is “adequately hydrated.”
+J.S. Gilbert
+Unknown artist
+Soccer Cup
+Loot eligible
+Legacy
+New SFX/VFX
+Fnatic
+View in 3D
+750
+24.09.2014
+Honoring Shushei's winning performance as Gragas during the 2011 World Championship.
+J.S. Gilbert
+Unknown artist
+World Champions: 2011
+Loot eligible
+Legacy
+New SFX/VFX
+Gragas Caskbreaker
+View in 3D
+750
+07.12.2015
+Gragas Caskbreaker is described in legend as both a pious, sun-worshipping cleric and a despicable drunk, depending on who tells the tale. He's not too familiar with Riftquest, but he does like fighting dragons and passing out in the middle of his combat actions.
+J.S. Gilbert
+Unknown artist
+Rift Quest
+Loot eligible
+New SFX/VFX
+Arctic Ops
+View in 3D
+1350
+25.01.2018
+A large man even before donning his hermetically sealed arctic combat suit, Gragas is a mystery to all save for High Command's secretive R&D labs. He appears human by all measures, save for the mask he never removes, and the eerily cold mixture of chemicals powering his massive frame.
+J.S. Gilbert
+Alex 'alexplank' Flores
+Arctic Ops
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Warden
+View in 3D
+1350
+07.01.2021
+The Wardens are a sect of those who choose to don the armor of the Protectorate. Wardens hail from all corners of the world; so long as one holds fast to one's pledge, then one is a Warden. Gragas found purpose in this calling, and found camaraderie in his fellow Wardens, who welcomed him—all of him—with open arms.
+J.S. Gilbert
+David Villegas, West Studio
+Warden
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Warden Gragas Chromas
+Amethyst
+Citrine
+Pearl
+Peridot
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Space Groove
+View in 3D
+1350
+17.11.2022
+The King of Cool, Gragas is one guy who knows how to party. Bringing the funk with him everywhere he goes, even the denizens of Boogiewonderland acknowledge his prowess for groovin'. If Gragas rolls up to the disco, you know you're in for a wild night.
+J.S. Gilbert
+Rio Sabda, Caravan Studio
+Space Groove
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Space Groove Gragas Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rainbow
+Rose Quartz
+Ruby
+Tanzanite
+High Noon
+View in 3D
+1350
+20.03.2024
+“This one ain't for you, Eve,” says the bartender, laying one huge hand on the haunted man and pulling him away. Gragas has been called the Gentleman Giant. Ol' Caskbreaker. No angel nor devil, but something else. “Won't be easy, friend. Hell, you may not even stay in one piece. But listen close, and you just might make it back to the living.”
+J.S. Gilbert
+Nathaniel Himawan, West Studio
+High Noon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+High Noon Gragas Chromas
+Citrine
+Emerald
+Noonday
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Music Fan
+View in 3D
+1350
+09.10.2024
+Commemorating LoL Player Days 2024.
+J.S. Gilbert
+Pandart Studio
+Superfans
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Music Fan Gragas Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.19
+Drunken Rage
+Bug Fix:
+Fixed an issue that caused the W SFX to be audible in Fog of War.
+V14.13
+Happy Hour
+Heal reduced to
+5.
+5
+%
+maximum
+health
+from
+6.
+5
+%
+.
+V14.9
+Stats
+Selection radius reduced to 140 units from 155.
+V14.6
+Stats
+Base health reduced to 640 from 670.
+Barrel Roll
+Mana cost increased to 80 at all ranks from 80 / 75 / 70 / 65 / 60.
+Vandal Gragas
+Drunken Rage
+Bug Fix:
+No longer overrides and cancels other abilities' animations.
+Santa Gragas
+Drunken Rage
+Bug Fix:
+Restored the overlay.
+V14.2
+Stats
+Health growth increased to 115 from 109.
+Armor growth increased to 5 from 4.
+8
+.
+Drunken Rage
+New Effect:
+Empowered attack is now consumed against structures for 50% damage.
+New Effect:
+Empowered attack's area of effect can now target structures.
+Explosive Cask
+Cooldown reduced to 100 / 85 / 70 from 120 / 100 / 80.
+V13.24
+Happy Hour
+Cooldown reduced to
+12 / 10 / 8 / 6 (based on level)
+seconds from 12 at all levels.
+V13.22
+Body Slam
+Cooldown refund changed to 40% of total cooldown from 3 seconds.
+Explosive Cask
+Travel time reduced to 0.
+5
+seconds from 0.
+55
+.
+V13.12
+Happy Hour
+Cooldown increased to 12 seconds from 8.
+Barrel Roll
+Mana cost reduced to 80 / 75 / 70 / 65 / 60 from 80 at all ranks.
+V13.3
+Explosive Cask
+Bug Fix:
+Effect is now fully nullified if the missile collides with projectile-interception effects, rather than triggering at the location of impact.
+V12.20
+Explosive Cask
+Bug Fix:
+Airborne debuff no longer lasts shorter than intended.
+V12.17
+- September 12th Hotfix
+Body Slam
+Bug Fix:
+No longer makes targets airborne longer than intended.
+Explosive Cask
+Bug Fix:
+No longer makes targets airborne longer than intended.
+V12.11
+Barrel Roll
+AP ratio increased to
+80% AP
+from
+70% AP
+.
+Cooldown reduced to 10 / 9 / 8 / 7 / 6 seconds from 11 / 10 / 9 / 8 / 7.
+Body Slam
+Cooldown reduced to 14 / 13.
+5
+/ 13 / 12.
+5
+/ 12 seconds from 16 / 15 / 14 / 13 / 12.
+V12.10
+Stats
+Base health increased to 670 from 600.
+Health growth increased to 109 from 95.
+Armor growth increased to 4.
+8
+from 3.
+6
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Happy Hour
+Heal reduced to
+6.
+5
+%
+maximum
+health
+from
+8%
+.
+V11.19
+Drunken Rage
+Damage AP ratio increased to
+70% AP
+from
+60% AP
+.
+V11.12
+Drunken Rage
+Bug Fix:
+Now properly triggers
+Manaflow Band
+and
+Tear of the Goddess
+.
+V11.11
+Drunken Rage
+Undocumented/Bug Fix:
+Now properly triggers and grants charges for
+Manaflow Band's
+,
+Muramana
+,
+Ravenous Hydra
+and
+Tear of the Goddess
+.
+V11.9
+Body Slam
+Base damage reduced to 80 / 125 / 170 / 215 / 260 from 80 / 130 / 180 / 230 / 280.
+V11.5
+Barrel Roll
+Mana cost increased to 80 at all ranks from 60 / 65 / 70 / 75 / 80.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.25
+Happy Hour
+Heal increased to
+8%
+maximum
+health
+from
+6%
+.
+Drunken Rage
+Cooldown reduced to 5 seconds from 6.
+V10.24
+- November 24th Hotfix
+Barrel Roll
+Bug Fix:
+No longer deals max damage when uncharged.
+V10.17
+Stats
+Base armor increased to 38 from 35.
+V10.15
+Drunken Rage
+Damage AP ratio increased to
+60% AP
+from
+50% AP
+.
+Explosive Cask
+AP ratio increased to
+80% AP
+from
+70% AP
+.
+V10.11
+Body Slam
+Bug Fix:
+Is no longer able to stun enemies that are reasonably apart from each other by casting it through a wall on one target and then
+Flashing
+onto the other.
+V10.6
+General
+Recommended items updated.
+V10.5
+- March 4th Hotfix
+Barrel Roll
+Bug Fix:
+Cooldown now properly starts when barrel is thrown rather than on explosion.
+V9.19
+Drunken Rage
+Cooldown increased to 6 seconds from 5.
+Target's health ratio reduced to
+7% of the target's
+maximum
+health
+from
+8%
+.
+V9.15
+Body Slam
+Bug Fix:
+Body Slam
+and basic attack combo now grants the proper number of
+Electrocute
+and
+Conqueror
+stacks.
+V9.11
+Stats
+Base health increased to 600 from 583.
+52
+.
+Health growth increased to 95 from 89.
+Base attack damage increased to 64 from 61.
+38
+.
+V9.4
+General
+Base run animation updated.
+V9.1
+Barrel Roll
+New Effect:
+Ability icon border now shows the remaining time to recast the ability.
+V8.24
+General
+Updated sound and visual effects.
+New basic attack hit VFX.
+Barrel Roll
+Range indicator and grog VFX more clearly indicate area of effect.
+Drunken Rage
+He now glows to indicate the damage reduction effect.
+Bubble VFX reduced.
+Body Slam
+Added new dash VFX to indicate area of effect.
+Hit VFX are more impactful.
+Explosive Cask
+Grog and barrel trail VFX improved to indicate area of effect and feel more impactful.
+VFX and SFX changed to be more distinct from
+Barrel Roll
+.
+Oktoberfest Gragas
+Body Slam
+Pretzel dash VFX restored.
+V8.21
+General
+Basic attacks' audio now changes based on whether he hits stone, wood, metal, or people.
+Barrel Roll
+New audio and when maximum charge state is reached.
+Drunken Rage
+Activation audio is clearer.
+Body Slam
+Collision audio updated.
+Explosive Cask
+On-cast audio clarity improved.
+V8.13
+Drunken Rage
+Cooldown changed to 5 seconds at all ranks from 8 / 7 / 6 / 5 / 4.
+New Effect:
+Now gains 50
+bonus
+range for his next attack.
+V8.7
+Barrel Roll
+AP ratio increased to
+70% AP
+from
+60% AP
+.
+Drunken Rage
+AP ratio increased to
+50% AP
+from
+30% AP
+.
+New Effect:
+Damage reduction now scales with
+4% per 100 AP
+.
+Oktoberfest Gragas
+Bug Fix:
+Seam lines have been minimized.
+V8.4
+Drunken Rage
+Bug Fix:
+Activating it while attacking an inhibitor will no longer cause him to path towards the blue side fountain.
+V7.23
+Stats
+New:
+Now has +8%
+bonus
+attack speed at level 1.
+V7.22
+Stats
+Base armor increased to 35.
+05
+from 26.
+05
+.
+V7.18
+Stats
+Base armor reduced to 26.
+05
+from 29.
+05
+.
+Body Slam
+Collision detection radius reduced to 180 from 210.
+Hitbox offset radius reduced to 40 from 60.
+Indicator changed to more accurately reflect hitbox.
+V7.15
+Stats
+Base attack speed reduced to 0.
+625
+from 0.
+651
+.
+Explosive Cask
+Cooldown increased to 120 / 100 / 80 seconds from 100 / 90 / 80.
+V7.11
+Oktoberfest Gragas
+Bug Fix:
+Audio now properly plays on Howling Abyss.
+V7.10
+Body Slam
+Bug Fix:
+No longer rarely passes through targets standing next to terrain.
+V7.8
+Body Slam
+Bug Fix:
+Fixed a bug where it would sometimes pass through targets close to walls.
+V7.4
+General
+Adjusted splash artwork for
+Fnatic Gragas
+.
+V7.2
+Stats
+Base armor increased to 29.
+05
+from 26.
+048
+.
+Happy Hour
+Heal increased to
+6%
+maximum
+health
+from
+4%
+.
+V6.17
+Body Slam
+Cooldown increased to 16 / 15 / 14 / 13 / 12 seconds from 12 at all ranks.
+Bug Fix:
+Fixed a bug where
+Gragas
+sometimes dashed through targets
+Body Slam
+should have collided with.
+Explosive Cask
+Travel time is now fixed at 0.
+55
+seconds, instead of having a fixed projectile speed and variable travel time based on distance (used to be a travel time between 0 and 0.
+58
+seconds).
+V6.14
+General
+Bug Fix:
+Fixed a texture issue on the top of
+Fnatic Gragas's
+barrel.
+V6.7
+General
+Splash artwork for
+Hillbilly Gragas
+updated to the Chinese art.
+V6.3
+General
+New ability icons.
+Barrel Roll
+Slow
+duration increased to 2 seconds from 1.
+3
+.
+Drunken Rage
+Channel time reduced to 0.
+75
+seconds from 1.
+New Effect:
+Bonus damage is now dealt to all enemies within
+250
+-range of the target.
+Percentage health damage is calculated per-target.
+V5.17
+General
+Updated recommended items.
+Drunken Rage
+Percent health damage reduced to
+8% of target's maximum health
+at all ranks from
+8 / 9 / 10 / 11 / 12%
+.
+V5.12
+Stats
+Base health regeneration reduced to 5.
+5
+from 8.
+678
+.
+Health regeneration growth reduced to 0.
+5
+from 0.
+85
+.
+Barrel Roll
+Slow duration reduced to 1.
+3
+seconds from 2.
+New Effect:
+Slow duration now increased to 1.
+95
+seconds over the ferment duration.
+V5.10
+Body Slam
+Moving collision radius decreased to 180 from 200.
+End collision radius decreased to 210 from 250.
+V5.5
+General
+Mana increased to 400 from 300.
+Drunken Rage
+Damage cap vs monsters increased to 300 from 250.
+V5.3
+Barrel Roll
+Base slow increased to 40 / 45 / 50 / 55 / 60% from 30 / 35 / 40 / 45 / 50%.
+Maximum slow increased to 60 / 67.
+5
+/ 75 / 82.
+5
+/ 90% from 45 / 52.
+5
+/ 60 / 67.
+5
+/ 75%.
+V4.20
+General
+Texture update to Classic, Esquire, Hillbilly, Santa and Scuba Gragas.
+V4.19
+General
+New splash artwork for
+Original Gragas
+.
+V4.14
+General
+Updated recommended items.
+Body Slam
+Dash range changed to fixed from variable (he will now always attempt to travel the full distance).
+V4.13
+Barrel Roll
+Damage dealt to minions reduced to 70% from 100%.
+Drunken Rage
+Mana cost increased to 30 at all ranks from 0.
+Cooldown reduced to 8 / 7 / 6 / 5 / 4 seconds from 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6.
+Damage reduction duration reduced to 2.5 seconds from 3.
+Fixed a bug where Drunken Rage could be used twice in a row if Gragas was interrupted as soon as he started drinking.
+Fixed a bug where Drunken Rage would sometimes not play the proper keg smash animation on attack.
+Body Slam
+Fixed a bug where Body Slam would occasionally fail to work when Gragas leveled it first or second.
+V4.10
+Drunken Rage
+Gragas no longer loses the damage reduction buff if he is interrupted during the channel.
+Tooltip updated to properly show 250 max damage against monsters.
+V4.6
+Drunken Rage
+Gragas' movement speed is no longer slowed while channeling.
+Body Slam
+Cooldown reduced to 12 seconds at all ranks from 16 / 15 / 14 / 13 / 12.
+V4.5
+Stats
+Base armor increased to 20 from 16.
+Base movement speed reduced to 330 from 340.
+Base attack damage reduced to 55.5 from 55.78.
+Attack damage per level increased to 3.5 from 3.375.
+Magic resist per level increased to 1.25 from 0.
+Happy Hour
+Now restores 4% of his maximum health instantly, instead of 2% over 4 seconds.
+Now has an internal cooldown of 8 seconds.
+Barrel Roll
+Base damage reduced to 80 / 120 / 160 / 200 / 240
+(+60% AP)
+from 85 / 135 / 185 / 235 / 285
+(+90% AP)
+.
+Duration for the cask to explode automatically reduced to 4 seconds from 5.
+Cask will now highlight its maximum range while idle on the ground.
+Attack speed slow removed.
+Now slows movement speed by 30 / 35 / 40 / 45 / 50%.
+The damage will now ramp up to 120 / 180 / 240 / 300 / 360
+(+90% AP)
+and the slow to 45 / 52.
+5
+/ 60 / 67.
+5
+/ 75% over the first 2 seconds, as the alcohol "ferments".
+The barrel will change color to indicate that it is fully charged.
+Mana cost reduced to 60 / 65 / 70 / 75 / 80 from 80 / 90 / 100 / 110 / 120.
+Cooldown unchanged.
+Cast range reduced to 850 from 950.
+Drunken Rage
+Revised Active:
+Gragas takes a long swig from his barrel, disabling his ability to cast or attack for 1 second. Upon finishing his drink, Gragas' next attack within ~5 seconds will deal 20 / 50 / 80 / 110 / 140
+(+30% AP)
+(+8 / 9 / 10 / 11 / 12% target's max health)
+bonus magic damage. Gragas gains 10 / 12 / 14 / 16 / 18% damage reduction for 3 seconds starting from the moment he starts drinking.
+Gragas can now move during the channel.
+No longer restores mana nor grants attack damage.
+Damage reduction duration reduced to 3 seconds from 20.
+Damage reduction is now applied instantly rather than after completing the channel.
+Channeling for the full duration now empowers his next attack.
+Cooldown reduced to 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6 seconds from 25 at all ranks.
+Body Slam
+Base damage increased to 80 / 130 / 180 / 230 / 280 from 80 / 120 / 160 / 200 / 240.
+AP ratio increased to
+60% AP
+from
+50% AP
+.
+Removed:
+30 / 40 / 50 / 60 / 70% AD
+.
+No longer slows movement speed.
+Now briefly knocks back and stuns all enemies hit for 1 seconds.
+On-hit cooldown reduction reduced to static 3 seconds from half.
+Mana cost reduced to 50 from 75.
+Cooldown increased to 16 / 15 / 14 / 13 / 12 seconds from 12 at all ranks.
+Explosive Cask
+Base damage reduced to 200 / 300 / 400 from 200 / 325 / 450.
+AP ratio reduced to
+70% AP
+from
+90% AP
+.
+V4.3
+Body Slam
+AD ratio changed to
+30 / 40 / 50 / 60 / 70% AD
+from
+66% AD
+at all ranks.
+Explosive Cask
+AP ratio reduced to
+90% AP
+from
+100% AP
+.
+V4.2
+Undocumented
+Explosive Cask
+Mana cost reduced to 100 from 100 / 125 / 150.
+V3.14
+- November 22nd Hotfix
+Barrel Roll
+Bugfix:
+Fixed a bug where
+Gragas’
+Barrel Roll
+became unavailable if
+Gragas
+died immediately after throwing his barrel.
+V3.14
+Barrel Roll
+Now has a small buffer before the barrel reaches its destination (not when Gragas casts it) where Barrel Roll can be activated again to explode on arrival.
+Cast range reduced to 950 from 1100.
+Body Slam
+Now deals full damage to all targets hit rather than divided amongst them.
+Cooldown increased to 12 seconds from 7.
+Cooldown reduced by half if Gragas collides with a unit.
+V1.0.0.152
+Stats
+Movement speed increased to 340 from 315.
+V1.0.0.146
+Body Slam
+Charge speed reduced to 900 from 1050.
+Mana cost increased to 75 from 50.
+Explosive Cask
+Cooldown increased to 100 / 90 / 80 seconds from 90 / 75 / 60.
+V1.0.0.143
+Body Slam
+No longer stops when encountering created terrain (e.g.
+Anivia's
+Crystallize
+).
+V1.0.0.142
+Stats
+Base health increased to 523 from 493.
+Armor per level increased to 3.6 from 2.7.
+Body Slam
+Charge speed increased to 1050 at all ranks from 650 / 750 / 850 / 950 / 1050.
+Mana cost reduced to 50 at all ranks from 50 / 55 / 60 / 65 / 70.
+V1.0.0.138
+General
+Updated recommended items.
+V1.0.0.133
+Barrel Roll
+Fixed a bug where it immediately detonated when Gragas died.
+V1.0.0.125
+Gragas' tooltips now properly display numbers in their passives as it updates.
+V1.0.0.118
+Body Slam
+Fixed a bug that was causing the line missile targeting display to be offset.
+V1.0.0.113
+Barrel Roll
+Base damage reduced to 85 / 135 / 185 / 235 / 285 from 100 / 150 / 200 / 250 / 300.
+Drunken Rage
+Mana restored while channeling reduced to 30 / 45 / 60 / 75 / 90 from 40 / 55 / 70 / 85 / 100.
+V1.0.0.110
+Barrel Roll
+Fixed a bug where it was not properly drawing aggro from towers and monsters.
+V1.0.0.107
+Drunken Rage
+Damage reduction reduced to 10 / 12 / 14 / 16 / 18% from 10 / 14 / 18 / 22 / 26%.
+Mana restoration changed to 40 / 55 / 70 / 85 / 100 from 50 / 60 / 70 / 80 / 90.
+Explosive Cask
+Cooldown increased to 90 / 75 / 60 seconds from 60.
+V1.0.0.103
+Barrel Roll
+Cooldown reduced to 11 / 10 / 9 / 8 / 7 seconds from 12 / 11 / 10 / 9 / 8.
+Now slows attack speed by 20 / 25 / 30 / 35 / 40%.
+Drunken Rage
+Cooldown reduced to 25 seconds from 30.
+Body Slam
+Cooldown increased to 7 seconds from 6.
+Explosive Cask
+No longer slows attack speeds.
+V1.0.0.101
+Explosive Cask
+Now interacts properly with spell shields like
+Banshee's Veil
+.
+V1.0.0.100
+Barrel Roll
+Fixed a display error with the self buff's tooltip.
+Body Slam
+Can no longer be cast while rooted.
+V1.0.0.96
+Body Slam
+Fixed a bug where it slowed targets that were immune to slows.
+Fixed a bug where it would not display a hit particle or play a sound if it hit any target that blocked the slow.
+V1.0.0.94
+Barrel Roll
+Tooltip updated to give the correct ability power ratio when the barrel has reached its location.
+V1.0.0.87
+Drunken Rage
+Fixed a bug where the tooltip said it lasted for 25 seconds, when it actually lasts 20 seconds.
+V1.0.0.86
+Body Slam
+Now has an ability power ratio of 0.5.
+Body Slam
+Fixed a bug where it would collide with
+Poison Trail
+.
+V1.0.0.82
+Body Slam
+Can no longer be usable while rooted.
+Explosive Cask
+Fixed ability power ratio to match the tooltip.
+V1.0.0.81
+Barrel Roll
+Fixed a bug where it would detonate
+Teemo
+'s Mushrooms.
+V1.0.0.75
+Stats
+Base attack speed and attack speed per level increased by 25%.
+Barrel Roll
+Missile speed increased by 25%.
+Cooldown is now decreased by the amount of time the barrel is stopped for.
+Cooldown increased to 12 / 11 / 10 / 9 / 8 seconds from 11 / 10 / 9 / 8 / 7 as a result of the above change.
+Body Slam
+Speed increased to 650 / 750 / 850 / 950 / 1050 from 600 / 650 / 700 / 750 / 800.
+Range increased by 50.
+It is now location targetable.
+Cleaned up the collision detection.
+Explosive Cask
+Missile speed increased by 25%.
+Range increased by 50.
+Cast radius slightly increased.
+Fixed a bug where casting it out of range could sometimes make it cast to a lesser distance.
+V1.0.0.74
+Drunken Rage
+Attack damage bonus increased to 30 / 40 / 50 / 60 / 70 per level from 20 / 30 / 40 / 50 / 60.
+Buff duration reduced to 20 seconds from 25.
+Cooldown reduced to 30 seconds from 45.
+Channel duration lowered to 1 second from 1.5.
+Body Slam
+Fixed a bug where Gragas would sometimes ignore collision if he passed through a dead minion.
+V1.0.0.72
+Added
+Happy Hour
+(Innate)
+Gragas takes a drink from his cask every time he uses an ability, restoring health over time.
+Barrel Roll
+(Q)
+Gragas rolls his cask to a location, which can be activated again to explode after arriving or will explode on its own after 5 seconds, dealing damage to enemy units in the area.
+Drunken Rage
+(W)
+Gragas guzzles brew from his cask, restoring Mana over a short period of time. After he finishes drinking, he becomes drunkenly enraged, increasing physical damage dealt and decreasing all damage taken.
+Body Slam
+(E)
+Gragas charges forward and collides with the first enemy unit he comes across, dealing damage to all enemies near the collision.
+Explosive Cask
+(Ultimate)
+Gragas throws his cask to a location which explodes on impact, dealing damage to enemy units in the area and knocking them back.
+}}
+Trivia
+[
+edit
+|
+edit source
+]
+Gragas is
+voiced
+by
+J.S. Gilbert
+.
+Battlecast Prime Cho'Gath
+, pre-
+rework
+Dr. Mundo
+, pre-
+rework
+Sion
+and pre-
+rework
+Udyr
+are also voiced by the same voice actor.
+Gragas used to be the only
+Mage
+/
+Fighter
+champion as well as the only melee mage.
+He is now a
+Fighter
+/
+Mage
+so until recently there have been no melee mages, with
+Sylas
+now taking up that role. (even though most champions with the Mage secondary role are melee).
+His first title was 'the Cask Master' but was changed to avoid confusion with
+the Card Master
+.
+What appears to be Gragas' cask can be seen in the game's Mac Version trailer.
+Gragas is the third champion to have 9 skins, behind
+Ryze
+and
+Annie
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Vanguard
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+Vanguards
+are offensive tanks. Vanguards lead the charge for their team and specialize at bringing the action. Their explosive team fight initiation seeks to catch enemies out of position while allowing allies to follow-up to devastating effect.
+Examples
+Amumu
+Leona
+Sejuani
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Basic attack
+The
+basic attack
+(or
+auto-attack
+) is the most basic means of a unit to deal damage to another unit, usually dealing
+100% AD
+. It has a brief cooldown based on the caster's current
+attack speed
+.
+All
+basic attacks
+are normally unit-targeted with their range limited by the caster's
+attack range
+, and have a brief attack
+windup
+. Damage is then dealt depending on the caster's range type:
+Melee
+and some projectile-less ranged attacks deal damage immediately.
+Ranged
+attacks usually send a projectile that follows the target and deals damage upon striking them. Projectiles can be intercepted by certain
+blocking
+effects.
+The damage event will trigger
+on-hit effects
+from buffs the caster may hold. If damage cannot be dealt, on-hit effects will not be triggered.
+On-attack
+effects will always trigger when the attack's
+windup
+completes.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Barrel Roll
+COOLDOWN:
+10 / 9 / 8 / 7 / 6
+Active:
+Gragas
+rolls a cask to the target location that lingers for a short time before exploding.
+Barrel Roll
+can be recast within the duration once it fully travels.
+Recast:
+Gragas
+detonates the cast, dealing
+magic damage
+and
+slowing
+nearby enemies. The effects are increased based on how long the cask lingered.
+League of Legends content
+Explosive Cask
+COOLDOWN:
+100 / 85 / 70
+Active:
+Gragas
+hurls a cask to the target location that explodes upon impact, dealing
+magic damage
+to nearby enemies and
+knocking them back
+.
+League of Legends content
+Displacement immune
+A unit that is
+displacement immune
+is
+immune
+to all
+Airborne
+effects in addition to the following effects:
+Crowd control
+Knockdown
+Suspension
+Kinematics
+Sleep
+Stasis
+Champion abilities
+Ambessa's
+Public Execution
+Mordekaiser's
+Realm of Death
+Skarner's
+Ixtal's Impact
+and
+Impale
+Sett's
+The Show Stopper
+Tahm Kench's
+Devour
+League of Legends content
+Ultra Rapid Fire (U.R.F.)
+Ultra Rapid Fire
+is a
+Featured Game Mode
+that takes place on
+Summoner's Rift
+with the same objective as
+Classic 5v5
+, except all
+champions
+benefit from the
+Awesome Buff of Awesomely Awesome Buffing
+that grants excessive  ability haste and removes ability costs. The gameplay is
+explosive
+. The game mode can be played as
+All Random
+or
+Blind pick
+depending on the year.
+League of Legends content
+Drunken Rage
+COOLDOWN:
+5
+Active:
+Gragas
+channels
+, then gains damage reduction.
+His next
+basic attack
+will deal
+bonus
+magic damage
+to the target and nearby enemies based on each
+target's
+maximum
+health
+.
+League of Legends content
+Happy Hour
+STATIC CD:
+12 / 10 / 8 / 6 (based on level)
+Passive:
+Every few seconds,
+Gragas
+will
+heal
+a portion of
+his
+maximum
+health
+upon casting an ability.
+References
+[
+edit
+|
+edit source
+]
+↑
+Gragas's profile page
+at
+LeagueOfLegends.com

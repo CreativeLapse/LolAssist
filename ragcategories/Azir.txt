@@ -1,0 +1,2828 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Azir
+the Emperor of the Sands
+Release date
+2014-09-16
+Last changed
+V14.23
+Class(es)
+Specialist
+Legacy
+Mage
+Marksman
+Position(s)
+Middle
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Azir
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Azir
+Base statistics
+Edit
+Health
+550
++119
+Mana
+320
++40
+Health regen. (per 5s)
+7
++0.75
+Mana regen. (per 5s)
+8
++0.8
+Armor
+25
++5
+Attack damage
+56
++3.5
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+525
+Attack speed
+Base AS
+0.625
+Attack windup
+15.625%
+AS ratio
+0.694
+Bonus AS
++6
+%
+Missile speed
+Non-projectile
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+700
+Special statistics
+Damage Dealt
++0%
+Damage Received
+-5%
+Ability Haste
++20
+Total Attack Speed
++2.5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++8%
+Damage Received
+-10%
+Move Speed
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Shurima's Legacy
+STATIC COOLDOWN
+:
+90
+TARGET RANGE:
+700
+TETHER RADIUS:
+2000
+Innate:
+Azir
+periodically can summon the
+Disc of the Sun
+from the ruins of allied or enemy
+turrets
+.
+Disc of the Sun
+functions as a turret that decays over time, and weakens when
+Azir
+leaves it.
+Innate:
+Whenever a
+turret
+outside the enemy team's base is destroyed, a marker is placed above its ruins which can be targeted by
+Azir
+.
+Innate - Disc of the Sun:
+Azir
+can select a marker to construct the
+Sun Disc
+above the ruins after a 0.
+5
+-second
+cast time
+. The
+Sun Disc
+will activate after being assembled over 5 seconds.
+The
+Sun Disc
+functions the same as a standard
+inner turret
+but deals
+magic damage
+, gains
+40% AP
+bonus
+attack damage
+, and grants its kill credit to
+Azir
+. The
+Sun Disc's
+health
+decays over 45 seconds and loses
+100 armor
+and
+100 magic resistance
+while
+Azir
+is not alive or is too far away.
+Azir
+cannot construct a
+Sun Disc
+with the marker while he is unable to cast abilities.
+See
+Pets
+for more details about the
+Sun Disc
+.
+"Return!"
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Counters
+Spell shield
+Not Blocked
+Projectile
+Not Blocked
+No additional notes.
+Map-Specific Differences
+Ascension
+differences
+Azir
+can summon a
+Sun Disc
+in the center of the map provided the
+Ancient Ascended
+is dead. The
+Sun Disc
+will be destroyed if the
+Ancient Ascended
+respawns while active.
+Video
+Edit
+Conquering Sands
+COST:
+70 / 80 / 90 / 100 / 110 mana
+COOLDOWN:
+14 / 12 / 10 / 8 / 6
+CAST TIME:
+0.
+25
+TARGET RANGE:
+740
+EFFECT RADIUS:
+150
+Active:
+Azir
+sends all
+Sand Soldiers
+to dash towards a location. They deal
+magic damage
+and
+slow
+enemies they pass through.
+Active:
+Azir
+orders all
+Sand Soldiers
+to dash toward the target location, dealing
+magic damage
+to all enemies they pass through as well as those in front of them upon arrival, and
+slowing
+them by 25% for 1 second.
+Magic Damage:
+60 / 80 / 100 / 120 / 140
+(+ 35% AP)
+Enemies hit by subsequent soldiers take no additional damage and are instead
+slowed
+by an additional 25% per soldier.
+Conquering Sands will cast at max range if cast beyond that.
+"Conquer!"
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+See Notes
+Sand Soldiers
+dash about 50 units further away from Azir than the target location, making them stab targets slightly further away.
+Sand Soldiers
+will stop their movement upon colliding with
+Wind Wall
+but not with
+Unbreakable
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 12 / 10.
+5
+/ 9 / 7.
+5
+/ 6 seconds.
+Video
+Edit
+Arise!
+COST:
+40 / 35 / 30 / 25 / 20 mana + 1 Sand Soldier
+COOLDOWN:
+1.
+5
+CAST TIME:
+0.
+25
+RECHARGE:
+10 / 9 / 8 / 7 / 6
+TARGET RANGE:
+525
+TETHER RADIUS:
+660
+Active:
+Azir
+summons a
+Sand Soldier
+to attack nearby targets for him, replacing his
+basic attacks
+against enemies within their range. Their attacks deal
+magic damage
+to enemies in a line.
+Sand Soldiers
+expire faster near
+turrets
+and instantly when
+Azir
+leaves them.
+Active:
+Azir
+summons a
+Sand Soldier
+at the target location that is
+untargetable
+, lasts 10 seconds, and grants
+sight
+of its surroundings. The
+Sand Soldier
+expires twice as fast while within range of an enemy
+turret
+, and does so instantly if
+Azir
+is too far away.
+Azir
+periodically
+stocks
+a
+Sand Soldier
+, up to a maximum of 2.
+When
+Azir
+declares a basic attack against an enemy in a soldier's
+attack range
+, the
+Sand Soldier
+attacks in his stead, thrusting their spear in the target's direction to deal
+magic damage
+to enemies struck in a line and applying
+on-hit
+and
+on-attack
+effects against the primary target at 50% effectiveness. Targets hit beyond the closest take
+25 / 50 / 75 / 100% (based on level)
+damage. Subsequent
+Sand Soldiers
+against the same target deal 25% damage.
+Magic Damage:
+0 − 45 (based on level)
+(+ 50 / 65 / 80 / 95 / 110)
+(+ 40 / 45 / 50 / 55 / 60% AP)
+Sand Soldiers
+cannot attack
+structures
+,
+wards
+, nor
+traps
+.
+Arise! will cast at max range if cast beyond that. See
+Pets
+for more details about
+Sand Soldiers
+.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Projectile
+Not Blocked
+Nearsighting
+effects will only allow
+Azir
+to perform attacks from soldiers within his own sight radius.
+Azir
+must rank
+Arise!
+as his first ability, and will do so automatically if he reaches level 2 before ranking an ability.
+Azir
+can only command his soldiers to attack if he is able to declare
+basic attack
+commands himself, meaning
+crowd control
+effects that disable attacking, such as
+disarm
+, do not allow him to order his soldiers to attack in his stead.
+Damage to enemy champions from
+Sand Soldier
+stabs will draw minion aggro even if the enemy champion was not the primary target.
+(note)
+Commanding a soldier to attack will trigger
+on-attack
+effects, but will not apply any of these effects to the target hit.
+Sand Soldiers
+will attack the closest enemy to
+Azir
+when using attack move (or
+A + RMB
+/
+Shift + RMB
+) or
+auto-attack
+.
+An exclamation mark (
+!
+) will appear above the
+Sand Soldier's
+head when within the range of an enemy
+turret
+.
+Map-Specific Differences
+Howling Abyss
+differences
+edit
+Azir
+will start the game with one point already ranked in
+Arise!
+, allowing him to allocate the other two to his other abilities.
+Ultra Rapid Fire
+differences
+edit
+Limited to 3
+Sand Soldiers
+active.
+Charge cooldown set to 4.
+8
+/ 4.
+4
+/ 4 / 3.
+6
+/ 3.
+2
+seconds.
+Arena
+differences
+edit
+On-hit and on-attack effectiveness changed to 100%.
+Base damage changed to 55 / 72 / 89 / 106 / 123.
+AP ratio changed to
+60% AP
+.
+Video
+Edit
+Shifting Sands
+COST:
+60 mana
+COOLDOWN:
+22 / 20.
+5
+/ 19 / 17.
+5
+/ 16
+CAST TIME:
+none
+TARGET RANGE:
+1100
+Active:
+Azir
+shields
+himself and
+dashes
+to the target
+Sand Soldier
+, dealing
+magic damage
+to enemies he passes through. He will stop upon hitting an enemy
+champion
+, gaining a charge of
+Arise!
+.
+Active:
+Azir
+grants himself a
+shield
+for 1.
+5
+seconds and
+dashes
+to the target
+Sand Soldier
+, dealing
+magic damage
+to enemies within his path.
+Shield Strength:
+70 / 110 / 150 / 190 / 230
+(+ 60% AP)
+Magic Damage:
+60 / 100 / 140 / 180 / 220
+(+ 40% AP)
+If
+Azir
+dashes into an enemy
+champion
+, he stops and gains a charge of
+Arise!
+.
+Azir
+can cast of any of his
+abilities
+during the dash.
+Info
+Targeting input
+Unit
+Invalid target override
+Auto-targets
+the nearest
+Sand Soldier
+to cursor.
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Azir
+will track the
+Sand Soldier
+if they change locations, such as by
+Conquering Sands
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Shield AP ratio changed to
+75% AP
+.
+Cooldown changed to 16 / 15 / 14 / 13 / 12 seconds.
+Video
+Edit
+Emperor's Divide
+COST:
+100 mana
+COOLDOWN:
+120 / 105 / 90
+CAST TIME:
+0.
+5
+TARGET RANGE:
+400
+/
+-325
+EFFECT RADIUS:
+125
+SPEED:
+1000
+/
+1400
+Active:
+Azir
+summons a wall of soldiers that charges forward, dealing
+magic damage
+and
+knocking back
+enemies hit. The soldiers will linger for a few seconds, acting as terrain against enemies while allowing allies to pass.
+Active:
+Azir
+calls forth a phalanx of soldiers from
+175
+units behind him, catching enemies from up to
+325
+units behind him and charging forward
+575
+units in the target direction.
+Width:
+6 / 7 / 8 soldiers
+Width (charge):
+620 / 720 / 820
+Width (impassable wall):
+750 / 850 / 950
+Enemies impacted by the charge are dealt
+magic damage
+and
+knocked away
+over 1 second to a line 650 units in front of
+Azir
+.
+Magic Damage:
+200 / 400 / 600
+(+ 75% AP)
+Upon finishing their charge, the soldiers stand as a wall for 5 seconds, acting as impassible terrain against enemies and granting
+sight
+of their surroundings.
+Azir
+and his allies can move through these soldiers.
+"My soldiers march on!"
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+See Notes
+The soldier units are spawned only 175 units behind
+Azir
+, but do not control the
+knock back
+directly. Each comes with a missile that travels the same path and conveys the damage and knockback effect.
+The furthest area (from 325 to 175 units behind
+Azir
+) is covered by a separate set of missiles with the same effects.
+All of the soldiers and their missiles will end the charge prematurely when one encounters
+Wind Wall
+/
+Unbreakable
+/
+Blade Whirl
+or upon colliding with terrain that they cannot charge through.
+The charge starts at 0.
+25
+seconds into the cast time.
+This ability will cast from wherever the caster is at the start of the cast time.
+When the dash of the soldiers comes to a halt, all not-yet-affected enemies on top of the soldiers' landing locations (125 radius) are also knocked back.
+Emperor's Divide
+will not be canceled if
+Azir
+dies during the cast time.
+While the soldiers are charging forward, the wall is not impassable terrain.
+This means enemies that are immune to
+airborne
+effects can pass through the wall while its moving.
+The wall
+will
+count as terrain for the purposes of 'into terrain' effects (e.g.
+Condemn
+,
+Dredge Line
+,
+Heroic Charge
+). This will only affect enemies, allies will pass through the wall in all circumstances, even if knocked into it by an enemy.
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 80 / 60 / 40 seconds.
+Video
+Pets
+[
+edit
+|
+edit source
+]
+Sand Soldiers
+Arise!
+Emperor's Divide
+Statistics
+Magic damage
+0 − 45 (based on level)
+(+ 50 / 65 / 80 / 95 / 110)
+(+ 35 / 40 / 45 / 50 / 55% AP)
+Range
+375 /
+425
+Control type
+Attacks whenever
+Azir
+inputs an attack command on a target near them.
+Target type
+Minion
+(
+untargetable
+)
+On-hit effects
+Sand Soldiers'
+attacks are not mitigated by
+block
+or
+dodge
+, nor while
+Azir
+is
+blinded
+.
+Spell effects
+Sand Soldiers'
+attacks apply
+spell effects
+as
+area damage
+.
+Abilities
+Spear Attack
+Sand Soldiers
+will strike their spear in a line in the target's direction, dealing damage to all enemies within the area. Their attack passes through by 50 units. There is a brief delay between the command and the attack occurring.
+Lifetime
+Sand Soldiers
+expire twice as fast while within range of a nearby enemy
+turret
+, and expires instantly when
+Azir
+is too far away.
+Imperative
+Whenever
+Azir
+declares an attack on a target within 375 units of one of his
+Sand Soldiers
+, he instead commands all
+Sand Soldiers
+in range to attack.
+Sun Disc
+Sun Disc
+Spawn
+Bounty
+Gold
+50
+Exp
+0
+Statistics
+Health
+1750 − 3000 (based on enemy champions in the game)
+(always 3000 in matchmade games)
+Magic damage
+230 − 410 (based on level)
+(+ 40% AP)
+Attack speed
+0.
+833
+Range
+750
+Armor
+30 − 90 (based on level)
+Magic resist
+30 − 90 (based on level)
+CC resist
+Immune to crowd control
+except
+stasis
+Control type
+Turret
+(static)
+Target type
+Structure
+On-hit effects
+The
+Sun Disc's
+attacks cannot be mitigated by
+block
+and
+dodge
+.
+Spell effects
+The
+Sun Disc's
+basic attacks apply
+spell effects
+as
+spell damage
+.
+Abilities
+Dodge Piercing
+The
+Sun Disc's
+attacks cannot be evaded except by effects with
+homing projectile destruction
+.
+Warden's Eye
+The
+Sun Disc
+gains
+true sight
+; it can see
+stealthed
+units within a 1000 radius of it.
+Deserter
+If
+Azir
+is dead or not within approximately 2000 units, the
+Sun Disc's
+armor
+and
+magic resistance
+is reduced by 100.
+General
+The
+Sun Disc
+can be targeted by
+Demolish
+.
+The
+Sun Disc's
+damage applies spell effects.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Azir (Collection)
+.
+Original
+View in 3D
+880
+15.09.2014
+Azir was a mortal emperor of Shurima in a far distant age, a proud man who stood at the cusp of immortality. His hubris saw him betrayed and murdered at the moment of his greatest triumph, but now, millennia later, he has been reborn as an Ascended being of immense power. With his buried city risen from the sand, Azir seeks to restore Shurima to its former glory.
+Travis Willingham
+Bo Lu
+Loot eligible
+Galactic
+View in 3D
+975
+15.09.2014
+Travis Willingham
+Unknown artist
+Galactic
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Gravelord
+View in 3D
+1350
+01.12.2015
+In the service of Death rises Gravelord Azir! He who knows neither victory nor defeat, for even the bloodiest of battles strengthen his undying legions.
+Travis Willingham
+Sixmorevodka Studio
+Death Sworn
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+SKT T1
+View in 3D
+975
+17.08.2016
+Honoring Easyhoon's winning performance as Azir during the 2015 World Championship.
+Travis Willingham
+Victor '3rdColossus' Maury
+World Champions: 2015
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Warring Kingdoms
+View in 3D
+1350
+19.01.2017
+Seeing the Warring Kingdoms clash from his palace in the mountains, the ageless ruler known as Azir left his home with an army of spectral soldiers. He promised that one day he would return and put an end to the conflict for good.
+Travis Willingham
+Pan Chengwei
+Lunar Revel: Warring Kingdoms
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Elderwood
+View in 3D
+1350
+10.12.2020
+An ancient druid-king of the Elderwood, who has called the forest his home since it stood nameless in the shadow of the gods. Though his people are a dying breed, he has raised an ensorcelled army in their likeness, including the shell of a human king whose story rings all too familiar...
+Travis Willingham
+Zuoan Dong, Kudos Productions
+Elderwood
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Elderwood Azir Chromas
+Catseye
+Emberwood
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Worlds 2022
+View in 3D
+1350
+22.09.2022
+Celebrating Worlds 2022 in North America.
+Travis Willingham
+Augusto Quirino, West Studio
+World Championship
+Loot eligible
+Legacy
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Worlds 2022 Azir Chromas
+Obsidian
+One & Only
+Tanzanite
+Turquoise
+Attorney
+View in 3D
+1350
+11.09.2024
+Azir's oral arguments are frequently struck from the record due to his flagrant objecting to every motion, as well as his habit of following every statement by a judge with “the order is given!” Anyone in need of his services can find his number plastered across every bus stop in town.
+Travis Willingham
+Yuyu Wong, Kudos Productions
+Day Job
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Attorney Azir Chromas
+Citrine
+Emerald
+Jasper
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.23
+Arise!
+AP ratio increased to
+40 / 45 / 50 / 55 / 60% AP
+from
+35 / 40 / 45 / 50 / 55% AP
+.
+V14.21
+General
+Recommended runes updated.
+Fleet Footwork
+to
+Conqueror
+.
+Stats
+Base attack damage increased to 56 from 52.
+Base health regeneration increased to 7 from 5.
+V14.18
+Arise!
+Base damage changed to
+0 − 45 (based on level)
+from
+0 − 77 (based on level)
+.
+AP ratio reduced to
+35 / 40 / 45 / 50 / 55% AP
+from
+55% AP
+at all ranks.
+V14.16
+Stats
+Base health regeneration increased to 5 from 3.
+5
+.
+Base armor increased to 25 from 22.
+V14.10
+Arise!
+New Effect:
+Basic attacks are now mitigated by
+dodge
+and
+block
+effects.
+Bug Fix:
+Basic attacks now trigger
+Bramble Vest's
+Thorns.
+V14.9
+Stats
+Selection radius increased to 120 units from 88.
+8889007568359
+.
+V14.8
+Stats
+Base health regeneration reduced to 3.
+5
+from 5.
+Arise!
+Base damage reduced to 50 / 65 / 80 / 95 / 110 from 50 / 67 / 84 / 101 / 118.
+V14.6
+Shifting Sands
+Bug Fix:
+No longer freezes
+Azir's
+position and animations at the point of casting
+Conquering Sands
+when buffering his
+Shifting Sands
+combo.
+V14.5
+Shurima's Legacy
+Bug Fix:
+Tower creation SFX and VFX no longer incorrectly play repeatedly upon spawning the tower.
+V14.3
+Stats
+Base health regeneration reduced to 5 from 7.
+V14.2
+Arise!
+Bug Fix:
+Summoned
+Rift Herald's
+emergence distance post-charge against a turret no longer scales with the ability's internal attack range modifier.
+V13.24
+Arise!
+Base damage increased to 50 / 67 / 84 / 101 / 118 from 50 / 65 / 80 / 95 / 110.
+V13.23
+Arise!
+Base damage reduced to 50 / 65 / 80 / 95 / 110 from 50 / 67 / 84 / 101 / 118.
+Base damage per level reduced to
+0 − 77 (based on level)
+from
+0 − 92 (based on level)
+.
+AP ratio reduced to
+55% AP
+from
+60% AP
+.
+New Effect:
+Soldiers' attacks now apply and trigger
+on-hit
+and
+on-attack
+effects against the primary target at 50% effectiveness.
+V13.19
+Conquering Sands
+Cooldown increased to 14 / 12 / 10 / 8 / 6 seconds from 12 / 10.
+5
+/ 9 / 7.
+5
+/ 6.
+V13.11
+Conquering Sands
+Cooldown reduced to 12 / 10.
+5
+/ 9 / 7.
+5
+/ 6 seconds from 14 / 12 / 10 / 8 / 6.
+Arise!
+AP ratio increased to
+60% AP
+from
+55% AP
+.
+Cast range increased to 525 units from 500.
+V13.10
+Shifting Sands
+Bug Fix:
+Dashing to a
+Soldier
+while using
+Conquering Sands
+to relocate them to maximum distance no longer causes the game to crash.
+V13.7
+General
+UI now recommends to max
+Arise!
+instead of
+Conquering Sands
+.
+Stats
+Base armor increased to 22 from 19.
+Attack speed growth increased to 6% from 5%.
+Shurima's Legacy
+Turret duration increased to 45 seconds from 30.
+Turret cast range increased to 700 units from 500.
+Conquering Sands
+Mana cost increased to 70 / 80 / 90 / 100 / 110 from 65 / 70 / 75 / 80 / 85.
+Effect range reduced to 325 units from 370.
+Arise!
+Mana cost reduced to 40 / 35 / 30 / 25 / 20 from 40 at all ranks.
+Base damage increased to 50 / 67 / 84 / 101 / 118 from 50 / 60 / 70 / 80 / 90.
+Base damage per level reduced to
+0 − 92 (based on level)
+from
+0 − 110 (based on level)
+.
+V13.5
+- Mid-Scope Update
+General
+Bug Fix:
+Now properly plays his voiceover interaction with
+Sivir
+.
+Stats
+Base health reduced to 550 from 622.
+Armor growth increased to 5 from 4.
+2
+.
+Attack damage growth increased to 3.
+5
+from 2.
+8
+.
+Base mana reduced to 320 from 380.
+Mana growth increased to 40 from 36.
+Attack speed ratio increased to 0.
+694
+from 0.
+625
+.
+Attack speed growth increased to 5% from 3%.
+Shurima's Legacy
+Cooldown reduced to 90 seconds from 180.
+Turret duration reduced to 30 seconds from 60.
+Turret damage type changed to magic from physical.
+Turret base attack damage increased to
+230 − 410 (based on level)
+from 150.
+Turret attack damage AP ratio increased to
+40% AP
+from
+15% AP
+.
+Removed:
+Turret attack damage is no longer increased by 4 per minute.
+Removed:
+No longer deals 37.
+5
+% bonus damage against champions.
+New Effect:
+Damage now applies spell effects.
+Turret health increased to
+1750 − 3000 (based on enemy champions in the game)
+(always 3000 in matchmade games) from
+1300 − 2550 (based on enemy champions in the game)
+(always 2550 in matchmade games).
+Turret armor changed to
+30 − 90 (based on level)
+from 60 at all levels.
+Turret magic resistance reduced to
+30 − 90 (based on level)
+from 100 at all levels.
+Removed:
+Turret armor is no longer increased by 1 per minute.
+Removed:
+Turret magic resistance is no longer increased by 1 per minute.
+New Effect:
+Turret magic resistance is now reduced by 100 if
+Azir
+is either dead or away from it.
+Bug Fix:
+Turret no longer loses resistances while
+Azir
+is untargetable.
+Conquering Sands
+Base damage reduced to 60 / 80 / 100 / 120 / 140 from 70 / 90 / 110 / 130 / 150.
+AP ratio increased to
+35% AP
+from
+30% AP
+.
+Mana cost increased to 65 / 70 / 75 / 80 / 85 from 55 at all ranks.
+Arise!
+Removed:
+No longer passively grants
+15 / 25 / 35 / 45 / 55%
+bonus
+attack speed
+, doubled for 5 seconds if he summons a third concurrent soldier.
+Base damage per level reduced to
+0 − 110 (based on level)
+from
+50 − 150 (based on level)
+.
+New Effect:
+Soldiers now have an additional base damage of 50 / 60 / 70 / 80 / 90.
+Bug Fix:
+Range indicator now displays correctly while controlling the soldiers to attack.
+Shifting Sands
+Damage AP ratio reduced to
+40% AP
+from
+55% AP
+.
+V13.4
+Stats
+Base mana reduced to 380 from 480.
+Mana growth increased to 36 from 21.
+Arise!
+Recharge time increased to 10 / 9 / 8 / 7 / 6 seconds from 9 / 8.
+25
+/ 7.
+5
+/ 6.
+75
+/ 6.
+Shifting Sands
+Base damage increased to 60 / 100 / 140 / 180 / 220 from 60 / 90 / 120 / 150 / 180.
+Damage AP ratio increased to
+55% AP
+from
+40% AP
+.
+Emperor's Divide
+Base damage increased to 200 / 400 / 600 from 175 / 325 / 475.
+AP ratio increased to
+75% AP
+from
+60% AP
+.
+V13.3
+Shurima's Legacy
+Bug Fix:
+Turret spawn marker on the turret and its minimap icon are not visible to all other players once more.
+Emperor's Divide
+Bug Fix:
+Soldiers will now properly collide with and knock back enemies even if
+Azir
+dies during the first 0.
+25
+seconds of the ability's cast time.
+V13.1
+Shurima's Legacy
+Bug Fix:
+While the
+Sun Disc
+is summoned over the turret rubble in the Howling Abyss, it can now be properly targeted and no longer sometimes appears to be invisible from the enemy's perspective.
+V12.17
+Arise!
+Recharge timer increased to 9 / 8.
+25
+/ 7.
+5
+/ 6.
+75
+/ 6 seconds from 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6.
+AP ratio reduced to
+55% AP
+from
+60% AP
+.
+Shifting Sands
+Cooldown increased to 22 / 20.
+5
+/ 19 / 17.
+5
+/ 16 seconds from 19 / 18 / 17 / 16 / 15.
+V12.10
+Stats
+Base health increased to 622 from 552.
+Health growth increased to 119 from 105.
+Armor growth increased to 4.
+2
+from 3.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Shifting Sands
+Base shield reduced to 70 / 110 / 150 / 190 / 230 from 80 / 120 / 160 / 200 / 240.
+Shield AP ratio reduced to
+60% AP
+from
+70% AP
+.
+V12.6
+Stats
+Health growth increased to 105 from 92.
+V11.22
+Arise!
+Bug Fix:
+No longer grants a
+Tear of the Goddess
+stack if a soldier does not hit an enemy.
+V11.11
+Conquering Sands
+Mana cost reduced to 55 from 70.
+V11.5
+- March 4th Hotfix
+Emperor's Divide
+Bug Fix:
+Fixed a bug where the ability would fail to hit the champions behind him, even if they are visually in the ability's range
+Back missiles restored.
+V11.5
+Arise!
+Soldier base damage reduced to
+50 − 150 (based on level)
+from
+60 − 160 (based on level)
+.
+Emperor's Divide
+Undocumented:
+No longer spawns the missiles that hit targets in the area between 325 and 175 units behind
+Azir
+.
+(bug)
+Undocumented:
+No longer stops short of its normal range if cast very close to
+Azir's
+own location.
+V11.2
+Conquering Sands
+Cooldown reduced to 14 / 12 / 10 / 8 / 6 seconds from 15 / 13 / 11 / 9 / 7.
+Arise!
+Bug Fix:
+Soldiers now properly stack
+Tear of the Goddess'
+Mana Charge.
+V11.1
+Stats
+Base armor reduced to 19 from 19.
+04
+.
+V10.19
+Arise!
+Bonus attack speed reduced to 15 / 25 / 35 / 45 / 55% from 20 / 30 / 40 / 50 / 60%.
+V10.9
+General
+New voice lines from Ascension added.
+V10.7
+- April 1st Hotfix
+Shurima's Legacy
+Bug Fix:
+Sun Disc
+now properly targets enemies standing within it's range.
+V10.5
+Shifting Sands
+Bug Fix:
+Now reliably detects collision with enemies it passes through.
+New Effect:
+If cast while hovering your cursor over a soldier out of cast range but another soldier is within cast range,
+Azir
+will now walk in range of the hovered soldier to dash towards.
+V10.3
+Stats
+Base mana increased to 480 from 438.
+Emperor's Divide
+Soldier count increased to 6 / 7 / 8 from 5 / 6 / 7.
+V10.1
+Emperor's Divide
+Base damage increased to 175 / 325 / 475 from 150 / 250 / 450.
+Wall duration increased to 5 seconds from 3.
+V9.16
+Conquering Sands
+Cooldown increased to 15 / 13 / 11 / 9 / 7 seconds from 15 / 12.
+5
+/ 10 / 7.
+5
+/ 5.
+V9.14
+- July 24th Hotfix
+Shurima's Legacy
+Bug Fix:
+Turrets now deal the proper amount of damage to targets.
+V9.14
+- July 19th Hotfix
+Shurima's Legacy
+Bug Fix:
+Disc of the Sun
+turrets now properly use its full damage, both base and scaling, against enemies.
+V9.7
+Stats
+Health regeneration growth increased to 0.
+75
+from 0.
+55
+.
+Conquering Sands
+Base damage increased to 70 / 90 / 110 / 130 / 150 from 60 / 80 / 100 / 120 / 140.
+V9.4
+Stats
+Attack speed growth increased to 3% from 1.
+5
+%.
+V8.22
+Arise!
+Bug Fix:
+Soldiers no longer play their respective champion's death audio instead of their own.
+V8.9
+Stats
+Base mana increased to 438 from 350.
+56
+.
+Mana growth reduced to 21 from 42.
+Base mana regeneration increased to 8 from 6.
+Emperor's Divide
+Bug Fix:
+Is no longer missing VO lines.
+Bug Fix:
+VO lines have been added that are now consistent on all skins and base.
+V8.8
+Arise!
+Damage to secondary targets reduced to
+25 / 50 / 75 / 100% (based on level)
+from
+40 / 70 / 100% (based on level)
+.
+V8.5
+Conquering Sands
+Base damage reduced to 60 / 80 / 100 / 120 / 140 from 70 / 95 / 120 / 145 / 170.
+V8.3
+Stats
+Base health regeneration increased to 7 from 6.
+9
+.
+Conquering Sands
+Cooldown increased to 15 / 12.
+5
+/ 10 / 7.
+5
+/ 5 seconds from 11 / 9.
+5
+/ 8 / 6.
+5
+/ 5.
+Arise!
+New Effect:
+Soldier attacks now draw minion aggro to
+Azir
+.
+V7.24b
+Arise!
+Soldier base damage reduced to
+60 − 160 (based on level)
+from
+60 − 180 (based on level)
+.
+V7.23
+Arise!
+Bug Fix:
+Champion-created units with ward-style health (ex.
+Gangplank's
+Powder Keg
+) can now properly be attacked by his soldiers.
+V7.22
+Stats
+Base health increased to 552 from 540.
+Health growth increased to 92 from 80.
+V7.21
+Conquering Sands
+Base damage reduced to 70 / 95 / 120 / 145 / 170 from 70 / 100 / 130 / 160 / 190.
+Arise!
+Soldier damage reduced to
+60 − 180 (based on level)
+from
+60 − 185 (based on level)
+.
+V7.20
+General
+VFX for his attack speed bonus upon summoning a third soldier have been improved for
+Azir's
+base and all skins.
+V7.19
+Stats
+Base health increased to 540 from 524.
+4
+.
+Base movement speed increased to 335 from 325.
+Base health regeneration reduced to 6.
+9
+from 6.
+924
+.
+Conquering Sands
+Cast range reduced to 720 from 875.
+Spear length increased to 370 from 300.
+Cooldown changed to 11 / 9.
+5
+/ 8 / 6.
+5
+/ 5 seconds from 10 / 9 / 8 / 7 / 6.
+Base damage increased to 70 / 100 / 130 / 160 / 190 from 65 / 85 / 105 / 125 / 145.
+AP ratio reduced to
+30% AP
+from
+50% AP
+.
+New Effect:
+Soldiers clump closer together upon arrival.
+Arise!
+Soldier command range reduced to 660 from 800.
+Cast range increased to 500 from 450.
+Removed:
+Soldiers being able to attack wards or trinkets.
+Soldier stab base damage changed to
+60 − 185 (based on level)
+from
+50 − 195 (based on level)
+.
+New Effect:
+Passive attack speed is now doubled to 40 / 60 / 80 / 100 / 120% while
+Azir
+has 3 soldiers active, which falls off after 5 seconds.
+Recharge time reduced to 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6 seconds from 10 / 9 / 8 / 7 / 6.
+New Effect:
+Stabs deal
+40 / 70 / 100% (based on level)
+damage to secondary targets.
+Shifting Sands
+New Effect:
+Shield now scales with
+70% AP
+.
+Shield duration reduced to 1.
+5
+seconds from 4.
+New Effect:
+Shield is now granted instantly instead of only upon colliding with a champion.
+New Effect:
+If
+Azir
+hits an enemy champion, he gains a charge of
+Arise!
+.
+Emperor's Divide
+Removed:
+The wall no longer knocks back any enemy who attempts to pass through once stationary, although still functions as impassable terrain.
+Still knocks back during the charge.
+Wall size increased to 5 / 6 / 7 soldiers from 4 / 5 / 6.
+Cooldown reduced to 120 / 105 / 90 seconds from 140 / 120 / 100.
+V7.18
+Emperor's Divide
+Base damage increased to 150 / 250 / 450 from 150 / 225 / 300.
+V7.15
+Arise!
+Soldier base damage increased to
+50 − 195 (based on level)
+from
+50 − 170 (based on level)
+.
+V7.11
+SKT T1 Azir
+Bug Fix:
+Restored death animation audio.
+V7.9
+May 5th Hotfix
+Arise!
+Bug Fix:
+Fixed a bug that could cause
+Sand Soldier
+attacks to sometimes not deal damage.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.3
+General
+Bug Fix:
+Azir
+now correctly has a shadow during his death animation.
+Shifting Sands
+Bug Fix:
+Fixed a bug where it was missing on-hit particles upon killing an enemy unit.
+V7.2
+General
+Bug Fix:
+When an
+Azir
+kills another
+Azir
+with a different skin, the dying
+Azir
+no longer steals his killer's skin's death animation particles.
+V6.24
+December 14th Hotfix
+Arise!
+Soldier base damage changed to
+50 − 170 (based on level)
+from
+50 − 170 (based on level)
+.
+Formula changed.
+V6.24
+Shurima's Legacy
+Turret AD per minute increased to 4 from 3.
+Gold reward for enemies killing
+Azir's
+turret reduced to
+50
+from
+100
+.
+Arise!
+Soldier recharge time reduced to 10 / 9 / 8 / 7 / 6 seconds from 12 / 11 / 10 / 9 / 8.
+V6.16
+General
+Bug Fix:
+Buff particles (such as
+Banshee's Veil
+shield) now properly rise with
+Gravelord Azir
+during his recall animation.
+V6.14
+Arise!
+Soldier base damage changed to
+50 − 170 (based on level)
+from
+50 − 170 (based on level)
+.
+Formula changed.
+Soldier vision range reduced to 350 from 575.
+V6.11
+Arise!
+Removed:
+Casting on top of turrets to damage them.
+Emperor's Divide
+Wall duration reduced to 3 seconds from 5 / 6 / 7.
+Removed:
+Bonus movement speed to allies or Azir on pass-through.
+V6.6
+General
+Bug Fix:
+Azir would automatically start moving after issuing a Sand Soldier attack command.
+Arise!
+Removed:
+Sand Soldiers applying
+Fervor of Battle
+(removed in
+V6.5
+)
+March 11th Hotfix
+Arise!
+Bug Fix:
+Sand Soldiers beyond the first now properly deal less damage when attacking the same target.
+Bug Fix:
+Sand Soldiers' attacks will no longer fail to deal damage to their original target if Azir directs his soldiers to switch to an out-of-range target during their in-progress attack (targets that move out of range will still avoid damage)
+Bug Fix:
+Azir is no longer briefly locked out of his abilities if a Sand Soldier's target dies mid-attack.
+V6.5
+General
+Bug Fix:
+Fixed a bug that allowed Azir to queue up basic ability combos without sufficient mana for all involved abilities.
+Bug Fix:
+Fixed various cases where Azir could unintentionally cancel or be entirely locked out of his basic attack.
+Bug Fix:
+Azir's abilities can now be queued during basic attacks.
+Bug Fix:
+Sun Discs now appear on the minimap.
+Arise!
+Bug Fix:
+Now properly triggers a 1.
+5
+second internal cooldown when used on turrets.
+V5.24
+Arise!
+Bug Fix:
+Azir would perform his attack command before his soldiers had finished spawning.
+Bug Fix:
+Soldiers that hadn't finished spawning would perform an attack.
+Shifting Sands
+Azir will now move with soldiers to their endpoint even if he catches up to them while traveling.
+V5.23
+General
+Azir's spellcasting smoothed out when rapidly chaining abilities together.
+Arise!
+Attack-moving will now interact with Azir's soldiers.
+V5.22
+Emperor's Divide
+Fixed a bug where Azir and his allies could be pinned to his wall as a result of abilities that collided with terrain.
+Fixed a similar bug where an allied
+Gnar
+couldn't
+wall-stun
+using the phalanx.
+Fixed a bug where an allied
+Sion
+couldn't
+charge
+through the phalanx.
+V5.20
+Emperor's Divide
+Soldier starting position increased to 325 units behind Azir from 175.
+V5.18
+Emperor's Divide
+No longer pushes back/damages
+Zz'Rot Portal
+s
+V5.17
+Stats
+Movement speed reduced to 325 from 335.
+Conquering Sands
+Removed:
+Additional damage per soldier. The slow is still reapplied.
+Arise!
+Removed:
+Sated Devourer
+will no longer cause a phantom attack to occur alongside his soldier attacks.
+New Effect:
+Sated Devourer
+will now cause his soldiers to attack twice.
+Fixed a bug where two soldiers attacking slightly out of sync would each deal full damage, even on a single attack.
+Shifting Sands
+Fixed a bug where Azir would stop dashing upon collision with the soldier even if the soldier was still moving.
+Emperor's Divide
+Fixed a bug where units would sometimes be knocked back too far.
+The wall is now more forgiving to units that appear inside the wall when attempting to blink over it.
+Soldiers not connected to the formation due to terrain causing them to be pushed to the side will now dissolve upon the wall being fully formed.
+V5.16
+General
+Fixed a bug where
+Mordekaiser
+and
+Yorick
+could not move their Azir clones.
+Conquering Sands
+The target of Shifting Sands will now always move to the middle position.
+Sand Soldiers will now always attempt to move the closest possible position within the formation from their current position, regardless of whether another soldier is also attempting to move there.
+Arise!
+Fixed a bug where Sand Soldiers would sometimes spawn when cast on a turret and viceversa.
+Fixed a bug where Arise! could target turrets from a much further range than intended.
+Shifting Sands
+Range reduced to 1100 from global.
+Collision radius reduced to 150 from 200.
+Emperor's Divide
+Fixed a bug where enemy champions sometimes wouldn't be knocked back.
+Fixed a bug where cloned champions ignored the wall.
+V5.14
+Shurima's Legacy
+Removed:
+Attack speed gain from cooldown reduction (
+Will of the Emperor
+)
+Arise!
+New Effect:
+Azir passively gains 20 / 30 / 40 / 50 / 60% bonus attack speed.
+Shifting Sands
+No longer knocks up the first champion hit.
+V5.5
+General
+Attack speed increased to 0.
+625
+from 0.
+6
+.
+Soldier attack range increased to 375 from 325.
+Spear pass-through range decreased to 50 from 100. Total range unchanged.
+V5.4
+Shurima's Legacy
+Fixed a bug where killing Azir's Sun Disc would result in a registered turret death in Spectator mode.
+V5.3
+Stats
+Base attack damage increased to 52 from 49.704.
+Conquering Sands
+Base damage reduced to 65 / 85 / 105 / 125 / 145 from 75 / 105 / 135 / 165 / 195.
+Arise!
+Sand Soldier
+auto-attack range reduced to 325 from 400.
+Damage to turrets reduced:
+Base damage reduced to 60 from 90.
+Scaling per level reduced to 10 from 15.
+AP scaling reduced to
+(+ 40% AP)
+from
+(+ 60% AP)
+.
+V5.2
+Conquering Sands
+Adjusted targeting indicator to properly display the spell's actual range (875 from 800).
+No functional changes have been made.
+When there are 3 soldiers already out, Conquering Sands will always move the nearest soldier to where the player clicks.
+V5.1
+Arise!
+Fixed a bug where a Sand Soldier would appear to attack but fail to do damage.
+V4.21
+Arise!
+Fixed a bug where a soldier's attack was dealing no damage if the target moved out of range. It should now correctly deal damage to all enemies still in range.
+Shifting Sands
+Fixed a bug where casting Shifting Sands outside of cast range would cause Azir to walk in range even if there was a soldier in range. It should now correctly use the soldiers for determining the range, not the cursor.
+Shifting Sands will now detect soldiers in the process of being summoned and will instantly dash to them.
+Cast range increased to Global from 1100. You can now dash to any soldier regardless of how far away it is.
+Emperor's Divide
+Fixed a bug where the speed boost wasn't granting assists.
+V4.20
+Conquering Sands
+Base damage increased to 75 / 105 / 135 / 165 / 195 from 60 / 90 / 120 / 150 / 180.
+Arise!
+AP ratio reduced to
+(+ 60% AP)
+from
+(+ 70% AP)
+.
+Shifting Sands
+Shield increased to 80 / 120 / 160 / 200 / 240 from 60 / 100 / 140 / 180 / 220.
+V4.19
+Shurima's Legacy
+Fixed a bug where the damage from Azir's Sun Disc would not ramp up properly like a tower.
+Emperor's Divide
+Fixed a number of bugs around detecting enemies that are behind Azir at cast time.
+Fixed a number of double bounce bugs.
+Fixed a number of bugs that allowed enemies to dash through the wall if they timed their dash correctly.
+V4.18
+Stats
+Base attack damage increased to 47 from 43.
+Base attack speed increased to 0.
+6
+from 0.
+556
+Shurima's Legacy
+Fixed a bug where two Azir could each summon a Sun Disc from the same interactive clicker.
+Fixed a bug where some champions could use abilities on the interactive clickers.
+Clickable size of the interactive clickers reduced by 20%
+Conquering Sands
+Fixed a bug where Conquering Sands would make Sand Soldier attacks deal no damage.
+Fixed a bug where Sand Soldiers would fail to pass through a wall if the dash range was a little short.
+Arise!
+Fixed a bug where multiple soldiers attacking multiple targets would incorrectly apply reduced damage.
+Fixed a bug where dancing would break the soldier's basic attacks.
+Shifting Sands
+Azir now follows his Sand Soldiers if they are currently moving via
+Conquering Sands
+.
+Fixed a bug where Azir would dash to the wrong soldier in certain situations.
+Fixed a bug where using Shifting Shands right after using
+Arise!
+would not work.
+Emperor's Divide
+Bug fixes so it will no longer:
+Deal damage multiple times
+Multi-bounce
+Pin targets to walls
+Fail to bounce targets to the far side of the wall
+Not break channels
+Break spell shields and still knock enemies back
+V4.16
+Added
+Trivia
+[
+edit
+|
+edit source
+]
+Azir is the first champion to have his first ability point restricted to a single one (
+Arise!
+) since it's required for the other two (
+Conquering Sands
+and
+Shifting Sands
+) to function.
+He is also the second champion to be unable to rank up a basic ability at Level 1, the first being
+Zilean
+.
+Shurima's Legacy
+may be referencing the Egyptian solar disc god
+Aten
+[2]
+(depicted as a sphere emanating rays of light each ending with a hand) and titular god of the short-lived monotheistic religion imposed by Pharaoh
+Akhenaten
+. His son
+Tutankhamun
+later restored the polytheistic religion.
+Azir's dance references
+Remember The Time
+by
+Michael Jackson
+.
+A side-by-side comparison can be seen
+here
+.
+If Azir
+summons
+Sand Soldiers and then dances, they will follow him and dance all in sync.
+His soldiers will keep dance in Azir's stead while if the player types '/dance' while Azir is
+recalling
+.
+If enemies cannot see Azir while he dances, his soldiers will not appear to dance to them.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Specialist
+Specialists
+are champions that do not fit into the "neat little boxes" of the other classes, and represent Riot's ideal of having a champion roster with a lot of distinctiveness and diversity.
+Examples
+Azir
+Teemo
+Heimerdinger
+Singed
+Gangplank
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Ascension
+Ascension
+is a
+featured game mode
+on to the
+Crystal Scar
+.
+The first team to score 200 points wins:
+Killing enemy champions earns 1 point.
+If a killer is Ascended, 2 points are earned.
+Claiming a
+Relic of Shurima
+earns 3 points.
+Killing an Ascended Champion rewards 5 points.
+Killing
+The Ancient Ascendant
+earns 5 points.
+Kill the
+Ancient Ascendant
+to gain the
+Ascension buff
+:
+Has no
+mana
+and
+energy
+costs
+Health
+costs are reduced by 50%
+50 - 900 (base on level)
+bonus health
+12 - 216 bonus
+physical damage
+and
+ability power
+.
++15%
+armor penetration
+&
+magic penetration
++25%
+Cooldown reduction
+(maintaining the 40% cap)
+All incoming
+healing
+effects are reduced by 50%
+Always
+visible
+even while
+stealthed
+or in
+brush
+.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Wind Wall
+COOLDOWN:
+25 / 23 / 21 / 19 / 17
+Active:
+Yasuo
+raises a wind wall that drifts in the target direction for a few seconds, blocking all enemy
+projectiles
+that hit it.
+League of Legends content
+Unbreakable
+COOLDOWN:
+16 / 14 / 12 / 10 / 8
+Active:
+Braum
+sets his shield in a direction for a few seconds, intercepting any enemy
+projectiles
+to hit him and be destroyed.
+He gains damage reduction and negates the first instance of damage dealt by a champion completely from this direction.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Basic attack
+The
+basic attack
+(or
+auto-attack
+) is the most basic means of a unit to deal damage to another unit, usually dealing
+100% AD
+. It has a brief cooldown based on the caster's current
+attack speed
+.
+All
+basic attacks
+are normally unit-targeted with their range limited by the caster's
+attack range
+, and have a brief attack
+windup
+. Damage is then dealt depending on the caster's range type:
+Melee
+and some projectile-less ranged attacks deal damage immediately.
+Ranged
+attacks usually send a projectile that follows the target and deals damage upon striking them. Projectiles can be intercepted by certain
+blocking
+effects.
+The damage event will trigger
+on-hit effects
+from buffs the caster may hold. If damage cannot be dealt, on-hit effects will not be triggered.
+On-attack
+effects will always trigger when the attack's
+windup
+completes.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Ward
+Wards
+are deployable units that that grant
+sight
+over the surrounding area. They can only be destroyed by
+basic attacks
+, granting
+gold
+and
+experience
+.
+There are three kinds of deployable
+wards
+available for purchase:
+Control Ward
+,
+Warding Totem
+, and
+Farsight Alteration
+. Other types of wards, such as
+Zombie Ward
+, are usable through various means.
+League of Legends content
+Stealthed trap
+Stealthed traps
+are
+units
+that are hidden from enemy
+vision
+for a set duration until triggered by an enemy. They can only be revealed by
+True Sight
+,
+Control Wards
+,
+Oracle Lens
+, and
+A Harmless Scarecrow
+.
+League of Legends content
+Nearsight
+A unit that is
+nearsighted
+has their
+sight
+radius reduced and
+cannot
+see beyond their sight radius.
+While nearsighted, units cannot reveal
+stealthed
+wards
+or
+traps
+. Nearsighted units lose vision of all their allies as well as all external sources of vision (including from wards or abilities). This prevents
+unit-targeted
+effects, including
+basic attacks
+, from being used outside of the unit's reduced sight radius.
+True sight
+and
+unobstructed vision
+do
+not
+bypass the vision blocked by
+nearsight
+.
+Sources of
+nearsight
+do
+not
+stack with each other; only the application with the greatest sight reduction will take effect.
+Interrupts:
+Interrupts target commands if the
+nearsighted
+unit's target is outside of their new vision area and prevents
+automated target acquisition
+.
+Reduction:
+The
+duration
+is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+with the exceptions of
+Fiora's
+Riposte
+and
+Morgana's
+Black Shield
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast),
+Cleanse
+, and
+Mikael's Blessing
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Crowd control
+A unit that is
+disabled
+is affected by a status effect that prevents certain actions – such as movement, attacking, casting and/or seeing–blocked, reduced or controlled.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Disarm
+A unit that is
+disarmed
+is unable to declare
+basic attack
+commands for the duration.
+Interrupts:
+Interrupts
+basic attack windups
+(excluding
+uncancellable windups
+) and
+Samira's
+Inferno Trigger
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast) and
+Mikael's Blessing
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Howling Abyss
+The Howling Abyss is a bottomless crevasse located in the coldest, cruelest, part of the
+Freljord
+. Legends say that, long ago, a great battle took place here on the narrow bridge spanning this chasm. No one remembers who fought here, or why, but it is said that if you listen carefully to the wind you can still hear the cries of the vanquished tossed howling into the Abyss.
+Regular Modes
+Classic 5v5
+(
+All random
+)
+Custom
+Featured Game Modes
+Legend of the Poro King
+One For All
+One For All: Mirror Mode
+Snowdown Showdown
+League of Legends content
+Ultra Rapid Fire (U.R.F.)
+Ultra Rapid Fire
+is a
+Featured Game Mode
+that takes place on
+Summoner's Rift
+with the same objective as
+Classic 5v5
+, except all
+champions
+benefit from the
+Awesome Buff of Awesomely Awesome Buffing
+that grants excessive  ability haste and removes ability costs. The gameplay is
+explosive
+. The game mode can be played as
+All Random
+or
+Blind pick
+depending on the year.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Arise!
+RECHARGE:
+10 / 9 / 8 / 7 / 6
+Active:
+Azir
+summons a
+Sand Soldier
+to attack nearby targets for him, replacing his
+basic attacks
+against enemies within their range. Their attacks deal
+magic damage
+to enemies in a line.
+Sand Soldiers
+expire faster near
+turrets
+and instantly when
+Azir
+leaves them.
+References
+[
+edit
+|
+edit source
+]
+↑
+Azir's profile page
+at
+LeagueOfLegends.com
+↑
+Azir art discussion 1

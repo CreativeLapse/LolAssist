@@ -1,0 +1,2564 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Alistar
+the Minotaur
+Release date
+2009-02-21
+Last changed
+V14.16
+Class(es)
+Vanguard
+Legacy
+Tank
+Support
+Position(s)
+Support
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Magic
+Store price
+1350
+|
+585
+Crafting
++
+810
+Ratings
+Damage
+1
+Toughness
+3
+Control
+3
+Mobility
+1
+Utility
+2
+Style
+Difficulty
+Alistar
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Alistar
+Base statistics
+Edit
+Health
+685
++120
+Mana
+350
++40
+Health regen. (per 5s)
+8.5
++0.85
+Mana regen. (per 5s)
+8.5
++0.8
+Armor
+47
++4.7
+Attack damage
+62
++3.75
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+125
+Attack speed
+Base AS
+0.625
+Attack windup
+30%
+AS ratio
+N/A
+Bonus AS
++2.125
+%
+Unit radius
+Gameplay radius
+80
+Selection radius
+140
+Pathing radius
+50
+Acq. radius
+600
+Special statistics
+Damage Dealt
+-5%
+Damage Received
++5%
+Healing
+-20%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++5%
+Damage Received
+-3%
+Damage Dealt
++0%
+Damage Received
+-5%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Triumphant Roar
+STATIC COOLDOWN
+:
+3
+EFFECT RADIUS:
+1000
+/
+950
+Innate:
+Alistar
+generates stacks of
+Triumph
+from
+stunning
+or
+displacing
+enemy champions or when a nearby enemy
+dies
+. At max stacks or when a nearby enemy
+champion
+or epic
+monster
+dies, he
+heals
+himself and nearby allied champions.
+Innate:
+Alistar
+generates a
+stack
+of
+Triumph
+for each enemy
+champion
+he
+stuns
+or
+displaces
+with his
+abilities
+, and each time a nearby enemy
+minion
+or non-epic
+monster
+dies. He generates 7 stacks if a nearby enemy champion or epic monster dies.
+At 7 stacks,
+Alistar
+consumes them all to
+heal
+himself for
+5% of his
+maximum
+health
+and nearby allied champions for
+7% of his
+maximum
+health
+.
+Triumphant Roar
+can occur only once every few seconds, though
+Alistar
+may still generate stacks before then.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Counters
+Projectile
+See Notes
+If
+Alistar
+is at 7 stacks when
+Triumphant Roar
+comes off cooldown, he will roar as soon as it elapses.
+Alistar
+does not gain stacks for unsuccessfully trying to apply
+crowd control
+, for instance against a
+crowd control immune
+target.
+Alistar
+will still gain a stack for unsuccessfully trying to knock back a champion protected by a
+spell shield
+with
+Headbutt
+.
+(bug)
+Healing occurs simultaneously for
+Alistar
+and his allies.
+There is a VFX projectile (700 missile speed) that cannot be destroyed by
+Wind Wall
+and is unrelated to the actual heal.
+Alistar
+loses all
+Triumph
+stacks upon dying.
+Video
+Edit
+Pulverize
+COST:
+50 / 55 / 60 / 65 / 70 mana
+COOLDOWN:
+14 / 13 / 12 / 11 / 10
+CAST TIME:
+0.
+25
+/
+0.
+15
+EFFECT RADIUS:
+375
+Active:
+Alistar
+smashes the ground, dealing
+magic damage
+to nearby enemies and briefly
+stunning
+and
+knocking them up
+.
+Active:
+Alistar
+smashes the ground beneath him, dealing
+magic damage
+to nearby enemies and
+stunning
+and
+knocking them up
+simultaneously for 1 second.
+Magic Damage:
+60 / 100 / 140 / 180 / 220
+(+ 80% AP)
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Pulverize
+can be buffered during
+Headbutt
+to cast with reduced cast time when the dash ends.
+Displacement immunity
+will also resist the application of the
+stun
+.
+This ability will cast from wherever the caster is at the end of the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 17 / 16 / 15 / 14 / 13 seconds.
+Video
+Edit
+Headbutt
+COST:
+50 / 55 / 60 / 65 / 70 mana
+COOLDOWN:
+14 / 13 / 12 / 11 / 10
+CAST TIME:
+none
+TARGET RANGE:
+650
+SPEED:
+1200 / 1544 / ∞
+Active:
+Alistar
+dashes
+to the target enemy, dealing
+magic damage
+,
+stunning
+, and
+knocking them back
+.
+Active:
+Alistar
+dashes
+to the target enemy's location. If they are within 400 units upon arrival, he deals them
+magic damage
+and
+knocks them back
+700 units
+over 0.
+5
+seconds while also
+stunning
+them for 0.
+75
+seconds.
+Magic Damage:
+55 / 110 / 165 / 220 / 275
+(+ 100% AP)
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+The dash speed depends on the inverse of the distance to the target:
+If
+Alistar's
+radius
+overlaps with his target's, he will dash with
+1200 speed
+.
+If
+Alistar
+is further from his target than the previous condition, he will dash with (1200  ×  dash distance) / (dash distance - sum of radiuses).
+At maximum target range, against an enemy with a 65
+gameplay radius
+(median of all champions),
+Alistar
+will dash with
+1544 speed
+(reaching his target within
+0.
+429
+seconds
+).
+Both the lower the dash distance and the larger
+Alistar
+and/or his target, the faster the dash becomes; this scales hyperbolically.
+When
+Pulverize
+is buffered during the dash, the knockback distance is reduced to 200 units.
+The CC duration of the ability can be reduced by up to 33.33%
+Tenacity
+, due to airborne not being reducible while the stun is.
+The
+knockback
+direction is in a straight line from
+Alistar's
+original location at start of cast and the enemy when
+Alistar's
+dash ends.
+Headbutt
+can knock enemies through terrain. The
+knockback
+stops short on walls that cannot be surpassed but the disable duration is not changed.
+The
+spell indicator
+for this ability also displays the direction for the knock back relative to
+Alistar's
+position.
+Alistar's
+attack range
+is reduced
+「 to -375 」
+「 by 500 」
+during
+Headbutt
+, to prevent him from being able to attack the target when he completes the dash.
+Displacement immunity
+will not resist the application of the
+stun
+.
+Tips & Tricks
+Headbutt
+may be used as a gap-closer to
+knock up
+enemies at the target location with
+Pulverize
+, additionally overriding
+Headbutt's
+knock back
+.
+Map-Specific Differences
+Ultra Rapid Fire
+differences
+edit
+Stun now ends at the same time the displacement does.
+Arena
+differences
+edit
+Cooldown changed to 26 / 23.
+5
+/ 21 / 18.
+5
+/ 16 seconds.
+Video
+Edit
+Trample
+COST:
+50 / 55 / 60 / 65 / 70 mana
+COOLDOWN
+:
+12 / 11.
+5
+/ 11 / 10.
+5
+/ 10
+CAST TIME:
+none
+EFFECT RADIUS:
+350
+Active:
+Alistar
+becomes
+ghosted
+and continually deals
+magic damage
+to nearby enemies. He generates a stack of
+Trample
+each time this damages at least one
+champion
+. At max stacks, his next basic attack against a
+champion
+within a few seconds will deal
+bonus
+magic damage
+and
+stun
+them.
+Active:
+Alistar
+tramples the ground around him every 0.
+5
+seconds over 5 seconds, becoming
+ghosted
+and dealing
+magic damage
+to nearby enemies. Each time this damages at least one enemy champion, he generates a
+stack
+of
+Trample
+that lasts for the remaining duration, stacking up to 5 times.
+Magic Damage Per Tick:
+8 / 11 / 14 / 17 / 20
+(+ 7% AP)
+Total Magic Damage:
+80 / 110 / 140 / 170 / 200
+(+ 70% AP)
+At 5 stacks,
+Alistar's
+next
+basic attack
+against a
+champion
+within 6 seconds is empowered to deal
+20 − 275 (based on level)
+bonus
+magic damage
+and
+stun
+the target for 1 second. This will end
+Trample
+prematurely.
+Info
+Targeting input
+Auto
+Damage type
+Type
+See Notes
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Parries
+See Notes
+Trample
+deals
+persistent area damage
+damage around
+Alistar
+, while the bonus damage on the resulting attack is
+proc damage
+.
+The
+stun
+and
+bonus
+damage are blocked by
+spell shields
+but the base attack damage is not.
+The on-hit effect is consumed if the attack
+blocked
+, but not if it is
+dodged
+or missed while
+Alistar
+is
+blinded
+. In all cases, the attack's effects are negated as normal.
+As it is an
+on-hit
+effect, the bonus damage and stun can be applied by
+Guinsoo's Rageblade's
+Phantom Hit.
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio per tick changed to
+10% AP
+.
+Video
+Edit
+Unbreakable Will
+COST:
+100 mana
+COOLDOWN
+:
+120 / 100 / 80
+CAST TIME:
+0.
+25
+Active:
+Alistar
+lets out a wild roar,
+cleansing
+all
+crowd control
+effects and gaining damage reduction for a few seconds.
+Active:
+Alistar
+cleanses
+himself of all
+crowd control
+. For the next 7 seconds, he reduces incoming damage taken.
+Damage Reduction:
+55 / 65 / 75%
+Info
+Targeting input
+Auto
+True damage
+cannot be reduced by any means and will deal full damage to
+Alistar
+during
+Unbreakable Will
+.
+Unbreakable Will's
+modifier to incoming damage stacks additively with
+Vladimir's
+Hemoplague
+for a total reduction of 45/55/65%.
+*
+Map-Specific Differences
+Ultra Rapid Fire
+differences
+edit
+Duration changed to 3.
+5
+seconds.
+*
+Arena
+differences
+edit
+Damage reduction changed to 50 / 60 / 70%.
+Cooldown changed to 180 / 150 / 120 seconds.
+Video
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Alistar (Collection)
+.
+Original
+View in 3D
+585
+21.02.2009
+Always a mighty warrior with a fearsome reputation, Alistar seeks revenge for the death of his clan at the hands of the Noxian empire. Though he was enslaved and forced into the life of a gladiator, his unbreakable will was what kept him from truly becoming a beast. Now, free of the chains of his former masters, he fights in the name of the downtrodden and the disadvantaged, his rage as much a weapon as his horns, hooves and fists.
+Harlan Hogan
+Unknown artist
+Loot eligible
+Black
+View in 3D
+Special
+13.06.2009
+Given to players who pre-ordered the Digital Collector's Edition of League of Legends.
+Harlan Hogan
+Unknown artist
+Collector's Edition
+Loot ineligible
+Golden
+View in 3D
+390
+13.01.2010
+Harlan Hogan
+Unknown artist
+Legacy
+Loot eligible
+Matador
+View in 3D
+975
+11.05.2010
+Man's greatest battle is the one he must fight within himself, unless he's a matador who is also a giant bull. Then the battle is more literal.
+Harlan Hogan
+Unknown artist
+Day Job
+Loot eligible
+Legacy
+Longhorn
+View in 3D
+520
+16.02.2011
+A handful of the Old West's more pragmatic individuals have integrated into human society—the hulking minotaur Alistar among them. Working as muscle for hire, he can be found breaking up saloon fights as often as knocking down bank vault doors. If it pays, the longhorn's on board.
+Harlan Hogan
+Unknown artist
+High Noon
+Loot eligible
+Legacy
+Unchained
+View in 3D
+Special
+22.09.2011
+Harlan Hogan
+Unknown artist
+Chronicle
+Loot ineligible
+Infernal
+View in 3D
+975
+13.07.2012
+Leading from the front of the Infernal invasion, Alistar is a lumbering juggernaut whose ponderous movements bely unimaginable strength and speed. Dozens of armies have fallen before him, overwhelmed suddenly and completely by his power.
+Harlan Hogan
+Concept Art House
+Infernal
+Loot eligible
+Sweeper
+View in 3D
+750
+18.06.2014
+They call him a sweeper, but Alistar is more of a mobile fortress with horns. If a rival player has the ball, just point Alistar in their direction for immediate and painful results.
+Harlan Hogan
+Unknown artist
+Soccer Cup
+Loot eligible
+Legacy
+Marauder
+View in 3D
+750
+30.09.2015
+Though the great armies of the Magelord Empire have vanished into antiquity, their modern descendants uphold the vicious brutality of their ancestors. Alistar, a prime specimen of the beastmen hordes, now fights for the same culture that conquered his own people so very long ago.
+Harlan Hogan
+Sixmorevodka Studio
+Marauder
+Loot eligible
+SKT T1
+View in 3D
+975
+17.08.2016
+Honoring Wolf's winning performance as Alistar during the 2015 World Championship.
+Harlan Hogan
+Victor '3rdColossus' Maury
+World Champions: 2015
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Moo Cow
+View in 3D
+975
+29.03.2017
+A rare cow-themed variant of the popular Alistar figurines, mint-in-box units have been known to go for several thousand dollars at auction. Yesterday, this one was submerged in the tub. Children don't deserve nice things.
+Harlan Hogan
+Pan Chengwei
+Toy Box
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Moo Cow Alistar Chromas
+Amethyst
+Aquamarine
+Catseye
+Citrine
+Jasper
+Peridot
+Rose Quartz
+Sapphire
+Hextech
+View in 3D
+Special
+26.03.2018
+The fusion of arcane sorcery and Piltovan ingenuity, Alistar is an advanced, living golem built by the finest artificers in Runeterra. Tasked with guarding the secrets of hextech, it crushes all who would abuse the methods behind its creation.
+Harlan Hogan
+Bo 'chenbowow' Chen
+Hextech
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Conqueror
+View in 3D
+975
+30.04.2019
+Commemorating the 2019 Mid-Season Invitational in Asia.
+Harlan Hogan
+Xu 'Crow God' Cheng
+Conqueror
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Conqueror Alistar Chromas
+Golden
+Blackfrost
+View in 3D
+1350
+05.03.2020
+The mightiest of all minotaurs, Alistar once roamed the northern mountains freely… but when the endless winter came and blanketed his home in frost as dark as the heart of the Ice Witch herself, the fearsome behemoth fell prey to an eerie corruption—as his fur and bone twisted into pure, frozen malice.
+Harlan Hogan
+David Villegas, West Studio
+Blackfrost
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Blackfrost Alistar Chromas
+Amethyst
+Emerald
+Obsidian
+Pearl
+Ruby
+Turquoise
+Lunar Beast
+View in 3D
+1350
+04.02.2021
+The leader of Ox Clan, Alistar keeps his stubborn squad in line with his reliability and gruff approval. A bit quick to anger with some squad members' bull-headedness, he's determined that nothing and no one will derail this Lunar New Year festival, or Ox Clan's plan to make it a flawless celebration.
+Harlan Hogan
+Alex 'alexplank' Flores
+Lunar Beast
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Lunar Beast Alistar Chromas
+Amethyst
+Catseye
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Vitality
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.16
+Headbutt
+Bug Fix:
+No longer grants passive stacks from immobilizing effects that fail to apply to the target including when resisted by crowd control immunity.
+V14.10
+Headbutt
+Bug Fix:
+Hitbox is no longer extended when impacting an enemy at close range.
+V14.9
+Stats
+Selection radius reduced to 140 units from 145.
+V13.7
+Stats
+Base armor increased to 47 from 44.
+Base health increased 685 from 670.
+V13.4
+Triumphant Roar
+Ally heal increased to
+7% of his
+maximum
+health
+from
+6%
+.
+Pulverize
+AP ratio increased to
+80% AP
+from
+70% AP
+.
+Headbutt
+AP ratio increased to
+100% AP
+from
+90% AP
+.
+V13.3
+Triumphant Roar
+Self heal changed to
+5%
+maximum
+health
+from
+23 − 142 (based on level)
+.
+Ally heal changed to
+6% of
+Alistar's maximum
+health
+from
+46 − 284 (based on level)
+.
+Pulverize
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 55 / 60 / 65 / 70 / 75.
+AP ratio increased to
+70% AP
+from
+50% AP
+.
+Headbutt
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 65 / 70 / 75 / 80 / 85.
+AP ratio increased to
+90% AP
+from
+70% AP
+.
+Trample
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 50 / 60 / 70 / 80 / 90.
+AP ratio per tick increased to
+7% AP
+from
+4% AP
+.
+Maximum AP ratio increased to
+70% AP
+from
+40% AP
+.
+V12.14
+Pulverize
+Cooldown reduced to 14 / 13 / 12 / 11 / 10 seconds from 15 / 14 / 13 / 12 / 11.
+Mana cost reduced to 55 / 60 / 65 / 70 / 75 from 65 / 70 / 75 / 80 / 85.
+V12.10
+Stats
+Base health increased to 670 from 600.
+Health growth increased to 120 from 106.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Triumphant Roar
+Base heal reduced to
+23 − 142 (based on level)
+from
+25 − 161 (based on level)
+.
+Ally heal reduced to
+46 − 284 (based on level)
+from
+50 − 362 (based on level)
+.
+V11.11
+Pulverize
+Bug Fix:
+No longer grants a stack of
+Triumphant Roar
+when used on a spell-shielded target.
+The same issue is not yet fixed for
+Headbutt
+.
+V11.8
+Trample
+Bug Fix:
+Can now generate stacks against
+Morgana's
+Black Shield
+and
+Malzahar's
+Void Shift
+.
+V11.7
+Pulverize
+Base damage reduced to 60 / 100 / 140 / 180 / 220 from 60 / 105 / 150 / 195 / 240.
+Trample
+Bonus damage reduced to
+20 − 275 (based on level)
+from
+35 − 290 (based on level)
+.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.14
+Pulverize
+Cooldown reduced to 15 / 14 / 13 / 12 / 11 seconds from 17 / 16 / 15 / 14 / 13.
+V10.6
+General
+Recommended items updated.
+V10.5
+Stats
+Base health increased to 600 from 575.
+Triumphant Roar
+New Effect:
+Can now gain stacks while on cooldown.
+V9.24b
+Stats
+Base health increased to 575 from 573.
+36
+.
+Base attack damage increased to 62 from 61.
+1116
+.
+Attack damage growth increased to 3.
+75
+from 3.
+62
+.
+Triumphant Roar
+Self heal increased to
+25 − 161 (based on level)
+from
+20 − 139 (based on level)
+.
+Allied champion heal increased to
+50 − 322 (based on level)
+from
+40 − 278 (based on level)
+.
+V9.14
+Stats
+Base mana increased to 350 from 278.
+84
+.
+Mana growth increased to 40 from 38.
+V9.6
+Trample
+New Effect:
+Now triggers effects that are triggered by DoT AoE abilities.
+V9.1
+Trample
+New Effect:
+Ability icon HUD now shows the remaining duration of the ability.
+Unbreakable Will
+New Effect:
+Ability icon HUD now shows the remaining duration of the ability.
+V8.24b
+Trample
+Total base damage reduced to 80 / 110 / 140 / 170 / 200 from 100 / 125 / 150 / 175 / 200.
+Basic attack at 5 Trample stacks damage reduced to
+35 − 290 (based on level)
+from
+55 − 310 (based on level)
+.
+V8.24
+Headbutt
+Bug Fix:
+Fixed a bug causing it to stun his target without displacing them if he cast recall in the middle of his W+Q combo to cancel the combo.
+Headbutt
+New run animation during
+Trample
+.
+V8.21
+Stats
+Base health reduced to 573.
+36
+from 613.
+36
+.
+V8.11
+Trample
+Undocumented:
+Now prematurely ends the trampling when triggering the stun.
+V8.7
+Hextech Alistar
+Triumphant Roar
+Bug Fix:
+The chain anchors in his recall animation no longer change positions if
+Triumphant Roar
+is triggered while recalling.
+V8.5
+Headbutt
+Bug Fix:
+Can now correctly queue up orders other than
+Pulverize
+during
+Headbutt
+.
+V8.3
+Stats
+Base health regeneration reduced to 8.
+5
+from 8.
+678
+.
+V8.2
+Headbutt
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V7.22
+Stats
+Base armor increased to 44 from 24.
+38
+.
+V7.14
+Unbreakable Will
+Damage reduction increased to 55 / 65 / 75% from 50 / 60 / 70%.
+New Effect:
+Now displays how much damage the ability is mitigating per damage instance.
+Visible only to
+Alistar
+and his attacker.
+V7.13
+General
+Basic attack and ability audio has been updated for all skins without skin-specific audio effects.
+V7.7
+Triumphant Roar
+New Effect:
+Now heals all nearby allied champions instead of only one.
+Trample
+Cooldown reduced to 12 / 11.
+5
+/ 11 / 10.
+5
+/ 10 seconds from 16 / 15.
+5
+/ 15 / 14.
+5
+/ 14.
+On-hit damage at 5
+Trample
+stacks increased to
+55 − 310 (based on level)
+from
+50 − 220 (based on level)
+.
+Bug Fix:
+Minions affected by
+Trample
+now display the proper visual effects.
+V7.6
+SKT T1 Alistar
+General
+Bug Fix:
+Recall animation audio is no longer bullishly loud.
+Triumphant Roar
+Bug Fix:
+No longer slides around during animation.
+V6.22
+Triumphant Roar
+(new innate)
+New Effect:
+Alistar
+gains a stack of
+Triumph
+when he stuns or displaces enemy champions, or whenever a nearby enemy dies. At 7 stacks,
+Alistar
+roars, healing himself for
+20 − 139 (based on level)
+and the nearest allied champion for
+「 twice that amount 」
+「
+40 − 278 (based on level)
+」
+.
+Afterwards,
+Alistar
+cannot gain stacks again for 3 seconds.
+The death of enemy champions and epic monsters will grant full stacks.
+Pulverize
+Removed:
+Stun for 0.
+5
+seconds after the knock-up.
+Trample
+(new E)
+New Active:
+Alistar
+tramples the ground for the next 5 seconds,
+ghosting
+him and dealing 10 / 12.
+5
+/ 15 / 17.
+5
+/ 20
+(+ 4% AP)
+magic damage every half second to nearby enemies. Each pulse that damages at least one enemy champion grants
+Alistar
+a
+Trample
+stack. At 5
+Trample
+stacks,
+Alistar
+empowers his next basic attack against an enemy champion to deal an additional
+50 − 220 (based on level)
+bonus magic damage and
+stun
+them for 1 second.
+Cooldown:
+16 / 15.
+5
+/ 15 / 14.
+5
+/ 14 seconds
+Mana cost:
+50 / 60 / 70 / 80 / 90
+Unbreakable Will
+Removed:
+50 / 75 / 90 bonus attack damage.
+V6.10
+Unbreakable Will
+Damage reduction reduced to 50 / 60 / 70% from 70% at all ranks
+V6.7
+General
+Splash artwork for
+Longhorn Alistar
+updated to the Chinese art.
+V6.6
+Triumphant Roar
+Healing to allies reduced to 33% from 50%.
+Ally heal reduced to 20.
+1
+/ 30.
+15
+/ 40.
+2
+/ 50.
+25
+/ 60.
+3
+(+ 6.
+7
+% AP)
+from 30 / 45 / 60 / 75 / 90
+(+ 10% AP)
+.
+V6.3
+Pulverize
+New Effect:
+Goes immediately off upon
+Headbutt
+'s arrival if cast during it.
+Triumphant Roar
+Mana cost increased to 50 / 60 / 70 / 80 / 90 from 40 / 50 / 60 / 70 / 80.
+Cooldown increased to 16 seconds from 12.
+V5.22
+Stats
+Base mana regen increased to 8.
+5
+from 6.
+V5.16
+Stats
+Health growth increased to 106 from 102.
+Headbutt
+Dash speed reduced to 1200 from 1500 (for a larger enemy reaction window and for more efficient chaining with
+Pulverize
+, particularly at high latency).
+V5.1
+Visual Update
+General
+New models and textures for all skins.
+New splash artwork for
+Original Alistar
+.
+Unbreakable Will
+New particle effects.
+V4.15
+Headbutt
+Removed:
+Alistar landing an extra basic attack on target while they are being displaced.
+V4.12
+Trample
+Removed:
+Double damage to monsters.
+Pulverize
+Clarity:
+Now correctly matches its visuals by applying a 1 second knockup followed by a 0.
+5
+seconds stun, rather than a 1.
+5
+seconds knockup.
+Mana cost reduced to 65 / 70 / 75 / 80 / 85 from 70 / 80 / 90 / 100 / 110.
+Headbutt
+Mana cost reduced to 65 / 70 / 75 / 80 / 85 from 70 / 80 / 90 / 100 / 110.
+Unbreakable Will
+New Effect:
+Damage reduction now applies instantly, rather than after the spell animation.
+Damage reduction increased to 70% at all ranks from 50 / 60 / 70%.
+V4.5
+Stats
+Base armor increased to 18.
+5
+from 14.
+5
+.
+V1.0.0.154
+Stats
+Movement speed increased to 330 from 325.
+Headbutt
+Range increased to 650 from 600.
+V1.0.0.152
+Stats
+Movement speed increased to 325 from 300.
+V1.0.0.146
+Stats
+Base movement speed reduced to 300 from 305.
+Headbutt
+Cast range reduced to 600 from 650.
+V1.0.0.144 - August 7th Hotfix
+Headbutt
+Base damage changed to 55 / 110 / 165 / 220 / 275 from 85 / 130 / 175 / 220 / 265.
+V1.0.0.142
+Trample
+Damage reduced to
+7 − 24 (based on level)
+from
+10 − 27 (based on level)
+.
+Triumphant Roar
+Mana cost increased to 40 / 50 / 60 / 70 / 80 from 28 / 41 / 54 / 67 / 80.
+V1.0.0.141
+General
+Splash artwork for
+Golden Alistar
+updated to the Chinese art.
+V1.0.0.139
+Stats
+Magic resist per level increased to 1.
+25
+from 0.
+V1.0.0.135
+Trample
+Damage increased to 10 - 27 per second from 10 - 23.
+Triumphant Roar
+Mana cost increased to 28 / 41 / 54 / 67 / 80 from 20 / 35 / 50 / 65 / 80.
+Unbreakable Will
+Mana cost reduced to 100 from 150.
+V1.0.0.134
+Pulverize
+Mana cost reduced to 70 / 80 / 90 / 100 / 110 from 80 / 90 / 100 / 110 / 120.
+Headbutt
+Mana cost reduced to 70 / 80 / 90 / 100 / 110 from 70 / 85 / 100 / 115 / 130.
+Triumphant Roar
+Mana cost increased to 20 / 35 / 50 / 65 / 80 from 20 / 30 / 40 / 50 / 60.
+V1.0.0.133
+Triumphant Roar
+Bug Fix:
+Not granting assists.
+V1.0.0.132
+General
+Splash artwork for
+Original Alistar
+updated to the Chinese art.
+V1.0.0.124
+Unbreakable Will
+Physical and magic damage reduction reduced to 50 / 60 / 70% from 75% at all ranks.
+Duration changed to 7 seconds at all ranks from 6 / 7 / 8.
+V1.0.0.121
+Headbutt
+AP ratio reduced to
+70% AP
+from
+80% AP
+.
+Pulverize
+AP ratio reduced to
+50% AP
+from
+60% AP
+.
+Triumphant Roar
+Heal AP ratio reduced to
+20% AP
+from
+40% AP
+.
+V1.0.0.118b
+Stats
+Health per level reduced to 102 from 110.
+Pulverize
+Ability power ratio reduced to
+(+ 60% AP)
+from
+(+ 80% AP)
+.
+Reduced the chance of failed knockups near terrain.
+Headbutt
+Base damage reduced to 85 / 130 / 175 / 220 / 265 from 85 / 135 / 185 / 235 / 285.
+AP ratio reduced to
+80% AP
+from
+100% AP
+.
+V1.0.0.116
+General
+Updated walking animation.
+Stats
+Base health reduced to 442 from 468.
+Health per level reduced to 110 from 114.
+Base mana increased to 215 from 192.
+Mana per level increased to 38 from 33.
+Base attack damage reduced to 55.
+03
+from 59.
+525
+.
+Attack damage per level increased to 3.
+62
+from 3.
+375
+.
+Movement speed increased to 305 from 300.
+Trample
+-
+New Innate
+Whenever Alistar casts a spell, he gains Trample for 3 seconds, ignoring unit collision and dealing
+10 − 23 (based on level)
++
+(0.1 per ability power)
+area damage per second. It deals double damage to minions and monsters.
+Added new animations and particles for
+Trample
+.
+Colossal Strength
+-
+Old Innate
+Alistar deals
+20 / 40 / 60 (based on level)
+% additional damage to turrets.
+Pulverize
+Base damage reduced to 60 / 105 / 150 / 195 / 240 from 80 / 125 / 170 / 220 / 270.
+AP ratio reduced to
+80% AP)
+from
+100% AP
+.
+Cooldown changed to 17 / 16 / 15 / 14 / 13 seconds from 15 at all ranks.
+Range increased to 365 from 330.
+Stun duration after the 1 second knock-up reduced to 0.
+5
+seconds from 1 second.
+Headbutt
+Base damage reduced to 85 / 135 / 185 / 235 / 285 from 90 / 140 / 190 / 245 / 300.
+Cooldown changed to 14 / 13 / 12 / 11 / 10 seconds from 12 at all ranks.
+Can now target minions.
+Improved targeting against moving targets.
+V1.0.0.105
+Pulverize
+Bug Fix:
+Stun particle displaying over unaffected units.
+V1.0.0.100
+Stats
+Base attack speed increased to 0.
+625
+from 0.
+550
+.
+Attack speed per level increased to 2.
+13
+% from 1%.
+Headbutt
+Removed:
+Casting while rooted.
+Unbreakable Will
+Clarity:
+Tooltip corrected to state that it removes all crowd control but not all debuffs.
+Pulverize
+Clarity:
+Tooltip corrected to not imply that enemies do not take damage until they land.
+V1.0.0.96
+General
+Bug Fix:
+Alistar's attack timing was too fast.
+V1.0.0.87
+Headbutt
+Bug Fix:
+Alistar was prevented from using abilities immediately after activation.
+V1.0.0.86
+Pulverize
+New Effect:
+Deals damage when the target is knocked into the air rather than when they hit the ground.
+V1.0.0.83
+Triumphant Roar
+Base heal increased to 60 / 90 / 120 / 150 / 180 from 50 / 75 / 100 / 125 / 150.
+New Effect:
+Healing to other allied units is reduced by 50%.
+Headbutt
+Removed:
+Casting while disabled
+V1.0.0.79
+Triumphant Roar
+Cooldown reduction by nearby deaths reduced to 2 seconds from 4.
+Unbreakable Will
+Duration reduced to 6 / 7 / 8 seconds from 6 / 8 / 10.
+Bonus AD increased to 60 / 75 / 90 from 60 at all ranks.
+V1.0.0.74
+Pulverize
+Stun duration reduced to 2 seconds from 2.
+2
+.
+V1.0.0.72
+Pulverize
+Stun duration reduced to 2.
+2
+seconds from 2.
+5
+.
+Headbutt
+Animation updated.
+V1.0.0.61
+Triumphant Roar
+Bug Fix:
+Certain abilities reduce the cooldown (
+Poison Trail
+,
+Cannon Barrage
+).
+V1.0.0.58
+Triumphant Roar
+Bug Fix:
+Certain abilities would reduce the cooldown.
+V0.9.25.21
+Triumphant Roar
+Cooldown increased to 12 seconds from 4.
+New Effect:
+Cooldown is reduced by 4 seconds when a nearby enemy dies.
+Heal increased.
+AP ratio increased.
+Mana cost increased.
+V0.9.22.16
+Colossal Strength
+Bonus damage to turrets increased to 20 / 40 / 60% from 20 / 30 / 40 / 50.
+V0.9.22.15
+Stats
+Movement speed increased to 300 from 290.
+Colossal Strength
+Removed:
+Reduces damage taken by turrets (still increases damage to turrets).
+Headbutt
+Removed:
+Target minions.
+Base damage increased to 90 / 140 / 190 / 245 / 300 from 80 / 135 / 190 / 245 / 300.
+Pulverize
+Base damage increased to 80 / 125 / 170 / 220 / 270 from 70 / 120 / 170 / 220 / 270.
+V0.9.22.7
+Triumphant Roar
+Base heal reduced to 40 / 65 / 90 / 110 / 130 from 50 / 70 / 90 / 110 / 130.
+V0.8.22.115
+Pulverize
+Area of effect increased to 330 from 300.
+Unbreakable Will
+Damage reduction increased to 75% from 70%.
+New Effect:
+Removes all self debuffs on cast.
+V0.8.21.110
+Pulverize
+Stun duration increased to 1.
+5
+seconds from 1.
+June 6, 2009 Patch
+Unbreakable Will
+Tooltip updated.
+May 29, 2009 Patch
+Unbreakable Will
+New Effect:
+Alistar gains 70% damage reduction for the duration.
+May 23, 2009 Patch
+Pulverize
+Stun duration reduced to 2.
+2
+seconds from ~2.
+7
+.
+May 15, 2009 Patch
+Unbreakable Will
+Bonus AD reduced to 60 from 80.
+Headbutt
+Stun duration reduced to 1 second from 1.
+25
+.
+Displacement speed increased to 1200 from 1000.
+May 1, 2009 Patch
+Unbreakable Will
+Duration reduced to 8 / 12 / 16 seconds from 10 / 15 / 20.
+April 25, 2009 Patch
+General
+Recommended items updated.
+April 18, 2009 Patch
+Stats
+Attack range increased to 125 from 100.
+Unbreakable Will
+Duration increased to 10 / 15 / 20 seconds from 5 / 10 / 15..
+New Effect:
+Grants
+80 Bonus AD
+.
+Headbutt
+.
+New Effect:
+Alistar dashes to target.
+Range increased to 650 from 200.
+Alpha Week 7
+Unbreakable Will
+Bug Fix:
+Casting while disabled.
+Alpha Week 6
+Triumphant Roar
+Cooldown reduced to 4 seconds from 5.
+Base heal increased to 50 / 75 / 100 / 125 / 150 from 50 / 70 / 90 / 110 / 130.
+New Effect:
+Has an AP ratio.
+Unbreakable Will
+Renamed from
+Ferocious Howl
+.
+Alpha Week 4
+Headbutt
+Tooltip updated.
+Ferocious Howl
+Tooltip updated.
+Alpha Week 2
+Ferocious Howl
+Tooltip updated.
+Trivia
+[
+edit
+|
+edit source
+]
+Alistar is
+voiced
+by
+Harlan Hogan
+.
+Alistar
+is an alternative form of
+Alistair
+, the Anglicized form of Scottish Gaelic
+Alasdair
+, ultimately from Ancient Greek Ἀλέξανδρος, meaning "Defender": from
+PIE
+roots
+*h₂lek-
+"to ward off, to defend" and
+*h₂nḗr
+"man"
+[2]
+During
+Alpha Test
+, he was simply called 'Minotaur'.
+Alistar was deemed overpowered/obnoxious in the
+Ultra Rapid Fire
+game mode (available in April 2014) and was ultimately disabled in non-custom games.
+Alistar's Series 1
+Eternals
+make the following references:
+By the Horns
+references the phrase
+take the bull by the horns
+.
+Indomita-Bull
+is a pun on the words "indomitable" and "bull".
+Matador
+is another term for
+bullfighter
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Vanguard
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+Vanguards
+are offensive tanks. Vanguards lead the charge for their team and specialize at bringing the action. Their explosive team fight initiation seeks to catch enemies out of position while allowing allies to follow-up to devastating effect.
+Examples
+Amumu
+Leona
+Sejuani
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Crowd control
+A unit that is
+disabled
+is affected by a status effect that prevents certain actions – such as movement, attacking, casting and/or seeing–blocked, reduced or controlled.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Cc-Immune
+Crowd control immunity
+prevents
+any
+type of
+crowd control
+from being
+applied
+to the unit. CC which has already been applied will still have an effect on the unit. Epic
+monsters
+(excluding a summoned
+Rift Herald
+) and
+turrets
+are always immune to all crowd control, with the exception of
+stasis
+.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Headbutt
+COOLDOWN:
+14 / 13 / 12 / 11 / 10
+Active:
+Alistar
+dashes
+to the target enemy, dealing
+magic damage
+,
+stunning
+, and
+knocking them back
+.
+League of Legends content
+Wind Wall
+COOLDOWN:
+25 / 23 / 21 / 19 / 17
+Active:
+Yasuo
+raises a wind wall that drifts in the target direction for a few seconds, blocking all enemy
+projectiles
+that hit it.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Displacement immune
+A unit that is
+displacement immune
+is
+immune
+to all
+Airborne
+effects in addition to the following effects:
+Crowd control
+Knockdown
+Suspension
+Kinematics
+Sleep
+Stasis
+Champion abilities
+Ambessa's
+Public Execution
+Mordekaiser's
+Realm of Death
+Skarner's
+Ixtal's Impact
+and
+Impale
+Sett's
+The Show Stopper
+Tahm Kench's
+Devour
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Pulverize
+COOLDOWN:
+14 / 13 / 12 / 11 / 10
+Active:
+Alistar
+smashes the ground, dealing
+magic damage
+to nearby enemies and briefly
+stunning
+and
+knocking them up
+.
+League of Legends content
+Ultra Rapid Fire (U.R.F.)
+Ultra Rapid Fire
+is a
+Featured Game Mode
+that takes place on
+Summoner's Rift
+with the same objective as
+Classic 5v5
+, except all
+champions
+benefit from the
+Awesome Buff of Awesomely Awesome Buffing
+that grants excessive  ability haste and removes ability costs. The gameplay is
+explosive
+. The game mode can be played as
+All Random
+or
+Blind pick
+depending on the year.
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Persistent area damage
+Persistent area damage
+is technically not a separate type of damage, but rather a hybrid classification that is applied to some spells.
+In situations where
+persistent damage
+and
+area damage
+would have conflicting outputs, the conflict is resolved by choosing the weakest possible outcome.
+Physical vamp
+and
+Spell vamp
+(where applicable) heals with one-third effectiveness, as with
+area damage
+.
+Arcane Comet's
+cooldown is reduced by 5%, as with
+persistent damage
+, per target affected.
+Counter Strike
+reduces the damage dealt by 25%, as with
+area damage
+.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Cleanse
+A unit that is
+cleansed
+has all applicable
+crowd control
+status effects removed.
+Due to the nature of the
+cleanse
+interaction, cleansing abilities and effects remain castable in circumstances that would otherwise inhibit casting, unless special-cased.
+"
+Cleanse
+" does not always refer to the act of removing
+all
+crowd control effects, some sources would specify only one or a few types of crowd control.
+A
+cleanse
+does not remove
+Stasis
+, but will remove the disable portion of
+Airborne
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Alistar's profile page
+at
+LeagueOfLegends.com
+↑
+Beekes. R.S.P.
+Etymologyical Dictionary of Greek
+. pp. 64-65, 103-104.

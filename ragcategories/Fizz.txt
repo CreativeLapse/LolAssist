@@ -1,0 +1,2346 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Fizz
+the Tidal Trickster
+Release date
+2011-11-15
+Last changed
+V14.22
+Class(es)
+Assassin
+Legacy
+Assassin
+Fighter
+Position(s)
+Middle
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Magic
+Store price
+1350
+|
+585
+Crafting
++
+810
+Ratings
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+3
+Utility
+1
+Style
+Difficulty
+Fizz
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Fizz
+Base statistics
+Edit
+Health
+640
++106
+Mana
+317
++52
+Health regen. (per 5s)
+8
++0.7
+Mana regen. (per 5s)
+6
++0.8
+Armor
+22
++4.6
+Attack damage
+58
++3
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+175
+Attack speed
+Base AS
+0.658
+Attack windup
+20.3%
+AS ratio
+N/A
+Bonus AS
++3.1
+%
+Unit radius
+Gameplay radius
+55
+Selection radius
+108
+Pathing radius
+30
+Acq. radius
+400
+Special statistics
+Damage Dealt
++5%
+Damage Received
+-5%
+Tenacity & Slow Resist
++10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-10%
+Damage Received
++10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Nimble Fighter
+Innate:
+Fizz
+ignores
+unit collision
+, and takes reduced damage.
+Innate:
+Fizz
+gains
+ghosting
+and reduces every instance of incoming damage by 4
+(+ 1% AP)
+, up to a maximum of 50% reduction.
+Info
+Targeting input
+Passive
+No additional notes.
+Edit
+Urchin Strike
+COST:
+50 Mana
+COOLDOWN:
+8 / 7.
+5
+/ 7 / 6.
+5
+/ 6
+CAST TIME:
+none
+TARGET RANGE:
+550
+RANGE:
+550
+Active:
+Fizz
+dashes
+through the target enemy, dealing
+magic damage
+,
+physical damage
+, and applying
+on-hit
+effects.
+Active:
+Fizz
+dashes
+a fixed distance in the direction of the target enemy. If they are in range upon arrival, he deals
+magic damage
+plus
+100% AD
+physical damage
+and applies
+on-hit
+effects at 100% effectiveness.
+Magic Damage:
+10 / 25 / 40 / 55 / 70
+(+ 55% AP)
+Seastone Trident
+and
+Chum the Waters
+can be cast during the dash.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+/
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Parries
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Urchin Strike
+can only go through walls if the target is on the other side.
+Urchin Strike
+only damages targets if within 200 units of their original location upon completion of the dash.
+Fizz
+will be automatically ordered to
+basic attack
+the target after
+Urchin Strike
+.
+Urchin Strike
+does not deal damage if the target is
+untargetable
+.
+Life steal
+applies only on the physical damage component.
+Spell vamp
+applies to both the physical damage and bonus magic damage.
+Edit
+Seastone Trident
+COST:
+30 / 40 / 50 / 60 / 70 Mana
+COOLDOWN
+:
+7 / 6.
+5
+/ 6 / 5.
+5
+/ 5
+CAST TIME:
+none
+Passive:
+Fizz
+basic attacks bleed his enemies, continually dealing
+magic damage
+.
+Active:
+Fizz
+empowers his next basic attack to deal
+bonus
+magic damage
+, and has an additional effect based on fatality.
+If this attack kills the target, the cooldown is
+reduced
+and the
+mana cost
+is refunded.
+If this attack does not kill the target,
+Fizz's
+basic attacks deal
+bonus
+magic damage
+for a few seconds.
+Passive:
+Fizz's
+basic attacks rend enemies
+on-hit
+, dealing
+magic damage
+every 0.
+5
+seconds over 3 seconds, refreshing on subsequent hits.
+Total Magic Damage:
+20 / 30 / 40 / 50 / 60
+(+ 30% AP)
+Magic Damage per Tick:
+3.
+33
+/ 5 / 6.
+67
+/ 8.
+33
+/ 10
+(+ 5% AP)
+Active:
+Fizz
+empowers his next
+basic attack
+within 4 seconds to have an
+uncancellable windup
+, gain
+50
+bonus
+range
+, and deal
+bonus
+magic damage
+.
+Bonus Magic Damage:
+50 / 70 / 90 / 110 / 130
+(+ 45% AP)
+If
+Seastone Trident
+kills its target, the
+cooldown
+is reduced to 1 second and
+Fizz
+restores
+mana
+. Otherwise, if the target is not killed,
+Fizz's
+basic attacks deal
+bonus
+magic damage
+on-hit
+for the next 5 seconds.
+Mana Restored:
+30 / 40 / 50 / 60 / 70
+Bonus Magic Damage On-Hit:
+10 / 15 / 20 / 25 / 30
+(+ 35% AP)
+Seastone Trident
+deals 50% damage to
+structures
+.
+Seastone Trident
+resets
+Fizz's
+basic attack timer.
+Info
+Targeting input
+Auto
+Damage type
+Type
+See Notes
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Parries
+See Notes
+Applies
+spell damage
+on the empowered attack,
+persistent damage
+on the damage over time effect, and
+proc damage
+on the bonus damage on-hit.
+Seastone Trident's
+interactions with
+dodging
+,
+blocking
+, and
+blinding
+effects.
+The passive bonus damage gets negated by
+dodging
+or
+blocking
+the attack, or if
+Fizz
+is
+blinded
+.
+The active:
+If the attacked enemy is
+dodging
+or if
+Fizz
+is
+blinded
+, the empowered attack won't deal any damage, but the empowered attack won't be consumed.
+If the attacked enemy is
+blocking
+, the empowered attack won't deal any damage despite being consumed. But the attack will apply the passive bonus damage of
+Seastone Trident
+.
+The empowered attack will trigger against
+structures
+.
+The damage over time effect is not applied to
+inhibitors
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Active base damage changed to 70 / 90 / 110 / 130 / 150.
+Edit
+Playful
+COST:
+75 / 80 / 85 / 90 / 95 Mana
+COOLDOWN
+:
+16 / 14 / 12 / 10 / 8
+CAST TIME:
+none
+TARGET RANGE:
+400
+EFFECT RADIUS:
+375
+Active:
+Fizz
+vaults
+in the target direction and balances onto his spear, becoming
+untargetable
+. From this position, Fizz can either slam the ground or choose to jump again with
+Trickster
+. Slamming the ground deals
+magic damage
+and
+slows
+nearby enemies.
+Active:
+Fizz
+dashes
+to the target location while becoming
+untargetable
+, balancing on his trident for 0.
+75
+seconds, during which he can cast
+Trickster
+after 0.
+15
+seconds into the duration.
+He then begins to hop off of his trident over 0.
+5
+seconds, afterwards becoming targetable and landing to create a splash that deals
+magic damage
+to nearby enemies and
+slows
+them for 2 seconds.
+Magic Damage:
+80 / 130 / 180 / 230 / 280
+(+ 90% AP)
+Slow:
+40 / 45 / 50 / 55 / 60%
+While hopping off of the trident,
+Fizz
+may input movement commands to direct his landing. Playful will cast at max range if cast beyond that.
+Edit
+Trickster
+TARGET RANGE:
+300
+EFFECT RADIUS:
+225
+Active:
+Fizz
+vaults
+in the target direction and slams down, dealing
+magic damage
+to nearby enemies.
+This area is smaller than
+Playful
+.
+Active:
+Fizz
+dashes
+to the target location, hopping down and splashing onto the ground prematurely upon arrival to deal the same damage in a smaller radius but not applying the slow.
+Trickster will cast at max range if cast beyond that.
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+See Notes
+Notes
+Playful
+counts as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Detonating the ability early for
+Trickster
+does not.
+Playful
+cannot be used for approximately 0.
+5
+seconds after using
+Urchin Strike
+.
+Flash
+can be used while hopping off the trident but not while balanced on it.
+If the first dash is interrupted,
+Fizz
+initiates the hop immediately, and if the second one is, the splash will not occur.
+In either cases,
+Fizz
+loses the untargetability.
+If
+Playful
+is cast while under the effect of a move block,
+Fizz
+will not become untargetable and will initiate the hop instantly.
+(bug)
+If
+Trickster
+is cast, the splash will not occur.
+(bug)
+There is a minimum dash distance of 25 units for
+Playful
+.
+If
+Fizz
+casts
+Playful
+on top of himself after being teleported (e.g.
+Flash
+,
+Recall
+), the minimum dash distance will not apply.
+(bug)
+The distance covered during
+Playful's
+directed splash is equal to half of
+Fizz's
+movement speed.
+If
+Fizz
+enters
+stasis
+during either
+Playful
+or
+Trickster
+, the splash occurs after the stasis ends.
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Notes
+Trickster
+does not count as an ability activation.
+Both
+Playful's
+and
+Trickster's
+dashes
+may be directed separately.
+Trickster
+has a minimum dash distance of 75 units.
+Flash
+cannot be used during the dash.
+The splash occurs immediately if
+Fizz
+encounters terrain that cannot be dashed through (he has to be particularly close to the wall).
+Arena
+differences
+edit
+Cooldown changed to 13 / 11.
+75
+/ 10.
+5
+/ 9.
+25
+/ 8 seconds.
+Slow strength changed to 50 / 55 / 60 / 65 / 70%.
+Edit
+Chum the Waters
+COST:
+100 Mana
+COOLDOWN:
+100 / 85 / 70
+CAST TIME:
+0.
+25
+TARGET RANGE:
+1300
+SPEED:
+1300
+Active:
+Fizz
+tosses a lure in the target direction that lands on the ground, attracting a shark that erupts after a short delay, dealing
+magic damage
+to nearby enemies,
+knocking them back
+and
+slowing
+them.
+The farther the lure flies, the larger the shark that is attracted, increasing the effects. The lure attaches to the first enemy champion that touches it,
+slowing
+them. The shark will
+knockup
+the target instead of knocking them back.
+Active:
+Fizz
+throws down a lure at the target location that attracts a shark, granting
+sight
+of the area before it emerges to chomp at the lure after 2 seconds, dealing
+magic damage
+to nearby enemies,
+knocking them back
+, though not through terrain, and
+slowing
+them for 2 seconds. The further the lure travels in its initial flight, the larger the shark that is attracted; increasing
+Chum the Waters'
+damage, slow, eruption radius and knock back distance.
+Guppy (<455):
+40% slow, 200 eruption radius and 150 unit knock back distance.
+Guppy Damage:
+150 / 250 / 350
+(+ 80% AP)
+Chomper (455-910):
+60% slow, 325 eruption radius and 250 unit knock back distance.
+Chomper Damage:
+225 / 325 / 425
+(+ 100% AP)
+Gigalodon (>910):
+80% slow, 450 eruption radius and 350 unit knock back distance.
+Gigalodon Damage:
+300 / 400 / 500
+(+ 120% AP)
+Enemy
+champions
+can intercept the lure while it is in flight, which attaches to them upon contact and causes the shark to emerge at their position after the same delay. The lure's holder is
+slowed
+and
+revealed
+for the duration and afterwards is impacted by the eruption but is
+knocked up
+for 1 second instead of knocked back.
+Chum the Waters will cast at max range if cast beyond that.
+"Feeding time!"
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+See Notes
+Chum the Waters
+will stop its movement if the lure collides with an enemy champion with a
+spell shield
+(does not attach) or upon colliding with
+Wind Wall
+(does not get destroyed).
+This ability will cast from wherever the caster is at the end of the cast time.
+The targeted area does not change unless the ability was cast beyond maximum range.
+If the lure attaches to an enemy champion, a countdown will appear at their position to signify when the shark is about to emerge. The countdown begins from 4, and ticks down by one every 0.5 second.
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 50 seconds at all ranks.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Fizz (Collection)
+.
+Original
+View in 3D
+880
+15.11.2011
+Fizz is an amphibious yordle, who dwells among the reefs surrounding Bilgewater. He often retrieves and returns the tithes cast into the sea by superstitious captains, but even the saltiest of sailors know better than to cross him—for many are the tales of those who have underestimated this slippery character. Often mistaken for some manner of capricious ocean spirit, he seems able to command the beasts of the deep, and delights in confounding his allies and enemies alike.
+Philece Sampler
+Kienan 'Knockwurst' Lafferty
+Loot eligible
+Chromas
+Original Fizz Chromas
+Blue
+Orange
+Red
+Atlantean
+View in 3D
+520
+15.11.2011
+“When I was very young, my grandfather told me stories of Atlantis—of their high temples and great undersea army, and their great General Fizz. Grandfather remembered it as it was, you see, and not the silent mausoleum it has become.”
+Philece Sampler
+Unknown artist
+Forgotten Depths
+Loot eligible
+New SFX/VFX
+Tundra
+View in 3D
+750
+15.11.2011
+Philece Sampler
+Unknown artist
+Legacy
+Loot eligible
+New SFX/VFX
+Fisherman
+View in 3D
+975
+01.04.2012
+Call me Fishmael.
+Philece Sampler
+Alex Konstad, Jon Neimeister, David Kegg, Dirty Iron
+Day Job
+Loot eligible
+New SFX/VFX
+Void
+View in 3D
+1350
+06.04.2014
+There's no disputing that Fizz is a deadly creature of the endless Void. But even in the Void, Fizz is widely considered to be extremely irritating for his love of bringing life into existence just to annoy the Watchers.
+Philece Sampler
+Unknown artist
+Curse of the Void
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Cottontail
+View in 3D
+975
+09.08.2015
+Rising from the fluffiest depths to crush all root vegetable cohorts, Fizz commands the greatest threat carrots have ever known—a killer rabbit with the foulest and cruelest of tempers.
+Philece Sampler
+Sixmorevodka Studio
+Cottontail
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Super Galaxy
+View in 3D
+1350
+25.05.2016
+Nobody is quite sure how Fizz graduated the Super Galaxy academy, but one thing's for certain: no other pilot (or space fish) can summon a mecha-gigalodon from seemingly out of nowhere. Not that anyone should in the first place…
+Philece Sampler
+Jojo So
+Super Galaxy
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Omega Squad
+View in 3D
+1350
+26.07.2017
+Omega Squad's saboteur, Fizz is skilled in underwater combat. It is unclear what kind of action he saw before joining up, however, as he only ever refers to the sea as “a big bucket of chum.”
+Philece Sampler
+Alex 'alexplank' Flores
+Omega Squad
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Omega Squad Fizz Chromas
+Obsidian
+Pearl
+Tanzanite
+Fuzz
+View in 3D
+1350
+27.03.2019
+Well, that's horrifying.
+Philece Sampler
+Horace 'Hozure' Hsu
+Cats Versus Dogs
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Prestige Fuzz
+View in 3D
+Special
+27.03.2019
+There's something deeply unnerving about a bipedal Cocker Spaniel mix running around society unchecked, stabbing pedestrians with a tennis ball grabber, and summoning other, bigger dogs out of the ground. And yet, here we all are. Together.
+Philece Sampler
+Rudy Siswanto
+Cats Versus Dogs
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Fuzz
+. Store variants are discounted for multiple purchases.
+Little Devil
+View in 3D
+1350
+22.10.2020
+Sea's a dwelling place for demons.
+Philece Sampler
+Lucas Parolin, West Studio
+Demonic
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Little Devil Fizz Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Prestige Fuzz (2022)
+View in 3D
+Special
+01.04.2022
+There's something deeply unnerving about a bipedal Cocker Spaniel mix running around society unchecked, stabbing pedestrians with a tennis ball grabber, and summoning other, bigger dogs out of the ground. And yet, here we all are. Together.
+Philece Sampler
+Rudy Siswanto
+Cats Versus Dogs
+Loot ineligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Prestige Fuzz
+. Store variants are discounted for multiple purchases.
+Astronaut
+View in 3D
+1350
+24.02.2023
+Fizz defied all expectations when he successfully tamed an invader meep and resisted its corruption through their link. His unique connection promoted him to captain, a status he uses to pull mischievous pranks on his team. But when he's not tormenting his favorite lieutenant, he's unleashing his tricks on corrupted evildoers to keep planet M33P safe.
+Philece Sampler
+Augusto Quirino, West Studio
+Astronauts
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Astronaut Fizz Chromas
+Amethyst
+Aquamarine
+Catseye
+Emerald
+Obsidian
+Rose Quartz
+Ruby
+Turquoise
+Rain Shepherd
+View in 3D
+1350
+26.06.2024
+The fiendish Fizz was so jealous of the magical singing voices frogs possess that he taught himself how to sing and summon the rains. Though earsplitting at first, before long his songs were drawing tears from his listeners. With his magical vocals, Fizz is now keen to rain on everyone's parades.
+Philece Sampler
+Rudy Siswanto
+Rain Shepherd
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Rain Shepherd Fizz Chromas
+Amethyst
+Aquamarine
+Citrine
+Emerald
+Meteorite
+Rose Quartz
+Ruby
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.22
+Urchin Strike
+AP ratio increased to
+55% AP
+from
+45% AP
+.
+Seastone Trident
+Active AP ratio increased to
+45% AP
+from
+40% AP
+.
+V14.2
+Urchin Strike
+AP ratio reduced to
+45% AP
+from
+50% AP
+.
+Seastone Trident
+Damage over time AP ratio per tick reduced to
+5% AP
+from
+6.
+67
+% AP
+.
+Total damage over time AP ratio reduced to
+30% AP
+from
+40% AP
+.
+New Effect:
+Damage is now applied to structures at 50% damage.
+Includes empowered attack, damage over time, and on-hit effects.
+Damage over time is not applied to inhibitors.
+V14.1
+- January 12th Hotfix
+Urchin Strike
+AP ratio reduced to
+50% AP
+from
+55% AP
+.
+Seastone Trident
+Active AP ratio reduced to
+40% AP
+from
+50% AP
+.
+V14.1
+Chum the Waters
+Bug Fix:
+Water VFX now shows for the player.
+V13.5
+Seastone Trident
+Mana restore increased to 30 / 40 / 50 / 60 / 70 from 20 / 28 / 36 / 44 / 52.
+Playful
+Base damage increased to 80 / 130 / 180 / 230 / 280 from 70 / 120 / 170 / 220 / 270.
+Mana cost reduced to 75 / 80 / 85 / 90 / 95 from 90 / 95 / 100 / 105 / 110.
+V13.4
+Urchin Strike
+Bug Fix:
+Now properly applies spell effects even while
+Seastone Trident
+wasn't learned yet.
+V12.19
+Playful
+AP ratio increased to
+90% AP
+from
+75% AP
+.
+V12.17
+Playful
+Bug Fix:
+Range indicator is now properly shown.
+V12.16
+General
+Updated visual effects.
+Original Fizz
+Complete overhaul.
+Atlantean Fizz
+,
+Tundra Fizz
+,
+Fisherman Fizz
+Same as new base, but with new effects for
+Seastone Trident
+and
+Chum the Waters
+.
+Void Fizz
+Complete overhaul.
+Cottontail Fizz
+Complete overhaul.
+Super Galaxy Fizz
+,
+Omega Squad Fizz
+,
+Fuzz Fizz
+,
+Prestige Fuzz Fizz
+,
+Little Devil Fizz
+New passive marker for
+Seastone Trident
+.
+V12.11
+Stats
+Health growth reduced to 106 from 112.
+Mana growth increased to 52 from 37.
+V12.10
+Stats
+Base health increased to 640 from 570.
+Health growth increased to 112 from 98.
+Armor growth increased to 4.
+6
+from 3.
+4
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+V11.23
+General
+Base voice lines have been remastered to sound clearer, cleaner, and smoother.
+V11.19
+Nimble Fighter
+Removed:
+Damage reduction against champion basic attacks is no longer increased to 8
+(+ 2% AP)
+.
+Seastone Trident
+On-hit base damage reduced to 10 / 15 / 20 / 25 / 30 from  20 / 25 / 30 / 35 / 40.
+Playful
+Cooldown reduced to 16 / 14 / 12 / 10 / 8 seconds from 16 / 14.
+5
+/ 13 / 11.
+5
+/ 10.
+Chum the Waters
+Guppy base damage increased to 150 / 250 / 350 from 150 / 225 / 300.
+Chomper base damage increased to 225 / 325 / 425 from 200 / 275 / 350.
+Gigalodon base damage increased to 300 / 400 / 500 from 250 / 325 / 400.
+Guppy AP ratio increased to
+80% AP
+from
+70% AP
+.
+Chomper AP ratio increased to
+100% AP
+from
+85% AP
+.
+Gigalodon AP ratio increased to
+120% AP
+from
+100% AP
+.
+V11.18
+Nimble Fighter
+New Effect:
+Damage reduction against champion basic attack is increased to 8
+(+ 2% AP)
+.
+Seastone Trident
+On-hit base damage increased to 20 / 25 / 30 / 35 / 40 from 10 / 15 / 20 / 25 / 30.
+Chum the Waters
+Guppy base damage reduced to 150 / 225 / 300 from 150 / 250 / 350.
+Chomper base damage reduced to 200 / 275 / 350 from 225 / 325 / 425.
+Gigalodon base damage reduced to 250 / 325 / 400 from 300 / 400 / 500.
+Guppy AP ratio reduced to
+70% AP
+from
+80% AP
+.
+Chomper AP ratio reduced to
+85% AP
+from
+100% AP
+.
+Gigalodon AP ratio reduced to
+100% AP
+from
+120% AP
+.
+V11.14
+Nimble Fighter
+Bug Fix:
+Now properly ignores unit collision even after dying.
+V11.10
+Seastone Trident
+Bug Fix:
+Fixed a bug where he was unable to gain
+Tear of the Goddess
+stacks when killing minions.
+V11.3
+- February 3rd Hotfix
+Playful
+Bug Fix:
+Fixed a bug where he was locked out of casting his other abilities until he casted
+Trickster
+.
+V11.1
+Stats
+Base attack damage reduced to 58 from 58.
+04
+.
+Base armor reduced to 22 from 22.
+412
+.
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.25
+Stats
+Mana growth reduced to 37 from 57.
+V10.24
+Seastone Trident
+Bug Fix:
+Can no longer trigger
+Tear of the Goddess'
+mana charge twice.
+V10.23
+Stats
+Mana growth increased to 57 from 37.
+V10.22
+Chum the Waters
+Bug Fix:
+SFX are no longer audible in Fog of War.
+V9.22
+Urchin Strike
+Bug Fix:
+Now properly breaks spell shields.
+V9.15
+- August 2nd Hotfix
+Nimble Fighter
+Undocumented:
+Base damage reduction increased to 4 from 3.
+V9.14
+- July 22nd Hotfix
+Nimble Fighter
+Undocumented:
+Base damage reduction reduced to 3 from 4.
+V9.14
+- July 19th Hotfix
+Nimble Fighter
+Base damage reduction increased to 4 from 3.
+V9.14
+- July 18th Hotfix
+Nimble Fighter
+Base damage reduction reduced to 3 from 4.
+V9.14
+Nimble Fighter
+Removed:
+No longer takes
+4 − 14 (based on level)
+less physical damage from basic attacks, applied before other modifiers.
+New Effect:
+Now takes 4
+(+ 1% AP)
+less damage from all sources of pre-mitigation damage, up to a maximum of 50% reduction.
+V8.16
+Seastone Trident
+Active AP ratio reduced to
+50% AP
+from
+60% AP
+.
+On-hit magic damage AP ratio reduced to
+35% AP
+from
+40% AP
+.
+Chum the Waters
+Guppy AP ratio reduced to
+80% AP
+from
+90% AP
+.
+Chomper AP ratio reduced to
+100% AP
+from
+110% AP
+.
+Gigalodon AP ratio reduced to
+120% AP
+from
+130% AP
+.
+V8.15
+Seastone Trident
+Active base damage increased to 50 / 70 / 90 / 110 / 130 from 40 / 50 / 60 / 70 / 80.
+Active AP ratio increased to
+60% AP
+from
+40% AP
+.
+On-hit magic damage AP ratio increased to
+40% AP
+from
+30% AP
+.
+Chum the Waters
+Guppy AP ratio increased to
+90% AP
+from
+60% AP
+.
+Chomper AP ratio increased to
+110% AP
+from
+90% AP
+.
+Gigalodon AP ratio increased to
+130% AP
+from
+120% AP
+.
+V8.14
+Urchin Strike
+Removed:
+No longer applies
+Seastone Trident's
+bleed effect to units it passes through.
+Still applies the bleed to its main target.
+Seastone Trident
+Active base damage increased to 40 / 50 / 60 / 70 / 80 from 20 / 30 / 40 / 50 / 60.
+Cooldown reduced to 7 / 6.
+5
+/ 6 / 5.
+5
+/ 5 seconds from 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8.
+Mana refund increased to 20 / 28 / 36 / 44 / 52 from 20 / 28 / 36 / 42 / 50.
+Removed:
+Basic attacks no longer marks the target for 6 seconds.
+Removed:
+Active no longer deals triple damage when hitting a mark-primed target.
+New Effect:
+If the active doesn't kill its target,
+Fizz
+gains 10 / 15 / 20 / 25 / 30
+(+ 30% AP)
+bonus
+on-hit magic damage for 5 seconds.
+Chum the Waters
+Removed:
+No longer applies
+Seastone Trident's
+bleed effect to the enemy the fish attaches to and all enemies affected by the emerging shark.
+V8.3
+Stats
+Base health regeneration reduced to 8 from 8.
+176
+.
+V7.22
+Stats
+Base health increased to 570 from 558.
+48
+.
+Health growth increased to 98 from 86.
+V7.18
+Chum the Waters
+Bug Fix:
+No longer attaches to spell-shielded champions at max range.
+V7.16
+Playful
+/
+Trickster
+Cooldown reduced to 16 / 14.
+5
+/ 13 / 11.
+5
+/ 10 seconds from 18 / 16 / 14 / 12 / 10.
+V7.10
+Seastone Trident
+Passive AP ratio increased to
+40% AP
+from
+33.
+3
+% AP
+.
+Active AP ratio increased to
+40% AP
+from
+33.
+3
+% AP
+.
+Charged active AP ratio increased to
+120% AP
+from
+100% AP
+.
+Passive and active base damage reduced to 20 / 30 / 40 / 50 / 60 from 25 / 40 / 55 / 70 / 85.
+Charged active base damage reduced to 60 / 90 / 120 / 150 / 180 from 75 / 120 / 165 / 210 / 255.
+V7.9
+Seastone Trident
+New Effect:
+Damage-over-time ticks, including the initial application, no longer count as spell hits (matching similar persistent effects like
+Teemo's
+Toxic Shot
+).
+V7.6
+Chum the Waters
+Bug Fix:
+Fixed a bug where it wouldn't slow enemies properly when the shark erupted.
+V7.5
+General
+Bug Fix:
+Intermediate bot now has a keystone mastery.
+Urchin Strike
+AP ratio increased to
+55% AP
+from
+35% AP
+.
+Seastone Trident
+Bleed duration reduced to 3 seconds from 4.
+Mark duration increased to 6 seconds from 4.
+Chum the Waters
+When fishes reach their target location without attaching to anything, the check for a nearby target to attach to is now less generous.
+Removed:
+Whiffed fishes are no longer picked up by enemies that walk over them.
+V7.1
+Chum the Waters
+Bug Fix:
+The nearby enemy knockback effect of
+Chum the Waters
+no longer knocks back spell shielded targets while still consuming the spell shield.
+V6.24
+Seastone Trident
+Bug Fix:
+Fixed a bug where
+Seastone Trident's
+cooldown wasn't refunded if it killed an enemy champion with a post-death form (ex.
+Karthus
+,
+Sion
+).
+Chum the Waters
+Whiffed fishes now display their attachment radius to enemies.
+Whiffed fishes now visually hop onto enemies they attach to, rather than instantly teleporting onto them.
+Fishes that can't attach to enemies (dropped after hitting a spell shield or when the original target dies) don't display the attachment ring and instead flop over onto their bellies.
+V6.23
+Playful
+/
+Trickster
+Bug Fix:
+Damage no longer fires if
+Fizz
+dies while on top of his pole.
+V6.22
+General
+New ability icons.
+Urchin Strike
+Cooldown reduced to 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6 seconds from 10 / 9 / 8 / 7 / 6.
+Mana cost reduced to 50 at all ranks from 50 / 55 / 60 / 65 / 70.
+Bug Fix:
+Sheen
+now properly activates when used on targets right next to
+Fizz
+.
+Seastone Trident
+Cooldown reduced to 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8 seconds from 10 at all ranks.
+Mana cost changed to 30 / 40 / 50 / 60 / 70 from 40 at all ranks.
+Base damage increased to 25 / 40 / 55 / 70 / 85 from 20 / 30 / 40 / 50 / 60.
+AP ratio reduced to
+33% AP
+from
+45% AP
+.
+Bleed duration increased to 4 seconds from 3.
+Removed:
+4 / 4.
+5
+/ 5 / 5.
+5
+/ 6% of target's missing health
+bonus damage on bleed.
+Removed:
+Active empowering
+Fizz's
+basic attacks for 6 seconds.
+New Effect:
+Now resets basic attack timer and empowers the next basic attack.
+Active base damage 25 / 40 / 55 / 70 / 85 from 10 / 15 / 20 / 25 / 30.
+Active AP ratio increased
+33% AP
+from
+30% AP
+.
+New Effect:
+If the target has been bleeding for at least 2 seconds, the bonus damage is tripled to 75 / 120 / 165 / 210 / 255
+(+ 100% AP)
+.
+New Effect:
+If the empowered attack kills a unit,
+Seastone Trident
+refunds
+20 / 28 / 36 / 42 / 50 mana
+and sets its cooldown to 1 second.
+New Effect:
+Active now grants 50 additional attack range.
+New Effect:
+Passive bleed is applied to all enemies
+Fizz
+passes through during
+Urchin Strike
+and to the enemy
+Chum the Waters
+sticks to.
+Playful
+New Effect:
+Now shows
+Fizz
+an indicator of the area damaged before he lands. Enemies see a red flash of this area after he lands.
+Mana cost reduced to 90 / 95 / 100 / 105 / 110 from 90 / 100 / 110 / 120 / 130.
+Bug Fix:
+Zhonya's Hourglass
+now properly delays
+Playful / Trickster's
+damage.
+Chum the Waters
+Delay before the shark pops out increased to 2 seconds from 1.
+5
+.
+Base slow reduced to 40% at all ranks from 50 / 60 / 70%.
+New Effect:
+The fish attach radius scales with distance.
+New Effect:
+The further the fish flies, the bigger the shark that is attracted, increasing its area of effect, dealing bonus damage, applying up to an 80% slow and increasing its knockback from 150 to up to 350.
+Base damage reduced to 150 / 250 / 350 from 200 / 325 / 450.
+AP ratio reduced to
+60% AP
+from
+100% AP
+.
+Maximum damage implemented at 300 / 400 / 500
+(+ 120% AP)
+after a 910 units distance.
+Removed:
+Increased magic damage.
+Removed:
+Placing the fish inside of terrain.
+Trivia
+[
+edit
+|
+edit source
+]
+If
+Chum the Waters
+deals the killing blow to a champion with a small model size (like
+Annie
+or a
+Yordle
+) their corpse is eaten and not visible on the map (doesn't work on
+Teemo
+for some reason)
+Fizz's
+Seastone Trident
+is seen alongside other champion weapons in the game's Mac Version trailer.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Assassin
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Assassins
+specialize in infiltrating enemy lines with their unrivaled mobility to quickly dispatch high-priority targets. Due to their mostly melee nature, Assassins must put themselves into dangerous positions in order to execute their targets. Luckily, they often have defensive tricks up their sleeves that, if used cleverly, allow them to effectively avoid incoming damage.
+Examples
+Akali
+Evelynn
+Zed
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Seastone Trident
+COOLDOWN:
+7 / 6.
+5
+/ 6 / 5.
+5
+/ 5
+Passive:
+Fizz
+basic attacks bleed his enemies, continually dealing
+magic damage
+.
+Active:
+Fizz
+empowers his next basic attack to deal
+bonus
+magic damage
+, and has an additional effect based on fatality.
+If this attack kills the target, the cooldown is
+reduced
+and the
+mana cost
+is refunded.
+If this attack does not kill the target,
+Fizz's
+basic attacks deal
+bonus
+magic damage
+for a few seconds.
+League of Legends content
+Chum the Waters
+COOLDOWN:
+100 / 85 / 70
+Active:
+Fizz
+tosses a lure in the target direction that lands on the ground, attracting a shark that erupts after a short delay, dealing
+magic damage
+to nearby enemies,
+knocking them back
+and
+slowing
+them.
+The farther the lure flies, the larger the shark that is attracted, increasing the effects.
+The lure attaches to the first enemy champion that touches it,
+slowing
+them. The shark will
+knockup
+the target instead of knocking them back.
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Persistent damage
+Persistent damage
+is the damage type dealt primarily by damage over time (DoT) abilities. Most sources of
+persistent damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+persistent damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 5% whenever you deal an instance of
+persistent damage
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Playful
+COOLDOWN:
+16 / 14 / 12 / 10 / 8
+Active:
+Fizz
+vaults
+in the target direction and balances onto his spear, becoming
+untargetable
+. From this position, Fizz can either slam the ground or choose to jump again with
+Trickster
+.
+Slamming the ground deals
+magic damage
+and
+slows
+nearby enemies.
+Trickster
+Active:
+Fizz
+vaults
+in the target direction and slams down, dealing
+magic damage
+to nearby enemies.
+This area is smaller than
+Playful
+.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Playful
+COOLDOWN:
+16 / 14 / 12 / 10 / 8
+Active:
+Fizz
+vaults
+in the target direction and balances onto his spear, becoming
+untargetable
+. From this position, Fizz can either slam the ground or choose to jump again with
+Trickster
+.
+Slamming the ground deals
+magic damage
+and
+slows
+nearby enemies.
+Trickster
+Active:
+Fizz
+vaults
+in the target direction and slams down, dealing
+magic damage
+to nearby enemies.
+This area is smaller than
+Playful
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Urchin Strike
+COOLDOWN:
+8 / 7.
+5
+/ 7 / 6.
+5
+/ 6
+Active:
+Fizz
+dashes
+through the target enemy, dealing
+magic damage
+,
+physical damage
+, and applying
+on-hit
+effects.
+League of Legends content
+Stasis (buff)
+A unit that enters
+stasis
+becomes
+invulnerable
+and
+untargetable
+, but also unable to control its movement, declare basic attacks, cast abilities, use summoner spells, or activate items.
+Bard's
+Tempered Fate
+and
+Syndra's
+Force of Will
+are the only
+stasis
+effects that are considered
+crowd control
+against enemies. Some effects treat friendly (self/ally applied) and hostile (enemy applied)
+stasis
+the same.
+References
+[
+edit
+|
+edit source
+]
+↑
+Fizz's profile page
+at
+LeagueOfLegends.com

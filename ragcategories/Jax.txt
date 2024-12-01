@@ -1,0 +1,2775 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Jax
+Grandmaster at Arms
+Release date
+2009-02-21
+Last changed
+V14.22
+Class(es)
+Skirmisher
+Legacy
+Fighter
+Assassin
+Position(s)
+Top
+Jungle
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+1350
+|
+585
+Crafting
++
+810
+Ratings
+Damage
+3
+Toughness
+2
+Control
+2
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Jax
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Jax
+Base statistics
+Edit
+Health
+665
++100
+Mana
+339
++52
+Health regen. (per 5s)
+8.5
++0.55
+Mana regen. (per 5s)
+7.6
++0.7
+Armor
+36
++4.2
+Attack damage
+68
++4.25
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+350
+Attack range
+125
+Attack speed
+Base AS
+0.638
+Attack windup
+20.811%
+AS ratio
+N/A
+Bonus AS
++3.4
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+400
+Special statistics
+Damage Dealt
++5%
+Damage Received
+-3%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++5%
+Damage Dealt
+-10%
+Damage Received
++15%
+Damage Dealt
+-5%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Relentless Assault
+Innate:
+Jax's
+basic attacks generate stacks, up to a cap. Stacks expire one at a time.
+Relentless Assault:
+For each stack,
+Jax
+gains
+bonus
+attack speed
+.
+Innate:
+Jax's
+basic attacks
+generate a
+stack
+of
+Relentless Assault
+on-attack
+for 2.
+5
+seconds, refreshing on subsequent attacks and stacking up to 8 times. Stacks expire by one every 0.
+25
+seconds when the duration ends.
+Relentless Assault:
+For each stack,
+Jax
+gains
+3.
+5
+% − 11% (based on level)
+bonus
+attack speed
+, up to a maximum of
+28% − 88% (based on level)
+.
+Grandmaster at Angling:
+While out-of-combat with champions and idle in the river for 10 seconds,
+Jax
+will occasionally catch a fish, granting him
+1
+and
+1 ability power
+for 5 seconds. He catches a fish at an average rate of one every 15 seconds. He also has a 5% chance to catch a
+rare fish that grants
+10
+and
+10 ability power
+for 5 seconds.
+Info
+Targeting input
+Passive
+Jax
+will start fishing while idle in the river if he is in-combat with only monsters (e.g. any of the three Epic monsters).
+(bug)
+Jax
+catching a fish is a random event and will play a special animation.
+The total number of fish caught during the game is displayed when fishing as
+Grandmaster at Angling
+passive.
+Edit
+Leap Strike
+COST:
+65 Mana
+COOLDOWN:
+8 / 7.
+5
+/ 7 / 6.
+5
+/ 6
+CAST TIME:
+none
+TARGET RANGE:
+700
+Active:
+Jax
+dashes
+to the target unit. If they are an enemy, he deals
+physical damage
+.
+Active:
+Jax
+dashes
+to the target unit's location.
+If the target is an enemy and they are in range upon arrival,
+Jax
+deals them
+physical damage
+.
+Physical Damage:
+65 / 105 / 145 / 185 / 225
+(+ 100%
+bonus
+AD)
+Jax
+can cast any of his
+abilities
+during the dash.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+See Notes
+Grounded
+Disabled
+Knockdown
+Interrupted
+Leap Strike
+cannot be cast on
+structures
+.
+If the target is an enemy champion,
+Jax
+will be ordered to basic attack them after the dash ends.
+Spell shield
+will block the damage, including when
+empowered
+.
+Edit
+Empower
+COST:
+30 Mana
+COOLDOWN
+:
+7 / 6 / 5 / 4 / 3
+CAST TIME:
+none
+Active:
+Jax's
+empowers his next basic attack or
+Leap Strike
+against an enemy to deal
+bonus
+magic damage
+.
+Active:
+Jax
+empowers his next
+basic attack
+or
+Leap Strike
+against an enemy within 10 seconds to deal
+bonus
+magic damage
+, reduced to 50% against
+structures
+. If
+Empower
+is used on a basic attack, it will gain
+50
+bonus
+range
+and have an
+uncancellable windup
+.
+Bonus Magic Damage:
+50 / 85 / 120 / 155 / 190
+(+ 60% AP)
+Empower
+resets
+Jax's
+basic attack timer.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Parries
+Blocked
+No additional details.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 30 / 55 / 80 / 105 / 130.
+Edit
+Counter Strike
+COST:
+50 / 60 / 70 / 80 / 90 Mana
+COOLDOWN
+:
+17 / 15 / 13 / 11 / 9
+CAST TIME:
+None
+EFFECT RADIUS:
+375
+Active:
+Jax
+enters
+Evasion
+for a short time: a defensive stance that causes him to
+dodge
+all incoming non-
+turret
+basic attacks and take reduced damage from all
+area of effect
+abilities from
+champions
+.
+Counter Strike
+can be recast within this time, and does so automatically after the duration.
+Recast:
+Jax
+deals
+magic damage
+and
+stuns
+nearby enemies, the damage is increased if he dodged more attacks.
+Active:
+Jax
+enters
+Evasion
+for 2 seconds: a defensive stance that causes him to
+dodge
+all incoming non-
+turret
+basic attacks and take 25% reduced damage from all
+area of effect
+abilities from
+champions
+.
+Counter Strike
+can be recast after 1 second, and does so automatically after the duration.
+Recast:
+Jax
+deals
+magic damage
+to nearby enemies, with the
+total
+damage increased by 20% for each attack dodged, up to a 100% increase, and
+stuns
+them for 1 second.
+Minimum Magic Damage:
+40 / 70 / 100 / 130 / 160
+(+ 70% AP)
+(+ 3.
+5
+% of target's
+maximum
+health)
+Maximum Magic Damage:
+80 / 140 / 200 / 260 / 320
+(+ 140% AP)
+(+ 7% of target's
+maximum
+health)
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+The initial cast and the manual recast count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Counter Strike
+will also dodge abilities that can trigger
+on-hit effects
+(
+Parrrley
+,
+Mystic Shot
+) which will count towards
+Counter Strike's
+increased damage. There are exceptions of abilities that
+Counter Strike
+will not dodge but will dodge the damage from
+on-hit effects
+that they trigger (
+Alpha Strike
+,
+Piercing Darkness
+).
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 20 / 18.
+5
+/ 17 / 15.
+5
+/ 14 seconds.
+Edit
+Grandmaster-At-Arms
+COST:
+100 mana
+COOLDOWN
+:
+110 / 100 / 90
+CAST TIME:
+0.
+25
+EFFECT RADIUS:
+375
+Passive:
+Jax's
+basic attacks generate stacks. At max stacks, he consumes them to deal
+bonus
+magic damage
+.
+Active:
+Jax
+swings his lantern around, dealing
+magic damage
+to nearby enemies. If this hits a champion, he gains
+bonus
+resistances. He applies his passive on-hit every 2 stacks instead of every 3 while active.
+Passive:
+Jax's
+basic attacks
+generate a stack of
+Grandmaster-At-Arms
+on-hit
+for 2.
+5
+seconds, refreshing on subsequent hits and stacking up to 2 times. At 2 stacks, his next basic attack
+on-hit
+is empowered to consume them all to deal
+bonus
+magic damage
+, reduced to 50% against
+structures
+. While
+Grandmaster-At-Arms
+is active, the empowered attack triggers at 1 stack instead.
+Bonus Magic Damage:
+70 / 120 / 170
+(+ 60% AP)
+Active:
+Jax
+swings his lantern around, dealing
+magic damage
+to nearby enemies. If this hits a champion, he gains
+bonus
+armor
+, increased for each champion hit beyond the first, and
+bonus
+magic resistance
+equal to 60% of that amount as well as 10% increased
+size
+for 8 seconds.
+Magic Damage:
+100 / 175 / 250
+(+ 100% AP)
+Bonus Armor:
+25 / 50 / 75
+(+ 40%
+bonus
+AD)
+Bonus Magic Resistance:
+15 / 30 / 45
+(+ 24%
+bonus
+AD)
+Bonus Armor per Champion Hit:
+20 / 25 / 30
+(+ 10%
+bonus
+AD)
+Bonus Magic Resistance per Champion Hit:
+12 / 15 / 18
+(+ 6%
+bonus
+AD)
+Info
+Targeting input
+Auto
+Damage type
+Type
+See Notes
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Parries
+See Notes
+The attack bonus deals
+proc damage
+. The swing deals
+area damage
+.
+The bonus resistances are represented by a glowing aura around
+Jax
+that grows with each enemy champion hit beyond the first.
+Jax
+can move during
+Grandmaster-At-Arms'
+cast time.
+The
+bonus
+magic damage
+can be
+dodged
+and
+blocked
+but it cannot
+miss
+.
+Spell shield
+will only block the bonus damage from the third attack if it is
+empowered
+.
+The empowered attack will trigger but not be consumed nor apply its effects against
+wards
+.
+Stacks will still be generated when attacking them.
+This ability will cast from wherever the caster is at the end of the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+Passive base damage changed to 50 / 90 / 130.
+Active base damage changed to 100 / 175 / 250.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Jax (Collection)
+.
+Original
+View in 3D
+585
+21.02.2009
+Unmatched in both his skill with unique armaments and his biting sarcasm, Jax is the last known weapons master of Icathia. After his homeland was laid low by its own hubris in unleashing the Void, Jax and his kind vowed to protect what little remained. As magic now rises in the world, this slumbering threat stirs once more, and Jax roams Valoran, wielding the last light of Icathia and testing all warriors he meets to see if any are strong enough to stand beside him…
+Erik Braa
+Foritis Wang, Pandart Studio
+Loot eligible
+The Mighty
+View in 3D
+520
+12.02.2010
+The hockey prodigy known as Jax is feared throughout the tournament circuit for his incredible reflexes and ability to kill a man with any object. There are rumors he used to be a defense attorney, but nobody knows for certain.
+Erik Braa
+Lejia Chan, Kudos Productions
+Winter Sports
+Loot eligible
+Legacy
+Vandal
+View in 3D
+520
+24.02.2010
+A wandering warrior feared by the wasteland's many roving gangs, Jax casually strolls across miles of broken highway with a two-by-four and a few rusty nails, crushing the heads of anyone he happens to run into. It gets just as ugly as it sounds.
+Erik Braa
+Jiunn Kuo, Kudos Productions
+Vandal
+Loot eligible
+Legacy
+Angler
+View in 3D
+975
+08.06.2010
+Nothing quite like the peace of the great outdoors, waiting for that perfect bite—and then violently ripping a fish out of the water before hitting it with his fishing rod.
+Erik Braa
+Unknown artist
+Day Job
+Loot eligible
+Legacy
+New SFX/VFX
+PAX
+View in 3D
+Special
+26.03.2010
+A special event skin given away at PAX East 2010, PAX Prime 2010, and PAX East 2011.
+Erik Braa
+Yuyu Wong, Kudos Productions
+PAX
+Loot ineligible
+Jaximus
+View in 3D
+975
+10.05.2011
+In a fighters' colosseum, Jax's victories were celebrated by a young kid and dedicated fan, Joe. Jax found that Joe himself was an incredible warrior, far braver than anyone Jax had met. Joe gave Jax the nickname “Jaximus,” a title he heartily accepted. “Here's to you, kid,” declared Jax as he charged into battle, hoisting the lamplight in Joe's honor.
+Erik Braa
+Herbie Wang, Kudos Productions
+Legacy
+Loot eligible
+Additional/unique quotes
+New SFX/VFX
+Temple
+View in 3D
+750
+15.11.2011
+Jax's search for inner peace brought him to many temples and the tutelage of various martial masters. His fiery attitude got him in trouble often, but Jax learned to appreciate the schooling. Tempering his battle prowess with a serene, strategic mind, Jax now faces every fight with a renewed unity of mind, body, and spirit.
+Erik Braa
+Roanna Peroz, Kudos Productions
+Legacy
+Loot eligible
+Nemesis
+View in 3D
+975
+14.09.2012
+No one knows what lies beneath the glowing mask. Human, monster, or something more, it wields a violet lantern-mace and travels from conflict to conflict. Yet it always seems to fight on the side of benevolence. Through myths told by wanderers and night merchants, it has become a figure of legend: a phantasm of the dark, standing against darkness.
+Erik Braa
+Lejia Chan, Kudos Productions
+Legacy
+Loot eligible
+New SFX/VFX
+Chromas
+Nemesis Jax Chromas
+Amber
+Brick
+Cream
+SKT T1
+View in 3D
+750
+04.05.2014
+Honoring Impact's winning performance as Jax during the 2013 World Championship.
+Erik Braa
+Bo Lu
+World Champions: 2013
+Loot eligible
+Legacy
+Warden
+View in 3D
+750
+30.09.2015
+A lone Warden claims to have lived since the destruction of the original Protectorate. While few records can back up his claims, Jax believes the Rune War began with the failure of a legal body founded to curtail political power—when this institute faltered, the fate of all was sealed.
+Erik Braa
+Sixmorevodka Studio
+Warden
+Loot eligible
+God Staff
+View in 3D
+1350
+11.01.2018
+The God Staff was once an earthly champion, who searched fruitlessly for a weapon worthy of his power. At the twilight of his life, he finally came across a staff glowing with the light of the gods—granting him immortality, and even greater strength.
+Erik Braa
+Jojo So
+Immortal Journey
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Mecha Kingdoms
+View in 3D
+1820
+15.01.2020
+Famed as the greatest weapons master in all the land, Jax has been itching for a proper weapon, and a proper fight. When the best minds of the Estercrest Kingdom came together—using strange technology seemingly gifted to them by the heavens—to construct an indomitable Avalon, Jax was finally impressed. He welcomes the leviathan invasion, hoping these monstrous foes will prove to be the challenge he has been searching for his entire life.
+Erik Braa
+Bo 'chenbowow' Chen
+Mecha Kingdoms
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+Mecha Kingdoms Jax Chromas
+Peacekeeper
+Pearl
+Peridot
+Rose Quartz
+Ruby
+Conqueror
+View in 3D
+1350
+29.04.2021
+Celebrating MSI 2021 in Reykjavík.
+Erik Braa
+Foritis Wang, West Studio
+Conqueror
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Prestige Conqueror
+View in 3D
+Special
+29.04.2021
+Celebrating MSI 2021 in Reykjavík.
+Erik Braa
+Foritis Wang, West Studio
+Conqueror
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Conqueror
+. Store variants are discounted for multiple purchases.
+Empyrean
+View in 3D
+1350
+03.11.2022
+Hailing from a realm where he failed to protect his kingdom from annihilation, Jax was content to live in exile, until everything collapsed. Now an Empyrean, he knows that somewhere out there his kingdom is still intact. Even if it destroys him, he'll use all of his power to see his home one more time.
+Erik Braa
+Bo 'chenbowow' Chen
+Empyrean
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Empyrean Jax Chromas
+Catseye
+Citrine
+Emerald
+Neon Flare
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+Neo PAX
+View in 3D
+Special
+11.10.2023
+A special event Skin celebrating PAX and Jax's 2023 visual update.
+Erik Braa
+Jiunn Kuo, Kudos Productions
+PAX
+Loot ineligible
+New SFX/VFX
+This skin is a variant of
+PAX
+. Store variants are discounted for multiple purchases.
+PROJECT
+View in 3D
+1350
+06.03.2024
+An ancient warrior whose lifespan was extended through experimental tech, Jax once defended the city's outskirts from the horrors of PROJECT's control. His hopes for the future were crushed, however, when Mordekaiser's virus forced him to purge his own people. The only flame that now lights his path is revenge.
+Erik Braa
+Ina Wong, West Studio
+PROJECT
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+PROJECT: Jax Chromas
+Amethyst
+Catseye
+Emerald
+Obsidian
+Ruby
+Sandstone
+Sapphire
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.22
+Grandmaster-At-Arms
+Cooldown increased to 110 / 100 / 90 seconds from 100 / 90 / 80.
+Base damage reduced to 100 / 175 / 250 from 150 / 250 / 350.
+V14.18
+Grandmaster-At-Arms
+On-hit base damage increased to 70 / 120 / 170 from 60 / 110 / 160.
+Bonus armor increased to 25 / 50 / 75 from 15 / 40 / 65.
+Bonus magic resistance increased to 15 / 30 / 45 from 9 / 24 / 39.
+Bonus armor per subsequent target increased to 20 / 25 / 30 from 15 / 20 / 25.
+Bonus magic resistance per subsequent target increased to 12 / 15 / 18 from 9 / 12 / 15.
+V14.14
+Empower
+Bug Fix:
+Empowered attack no longer sometimes fails to apply against towers.
+Counter Strike
+Cooldown increased to 17 / 15 / 13 / 11 / 9 seconds from 15 / 13.
+5
+/ 12 / 10.
+5
+/ 9.
+Grandmaster-At-Arms
+Bug Fix:
+Restored empowered attack SFX when attacking structures.
+V14.10
+Grandmaster-At-Arms
+Bug Fix:
+Cast indicator now matches with the correct range of 375.
+Bug Fix:
+Ability power and attack damage from conversions and adaptive force is now properly included in the ratio calculations.
+V14.9
+General
+Adjusted splash artwork for
+SKT T1 Jax
+.
+V14.7
+Relentless Assault
+Bug Fix:
+Restored all respective buff icons.
+V14.5
+Neo PAX Jax
+Bug Fix:
+Idle fish VFX now appear as intended while he is in the river.
+V14.2
+Empower
+New Effect:
+Empowered attack is now consumed against structures for 50% damage.
+Counter Strike
+Minimum base damage reduced to 40 / 70 / 100 / 130 / 160 from 55 / 85 / 115 / 145 / 175.
+Maximum base damage reduced to 80 / 140 / 200 / 260 / 320 from 110 / 170 / 230 / 290 / 350.
+Minimum health ratio reduced to
+3.
+5
+% of target's
+maximum
+health
+from
+4%
+.
+Maximum health ratio reduced to
+7% of target's
+maximum
+health
+from
+8%
+.
+Grandmaster-At-Arms
+New Effect:
+Passive stacks can now be consumed against structures to deal 50% damage.
+V13.23
+General
+Adjusted splash artwork and model for
+The Mighty Jax
+.
+V13.22
+Empower
+Bug Fix:
+Now uses the correct animation for the attack rather than the default one when he has any passive stacks.
+Empyrean Jax
+Bug Fix:
+Flame VFX is no longer misplaced during his
+Recall
+animation.
+V13.21
+General
+Bug Fix:
+Several VFX and SFX issues resulting from the ASU have been resolved.
+Counter Strike
+Undocumented:
+Now deals the proper amplified amount of damage again if
+Jax
+recasts it manually.
+V13.20
+- October 11th Hotfix
+Counter Strike
+Bug Fix:
+Cooldown increased to 15 / 13.
+5
+/ 12 / 10.
+5
+/ 9 seconds from 14 / 12.
+5
+/ 11 / 9.
+5
+/ 8.
+Grandmaster-At-Arms
+Bug Fix:
+Mana cost increased to 100 from 50.
+V13.20
+- Visual Update
+General
+Updated ability icons.
+Complete visual update across all skins.
+New splash artwork for
+Original Jax
+,
+The Mighty Jax
+,
+Vandal Jax
+,
+Angler Jax
+,
+PAX Jax
+,
+Jaximus
+,
+Temple Jax
+, and
+Nemesis Jax
+.
+New voice-over.
+Updated sound effects.
+Relentless Assault
+New Effect:
+Catching a fish now grants 1 AP for 5 seconds.
+New Effect:
+Now has a 5% chance to catch a rare fish that grants
+10
+and
+10 ability power
+for 5 seconds.
+Empower
+Undocumented:
+Empowered basic attacks now have an
+uncancellable windup
+.
+Counter Strike
+Undocumented:
+Cooldown reduced to 14 / 12.
+5
+/ 11 / 9.
+5
+/ 8 seconds from 15 / 13.
+5
+/ 12 / 10.
+5
+/ 9.
+(note)
+Undocumented:
+Now always deals the minimum damage if
+Jax
+manually recasts it.
+(bug)
+Mecha Kingdoms Jax
+Counter Strike
+Bug Fix:
+VFX ring no longer remains for longer than intended after dodging multiple hits.
+Grandmaster-At-Arms
+Undocumented:
+Mana cost reduced to 50 from 100.
+(note)
+V13.19
+Counter Strike
+Bug Fix:
+VFX is no longer visible to enemies from the Fog of War.
+Grandmaster-At-Arms
+Bug Fix:
+VFX is no longer visible to enemies from the Fog of War.
+Warden Jax
+Bug Fix:
+Cape and shoulder armor no longer improperly clip with his model during certain animations.
+V13.17
+Mecha Kingdoms Jax
+Counter Strike
+Bug Fix:
+VFX no longer displays for longer than intended after dodging multiple hits in a single cast.
+V13.16
+General
+Bug Fix:
+Several issues with voice line playback have been resolved.
+V13.15
+Mecha Kingdoms Jax
+Counter Strike
+Bug Fix:
+VFX indicator no longer remains after the fact even if multiple hits were dodged during the ability.
+V13.14
+Counter Strike
+Cooldown increased to 15 / 13.
+5
+/ 12 / 10.
+5
+/ 9 seconds from 14 / 12.
+5
+/ 11 / 9.
+5
+/ 8.
+Grandmaster-At-Arms
+Mana cost increased to 100 from 50.
+V13.4
+Stats
+Base health reduced to 665 from 685.
+Health growth increased to 100 from 99.
+Counter Strike
+AP ratio reduced to
+70% AP
+from
+100% AP
+.
+New Effect:
+Now increases total damage per attack dodged instead of only base damage.
+Grandmaster-At-Arms
+On-hit base damage reduced to 60 / 110 / 160 from 80 / 120 / 160.
+Base bonus armor reduced to 15 / 40 / 65 from 25 / 45 / 65.
+Base bonus magic resistance reduced to 9 / 24 / 39 from 15 / 27 / 39.
+V13.3
+Grandmaster-At-Arms
+Shield visual effect restored.
+Improved hit sound effect.
+Bug Fix:
+Now properly plays all sound effects.
+Nemesis Jax
+Lightning visual effects added to
+Grandmaster-At-Arms
+.
+God Staff Jax
+Sparkle and spike visual effects added to
+Grandmaster-At-Arms
+.
+Adjusted cape animation to reduced stiffness.
+Updated
+Grandmaster-At-Arms'
+passive empowered attack animation.
+Bug Fix:
+No longer returns to his idle animation between attacks.
+Mecha Kingdoms Jax
+Ember explosion visual effects added to
+Grandmaster-At-Arms
+.
+Adjusted visual effects for
+Empower
+and
+Grandmaster-At-Arms'
+on-hit.
+Bug Fix:
+Now properly plays
+Grandmaster-At-Arms'
+reactive shield visual effect.
+Bug Fix:
+Now properly plays
+Grandmaster-At-Arms'
+rank up animation.
+Bug Fix:
+Now properly plays
+Counter Strike's
+unique basic attack animations.
+Bug Fix:
+Grandmaster-At-Arms'
+stacks now properly play at their intended speed.
+Conqueror Jax
+Spike visual effects added to
+Grandmaster-At-Arms
+.
+Prestige Conqueror Jax
+Spike visual effects added to
+Grandmaster-At-Arms
+.
+V13.1
+- Gameplay Update
+General
+Updated ability icons.
+Secret fishing passive added.
+Leap Strike
+Removed:
+Damage no longer scales with
+60% AP
+.
+Counter Strike
+Damage type changed to magic from physical.
+Base damage increased to 55 / 85 / 115 / 145 / 175 from 55 / 80 / 105 / 130 / 155.
+Removed:
+Damage no longer scales with
+50%
+bonus
+AD
+.
+New Effect:
+Damage now scales with
+100% AP
+.
+New Effect:
+Damage now scales with
+4% of the target's
+maximum
+health
+.
+New Effect:
+Now only increases base damage per attack dodged instead of total damage.
+Grandmaster-At-Arms
+Ability renamed to
+Grandmaster-At-Arms
+from
+Grandmaster's Might
+.
+Cooldown increased to 100 / 90 / 80 seconds from 80 at all ranks.
+On-hit base damage reduced to 80 / 120 / 160 from 100 / 140 / 180.
+On-hit AP ratio reduced to
+60% AP
+from
+70% AP
+.
+New Active:
+Swings his lantern around, dealing 150 / 250 / 350
+(+ 100% AP)
+magic damage
+to enemies within 375 units. If this hits a champion, he gains 25 / 45 / 65
+(+ 40%
+bonus
+AD)
+bonus
+armor
+, increased by 15 / 20 / 25
+(+ 10%
+bonus
+AD)
+per subsequent champion hit, and
+bonus
+magic resistance
+equal to 60% of armor gained for 8 seconds. He applies his passive on-hit every 2 stacks instead of every 3 while active.
+Old Active:
+Gains 30 / 50 / 70
+(+ 50%
+bonus
+AD)
+bonus
+armor
+and 30 / 50 / 70
+(+ 20% AP)
+bonus
+magic resistance
+as well as 10% increased
+size
+for 8 seconds.
+Updated animations, visual effects, and sound effects.
+Undocumented:
+Mana cost reduced to 50 from 100.
+V12.22
+Stats
+Base mana regeneration increased to 7.
+6
+from 7.
+58
+.
+V12.10
+Stats
+Base health increased to 685 from 615.
+Health growth increased to 99 from 85.
+Armor growth increased to 4.
+2
+from 3.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+V12.6
+Stats
+Base health increased to 615 from 593.
+Empower
+Base damage increased to 50 / 85 / 120 / 155 / 190 from 40 / 75 / 110 / 145 / 180.
+V11.5
+Stats
+Attack damage growth increased to 4.
+25
+from 3.
+38
+.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+Base health increased to 593 from 592.
+8
+.
+Attack damage growth increased to 3.
+38
+from 3.
+375
+.
+V10.23
+Stats
+Mana growth increased to 52 from 32.
+V10.16
+Counter Strike
+Cooldown reduced to 14 / 12.
+5
+/ 11 / 9.
+5
+/ 8 seconds from 16 / 14 / 12 / 10 / 8.
+V10.13
+Leap Strike
+Bug Fix:
+Damaging with
+Leap Strike
+followed by two basic attacks will now properly activate
+Phase Rush
+and
+Electrocute
+.
+V10.8
+Empower
+Indicator added to show recast ability timer.
+Counter Strike
+Indicator added to show recast ability timer.
+V10.1
+Grandmaster's Might
+Bug Fix:
+The
+bonus
+damage now triggers
+on-hit
+instead of
+on-attack
+.
+V9.16
+Leap Strike
+Cooldown reduced to 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6 seconds from 10 / 9 / 8 / 7 / 6.
+V9.9
+General
+New visual effects.
+Basic attack cleaned up and added some oomph.
+Leap Strike
+Cleaned up for readability.
+Empower
+Activation made more visible and fire added to his lamppost.
+Counter Strike
+Cleaned up and added an indicator for the stun range.
+Grandmaster's Might
+Cleaned up, added sand particles, and made the third hit more clear and satisfying.
+Nemesis Jax
+New particles over the entire kit.
+God Staff Jax
+Counter Strike
+Added stun range indicator to match changes to base.
+V9.2
+Stats
+Base attack damage reduced to 68 from 69.
+97
+.
+Leap Strike
+Base damage reduced to 65 / 105 / 145 / 185 / 225 from 80 / 120 / 160 / 200 / 240.
+V9.1
+Grandmaster's Might
+New Effect:
+Ability icon HUD now shows the remaining duration of the ability.
+V8.24
+Grandmaster's Might
+Passive base damage reduced to 100 / 140 / 180 from 100 / 160 / 220.
+V8.4
+Counter Strike
+Bug Fix:
+Fixed a bug where the buff could take up to 0.
+25
+seconds to take effect.
+V8.3
+Stats
+Base health regeneration increased to 8.
+5
+from 8.
+374
+.
+V8.2
+Leap Strike
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V7.22
+Stats
+Base attack damage increased to 70 from 61.
+97
+.
+Base armor increased to 36 from 27.
+04
+.
+Leap Strike
+Base damage increased to 80 / 120 / 160 / 200 / 240 from 70 / 110 / 150 / 190 / 230.
+Counter Strike
+Minimum base damage increased to 55 / 80 / 105 / 130 / 155 from 50 / 75 / 100 / 125 / 150.
+V7.19
+General
+Bug Fix:
+Fixed a bug where he was causing games to crash under specific circumstances.
+V7.16
+Grandmaster's Might
+Removed:
+On-hit bonus damage procing against wards.
+V7.12
+Empower
+New Effect:
+Now grants 50
+bonus
+range.
+V7.11
+Counter Strike
+Bug Fix:
+Fixed a number of visual bugs with
+Counter Strike
+across various skins.
+V7.10
+General
+New Effect:
+Basic attack, empowered attack, and crit animations have been improved across all skins to better match the moment damage is applied and generally feel more responsive.
+V7.8
+Leap Strike
+Bug Fix:
+Fixed a bug where
+Jax
+could not use
+Blast Cone
+plant after casting
+Leap Strike
+.
+V7.5
+General
+New Effect:
+Altered cast frames on
+Jax's
+basic attacks to be more visually consistent.
+Empower
+New Effect:
+Attack now always uses crit animation.
+Counter Strike
+New Effect:
+Resized
+Counterstrike
+hit particle and did some rotation/swirl editing to more accurately convey the range and shape of effect.
+Grandmaster's Might
+New Effect:
+Once he levels his ultimate,
+Jax
+cycles consistently through his different basic attack animations.
+V6.11
+Relentless Assault
+Stack fall-off changed to one at a time from all at once.
+V6.7
+General
+Splash artwork for
+Temple Jax
+updated to the Chinese art.
+V6.3
+Relentless Assault
+Maximum stacks increased to 8 from 6.
+Per-stack bonus attack speed reduced to
+3.
+5
+− 11 (based on level)
+% from
+4 − 14 (based on level)
+%.
+Maximum bonus attack speed increased to
+28 − 88 (based on level)
+% from
+24 − 84 (based on level)
+%.
+V5.22
+Stats
+Base mana increased to 338.
+8
+from 288.
+8
+.
+Mana growth reduced to 32 from 35.
+V5.17
+Counter Strike
+Mana cost reduced to 50 / 60 / 70 / 80 / 90 from 70 / 75 / 80 / 85 / 90.
+V5.12
+Grandmaster's Might
+Bonus armor/magic resistance increased to 30 / 50 / 70 from 20 / 35 / 50.
+V4.21
+Counter Strike
+Cooldown reduced to 16 / 14 / 12 / 10 / 8 seconds from 18 / 16 / 14 / 12 / 10.
+Grandmaster's Might
+Bonus armor/magic resistance changed to 20 / 35 / 50 from 25 / 35 / 45.
+Bonus armor AD ratio increased to
+50% bonus AD
+from
+30%
+.
+V4.13
+Stats
+Basic attack animation speed increased by 19%.
+V4.11
+Stats
+Base health reduced to 535 from 561.
+Health per level reduced to 85 from 98.
+Armor per level reduced to 3 from 3.
+5
+.
+V4.5
+Stats
+Base armor increased to 22 from 18.
+V1.0.0.152
+Stats
+Movement speed increased to 350 from 325.
+V1.0.0.143
+General
+New splash artwork for
+Original Jax
+.
+Counter Strike
+Bug Fix:
+Dodge interaction with
+Shen
+.
+V1.0.0.141
+General
+Splash artwork for
+Original Jax
+,
+The Mighty Jax
+and
+Vandal Jax
+updated to the Chinese art.
+V1.0.0.140b
+Empower
+Base damage reduced to 40 / 75 / 110 / 145 / 180 from 40 / 85 / 130 / 175 / 220.
+V1.0.0.139
+Counter Strike
+Bug Fix:
+Stunning through
+spell shields
+.
+V1.0.0.138
+Relentless Assault
+New Effect:
+Jax gains stacks even if his attacks miss or are dodged.
+V1.0.0.136
+Stats
+Health per level increased to 98 from 88.
+Counter Strike
+Radius increased to 375 from 350.
+Grandmaster's Might
+Removed:
+bonus attack damage and bonus ability power upon activation.
+New Effect:
+Upon activation Jax gains 25 / 35 / 45
+(+ 30% bonus AD)
+bonus armor and 25 / 35 / 45
+(+ 20% AP)
+bonus magic resistance.
+Mana cost: 100.
+Cooldown: 80 seconds.
+V1.0.0.135
+Grandmaster's Might
+Bug Fix:
+Passive's enhanced third attack being canceled if active's duration ran out during attack animation.
+V1.0.0.133
+Stats
+Mana regen per level increased to 0.
+7
+from 0.
+45
+.
+Empower
+Bug Fix:
+Cooldown at early ranks being higher than intended.
+Counter Strike
+Dodge duration increased to 2 seconds from 1.
+5
+New Effect:
+Reduces area-of-effect damage by 25% for the duration.
+New Effect:
+Can be reactivated earlier after 1 second of casting.
+Damage changed to 50 / 75 / 100 / 125 / 150
+(+ 50% Bonus AD)
+from 40 / 70 / 100 / 130 / 160
+(+ 80% Bonus AD)
+.
+Bonus damage changed to 20% per attack dodged (up to 100) from 10 / 15 / 20 / 25 / 30 per dodge.
+Cooldown reduced to 18 / 16 / 14 / 12 / 10 seconds from 22 / 20 / 18 / 16 / 14.
+Grandmaster's Might
+Duration increased to 8 seconds from 6.
+V1.0.0.132
+Gameplay Update
+General
+New joke animation.
+Splash artwork for
+Angler Jax
+and
+PAX Jax
+and updated to the Chinese art.
+Stats
+Base health increased to 551 from 506.
+Health per level increased to 88 from 83.
+Armor per level increased to 3.
+5
+from 3.
+2
+.
+Relentless Assault
+(Innate), remade from old ultimate.
+Every time Jax attacks an enemy, he gains
+4 − 14 (based on level)
+% increased attack speed (stacks up to 6 times).
+Leap Strike
+(Q)
+Base damage increased to 70 / 110 / 150 / 190 / 230 from 20 / 45 / 70 / 95 / 120.
+AP ratio reduced to
+60% AP
+from
+70% AP
+.
+Cooldown changed to 10 / 9 / 8 / 7 / 6 seconds from 13 / 11 / 9 / 7 / 5.
+Empower
+(W)
+Base damage changed to 40 / 85 / 130 / 175 / 220 from 60 / 95 / 130 / 165 / 200.
+Removed:
+40% AD ratio
+AP ratio increased to
+60% AP
+from
+40% AP
+.
+Mana cost increased to 30 from 20.
+Cooldown reduced to 7 / 6 / 5 / 4 / 3 seconds from 9 / 8 / 7 / 6 / 5.
+Counter Strike
+(E)
+Jax dodges all incoming basic attacks for 1.
+5
+seconds. At the end of the effect, Jax deals physical damage, increased by 10 / 15 / 20 / 25 / 30 for each dodge over the duration, and stuns nearby enemies for 1 second.
+Removed:
+Passive dodge chance, on-dodge stun trigger, on-hit stun upon activation, AP ratio.
+Base damage reduced to 40 / 70 / 100 / 130 / 160 from 80 / 110 / 140 / 170 / 200.
+New:
+Damage has a
++80% bonus AD
+ratio.
+Grandmaster's Might
+(Ultimate)
+Every third consecutive attack passively deals 100 / 160 / 220
+(+ 70% AP)
+bonus magic damage.
+Active:
+For 6 seconds, Jax gains 25 / 45 / 65
+(+ 20% bonus AD)
+bonus attack damage and 25 / 45 / 65
+(+ 20% AP)
+bonus ability power.
+V1.0.0.124
+Leap Strike
+Base damage reduced to 20 / 45 / 70 / 95 / 120 from 35 / 60 / 85 / 110 / 135.
+Empower
+Base damage reduced to 60 / 95 / 130 / 165 / 200 from 75 / 110 / 135 / 180 / 215.
+New Effect:
+Breaks
+spell shields
+.
+V1.0.0.123
+General
+Bug Fix:
+Jax's attacks being undodgeable.
+Leap Strike
+New Effect:
+Jax will attempt to attack enemy targets after landing on them.
+V1.0.0.122
+Leap Strike
+Base damage reduced to 35 / 60 / 85 / 110 / 135 from 50 / 75 / 100 / 125 / 150.
+AD ratio increased to
+100% AD
+from
+(70% AD
+.
+V1.0.0.121
+Leap Strike
+New Effect:
+Jax can target wards but they will be revealed for 2 seconds if so.
+V1.0.0.120
+Leap Strike
+AD ratio reduced to
+70% AD
+from
+100% AD
+.
+Removed:
+Targeting wards.
+V1.0.0.118
+Leap Strike
+Removed:
+Jax not being able to use abilities mid-leap.
+V1.0.0.114
+Leap Strike
+New Effect:
+Targeting will prioritize enemies over allies when they overlap.
+V1.0.0.111
+General
+Ability tooltips updated.
+V1.0.0.110
+General
+Bug Fix:
+Jax sometimes losing health while leveling up.
+V1.0.0.109
+Leap Strike
+Cooldown reduced to 13 / 11 / 9 / 7 / 5 seconds from 17 / 14 / 11 / 8 / 5.
+Counter Strike
+New Effect:
+Brighter particle when Jax has recently dodged an attack and the stun is ready.
+V1.0.0.104
+Empower
+Bug Fix:
+Interaction with
+Rylai's Crystal Scepter
+.
+V1.0.0.103
+General
+Recommended items updated.
+Equipment Mastery
+Tooltip updated to dynamically display bonus health gain.
+Leap Strike
+AP ratio reduced to
+(+ 70% AP)
+from
+(+ 80% AP)
+.
+Cast time reduced by 20%.
+Speed increased by 20%.
+Empower
+Base damage increased to 75 / 110 / 145 / 180 / 215 from 40 / 60 / 80 / 100 / 120.
+AD ratio increased to
+(+ 40% AD)
+from
+(+ 20% AD)
+.
+AP ratio increased to
+(+ 40% AP)
+from
+(+ 20% AP)
+.
+Cooldown increased to 9 / 8 / 7 / 6 / 5 seconds from 5 at all ranks.
+Mana cost reduced to 20 from 35.
+Tooltip updated to display correct damage type (physical instead of the intended magic).
+Bug Fix:
+Dealing less damage when used together with
+Leap Strike
+and with each third hit from
+Relentless Assault
+.
+Removed:
+Cleave damage
+Targeting changed to single from area-of-effect.
+New Effect:
+Resets Jax's basic attack timer on-cast.
+Counter Strike
+Base damage increased to 80 / 110 / 140 / 170 / 200 from 80 / 100 / 120 / 140 / 160.
+Relentless Assault
+Removed:
+Damage, AP ratio.
+New Effect:
+Upon activation Jax gains 20 / 35 / 50 (+ dodge chance) bonus magic resistance for 5 / 6.
+5
+/ 8 seconds.
+New Effect:
+Buff icon dynamically displays number of stacks.
+Tooltip updated to display correct maximum number of stacks (10).
+Mana cost: 80
+Cooldown: 60
+V1.0.0.101
+Counter Strike
+New Effect:
+Buff icon displays duration.
+V1.0.0.94(b)
+Stats
+Movement speed reduced to 325 from 330.
+Health per level reduced to 83 from 86.
+V1.0.0.94
+Empower
+Cooldown changed to 5 seconds at all ranks from 7 / 6 / 5 / 4 / 3.
+V1.0.0.87
+Equipment Mastery
+Bug Fix:
+Jax being healed when receiving bonus damage (
+Guinsoo's Rageblade
+,
+Eye of the Storm
+)
+Leap Strike
+Bug Fix:
+Jax targeting himself.
+V1.0.0.83
+Stats
+Armor per level reduced to 3.
+2
+from 4.
+Equipment Mastery
+Bonus health per item AD reduced to
+3
+from
+4
+.
+Leap Strike
+Removed:
+Casting while rooted.
+Empower
+Tooltip updated.
+V1.0.0.82
+Leap Strike
+AP ratio reduced to
+80% AP
+from
+100% AP
+.
+Counter Strike
+AP ratio reduced to
+60% AP
+from
+80% AP
+.
+Relentless Assault
+AP ratio reduced to
+70% AP
+from
+100% AP
+.
+V1.0.0.81
+General
+New in-client 'upon selection' line.
+V1.0.0.79
+Equipment Mastery
+Bonus health per item AD reduced to
+4
+from
+5
+.
+Bonus health per item AP reduced to
+2
+from
+3
+.
+Empower
+Base damage reduced to 40 / 60 / 80 / 100 / 120 from 45 / 65 / 85 / 105 / 125.
+New Effect:
+Has
+(+ 20% AD)
+and
+(+ 20% AP)
+ratios.
+V1.0.0.75
+Stats
+Base mana increased to 235 from 215
+Mana per level increased to 35 from 30
+Equipment Mastery
+-
+New I
+Jax's prowess with weapons and armor increases his fortitude, gaining
+5 per AD
+and
+3 per AP
+bonus health when purchasing items.
+Leap Strike
+New Effect:
+Jax can target and subsequently jump to allies.
+Empower
+Removed:
+Power-up timer
+New Effect:
+Jax instantly charges his weapon with energy, causing him to deal 45 / 65 / 85 / 105 / 125 damage to all enemies nearby on his next basic attack.
+Cooldown increased to 7 / 6 / 5 / 4 / 3 seconds from 1 at all ranks.
+Mana cost changed to 35 at all ranks from 40 / 35 / 30 / 25 / 20.
+V1.0.0.72
+Leap Strike
+Bug Fix:
+Damage sometimes failing to land when interacting with targets in brush.
+V1.0.0.63
+Leap Strike
+Responsiveness for after-cast movement updated to allow Jax to move much sooner after striking.
+Responsiveness for after-cast attacking unchanged.
+V1.0.0.61
+Leap Strike
+Moved to Q from W.
+Cooldown reduced to 17 / 14 / 11 / 8 / 5 seconds from 21 / 17 / 13 / 9 / 5.
+Empower
+Moved to W from Q.
+Cleave damage increased to 60% from 50%.
+Power-up timer reduced to 3 seconds from 4.
+Damage per second increased to 25 / 35 / 45 / 55 / 65 from 20 / 25 / 30 / 35 / 40.
+V0.9.22.16
+Empower
+Removed:
+Interaction with critical strikes.
+Bug Fix:
+Not triggering.
+Counter Strike
+AP ratio reduced to
+80% AP
+from
+100% AP
+.
+Dodge chance reduced to 10 / 12 / 14 / 16 / 18% from 10 / 12.
+5
+/ 15 / 17.
+5
+/ 20%.
+Cooldown increased to 4.
+5
+seconds from 4.
+Relentless Assault
+Per-stack bonus attack speed reduced to 6 / 10 / 14% from 8 / 12 / 16%.
+V0.9.22.15
+Leap Strike
+Bonus damage increased to 50 / 75 / 100 / 125 / 150 from 30 / 60 / 90 / 120 / 150.
+New Effect:
+Jax gains a slight movement speed boost upon landing.
+Counter Strike
+Dodge chance increased to 10 / 12.
+5
+/ 15 / 17.
+5
+/ 20% from 8 / 11 / 14 / 17 / 20%.
+Relentless Assault
+Base damage reduced to 140 / 170 / 210 from .
+Hits for trigger reduced to 3 from 4.
+New Effect:
+Can be held across targets for up to 2.
+5
+seconds.
+V0.9.22.7
+Stats
+Movement speed increased to 325 from 315.
+V0.8.22.115
+Stats
+Base armor increased to 22 from 18.
+Health per level increased to 86 from 78.
+Counter Strike
+Cooldown reduced to 4 seconds from 5.
+On-dodge stun trigger duration increased to 7 seconds from 4.
+July 10, 2009 Patch
+Empower
+Damage growth changed to per level from based on cleave damage.
+Leap Strike
+Removed:
+Triggering double hits.
+Relentless Assault
+Bug Fix:
+Interaction with monsters.
+June 12, 2009 Patch
+Counter Strike
+AP ratio increased to
+100% AP
+from
+50% AP
+.
+Relentless Assault
+Tooltip updated to display the intended
+(+ 100% AP)
+ratio.
+May 15, 2009 Patch
+Weapon Mastery
+Bonus damage from items changed to 15% at all levels from 10 / 15 / 20 / 25%.
+Empower
+Removed:
+Triggering item effects (
+Spellblade
+,
+Mana Charge
+) to accommodate their respective internal cooldowns.
+April 11, 2009 Patch
+Empower
+Removed:
+Bonus damage interaction with critical strikes.
+Bug Fix:
+Lasting longer than intended.
+Leap Strike
+Mana cost increased to 65 from 50.
+Cooldown increased to 22 / 18 / 14 / 10 / 6 seconds from 21 / 17 / 13 / 9 / 5.
+Counter Strike
+Dodge chance reduced to 8 / 11 / 14 / 17 / 20% from 8 / 12 / 16 / 20 / 24%.
+Mana cost increased to 60 from 50.
+Relentless Assault
+Removed:
+Stacking on hitting structures.
+Removed:
+On-hit stacking bonus attack speed while active.
+New Effect:
+Jax passively gains stacking bonus attack speed with every basic attack landed on a target, up to a maximum.
+Base damage reduced to 150 / 200 / 250 from 150 / 225 / 300.
+Alpha Week 7
+General
+Ability tooltips updated.
+Removed:
+Excessive 'Dodged!' notifications.
+Counter Strike
+New Effect:
+Particle.
+Trivia
+[
+edit
+|
+edit source
+]
+Jax's eyes are blue.
+Jax was likely inspired by
+Garet Jax
+, "The Weapons Master" of the
+Sword of Shannara Trilogy
+. He was adept with any weapon and was undefeated in combat, though he often wielded a sword and cudgel.
+In the
+V1.0.0.115
+(
+April Fools' Day
+) patch,
+Wriggle's Lantern
+was given the following joke passive, referencing
+Jax's
+usage of a lamp post (which is functionally similar to a lantern) as a weapon:
+New
+Unique Passive
+: Taunts nearby
+Jaxes
+(both enemy and allied).
+In the now-removed official League of Legends
+forums
+, the
+original icon
+of
+Relentless Assault
+was used to represent the "Off Topic Discussion" section.
+The old icon art of
+Grandmaster's Might
+features a stunned soldier who was directly mirrored from the
+original icon
+for
+Time Bomb
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Skirmisher
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Skirmishers
+(also known as Duelists) aim to shred through any nearby enemy that approaches. Because Skirmishers lack high-end burst damage or reliable ways of closing in on high-priority targets, they are instead armed with situationally powerful defensive tools to survive in the fray, along with extreme sustained damage to cut down even the most durable targets.
+Examples
+Fiora
+Jax
+Yasuo
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Relentless Assault
+Innate:
+Jax's
+basic attacks generate stacks, up to a cap. Stacks expire one at a time.
+Relentless Assault:
+For each stack,
+Jax
+gains
+bonus
+attack speed
+.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Empower
+COOLDOWN:
+7 / 6 / 5 / 4 / 3
+Active:
+Jax's
+empowers his next basic attack or
+Leap Strike
+against an enemy to deal
+bonus
+magic damage
+.
+League of Legends content
+Leap Strike
+COOLDOWN:
+8 / 7.
+5
+/ 7 / 6.
+5
+/ 6
+Active:
+Jax
+dashes
+to the target unit. If they are an enemy, he deals
+physical damage
+.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Parrrley
+COOLDOWN:
+4.
+5
+Active:
+Gangplank
+shoots the target enemy with his pistol, dealing
+physical damage
+and applying
+on-hit
+and
+on-attack
+effects.
+If this attack kills the target, he gains
+gold
+and
+Silver Serpents
+.
+League of Legends content
+Mystic Shot
+COOLDOWN:
+5.
+5
+/ 5.
+25
+/ 5 / 4.
+75
+/ 4.
+5
+Active:
+Ezreal
+fires a bolt of energy that deals
+physical damage
+to the first enemy hit.
+If the bolt hits an enemy, all of
+Ezreal's
+ability cooldowns are
+reduced
+.
+Mystic Shot
+applies
+on-hit
+and
+on-attack
+effects.
+League of Legends content
+Alpha Strike
+COOLDOWN:
+20 / 19.
+5
+/ 19 / 18.
+5
+/ 18
+Active:
+Master Yi
+briefly
+vanishes
+and marks the target enemy, then rapidly marks up to 3 other nearby enemies. If there are no other eligible targets before then,
+Master Yi
+can mark the same enemies again.
+Upon finishing marking, he
+reappears
+and detonates the marks, dealing
+physical damage
+and applying
+on-hit
+effects. Subsequent marks on a target have less effect.
+Basic attacks
+reduce
+Alpha Strike's
+cooldown.
+League of Legends content
+Piercing Darkness
+COOLDOWN:
+15
+Active:
+Senna
+fires a spectral laser toward the target unit,
+healing
+herself and allied
+champions
+hit while dealing
+physical damage
+and
+slowing
+enemies hit for a short time.
+Piercing Darkness'
+cooldown is
+reduced
+on-hit
+.
+Piercing Darkness
+applies
+life steal
+and
+on-hit
+effects.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Jax's profile page
+at
+LeagueOfLegends.com

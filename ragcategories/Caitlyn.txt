@@ -1,0 +1,3301 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Caitlyn
+the Sheriff of Piltover
+Release date
+2011-01-04
+Last changed
+V14.23
+Class(es)
+Marksman
+Legacy
+Marksman
+Position(s)
+Bottom
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Store price
+450
+|
+260
+Crafting
++
+270
+Ratings
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Caitlyn
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Caitlyn
+Base statistics
+Edit
+Health
+580
++107
+Mana
+315
++40
+Health regen. (per 5s)
+3.5
++0.55
+Mana regen. (per 5s)
+7.4
++0.7
+Armor
+27
++4.7
+Attack damage
+60
++3.8
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+325
+Attack range
+650
+Attack speed
+Base AS
+0.681
+Attack windup
+17.708%
+AS ratio
+0.625
+Bonus AS
++4
+%
+Missile speed
+2500
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+800
+Special statistics
+Damage Dealt
++0%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Headshot
+SPEED:
+3000
+Innate:
+Caitlyn's
+basic attacks generate stacks of
+Count
+. At maximum stacks, her next
+basic attack
+will fire a
+Headshot
+dealing
+bonus
+physical damage
+that scales with her
+critical strike chance
+. On
+trapped
+or
+netted
+targets, she gains another
+Headshot
+at extra
+attack range
+.
+Innate:
+Caitlyn's
+basic attacks generate a
+stack
+of
+Count
+on-attack
+, doubled if she is within
+brush
+. At 5 stacks, or 4 while in
+brush
+, her next
+basic attack
+consumes all stacks
+on-attack
+to become a
+Headshot
+.
+Headshot:
+Caitlyn's
+basic attack is empowered to have an
+uncancellable windup
+and deal
+60 / 90 / 120% (based on level)
+(+
+(148.
+75
+% +
+34%
+)
+critical strike chance)
+AD
+bonus
+physical damage
+, increased to
+110 / 115 / 120% (based on level)
+(+
+(148.
+75
+% +
+34%
+)
+critical strike chance)
+AD
+against non-champions.
+Enemies that step over a
+Yordle Snap Trap
+or are hit by
+90 Caliber Net
+can grant an additional
+Headshot
+against them at
+1300 range
+within 1.
+8
+seconds, without consuming stacks. Each method grants only one
+Headshot
+at a time.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Basic damage
+Sub-type
+Physical
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Projectile
+Blocked
+If
+Caitlyn's
+current target becomes trapped by
+Yordle Snap Trap
+or
+90 Caliber Net
+while her attack is on cooldown, this ongoing cooldown will be refunded partially so that her next attack on them can begin earlier.
+Swapping the target to an enemy trapped by
+Yordle Snap Trap
+or
+90 Caliber Net
+also reduces her ongoing attack cooldown.
+PENDING FOR TEST:
+: The exact attack cooldown refund appears to be 50% of the attack cooldown at current attack speed, but at a minimum amount it lets
+Caitlyn
+start the attack against the trapped target within 0.
+5
+seconds of her previous attack windup completing.
+The bonus range from
+Rapid Firecannon
+will not have any effect during
+trap
+and
+net
+extended
+Headshot
+attacks.
+Only the ordinary
+100% attack damage
+portion of the attack can critically strike. The bonus from
+Headshot
+is added after the critical strike is rolled.
+The full damage of
+Headshot
+applies
+life steal
+.
+Headshot
+is a single instance of damage, thus does not trigger
+Amumu's
+Tantrum's
+or
+Warden's Mail
+passives twice.
+The basic attack triggering
+Headshot
+can
+critically strike
+, but
+Headshot's
+damage remains unchanged if it does.
+Since
+Caitlyn's
+Art and Sustainability Update, Ability-granted
+Headshots
+are the same as the original
+Headshot
+override attack, though what lets them cast at high range is still relatively special. They trigger
+on-attack
+effects (including stacking
+Headshot
+).
+PENDING FOR TEST:
+Runaan's Hurricane's
+Wind's Fury
+, is special cased to search targets with the increased range as well.
+Because
+Headshot
+stacks are generated
+on-attack
+,
+Runaan's Hurricane
+bolts will not generate stacks towards
+Headshot
+.
+The empowered attack will not trigger against
+wards
+.
+Stacks will still be generated towards
+Headshot
+when attacking them.
+Video
+Edit
+Piltover Peacemaker
+COST:
+55 / 60 / 65 / 70 / 75 mana
+COOLDOWN:
+10 / 9 / 8 / 7 / 6
+CAST TIME:
+0.
+625
+RANGE:
+1300 /
+1240
+WIDTH:
+120
+/
+180
+SPEED:
+2200
+Active:
+Caitlyn
+revs up her rifle to unleash a penetrating shot that deals
+physical damage
+to enemies hit. The projectile expands after the first target but also deals less damage.
+Active:
+Caitlyn
+fires a piercing shot in the target direction that deals
+physical damage
+to the first enemy it passes through, after which it expands in width but deals only 60% damage to enemies it hits thereafter.
+Physical Damage:
+50 / 90 / 130 / 170 / 210
+(+ 125 / 145 / 165 / 185 / 205% AD)
+Reduced Damage:
+30 / 54 / 78 / 102 / 126
+(+ 75 / 87 / 99 / 111 / 123% AD)
+Enemies
+revealed
+by
+Yordle Snap Trap
+always take
+full damage
+from
+Piltover Peacemaker
+.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Enemies hit while protected by a
+spell shield
+will still be considered a target for calculating damage for subsequent hits.
+This ability will cast from wherever the caster is at the start of the cast time.
+Video
+Edit
+Yordle Snap Trap
+COST:
+20 Mana + 1 Charge
+COOLDOWN:
+0.
+5
+CAST TIME:
+0.
+25
+RECHARGE:
+26 / 22 / 18 / 14 / 10
+TARGET RANGE:
+800
+COLLISION RADIUS:
+15
+Active:
+Caitlyn
+sets a trap at the target location that lasts for a while. The trap springs when an enemy champion steps on it,
+revealing
+and
+rooting
+them.
+Caitlyn
+periodically
+stocks
+a charge of
+Yordle Snap Trap
+, up to a cap. The next
+Headshot
+against a trapped target will deal
+bonus
+physical damage
+.
+Active:
+Caitlyn
+sets a visible trap at the target location that is
+untargetable
+and arms after 1 second, lasting for a duration. The trap grants
+sight
+of the area for 1 second after being placed.
+Trap Duration:
+30 / 35 / 40 / 45 / 50 seconds
+Caitlyn
+periodically
+stocks
+a
+Yordle Snap Trap
+charge, up to a maximum amount. Deploying traps beyond the maximum destroys the oldest one.
+Maximum Number of Traps:
+3 / 3 / 4 / 4 / 5
+The next enemy champion that springs the trap is
+rooted
+for 1.
+5
+seconds and
+revealed
+for 3 seconds, as well as takes additional damage from the
+Headshot
+granted by this ability. Trapped targets become immune to further
+Yordle Snap Traps
+for 3 seconds, preventing them from springing subsequent traps for the duration.
+Headshot
+Damage Increase:
+40 / 85 / 130 / 175 / 220
+(+ 40%
+bonus
+AD)
+Info
+Targeting input
+Location
+Counters
+Spell shield
+Blocked
+Immunity vs
+Airborne
+moveblocks and
+Kinematics
+?:
+Multiple armed traps on the same location will spring all at once if an enemy steps on one of them.
+Video
+Edit
+90 Caliber Net
+COST:
+75 mana
+COOLDOWN:
+16 / 14 / 12 / 10 / 8
+CAST TIME:
+0.
+15
+RANGE:
+800 /
+740
+EFFECT RADIUS:
+140
+SPEED:
+1600
+Active:
+Caitlyn
+fires a heavy net that
+slows
+the first target hit and deals
+magic damage
+to them. Firing the net causes her to
+recoil
+back.
+Active:
+Caitlyn
+fires a net in the target direction and
+recoils
+390 units in the opposite direction. The net deals
+magic damage
+to the first enemy hit and
+slows
+them by 50% for 1 second.
+Magic Damage:
+80 / 130 / 180 / 230 / 280
+(+ 80% AP)
+Caitlyn
+will not dash backwards if she is
+immobilized
+or
+grounded
+during the cast time. She can cast any of her
+abilities
+during the dash.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+This ability will cast from wherever the caster is at the end of the cast time.
+The recoil can be used to pass through terrain.
+If
+Caitlyn
+buffers
+Piltover Peacemaker
+during
+90 Caliber Net's
+cast time,
+Piltover Peacemaker
+will start after the cast time.
+If
+Caitlyn
+buffers an ability or
+basic attack
+during this ability's cast time, the buffered ability or basic attack will instead start after the dash ends.
+Other abilities can be cast while
+dashing
+if they are input after the cast time.
+90 Caliber Net's
+missile will fail to fire if
+Caitlyn
+is
+suppressed
+during the cast time.
+(note)
+Video
+Edit
+Ace in the Hole
+COST:
+100 mana
+COOLDOWN
+:
+90
+CAST TIME:
+0.
+375
+TARGET RANGE:
+3500
+WIDTH:
+80
+SPEED:
+3200
+Active:
+Caitlyn
+targets an enemy champion and takes time to line up the perfect shot, dealing massive
+physical damage
+to them at a huge range. The target's allied
+champions
+can intercept the shot for them.
+Active:
+Caitlyn
+locks onto the target enemy champion and
+channels
+for 1 second,
+revealing
+them as well as
+revealing
+herself.
+Ace in the Hole
+is placed on a 5-second
+cooldown
+if canceled.
+Once
+Caitlyn
+completes the channel, she fires a homing bullet toward the target that deals
+physical damage
+to the first enemy champion it hits, increased by
+0% − 50% (based on critical strike chance)
+.
+Physical damage:
+300 / 500 / 700
+(+ 100%
+bonus
+AD)
+"In my sights."
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Disruption
+Interrupted
+The following will cancel
+Ace in the Hole's
+channel (mana expenditure is not compensated):
+Caitlyn
+is
+interrupted
+.
+The target becomes
+untargetable
+.
+Caitlyn
+or her target
+dies
+.
+Ace in the Hole
+reveals the target and
+Caitlyn
+through a buff that lasts for up to 4 seconds.
+The buff is applied to the target from the start of the cast time.
+The buff ends prematurely when the channel is canceled or the bullet hits an enemy.
+The target is revealed for 1 second if the buff is ended prematurely.
+It is not removed if the cast time is cancelled or the bullet missile is destroyed.
+(note)
+The ability also goes on a 5-second
+cooldown
+if
+Caitlyn
+enters
+resurrection
+during the cast time.
+The cast time does not end prematurely but the channel will be immediately canceled the moment the cast time completes.
+If the target dies after the bullet has been fired, the shot will continue towards their corpse and may still hit other enemy champions.
+The bullet has a
+sight
+radius of 1500 attached to it.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+This excludes losing sight of the target.
+The following table refers for interactions while
+Caitlyn
+is
+channeling
+:
+Type
+Channel
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death
+Cast-inhibiting effects
+Video
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Caitlyn (Collection)
+.
+Original
+View in 3D
+880
+04.01.2011
+Renowned as its finest peacekeeper, Caitlyn is also Piltover’s best shot at ridding the city of its elusive criminal elements. She is often paired with Vi, acting as a cool counterpoint to her partner’s more impetuous nature. Even though she carries a one-of-a-kind hextech rifle, Caitlyn’s most powerful weapon is her superior intellect, allowing her to lay elaborate traps for any lawbreakers foolish enough to operate in the City of Progress.
+Kirsten Potter
+Jason Chan
+Loot eligible
+Chromas
+Original Caitlyn Chromas
+Blue
+Green
+Pink
+Resistance
+View in 3D
+520
+04.01.2011
+Caitlyn has never forgiven herself for letting Viktor's rise to power go unchecked for so long. Determined to fire the shot that ends the war for good, she has personally gunned down hundreds of Battlecast machines in her bloody search for absolution.
+Kirsten Potter
+Forrest Imel, West Studio
+Battlecast
+Loot eligible
+Sheriff
+View in 3D
+520
+04.01.2011
+The Old West lies far outside the government's jurisdiction, leaving local peacekeepers to enforce whatever passes for justice on the high frontier. As lone sheriff of the town of Progress, Caitlyn has found that the arm of the law is roughly as long as the range of her rifle.
+Kirsten Potter
+Huyy Nguyen, West Studio
+High Noon
+Loot eligible
+Legacy
+Safari
+View in 3D
+975
+10.05.2011
+When she isn't attending galas or teaching seminars, Dr. Caitlyn Kiramman can be found exploring ancient ruins in search of historical artifacts. Armed with her trusty rifle, a wealth of esoteric knowledge, and an accident-prone Ezreal, she braves the most mysterious places in the world to bring long-dead civilizations and their secrets into the light.
+Kirsten Potter
+Jiunn Kuo, West Studio
+Legacy
+Loot eligible
+Legacy
+New SFX/VFX
+Arctic Warfare
+View in 3D
+750
+29.12.2011
+Very few snipers can cut it on the Arctic front. The cold is unforgiving, the winds are harsh, and any who dare brave the tundra find themselves at the mercy of Caitlyn, a sniper with deadly aim and a killer instinct.
+Kirsten Potter
+Félix Donadio, West Studio
+Arctic Ops
+Loot eligible
+Officer
+View in 3D
+975
+05.10.2011
+Most people assume that Caitlyn is the "good cop" between her and Vi. What they don't know is that her sharp eyes, quick wit, and dedication make her one of the toughest officers on the force. She doesn't mind being underestimated, especially if it gives her the upper hand.
+Kirsten Potter
+Edward Chee, West Studio
+Cops and Robbers
+Loot eligible
+New SFX/VFX
+Headhunter
+View in 3D
+975
+03.09.2014
+Caitlyn's arsenal of alien weaponry isn't meant to level the playing field. It's to ensure that every hunt, every target, and every shot she takes goes exactly the way she wants it to.
+Kirsten Potter
+Michelle Hoefener
+Headhunter
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Lunar Wraith
+View in 3D
+1350
+27.01.2016
+A malignant spirit said to appear during Lunar Revel, Caitlyn is known to meddle in the affairs of gods and mortals alike. Her attention has been catastrophic to all who draw it, and even seeing her is considered an ill omen.
+Kirsten Potter
+Unknown artist
+Lunar Revel
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Lunar Wraith Caitlyn Chromas
+Golden
+Pulsefire
+View in 3D
+1820
+24.05.2017
+A legendary chrono-law enforcer feared in every age, Caitlyn's mission is to protect the fragile enigma that is time. Those who dare threaten its integrity inevitably find themselves firmly locked in the sights of her temporal plasma blaster.
+Kirsten Potter
+Pan Chengwei
+Pulsefire
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Transforming
+Chromas
+Pulsefire Caitlyn Chromas
+Chrono
+Pool Party
+View in 3D
+1350
+02.08.2018
+For Caitlyn, nothing says a perfect summer's day like lounging at a luxurious poolside, eating shaved ice and drinking tropical libations. And shooting people. She really loves shooting people.
+Kirsten Potter
+Bo 'chenbowow' Chen
+Pool Party
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Pool Party Caitlyn Chromas
+Aquamarine
+Catseye
+Obsidian
+Rose Quartz
+Ruby
+Arcade
+View in 3D
+1350
+28.06.2019
+Acclaimed hero of the “Sniper Cop” rail shooter series, Caitlyn enforced the laws of Arcadia prior to the Battle Boss uprising. She brings her sharp eye and eager trigger finger to the fight to save her world, only stopping long enough to flick her gun off-screen for a reload.
+Kirsten Potter
+Jeremy 'Jermu' Anninos
+Arcade: Heroes
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Prestige Arcade
+View in 3D
+Special
+28.06.2019
+Appearing most recently in “Sniper Cop 7” as a golden-clad secret character, Caitlyn's popularity has finally transcended games as a medium.
+Kirsten Potter
+Malex Zhang, Kudos Productions
+Arcade: Heroes
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Arcade
+. Store variants are discounted for multiple purchases.
+Battle Academia
+View in 3D
+1820
+18.03.2021
+A feared and respected second year, head of the Luminary Club, and class president of Labrys God-Weapon Academy. Caitlyn enrolled herself in the famously troubled school specifically to whip the delinquents there into prime fighting shape, hoping to one day become the greatest battlefield general in history. With her perfect record, she's not too far off.
+Kirsten Potter
+Viktoria Gavrilenko, West Studio
+Battle Academia
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Transforming
+Chromas
+Battle Academia Caitlyn Chromas
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Arcane Enforcer
+View in 3D
+975
+22.11.2021
+Celebrating the RiotX Arcane event.
+Kirsten Potter
+Francis Tneh, West Studio
+Arcane
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Prestige Arcade (2022)
+View in 3D
+Special
+01.04.2022
+Appearing most recently in “Sniper Cop 7” as a golden-clad secret character, Caitlyn's popularity has finally transcended games as a medium.
+Kirsten Potter
+Malex Zhang, Kudos Productions
+Arcade: Heroes
+Loot ineligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Prestige Arcade
+. Store variants are discounted for multiple purchases.
+Snow Moon
+View in 3D
+1350
+23.06.2022
+A tool of chilling acuity, Caitlyn is the Snow Moon's most elite sniper. It was her craving for a calculating nature, stripped of the moorings of sympathy, that drew her to serve. There was once warmth in her heart; in dreams, she sees a figure, wild and untamed, in a world not meant for her.
+Kirsten Potter
+Alex 'alexplank' Flores
+Snow Moon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Snow Moon Caitlyn Chromas
+Catseye
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Heartthrob
+View in 3D
+1350
+10.02.2023
+I hate the way you walk around, like you're Princess Caitlyn of the mall, and I'm just some gutter rat. I hate the way you look at me when there's no one else around, but wouldn't be caught dead with me in town. Maybe our whole thing was just a huge mistake. So if you want me to go, I'm gone. But ask, and I will stay. -Vi
+Kirsten Potter
+Francis Tneh, West Studio
+Heartthrobs and Heartaches
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Heartthrob Caitlyn Chromas
+Amethyst
+Obsidian
+Peridot
+Rose Quartz
+Ruby
+Sandstone
+Sapphire
+Turquoise
+DRX
+View in 3D
+1350
+01.06.2023
+Honoring Deft's winning performance as Caitlyn during the 2022 World Championship.
+Kirsten Potter
+Horace 'Hozure' Hsu
+World Champions: 2022
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+DRX Caitlyn Chromas
+Elite
+Arcane Commander
+View in 3D
+1350
+20.11.2024
+Driven by a newfound desire for revenge, Caitlyn's principles have crumbled, leaving no room for hope or peace as tensions with Zaun continue to escalate. Her single-minded focus is on bringing Jinx to justice. But beneath the grief and guilt, doubt begins to creep in: is the cost of vengeance truly worth it?
+Kirsten Potter
+Pandart Studio
+Arcane
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Arcane Commander Caitlyn Chromas
+Paragon
+Prestige Arcane Commander
+View in 3D
+Special
+20.11.2024
+As scion of the Kiramman family, Caitlyn knows how to command respect from the moment she enters a room—not only with her sharp appearance, but her even-sharper gaze as well. Having climbed the ranks to lead the city's enforcers, she makes an even stronger asset to the future of Piltover.
+Kirsten Potter
+Roanna Peroz, Kudos Productions
+Arcane
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+This skin is a variant of
+Arcane Commander
+. Store variants are discounted for multiple purchases.
+Prestige Arcane Commander Caitlyn Chromas
+Stellar
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.23
+Ace in the Hole
+Bonus AD ratio reduced to
+100%
+bonus
+AD
+from
+150%
+.
+V14.20
+Stats
+Attack speed ratio increased to 0.
+625
+from 0.
+61
+.
+Piltover Peacemaker
+Damage against secondary targets increased to 60% from 50%.
+V14.17
+Stats
+Attack speed ratio increased to 0.
+61
+from 0.
+594
+.
+Yordle Snap Trap
+Recharge reduced to 26 / 22 / 18 / 14 / 10 seconds from 30 / 24 / 19 / 15 / 12.
+Now scales linearly.
+V14.11
+Stats
+Attack speed ratio increased to 0.
+594
+from 0.
+568
+.
+Yordle Snap Trap
+Headshot bonus AD ratio reduced to
+40%
+bonus
+AD
+at all ranks from
+40 / 50 / 60 / 70 / 80%
+.
+Ace in the Hole
+Bonus AD ratio reduced to
+150%
+bonus
+AD
+from
+170%
+.
+V14.7
+Headshot
+Bug Fix:
+A headshot gained from this ability is no longer incorrectly consumed alongside any headshots primed by
+Yordle Snap Trap
+or
+90 Caliber Net
+.
+V14.3
+Headshot
+Bug Fix:
+Buff is now properly consumed on-attack. She can no longer fire 2 empowered attacks by resetting her attack timer with
+Titanic Hydra's
+Titanic Crescent
+while an empowered missile was in-flight.
+V13.21
+Headshot
+Critical strike ratio formula changed to (
+100%
+total
+critical damage
+×
+85% critical strike chance
+) from (
+100%
+total
+critical damage
+×
+81.
+25
+% critical strike chance
+).
+Critical strike ratio increased to (148.
+75
+% +
+38.
+25
+%
+) from (142.
+1875
+% +
+36.
+5625
+%
+).
+Ace in the Hole
+Cooldown increased to 90 seconds at all ranks from 90 / 75 / 60.
+Base damage reduced to 300 / 500 / 700 from 300 / 525 / 750.
+AD ratio reduced to
+170%
+bonus
+AD
+from
+200%
+.
+Critical strike chance ratio increased to
+0% − 50% (based on critical strike chance)
+from
+0% − 35% (based on critical strike chance)
+.
+V13.18
+Headshot
+Critical strike ratio formula changed to (100% total crit damage x 81.
+25
+% total crit chance) from (62.
+5
+% total crit damage x 130% total crit chance).
+Damage unchanged.
+V13.17
+Pulsefire Caitlyn
+Headshot
+Bug Fix:
+Skin and chromas now properly display the headshot ready indicator VFX.
+V13.16
+Headshot
+Number of stacks reduced to 5 from 6.
+Critical strike ratio formula changed to (62.
+5
+% total crit damage x 130% total crit chance) from (1.25 x (0.875 + 50% bonus crit damage) x 130% crit chance).
+Damage unchanged.
+V13.15
+Headshot
+Critical strike ratio formula changed to (crit chance × 1.25 × 1.3 × (0.875 + 50% bonus crit damage)) from (crit chance × 1.25 × 1.2 × (0.875 + 50% bonus crit damage)).
+Critical strike chance ratio increased to (142.
+1875
+% +
+36.
+5625
+%
+) from (131.
+25
+% +
+33.
+75
+%
+).
+Ace in the Hole
+Critical strike chance ratio increased to
+0% − 35% (based on critical strike chance)
+from
+0% − 25%
+.
+V13.11
+General
+Bug Fix:
+Health bar on the skins of
+Arcade Caitlyn
+and
+Prestige Arcade Caitlyn
+no longer obstructs their
+Recall
+VFX.
+Ace in the Hole
+Bug Fix:
+VFX is no longer misaligned from her weapon.
+V13.5
+Stats
+Base attack damage reduced to 60 from 62.
+Base armor reduced to 27 from 28.
+Headshot
+Bug Fix:
+Empowered basic attack no longer cancels if the basic attack was issued outside of the attack range.
+V13.1b
+Stats
+Mana growth increased to 40 from 35.
+Mana regeneration growth increased to 0.
+7
+from 0.
+55
+.
+V12.23
+Ace in the Hole
+Bug Fix:
+Now properly attacks the source if she is
+taunted
+during the effect.
+V12.21
+General
+Updated ability icons.
+V12.16
+Headshot
+AD ratio increased to
+60 / 90 / 120% (based on level)
+AD
+from
+60 / 85 / 110% (based on level)
+.
+Non-champion AD ratio increased to
+110 / 115 / 120% (based on level)
+AD
+from
+110% AD
+at all ranks.
+Ace in the Hole
+New Effect:
+Damage is now increased by
+0% − 25% (based on critical strike chance)
+.
+V12.12
+- June 30th Hotfix
+Stats
+Attack damage growth increased to 3.
+8
+from 3.
+4
+.
+Headshot
+AD ratio increased to
+60 / 85 / 110% (based on level)
+AD
+from
+50 / 75 / 100% (based on level)
+.
+Non-champion AD ratio increased to
+110% AD
+from
+100% AD
+.
+Critical strike ratio formula changed to (crit chance × 1.25 × 1.2 × (0.875 + 50% bonus crit damage)) from (crit chance × 1.25 × (0.875 + 50% bonus crit damage)).
+Critical strike chance ratio increased to (131.
+25
+% +
+26.
+25
+%
+) from (109.
+375
+% +
+21.
+875
+%
+).
+Yordle Snap Trap
+Headshot
+bonus base damage reduced to 40 / 85 / 130 / 175 / 220 from 60 / 105 / 150 / 195 / 240.
+Headshot
+bonus AD ratio reduced to
+40 / 50 / 60 / 70 / 80%
+bonus
+AD
+from
+40 / 55 / 70 / 85 / 100%
+.
+V12.11
+Piltover Peacemaker
+AD ratio changed to
+125 / 145 / 165 / 185 / 205% AD
+from
+130 / 145 / 160 / 175 / 190% AD
+.
+Mana cost changed to 55 / 60 / 65 / 70 / 75 from 50 / 60 / 70 / 80 / 90.
+90 Caliber Net
+Base damage increased to 80 / 130 / 180 / 230 / 280 from 70 / 110 / 150 / 190 / 230.
+Cooldown reduced to 16 / 14 / 12 / 10 / 8 seconds from 16 / 14.
+5
+/ 13 / 11.
+5
+/ 10.
+V12.10
+Stats
+Base health increased to 580 from 510.
+Health growth increased to 107 from 93.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V12.5
+Piltover Peacemaker
+Bug Fix:
+Now properly deals damage even if the caster had a
+spell shield
+via
+Banshee's Veil
+or
+Edge of Night
+.
+V12.3
+Stats
+Attack damage growth reduced to 3.
+4
+from 3.
+8
+.
+Piltover Peacemaker
+Damage against secondary targets reduced to 50% from 60%.
+Ace in the Hole
+Bug Fix:
+Channel no longer improperly starts when
+feared
+during the cast time, thus refunding the ability's cooldown despite not being cancelled.
+Undocumented:
+Flash
+is now disabled during the cast time and channel.
+V12.1
+Headshot
+Bug Fix:
+Attacking an enemy marked by her
+Yordle Snap Trap
+or
+90 Caliber Net
+no longer incorrectly grants
+Headshot
+stacks.
+Yordle Snap Trap
+Bug Fix:
+Fixed a bug where, if a champion got caught in
+Yordle Snap Trap
+at the same time as
+90 Caliber Net
+, the extended Headshot range would get canceled.
+90 Caliber Net
+Bug Fix:
+Fixed a bug where she would sometimes be able to change her Headshot target while casting it.
+V11.24
+General
+Bug Fix:
+Base voice lines now play more consistently and accurately.
+Headshot
+New Effect:
+If her current target becomes trapped by
+Yordle Snap Trap
+or
+90 Caliber Net
+while her attack is on cooldown, this ongoing cooldown will be refunded partially so that her next attack on them can begin earlier.
+Swapping the target to an enemy trapped by
+Yordle Snap Trap
+or
+90 Caliber Net
+also reduces her ongoing attack cooldown.
+Bug Fix:
+Fixed a bug where she was able to
+Headshot
+enemies while being revived.
+V11.23
+- November 18th Hotfix
+Yordle Snap Trap
+Bug Fix:
+Fixed a bug where her recall would be interrupted if an enemy stepped on one of her traps.
+V11.23
+- November 17th Hotfix
+Headshot
+Bug Fix:
+Fixed a bug where she could fire multiple extended range headshots against targets marked by
+Yordle Snap Trap
+or
+90 Caliber Net
+at high attack speeds.
+V11.23
+- Art & Sustainability Update
+General
+Complete visual update across all skins.
+New splash artwork for
+Resistance Caitlyn
+,
+Sheriff Caitlyn
+,
+Safari Caitlyn
+,
+Arctic Warfare Caitlyn
+, and
+Officer Caitlyn
+.
+Adjusted splash artwork for
+Original Caitlyn
+,
+Headhunter Caitlyn
+,
+Lunar Wraith Caitlyn
+,
+Pool Party Caitlyn
+,
+Arcade Caitlyn
+, and
+Prestige Arcade Caitlyn
+.
+New lore.
+New voice-over.
+Updated sound effects.
+Added ejected bullet when reloading her rifle.
+Headshot
+Removed:
+Gaining an Empowered Headshot no longer allows
+Caitlyn
+to attack the trapped target ignoring an ongoing attack cooldown.
+Undocumented/New:
+Because they are proper attacks now, Headshot attacks against trapped enemies also generate a stack towards
+Headshot
+now.
+"Passive Ready" SFX adjusted for more of a Hextech feel. Added SFX that plays when
+Headshot
+is ready for use.
+Piltover Peacemaker
+New meshes and particles made to look more Hextech. Initial on-hit SFX are now more impactful than subsequent hits.
+Yordle Snap Trap
+Added indicator on traps and their activation VFXs. Trap SFXs adjusted to match new animation timing.
+90 Caliber Net
+New range indicator. On-hit SFX are now more impactful.
+Ace in the Hole
+New laser and Hextech imagery. On-cast SFX are now more impactful and have additional Hextech elements.
+V11.17
+Ace in the Hole
+Bug Fix:
+Fixed a bug where the extended tooltip and level-up tooltip did not contain its damage ratio.
+V11.15
+Piltover Peacemaker
+AD ratio increased to
+130 / 145 / 160 / 175 / 190% AD
+from
+130 / 140 / 150 / 160 / 170% AD
+.
+V11.8
+Battle Academia Caitlyn
+Yordle Snap Trap
+Bug Fix:
+Hit VO now plays from her location instead of the trap's location.
+Ace in the Hole
+Bug Fix:
+Cast VO also now plays for all enemies and allies.
+V11.4
+Stats
+Attack damage growth increased to 3.
+8
+from 3.
+3
+.
+Attack speed growth increased to 4% from 3.
+5
+%.
+V11.2
+Stats
+Attack damage growth increased to 3.
+3
+from 2.
+88
+.
+V10.23
+Headshot
+Critical strike ratio formula changed to (crit chance × 1.25 × (0.875 + 50% bonus crit damage)) from (crit chance × 1.25 × (1 + 50% bonus crit damage)).
+Critical strike chance ratio reduced to (109.
+375
+% +
+25%
+) (after IE change) from (125% +
+15.
+625
+%
+).
+V10.19
+Stats
+Base attack damage reduced to 62 from 64.
+Attack speed growth reduced to 3.
+5
+% from 4%.
+V10.18
+General
+Bug Fix:
+Can no longer trigger the
+Aspect of the Dragon's
+execute on multiple targets.
+Bug Fix:
+Can no longer trigger
+Summon Aery
+multiple times at once.
+V10.17
+Stats
+Base movement speed reduced to 325 from 330.
+V10.15
+Stats
+Base attack damage increased to 64 from 62.
+Base movement speed increased to 330 from 325.
+V10.13
+Yordle Snap Trap
+Bug Fix:
+No longer grants extra
+Headshots
+from multiple traps triggered at the same time by the same target.
+V10.11
+Stats
+Base health increased to 510 from 481.
+Health growth increased to 93 from 91.
+V10.10
+- May 18th Hotfix
+Yordle Snap Trap
+Reverted 10.9 changes.
+V10.9
+Yordle Snap Trap
+Bug Fix:
+Now properly empowers only one basic attack.
+Undocumented:
+Targets affected by traps no longer gain immunity to them for a brief time, increased for each consecutive application.
+V10.4
+Stats
+Base attack speed increased to 0.
+681
+from 0.
+625
+.
+Pulsefire Caitlyn
+Ace in the Hole
+Bug Fix:
+UI overlay now properly appears when she casts the ability.
+V10.2
+Headshot
+Bug Fix:
+No longer gets bonus Headshots by inputting the attack-move command near the target while they are trapped and netted simultaneously.
+Bug Fix:
+Can no longer use attack-move to attack trapped or netted targets while she is crowd controlled.
+Piltover Peacemaker
+Bug Fix:
+After casting
+Yordle Snap Trap
+into
+Piltover Peacemaker
+, her basic attacks are no longer temporarily slower than they should be.
+V9.22
+Headshot
+Bug Fix:
+If her target dies before her Energized (via items like
+Rapid Firecannon
+and
+Statikk Shiv
+)
+Headshot
+hits them, she is no longer damaged in their stead.
+V9.19
+Headshot
+Undocumented:
+Ability empowered
+Headshots
+now grant
+Energized
+on-hit
+, from not granting them at all.
+V9.18
+Stats
+Base attack damage increased to 62 from 60.
+V9.12
+Stats
+Base attack damage increased to 60 from 58.
+V9.10
+Yordle Snap Trap
+Base damage increased to 60 / 105 / 150 / 195 / 240 from 40 / 90 / 140 / 190 / 240.
+V9.9
+General
+New visual effects.
+Basic attack cleaned up noise and added new hit impacts.
+Headshot
+Brand new headshot missile and effects for better readability.
+Piltover Peacemaker
+Cleaned up noise, added a width indicator for clarity, and updated hit effects.
+Yordle Snap Trap
+Reduced activation noise and cleaned up root effect.
+Updated ally traps as well to glow blue.
+90 Caliber Net
+Cleaned up and now more accurately represents the width of the missile.
+Ace in the Hole
+Reduced the target effect's noise, improved the timing, and added new cast, missile, and hit effects.
+Headhunter Caitlyn
+Cleaned up the projectiles.
+Piltover Peacemaker
+Added the width indicator.
+Lunar Wraith Caitlyn
+Cleaned up the projectiles
+Piltover Peacemaker
+Adjusted the width to match the new base.
+Ace in the Hole
+Cleaned up charging and hit effects.
+V9.6
+Ace in the Hole
+Base damage increased to 300 / 525 / 750 from 250 / 475 / 700.
+V9.5
+General
+Adjusted splash artwork for
+Lunar Wraith Caitlyn
+.
+V9.1
+Ace in the Hole
+New Effect:
+Can now ping whether the ability is within range or not.
+V8.24b
+Piltover Peacemaker
+Base damage increased to 50 / 90 / 130 / 170 / 210 from 30 / 70 / 110 / 150 / 190.
+Reduced damage beyond first enemy increased to 40% from 33%.
+Ace in the Hole
+Target range increased to 3500 at all ranks from 2000 / 2500 / 3000.
+V8.13
+- July 3rd Hotfix
+Headshot
+Champion headshot base AD ratio increased to
+50 / 75 / 100% (based on level)
+AD
+from
+50% AD
+.
+Critical strike ratio formula (for both champions and non-champions) changed to (crit chance × 1.25 × (1 + 50% bonus crit damage)) from (crit chance × (1 + 50% bonus crit damage)).
+Critical strike chance ratio increased to 125% from 100%.
+V8.13
+Headshot
+Bug Fix:
+No longer interacts with
+Stormrazor
+to deal extra damage while the
+Stormrazor
+buff is inactive.
+Ace in the Hole
+Bug Fix:
+Now correctly updates its range for the first use after leveling it.
+V8.12
+Pulsefire Caitlyn
+90 Caliber Net
+Bug Fix:
+VFX have been restored.
+V8.11
+Stats
+Base health increased to 481 from 475.
+Health growth increased to 91 from 85.
+Base armor reduced to 28 from 32.
+Base health regeneration reduced to 3.
+5
+from 5.
+5
+.
+Base attack damage reduced to 58 from 62.
+Attack damage growth increased to 2.
+88
+from 2.
+18
+.
+V8.9
+Headshot
+Bonus damage to non-champions changed to
+100%
+(+ (100% +
+25%
+) critical strike chance)
+AD
+from
+150% AD
+.
+V8.3
+Stats
+Base health regeneration reduced to 5.
+5
+from 5.
+65
+.
+V8.2
+Ace in the Hole
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V7.22
+Stats
+Base attack damage increased to 62 from 53.
+66
+.
+Base armor increased to 31.
+88
+from 22.
+88
+.
+V7.21
+Pulsefire Caitlyn
+Yordle Snap Trap
+Bug Fix:
+No longer get stuck with a blue overlay when an enemy is affected by
+Yordle Snap Trap
+.
+V7.20
+Piltover Peacemaker
+Bug Fix:
+Rank-up tooltip now properly lists the total attack damage ratio increase between ranks.
+V7.19
+Stats
+Base health reduced to 475 from 524.
+4
+.
+Health growth increased to 85 from 80.
+Base attack speed increased to 0.
+568
+from 0.
+543
+.
+Base attack delay reduced to 0.
+1
+from 0.
+15
+.
+Attack speed growth increased to 4% from 2%.
+Base health regeneration reduced to 5.
+65
+from 5.
+674
+.
+Headshot
+Passive starting bonus attack speed reduced to 10% from 15%.
+Level 1 attack speed is still 0.
+625
+.
+New Effect:
+Can affect turrets.
+Piltover Peacemaker
+Damage to targets beyond the first increased to 67% from 50%.
+Yordle Snap Trap
+Trap duration reduced to 30 / 35 / 40 / 45 / 50 seconds at all ranks from 90.
+Headshot
+bonus damage increased to 40 / 90 / 140 / 190 / 240 from 10 / 55 / 100 / 145 / 190.
+Headshot
+AD ratio changed to
+40 / 55 / 70 / 85 / 100%
+bonus
+AD
+from
+60% AD
+at all ranks.
+Vision duration reduced to 3 seconds from 8.
+Recharge time changed to 30 / 24 / 19 / 15 / 12 seconds from 45 / 32.
+5
+/ 20 / 12.
+5
+/ 10.
+V7.16
+Piltover Peacemaker
+Passthrough damage reduced to 50% from 67%.
+Yordle Snap Trap
+Trap bonus damage from
+Headshot
+reduced to 10 / 55 / 100 / 145 / 190 from 30 / 70 / 110 / 150 / 190.
+Trap bonus damage from
+Headshot
+AD ratio reduced to
+60% AD
+from
+70% AD
+.
+Bug Fix:
+Tooltip now displays the correct root duration of 1.
+5
+seconds.
+Actual duration unchanged.
+V7.15
+Headhunter Caitlyn
+General
+Bug Fix:
+VFX during her recall no longer disappear when losing and regaining vision.
+Yordle Snap Trap
+Bug Fix:
+Traps are no longer less clear in brush compared to her other skins.
+V7.14
+Stats
+Attack speed growth reduced to 2% from 4%.
+V7.12
+Pulsefire Caitlyn
+Bug Fix:
+Quote when killing
+Gnar
+is no longer heard by everyone on the map.
+Bug Fix:
+Fixed a bug where she could become covered in a blue overlay for the rest of the match if polymorphed by
+Lulu's
+Whimsy
+while in combat.
+Yordle Snap Trap
+Bug Fix:
+Fixed a bug where
+Lulu
+could get the same blue overlay if casting
+Whimsy
+on any enemy affected by an allied
+Yordle Snap Trap
+.
+V7.11
+Stats
+Base attack speed reduced to 0.
+543
+from 0.
+568
+.
+Attack delay increased to 0.
+15
+from 0.
+1
+.
+Headshot
+Runaan's Hurricane
+no longer grants
+Headshot
+stacks on secondary targets.
+Passive starting bonus attack speed increased to 15% from 10%.
+Level 1 attack speed is still 0.
+625
+.
+Piltover Peacemaker
+Bug Fix:
+Fixed a bug causing the projectile of an enemy
+Piltover Peacemaker
+to not properly appear until it hit a unit when fired from fog of war.
+Pulsefire Caitlyn
+Bug Fix:
+Various VO lines triggered when she scores a pentakill, ace, or killing spree now properly play.
+Bug Fix:
+The underside of Teemo's stolen hat no longer looks kinda weird during her
+Recall
+.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.4
+Lunar Wraith Caitlyn
+Piltover Peacemaker
+Bug Fix:
+Fixed a bug where the SFX were distorting when hitting multiple minions.
+V6.15
+Yordle Snap Trap
+Bug Fix:
+Untargetable champions can no longer proc the trap.
+Bug Fix:
+Improved visibility of
+Lunar Wraith Caitlyn's
+trap.
+V6.7
+General
+Splash artwork for
+Safari Caitlyn
+and
+Arctic Warfare Caitlyn
+updated to the Chinese art.
+V6.4
+Yordle Snap Trap
+Headshot
+bonus damage changed to 30 / 70 / 110 / 150 / 190
+(+ 70% AD)
+from 10 / 20 / 30 / 40 / 50%
+New Effect:
+Traps now display their area of effect range to Caitlyn.
+90 Caliber Net
+Cooldown reduced to 16 / 14.
+5
+/ 13 / 11.
+5
+/ 10 seconds from 18 / 16 / 14 / 12 / 10.
+V6.1
+Headshot
+Bug Fix:
+Caitlyn would often path into her normal attack range to perform the empowered attack.
+Bug Fix:
+Caitlyn first attack after an empowered one would take longer to complete.
+Bug Fix:
+Using the empowered attack on a target other than the one being previously attacked would take longer to complete.
+Yordle Snap Trap
+Collision detection improved for smaller enemies.
+V5.24
+Headshot
+Stacks changed to 6 at all levels from
+7 / 6 / 5 (based on level)
+.
+V5.23
+Headshot
+Frequency of
+"Boom, Headshot!"
+line reduced
+Piltover Peacemaker
+Maximum damage to targets beyond the first increased to 67% from 60.
+V5.22
+Stats
+Attack damage increased to 55.
+66
+from 50.
+04
+Attack damage growth reduced to 2.
+18
+from 3.
+Attack speed reduced to 0.
+568
+from 0.
+625
+Attack delay increased to 0.
+1
+from 0.
+Caitlyn now starts the game with 10% bonus attack speed at level 1 to offset the attack speed reduction at the start of the game.
+Headshot
+New icon
+Removed:
+50% bonus armor penetration
+New Effect:
+Bonus damage increased to
+50% + (critical strike chance  ×  1 + (0.5  ×  bonus critical strike damage))% AD
+from
+(+ 50% AD)
+Still deals
+150% AD
+bonus damage against minions and monsters.
+New Effect:
+Caitlyn's next attack against targets caught in a
+Yordle Snap Trap
+or slowed by
+90 Caliber Net
+gains 'double range' and is guaranteed to apply Headshot. These Headshots will not generate charges toward standard Headshots nor consume a stacked one.
+Attacks against turrets will now increment Caitlyn's Headshot counter.
+Piltover Peacemaker
+Base damage increased to 25 / 70 / 115 / 160 / 205 from 20 / 60 / 100 / 140 / 180.
+AD ratio increased to
+130 / 140 / 150 / 160 / 170% AD
+from
+130% AD
+Removed:
+10% damage mitigation per enemy unit hit.
+New Effect:
+Projectile is now narrow until it hits its first target then opens up to normal width.
+New Effect:
+Enemies beyond the first take only
+「 60% 」
+「 15 / 42 / 69 / 96 / 123
+(+ 72 / 78 / 84 / 90 / 96% AD)
+」
+damage unless caught in a
+Yordle Snap Trap
+, then they take full damage.
+Yordle Snap Trap
+Removed:
+Magic damage-over-time and AP ratio.
+New Effect:
+Utilizes a stock system, with 3 / 3 / 4 / 4 / 5 maximum charges.
+Recharge time increased to 45 / 32.
+5
+/ 20 / 12.
+5
+/ 10 seconds from 16 / 14 / 12 / 10 / 8.
+Maximum number of traps increased to 3 / 3 / 4 / 4 / 5 from 3 at all ranks.
+Duration reduced to 90 seconds from 240.
+New Effect:
+Being trapped now grants an immunity to further traps placed at that location for ~4 seconds.
+Enemies lose that immunity if they leave the location.
+New Effect:
+Trapped enemies take 10 / 20 / 30 / 40 / 50% multiplicatively increased damage from
+Headshot
+.
+90 Caliber Net
+Base damage reduced to 70 / 110 / 150 / 190 / 230 from 80 / 130 / 180 / 230 / 280.
+Dash distance reduced to 400 from 500.
+Missile width reduced to 70 from 80.
+Missile speed reduced to 1600 from 2000.
+V5.21
+Fixed a bug where Caitlyn's attack animation and damage application would occasionally become fall out of sync when
+Lulu
+was in the game.
+V5.18
+Yordle Snap Trap
+Mana cost reduced to 30 from 50.
+Cooldown reduced to 16 / 14 / 12 / 10 / 8 seconds from 20 / 17 / 14 / 11 / 8.
+V5.11
+Headshot
+New Effect:
+Ignores 50% of the target enemy champion's bonus armor.
+Yordle Snap Trap
+Fixed a bug where the trap could take any time between 1 and 1.
+25
+seconds to arm.
+It is now always 1.
+1
+seconds.
+Fixed a bug where certain dashes could pass over the trap without triggering it.
+Ace in the Hole
+Sight is now granted on-click instead of after the 0.
+25
+seconds cast time.
+The ability should no longer cancel if you lose sight of the target.
+V5.8
+Yordle Snap Trap
+Bush visibility improved.
+V4.15
+General
+Fixed a bug where abilities that give True Sight of enemy champions would reveal
+Stealth Ward
+s under certain circumstances.
+V4.12
+General
+Fixed a bug where Caitlyn's basic attacks were registering as attacks before they visually hit the target.
+V4.11
+General
+New splash artwork for
+Original Caitlyn
+.
+V4.5
+Stats
+Base armor increased to 17 from 13.
+V4.1
+Ace in the Hole
+Projectile should now be correctly destroyed if the target becomes untargetable.
+V3.15
+General
+New running animation
+V3.7
+Stats
+Attack speed reduced to 0.
+625
+from 0.
+668
+Attack speed per level increased to 4% from 3%.
+Headshot
+No longer gains stacks when attacking structures.
+V3.02
+Headshot
+No longer consumed when attacking wards.
+V1.0.0.152
+Stats
+Movement speed increased to 325 from 300.
+V1.0.0.147b
+Piltover Peacemaker
+Per unit damage mitigation reduced to 10% from 15.
+Minimum damage increased to 50% from 40.
+90 Caliber Net
+Can no longer be cast while rooted.
+V1.0.0.142
+General
+Ability tooltips updated.
+90 Caliber Net
+Cast time reduced.
+Ace in the Hole
+Range increased to 2000 / 2500 / 3000 from 1900 / 2050 / 2200.
+Channel time reduced to 1 second from 1.
+25
+.
+V1.0.0.141
+General
+Splash artwork for
+Resistance Caitlyn
+and
+Sheriff Caitlyn
+updated to the Chinese art.
+Yordle Snap Trap
+Now properly ignores unit collision when placed.
+V1.0.0.140
+Ace in the Hole
+Fixed a bug where Caitlyn would appear to attack during channeling.
+V1.0.0.133
+Headshot
+Fixed a bug where it did not trigger while taunted or silenced.
+V1.0.0.129
+Stats
+Movement speed reduced to 300 from 305.
+V1.0.0.128
+Piltover Peacemaker
+Base damage reduced to 20 / 60 / 100 / 140 / 180 from 20 / 65 / 110 / 155 / 200.
+Yordle Snap Trap
+Activation radius reduced to 135 from 150.
+V1.0.0.125
+Yordle Snap Trap
+Now will show the area it triggers in when cast.
+Ace in the Hole
+Fixed a bug where it would fail to reset cooldown if
+Karthus
+or
+Kog'Maw
+died during the channel time.
+V1.0.0.123
+Yordle Snap Trap
+Fixed a bug where, when planting a new trap after another one was recently triggered, the one before was disabled.
+V1.0.0.116
+Yordle Snap Trap
+Mana cost reduced to 50 from 60.
+Activation range increased to 150 from 125.
+90 Caliber Net
+Mana cost reduced to 75 from 90.
+Ace in the Hole
+Mana cost reduced to 100 from 150.
+Range increased to 1900 / 2050 / 2200 from 1600 / 1900 / 2200.
+V1.0.0.114
+Stats
+Attack speed per level increased to 3% from 2.
+6
+Yordle Snap Trap
+Maximum charges increased to 3 from 2.
+V1.0.0.113
+Headshot
+Activation stacks reduced to
+8 / 7 / 6 (based on level)
+from 8 at all levels.
+V1.0.0.112
+Ace in the Hole
+Projectile speed increased to 3200 from 2200.
+Range increased to 1600 / 1900 / 2200 from 1400 / 1800 / 2200.
+Initial cast time leading up to channel time decreased significantly.
+V1.0.0.111
+General
+Ability tooltips updated.
+V1.0.0.109
+Piltover Peacemaker
+Base damage changed to 20 / 65 / 110 / 155 / 200 from 40 / 70 / 100 / 130 / 160.
+AD ratio increased to
+(+ 130% AD)
+from
+(+ 100% AD)
+Per unit damage mitigation increased to 10% from 6.
+Maximum damage mitigation increased to 50% from 30.
+Ace in the Hole
+Base damage increased to 250 / 475 / 700 from 250 / 400 / 550.
+Now provides vision of the target for the duration and thus is not canceled when Caitlyn loses line of sight.
+Base damage is now treated as a spell instead of an attack.
+No longer triggers on-hit effects like
+Blessing of the Lizard Elder
+.
+Now triggers spell effects like
+Rylai's Crystal Scepter
+.
+Cannot be dodged or blocked by
+Aegis Protection
+.
+Fixed a bug where it didn't scale from the
+Havoc
+mastery.
+V1.0.0.108
+Added
+Headshot
+-
+I
+Every 8 attacks (attacks while in brush count as 2) Caitlyn will fire a headshot dealing either 150% damage to a champion or 250% damage to a minion.
+Piltover Peacemaker
+-
+Q
+Caitlyn revs up her rifle for 1 second to unleash a penetrating shot which deals physical damage (deals less damage to subsequent targets)
+Yordle Snap Trap
+-
+W
+Caitlyn sets a trap to reveal sneaky
+yordles
+. When sprung the trap immobilizes the champion and deals magic damage over 1.
+5
+seconds.
+90 Caliber Net
+-
+E
+Caitlyn fires a heavy net to slow her target. The recoil knocks her back.
+Ace in the Hole
+-
+R
+Caitlyn takes time to line up the perfect shot, dealing massive damage to a single target at a huge range. Enemy champions can intercept the bullet for their ally.
+Trivia
+[
+edit
+|
+edit source
+]
+In Western culture, the name Caitlyn is believed to be derived from the Greek Αἰκατερίνα (Aikaterine).
+Katarina's
+name has the same roots.
+Caitlyn's accent is a
+Received Pronunciation
+spoken in south of
+England
+.
+Caitlyn's rifle can be seen in the
+trailer
+for the game's Mac version.
+A
+Yordle Snap Trap
+can be seen shortly after.
+Caitlyn has the longest base
+basic attack range
+in the game at
+650 units
+.
+Her dance and taunts resemble several rifle moves in modern
+Color guard
+corps.
+Headshots
+actually fires at the target's head; this is most noticeable with tall targets like
+Baron Nashor
+or
+Enemy Turrets
+.
+When Caitlyn and Vi are on the same team, they are granted the cosmetic buff
+On the Case
+. This buff gives them extra
+gold
+when they score a
+takedown
+together.
+If there is a
+Jinx
+on the enemy team, Caitlyn gets the cosmetic debuff
+Catch me if you can!
+This debuff displays a counter of 'criminals apprehended' (kills/assists scored against Jinx).
+Caitlyn,
+Blitzcrank
+,
+Lissandra
+,
+Rumble
+,
+Sion
+,
+Varus
+,
+Vi
+,
+Viego
+,
+Xerath
+, and
+Ziggs
+are the only champions who can apply
+crowd control
+on themselves.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Marksman
+Marksmen
+(formerly "Carries") excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger. Although Marksmen have the ability to stay relatively safe by kiting their foes, they are very fragile and are extremely reliant on powerful item purchases to become true damage threats.
+At present, Marksmen do not have any official subclasses. The following have been considered:
+Demolisher
+Scrapper
+Examples
+Ashe
+Ezreal
+Lucian
+Kai'Sa
+Jhin
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Bottom
+Within a
+drafted team
+, the
+Bottom Carry
+is one of the two champions assigned to the bottom lane alongside the
+Support
+. Being the most vulnerable, the
+Bottom Carry
+has to acquire as much gold as possible to purchase key items that will greatly increase their fighting potential.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Bottom Carry
+is expected to fulfill the former designation: the position is made for champions that highly depend on item-based power spikes.
+Marksmen
+are the most likely champions to be selected in the
+Bottom Carry
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Basic attack
+The
+basic attack
+(or
+auto-attack
+) is the most basic means of a unit to deal damage to another unit, usually dealing
+100% AD
+. It has a brief cooldown based on the caster's current
+attack speed
+.
+All
+basic attacks
+are normally unit-targeted with their range limited by the caster's
+attack range
+, and have a brief attack
+windup
+. Damage is then dealt depending on the caster's range type:
+Melee
+and some projectile-less ranged attacks deal damage immediately.
+Ranged
+attacks usually send a projectile that follows the target and deals damage upon striking them. Projectiles can be intercepted by certain
+blocking
+effects.
+The damage event will trigger
+on-hit effects
+from buffs the caster may hold. If damage cannot be dealt, on-hit effects will not be triggered.
+On-attack
+effects will always trigger when the attack's
+windup
+completes.
+League of Legends content
+Yordle Snap Trap
+RECHARGE:
+26 / 22 / 18 / 14 / 10
+Active:
+Caitlyn
+sets a trap at the target location that lasts for a while. The trap springs when an enemy champion steps on it,
+revealing
+and
+rooting
+them.
+Caitlyn
+periodically
+stocks
+a charge of
+Yordle Snap Trap
+, up to a cap.
+The next
+Headshot
+against a trapped target will deal
+bonus
+physical damage
+.
+League of Legends content
+90 Caliber Net
+COOLDOWN:
+16 / 14 / 12 / 10 / 8
+Active:
+Caitlyn
+fires a heavy net that
+slows
+the first target hit and deals
+magic damage
+to them.
+Firing the net causes her to
+recoil
+back.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Brush
+Brush
+is a common terrain feature that obstructs
+sight
+for any unit outside of it.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Tantrum
+COOLDOWN:
+9 / 8 / 7 / 6 / 5
+Passive:
+Amumu
+gains damage reduction against
+physical damage
+.
+Tantrum's
+cooldown is reduced whenever he is hit by a
+basic attack
+.
+Active:
+Amumu
+releases his anger, dealing
+magic damage
+to nearby enemies.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+True sight
+True Sight
+reveals units through
+fog of war
+,
+brush
+, and
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Root
+A unit that is
+rooted
+is unable to control its movement or activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Rooted
+units can still be displaced.
+Root
+is an
+immobilizing
+effect
+.
+Moving
+includes movement commands.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Headshot
+Innate:
+Caitlyn's
+basic attacks generate stacks of
+Count
+. At maximum stacks, her next
+basic attack
+will fire a
+Headshot
+dealing
+bonus
+physical damage
+that scales with her
+critical strike chance
+.
+On
+trapped
+or
+netted
+targets, she gains another
+Headshot
+at extra
+attack range
+.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Kinematics
+A unit that is under the effect of
+kinematics
+will be continually dragged to a specific unit or location until they reach it.
+Kinematics
+has no effect on units that are performing any form of movement other than basic movement and other
+kinematic
+effects.
+Kinematics
+should not be confused as an
+airborne
+effect nor displacement effect. It does not disable any of the unit's actions.
+Interrupts:
+Does not interrupt any actions, but will prevent the unit from effectively
+pathing
+to their intended location through basic movement.
+Reduction:
+The effect is instantaneous.
+There is nothing to reduce.
+Resist:
+Resisted by
+crowd control immunity
+and
+displacement immunity
+.
+Removal:
+Removed by leaving the source of the area of effect. The effect is instantaneous.
+There is nothing to cleanse.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Immobilize
+Immobilized
+units cannot control their movement. The following crowd control effects
+immobilize
+the unit:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Root
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Impaired movement
+is a similar term that, in addition to the above, also refers to units that are
+slowed
+.
+League of Legends content
+Ground
+A unit that is
+grounded
+is unable to activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Grounded
+units can still be displaced.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Ground
+is the only type of
+crowd control
+that is most commonly found in persistent area of effects, which will reapply the status effect continuously.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Piltover Peacemaker
+COOLDOWN:
+10 / 9 / 8 / 7 / 6
+Active:
+Caitlyn
+revs up her rifle to unleash a penetrating shot that deals
+physical damage
+to enemies hit.
+The projectile expands after the first target but also deals less damage.
+League of Legends content
+Suppression
+A unit that is
+suppressed
+is unable to control its movement, declare attacks, cast abilities, activate items or use
+any
+summoner spell
+for the duration.
+Suppression
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Cleanse
+and
+Mikael's Blessing
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+References
+[
+edit
+|
+edit source
+]
+↑
+Caitlyn's profile page
+at
+LeagueOfLegends.com

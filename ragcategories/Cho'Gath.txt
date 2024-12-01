@@ -1,0 +1,2571 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Cho'Gath
+the Terror of the Void
+Release date
+2009-06-26
+Last changed
+V14.14
+Class(es)
+Specialist
+Legacy
+Tank
+Mage
+Position(s)
+Top
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Magic
+Store price
+1350
+|
+585
+Crafting
++
+810
+Ratings
+Damage
+2
+Toughness
+3
+Control
+2
+Mobility
+1
+Utility
+1
+Style
+Difficulty
+Cho'Gath
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Chogath
+Base statistics
+Edit
+Health
+644
++94
+Mana
+270
++60
+Health regen. (per 5s)
+9
++0.85
+Mana regen. (per 5s)
+7.2
++0.45
+Armor
+38
++5
+Attack damage
+69
++4.2
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+345
+Attack range
+125
+Attack speed
+Base AS
+0.625
+Attack windup
+21.9%
+AS ratio
+N/A
+Bonus AS
++1.44
+%
+Unit radius
+Gameplay radius
+80
+Selection radius
+130
+Pathing radius
+50
+Acq. radius
+500
+Special statistics
+Damage Dealt
++0%
+Damage Received
++10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-2%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Carnivore
+Innate:
+Whenever
+Cho'Gath
+kills an enemy, it
+heals
+and restores
+mana
+.
+Innate:
+Whenever
+Cho'Gath
+kills an enemy, it
+heals
+for
+18 − 52 (based on level)
+and restores
+4.
+72
+− 9.
+48
+(based on level)
+mana
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Carnivore
+will also trigger when
+Cho'Gath
+destroys a
+turret
+, but not from other structures.
+Carnivore
+does not trigger upon destroying
+wards
+and possibly other similar units.
+Edit
+Rupture
+COST:
+50 mana
+COOLDOWN:
+6
+CAST TIME:
+0.
+5
+TARGET RANGE:
+950
+EFFECT RADIUS:
+250
+Active:
+Cho'Gath
+ruptures the target location, dealing
+magic damage
+and
+knocking up
+enemies within,
+slowing
+them upon landing.
+Active:
+Cho'Gath
+ruptures the target location after a
+0.
+627
+seconds
+delay, granting
+sight
+of the area before dealing
+magic damage
+to enemies within and
+knocking them up
+for 1 second, and afterwards
+slowing
+them by 60% for 1.
+5
+seconds.
+Magic damage:
+80 / 145 / 210 / 275 / 340
+(+ 100% AP)
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+The delay before the rupture does not include the cast time.
+The animation is visible in
+brush
+and in
+fog of war
+.
+Cleansing
+the
+airborne
+will not prevent the
+slow
+.
+The slow itself can also not be blocked by
+spell shield
+, but will always be prevented if the airborne was.
+The area will still rupture even if
+Cho'Gath
+dies during the delay.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 100 / 160 / 220 / 280 / 340.
+Slow strength changed to 70%.
+Cooldown changed to 5 seconds at all ranks.
+Video
+Edit
+Feral Scream
+COST:
+70 / 75 / 80 / 85 / 90 mana
+COOLDOWN:
+11 / 10.
+5
+/ 10 / 9.
+5
+/ 9
+CAST TIME:
+0.
+5
+TARGET RANGE:
+650
+ANGLE:
+60°
+Active:
+Cho'Gath
+roars in a cone, dealing
+magic damage
+and
+silencing
+enemies hit.
+Active:
+Cho'Gath
+roars in a cone in the target direction, dealing
+magic damage
+to enemies hit.
+Magic damage:
+80 / 135 / 190 / 245 / 300
+(+ 70% AP)
+Enemy
+champions
+and
+Rift Scuttlers
+hit are also
+silenced
+for a duration.
+Silence Duration:
+1.
+6
+/ 1.
+7
+/ 1.
+8
+/ 1.
+9
+/ 2 seconds
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+This ability will cast from wherever the caster is at the end of the cast time.
+Feral Scream
+uses
+edge range
+for enemy targets only; Its range is
+center-to-edge
+.
+Video
+Edit
+Vorpal Spikes
+COST:
+30 mana
+COOLDOWN
+:
+8 / 7 / 6 / 5 / 4
+CAST TIME:
+none
+RANGE:
+650
+WIDTH:
+340 − 500 (based on bonus size)
+Active:
+Cho'Gath's
+next few basic attacks launch forth deadly spikes, dealing
+magic damage
+to enemies hit based on
+Feast
+stacks and each
+target's
+maximum
+health
+, and
+slowing
+them.
+Active:
+Cho'Gath
+empowers its next 3
+basic attacks
+within 6 seconds to gain
+50
+bonus
+range
+and launch a blast of spikes
+on-attack
+in the target's direction. Enemies struck are dealt
+magic damage
+and
+slowed
+by an amount that decays over 1.
+5
+seconds. The damage based on the target's health ratio is capped at 200 against
+monsters
+.
+Magic Damage:
+20 / 40 / 60 / 80 / 100
+(+ 30% AP)
+(+ 3%
+(+ 0.
+5
+% per
+Feast
+stack)
+of target's
+maximum
+health)
+Total Magic Damage:
+60 / 120 / 180 / 240 / 300
+(+ 90% AP)
+(+ 9%
+(+ 1.
+5
+% per
+Feast
+stack)
+of target's
+maximum
+health)
+Slow:
+30 / 35 / 40 / 45 / 50%
+The width of the blast of spikes increases based on
+Cho'Gath's
+character
+size
+modifier when they launch, including but not limited to the bonus from
+Feast
+stacks.
+Vorpal Spikes
+resets
+Cho'Gath's
+basic attack timer.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Not Blocked
+Parries
+Bypass
+Projectile
+Blocked
+The missiles are launched from an offset 25 units in front of Cho'Gath and towards the target's location on-attack-complete.
+When attacking enemies within 25 units center-to-center of
+Cho'Gath
+, the missile will fire in the opposite direction.
+Cho'Gath's
+size factors into the wideness of the hitbox
+Vorpal Spikes
+has. External size modifiers (
+Wild Growth
+) contribute to this.
+At certain size thresholds, the missile gets replaced by a different one with a different width. At each step, the width grows by 30, except for the 3rd missile, where it only grows by 10.
+(note)
+Some of the size thresholds are placed very weird.
+(note)
+The missile range is unchanged.
+The empowered attack will trigger but not apply its effects against
+structures
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 32 / 44 / 56 / 68 / 80.
+Slow strength changed to 40 / 45 / 50 / 55 / 60%.
+Video
+Edit
+Feast
+COST:
+100 mana
+COOLDOWN:
+80 / 70 / 60
+CAST TIME:
+0.
+25
+TARGET RANGE:
+175
+Active:
+Cho'Gath
+devours an enemy, dealing
+true damage
+based on
+Cho'Gath's bonus
+health
+. If this attack kills the target,
+Cho'Gath
+gains a permanent
+Feast
+stack that infinitely stacks.
+Feast:
+For each stack,
+Cho'Gath
+gains
+bonus
+health
+,
+bonus
+attack range
+and increased
+size
+.
+Active:
+Cho'Gath
+attempts to eat the target enemy, dealing them
+true damage
+. Against non-
+champions
+, the
+base
+damage is modified.
+Champion True Damage:
+300 / 475 / 650
+(+ 50% AP)
+(+ 10%
+bonus
+health)
+Non-Champion True Damage:
+1200
+(+ 50% AP)
+(+ 10%
+bonus
+health)
+If the target is killed,
+Cho'Gath
+gains a
+stack
+of
+Feast
+. Only 6 stacks can be gained from non-epic
+monsters
+or
+minions
+.
+Each stack of
+Feast
+increases the cast range of the ability by 2.
+5
+, for a maximum increase of 25 at 10 stacks, and grants
+Cho'Gath
+bonus
+health
+as well as
+bonus
+attack range
+and increased
+size
+, capping at
+75
+bonus
+attack range
+and 100% increased size.
+Bonus Health Per Stack:
+80 / 120 / 160
+Bonus Attack Range Per Stack:
+4.
+7
+/ 6.
+2
+/ 7.
+7
+Bonus Size Per Stack:
+6 / 8 / 10%
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+True
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+The increased size stacks additively with other size increases.
+The name of the bonus health buff is
+"Feast"
+.
+The bonus attack range and increase size cap at respectively 16.
+25
+/ 12.
+19
+/ 9.
+75
+and 16.
+67
+/ 12.
+5
+/ 10 stacks, with the last stack being effective as the decimal part of the value (no decimal meaning 100% as effective).
+Each stack of
+Feast
+increases the damage by 8 / 12 / 16.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+If an enemy
+champion
+has health below the amount of
+true damage
+Feast
+deals, they will be marked for execution. This indicator does not consider
+shields
+or
+invulnerability
+.
+Consuming any additional
+Voidgrubs
+from the same spawn group will be tracked as a "monster eaten" for
+Feast's
+buff, but will neither grant any bonuses nor count towards the 6-stack limit.
+(bug)
+This indicator is only visible to
+Cho'Gath
+.
+Map-Specific Differences
+Arena
+differences
+edit
+New Effect:
+Gains 1
+Feast
+stack per round after learning this ability.
+Champion base damage changed to 400 / 575 / 750.
+Bonus health per stack changed to 100 / 150 / 200.
+Cooldown changed to 60 / 50 / 40 seconds.
+Video
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Cho'Gath (Collection)
+.
+Original
+View in 3D
+585
+25.06.2009
+From the moment Cho’Gath first emerged into the harsh light of Runeterra’s sun, the beast was driven by the most pure and insatiable hunger. A perfect expression of the Void’s desire to consume all life, Cho’Gath’s complex biology quickly converts matter into new bodily growth—increasing its muscle mass and density, or hardening its outer carapace like organic diamond. When growing larger does not suit the Void-spawn’s needs, it vomits out the excess material as razor-sharp spines, leaving prey skewered and ready to feast upon later.
+Unknown voice actor
+Michal Ivan, Sixmorevodka Studio
+Loot eligible
+Nightmare
+View in 3D
+520
+20.11.2009
+Unknown voice actor
+Unknown artist
+Legacy
+Loot eligible
+Legacy
+New SFX/VFX
+Gentleman
+View in 3D
+1820
+11.05.2010
+Prior to indulging in the delectable taste of his victims, Cho'Gath prefers to invite them to his humble 40-acre mansion. There, he offers scones and jam, with a spot of tea… so his guests may savor their last meal before becoming one themselves.
+Unknown voice actor
+Unknown artist
+High Society
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Loch Ness
+View in 3D
+520
+01.03.2011
+Citing nothing more than a blurry photograph, the locals in one isolated town insist on the existence of a large, predatory marine animal that grows in size every time it feeds. The reports are otherwise unsubstantiated, but the spike in tourism has been great for the local economy. Not the disappearances, though. Those are bad.
+Unknown voice actor
+Unknown artist
+Fables
+Loot eligible
+Legacy
+New SFX/VFX
+Jurassic
+View in 3D
+975
+01.11.2011
+Unknown voice actor
+Unknown artist
+Day Job
+Loot eligible
+New SFX/VFX
+Battlecast Prime
+View in 3D
+1820
+03.08.2012
+The gold standard of Battlecast shock troopers, Prime Cho'Gath implements self-replicating nanites that reinforce its frame as it consumes living tissue. It has become a common and terrifying sight in occupied cities, where it feeds on civilians who won't submit to conversion.
+J.S. Gilbert
+Alex Konstad
+Battlecast
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+Battlecast Prime Cho'Gath Chromas
+Catseye
+Obsidian
+Pearl
+Ruby
+Sapphire
+Tanzanite
+Prehistoric
+View in 3D
+750
+14.06.2015
+A titanic beast feared for its massive size and endless appetite, no sane hunter would ever think of taking on Cho'Gath. Seeing as there are no sane hunters, Cho'Gath enjoys a steady supply of lightly armored food.
+Unknown voice actor
+Michal Ivan, Sixmorevodka Studio
+Prehistoric Hunters
+Loot eligible
+New SFX/VFX
+Dark Star
+View in 3D
+Special
+13.07.2018
+Spawned from the remnants of a star system crippled by famine, Cho'Gath is driven to feed on any celestial body that crosses his path. These feasts swirl into the twin black holes at his heart—as endless and ageless as his hunger.
+Unknown voice actor
+Rudy Siswanto
+Dark Star
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Transforming
+Shan Hai Scrolls
+View in 3D
+1350
+28.01.2021
+A mythical, titanic beast painted within the mysterious Shan Hai Scrolls, whose gluttony resulted in eternal karmic punishment, Cho'gath has seized upon the Scrolls' connection to the multiverse and plans to devour both his own world and then all others.
+Unknown voice actor
+Terence 'Terrylefruit' Cantal, West Studio
+Shan Hai Scrolls
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Shan Hai Scrolls Cho'Gath Chromas
+Aquamarine
+Catseye
+Obsidian
+Pearl
+Peridot
+Ruby
+Tanzanite
+Turquoise
+Broken Covenant
+View in 3D
+1350
+09.03.2023
+A living weapon of Nocturne's design, Cho'Gath is meant to cleanse the world of the Neverghaast. Empowered by sacred artifacts from the congregation's crypts, it has remained dormant while Nocturne feeds it prisoners to build its power. Despite its maker's intentions, nothing will be able to sate the monster's hunger once it fully awakens.
+Unknown voice actor
+Huyy Nguyen, West Studio
+Broken Covenant
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Broken Covenant Cho'Gath Chromas
+Catseye
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Toy Terror
+View in 3D
+1350
+03.04.2024
+Snuggle up with Cho'Gath, your favorite plush pal! Squeeze his soft belly and watch him scare away bad dreams for a guaranteed good night's sleep. Extendable claw arms included for double the fun! Not suitable for children under 5 years of age. Some assembly required.
+Unknown voice actor
+Fortune 'Fortuneee' K
+Toy Box
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Toy Terror Cho'Gath Chromas
+Aquamarine
+Catseye
+Obsidian
+Pearl
+Peridot
+Rose Quartz
+Ruby
+Tanzanite
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.14
+Rupture
+Base damage increased to 80 / 145 / 210 / 275 / 340 from 80 / 140 / 200 / 260 / 320.
+Vorpal Spikes
+Base damage changed to 20 / 40 / 60 / 80 / 100 from 22 / 37 / 52 / 67 / 82.
+V14.10
+Vorpal Spikes
+Removed:
+Health ratio damage is no longer capped against minions.
+Monster damage cap increased to 200 at all ranks from 60 / 80 / 100 / 120 / 140.
+V14.7
+Shan Hai Scrolls Cho'Gath
+Bug Fix:
+During a basic attack, arms now follow their proper animation instead of breaking from the model's skeleton or readjusting abruptly.
+V14.6
+Feral Scream
+Cooldown reduced to 11 / 10.
+5
+/ 10 / 9.
+5
+/ 9 seconds from 13 / 12 / 11 / 10 / 9.
+Vorpal Spikes
+Base damage increased to 22 / 37 / 52 / 67 / 82 from 22 / 34 / 46 / 58 / 70.
+V14.2
+Feast
+Bonus attack range per stack increased to 4.
+7
+/ 6.
+2
+/ 7.
+7
+from 4.
+62
+/ 6.
+15
+/ 7.
+69
+.
+New Effect:
+Cast range is now increased by 2.
+5
+per stack, up to 25 at 10 stacks.
+Extended tooltip now displays the bonus range granted for basic attacks and the ability.
+V13.6
+Carnivore
+Broken Covenant Cho'Gath
+heal VFX is now unique from
+Shan Hai Scrolls Cho'Gath
+.
+V13.4
+Stats
+Armor growth increased to 5 from 4.
+7
+.
+Rupture
+Base damage increased to 80 / 140 / 200 / 260 / 320 from 80 / 135 / 190 / 245 / 300.
+Mana cost reduced to 50 from 60.
+Feral Scream
+Mana cost reduced to 70 / 75 / 80 / 85 / 90 from 70 / 80 / 90 / 100 / 110.
+V12.23
+Carnivore
+Mana restore increased to
+4.
+72
+− 9.
+48
+(based on level)
+from
+3.
+5
+− 7.
+75
+(based on level)
+.
+Feral Scream
+Base damage increased to 80 / 135 / 190 / 245 / 300 from 75 / 125 / 175 / 225 / 275.
+Feast
+Cooldown reduced to 80 / 70 / 60 seconds from 80 at all ranks.
+V12.22
+Feast
+Non-champion base damage increased to 1200 from 1000.
+V12.19
+General
+Bug Fix:
+Icon in the HUD now properly displays the correct size and image.
+V12.14
+Feast
+Undocumented/Bug Fix:
+Buff tooltip title renamed to
+Feast
+from
+Feast x1
+.
+Prior to
+V10.24
+, the highest possible stack count used to be 255, and the buff name would equal the stacks (e.g.
+"Feast x255"
+).
+V12.10
+Stats
+Base health increased to 644 from 574.
+Health growth increased to 94 from 80.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Carnivore
+Base heal reduced to
+18 − 52 (based on level)
+from
+20 − 71 (based on level)
+.
+V11.20
+Carnivore
+Bug Fix:
+No longer activates from destroying trinkets or champion-generated objects.
+V11.19
+Rupture
+Cooldown reduced to 6 seconds from 7.
+V11.3
+Vorpal Spikes
+Base damage reduced to 22 / 34 / 46 / 58 / 70 from 22 / 37 / 52 / 67 / 82.
+V11.1
+Stats
+Base health reduced to 574 from 574.
+4
+.
+Base magic resistance reduced to 32 from 32.
+1
+.
+Vorpal Spikes
+Undocumented:
+Once again gains the correct bonus damage from
+Feast
+stacks.
+V10.24
+Feast
+Undocumented:
+Buff application reworked, causing
+Vorpal Spikes
+to no longer gain bonus damage from stacks correctly.
+(bug)
+Vorpal Spikes
+now gains
+0.
+5
+% of target's
+maximum
+health
+bonus damage when
+Feast
+is first leveled and nothing from stacks.
+Undocumented:
+No longer capped at 255 stacks, buff name now always "Feast x1" and gained when R is learned instead of when gaining the first stack.
+V10.23
+Stats
+Base mana reduced to 270 from 272.
+2
+.
+Mana growth increased to 60 from 40.
+Base mana regeneration reduced to 7.
+2
+from 7.
+206
+.
+V10.14
+Feral Scream
+Bug Fix:
+Now properly silences
+Rift Scuttler
+.
+V10.9
+Vorpal Spikes
+Base damage per spike increased to 22 / 37 / 52 / 67 / 82 from 22 / 34 / 46 / 58 / 70.
+Total base damage increased to 66 / 111 / 156 / 201 / 246 from 66 / 102 / 138 / 174 / 210.
+V10.4
+Feast
+Bug Fix:
+Execute indicator now appears as intended and is properly visible.
+V9.20
+Feast
+Bug Fix:
+Execute indicator now properly appears on clones' health bars.
+V9.10
+Feast
+Undocumented:
+New indicator on enemy health bar, indicating when the enemy will be executed.
+V9.7
+Rupture
+Cooldown reduced to 7 seconds from 9.
+V9.5
+Vorpal Spikes
+Base damage increased to 22 / 34 / 46 / 58 / 70 from 20 / 30 / 40 / 50 / 60.
+V8.10
+Battlecast Prime Cho'Gath
+Vorpal Spikes
+Bug Fix:
+Now sound more in line with the skin's theme.
+V8.7
+Battlecast Prime Cho'Gath
+Bug Fix:
+Maw is no longer rigged improperly when using his emotes.
+V8.5
+Battlecast Prime Cho'Gath
+Vorpal Spikes
+Bug Fix:
+No longer use classic SFX when he has 10+ stacks of
+Feast
+.
+V8.3
+General
+Complete VFX update.
+Stats
+Base health regeneration increased to 9 from 8.
+928
+.
+V8.2
+Feast
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V8.1
+Vorpal Spikes
+Bug Fix:
+Empowered attacks no longer interrupt the basic attacks of enemy champions they hit.
+V7.24
+General
+Bug Fix:
+Fixed a bug where all skins (except for
+Battlecast Prime Cho'Gath
+) stole
+Jurassic Cho'Gath
+death SFX.
+V7.22
+Stats
+Base attack damage increased to 69 from 61.
+156
+.
+Base armor increased to 38 from 28.
+88
+.
+V7.21
+Feast
+Bug Fix:
+Stacks now correctly count spawned
+Rift Heralds
+as epic monsters.
+V7.20
+Feast
+Bug Fix:
+Fixed a bug causing the meal tracker to count jungle monsters oddly.
+V7.19
+Battlecast Prime Cho'Gath
+Feral Scream
+Bug Fix:
+Is now of higher fidelity on very low settings.
+V7.17
+General
+Bug Fix:
+Corrected suggested starting items to no longer cost more than starting gold.
+V7.15
+Vorpal Spikes
+Base damage reduced to 20 / 30 / 40 / 50 / 60 from 20 / 35 / 50 / 65 / 80.
+Target's maximum health ratio reduced to
+3% of target's
+maximum
+health
+from
+4%
+.
+Prehistoric Cho'Gath
+Bug Fix:
+Parts of head armor no longer stretches during his dance animation.
+V7.14
+Rupture
+Base damage reduced to 80 / 135 / 190 / 245 / 300 from 80 / 135 / 190 / 245 / 305.
+Mana cost reduced to 60 from 90.
+Feral Scream
+Silence duration increased to 1.
+6
+/ 1.
+7
+/ 1.
+8
+/ 1.
+9
+/ 2 seconds from 1.
+5
+/ 1.
+625
+/ 1.
+75
+/ 1.
+875
+/ 2.
+Vorpal Spikes
+New Cooldown:
+8 / 7 / 6 / 5 / 4 seconds.
+New Mana Cost:
+30 mana.
+Removed Toggle:
+Cho'Gath's
+basic attacks each launch a volley of spikes in a line, dealing 25 / 35 / 50 / 65 / 80
+(+ 30% AP)
+magic damage and applying spell effects to enemies hit.
+New Active:
+Cho'Gath's
+next 3 basic attacks launch a volley of spikes in a line, dealing 25 / 35 / 50 / 65 / 80
+(+ 30% AP)
+(+ 4%
+(+ 0.
+5
+% per
+Feast
+stack)
+of target's
+maximum
+health)
+magic damage and applying a decaying over the next 1.
+5
+seconds slow of 30 / 35 / 40 / 45 / 50%.
+New Effect:
+Now grants 50
+bonus
+range.
+New Effect:
+Now resets
+Cho'Gath
+basic attack timer.
+Bug Fix:
+Now correctly applies
+Hunter's Talisman's
+health drain.
+V7.13
+General
+Basic attack and ability audio has been updated for all skins without skin-specific audio effects.
+V7.9
+Vorpal Spikes
+Undocumented:
+Tooltip now mentions spikes apply spell effects.
+V7.7
+Feast
+Bug Fix:
+Kill indicator now properly takes ability power into consideration.
+V7.6
+Feast
+Bonus health per stack increased to 80 / 120 / 160 from 80 / 110 / 140.
+Total stacks that can be gained from minions and non-epic monsters increased to 6 from 5.
+V7.5
+Feral Scream
+New Effect:
+Adjusted particle to match actual cone size.
+V7.4
+Feast
+Removed:
+Loses half stacks on death.
+New Effect:
+Can now stack infinitely (from 6), but can only gain up to 5 stacks from killing non-epic monsters or minions.
+Removed:
+Healing if at 6 stacks.
+Removed:
+Champion kill granting 2 stacks.
+Removed:
+Minions and monsters kill refunding 50% cooldown and mana cost.
+New Effect:
+Tooltip now lists how many minions, pets, monsters, dragons, epic monsters and champions you have eaten.
+AP ratio reduced to
+50% AP
+from
+70% AP
+.
+New Effect:
+Damage now scales with
+10%
+bonus
+health
+.
+Health per stack reduced to 80 / 110 / 140 from 100 / 140 / 180.
+New Effect:
+Reaches maximum size at 10 stacks.
+Maximum bonus attack range increased to 75 from 50.
+V6.20
+Feral Scream
+Cooldown reduced to 13 / 12 / 11 / 10 / 9 seconds from 13.
+Range increased to 650 from 585.
+Silence duration reduced to 1.
+5
+/ 1.
+625
+/ 1.
+75
+/ 1.
+875
+/ 2 seconds from 1.
+5
+/ 1.
+75
+/ 2 / 2.
+25
+/ 2.
+5
+.
+Bug Fix:
+Fixed a bug where units would be hit if they had escaped the area after the cast.
+V6.8
+General
+Adjusted splash artwork for
+Gentleman Cho'Gath
+.
+V6.7
+General
+Splash artwork for
+Gentleman Cho'Gath
+updated to the Chinese art.
+V6.6
+Feast
+Bonus health per stack increased to 100 / 140 / 180 from 90 / 120 / 150.
+V6.5
+General
+New ability icons
+V5.21
+Feast
+Tooltip updated.
+New Effect:
+Champion kills grant Cho'Gath 2 stacks.
+New Effect:
+When at max stacks it will restore 90 / 120 / 150 health on unit kill and double the amount on champion kill.
+Heal is functional despite not displaying in tooltip.
+V4.21
+Feast
+Cooldown increased to 80 seconds from 60.
+New Effect:
+Refunds 50% of both cooldown and mana cost if it kills a minion or monster.
+V4.18
+General
+New splash artwork for
+Original Cho'Gath
+.
+V4.8
+Feast
+Cast range increased to 175 from 150.
+Cast time reduced to 0.
+25
+seconds from 0.
+5
+V4.5
+Stats
+Base armor increased to 23 from 19.
+V3.15
+Rupture
+Tooltip corrected to state slow duration is 3 seconds and not 1.
+5
+V3.01
+Feral Scream
+Silence duration reduced to 1.
+5
+/ 1.
+75
+/ 2 / 2.
+25
+/ 2.
+5
+seconds from 2 / 2.
+25
+/ 2.
+5
+/ 2.
+75
+/ 3.
+V1.0.0.154
+Feral Scream
+Targeting cone now attached to Cho'Gath.
+V1.0.0.153
+Carnivore
+Health gain changed to
+20 − 71 (based on level)
+from
+34 − 68 (based on level)
+.
+V1.0.0.152
+Stats
+Movement speed increased to 345 from 320.
+V1.0.0.148
+General
+Ability tooltips updated
+V1.0.0.145
+General
+Ability tooltips updated
+V1.0.0.144
+Stats
+Magic resistance per level increased to 1.
+25
+from 0.
+Attack range normalized to 125 from 130.
+Rupture
+Cast time reduced to 0.
+5
+seconds from 0.
+672
+.
+Delay normalized to 0.
+625
+from 0.
+5
+- 0.
+75
+Feral Scream
+Cast time reduced to 0.
+5
+seconds from 0.
+6417
+.
+Vorpal Spikes
+Width now increases based on Cho'Gath's size.
+Feast
+Now grants Cho'Gath up to 50 additional attack range based on both rank and amount of stacks.
+Cast time normalized to 0.
+5
+seconds from 0.
+43
+.
+Range increased to 150 from 100.
+V1.0.0.140
+Rupture
+Red/green rings added to indicate which targets will be affected.
+Delay reduced to 0.
+65
+from 0.
+7
+.
+V1.0.0.139
+Stats
+Movement speed increased to 320 from 315.
+V1.0.0.133
+Feast
+Fixed a bug where it would fail to kill targets protected by shields.
+V1.0.0.125
+Feast
+Run animation speed while enlarged adjusted.
+V1.0.0.123
+Feast
+Fixed a bug where Cho'Gath could gain a stack even when the target did not die.
+V1.0.0.120
+Feast
+Now a particle will correctly appear if it can kill the target.
+V1.0.0.118b
+Rupture
+Chance of failing to knock up target reduced.
+V1.0.0.113
+Stats
+Health reduced to 520 from 550.
+Armor reduced to 19 from 21.
+Carnivore
+Mana gain reduced to
+3.
+5
+− 7.
+75
+(based on level)
+from
+7 − 15.
+5
+(based on level)
+.
+Feral Scream
+Base damage reduced to 75 / 125 / 175 / 225 / 275 from 80 / 130 / 180 / 240 / 300.
+Vorpal Spikes
+Base damage increased to 20 / 35 / 50 / 65 / 80 from 20 / 30 / 40 / 50 / 60.
+AP ratio increased to
+(+ 30% AP)
+from
+(+ 20% AP)
+Feast
+Base damage reduced to 300 / 475 / 650 from 300 / 550 / 800.
+AP ratio increased to
+(+ 70% AP)
+from
+(+ 50% AP)
+V1.0.0.109
+Feast
+Stacks loss on death changed to rounded-up half from 3.
+Inconsistent with
+V1.0.0.86
+V1.0.0.107
+Rupture
+Delay reduced to 0.
+75
+from 0.
+8
+Carnivore
+Health restored upon kill reduced to
+34 − 68 (based on level)
+from
+40 − 82 (based on level)
+.
+Mana restored upon kill reduced to
+7 − 15.
+5
+(based on level)
+from
+8 − 16.
+5
+(based on level)
+.
+V1.0.0.105
+Rupture
+Fixed a bug with the level-up tooltip showing the cooldown changing even though it did not.
+V1.0.0.103
+Rupture
+Cooldown reduced to 9 seconds from 10.
+Mana cost changed to 90 at all ranks from 80 / 90 / 100 / 110 / 120.
+Vorpal Spikes
+Is now classified as an area-of-effect spell for like
+Rylai's Crystal Scepter
+and
+Hextech Revolver
+.
+V1.0.0.100
+Feral Scream
+Silence duration reduced to 2 / 2.
+25
+/ 2.
+5
+/ 2.
+75
+/ 3 seconds from 2 / 2.
+5
+/ 3 / 3.
+5
+/ 4.
+Cooldown reduced to 13 seconds from 16.
+Vorpal Spikes
+Fixed a display error with death recap.
+V1.0.0.96
+Vorpal Spikes
+Will no longer trigger
+Spellblade
+.
+Will now fire even if Cho'Gath misses the target.
+Feast
+Can now be cast more easily on any unit, including:
+Dragon
+,
+Lizard Elder
+, or another very large Cho'Gath.
+V1.0.0.94
+General
+Cho'Gath will now be properly considered melee for items like
+Youmuu's Ghostblade
+.
+Vorpal Spikes
+Can now be toggled off.
+Feast
+Fixed a bug at Rank 3 where Cho'Gath has difficulty feasting when at maximum stacks.
+Fixed a bug where the ability buff tooltip was not updating the bonus health when Cho'Gath loses stacks.
+Fixed a bug where Cho'Gath was not scaling properly when he loses stacks.
+Fixed a bug where the
+Tenacity
+mastery caused it not to kill the target.
+V1.0.0.86
+Rupture
+Base damage is now dealt on knocking targets airborne from targets hitting the ground.
+Feast
+Stack loss on death changed to rounded-up half from all.
+V1.0.0.82
+General
+Auto attack animation timing tweaked.
+V1.0.0.79
+Feast
+Fixed a bug with damage values in Death Recap.
+Tooltip updated to reflect health gain on enemy kill.
+V1.0.0.74
+Feast
+Fixed a bug where it was not able to kill
+Poppy
+.
+V1.0.0.72
+Feast
+Fixed a bug where activating it when the target had too much health dealt too much damage.
+V1.0.0.63
+Rupture
+Slow duration reduced to 3 seconds from 4.
+V1.0.0.61
+Rupture
+Cast range reduced to 950 from 1000.
+Feral Scream
+AP ratio reduced to
+(+ 70% AP)
+from
+(+ 75% AP)
+Vorpal Spikes
+AP ratio reduced to
+(+ 20% AP)
+from
+(+ 25% AP)
+V1.0.0.52
+Rupture
+Range increased to 1000 from 900.
+Feral Scream
+Cooldown reduced to 16 seconds from 17.
+Range increased to 650 from 615.
+V1.0.0.32
+Feast
+Fixed an issue where Cho'Gath would not move close enough to the target at large sizes.
+V0.9.25.34
+General
+Secondary / critical strike animations updated
+Carnivore
+Cho'Gath now gains
+8 − 16.
+5
+(based on level)
+when killing a unit together with the health gain.
+V0.9.25.21
+Carnivore
+Health gain per kill increased to
+40 − 82 (based on level)
+from
+30 − 72 (based on level)
+.
+Vorpal Spikes
+Base damage reduced to 20 / 30 / 40 / 50 / 60 from 40 / 60 / 80 / 100 / 120.
+AP ratio reduced to
+(+ 25% AP)
+from
+(+ 33% AP)
+Now also hits Cho'Gath's primary target.
+Feast
+Cooldown reduced to 60 seconds from 70.
+New Effect:
+(+ 50% AP)
+ratio
+V0.9.22.16
+Feral Scream
+Cooldown reduced to 17 seconds from 20.
+Rupture
+Range increased to 900 from 800.
+Mana cost reduced to 80 / 90 / 100 / 110 / 120 from 80 / 95 / 110 / 125 / 140.
+Vorpal Spikes
+Base damage increased to 40 / 60 / 80 / 100 / 120 from 20 / 40 / 60 / 80 / 100.
+AP ratio increased to
+(+ 33% AP)
+from
+(+ 25% AP)
+Feast
+Size per stack reduced to 0.
+7
+/ 0.
+11
+/ 0.
+15
+from 0.
+9
+/ 0.
+15
+/ 0.
+18
+V0.9.22.15
+General
+Renamed to
+Cho'Gath, the Terror of the Void
+Size increased
+New voiceover
+Stats
+Movement speed increased to 315 from 310.
+Base damage increased to 56 from 50.
+Mana per level increased to 40 from 35.
+Attack range increased to 130 from 125.
+Rupture
+Base damage increased to 80 / 135 / 190 / 245 / 305 from 65 / 125 / 185 / 245 / 305.
+Feral Scream
+Base damage increased to 80 / 130 / 180 / 240 / 300 from 60 / 120 / 180 / 240 / 300.
+Vorpal Spikes
+Range increased by 50.
+Feast
+Size gain per stack slightly decreased.
+Fixed a bug which caused the level up tooltip to not display.
+V0.9.22.7
+Carnivore
+Health gain increased to
+30 − 72 (based on level)
+from
+15 − 72 (based on level)
+.
+V0.8.22.115
+Feast
+Fixed a bug causing the particle to incorrectly display on champions.
+V0.8.21.110
+Feast
+Consume health threshold changed to 300 / 550 / 800 from a percentage of target's health.
+Will no longer bypass
+Guardian Angel
+,
+Chronoshift
+, or
+Undying Rage
+.
+July 10, 2009 Patch
+Feast
+Tooltip updated.
+No longer kills through
+Guardian Angel
+or
+Chronoshift
+.
+June 26, 2009 Patch
+Added
+Carnivore
+-
+I
+Cho'Gath restores life upon killing units.
+Rupture
+-
+Q
+Cho'Gath causes the ground to rupture. After a short delay jagged spikes will emerge, popping enemies into the air, dealing damage and slowing them upon landing.
+Feral Scream
+-
+W
+Cho'Gath lets out a terrifying scream in a cone damaging and silencing enemies hit.
+Vorpal Spikes
+-
+E
+Passive:
+Cho'Gath's basic attacks send out spikes impaling enemy units behind his primary target.
+Feast
+-
+R
+Cho'Gath attempts to consume an enemy whole instantly killing it if below a health threshold. Each time Cho'Gath successfully devours a unit he grows in size, gaining health and increasing the consumption health threshold.
+Trivia
+[
+edit
+|
+edit source
+]
+Cho'Gath
+is one of 15 champions that have an ability that infinitely stacks an effect:
+Aurelion Sol
+,
+Bard
+,
+Bel'Veth
+,
+Draven
+,
+Kindred
+,
+Nasus
+,
+Senna
+,
+Shyvana
+,
+Sion
+,
+Smolder
+,
+Swain
+,
+Sylas
+,
+Thresh
+, and
+Veigar
+.
+In Cho'Gath's case,
+Feast
+infinitely stacks his
+health
+.
+Cho'Gath was the first
+champion
+to receive a second
+Legendary
+skin
+(though
+Corki
+has two
+1820
+skins both of which are
+Legacy
+and
+Tristana
+has also two
+1820
+skins although one is Legacy and the other one is available).
+Cho'Gath's dance references
+Fantasmic!
+by
+Mickey Mouse
+.
+Riot
+created an
+Adobe Flash
+minigame dedicated for him called
+Cho'Gath Eats the World
+for
+April Fools' Day
+2013
+.
+Another minigame released on the same date,
+Astro Teemo
+, which was unlocked by playing to a certain point in this game.
+The depiction of Cho'Gath in the
+icon of
+Feral Scream
+was based on his pose in his
+Original splash art
+.
+In the now-removed official League of Legends
+forums
+, the
+original icon of
+Feral Scream
+was used to represent the "General Discussion" section.
+In the official League of Legends game
+trailer
+from 2009, Cho'Gath was given generic T-Rex sounds.
+In the
+V1.0.0.115
+April Fools' Day
+patch;
+The following changes regarding Cho'Gath were jokingly listed：
+Cho'Gath now starts the game the same size as if he had 6
+feasts
+.
+Feast
+still increases Cho'Gath's size.
+Bushes
+can no longer
+stealth
+Cho'Gath.
+The following joke item was listed to be added:
+NEW Yordle Saddle: Any
+yordle
+champion can buy this new item to ride Cho'Gath.
+Cho'Gath was given a retexture and features as a monster called the "Big Stompy Monster" (along with its huge variant) in
+Invasion
+, a
+featured game mode
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Specialist
+Specialists
+are champions that do not fit into the "neat little boxes" of the other classes, and represent Riot's ideal of having a champion roster with a lot of distinctiveness and diversity.
+Examples
+Azir
+Teemo
+Heimerdinger
+Singed
+Gangplank
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Ward
+Wards
+are deployable units that that grant
+sight
+over the surrounding area. They can only be destroyed by
+basic attacks
+, granting
+gold
+and
+experience
+.
+There are three kinds of deployable
+wards
+available for purchase:
+Control Ward
+,
+Warding Totem
+, and
+Farsight Alteration
+. Other types of wards, such as
+Zombie Ward
+, are usable through various means.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Brush
+Brush
+is a common terrain feature that obstructs
+sight
+for any unit outside of it.
+League of Legends content
+Cleanse
+A unit that is
+cleansed
+has all applicable
+crowd control
+status effects removed.
+Due to the nature of the
+cleanse
+interaction, cleansing abilities and effects remain castable in circumstances that would otherwise inhibit casting, unless special-cased.
+"
+Cleanse
+" does not always refer to the act of removing
+all
+crowd control effects, some sources would specify only one or a few types of crowd control.
+A
+cleanse
+does not remove
+Stasis
+, but will remove the disable portion of
+Airborne
+.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Silence
+A unit that is
+silenced
+is unable to cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Interrupts:
+Interrupts all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Yone's
+Soul Unbound
+(recast).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Feast
+COOLDOWN:
+80 / 70 / 60
+Active:
+Cho'Gath
+devours an enemy, dealing
+true damage
+based on
+Cho'Gath's bonus
+health
+. If this attack kills the target,
+Cho'Gath
+gains a permanent
+Feast
+stack that infinitely stacks.
+Feast:
+For each stack,
+Cho'Gath
+gains
+bonus
+health
+,
+bonus
+attack range
+and increased
+size
+.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Wild Growth
+COOLDOWN:
+100 / 90 / 80
+Active:
+Lulu
+enchants herself or the target allied champion,
+knocking up
+surrounding enemies.
+The target remains enchanted for a few seconds, gaining
+bonus
+health
+, size, and an aura that
+slows
+nearby enemies.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+True damage
+Applies:
+Corrupting Potion
+Omnivamp
+Mitigated by:
+Damage shields
+Invulnerability
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Cho'Gath's profile page
+at
+LeagueOfLegends.com

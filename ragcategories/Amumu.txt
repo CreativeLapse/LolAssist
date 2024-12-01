@@ -1,0 +1,2506 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Amumu
+the Sad Mummy
+Release date
+2009-06-26
+Last changed
+V14.9
+Class(es)
+Vanguard
+Legacy
+Tank
+Support
+Position(s)
+Jungle
+Support
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Magic
+Store price
+450
+|
+260
+Crafting
++
+270
+Ratings
+Damage
+2
+Toughness
+3
+Control
+3
+Mobility
+1
+Utility
+1
+Style
+Difficulty
+Amumu
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Amumu
+Base statistics
+Edit
+Health
+685
++94
+Mana
+285
++40
+Health regen. (per 5s)
+9
++0.85
+Mana regen. (per 5s)
+7.4
++0.55
+Armor
+33
++4
+Attack damage
+57
++3.8
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+125
+Attack speed
+Base AS
+0.736
+Attack windup
+23.384%
+AS ratio
+0.638
+Bonus AS
++2.18
+%
+Unit radius
+Gameplay radius
+55
+Selection radius
+100
+Pathing radius
+30
+Acq. radius
+600
+Special statistics
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++5%
+Damage Dealt
++10%
+Damage Received
+-10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Cursed Touch
+Innate:
+Amumu's
+basic attacks and
+Curse of the Sad Mummy
+mark enemies with
+Curse
+.
+Despair
+will refresh ongoing
+Curse
+marks on enemies hit.
+Curse
+targets take
+bonus
+true damage
+from incoming
+magic damage
+.
+Innate:
+Amumu's
+basic attacks
+and
+Curse of the Sad Mummy
+are empowered to mark enemies with
+Curse
+for 3 seconds, refreshing on subsequent applications and
+Despair's
+per-tick damage.
+Cursed
+targets receive
+10%
+bonus
+true damage
+from all incoming
+pre-mitigation
+magic damage
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Default damage
+Sub-type
+True
+Counters
+Spell shield
+See Notes
+Parries
+Blocked
+If the triggering basic attack from
+Amumu
+applies
+magic damage
+on-hit
+,
+Curse
+will be applied before the
+magic damage
+.
+The
+Curse
+application from
+Curse of the Sad Mummy
+happens after the
+magic damage
+is dealt by it, therefore amplifying the damage only if the target was also already marked before the hit.
+Neutral units / enemies affected by the
+Curse
+can receive bonus damage from the opposing team of
+Amumu
+/ neutral units, but the damage will be credited to
+Amumu
+.
+The application of
+Curse
+on
+Curse of the Sad Mummy
+is negated if the ability is blocked by a
+spell shield
+.
+Video
+Edit
+Bandage Toss
+COST:
+45 / 50 / 55 / 60 / 65 mana
+CAST TIME:
+0.
+25
+STATIC COOLDOWN
+:
+3
+RECHARGE:
+16 / 15.
+5
+/ 15 / 14.
+5
+/ 14
+RANGE:
+1100
+WIDTH:
+160
+SPEED:
+2000
+/
+1800
+Active:
+Amumu
+throws a bandage that deals
+magic damage
+and
+stuns
+the first enemy hit while he
+dashes
+to them.
+Amumu
+periodically
+stocks
+a charge of
+Bandage Toss
+, up to 2.
+Active:
+Amumu
+throws a bandage in the target direction that deals
+magic damage
+to the first enemy hit,
+stunning
+them for 1 second and
+pulling
+him to them, during which they are
+revealed
+.
+Magic Damage:
+70 / 95 / 120 / 145 / 170
+(+ 85% AP)
+Amumu
+periodically
+stocks
+a
+Bandage Toss
+charge, up to a maximum of 2.
+Despair
+can be cast during the dash.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Amumu
+will track the target if they change locations.
+He will dash to the target's previous location if the target is 2000 or more units away or moves beyond
+2000
+units.
+Bandage Toss
+will always be directed towards the target's location even if
+Amumu
+moves while it is in flight.
+Immobilizing
+effects will not prevent
+Amumu
+from commencing the
+dash
+.
+Bandage Toss
+does not fizzle on
+Amumu's
+death
+, and can still stun and damage enemies.
+Amumu
+is still able to
+dash
+even if
+Bandage Toss
+is blocked by
+spell shield
+.
+Amumu
+will be ordered to basic attack the target upon completion of the dash.
+This ability will cast from wherever the caster is at the end of the cast time.
+Video
+Edit
+Despair
+COST:
+8 mana per second
+CAST TIME:
+none
+STATIC COOLDOWN
+:
+1
+EFFECT RADIUS:
+350
+Toggle:
+Amumu
+begins crying, continually dealing
+magic damage
+to nearby enemies based on
+their
+maximum
+health
+.
+Toggle:
+Amumu
+cries a continuous pool of tears, dealing
+magic damage
+every 0.
+5
+seconds to nearby enemies.
+Magic Damage Per Tick:
+5
+(+ 0.
+5
+/ 0.
+625
+/ 0.
+75
+/ 0.
+875
+/ 1%
+(+ 0.
+25
+% per 100 AP)
+of target's
+maximum
+health)
+Info
+Targeting input
+Auto
+Damage type
+Type
+AOE DOT damage
+Sub-type
+Magic
+Counters
+Spell shield
+Not Blocked
+Toggle abilities do not count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Despite the rounding in
+Despair's
+tooltip, it will deal increased damage for every point of
+ability power
+.
+Video
+Edit
+Tantrum
+COST:
+35 mana
+COOLDOWN:
+9 / 8 / 7 / 6 / 5
+CAST TIME:
+0.
+25
+EFFECT RADIUS:
+350
+Passive:
+Amumu
+gains damage reduction against
+physical damage
+.
+Tantrum's
+cooldown is reduced whenever he is hit by a
+basic attack
+.
+Active:
+Amumu
+releases his anger, dealing
+magic damage
+to nearby enemies.
+Passive:
+Amumu
+reduces every instance of
+pre-mitigation
+physical damage
+taken, capped at 50% of the damage instance.
+Physical Damage Reduction:
+5 / 7 / 9 / 11 / 13
+(+ 3%
+bonus
+armor)
+(+ 3%
+bonus
+magic resistance)
+Active:
+Amumu
+releases his anger, dealing
+magic damage
+to nearby enemies.
+Magic Damage:
+65 / 95 / 125 / 155 / 185
+(+ 50% AP)
+Tantrum's
+current
+cooldown
+is reduced by 0.
+75
+seconds whenever
+Amumu
+is hit by a
+basic attack
+.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+A
+basic attack
+'s
+basic damage
+and each
+on-hit
+effect are all separate damage instances, and may be reduced each if they deal
+physical damage
+.
+Tantrum's
+cooldown reduction will trigger multiple times for effects such as
+Double Strike
+and
+Guinsoo's Rageblade's
+Phantom Hit
+.
+The cooldown will be reduced, even if the incoming attack is
+blocked
+.
+The cooldown will not be reduced, if the incoming attack misses due to the enemy being
+blinded
+.
+This ability will cast from wherever the caster is at the end of the cast time.
+Video
+Edit
+Curse of the Sad Mummy
+COST:
+100 / 150 / 200 mana
+COOLDOWN:
+150 / 125 / 100
+CAST TIME:
+0.
+25
+EFFECT RADIUS:
+550
+Active:
+Amumu
+entangles nearby enemies in bandages, dealing
+magic damage
+as well as briefly
+knocking down
+and
+stunning
+them.
+Active:
+Amumu
+entangles nearby enemies in bandages, dealing
+magic damage
+as well as
+knocking down
+and
+stunning
+them for 1.
+5
+seconds.
+Magic Damage:
+200 / 300 / 400
+(+ 80% AP)
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+This ability will cast from wherever the caster is at the end of the cast time.
+Video
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Amumu (Collection)
+.
+Original
+View in 3D
+260
+25.06.2009
+Legend claims that Amumu is a lonely and melancholy soul from ancient Shurima, roaming the world in search of a friend. Doomed by an ancient curse to remain alone forever, his touch is death, his affection ruin. Those who claim to have seen him describe a living cadaver, small in stature and wrapped in creeping bandages. Amumu has inspired myths, songs, and folklore told and retold for generations—such that it is impossible to separate truth from fiction.
+Cristina Milizia
+Unknown artist
+Loot eligible
+Pharaoh
+View in 3D
+520
+02.02.2010
+Boy-king of the southern wastes, Amumu's mummified body still haunts the halls of his ancient tomb. His mournful sobbing can be heard over the brutal desert winds, luring in unwitting adventurers.
+Cristina Milizia
+Unknown artist
+Pharaoh
+Loot eligible
+Legacy
+Vancouver
+View in 3D
+520
+12.02.2010
+The Vancouver Board of Public Safety would like to assure citizens that no cursed mummies have been spotted within the city limits. Cursed mummies are not native to the Vancouver area. Please do not touch cursed mummies, spreading their mummy curse.
+Cristina Milizia
+Unknown artist
+Winter Sports
+Loot eligible
+Legacy
+Emumu
+View in 3D
+520
+01.08.2010
+When your friends let you down, the best thing to do is start a rock band driven by hard emotions.
+Cristina Milizia
+Unknown artist
+Goth
+Loot eligible
+Re-Gifted
+View in 3D
+520
+14.12.2010
+Like decorative soaps or a fifth pair of socks, Amumu has been passed back and forth between disgruntled family members for generations. For some reason nobody seems to want the sobbing, accursed mummy boy.
+Cristina Milizia
+Unknown artist
+Snowdown Showdown
+Loot eligible
+Legacy
+Almost-Prom King
+View in 3D
+520
+07.02.2011
+Cristina Milizia
+Unknown artist
+Day Job
+Loot eligible
+Legacy
+Little Knight
+View in 3D
+750
+18.07.2011
+A diminutive knight whose heart is brave and true, Sir Amumu of Shurima wants only to see peace reign the land in his lifetime. Considering that he's an undying, mummified princeling, he'll probably succeed.
+Cristina Milizia
+Katie 'TeaTime' De Sousa
+Medieval
+Loot eligible
+Sad Robot
+View in 3D
+1350
+28.05.2012
+What's worse than a robot without a heart? A child without a friend.
+Cristina Milizia
+Concept Art House
+Mad Scientists
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Surprise Party
+View in 3D
+1350
+31.03.2015
+Cristina Milizia
+Unknown artist
+Surprise Party
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Surprise Party Amumu Chromas
+Amethyst
+Aquamarine
+Catseye
+Citrine
+Pearl
+Rainbow
+Ruby
+Sapphire
+Infernal
+View in 3D
+1350
+16.10.2018
+When ancient pyromancers unleashed the malevolent Infernals upon the world, they also unintentionally summoned younger, lonelier creatures. A mere spark compared to the fiery monsters now ravaging the land, Amumu seeks only friendship… unwittingly incinerating all those he touches.
+Cristina Milizia
+Rudy Siswanto
+Infernal
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Infernal Amumu Chromas
+Amethyst
+Catseye
+Emerald
+Rose Quartz
+Ruby
+Hextech
+View in 3D
+Special
+26.09.2019
+A mechanical boy intended as a playmate for wealthy children, Amumu has been long forgotten in the advent of newer and more advanced Hextech innovations. But a child has feelings, and within his artificial mind something has begun to awaken that will change the history of Hextech forever.
+Cristina Milizia
+David Villegas, West Studio
+Hextech
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Pumpkin Prince
+View in 3D
+1350
+22.10.2020
+A lonely lad and prince of the patch, Amumu watches year after year as his people are decimated by possums and rowdy teenagers.
+Cristina Milizia
+David Villegas, West Studio
+Trick-or-Treat
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Pumpkin Prince Amumu Chromas
+Aquamarine
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sandstone
+Turquoise
+Porcelain
+View in 3D
+1350
+26.01.2022
+Eternally young due to his bond with the Rat Relic, Amumu's innocence belies centuries of existence. He's been lonely in ages past, but no more: Lux is like his big sister, and Kindred is his… Kindred? Companionship hasn't stopped his occasional tantrums, of course, but at least now there's someone to shine his porcelain eyes after a nice cathartic cry.
+Cristina Milizia
+Augusto Quirino, West Studio
+Porcelain
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Porcelain Amumu Chromas
+Aquamarine
+Catseye
+Emerald
+Golden Tiger
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Heartache
+View in 3D
+1350
+10.02.2023
+Dear Amumu, I see you around the halls, and at the battle of the bands. I'm afraid I'm just too shy to ask you to hold hands, I think you're really cool and I'd love to be your friend. I can't wait to finally meet you! Love, Your Secret Friend-mirer 'Til the End
+Cristina Milizia
+Ina Wong, West Studio
+Heartthrobs and Heartaches
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Heartache Amumu Chromas
+Amethyst
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.19
+- September 26th Hotfix
+Despair
+Base damage per tick reduced to 5 from from 7.
+Tantrum
+Base damage reduced to 65 / 95 / 125 / 155 / 185 from 65 / 100 / 135 / 170 / 205.
+V14.9
+Stats
+Attack damage increased to 57 from 53.
+Base armor increased to 33 from 30.
+V13.11
+Despair
+Base damage per tick reduced to 7 from 10.
+V13.9
+Despair
+Base damage per tick changed to 10 at all ranks from 6 / 8 / 10 / 12 / 14.
+Health ratio per tick increased to
+0.
+5
+/ 0.
+625
+/ 0.
+75
+/ 0.
+875
+/ 1% of target's
+maximum
+health
+from
+0.
+5
+/ 0.
+575
+/ 0.
+65
+/ 0.
+725
+/ 0.
+8
+%
+.
+V13.4
+Stats
+Health growth reduced to 94 from 100.
+Armor growth reduced to 4 from 4.
+2
+.
+Despair
+Health ratio per tick reduced to
+0.
+5
+/ 0.
+575
+/ 0.
+65
+/ 0.
+725
+/ 0.
+8
+% of target's
+maximum
+health
+from
+0.
+5
+/ 0.
+625
+/ 0.
+75
+/ 0.
+875
+/ 1%
+.
+V13.3
+Bandage Toss
+Mana cost increased to 45 / 50 / 55 / 60 / 65 from 40 / 45 / 50 / 55 / 60.
+Tantrum
+Base damage changed to 65 / 100 / 135 / 170 / 205 from 80 / 110 / 140 / 170 / 200.
+V13.1
+Tantrum
+Bug Fix:
+Now properly displays in the death recap the amount the cooldown is reduced by from enemy basic attacks.
+V12.23
+Stats
+Health growth increased to 100 from 89.
+Bandage Toss
+Mana cost increased to 40 / 45 / 50 / 55 / 60 from 30 / 35 / 40 / 45 / 50.
+Despair
+Health ratio per tick increased to
+0.
+5
+/ 0.
+625
+/ 0.
+75
+/ 0.
+875
+/ 1%
+maximum
+health
+from
+0.
+5
+/ 0.
+575
+/ 0.
+65
+/ 0.
+725
+/ 0.
+8
+%
+.
+Tantrum
+Base damage increased to 80 / 110 / 140 / 170 / 200 from 85 / 110 / 135 / 160 / 185.
+V12.22
+- November 17th Hotfix
+Tantrum
+Base damage increased to 85 / 110 / 135 / 160 / 185 from 75 / 100 / 125 / 150 / 175.
+Cooldown reduction from attacks increased to 0.
+75
+seconds from 0.
+5
+.
+V12.22
+Stats
+Base mana regeneration increased to 7.
+4
+from 7.
+38
+.
+Mana regeneration growth increased to 0.
+55
+from 0.
+53
+.
+V12.16
+General
+Adjusted splash artwork for
+Surprise Party Amumu
+.
+V12.12
+Bandage Toss
+Mana cost reduced to 30 / 35 / 40 / 45 / 50 from 70 at all ranks.
+Curse of the Sad Mummy
+Base damage increased to 200 / 300 / 400 from 150 / 250 / 350.
+V12.10
+Stats
+Base health increased to 685 from 615.
+Health growth increased to 89 from 75.
+Armor growth increased to 4.
+2
+from 3.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+V12.4
+Tantrum
+Base damage reduction increased to 5 / 7 / 9 / 11 / 13 from 2 / 4 / 6 / 8 / 10.
+V12.3
+General
+Base voice lines have been remastered to sound clearer, cleaner, and smoother.
+Stats
+Armor growth reduced to 3 from 3.
+5
+.
+Tantrum
+New Effect:
+Damage reduction is now capped at 50% of the damage instance.
+V11.20
+Bandage Toss
+Base damage reduced to 70 / 95 / 120 / 145 / 170 from 70 / 100 / 130 / 160 / 190.
+Mana cost increased to 70 at all ranks from 30 / 35 / 40 / 45 / 50.
+V11.17
+Stats
+Health growth reduced to 75 from 80.
+Armor growth reduced to 3.
+5
+from 3.
+8
+.
+Bandage Toss
+New Effect:
+Now uses a 2 charge system with a recharge time of 16 / 15.
+5
+/ 15 / 14.
+5
+/ 14 seconds, affected by ability haste.
+Cooldown reduced to 3 seconds between casts at all ranks, from 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8.
+Cooldown between casts is unaffected by ability haste.
+Base damage reduced to 70 / 100 / 130 / 160 / 190 from 80 / 130 / 180 / 230 / 280.
+AP ratio increased to
+85% AP
+from
+70% AP
+.
+Despair
+Base damage per tick increased to 6 / 8 / 10 / 12 / 14 from 4 / 6 / 8 / 10 / 12.
+Health ratio per tick reduced to
+0.
+5
+/ 0.
+575
+/ 0.
+65
+/ 0.
+725
+/ 0.
+8
+% of target's
+maximum
+health
+from
+0.
+5
+/ 0.
+625
+/ 0.
+75
+/ 0.
+875
+/ 1%
+.
+Curse of the Sad Mummy
+Stun duration reduced to 1.
+5
+seconds at all ranks from 1.
+5
+/ 1.
+75
+/ 2.
+V11.7
+Bandage Toss
+Mana cost reduced to 30 / 35 / 40 / 45 / 50 from 50 / 55 / 60 / 65 / 70.
+Tantrum
+Cooldown reduced to 9 / 8 / 7 / 6 / 5 seconds from 10 / 9 / 8 / 7 / 6.
+V11.4
+Stats
+Base health increased to 615 from 613.
+Tantrum
+Base damage increased to 75 / 100 / 125 / 150 / 175 from 75 / 95 / 115 / 135 / 155.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+Base attack damage reduced to 53 from 53.
+38
+.
+Base health reduced to 613 from 615.
+V10.24
+- November 25th Hotfix
+Stats
+Mana growth reduced to 40 from 60.
+Tantrum
+Base damage reduced to 75 / 95 / 115 / 135 / 155 from 75 / 100 / 125 / 150 / 175.
+Curse of the Sad Mummy
+Stun duration reduced to 1.
+5
+/ 1.
+75
+/ 2 seconds from 2 at all ranks.
+V10.24
+Despair
+Base damage per tick reduced to 4 / 6 / 8 / 10 / 12 from 5 / 7.
+5
+/ 10 / 12.
+5
+/ 15.
+AP ratio per tick reduced to
+0.
+25
+% per 100 AP
+from
+0.
+5
+% per 100 AP
+.
+Bug Fix:
+Damage no longer occasionally fires at a slightly increased pace.
+V10.23
+Stats
+Base health increased to 615 from 613.
+12
+.
+Health growth reduced to 80 from 84.
+Base armor reduced 30 from 33.
+Base mana reduced to 285 from 287.
+2
+.
+Mana growth increased to 60 from 40.
+V10.22
+Curse of the Sad Mummy
+New Effect:
+Now
+stuns
+enemies for 2 seconds.
+Removed:
+No longer
+disarms
+and
+roots
+enemies for 2 seconds.
+V10.21
+Cursed Touch
+Bug Fix:
+Fixed a bug where it would not apply through AoE damage abilities.
+V10.16
+Bandage Toss
+Bug Fix:
+Now properly grants a stack of
+Electrocute
+and
+Phase Rush
+and two stacks of
+Conqueror
+from the basic attack following after.
+V10.5
+Curse of the Sad Mummy
+Cooldown increased to 150 / 125 / 100 seconds from 130 / 115 / 100.
+V10.4
+Bandage Toss
+Dash speed increased to 1800 from 1350.
+Curse of the Sad Mummy
+Cooldown reduced to 130 / 115 / 100 seconds from 150 / 130 / 110.
+New Effect:
+Now stops enemies in the middle of their dashes.
+V9.24
+Bandage Toss
+Cooldown reduced to 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8 seconds from 12 / 11 / 10 / 9 / 8.
+V9.12
+General
+New visual effects.
+New basic attack hit effects.
+All skins cleaned up to match the new effects on the base skin.
+Cursed Touch
+Cleaned up existing effects.
+Bandage Toss
+Added a subtle effect to show the width of his missile and brightened the tip of it.
+Despair
+Now displays a reflection and has a better representation of the hitbox.
+New, more condensed impact effect.
+Tantrum
+New AoE, now with sand, and a better representation of the hitbox.
+Curse of the Sad Mummy
+More sand and actual Shuriman runes.
+Sad Robot Amumu
+New, robot-y effects across all his abilities.
+V9.11
+Cursed Touch
+Bonus true damage reduced to 10% from 13%.
+V9.8
+Cursed Touch
+Bonus true damage increased to 13% from 10%.
+Bandage Toss
+Cooldown to reduced to 12 / 11 / 10 / 9 / 8 seconds from 16 / 14 / 12 / 10 / 8.
+New Effect:
+Now follows his target for up to 2000 units from where he cast
+Bandage Toss
+, in case targets get out of the stun before he arrives.
+V8.24
+Infernal Amumu
+Bug Fix:
+Ruby Chroma's head flame VFX are now much more visible on all graphics settings.
+Sad Robot Amumu
+Despair
+Bug Fix:
+Particles no longer separate and clip through elevated terrain.
+V8.16
+Tantrum
+New Effect:
+Reduced physical damage now scales with
+3%
+bonus
+armor
+and
+3%
+bonus
+magic resistance
+.
+V8.9
+Bandage Toss
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 80 / 90 / 100 / 110 / 120.
+V8.4
+Despair
+Bug Fix:
+Now correctly deactivates when he runs out of mana.
+V8.3
+Stats
+Base health regeneration increased to 9 from 8.
+878
+.
+V7.24
+General
+New ability icons.
+V7.22
+Stats
+New:
+Now has +15%
+bonus
+attack speed at level 1.
+Base armor increased to 33 from 23.
+544
+.
+Surprise Party Amumu
+Curse of the Sad Mummy
+Bug Fix:
+Can no longer be heard in Fog of War.
+V7.14
+Bandage Toss
+Changed several interactions where it overwrote any spell queuing commands, instead forcing the caster to immediately begin basic-attacking once the ability completed.
+V7.9
+Curse of the Sad Mummy
+Bug Fix:
+VFX no longer appear in the wrong place if he flashes during its cast time.
+Bug Fix:
+VFX no longer stay on the map forever if he dies while casting it.
+V7.8
+Cursed Touch
+Bonus true damage reduced to 10% from 15%.
+New Effect:
+Bonus true damage is no longer reduced by magic resistance.
+Despair
+Health ratio per tick reduced to
+0.
+5
+/ 0.
+625
+/ 0.
+75
+/ 0.
+875
+/ 1% of target's
+maximum
+health
+from
+0.
+5
+/ 0.
+75
+/ 1 / 1.
+25
+/ 1.
+5
+%
+.
+V7.7
+Cursed Touch
+Removed:
+Basic attacks reduces target's magic resistance by
+15 / 20 / 25 (based on level)
+for 3 seconds.
+New Effect:
+Basic attacks apply
+Curse
+on target for 3 seconds.
+Cursed
+target receive
+15%
+bonus
+true damage
+from all incoming magic damage.
+Despair
+Base damage per second increased to 10 / 15 / 20 / 25 / 30 from 8 / 12 / 16 / 20 / 24.
+New Effect:
+Damage now applies every half second instead of every second.
+New Effect:
+Now refreshes
+Curse
+on targets.
+Curse of the Sad Mummy
+New Effect:
+Now applies
+Curse
+on targets.
+V7.2
+Despair
+Bug Fix:
+Sad Robot Amumu's
+Despair
+puddle no longer spins around as
+Amumu
+changes which way he's facing.
+Curse of the Sad Mummy
+Bug Fix:
+Emumu's
+bandage particles during
+Curse of the Sad Mummy
+are once again appropriately emo.
+V6.7
+General
+Splash artwork for
+Vancouver Amumu
+,
+Emumu
+,
+Re-Gifted Amumu
+and
+Almost-Prom King Amumu
+updated to the Chinese art.
+V5.16
+Stats
+Armor growth increased to 3.
+8
+from 3.
+3
+V5.6
+Despair
+Fixed a bug where Despair would not toggle off when Amumu ran out of mana.
+V4.20
+General
+Base armor reduced to 23.
+544
+from 27.
+544
+Despair
+Damage changed to
+1 / 1.
+5
+/ 2 / 2.
+5
+/ 3% of enemies' maximum health
+from
+1.
+5
+/ 1.
+8
+/ 2.
+1
+/ 2.
+4
+/ 2.
+7
+% of enemies' maximum health
+.
+V4.16
+General
+New lore
+V4.5
+Stats
+Base armor increased to 22 from 18.
+V3.03
+Bandage Toss
+Base damage reduced to 80 / 130 / 180 / 230 / 280 from 80 / 140 / 200 / 260 / 320.
+Curse of the Sad Mummy
+Radius reduced to 550 from 600.
+V1.0.0.154
+Cursed Touch
+Magic resistance reduction reduced to 15 / 20 / 25 from 15 / 25 / 35.
+V1.0.0.152
+Stats
+Movement speed increased to 335 from 310.
+V1.0.0.144
+Cursed Touch
+Debuff duration reduced to 3 seconds from 4.
+Tantrum
+Mana cost reduced to 35 from 50.
+Bandage Toss
+AP ratio reduced to
+70% AP
+from
+100% AP
+.
+Curse of the Sad Mummy
+AP ratio reduced to
+80% AP
+from
+100% AP
+.
+V1.0.0.143
+Despair
+Now displays a range indicator when hovered over.
+V1.0.0.141
+General
+Splash artwork for
+Original Amumu
+and
+Pharaoh Amumu
+updated to the Chinese art.
+V1.0.0.140b
+Fixed a bug that caused players to hear
+Sad Robot Amumu
+'s voice across the map.
+V1.0.0.139
+Stats
+Magic resistance per level increased to 1.
+25
+from 0.
+Curse of the Sad Mummy
+Cooldown reduced to 150 / 130 / 110 seconds from 170 / 150 / 120.
+V1.0.0.133
+Despair
+Fixed a bug where it was gaining less damage from ability power than intended.
+V1.0.0.128
+Stats
+Range increased to 125 from 100.
+V1.0.0.123
+Bandage Toss
+Amumu will now attempt to attack the target after successfully pulling himself to an enemy champion.
+V1.0.0.111
+Stats
+Base attack damage increased to 47 from 45.
+Base armor increased to 18 from 15.
+Tantrum
+Passive physical damage reduction increased to 2 / 4 / 6 / 8 / 10 from 1 / 2 / 3 / 4 / 5.
+Despair
+Mana cost per second reduced to 8 from 10 at all ranks.
+Now has a new particle to match the area of effect.
+V1.0.0.105
+Curse of the Sad Mummy
+Base damage reduced to 150 / 250 / 350 from 150 / 300 / 450.
+Damage is now dealt immediately instead of over time.
+It is now consistent with other similar skills (
+Dark Binding
+,
+Crescendo
+) and will deal damage to
+Black Shield
+.
+Fixed a bug where it was disabling enemies for too long.
+V1.0.0.103
+Bandage Toss
+Cooldown reduced to 16 / 14 / 12 / 10 / 8 seconds from 18 / 16 / 14 / 12 / 10.
+Curse of the Sad Mummy
+Duration reduced to 2 seconds from 2.
+5
+V1.0.0.102
+Cursed Touch
+Debuff duration reduced to 4 seconds from 5.
+V1.0.0.100
+Cursed Touch
+Magic resistance reduction reduced to 15 / 25 / 35 from 20 / 30 / 40.
+Bandage Toss
+Can no longer be cast while rooted.
+Curse of the Sad Mummy
+Tooltip corrected to state that enemies are rooted and cannot attack or move.
+V1.0.0.96
+General
+Fixed an issue where Amumu's attack timing was too slow.
+V1.0.0.87
+Cursed Touch
+Updated the tooltip to include the duration of the magic resistance debuff.
+V1.0.0.85
+Stats
+Health per level increased to 84 from 76.
+Base damage increased to 45 from 40.
+Damage per level decreased to 3.
+6
+from 3.
+8
+.
+Mana regen per level increased to 0.
+065
+from 0.
+06
+.
+Tantrum
+Cooldown reduced to 10 / 9 / 8 / 7 / 6 seconds from 21 / 18 / 15 / 12 / 9.
+Cooldown reduction upon being hit reduced to 0.
+5
+seconds from 1.
+Despair
+Increased the aura range to 350 at all ranks from 250 / 275 / 300 / 325 / 350.
+Added a base damage of 8 / 12 / 16 / 20 / 24 to the damage dealt based on the target's maximum health.
+Enemy health
+scaling decreased to 1.
+5
+/ 1.
+8
+/ 2.
+1
+/ 2.
+4
+/ 2.
+7
+% from 2.
+3
+/ 2.
+6
+/ 2.
+9
+/ 3.
+2
+/ 3.
+5
+%.
+V1.0.0.79
+Bandage Toss
+Mana cost reduced to 80 / 90 / 100 / 110 / 120 from 90 / 100 / 110 / 120 / 130.
+V1.0.0.72
+Bandage Toss
+Mana cost reduced to 90 / 100 / 110 / 120 / 130 from 130 at all ranks.
+New animation.
+Curse of the Sad Mummy
+Cooldown reduced to 170 / 150 / 130 seconds from 180 / 160 / 140.
+V1.0.0.63
+Despair
+Fixed a bug where damage was incorrectly being calculated from Amumu's health instead of each nearby enemy's.
+Fixed an inconsistency in damage where the first tick was dealing a different amount than subsequent ticks.
+V1.0.0.61
+Bandage Toss
+Fixed a bug which caused it to deal too much damage.
+Tantrum
+Base damage reduced to 75 / 100 / 125 / 150 / 175 from 100 / 120 / 140 / 160 / 180.
+V1.0.0.52
+Tantrum
+Damage changed to 100 / 120 / 140 / 160 / 180 from 115 / 130 / 145 / 160 / 175.
+Curse of the Sad Mummy
+Duration reduced to 2.
+5
+seconds from 3.
+V0.9.25.34
+Tantrum
+Mana cost increased to 50 at all ranks from 50 / 45 / 40 / 35 / 30.
+Base damage changed to 115 / 130 / 145 / 160 / 175 from 155 at all ranks.
+V0.9.25.21
+Stats
+Base armor reduced to 18 from 21.
+Bandage Toss
+Base damage reduced to 80 / 140 / 200 / 260 / 320 from 75 / 140 / 205 / 275 / 350.
+Tantrum
+Cooldown changed to 21 / 18 / 15 / 12 / 9 seconds from 20 / 18 / 16 / 14 / 12.
+Cooldown reduction on being hit reduced to 1 second from 2.
+V0.9.22.16
+Bandage Toss
+Improved skillshot speed and ease of use.
+Despair
+Health drain increased to 2.
+3
+/ 2.
+6
+/ 2.
+9
+/ 3.
+2
+/ 3.
+5
+from 2 / 2.
+25
+/ 2.
+5
+/ 2.
+75
+/ 3.
+V0.9.22.15
+Bandage Toss
+Base damage increased to 75 / 140 / 205 / 275 / 350 from 50 / 125 / 200 / 275 / 350.
+V0.8.22.115
+Cursed Touch
+Now properly shows up as a debuff.
+June 26, 2009 Patch
+Added
+Cursed Touch
+-
+I
+Amumu's physical attacks reduce his target's magic resistance.
+Bandage Toss
+-
+Q
+Amumu sends out a sticky bandage, if it encounters an enemy unit it will damage and stun them while Amumu pulls himself to them.
+Despair
+-
+W
+Toggle:
+Enemies within a short range of Amumu lose x% of their life each second.
+Tantrum
+-
+E
+Passive:
+Permanently reduces physical damage dealt to Amumu.
+Active:
+Upon being hit a number of times he can unleash his rage to deal magic damage to surrounding units.
+Curse of the Sad Mummy
+-
+R
+Amumu entangles surrounding units, dealing damage and causing them to be unable to move for a short duration.
+Trivia
+[
+edit
+|
+edit source
+]
+Amumu's original icon for
+Bandage Toss
+shows him in a pose that references
+Spider-Man
+'s web shooting from
+Marvel Comics
+.
+Amumu is seen on a caution sign in the game's Mac Version trailer.
+Amumu was the third
+champion
+to attain 7
+skins
+.
+Amumu's dance references the Goth kids'
+dance
+in
+South Park
+.
+A side-by-side comparison can be seen
+here.
+Both are in turn parodying classic '
+Peanut's Dance
+', a bizarre shuffling dance performed by the characters from the
+Peanuts
+comic and animated films.
+When Amumu dies, his pose is that of an Egyptian
+mummy
+with his arms crossed right over left.
+This is a nod to him being a
+Shuriman
+boy prince in life.
+Amumu's price range was lowered from
+1350
+to
+450
+in accordance with the release of his
+The Curse of the Sad Mummy
+music video.
+Amumu and
+Blitzcrank
+were
+planned
+to have
+Sewn
+Chaos
+skins, but both were
+cancelled
+for
+failing
+to meet
+Riot
+'s quality standards.
+They may return in the future.
+The
+ward skin
+Sad Mummy Ward
+references him.
+He has a base size of 50 which is considered medium.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Vanguard
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+Vanguards
+are offensive tanks. Vanguards lead the charge for their team and specialize at bringing the action. Their explosive team fight initiation seeks to catch enemies out of position while allowing allies to follow-up to devastating effect.
+Examples
+Amumu
+Leona
+Sejuani
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Curse of the Sad Mummy
+COOLDOWN:
+150 / 125 / 100
+Active:
+Amumu
+entangles nearby enemies in bandages, dealing
+magic damage
+as well as briefly
+knocking down
+and
+stunning
+them.
+League of Legends content
+Despair
+STATIC CD:
+1
+Toggle:
+Amumu
+begins crying, continually dealing
+magic damage
+to nearby enemies based on
+their
+maximum
+health
+.
+League of Legends content
+Default damage
+Default damage
+is dealt by effects that are not otherwise classified, or are deliberately left unclassified. This most common source of
+default damage
+is splash damage from basic attacks.
+Default damage
+does not interact with most other effects, such as
+Conqueror
+stacking,
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of the damage's non-reactive nature (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+True damage
+Applies:
+Corrupting Potion
+Omnivamp
+Mitigated by:
+Damage shields
+Invulnerability
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Standard sight
+Standard sight
+reveals units through
+fog of war
+and
+brush
+, but
+not
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Immobilize
+Immobilized
+units cannot control their movement. The following crowd control effects
+immobilize
+the unit:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Root
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Impaired movement
+is a similar term that, in addition to the above, also refers to units that are
+slowed
+.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Persistent area damage
+Persistent area damage
+is technically not a separate type of damage, but rather a hybrid classification that is applied to some spells.
+In situations where
+persistent damage
+and
+area damage
+would have conflicting outputs, the conflict is resolved by choosing the weakest possible outcome.
+Physical vamp
+and
+Spell vamp
+(where applicable) heals with one-third effectiveness, as with
+area damage
+.
+Arcane Comet's
+cooldown is reduced by 5%, as with
+persistent damage
+, per target affected.
+Counter Strike
+reduces the damage dealt by 25%, as with
+area damage
+.
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Basic attack
+The
+basic attack
+(or
+auto-attack
+) is the most basic means of a unit to deal damage to another unit, usually dealing
+100% AD
+. It has a brief cooldown based on the caster's current
+attack speed
+.
+All
+basic attacks
+are normally unit-targeted with their range limited by the caster's
+attack range
+, and have a brief attack
+windup
+. Damage is then dealt depending on the caster's range type:
+Melee
+and some projectile-less ranged attacks deal damage immediately.
+Ranged
+attacks usually send a projectile that follows the target and deals damage upon striking them. Projectiles can be intercepted by certain
+blocking
+effects.
+The damage event will trigger
+on-hit effects
+from buffs the caster may hold. If damage cannot be dealt, on-hit effects will not be triggered.
+On-attack
+effects will always trigger when the attack's
+windup
+completes.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Double Strike
+Innate:
+Master Yi's
+basic attacks generate a stack of
+Double Strike
+for a few seconds. At 3 stacks, his next basic attack will consume them to make a second attack that deals
+reduced
+physical damage
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Knockdown
+Knockdown
+only affects units that are performing a
+dash
+or being displaced by an
+airborne
+effect. A unit that is
+knocked down
+has its
+dash
+or
+displacement
+interrupted and is placed on the ground instantly.
+Knockdown
+is not a
+status effect
+.
+Interrupts:
+Interrupts all
+dashes
+and
+airborne effects
+(displacement
+and
+status effects).
+Knock ups
+will not have their
+airborne
+status removed if there is no sourced debuff, but their displacement still ends.
+Reduction:
+The effect is instantaneous.
+There is nothing to reduce.
+Resist:
+Resisted by
+crowd control immunity
+and
+displacement immunity
+.
+Removal:
+The effect is instantaneous.
+There is nothing to remove.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Tantrum
+COOLDOWN:
+9 / 8 / 7 / 6 / 5
+Passive:
+Amumu
+gains damage reduction against
+physical damage
+.
+Tantrum's
+cooldown is reduced whenever he is hit by a
+basic attack
+.
+Active:
+Amumu
+releases his anger, dealing
+magic damage
+to nearby enemies.
+League of Legends content
+Bandage Toss
+RECHARGE:
+16 / 15.
+5
+/ 15 / 14.
+5
+/ 14
+Active:
+Amumu
+throws a bandage that deals
+magic damage
+and
+stuns
+the first enemy hit while he
+dashes
+to them.
+Amumu
+periodically
+stocks
+a charge of
+Bandage Toss
+, up to 2.
+References
+[
+edit
+|
+edit source
+]
+↑
+Amumu's profile page
+at
+LeagueOfLegends.com

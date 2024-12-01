@@ -1,0 +1,2927 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Aurelion Sol
+The Star Forger
+Release date
+2016-03-24
+Last changed
+V14.21
+Class(es)
+Battlemage
+Legacy
+Mage
+Position(s)
+Middle
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Aurelion Sol
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+AurelionSol
+Base statistics
+Edit
+Health
+600
++90
+Mana
+530
++40
+Health regen. (per 5s)
+5.5
++0.55
+Mana regen. (per 5s)
+8
++0.75
+Armor
+22
++4
+Attack damage
+58
++3.2
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+550
+Attack speed
+Base AS
+0.625
+Attack windup
+20%
+AS ratio
+N/A
+Bonus AS
++1.5
+%
+Unit radius
+Gameplay radius
+80
+Selection radius
+150
+Pathing radius
+35
+Acq. radius
+400
+Special statistics
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++2%
+Damage Received
+-8%
+Ability Haste
+-20
+Damage Dealt
++10%
+Damage Received
+-10%
+Damage Dealt
++5%
+Damage Received
++0%
+Move Speed
++20%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Cosmic Creator
+Innate:
+Aurelion Sol's
+damaging abilities against enemies generate him permanent stacks of
+Stardust
+, which gradually augments of his abilities.
+Breath of Light's
+bursts deal
+bonus
+magic damage
+based on the
+target's
+maximum
+health
+.
+Astral Flight's
+distance is increased.
+Singularity's
+area and execute threshold are increased.
+Falling Star
+/
+The Skies Descend
+has increased impact area.
+Innate:
+Aurelion Sol's
+damaging
+abilities
+against enemies generate him permanent stacks of
+Stardust
+, which gradually augments his abilities.
+Breath of Light
+: Bursts deal
+bonus
+magic damage
+based on the
+target's
+maximum
+health
+.
+Astral Flight
+: Range is increased equal to
+62.
+5
+% Stardust
+.
+Singularity
+: Outer and inner radius increased equal to
+15% Stardust
+, and the execution threshold is increased.
+Falling Star
+/
+The Skies Descend
+: Impact radius increased equal to
+15% Stardust
+.
+Info
+Targeting input
+Passive
+Singularity's
+relative size and ratio stays the same when affected by
+Cosmic Creator's
+size modifier.
+Map-Specific Differences
+Arena
+differences
+edit
+New Effect:
+Gains
+40 Stardust
+stacks per round.
+Edit
+Breath of Light
+COST:
+8.
+75
+/ 10 / 11.
+25
+/ 12.
+5
+/ 13.
+75
+Mana per 0.
+25
+seconds
+COOLDOWN
+:
+3
+CAST TIME:
+none
+RANGE:
+750 − 920 (based on level)
+Initial Cost
+:
+30 / 35 / 40 / 45 / 50 Mana
+Active:
+Aurelion Sol
+charges
+up to a short time, exhaling a beam in the target direction that continuously deals
+magic damage
+to the first enemy hit and reduced damage to other enemies.
+Aurelion Sol
+can steer the beam in any direction. The beam will deal a burst of
+bonus
+magic damage
+for each full second that it damages the same enemy, and generates
+Stardust
+if the target is a
+champion
+.  At max rank,
+Breath of Light's
+channel duration may last indefinitely.
+Active:
+Aurelion Sol
+charges
+for up to 3.
+25
+seconds to exhale a beam of starfire, during which he can steer the beam in the target direction. The beam collides with the first enemy hit to
+reveal
+them and deal
+magic damage
+every 0.
+125
+seconds, reduced to 50% for other surrounding enemies hit by the beam.
+Magic Damage per Tick:
+5.
+625
+/ 7.
+5
+/ 9.
+375
+/ 11.
+25
+/ 13.
+125
+(+ 6.
+875
+% AP)
+Reduced Damage per Tick:
+2.
+8125
+/ 3.
+75
+/ 4.
+6875
+/ 5.
+625
+/ 6.
+5625
+(+ 3.
+4375
+% AP)
+Total Maximum Magic Damage
+:
+146.
+25
+/ 211.
+25
+/ 276.
+25
+/ 341.
+25
+(+ 178.
+75
+% AP)
+The beam will deal a burst of
+bonus
+magic damage
+for each full second that it damages the same enemy, and generates
+2 Stardust
+if the target is a
+champion
+. The damage based on the target's health ratio is capped at 300 against
+monsters
+.
+Bonus Magic Damage:
+55 / 65 / 75 / 85 / 95
+(+ 30% AP)
+(+
+(3.
+1
+% Stardust)
+%
+of target's
+maximum
+health
+Breath of Light
+can be recast within the duration, and does so automatically afterwards.
+Recast:
+Aurelion Sol
+ends
+Breath of Light
+early.
+At rank 5,
+Breath of Light's
+channel duration is increased to 160 seconds.
+Breath of Light cannot be cast for 1 second if the channel is cancelled within the first 0.
+25
+seconds.
+Info
+Targeting input
+Direction
+Damage type
+Type
+See Notes
+Sub-type
+Magic
+Minion Aggro
+See Notes
+Counters
+Spell shield
+See Notes
+Projectile
+Not Blocked
+Disruption
+Interrupted
+Applies
+spell damage
+on the burst and
+persistent area damage
+on the beam.
+Breath of Light's
+bursts against an enemy champion will aggro nearby enemy minions.
+Breath of Light
+places a timer on each target, which ticks in 0.
+2
+second intervals. Thus, at
+「 5 completed intervals 」
+「 1 full second 」
+, the burst damage is procced.
+The timer's visuals themselves otherwise serve no other purpose than gameplay clarity.
+The timer falls off and resets to zero immediately upon no longer damaging affected targets.
+Spell shield
+will only block the burst damage.
+The following table refers to interactions while
+Aurelion Sol
+is
+charging
+.
+Type
+Channel
+Attacking
+Interrupts
+Abilities
+Interrupts
+Movement
+Interrupts
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+Hextech Rocketbelt
+Interrupted by
+All item-actives not specified above interrupt
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Teleport
+Interrupted by
+Flash
+Recall
+Hexflash
+Interrupted by
+Death
+Cast-inhibiting effects
+Map-Specific Differences
+Arena
+differences
+edit
+Burst damage health ratio changed to
+(4% Stardust)
+%
+of target's
+maximum
+health
+.
+Edit
+Astral Flight
+COST:
+50 / 55 / 60 / 65 / 70 Mana
+COOLDOWN
+:
+22 / 20.
+5
+/ 19 / 17.
+5
+/ 16
+CAST TIME:
+0.
+4
+TARGET RANGE:
+1500 (+ 7.
+5
+×
+Stardust
+)
+SPEED:
+335 +
+100% movement speed
+/
+167.
+5
++
+50% movement speed
+Active:
+Aurelion Sol
+flies
+in the target direction. During flight, he can cast any of his abilities, and
+Breath of Light
+has no
+cooldown
+, no maximum channel duration, and its flat damage is increased.
+Aurelion Sol
+flies at a reduced speed while channeling
+Breath of Light
+.
+Astral Flight
+can be recast during flight, and does so automatically upon arrival.
+Recast:
+Aurelion Sol
+ends
+Astral Flight
+. Scoring a champion
+takedown
+within 3 seconds of damaging them refunds a large portion of
+Astral Flight's
+cooldown
+.
+Active:
+Aurelion Sol
+dashes
+in the target direction and resets
+Breath of Light's
+cooldown
+. During flight, he has
+unobstructed vision
+and
+Breath of Light
+has no cooldown and maximum channel duration and its flat damage is increased, but
+Astral Flight's
+dash speed is reduced by 50% during its channel.
+Breath of Light
+Flat Damage Modifier:
+108 / 109 / 110 / 111 / 112%
+Aurelion Sol
+will be
+knocked down
+by any
+immobilizing
+crowd control during the dash.
+Astral Flight
+can be recast after 0.
+5
+seconds during the dash, and does so automatically upon arrival.
+Recast:
+Aurelion Sol
+ends
+Astral Flight
+.
+Scoring a champion
+takedown
+within 3 seconds of damaging them reduces
+Astral Flight's
+current
+cooldown
+by 90% of its
+total
+cooldown.
+Aurelion Sol
+will not dash if he is
+immobilized
+or
+grounded
+during the cast time. He can cast any of his abilities during the dash.
+Breath of Light's
+channel will be interrupted if Astral Flight ends or
+Singularity
+is cast during the flight, but the ability will automatically be cast afterwards.
+Info
+Targeting input
+Direction
+Counters
+Grounded
+Disabled
+Knockdown
+Interrupted
+If a
+takedown
+is scored while
+Astral Flight
+is active, the cooldown will be reduced after it ends.
+Astral Flight
+cannot be used in the first 15 seconds of the game.
+The following table refers for interactions while
+Aurelion Sol
+is
+dashing
+:
+Attacking
+Interrupts
+Abilities
+Allowed
+Movement
+Interrupts
+Items
+Usable
+All the other item-actives are usable
+Disabled
+N/A
+Interrupted by
+Zhonya's Hourglass
+Hextech Rocketbelt
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Hexflash
+Disabled
+Teleport
+Recall
+Interrupted by
+Flash
+Interrupted by
+Death
+Immobilizing effects
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 10 / 9 / 8 / 7 / 6 seconds.
+Edit
+Singularity
+COST:
+90 Mana
+COOLDOWN
+:
+12
+CAST TIME:
+0.
+2
+TARGET RANGE:
+750 − 920 (based on level)
+EFFECT RADIUS:
+√(
+275
+² + 16.
+93
+²  ×
+Stardust
+)
+INNER RADIUS:
+√(
+137.
+5
+² + 8.
+46
+²  ×
+Stardust
+)
+Active:
+Aurelion Sol
+conjures a black hole at the target location for a few seconds that continually deals
+magic damage
+to enemies within. Enemies in the black hole are
+dragged
+toward the center. Enemies within the center are
+executed
+at low health
+. After
+Singularity
+ends, it generates
+Stardust
+for each full second that enemy champions were inside, as well as for each enemy
+takedown
+.
+Active:
+Aurelion Sol
+conjures a black hole at the target location after a
+0.
+5
+-second delay
+that lasts for 5 seconds, granting
+sight
+of the area and dealing
+magic damage
+every 0.
+25
+seconds to enemies within.
+Magic Damage per Tick:
+2.
+5
+/ 3.
+75
+/ 5 / 6.
+25
+/ 7.
+5
+(+ 3% AP)
+Total Magic Damage:
+50 / 75 / 100 / 125 / 150
+(+ 60% AP)
+Enemies in the black hole are
+dragged
+inward until they reach the center, and
+minions
+and
+monsters
+also have their
+movement speed
+reduced
+to
+0
+. Enemies within the center are
+executed
+below
+5%
+(+ 2.
+6
+% Stardust)%
+of their
+maximum
+health
+, excluding epic monsters.
+After
+Singularity
+ends, it generates
+1 Stardust
+for each full second that enemy champions were inside it, as well as varying amounts for enemy units that were killed while being within the area:
+Champions and epic monsters grant
+2 Stardust
+.
+Large minions and monsters grant
+2 Stardust
+.
+Small minions and monsters grant
+1 Stardust
+.
+Singularity will cast at max range if cast within 200 units beyond. During
+Astral Flight
+, it will cast at max range if cast at any range beyond.
+Info
+Targeting input
+Location
+Damage type
+Type
+AOE DOT damage
+Sub-type
+Magic
+Minion Aggro
+See Notes
+Counters
+Spell shield
+See Notes
+The damage area hits targets by their
+edge
+, while the
+kinematics
+area hits targets by their
+center
+. This makes a slight fringe where targets may be damaged without displacing them.
+Spell shield
+will block a single instance of damage.
+Singularity's
+execute against an enemy champion will aggro nearby enemy minions.
+Map-Specific Differences
+Howling Abyss
+differences
+edit
+Cooldown changed to 14 seconds.
+Arena
+differences
+edit
+Cooldown changed to 8 seconds.
+Edit
+Falling Star
+COST:
+100 Mana
+COOLDOWN:
+120 / 110 / 100
+CAST TIME:
+none
+TARGET RANGE:
+1250
+EFFECT RADIUS:
+√(
+275
+² + 16.
+93
+²  ×
+Stardust
+)
+Active:
+Aurelion Sol
+calls down a star that strikes the target location, dealing
+magic damage
+and briefly
+stunning
+enemies hit. This generates
+Stardust
+for each enemy champion hit. After gathering enough
+Stardust
+, the next cast of
+Falling Star
+transforms into
+The Skies Descend
+, empowering the impact with new effects.
+Active:
+Aurelion Sol
+calls down a star that strikes the target location after 1.
+25
+seconds, dealing
+magic damage
+to enemies hit and
+stunning
+them for 1 second. This generates
+5 Stardust
+for each enemy
+champion
+hit.
+Magic Damage:
+150 / 250 / 350
+(+ 75% AP)
+Once
+Falling Star
+has been learned, gathering
+75 Stardust
+causes the next cast of
+Falling Star
+to transform into
+The Skies Descend
+, empowering the impact with new effects.
+Falling Star will cast at max range if cast within 200 units beyond that. During
+Astral Flight
+, it will do so at any range beyond the max.
+Transformation alert.
+Edit
+The Skies Descend
+EFFECT RADIUS:
+5000
+INNER RADIUS:
+√(
+388.
+91
+² + 21.
+85
+²  ×
+Stardust
+)
+Active:
+Aurelion Sol
+calls down a giant star that strikes the target location, dealing
+increased magic damage
+in a larger area and briefly
+knocking up
+enemies hit. This sends a massive shockwave that rapidly expands outward, briefly
+slowing
+all enemies hit, and dealing
+magic damage
+to enemy champions and epic
+monsters
+.
+Active:
+Aurelion Sol
+calls down a giant star that strikes the target location after 2 seconds, dealing
+25% increased damage
+in a larger area and
+knocking up
+enemies hit for 1 second.
+Empowered Magic Damage:
+187.
+5
+/ 312.
+5
+/ 437.
+5
+(+ 93.
+75
+% AP)
+Additionally, the impact sends a massive shockwave that rapidly expands from the area over 3 seconds, dealing
+magic damage
+to enemy champions and epic
+monsters
+hit,
+slowing
+all enemies hit by 50% for 1 second, and
+revealing
+them for 1.
+5
+seconds.
+Magic Damage:
+135 / 225 / 315
+(+ 67.
+5
+% AP)
+The Skies Descend will cast at max range if cast within 200 units beyond that. During
+Astral Flight
+, it will do so at any range beyond the max. Enemies hit by the star are immune to the shockwave.
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Projectile
+See Notes
+Notes
+Aurelion Sol
+will transform
+Falling Star
+into
+The Skies Descend
+each time he gathers
+75 Stardust
+from the last time he used the empowered cast, or once he has gathered that amount after learning the ability.
+Stardust
+required for transformation is denoted by a progress bar over
+Falling Star
+in the HUD.
+Falling Star
+will impact immediately upon colliding with projectile-intercepting effects.
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+See Notes
+Notes
+The shockwave radius and path are globally visible on the minimap.
+The shockwave's radius is fixed.
+The Skies Descend
+will impact immediately upon colliding with projectile-intercepting effects.
+The shockwave is not blocked.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Aurelion Sol (Collection)
+.
+Original
+View in 3D
+880
+24.03.2016
+Aurelion Sol once graced the vast emptiness of the cosmos with celestial wonders of his own devising. Now, he is forced to wield his awesome power at the behest of a space-faring empire that tricked him into servitude. Desiring a return to his star-forging ways, Aurelion Sol will drag the very stars from the sky, if he must, in order to regain his freedom.
+Neil Kaplan
+Jean 'Curing' Go
+Loot eligible
+Ashen Lord
+View in 3D
+1350
+24.03.2016
+Pyromancer cultists unwisely summoned the god of fire and ruin—the Ashen Lord—into the world hoping to control his power. Instead, he unleashed his infernal legions to remake all things in his image: cinder, ash, and death.
+Neil Kaplan
+Evan 'Somnicidal' Monteiro
+Infernal
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Mecha
+View in 3D
+1350
+16.08.2018
+Designated ASOL-13, the “Mecha Aurelion Sol” is a gigantic, mobile mothership carrying tens of thousands of personnel, attack fighters, and ground-based anti-kaiju vehicles. Buried within its hull are a vast array of weapons, making ASOL-13 more than a match for even the most gargantuan kaiju.
+Neil Kaplan
+Xu 'Crow God' Cheng
+Mecha
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Mecha Aurelion Sol Chromas
+Amethyst
+Catseye
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Storm Dragon
+View in 3D
+1350
+01.10.2020
+The dragon Aurelion Sol, known to seven generations of worshippers as Ao Shin, has long awaited the ascent of a warrior worthy of receiving the power of the storm. Now, with Lee Sin's transformation into the Dragonmancer, Ao Shin has directed his impossible power towards purging the world of evil.
+Neil Kaplan
+Zuoan Dong, Kudos Productions
+Dragonmancers
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Storm Dragon Aurelion Sol Chromas
+Amethyst
+Emberclaw
+Jadeclaw
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Inkshadow
+View in 3D
+1350
+03.05.2023
+An ancient spirit that has been making contracts with mortals through tattoos for centuries, Aurelion Sol grants inhuman power in exchange for the life force of his pawns, letting them slowly waste away until they inevitably succumb to his appetite. There is always another conflict, another war—so he has grown powerful on their deals, ever feeding.
+Neil Kaplan
+Lejia Chan, Kudos Productions
+Inkshadow
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Inkshadow Aurelion Sol Chromas
+Citrine
+Emerald
+Inked
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Porcelain Protector
+View in 3D
+1820
+22.02.2024
+When the Zodiac forged their relics, Aurelion Sol was there. With him, eleven others: the first to be humbled with the task of guarding the artifacts, the first to be granted their powers. Centuries later, Aurelion Sol is summoned forth by his draconic descendant, desperate for his help against an ancient threat with which he is all too familiar.
+Neil Kaplan
+Francis Tneh, West Studio
+Porcelain
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+Porcelain Protector Aurelion Sol Chromas
+Amethyst
+Catseye
+Obsidian
+Opulent
+Rose Quartz
+Ruby
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.21
+Stats
+Base health reduced to 600 from 620.
+Singularity
+AP ratio per tick reduced to
+3% AP
+from
+4% AP
+.
+Total AP ratio reduced to
+60% AP
+from
+80% AP
+.
+V14.15
+Breath of Light
+Initial mana cost increased to 35 / 40 / 45 / 50 / 55 from 30 / 35 / 40 / 45 / 50.
+Mana cost per 0.
+25
+seconds increased to 8.
+75
+/ 10 / 11.
+25
+/ 12.
+5
+/ 13.
+75
+from 7.
+5
+/ 8.
+75
+/ 10 / 11.
+25
+/ 12.
+5
+.
+Astral Flight
+Base range reduced to 1500 units at all ranks from 1500 / 1600 / 1700 / 1800 / 1900.
+Singularity
+Mana cost increased to 90 from 80.
+V14.14
+Stats
+Base attack damage increased to 58 from 55.
+Breath of Light
+Initial mana cost increased to 30 / 35 / 40 / 45 / 50 from 7.
+5
+/ 8.
+75
+/ 10 / 11.
+25
+/ 12.
+5
+.
+Mana cost interval rate reduced to 0.
+25
+seconds from 0.
+5
+.
+Mana cost per interval reduced to 7.
+5
+/ 8.
+75
+/ 10 / 11.
+25
+/ 12.
+5
+from 15 / 17.
+5
+/ 20 / 22.
+5
+/ 25.
+Initial delay for mana cost per interval increased to 1.
+25
+seconds from 0.
+5
+.
+Astral Flight
+Base range increased to 1500 / 1600 / 1700 / 1800 / 1900 from 1200 at all ranks.
+Singularity
+Removed:
+Champion-summoned units classified as minions no longer have their movement speed reduced to 0 while within the area.
+Mana cost reduced to 80 at all ranks from 80 / 85 / 90 / 95 / 100.
+Falling Star
+AP ratio increased to
+75% AP
+from
+65% AP
+.
+The Skies Descend
+Star AP ratio increased to
+93.
+75
+% AP
+from
+81.
+25
+% AP
+.
+Shockwave damage reduced to 90% of
+Falling Star's
+damage from 100%.
+Shockwave base damage reduced to 135 / 225 / 315 from 150 / 250 / 350.
+Shockwave AP ratio increased to
+67.
+5
+% AP
+from
+65% AP
+.
+V14.9
+Stats
+Gameplay radius increased to 80 units from 65.
+Selection radius reduced to 150 units from 165.
+Singularity
+AP ratio per tick reduced to
+4% AP
+from
+5% AP
+.
+Total AP ratio reduced to
+80% AP
+from
+100% AP
+.
+V14.7
+- April 9th Hotfix
+Breath of Light
+Bug Fix:
+Burst now properly draws minion call for help signals.
+Bug Fix:
+Beam now correctly respects hitboxes; it properly is stopped by the first enemy hit.
+V14.7
+Porcelain Protector Aurelion Sol
+The Skies Descend
+Bug Fix:
+VFX is now properly aligned for both teams.
+V14.4
+Breath of Light
+Burst base damage reduced to 55 / 65 / 75 / 85 / 95 from 60 / 70 / 80 / 90 / 100.
+Burst AP ratio reduced to
+30% AP
+from
+35% AP
+.
+V14.3
+- February 7th Hotfix
+Breath of Light
+Stardust stack per champion burst reduced to 2 from 3.
+Astral Flight
+Cooldown increased to 22 / 20.
+5
+/ 19 / 17.
+5
+/ 16 from 15 / 14 / 13 / 12 / 11.
+Breath of Light
+bonus damage reduced to 8 / 9 / 10 / 11 / 12% from 18 / 20 / 22 / 24 / 26%.
+V14.3
+Cosmic Creator
+Bug Fix:
+No longer can acquire Stardust stacks from
+Voidmites
+.
+Breath of Light
+Mana cost per second reduced to 30 / 35 / 40 / 45 / 50 from 45 / 50 / 55 / 60 / 65.
+Stardust stack per champion burst increased to 3 from 1.
+Astral Flight
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 80 / 85 / 90 / 95 / 100.
+Cooldown reduced to 15 / 14 / 13 / 12 / 11 seconds from 22 / 20.
+5
+/ 19 / 17.
+5
+/ 16.
+Breath of Light
+bonus damage increased to 18 / 20 / 22 / 24 / 26% from 14 / 15.
+5
+/ 17 / 18.
+5
+/ 20%.
+Bug Fix:
+No longer plays his respawn animation but sped up when crowd control interrupted this ability.
+Singularity
+Stardust stacks per champion and epic monster takedown reduced to 2 from 5.
+Stardust stacks per large minion and monster takedown reduced to 2 from 3.
+V13.21
+Breath of Light
+Base damage per second increased to 45 / 60 / 75 / 90 / 105 from 15 / 25 / 35 / 45 / 55.
+Removed:
+Damage per second is no longer increased by
+30 − 80 (based on level)
+.
+AP ratio per second reduced to
+55% AP
+from
+60% AP
+.
+Burst base damage increased to 60 / 70 / 80 / 90 / 100 from 40 / 50 / 60 / 70 / 80.
+Removed:
+Burst damage is no longer increased by
+20 − 30 (based on level)
+.
+V13.15
+The Skies Descend
+Bug Fix:
+Casting the ability now properly updates the ultimate cooldown indicator in the UI.
+V13.11
+Singularity
+Mana cost increased to 80 / 85 / 90 / 95 / 100 from 60 / 70 / 80 / 90 / 100.
+AP ratio per tick reduced to
+5% AP
+from
+6.
+25
+% AP
+.
+Total AP ratio reduced to
+100% AP
+from
+125% AP
+.
+Bug Fix:
+Cooldown is no longer improperly reduced by
+Ultimate Hunter's
+ultimate haste.
+The Skies Descend
+Bug Fix:
+Shockwave is now properly visible even if the caster is devoured by
+Tahm Kench's
+Devour
+.
+V13.9
+Falling Star
+Bug Fix:
+On-hand VFX of
+Mecha Aurelion Sol
+and
+Storm Dragon Aurelion Sol
+now properly disappears after casting it.
+V13.8
+General
+Bug Fix:
+Restored some voice lines to play when he first learns
+Falling Star
+.
+Stats
+Health growth reduced to 90 from 95.
+Armor growth reduced to 4 from 4.
+3
+.
+The Skies Descend
+Bug Fix:
+Shockwave now properly deals damage at all times.
+V13.7
+Astral Flight
+Bug Fix:
+Cooldown no longer resets from an enemy clone dying within
+Singularity's
+area.
+V13.6
+Breath of Light
+Base damage per level reduced to
+30 − 80 (based on level)
+from
+30 − 90 (based on level)
+.
+Burst base damage per level reduced to
+20 − 30 (based on level)
+from
+20 − 40 (based on level)
+.
+Astral Flight
+Bug Fix:
+Dash is no longer immediately cancelled if used against a wall.
+Singularity
+Cooldown increased to 12 seconds at all ranks from 12 / 11.
+5
+/ 11 / 10.
+5
+/ 10.
+Falling Star
+Stun duration reduced to 1 second from 1.
+25
+.
+The Skies Descend
+Knock up duration reduced to 1 second from 1.
+25
+.
+V13.5
+Stats
+Health growth reduced to 95 from 100.
+Armor growth reduced to 4.
+3
+from 4.
+8
+.
+Breath of Light
+Burst AP ratio reduced to
+35% AP
+from
+40% AP
+.
+Removed:
+Channel duration at maximum rank no longer takes current mana into account.
+New Effect:
+Channel duration at maximum rank now lasts 160 seconds.
+Falling Star
+Bug Fix:
+Visual effects are no longer invisible inside terrain.
+V13.4
+General
+Updated SFX for champion pick.
+Updated SFX for
+Storm Dragon
+and
+Ashen Lord
+skins.
+Bug Fix:
+Mecha Aurelion Sol
+SFX now properly play at the correct volumes.
+Bug Fix:
+Now properly displays tooltips for his abilities in the death recap.
+Adjusted splash artwork for
+Mecha Aurelion Sol
+.
+Breath of Light
+New Effect:
+Now is placed on a 1-second cooldown if the channel is cancelled within the first 0.
+25
+seconds.
+Bug Fix:
+Cooldown is now properly reset when its channel and
+Astral Flight
+are cancelled simultaneously from inputting a movement command.
+Bug Fix:
+Charge no longer persists under certain circumstances where
+Quick Cast
+was being used and the ability key wasn't being held down.
+Bug Fix:
+Channel is now properly cancelled when the ability key was released from input.
+Astral Flight
+Bug Fix:
+Casting it into an outer wall while next to it no longer permanently locks out the ability.
+Singularity
+New Effect:
+Casting it within 200 units of the cast range now automatically casts it at maximum range.
+New Effect:
+Now casts at maximum range if cast beyond that during
+Astral Flight
+.
+Bug Fix:
+Execution indicator is now properly displayed on enemy clones.
+Bug Fix:
+Damage over time debuff is now properly removed regardless of which dimension (normal realm and
+Death Realm
+) the target is in.
+Bug Fix:
+No longer deals damage to enemies in the area even after the effect had ended.
+Falling Star
+New Effect:
+Casting it within 200 units of the cast range now automatically casts it at maximum range.
+New Effect:
+Now casts at maximum range if cast beyond that during
+Astral Flight
+.
+The Skies Descend
+New Effect:
+Casting it within 200 units of the cast range now automatically casts it at maximum range.
+New Effect:
+Now casts at maximum range if cast beyond that during
+Astral Flight
+.
+New Effect:
+Gaining the ability now communicates it in the game chat to both teams.
+Bug Fix:
+Shockwave is no longer cancelled from
+Astral Flight
+ending.
+Bug Fix:
+Shockwave is no longer delayed or cancelled if
+Stopwatch's
+/
+Zhonya's Hourglass'
+Stasis was active.
+Bug Fix:
+Now properly uses the correct impact VFX while using the pink chroma as
+Mecha Aurelion Sol
+.
+V13.3
+- February 10th Hotfix
+Stats
+Health growth reduced to 100 from 105.
+Breath of Light
+Burst AP ratio reduced to
+40% AP
+from
+50% AP
+.
+Singularity
+AP ratio per tick reduced to
+6.
+25
+% AP
+from
+10% AP
+.
+Maximum AP ratio reduced to
+125% AP
+from
+200% AP
+.
+Stardust stack per epic monster reduced to 5 from 10.
+Stardust stack per large monster reduced to 3 from 5.
+The Skies Descend
+Slow reduced to 50% from 75%.
+V13.3
+- February 8th Hotfix
+Breath of Light
+Bug Fix:
+Burst damage now properly draws the aggro of nearby enemy minions.
+Bug Fix:
+Now properly casts automatically after being cancelled from
+Astral Flight
+ending or
+Singularity
+being cast during the flight.
+Bug Fix:
+Damage against secondary targets is now properly reduced by half of the damage taken by the primary target.
+V13.3
+- Comprehensive Gameplay Update
+Stats
+Base attack damage reduced to 55 from 57.
+Base armor increased to 22 from 19.
+Base health reduced to 620 from 645.
+Base health regeneration reduced to 5.
+5
+from 7.
+Base mana increased to 530 from 350.
+Base mana renegeration increased to 8 from 6.
+Attack speed growth increased to 1.
+5
+from 1.
+32
+.
+Health growth reduced to 105 from 106.
+Health regeneration growth reduced to 0.
+55
+from 0.
+6
+.
+Mana growth reduced to 40 from 50.
+Mana regeneration growth reduced to 0.
+75
+from 0.
+8
+.
+Movement speed increased to 335 from 325.
+Cosmic Creator
+(Innate)
+Innate:
+Aurelion Sol's
+damaging abilities against enemies grant him stacks of
+Stardust
+, which improve each of his abilities. The amount of
+Stardust
+collected by each ability may vary by target.
+Breath of Light
+: Bursts deal
+bonus
+magic damage
+equal to
+(0.
+031
+% Stardust stacks)
+of the
+target's
+maximum
+health
+.
+Astral Flight
+: Range is increased by
+62.
+5
+% Stardust stacks
+.
+Singularity
+: Outer and inner radius increased by
+15% Stardust stacks
+, and execution threshold increased by
+2.
+6
+% Stardust stacks
+.
+Falling Star
+and
+The Skies Descend
+: Effect radius increased by
+15% Stardust stacks
+.
+Breath of Light
+(Q)
+Active:
+Aurelion Sol
+charges
+for up to 3.
+25
+seconds to exhale a beam of starfire, during which he can steer the beam in the target direction. The beam collides with the first enemy hit,
+reveals
+them, and deals them
+3.
+75
+− 11.
+25
+(based on level)
+(+ 1.
+875
+/ 3.
+125
+/ 4.
+375
+/ 5.
+625
+/ 6.
+875
+)
+(+ 7.
+5
+% AP)
+magic damage
+every 0.
+125
+seconds, reduced to 50% for other surrounding enemies hit by the beam.
+Breath of Light
+can be recast within the duration, and does so automatically afterwards.
+For each second that the beam continuously damages the same enemy, it bursts to deal
+20 − 40 (based on level)
+(+ 40 / 50 / 60 / 70 / 80)
+(+ 50% AP)
+(+
+(0.
+031
+% Stardust stacks)
+of target's
+maximum
+health)
+bonus
+magic damage
+and grants
+1 Stardust
+if the target is a
+champion
+. The damage based on the target's health ratio is capped at 300 against
+monsters
+.
+Recast:
+Aurelion Sol
+ends
+Breath of Light
+early.
+At rank 5,
+Breath of Light's
+channel duration lasts for as long as
+Aurelion Sol
+can pay its
+mana
+cost.
+Mana Cost:
+22.
+5
+/ 25 / 27.
+5
+/ 30 / 32.
+5
+per 0.
+5
+seconds.
+Cooldown:
+3
+seconds.
+Cast Time:
+None,
+Range:
+750 − 920 (based on level)
+.
+Astral Flight
+(W)
+Active:
+Aurelion Sol
+dashes
+in the target direction and resets
+Breath of Light's
+cooldown
+. While in flight, he has
+unobstructed vision
+and
+Breath of Light
+has no cooldown and maximum channel duration and its flat damage is increased by 14 / 15.
+5
+/ 17 / 18.
+5
+/ 20%, but
+Astral Flight's
+dash speed is reduced by 50% during its channel.
+Aurelion Sol
+will be
+knocked down
+by any
+immobilizing
+crowd control during the dash.
+Astral Flight
+can be recast after 0.
+5
+seconds during the dash, and does so automatically after reaching the destination.
+Recast:
+Aurelion Sol
+ends
+Astral Flight
+early.
+Scoring a champion
+takedown
+within 3 seconds of damaging them reduces
+Astral Flight's
+current
+cooldown
+by 90% of its
+total
+cooldown.
+Aurelion Sol
+will not dash if he is
+immobilized
+or
+grounded
+during the cast time. He can cast any of his abilities during the dash.
+Breath of Light's
+channel will be interrupted if Astral Flight ends or
+Singularity
+is cast during the flight, but the ability will automatically be cast afterwards. Astral Flight will cast at max range if cast beyond that.
+Mana Cost:
+80 / 85 / 90 / 95 / 100.
+Cooldown:
+22 / 20.
+5
+/ 19 / 17.
+5
+/ 16
+seconds.
+Cast Time:
+0.
+4
+seconds,
+Range:
+1200 + 7.
+5
+per
+Stardust stack
+,
+Speed:
+335 +
+100% movement speed
+/
+167.
+5
++
+50% movement speed
+.
+Singularity
+(E)
+Active:
+Aurelion Sol
+blasts the target location, conjuring a black hole after a 0.
+5
+-second delay that grants
+sight
+of the area, lasts for 5 seconds, and deals 2.
+5
+/ 3.
+75
+/ 5 / 6.
+25
+/ 7.
+5
+(+ 10% AP)
+magic damage
+every 0.
+25
+seconds to enemies within the area.
+Enemies in the black hole are
+dragged
+toward its center over the duration. Non-epic monster targets within the center that are below
+5%
+(+ 2.
+6
+% Stardust stacks)
+of their
+maximum
+health
+are also
+executed
+. Additionally, non-champions affected have their
+movement speed
+reduced
+to
+0
+.
+After
+Singularity
+ends,
+Aurelion Sol
+is granted
+1 Stardust
+for each continuous second that enemy champions were inside it, and a varying amount of
+Stardust
+for enemies that died while within the area:
+Epic monsters grant
+10 Stardust
+.
+Champions and large monsters grant
+5 Stardust
+.
+Large minions grant
+3 Stardust
+.
+Small minions and monsters grant
+1 Stardust
+.
+Mana Cost:
+60 / 70 / 80 / 90 / 100.
+Cooldown:
+12 / 11.
+5
+/ 11 / 10.
+5
+/ 10
+seconds.
+Cast Time:
+0.
+25
+seconds,
+Target Range:
+750 − 920 (based on level)
+,
+Effect Radius:
+√(275² + 16.
+93
+²  ×
+Stardust
+)
+/
+√(137.
+5
+² + 8.
+46
+²  ×
+Stardust
+)
+/
+√(275² + 16.
+93
+²  ×
+Stardust
+)
+/
+√(137.
+5
+² + 8.
+46
+²  ×
+Stardust
+)
+.
+Falling Star
+(R)
+Active:
+Aurelion Sol
+calls down a star to impact the target location after 1.
+25
+seconds, dealing 150 / 250 / 350
+(+ 65% AP)
+magic damage
+to enemies hit and
+stunning
+them for 1.
+25
+seconds.
+Falling Star
+grants
+5 Stardust
+for each enemy champion hit.
+Once
+Falling Star
+has been learned, gathering
+75 Stardust
+causes the next cast of
+Falling Star
+to transform into
+The Skies Descend
+instead, empowering the impact with new effects.
+Mana Cost:
+100.
+Cooldown:
+120 / 110 / 100 seconds.
+Cast Time:
+None,
+Target Range:
+1250,
+Effect Radius:
+√(275² + 16.
+93
+²  ×
+Stardust
+)
+.
+The Skies Descend
+(Enhanced R)
+Active:
+Aurelion Sol
+summons an enormous star to impact the target location after 2 seconds, dealing
+25% increased damage
+, exploding in a larger radius, and
+knocking up
+enemies hit for 1.
+25
+seconds.
+Upon impact, a massive shockwave is unleashed which rapidly expands outward from the impact location over 3 seconds, dealing 150 / 250 / 350
+(+ 65% AP)
+magic damage
+to enemy champions and epic
+monsters
+hit, and
+slowing
+all enemies hit by 75% for 1 second and
+revealing
+them for 1.
+5
+seconds.
+Mana Cost:
+100.
+Cooldown:
+120 / 110 / 100 seconds.
+Cast Time:
+None,
+Target Range:
+1250,
+Effect Radius:
+√(388.
+91
+² + 21.
+85
+²  ×
+Stardust
+)
+/
+5000
+.
+Trivia
+[
+edit
+|
+edit source
+]
+Aurelion Sol
+is one of 15 champions that have an ability that infinitely stacks an effect:
+Bard
+,
+Bel'Veth
+,
+Cho'Gath
+,
+Draven
+,
+Kindred
+,
+Nasus
+,
+Senna
+,
+Shyvana
+,
+Sion
+,
+Smolder
+,
+Swain
+,
+Sylas
+,
+Thresh
+, and
+Veigar
+.
+In Aurelion Sol's case,
+Stardust
+stacks gained through
+Cosmic Creator
+permanently increases
+Breath of Light
+'s bonus
+magic damage
+,
+Astral Flight
+'s range,
+Singularity
+'s outer and inner radius and execution threshold and
+Falling Star
+and
+The Skies Descend
+'s effect radius.
+The Skies Descend
+was named after his champion spell of the same
+15
+name
+in
+Legends of Runeterra
+.
+In 'Aurelion Sol: The Star Forger Returns' his hand gesture resembles the old
+Riot Games Inc.
+fist intro.
+A lot of his animations and visual effects were inspired by
+celestial objects
+and
+atoms
+.
+Aurelion Sol's lower body is not part of his in-game
+hitbox
+, which is why it is semi-transparent.
+A demonstration can be seen
+here
+.
+Prior to his CGU, in
+Ultra Rapid Fire
+his
+Center of the Universe
+passive used to have 6 stars orbiting around him with increased speed, simply by leveling up.
+Interestingly, this is the only non-stat modification made to any champion in URF, suggesting this may have originally been an intended feature which was scrapped from the champion before release.
+The name of the concept character from which Aurelion Sol spurred from, ​​​​​​
+Ao Shin
+, could be a reference to
+Ao Qin
+, the
+Dragon King
+of the
+South Sea
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Battlemage
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Battlemages
+(also known as Warlocks) get into the middle of the fray, seeking to wreak havoc upon the entire enemy team with their overwhelming sustained area damage. Due to their relatively short (but not melee) combat ranges and the need to burn down their opponents over time, Battle Mages have significant defensive capabilities that range from sustaining endlessly to literally defying death for a short period of time.
+Examples
+Rumble
+Swain
+Vladimir
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Breath of Light
+COOLDOWN:
+3
+Active:
+Aurelion Sol
+charges
+up to a short time, exhaling a beam in the target direction that continuously deals
+magic damage
+to the first enemy hit and reduced damage to other enemies.
+Aurelion Sol
+can steer the beam in any direction.
+The beam will deal a burst of
+bonus
+magic damage
+for each full second that it damages the same enemy, and generates
+Stardust
+if the target is a
+champion
+.
+At max rank,
+Breath of Light's
+channel duration may last indefinitely.
+League of Legends content
+Astral Flight
+COOLDOWN:
+22 / 20.
+5
+/ 19 / 17.
+5
+/ 16
+Active:
+Aurelion Sol
+flies
+in the target direction. During flight, he can cast any of his abilities, and
+Breath of Light
+has no
+cooldown
+, no maximum channel duration, and its flat damage is increased.
+Aurelion Sol
+flies at a reduced speed while channeling
+Breath of Light
+.
+Astral Flight
+can be recast during flight, and does so automatically upon arrival.
+Recast:
+Aurelion Sol
+ends
+Astral Flight
+.
+Scoring a champion
+takedown
+within 3 seconds of damaging them refunds a large portion of
+Astral Flight's
+cooldown
+.
+League of Legends content
+Singularity
+COOLDOWN:
+12
+Active:
+Aurelion Sol
+conjures a black hole at the target location for a few seconds that continually deals
+magic damage
+to enemies within. Enemies in the black hole are
+dragged
+toward the center. Enemies within the center are
+executed
+at low health
+.
+After
+Singularity
+ends, it generates
+Stardust
+for each full second that enemy champions were inside, as well as for each enemy
+takedown
+.
+League of Legends content
+Falling Star
+COOLDOWN:
+120 / 110 / 100
+Active:
+Aurelion Sol
+calls down a star that strikes the target location, dealing
+magic damage
+and briefly
+stunning
+enemies hit. This generates
+Stardust
+for each enemy champion hit.
+After gathering enough
+Stardust
+, the next cast of
+Falling Star
+transforms into
+The Skies Descend
+, empowering the impact with new effects.
+The Skies Descend
+Active:
+Aurelion Sol
+calls down a giant star that strikes the target location, dealing
+increased magic damage
+in a larger area and briefly
+knocking up
+enemies hit.
+This sends a massive shockwave that rapidly expands outward, briefly
+slowing
+all enemies hit, and dealing
+magic damage
+to enemy champions and epic
+monsters
+.
+League of Legends content
+Falling Star
+COOLDOWN:
+120 / 110 / 100
+Active:
+Aurelion Sol
+calls down a star that strikes the target location, dealing
+magic damage
+and briefly
+stunning
+enemies hit. This generates
+Stardust
+for each enemy champion hit.
+After gathering enough
+Stardust
+, the next cast of
+Falling Star
+transforms into
+The Skies Descend
+, empowering the impact with new effects.
+The Skies Descend
+Active:
+Aurelion Sol
+calls down a giant star that strikes the target location, dealing
+increased magic damage
+in a larger area and briefly
+knocking up
+enemies hit.
+This sends a massive shockwave that rapidly expands outward, briefly
+slowing
+all enemies hit, and dealing
+magic damage
+to enemy champions and epic
+monsters
+.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Standard sight
+Standard sight
+reveals units through
+fog of war
+and
+brush
+, but
+not
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Cosmic Creator
+Innate:
+Aurelion Sol's
+damaging abilities against enemies generate him permanent stacks of
+Stardust
+, which gradually augments of his abilities.
+Breath of Light's
+bursts deal
+bonus
+magic damage
+based on the
+target's
+maximum
+health
+.
+Astral Flight's
+distance is increased.
+Singularity's
+area and execute threshold are increased.
+Falling Star
+/
+The Skies Descend
+has increased impact area.
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Persistent area damage
+Persistent area damage
+is technically not a separate type of damage, but rather a hybrid classification that is applied to some spells.
+In situations where
+persistent damage
+and
+area damage
+would have conflicting outputs, the conflict is resolved by choosing the weakest possible outcome.
+Physical vamp
+and
+Spell vamp
+(where applicable) heals with one-third effectiveness, as with
+area damage
+.
+Arcane Comet's
+cooldown is reduced by 5%, as with
+persistent damage
+, per target affected.
+Counter Strike
+reduces the damage dealt by 25%, as with
+area damage
+.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Takedown
+Takedown
+refers to a
+kill
+or
+assist
+being acceptable, with the type of enemy specified in each use case.
+Takedown
+is associated with triggering a
+passive
+effect, or timed effects shortly after scoring.
+League of Legends content
+Unobstructed vision
+A unit with
+unobstructed sight
+can see the full circle of their
+vision
+radius, ignoring all obstructions and being able to see into terrain. This effect does not allow the user to see into
+brush
+, although they will be able to see beyond the brush if within range.
+Having
+unobstructed sight
+will benefit all forms of vision, including
+true sight
+and
+camouflage
+detection - i.e. you will be able to reveal stealthed units over walls where usually terrain would block true sight.
+Nearsight
+prevents this vision entirely; the user's sight radius will not infiltrate beyond terrain.
+League of Legends content
+Knockdown
+Knockdown
+only affects units that are performing a
+dash
+or being displaced by an
+airborne
+effect. A unit that is
+knocked down
+has its
+dash
+or
+displacement
+interrupted and is placed on the ground instantly.
+Knockdown
+is not a
+status effect
+.
+Interrupts:
+Interrupts all
+dashes
+and
+airborne effects
+(displacement
+and
+status effects).
+Knock ups
+will not have their
+airborne
+status removed if there is no sourced debuff, but their displacement still ends.
+Reduction:
+The effect is instantaneous.
+There is nothing to reduce.
+Resist:
+Resisted by
+crowd control immunity
+and
+displacement immunity
+.
+Removal:
+The effect is instantaneous.
+There is nothing to remove.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Immobilize
+Immobilized
+units cannot control their movement. The following crowd control effects
+immobilize
+the unit:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Root
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Impaired movement
+is a similar term that, in addition to the above, also refers to units that are
+slowed
+.
+League of Legends content
+Ground
+A unit that is
+grounded
+is unable to activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Grounded
+units can still be displaced.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Ground
+is the only type of
+crowd control
+that is most commonly found in persistent area of effects, which will reapply the status effect continuously.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Kinematics
+A unit that is under the effect of
+kinematics
+will be continually dragged to a specific unit or location until they reach it.
+Kinematics
+has no effect on units that are performing any form of movement other than basic movement and other
+kinematic
+effects.
+Kinematics
+should not be confused as an
+airborne
+effect nor displacement effect. It does not disable any of the unit's actions.
+Interrupts:
+Does not interrupt any actions, but will prevent the unit from effectively
+pathing
+to their intended location through basic movement.
+Reduction:
+The effect is instantaneous.
+There is nothing to reduce.
+Resist:
+Resisted by
+crowd control immunity
+and
+displacement immunity
+.
+Removal:
+Removed by leaving the source of the area of effect. The effect is instantaneous.
+There is nothing to cleanse.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Execute
+Executes
+deal
+true damage
+equal to
+100% of the target's
+current
+health
+through the
+raw damage
+source type, ignoring all mitigations.
+They do not bypass
+invulnerability
+and effects that prevent falling below a health amount, unless the source type is
+internalraw
+.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Howling Abyss
+The Howling Abyss is a bottomless crevasse located in the coldest, cruelest, part of the
+Freljord
+. Legends say that, long ago, a great battle took place here on the narrow bridge spanning this chasm. No one remembers who fought here, or why, but it is said that if you listen carefully to the wind you can still hear the cries of the vanquished tossed howling into the Abyss.
+Regular Modes
+Classic 5v5
+(
+All random
+)
+Custom
+Featured Game Modes
+Legend of the Poro King
+One For All
+One For All: Mirror Mode
+Snowdown Showdown
+References
+[
+edit
+|
+edit source
+]
+↑
+Aurelion Sol's profile page
+at
+LeagueOfLegends.com

@@ -1,0 +1,2415 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Karthus
+the Deathsinger
+Release date
+2009-06-12
+Last changed
+V14.21
+Class(es)
+Battlemage
+Legacy
+Mage
+Position(s)
+Jungle
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+1
+Utility
+2
+Style
+Difficulty
+Karthus
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Karthus
+Base statistics
+Edit
+Health
+620
++110
+Mana
+467
++31
+Health regen. (per 5s)
+6.5
++0.55
+Mana regen. (per 5s)
+8
++0.8
+Armor
+21
++4.7
+Attack damage
+46
++3.25
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+450
+Attack speed
+Base AS
+0.625
+Attack windup
+34.375%
+AS ratio
+N/A
+Bonus AS
++2.11
+%
+Missile speed
+1500
+Unit radius
+Gameplay radius
+65
+Selection radius
+100
+Pathing radius
+35
+Acq. radius
+450
+Special statistics
+Damage Dealt
+-10%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-10%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Death Defied
+Innate:
+Upon
+dying
+,
+Karthus
+enters an
+untargetable
+spirit form
+for a few seconds that allows him to continue casting spells at no cost but without being able to move. If
+Defile
+has been learned, it will remain toggled on for
+Death Defied's
+entire duration.
+Innate:
+Upon taking
+fatal damage
+,
+Karthus
+enters a
+zombie state
+for 7 seconds, during which he can cast his abilities at no cost. If
+Defile
+has been learned, it will remain toggled on for
+Death Defied's
+entire duration.
+Requiem
+becomes disabled after
+Death Defied
+has lasted 4 seconds.
+While under this state,
+Karthus
+becomes
+untargetable
+and
+immune to crowd control
+as well as prevents all incoming damage, but is also rendered unable to move, declare
+basic attacks
+, use
+summoner spells
+, and
+activate items
+.
+"I am become death!"
+Info
+Targeting input
+Passive
+Death Defied's
+untargetability
+does not
+destroy
+in-flight
+projectiles
+.
+Karthus
+cannot be
+executed
+by the
+Aspect of the Dragon
+during
+Death Defied
+.
+At the start of
+Death Defied
+,
+Karthus
+is set to
+1 health
+.
+Karthus
+can still regenerate his health over the duration, but he will always die at the end of it.
+After
+Death Defied
+ends, the corpse of
+Karthus
+will retain
+unit collision
+despite being dead on the ground.
+Karthus'
+mana bar
+drains over the duration of
+Death Defied
+as an indicator of his time remaining in this state.
+Zombie states trigger upon taking
+lethal damage
+.
+Raw damage
+effects will not prevent zombie states from triggering.
+All
+resurrection
+effects will take precedence over effects that reanimate as a zombie.
+A champion that enters a zombie state will start their death timer upon triggering the effect.
+Most buffs and debuffs will be lost upon transitioning into a zombie state.
+Those that persist through death, such as
+Brand's
+Blaze
+, will remain.
+Undisplayed marker buffs, such as those imposed by
+Veigar's
+Event Horizon
+and
+Viktor's
+Gravity Field
+to prevent being affected multiple times by the same effect, will be lost.
+(bug)
+This does not apply when transitioning from one zombie state to another zombie state.
+(bug)
+Units within a zombie state cannot:
+Use
+Recall
+or
+Refillable Potion
+.
+Activate
+resurrection
+effects.
+Take
+Dark Passage
+,
+Catapult
+, or
+gates
+.
+Pick up the
+Eye of the Herald
+.
+Be targeted by the following:
+Bailout
+Chronoshift
+Umbral Trespass
+.
+Be affected by the following:
+Curse of the Black Mist
+Fear Beyond Death's
+chain missile
+Test of Spirit's
+initial missile
+Lamb's Respite
+Realm of Death
+Fountain
+health restore
+Map-Specific Differences
+Howling Abyss
+differences
+edit
+Duration changed to 5 seconds.
+Edit
+Lay Waste
+COST:
+20 / 25 / 30 / 35 / 40 Mana
+COOLDOWN:
+1
+CAST TIME:
+0.
+25
+TARGET RANGE:
+875
+EFFECT RADIUS:
+160
+Active:
+Karthus
+conjures a delayed blast at the target location that deals
+magic damage
+to all enemies within,
+doubled
+when only one target is struck.
+Active:
+Karthus
+conjures a blast at the target location that detonates after
+0.
+528
+seconds
+to
+0.
+759
+seconds
+, granting
+sight
+of the area and dealing
+magic damage
+to all enemies within,
+doubled
+when only one target is struck.
+Magic Damage:
+40 / 59 / 78 / 97 / 116
+(+ 35% AP)
+Enhanced Damage:
+80 / 118 / 156 / 194 / 232
+(+ 70% AP)
+During
+Death Defied
+, Lay Waste will cast at maximum range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+See Notes
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+The delay between the cast and the detonation is inconsistent, but always matches up with the VFX.
+(bug)
+Defile's
+ticks beyond the first has a similar issue.
+Applies
+spell damage
+if it hits a single target and
+area damage
+if it hits multiple targets.
+Lay Waste
+also plays a different sound effect when it only hits one target.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 60 / 80 / 100 / 120 / 140.
+AP ratio changed to
+45% AP
+.
+Edit
+Wall of Pain
+COST:
+70 Mana
+COOLDOWN:
+15
+CAST TIME:
+0.
+25
+TARGET RANGE:
+1000
+Active:
+Karthus
+erects a wall of pain at the target location that lasts a few seconds, enemies that touch it suffer reduced
+magic resistance
+and become
+slowed
+for a few seconds.
+Active:
+Karthus
+erects a wall of pain at the target location perpendicular to his facing that lasts 5 seconds, granting
+sight
+around its pillars and center.
+Wall Length:
+800 / 900 / 1000 / 1100 / 1200
+Enemies that touch the wall are inflicted with
+25% magic resistance reduction
+and become
+slowed
+for 5 seconds, decaying over the duration. This can affect enemies only once per cast.
+Slow:
+40 / 50 / 60 / 70 / 80%
+Reduced Slow:
+20 / 25 / 30 / 35 / 40%
+Info
+Targeting input
+Location
+Counters
+Spell shield
+Not Blocked
+No additional details.
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 12 seconds.
+Edit
+Defile
+COST:
+30 / 42 / 54 / 66 / 78 Mana per second
+CAST TIME:
+none
+STATIC COOLDOWN
+:
+0.
+5
+EFFECT RADIUS:
+550
+Passive:
+Karthus
+restores
+mana
+whenever he kills an enemy.
+Toggle:
+Karthus
+surrounds himself in a necrotic
+aura
+that continually deals
+magic damage
+to all nearby enemies, quickly draining his own
+mana
+.
+Passive:
+Karthus
+restores
+mana
+whenever he kills an enemy.
+Mana Restored:
+10 / 20 / 30 / 40 / 50
+Toggle:
+Karthus
+surrounds himself in a necrotic
+aura
+that deals
+magic damage
+every 0.
+25
+seconds to all nearby enemies. Toggling
+Defile
+off triggers a final tick of damage.
+Magic Damage Per Tick:
+7.
+5
+/ 12.
+5
+/ 17.
+5
+/ 22.
+5
+/ 27.
+5
+(+ 5% AP)
+Damage Per Second:
+30 / 50 / 70 / 90 / 110
+(+ 20% AP)
+Defile cannot be toggled off during
+Death Defied
+.
+Info
+Targeting input
+Auto
+Damage type
+Type
+AOE DOT damage
+Sub-type
+Magic
+Counters
+Spell shield
+Not Blocked
+Toggle abilities do not count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Defile
+will restore
+mana
+if
+Karthus
+destroys an enemy structure.
+Defile
+re-calculates its damage with each tick based on changes in
+Karthus's
+ability power
+or an increase in the rank of
+Defile
+without the need to toggle it off and on again.
+Defile
+will toggle off automatically if
+Karthus
+enters
+resurrection
+.
+Edit
+Requiem
+COST:
+100 Mana
+COOLDOWN
+:
+200 / 180 / 160
+CAST TIME:
+0.
+25
+EFFECT RADIUS:
+Global
+Active:
+Karthus
+channels
+for a short time, then deals
+magic damage
+to all targetable enemy champions upon completion.
+Active:
+Karthus
+channels
+for 3 seconds, then deals
+magic damage
+to all targetable enemy champions upon completion.
+Magic Damage:
+200 / 350 / 500
+(+ 70% AP)
+"Die!"
+Info
+Targeting input
+Auto
+Target out-of-range override
+Invalid target override
+The ability will cast with no valid targets.
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Disruption
+Interrupted
+Requiem's
+channel is telegraphed to all enemy champions by a beam of light that descends on all targets, including if they are
+untargetable
+or even
+dead
+.
+Requiem
+will affect
+clones
+.
+The damage will apply
+spell effects
+to targets in order of being spawned. Single target spell effects (such as
+Luden's Companion
+) are thus triggered on the leftmost champion on the loading screen.
+Requiem
+will not affect
+Neeko
+if she's
+disguised
+as a non-champion if
+Karthus
+is affected by
+Death Defied
+.
+(bug)
+The following table refers for interactions while
+Karthus
+is
+channeling
+:
+Type
+Channel
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Teleport
+Recall
+Hexflash
+Interrupted by
+Flash
+Interrupted by
+Death
+Cast-inhibiting effects
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 350 / 550 / 750.
+AP ratio changed to
+100% AP
+.
+Cooldown changed to 60 seconds at all ranks.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Karthus (Collection)
+.
+Original
+View in 3D
+790
+11.06.2009
+The harbinger of oblivion, Karthus is an undying spirit whose haunting songs are a prelude to the horror of his nightmarish appearance. The living fear the eternity of undeath, but Karthus sees only beauty and purity in its embrace, a perfect union of life and death. When Karthus emerges from the Shadow Isles, it is to bring the joy of death to mortals, an apostle of the unliving.
+Unknown voice actor
+Alex 'alexplank' Flores
+Loot eligible
+Phantom
+View in 3D
+460
+13.01.2010
+Unknown voice actor
+Unknown artist
+Legacy
+Loot eligible
+Legacy
+Statue of Karthus
+View in 3D
+520
+03.07.2010
+At the entry point of one of the world's most powerful nations stands the three-hundred-and-five-foot-tall statue of an evil, undead preacher holding a giant torch. Sometimes it comes to life. It's fun. Statues are fun.
+Unknown voice actor
+Unknown artist
+Wonders of the World
+Loot eligible
+Grim Reaper
+View in 3D
+975
+26.09.2010
+Unknown voice actor
+Unknown artist
+Trick-or-Treat
+Loot eligible
+Chromas
+Grim Reaper Karthus Chromas
+Blight
+Burn
+Frostbite
+Pentakill
+View in 3D
+750
+29.08.2011
+Lead singer of heavy-metal sensation PENTAKILL, Karthus sings in the voice of a fallen angel made of freshly polished chrome and dynamite that eats other dynamite. His vocals explode the sun in the sky, igniting the flame of metal within the hearts of all who hear.
+Unknown voice actor
+Pan Chengwei
+Pentakill
+Loot eligible
+Additional/unique quotes
+New SFX/VFX
+Fnatic
+View in 3D
+750
+24.09.2014
+Honoring xPeke's winning performance as Karthus during the 2011 World Championship.
+Unknown voice actor
+Unknown artist
+World Champions: 2011
+Loot eligible
+Legacy
+Karthus Lightsbane
+View in 3D
+975
+17.11.2016
+Dark sorcerer, master of forbidden magic, aspiring lich—all could describe Karthus Lightsbane, a high level spellcaster with shadowy motivations. The rest of the party is convinced he'll eventually betray them, since nothing in the Riftquest rules says he can't.
+Unknown voice actor
+Unknown artist
+Rift Quest
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Infernal
+View in 3D
+1350
+16.07.2020
+The disciples of Karthus usher this infernal harbinger into the world by singing his discordant chorus, a pledge that beckons pillars of flame unto them. On his arrival, the deathsinger's chant summons columns of hellfire that descend from the heavens above. Few live to tell of the dirge they heard before flames swept the land.
+Unknown voice actor
+West Studio
+Infernal
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Infernal Karthus Chromas
+Amethyst
+Citrine
+Emerald
+Rose Quartz
+Ruby
+Sapphire
+Pentakill Lost Chapter
+View in 3D
+1350
+09.09.2021
+All hail, Karthus, the Voice of Doom, and Chosen of Perpetuum! His songs are bleak murder ballads, a bitter reminder that all things must die. Though, perhaps, not him?
+Unknown voice actor
+David Villegas, West Studio
+Pentakill III: The Lost Chapter
+Loot eligible
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+Chromas
+Pentakill III: Lost Chapter Karthus Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Elderwood
+View in 3D
+1350
+28.06.2023
+Karthus was a brilliant scholar once upon a time. But when a disease nearly eradicated his people, he researched forbidden Coven magic, hoping to resurrect his loved ones... with catastrophic consequences. Now, he roams the Elderwood as a decaying creature, spreading his plague throughout the forest and inviting its inhabitants to transcend through death.
+Unknown voice actor
+Huyy Nguyen, West Studio
+Elderwood
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Elderwood Karthus Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.21
+Requiem
+AP ratio reduced to
+70% AP
+from
+75% AP
+.
+V14.15
+Death Defied
+Bug Fix:
+Restored death voice lines after
+Death Defied
+expires.
+V14.14
+Death Defied
+Bug Fix:
+Is no longer sometimes unable to issue movement commands after the zombie state has expired.
+V14.13
+Death Defied
+Bug Fix:
+Corpse is no longer sometimes a valid movement collision target.
+Lay Waste
+Base damage reduced to 40 / 59 / 78 / 97 / 116 from 43 / 62 / 81 / 100 / 119.
+Single-target damage reduced to 80 / 118 / 156 / 194 / 232 from 86 / 124 / 162 / 200 / 238.
+V14.11
+Lay Waste
+Base damage reduced to 43 / 62 / 81 / 100 / 119 from 45 / 65 / 85 / 105 / 125.
+Single-target damage reduced to 86 / 124 / 162 / 200 / 238 from 90 / 130 / 170 / 210 / 250.
+V14.2
+- January 24th Hotfix
+Wall of Pain
+Bug Fix:
+Magic resistance reduction while in
+zombie form
+no longer multiplies the magic resistance of enemies hit by 25 instead of 0.
+75
+.
+Requiem
+Bug Fix:
+Now properly benefits from ability haste as soon as he respawns.
+V14.2
+Lay Waste
+Base damage increased to 45 / 65 / 85 / 105 / 125 from 43 / 61 / 79 / 97 / 115.
+Single-target damage increased to 90 / 130 / 170 / 210 / 250 from 86 / 122 / 158 / 194 / 230.
+Wall of Pain
+Magic resistance reduction increased to 25% from 15%.
+V13.22
+Stats
+Basic attack missile speed increased to 1500 from 1200.
+V13.19
+Death Defied
+Bug Fix:
+No longer deals damage to his allies with
+Defile
+when the effect was triggered by taking lethal damage from an enemy
+Briar
+in her
+Blood Frenzy
+state.
+V13.14
+Lay Waste
+Base damage reduced to 43 / 61 / 79 / 97 / 115 from 45 / 62.
+5
+/ 80 / 97.
+5
+/ 115.
+Monster damage increased to 100% from 95%.
+Defile
+Mana restored reduced to 10 / 20 / 30 / 40 / 50 from 15 / 25 / 35 / 45 / 55.
+V13.1
+Death Defied
+Bug Fix:
+No longer leaves a square VFX on the ground after the effect ends.
+V12.22
+- November 17th Hotfix
+Death Defied
+Bug Fix:
+Can no longer momentarily revive from the effect if he had the
+Chemtech Dragon Soul
+buff.
+V12.22
+Stats
+Mana growth increased to 31 from 30.
+5
+.
+V12.13
+Stats
+Base armor increased to 21 from 18.
+Health growth increased to 110 from 101.
+V12.12
+Death Defied
+Bug Fix:
+Corpse is no longer an obstacle to other units' pathing.
+V12.10
+Stats
+Base health increased to 620 from 550.
+Health growth increased to 101 from 87.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V12.8
+Death Defied
+Bug Fix:
+Enemy champions that deal lethal damage to trigger the zombie state are no longer considered to deal damage to the source when the effect ends.
+V12.7
+Lay Waste
+Damage against monsters increased to 95% from 85%.
+V12.5
+Lay Waste
+Bug Fix:
+Special buffering behaviour removed so that he can no longer bypass the spawn boundaries before 15 seconds into the game on Summoner's Rift after a certain condition.
+Karthus will now wait for the full cast animation to finish before walking into range for the next
+Lay Waste
+cast buffered outside cast range, instead of moving as soon as the cast time is complete.
+(note)
+V12.2
+Death Defied
+Bug Fix:
+Fixed a bug where towers would incorrectly target enemy champions who took damage from it.
+V11.21
+Defile
+Mana refund changed to 15 / 25 / 35 / 45 / 55 from 20 / 27 / 34 / 41 / 48.
+V11.20
+Lay Waste
+Bug Fix:
+Fixed a bug where it granted
+Tear of the Goddess
+stacks despite not hitting a valid target.
+V11.6
+Lay Waste
+Base damage reduced to 45 / 62.
+5
+/ 80 / 97.
+5
+/ 115 from 45 / 65 / 85 / 105 / 125.
+Single-target damage reduced to 90 / 125 / 160 / 195 / 230 from 90 / 130 / 170 / 210 / 250.
+V11.2
+- January 21st Hotfix
+Lay Waste
+Bug Fix:
+Fixed a bug where he wasn't able to buffer cast while on cooldown.
+V11.1
+Stats
+Base attack damage increased to 46 from 45.
+66
+.
+V10.25
+Lay Waste
+Mana cost reduced to 20 / 25 / 30 / 35 / 40 from 20 / 26 / 32 / 38 / 44.
+AP ratio increased to
+35% AP
+from
+30% AP
+.
+Bug Fix:
+Now properly triggers
+Horizon Focus
+.
+V10.22
+Lay Waste
+Base damage reduced to 45 / 65 / 85 / 105 / 125 from 50 / 70 / 90 / 110 / 130.
+V10.20
+Stats
+Base armor reduced to 18 from 20.
+88
+.
+V10.16
+Lay Waste
+AP ratio reduced to
+30% AP
+from
+35% AP
+.
+V10.15
+Wall of Pain
+Bug Fix:
+Spawns properly even when cast at 0 range.
+V10.14
+Stats
+Base health increased to 550 from 528.
+Base movement speed increased to 335 from 325.
+Lay Waste
+Base damage increased to 50 / 70 / 90 / 110 / 130 from 45 / 65 / 85 / 105 / 125.
+AP ratio increased to
+35% AP
+from
+30% AP
+.
+New Effect:
+Damage against monsters is now reduced by 15%.
+Defile
+Now always restores mana on kill.
+Previously only when toggled off.
+Tick rate reduced to 1 per 0.
+25
+seconds from 1 per 1.
+Total damage unchanged.
+New Effect:
+Deactivating
+Defile
+deals 1 tick's worth of damage.
+Bug Fix:
+Tooltip now accurately mentions the increased mana cost per second at each level.
+V10.9
+Stats
+Movement speed reduced to 325 from 335.
+V9.18
+Death Defied
+Bug Fix:
+When in
+Death Defied
+,
+Wall of Pain
+now properly grants vision around the wall.
+V9.13
+- July 12th Hotfix
+Requiem
+Bugfix:
+No longer hits through untargetability.
+V9.12
+General
+Adjusted splash artwork for
+Pentakill Karthus
+.
+V9.11
+- May 30th Hotfix
+Requiem
+AP ratio increased to
+75% AP
+from
+65% AP
+.
+V9.11
+Requiem
+Base damage reduced to 200 / 350 / 500 from 250 / 400 / 550.
+AP ratio reduced to
+65% AP
+from
+75% AP
+.
+Undocumented:
+No longer goes on full cooldown if cast after respawning.
+Undocumented:
+Can now hit through
+untargetability
+.
+V9.8
+General
+Bug Fix:
+Can now dance.
+V9.4
+Lay Waste
+Base damage reduced to 45 / 65 / 85 / 105 / 125 from 50 / 70 / 90 / 110 / 130.
+Isolated base damage reduced to 90 / 130 / 170 / 210 / 250 from 100 / 140 / 180 / 220 / 260.
+Bug Fix:
+Now triggers runes more consistently.
+V9.1
+Death Defied
+New Effect:
+Ability icon HUD now shows the remaining duration of the ability.
+V8.21
+Wall of Pain
+Cooldown reduced to 15 seconds from 18.
+Mana cost reduced to 70 from 100.
+Requiem
+Mana cost reduced to 100 at all ranks from 150 / 175 / 200.
+V8.9
+Stats
+Base mana increased to 467 from 372.
+48
+.
+Mana growth reduced to 30.
+5
+from 61.
+Base mana regeneration increased to 8 from 6.
+V8.7
+Lay Waste
+Base damage increased to 50 / 70 / 90 / 110 / 130 from 40 / 60 / 80 / 100 / 120.
+V8.3
+Stats
+Base health regeneration increased to 6.
+5
+from 6.
+424
+.
+V7.24
+Requiem
+AP ratio increased to
+75% AP
+from
+60% AP
+.
+V7.22
+Stats
+Base health increased to 528 from 516.
+Health growth increased to 87 from 75.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.8
+Lay Waste
+New Effect:
+Can now be buffered. Casts input as
+Lay Waste
+explodes will now automatically fire once
+Lay Waste
+comes off cooldown, unless
+Karthus
+cancels the command.
+V7.4
+General
+Adjusted splash artwork for
+Fnatic Karthus
+.
+V6.18
+General
+Adjusted splash artwork for
+Pentakill Karthus
+.
+V6.7
+General
+Splash artwork for
+Phantom Karthus
+,
+Statue of Karthus
+and
+Grim Reaper Karthus
+updated to the Chinese art. Adjusted splash artwork for
+Original Karthus
+.
+V6.4
+Statue of Karthus
+Bug Fix:
+Eagle screech being heard globally by allies when Karthus dances.
+V5.24
+Wall of Pain
+New Effect:
+Wall slow is reduced to 20 / 25 / 30 / 35 / 40% after 1 second.
+V5.6
+General
+Basic attack frame improved.
+V5.5
+Wall of Pain
+Bug Fix:
+Enemy champions sometimes dashing through wall and not being slowed.
+V4.11
+Requiem
+Bug Fix:
+Allied-ultimate HUD indicator displaying as available when it wasn't.
+V4.10
+Statue of Karthus
+New Effect:
+A certain bird of prey screeches when Karthus dances.
+Lay Waste
+Bug Fix:
+Fixed a bug where Lay Waste appeared to give more vision than it actually did.
+Wall of Pain
+Bug Fix:
+No longer interrupted by movement commands.
+Requiem
+Particle updated for visibility.
+V4.9
+General
+Visual upgrade across all skins.
+New splash artwork for
+Original Karthus
+and
+Pentakill Karthus
+.
+New voiceover.
+New lore
+Lay Waste
+Added a new indicator that shows the full area of effect.
+Added crit-style combat text and a unique sound effect for double-damage Qs.
+Wall of Pain
+Added a visual debuff effect that marks affected enemy champions.
+V4.5
+Stats
+Base armor increased to 15 from 11.
+V4.4
+Death Defied
+Bug Fix:
+Karthus not benefiting from damage modifiers (
+Rabadon's Deathcap
+,
+Void Staff
+) while active.
+V3.12
+Requiem
+Enemy warning buff duration updated to match impact delay.
+V3.10
+Lay Waste
+New Effect:
+Casts at maximum range when targeted beyond max range during
+Death Defied
+Defile
+AP ratio reduced to
+20% AP
+from
+25% AP
+.
+Bug Fix:
+Fixed a bug where cooldown reduction allowed it to be rapidly toggled, increasing its damage output.
+V3.7
+Requiem
+Bug fix:
+Should not longer have a major FPS performance hit across all maps.
+V1.0.0.152
+Stats
+Movement speed increased to 335 from 310.
+V1.0.0.146
+Wall of Pain
+Removed:
+No longer reduces armor.
+Magic resistance reduction changed to 15% from flat 15 / 20 / 25 / 30 / 35.
+V1.0.0.142
+Requiem
+Cooldown increased to 200 / 180 / 160 seconds from 180 / 150 / 120.
+V1.0.0.131
+Death Defied
+(
+Dominion
+)
+New Effect:
+Death timer now starts when the effect ends.
+V1.0.0.130
+Dominion
+Bug Fix:
+Karthus sometimes immediately awarding a double kill when affected by both
+Sunlight
+and Storm Shield.
+Wall of Pain
+Wall duration reduced to 5 seconds from 7.
+Slow application changed to once from per-crossing.
+V1.0.0.126
+Death Defied
+Bug Fix:
+Requiem
+channel sometimes not finishing if cast while active.
+V1.0.0.118
+Death Defied
+Duration reduced to 7 seconds from 8.
+Removed:
+20% death timer reduction.
+Requiem
+AP ratio reduced to
+60% AP
+from
+70% AP
+.
+V1.0.0.105
+Wall of Pain
+Tooltip updated to emphasize decaying slow effect.
+V1.0.0.103
+Death Defied
+New Effect:
+All abilties are free to cast while active.
+Bug Fix:
+Various usability issues.
+Lay Waste
+Mana cost reduced to 20 / 26 / 32 / 38 / 44 from 20 / 28 / 36 / 44 / 52.
+Wall of Pain
+Cooldown reduced to 18 seconds from 22.
+V1.0.0.101
+Death Defied
+New Effect:
+Grants 20% death timer reduction to compensate for active duration.
+Code remade for bug fixing and for usability issues.
+V1.0.0.100
+Wall of Pain
+Bug Fix:
+Rank-up tooltip displaying incorrect slow increase.
+V1.0.0.99
+Requiem
+Mana cost reduced to 150 / 175 / 200 from 200 / 300 / 400.
+V1.0.0.86
+Lay Waste
+Bug Fix:
+Tooltip displaying incorrect AP ratio.
+V1.0.0.75
+Death Defied
+New ability icon.
+V1.0.0.70
+Stats
+Armor per level increased to 3.
+5
+from 3.
+Lay Waste
+Range increased to 875 from 825.
+Mana cost reduced to 20 / 28 / 36 / 44 / 52 from 24 / 32 / 40 / 48 / 54.
+V1.0.0.63
+General
+Basic attack projectile speed increased to 1200 from 800.
+Lay Waste
+Base damage increased to 40 / 60 / 80 / 100 / 120 from 35 / 55 / 75 / 95 / 115.
+AP ratio increased to
+30% AP)
+from
+25% AP
+.
+Defile
+AP ratio increased to
+25% AP)
+from
+20% AP
+.
+Requiem
+Removed:
+No longer reveals Karthus to enemies when cast.
+V1.0.0.61
+Lay Waste
+AP ratio increased to
+25% AP
+from
+20% AP
+.
+V1.0.0.52
+Lay Waste
+Bug Fix:
+Corrected AP ratio.
+Wall of Pain
+Bug Fix:
+Slowing units 2 seconds after particle had faded.
+V1.0.0.32
+Lay Waste
+Mana cost reduced to 24 / 32 / 40 / 48 / 54 from 25 / 35 / 45 / 55 / 65.
+Defile
+Mana cost reduced to 30 / 42 / 54 / 66 / 78 from 30 / 45 / 60 / 75 / 90.
+V0.9.25.34
+General
+Secondary/critical strike animations updated.
+V0.9.25.24
+General
+Removed:
+Karthus can no longer out-range
+Baron Nashor
+.
+V0.9.25.21
+Death Defied
+Duration reduced to 8 seconds from 10.
+Lay Waste
+Mana cost increased to 25 / 35 / 45 / 55 / 65 from 24 / 32 / 40 / 48 / 54.
+Wall of Pain
+Wall updated for visibility.
+Bug Fix:
+Incorrect wall appearance.
+Bug Fix:
+Targets sometimes not being slowed when crossing the wall.
+Duration reduced to 7 seconds from 9.
+Defile
+Mana cost increased to 30 / 45 / 60 / 75 / 90 from 30 / 40 / 50 / 60 / 70.
+V0.9.22.16
+Lay Waste
+Mana cost increased to 24 / 32 / 40 / 48 / 54 from 18 / 26 / 34 / 42 / 50.
+Defile
+On-kill mana gain changed to 20 / 27 / 34 / 41 / 48 from 15 / 25 / 35 / 45 / 55.
+Removed:
+Mana regen on champion kill.
+Mana cost increased to 30 / 40 / 50 / 60 / 70 from 25 / 35 / 45 / 55 / 65.
+Requiem
+AP ratio reduced to
+60% AP
+from
+70% AP
+.
+Removed:
+Can no longer be disrupted by
+Cleanse
+.
+V0.9.22.15
+Stats
+Base attack damage increased to 44 from 39.
+Lay Waste
+Range reduced to 825 from 900.
+Wall of Pain
+New Effect:
+Wall targeting cursor.
+Defile
+Removed:
+No longer doubles cost upon casting.
+V0.8.21.110
+Lay Waste
+AoE diameter increased to 200 from 185.
+July 10, 2009 Patch
+Requiem
+Base damage increased to 250 / 400 / 550 from 200 / 350 / 550.
+June 26, 2009 Patch
+Wall of Pain
+Slow reduced to 40 / 50 / 60 / 70 / 80% from 80% at all ranks.
+Defile
+Cooldown reduced to 0.
+5
+seconds from 1.
+Requiem
+Bug Fix:
+Now correctly shows buff tooltips.
+June 19, 2009 Patch
+Lay Waste
+Base damage increased to 35 / 55 / 75 / 95 / 115 from 30 / 50 / 70 / 90 / 110.
+Corrected tool-tip to say that it deals double damage if it hits a single target (corrected numbers in tool-tip as well).
+Wall of Pain
+Cast range reduced to 1000 from 1200.
+Armor and magic resistance reduction reduced to 15 / 20 / 25 / 30 / 35 from 20 / 25 / 30 / 35 / 40.
+Duration reduced to 9 seconds from (and it no longer lingers after the particle fades).
+Cooldown reduced to 22 seconds from 25.
+Defile
+Base damage increased to 30 / 50 / 70 / 90 / 110 from 20 / 40 / 60 / 80 / 100.
+Fallen One
+Ability power ratio reduced to
+70% AP
+from
+75% AP
+.
+Can no longer be cast while dead.
+June 12, 2009 Patch
+Death Defied
+(Innate)
+When Karthus dies, he can continue to cast spells for 10 seconds after death. If he kills a champion in this time he respawns instantly at base.
+Lay Waste
+(Q)
+A 1 second cooldown spell which leaves a time delayed mine that deals double damage if it only hits a single target.
+Wall of Pain
+(W)
+Stretches a perpendicular wall through the target location, enemies who walk through it are slowed and take increased damage.
+Defile
+(E)
+While toggled on, Defile continually damages nearby enemies. While off, Karthus regains mana whenever he kills a unit.
+Fallen One
+(Ultimate)
+Channeled spell; upon successful cast, Karthus damages all enemy champions in the game.
+Trivia
+[
+edit
+|
+edit source
+]
+The name
+Karthus
+resembles Medieval Latin
+Carthusianus
+.
+Karthus, the Deathsinger
+Karthus is
+voiced
+by
+Adam Harrington
+, who also voices
+Kassadin
+,
+Mordekaiser
+,
+Ryze, the Rogue Mage
+, and
+Shaco
+.
+During development he was called
+Lich
+.
+Requiem
+was likely named after
+Requiem Mass
+referencing Karthus' singing for/about the dead.
+His
+Chinese Classic splash art
+made a
+cameo
+in
+Fright Night
+along with
+Original Fiddlesticks
+.
+Karthus, the Deathsinger
+A glass case reading
+'
+Press
+R
+to Win'
+can be seen in the game's Mac Version launch trailer.
+Before 2016, Karthus had been disabled for every single
+Ultra Rapid Fire
+edition (most likely to prevent 'Spam
+R
+to Win' abuse cases).
+For a brief time in
+Season Five
+, Karthus had a bug where he could remain in
+Death Defied
+indefinitely while alive and held an 87% win rate.
+[2]
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Battlemage
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Battlemages
+(also known as Warlocks) get into the middle of the fray, seeking to wreak havoc upon the entire enemy team with their overwhelming sustained area damage. Due to their relatively short (but not melee) combat ranges and the need to burn down their opponents over time, Battle Mages have significant defensive capabilities that range from sustaining endlessly to literally defying death for a short period of time.
+Examples
+Rumble
+Swain
+Vladimir
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Zombie state
+A buff that allows a player to keep controlling their
+champion
+after
+Death
+always flags the champion to be in a
+zombie state
+. It prevents enemies from gaining full kill credit or triggering most on-kill effects from the champion a second time, and some abilities (e.g.
+You and Me!
+) interact differently with champions in this state.
+Renata Glasc's
+Bailout
+and
+Resurrection
+will always take precedence over
+zombie state
+effects.
+The following effects trigger a champion to enter a
+zombie state
+:
+Karthus'
+Death Defied
+Kog'Maw's
+Icathian Surprise
+Sion's
+Glory in Death
+League of Legends content
+Defile
+STATIC CD:
+0.
+5
+Passive:
+Karthus
+restores
+mana
+whenever he kills an enemy.
+Toggle:
+Karthus
+surrounds himself in a necrotic
+aura
+that continually deals
+magic damage
+to all nearby enemies, quickly draining his own
+mana
+.
+League of Legends content
+Requiem
+COOLDOWN:
+200 / 180 / 160
+Active:
+Karthus
+channels
+for a short time, then deals
+magic damage
+to all targetable enemy champions upon completion.
+League of Legends content
+Cc-Immune
+Crowd control immunity
+prevents
+any
+type of
+crowd control
+from being
+applied
+to the unit. CC which has already been applied will still have an effect on the unit. Epic
+monsters
+(excluding a summoned
+Rift Herald
+) and
+turrets
+are always immune to all crowd control, with the exception of
+stasis
+.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Homing projectile destruction
+Destroying
+or
+popping of a projectile
+references an effect that destroys all homing
+missiles
+currently targeting a specific unit, such as ranged projectile-based
+basic attacks
+. Destroyed missiles will do the same thing as if they were destroyed by
+Wind Wall
+or
+Blade Whirl
+(usually vanishing without any effect).
+The following abilities perform one or more
+projectile popping events
+:
+Most
+abilities and effects that grant
+untargetability
+pop projectiles when the unit gains the status effect.
+Master Yi's
+Alpha Strike
+in particular pops targeted projectiles on each game tick for its duration.
+Gwen's
+Hallowed Mist
+pops all projectiles (from enemy champions outside of its area of effect) targeted at her that attempt to pass through or be inside its area of effect.
+Upon entering or leaving
+Mordekaiser's
+Realm of Death
+.
+Upon successfully completing the
+channel
+of:
+Shen's
+Stand United
+Twisted Fate's
+Gate
+Teleport
+League of Legends content
+Projectile
+A
+projectile
+or
+missile
+is any entity not classified as a unit (
+champion
+,
+minion
+,
+monster
+, etc.
+) that travels at any given velocity.
+Moving units are
+not
+considered projectiles under any circumstance (
+including
+dashing
+units,
+airborne
+units, or units thrown by some abilities such as
+Force of Will
+or
+Roar of the Slayer
+.
+).
+Braum's
+Unbreakable
+,
+Samira's
+Blade Whirl
+, and
+Yasuo's
+Wind Wall
+can block, destroy and / or stop projectiles.
+Some
+ranged
+basic attacks (
+including
+turrets
+) and abilities don't use projectiles and will bypass projectile-blocking effects.
+Some abilities will
+destroy
+all currently incoming homing projectiles.
+League of Legends content
+Execute
+Executes
+deal
+true damage
+equal to
+100% of the target's
+current
+health
+through the
+raw damage
+source type, ignoring all mitigations.
+They do not bypass
+invulnerability
+and effects that prevent falling below a health amount, unless the source type is
+internalraw
+.
+League of Legends content
+Raw damage
+Raw damage
+is a type of damage that normally ignores resistances,
+shields
+, and
+minimum health threshold
+and
+resurrection
+effects on the target.
+Invulnerability
+and
+spell shields
+,  where applicable, are the only ways to reduce or negate
+raw damage
+. Current champion-sources of
+raw damage
+against an enemy always deal more than
+100% of the target's
+current
+health
+(
+"execution damage"
+). Current champion-sources of
+raw damage
+against the player's own champion or an ally are special-cased to take place during effects that protect champions from death. Current implementations of
+minimum health thresholds
+are special-cased to leave units at
+1 health
+rather than the threshold, when they are dealt lethal
+raw damage
+.
+Raw damage
+does not interact with
+any
+effect.
+Internal raw
+damage is a form of
+raw damage
+that also bypasses
+invulnerability
+and has no overrides in place to prevent it from killing death-protected champions. The
+Nexus Obelisk
+,
+Zac's
+Cell Division
+redirected damage, and
+Rift Herald's
+self-damage also have this modified form.
+League of Legends content
+Resurrection
+A unit that is protected by
+Resurrection
+will enter a revival state and dispel most debuffs upon taking
+fatal damage
+. After the state completes, the unit is revived.
+Resurrection
+effects do not count for kills or assists.
+Resurrection
+sources have a hierarchy, and will trigger in the following order:
+Zilean's
+Chronoshift
+Guardian Angel
+Anivia's
+Rebirth
+and
+Zac's
+Cell Division
+Resurrection
+will always take precedence over
+zombie state
+effects. Entering
+resurrection
+does not cancel cast times.
+Renata Glasc's
+Bailout
+always takes priority over
+resurrection
+.
+League of Legends content
+Blaze
+Innate:
+Brand's
+abilities apply a stack of
+Ablaze
+to enemies hit. Subsequent abilities used against a target with
+Ablaze
+are empowered. Killing an enemy afflicted with
+Ablaze
+or with an ability restores
+mana
+.
+At three stacks,
+champions
+and large
+monsters
+become unstable and explode, dealing
+magic damage
+to nearby enemies and applying a stack of
+Ablaze
+.
+Ablaze
+cannot stack more than once on enemies who have recently exploded.
+Ablaze:
+While afflicted with
+Ablaze
+, the target is continually dealt
+magic damage
+equal to a portion of
+their
+maximum
+health
+.
+League of Legends content
+Event Horizon
+COOLDOWN:
+20 / 18.
+5
+/ 17 / 15.
+5
+/ 14
+Active:
+After a brief delay,
+Veigar
+erects a cage at the target location that lasts for a short time. Enemies that touch the cage edges are briefly
+knocked down
+and
+stunned
+.
+League of Legends content
+Gravity Field
+COOLDOWN:
+17 / 16 / 15 / 14 / 13
+Active:
+Viktor
+deploys a gravity field that remains at the target location for a few seconds. After a brief delay, it activates to continually
+slow
+enemies within and inflict stacks of
+Gravity Field
+.
+The third stack consumes them all to briefly
+knock down
+and
+stun
+the target.
+Augment: Magnetize
+:
+Viktor's
+other basic abilities will also briefly
+slow
+enemies hit.
+League of Legends content
+Dark Passage
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Active:
+Thresh
+throws his lantern to the target location that remains for a few seconds while he remains nearby. He and the first allied champion to come near the lantern are granted a
+shield
+for a few seconds, with the amount based on
+Souls
+.
+An ally can grab the lantern to
+dash
+to
+Thresh
+and gain the shield, but cannot do so while
+immobilized
+,
+grounded
+, or
+silenced
+.
+League of Legends content
+Gate
+Gates
+are map elements that offer transit.
+Champions can interact with a gate to
+channel
+for 0.
+75
+seconds. Upon completing the channel, they
+dash
+to the other side of the gate over 2.
+25
+seconds, becoming
+untargetable
+during the travel. Each route has a 30-second cooldown per champion.
+They may choose a location to dash again up to a distance from the gate, though not through terrain. Champions taking gates will always
+blink
+to their designated location, even when the dash is stopped.
+League of Legends content
+Bailout
+COOLDOWN:
+28 / 27 / 26 / 25 / 24
+Active:
+Renata
+grants herself or the target allied champion ramping
+bonus
+attack speed
+in addition to
+bonus
+movement speed
+toward enemies.
+Bailout's
+duration resets whenever the target scores a
+takedown
+against an enemy champion.
+If the target would
+die
+while
+Bailout
+is active, their health is set back to full but they suffer a
+true damage
+burn that would kill them over a short time. The target can stop the burn by scoring a
+takedown
+.
+League of Legends content
+Chronoshift
+COOLDOWN:
+120 / 90 / 60
+Active:
+Zilean
+places a protective time rune on himself or the target allied champion for a few seconds.
+If the target would die, they enter
+resurrection
+for a short time, becoming
+invulnerable
+,
+untargetable
+, and
+unable to act
+. They are
+healed
+afterwards.
+League of Legends content
+Umbral Trespass
+COOLDOWN:
+120 / 100 / 80
+Passive:
+Kayn
+marks
+enemy champions he damaged for a short time.
+Active:
+Kayn
+vanishes
+and
+dashes
+to a
+marked
+enemy champion. Upon arrival, he
+channels
+for a short time,
+attaching
+to the target and
+revealing
+them.
+Recast:
+Kayn
+deals
+physical damage
+to the target and
+dashes
+out from their body in the target direction.
+Shadow Assassin Bonus:
+Umbral Trespass
+has increased range. Emerging will
+reset
+The Darkin Scythe's
+cooldown.
+Darkin Bonus:
+Umbral Trespass
+deals damage based on the
+target's
+maximum
+health
+, and
+heals
+him for a portion of the
+target's
+maximum
+health
+.
+League of Legends content
+Curse of the Black Mist
+COOLDOWN:
+26 / 24.
+5
+/ 23 / 21.
+5
+/ 20
+Active:
+Senna
+creates an aura of mist and gains
+camouflage
+for a few seconds. She will quickly regain camouflage after breaking stealth.
+Allied champions that enter the mist gain
+Wraith Form
+for the remaining duration.
+Senna
+and allies camouflaged by
+Curse of the Black Mist
+also gain
+bonus
+movement speed
+.
+Wraith Form
+: Gain
+camouflage
+. Enemies will have
+obscured vision
+of camouflaged
+Wraiths
+moving outside the mist.
+Wraiths
+will quickly regain camouflage after breaking stealth.
+League of Legends content
+Fear Beyond Death
+COOLDOWN:
+100 / 85 / 70
+Active:
+Urgot
+fires a chem-drill in the target direction that impales the first enemy champion hit, dealing
+physical damage
+and leashing them for a few seconds. The target is also
+revealed
+and
+slowed
+based on
+their
+missing
+health
+.
+Fear Beyond Death
+can be recast if the leashed target falls to
+low health
+, and does so automatically afterwards if they remain at
+low health
+. It will also recast if the chem-drill would kill the target.
+Recast:
+Urgot
+suppresses
+the target and reels them in,
+revealing
+them and rendering them
+untargetable
+. He then
+executes
+them, which briefly
+fears
+and
+slows
+nearby enemies.
+League of Legends content
+Test of Spirit
+COOLDOWN:
+16 / 15 / 14 / 13 / 12
+Active:
+Illaoi
+reaches with a tendril in the target direction that stops upon the first enemy hit. If the target is a
+champion
+, she rips their
+Spirit
+out from them to stand before her.
+The
+Spirit
+tethers
+to the target for a duration, dealing a portion of any damage it takes. If the
+Spirit
+is killed or the target leaves its range, the target will be
+slowed
+and marked as a
+Vessel
+for a duration or until they
+takedown
+Illaoi
+, spawning
+Tentacles
+while marked.
+Tentacles
+will autonomously attack the nearest
+Spirit
+or
+Vessel
+.
+League of Legends content
+Lamb's Respite
+COOLDOWN:
+180 / 150 / 120
+Active:
+Lamb
+blesses the ground under herself for a few seconds. Any unit inside the area will become
+invulnerable
+upon reaching
+low health
+.
+Units within the area are
+healed
+when the blessing ends.
+League of Legends content
+Realm of Death
+COOLDOWN:
+140 / 120 / 100
+Active:
+Mordekaiser
+slows
+the target enemy champion, then banishes them with him to the
+Death Realm
+for a few seconds, cancelling all interactions with non-banished units.
+Additionally,
+Mordekaiser
+heals
+himself for a portion of the
+target's
+maximum
+health
+and temporarily steals a portion of their
+current
+attack damage
+,
+ability power
+,
+total
+attack speed
+,
+maximum
+health
+,
+armor
+,
+magic resist
+, and
+size
+.
+If the target dies while inside the
+Death Realm
+,
+Mordekaiser
+keeps his stolen stats until they
+respawn
+.
+Death Realm:
+The
+Death Realm
+confines units in a small area. Allies and enemies cannot see or interact with those in the
+Death Realm
+but can see their locations and vice versa.
+League of Legends content
+Howling Abyss
+The Howling Abyss is a bottomless crevasse located in the coldest, cruelest, part of the
+Freljord
+. Legends say that, long ago, a great battle took place here on the narrow bridge spanning this chasm. No one remembers who fought here, or why, but it is said that if you listen carefully to the wind you can still hear the cries of the vanquished tossed howling into the Abyss.
+Regular Modes
+Classic 5v5
+(
+All random
+)
+Custom
+Featured Game Modes
+Legend of the Poro King
+One For All
+One For All: Mirror Mode
+Snowdown Showdown
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Death Defied
+Innate:
+Upon
+dying
+,
+Karthus
+enters an
+untargetable
+spirit form
+for a few seconds that allows him to continue casting spells at no cost but without being able to move.
+If
+Defile
+has been learned, it will remain toggled on for
+Death Defied's
+entire duration.
+References
+[
+edit
+|
+edit source
+]
+↑
+Karthus's profile page
+at
+LeagueOfLegends.com
+↑
+FeralPony on God Karthus

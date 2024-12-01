@@ -1,0 +1,2948 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Elise
+the Spider Queen
+Release date
+2012-10-26
+Last changed
+V14.23
+Class(es)
+Diver
+Legacy
+Assassin
+Mage
+Position(s)
+Jungle
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+2
+Toughness
+2
+Control
+2
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Elise
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Elise
+Base statistics
+Edit
+Health
+650
++109
+Mana
+324
++50
+Health regen. (per 5s)
+5.5
++0.6
+Mana regen. (per 5s)
+6
++0.8
+Armor
+30
++4.5
+Attack damage
+55
++3
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+550
+Attack speed
+Base AS
+0.625
+Attack windup
+18.75%
+AS ratio
+N/A
+Bonus AS
++1.75
+%
+Missile speed
+1600
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+550
+Special statistics
+Damage Dealt
++5%
+Damage Received
+-10%
+Tenacity & Slow Resist
++20%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++5%
+Damage Received
+-8%
+Damage Dealt
++0%
+Damage Received
+-5%
+Damage Dealt
++5%
+Damage Received
+-5%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Spider Queen
+Innate:
+The rank of
+Spider Form / Human Form
+affects the power of
+Spider Queen
+.
+Human Form: Whenever
+Elise's
+abilities hit an enemy, she gains a dormant
+Spiderling
+, up to a cap.
+Spider Form:
+Elise's
+basic attacks deal
+bonus
+magic damage
+and
+heal
+her.
+Innate - Human Form:
+Elise
+gains one dormant
+Spiderling
+whenever she hits an enemy with an
+ability
+, storing once per cast and up to
+2 / 3 / 4 / 5 (based on
+Human Form's
+Rank)
+at a time. She stores the maximum number of
+Spiderlings
+when the game starts and upon
+respawning
+.
+Innate - Spider Form:
+Elise's
+basic attacks
+deal
+12 / 22 / 32 / 42 (based on
+Spider Form's Rank)
+(+ 20% AP)
+bonus
+magic damage
+and
+heal
+her for
+6 / 8 / 10 / 12 (based on
+Spider Form's
+Rank)
+(+ 8% AP)
+on-hit
+.
+See
+Pets
+for more details about Spiderlings.
+Info
+Targeting input
+Passive
+Damage type
+Type
+See Notes
+Sub-type
+Magic
+Counters
+Parries
+Missing
+Spider Form's
+effects do not apply to
+structures
+.
+If an ability hits while
+Elise
+is already in
+Spider Form
+, a
+Spiderling
+will spawn near her rather than being stored.
+The
+Spiderlings
+have a
+leash range
+.
+Spider Form's
+basic attacks will apply other
+on-hit effects
+and can
+critically strike
+as normal (the
+bonus
+damage does not).
+Spider Form's
+bonus damage and healing can be
+blocked
+,
+dodge
+and are not applied if
+Elise
+is
+blind
+.
+Applies
+proc damage
+on the bonus magic damage on-hit in
+Spider Form
+.
+The
+Spiderlings
+apply
+area damage
+.
+Video
+Edit
+Neurotoxin
+COST:
+80 / 85 / 90 / 95 / 100 Mana
+COOLDOWN:
+6
+CAST TIME:
+0.
+25
+TARGET RANGE:
+575
+Active:
+Elise
+fires a toxin at the target enemy that deals
+magic damage
+based on the
+target's
+current
+health
+.
+Active:
+Elise
+fires a toxin at the target enemy that deals
+magic damage
+, with the damage based on the target's health ratio being capped against
+monsters
+.
+Magic Damage:
+40 / 75 / 110 / 145 / 180
+(+ 4%
+(+ 3% per 100 AP)
+of target's
+current
+health)
+Capped Monster Damage:
+75 / 100 / 125 / 150 / 175
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+With the exceptions of
+Elise's
+Death Blossom
+,
+Victorious
+,
+Blood Moon
+, and
+Super Galaxy
+skins;
+Neurotoxin's
+VFX size will scale uncapped based off the total damage it does.
+(note)
+Video
+Edit
+Volatile Spiderling
+COST:
+60 / 70 / 80 / 90 / 100 Mana
+COOLDOWN:
+12
+CAST TIME:
+0.
+125
+TARGET RANGE:
+950
+COLLISION RADIUS:
+150
+EFFECT RADIUS:
+275
+Active:
+Elise
+sends a
+Volatile Spiderling
+to the target location that explodes when it hits an enemy or times out.  If the
+Spiderling
+does not hit an enemy before then, it will chase down a nearby enemy.
+Active:
+Elise
+summons a venom-gorged spider for 3 seconds, which is
+untargetable
+and crawls to the target location, navigating its path upon encountering terrain.
+The spider explodes upon contact with an enemy or at the end of its lifespan, dealing
+magic damage
+to nearby enemies.
+Magic Damage:
+60 / 105 / 150 / 195 / 240
+(+ 95% AP)
+If the spider does not hit an enemy before reaching the target location, it chases down a nearby enemy, prioritizing
+champions
+and gaining
+bonus
+movement speed
+based on its proximity to the target.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+If
+Volatile Spiderling
+dashes to a target due to
+Venomous Bite
+, it will not expire before finishing its jump.
+It can still collide with enemies while dashing, but since this proximity check is repeated only every so often, it might phase through an enemy on its way without detecting the collision if dashing quickly enough.
+The spiderling checks for nearby targets every
+0.
+264
+seconds
+, both for potential enemies to chase down and to explode 'on-contact'. Because of this, it may walk closer to an enemy than its "collision radius" before exploding.
+Video
+Edit
+Cocoon
+COST:
+50 Mana
+COOLDOWN:
+12 / 11.
+5
+/ 11 / 10.
+5
+/ 10
+CAST TIME:
+0.
+25
+TARGET RANGE:
+1100
+WIDTH:
+110
+SPEED:
+1600
+Active:
+Elise
+fires a web in the target direction that deals
+magic damage
+and
+stuns
+the first enemy hit.
+Active:
+Elise
+fires a web in the target direction,
+stunning
+the first enemy hit for a few seconds, during which they are also
+revealed
+.
+Stun Duration:
+1.
+6
+/ 1.
+8
+/ 2 / 2.
+2
+/ 2.
+4
+seconds
+Info
+Targeting input
+Direction
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+This ability will cast from wherever the caster is at the end of the cast time.
+Cocoon
+deals no damage and thus does
+not
+trigger
+turret
+aggro, or effects such as
+Elixir of Sorcery
+and
+Sudden Impact's
+activation.
+Cocoon
+can
+reveal
+nearby stealthed units including
+wards
+if they're near the target she hits
+Cocoon
+on due to its vision applying in a radius around the target.
+(bug)
+Video
+Edit
+Venomous Bite
+COOLDOWN:
+6
+CAST TIME:
+0.
+25
+TARGET RANGE:
+475
+SPEED:
+1150
+Active:
+Elise
+pounces
+at the target enemy and deals damage based on the
+target's
+missing
+health
+, applying
+on-hit
+effects. If there are active
+Spiderlings
+or
+Volatile Spiderlings
+nearby, they will pounce with
+Elise
+and attack the target.
+Active:
+Elise
+pounces
+at the target enemy with her fangs and bites them, dealing
+magic damage
+and applying
+on-hit
+effects at 100% effectiveness, as well as
+revealing
+them for
+0.
+528
+seconds
+from the start of the cast time. The damage based on the target's health ratio is capped against
+monsters
+.
+Magic Damage:
+60 / 90 / 120 / 150 / 180
+(+ 8%
+(+ 3% per 100 AP)
+of target's
+missing
+health)
+Capped Monster Damage:
+75 / 100 / 125 / 150 / 175
+If there are active
+Spiderlings
+or
+Volatile Spiderlings
+nearby, they will
+dash
+alongside
+Elise
+to the target upon
+Venomous Bite's
+cast and reprioritize them.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Parries
+See Notes
+Grounded
+Disabled
+Knockdown
+Interrupted
+Elise
+will not dash if the target is within basic attack range.
+This ability is disabled while
+grounded
+or
+rooted
+even if
+Elise
+is in the range in which she does not dash.
+If
+Elise
+is allowed to dash,
+Venomous Bite
+can be used to cross sufficiently thin
+terrain
+.
+Spiderlings
+can cross walls and terrain to reach
+Venomous Bite's
+target and will attack provided
+Elise
+stays within their
+leash range
+.
+There is a maximum range in which
+Spiderlings
+or
+Volatile Spiderlings
+can dash to the target.
+Spiderlings
+will dash even if they are
+crowd controlled
+.
+Venomous Bite
+will always apply its effects after the cast time, even if the dash is interrupted.
+Venomous Bite's
+reveal
+is a small area around the target, making it possible for them to exit the reveal radius and lose vision.
+Venomous Bite
+will still deal its damage but not apply on-hit effects if it is
+blocked
+or
+dodged
+. It cannot be missed while
+Elise
+is
+blinded
+.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+With the exceptions of
+Elise's
+Death Blossom
+,
+Victorious
+,
+Blood Moon
+, and
+Super Galaxy
+skins;
+Venomous Bite's
+VFX size will scale uncapped based off the total damage it does.
+(note)
+Video
+Edit
+Skittering Frenzy
+COOLDOWN
+:
+10
+CAST TIME:
+none
+Passive:
+Elise's
+Spiderlings
+gain permanent
+bonus
+attack speed.
+Active:
+Elise
+and her
+Spiderlings
+gain
+bonus
+attack speed.
+for a short time.
+Skittering Frenzy will end early if
+Elise
+switches forms.
+Passive:
+Elise's
+Spiderlings
+gain
+bonus
+attack speed
+.
+Spiderling
+Bonus Attack Speed:
+5 / 10 / 15 / 20 / 25%
+Active:
+Elise
+and her
+Spiderlings
+gain
+bonus
+attack speed
+for 3 seconds.
+Bonus Attack Speed:
+60 / 70 / 80 / 90 / 100%
+Skittering Frenzy
+resets
+Elise's
+basic attack
+timer.
+Elise
+loses Skittering Frenzy immediately when she switches to
+Human Form
+.
+Info
+Targeting input
+Auto
+No additional details.
+Video
+Edit
+Rappel
+COOLDOWN
+:
+22 / 21 / 20 / 19 / 18
+CAST TIME:
+none
+TARGET RANGE:
+825
+/
+900
+Active:
+Elise
+and her
+Spiderlings
+vanish
+into the air for a short time.
+Rappel
+can be recast on a target enemy within the duration, and does so automatically after the duration without a target.
+Recast:
+Elise
+and her
+Spiderlings
+descend
+upon the target enemy, or their current position if there is no target. If
+Rappel
+is cast directly on a target enemy, she will automatically recast upon the target and
+Spider Queen's
+effects are increased for a few seconds.
+Active:
+Elise
+and her
+Spiderlings
+lift up into the air over 0.
+6
+seconds, immediately becoming
+untargetable
+and
+unable to act
+, and afterwards
+vanishing
+for up to
+1.
+95
+seconds
+and granting
+sight
+of the surrounding
+900 units
+for the duration.
+Rappel
+can be recast instantly on a target enemy within the duration, or without a target after
+a delay
+for the duration, and does the latter automatically after the duration.
+Recast:
+Elise
+and her
+Spiderlings
+reappear and descend onto the ground over 0.
+4
+seconds, becoming targetable and able to act again afterwards. Additionally,
+Spider Queen's
+bonuses are increased for 5 seconds.
+Spider Effects Increase:
+40 / 55 / 70 / 85 / 100%
+If the recast was used on a target enemy,
+Elise
+and her
+Spiderlings
+descend
+behind the target's location. Otherwise, she and her
+Spiderlings
+will descend onto their current position without a target.
+Rappel's recast can be used while affected by
+cast-inhibiting crowd control
+.
+Info
+Targeting input
+Auto
+/
+Location
+/
+Unit
+Counters
+Grounded
+Disabled
+When
+Elise
+casts
+Rappel
+, a circle outlines the area in which a target can be selected to descend upon.
+Elise
+will always attempt to position behind her target at the same offset if she descends within than
+Rappel's
+max range (825), provided there is enough space at the other side. If the target is at the edge of the recast's radius,
+Elise
+will not appear at the exact offset behind her target but as close to them as possible instead.
+For example, if the target's edge is barely within range for the recast, she will appear in front of them.
+If
+Elise's
+location-targeted recast is used by issuing a movement command within the respective range of
+Rappel
+, she will descend as normal but then move to the location that the movement command was issued; her movement commands will not be interrupted from descending.
+The delay for recasting without a target after
+Elise
+has lifted into the air is inconsistent.
+(bug)
+The recast has a 0.
+33
+-seconds delay for issued movement commands, and a 0.
+5
+-second delay if the recast input itself is used.
+While
+Elise
+is lifting up into the air, she can buffer
+Rappel's
+recast by targeting an enemy with an attack command or the recast input itself in the meantime. She however cannot buffer
+Rappel's
+location-targeted recast.
+The initial cast can also directly target an enemy to buffer the recast.
+Elise
+will lift up into the air 0.
+05
+seconds shorter in this case.
+The bonuses granted for descending are not lost if
+Elise
+switches to
+Human Form
+.
+Rappel
+can be cast on any targetable enemy unit (
+champions
+,
+minions
+,
+monsters
+,
+wards
+,
+traps
+, and
+jungle plants
+)
+except
+structures
+.
+If
+Elise
+is positioned within the radius of the unit she's using the initial target cast on,
+Rappel
+will instead register as a self-cast and not immediately descend.
+(bug)
+Elise
+can
+Rappel
+to
+Rift Herald
+from the other side of the
+Baron Nashor's
+pit as well as to
+Dragon
+by standing near the
+Scryer's Bloom
+spawn locations. This is a result of
+sight
+being granted in a smaller circle than the target range limit for descending and the
+Summoner's Rift
+map having height variations.
+If
+Elise
+enters
+resurrection
+during
+Rappel
+, she will descend back down immediately.
+The following table refers for interactions while
+Elise
+is in
+Rappel
+:
+Attacking
+Descends onto the attack target.
+Abilities
+Disabled
+Movement
+Descends onto her current position.
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+N/A
+Disabled
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Teleport
+Recall
+Hexflash
+Mark
+Dash
+Interrupted by
+N/A
+Interrupted by
+Death
+Video
+Edit
+Spider Form / Human Form
+COOLDOWN:
+3
+CAST TIME:
+none
+Passive:
+Spider Queen's
+effects are increased.
+Toggle:
+Elise
+switches between her
+Human Form
+and
+Spider Form
+.
+Spider Form:
+Elise
+transforms into a spider, reducing her
+attack range
+to
+melee
+. She gains
+bonus
+movement speed
+, new abilities, and a
+Spiderling
+swarm that will attack her foes.
+Human Form:
+Elise
+transforms back into
+human
+form and stores her
+Spiderlings
+.
+Elise
+begins with one rank in
+Spider Form / Human Form
+, which has 4 ranks.
+Passive:
+Spider Queen's
+bonuses are increased.
+Toggle:
+Elise
+switches between her
+Human Form
+and
+Spider Form
+.
+Spider Form:
+Elise
+transforms into a spider, gaining
+25
+bonus
+movement speed
+,
+melee
+basic attacks with
+125 range
+, and access to her arachnid abilities. Additionally, she summons all stored
+Spiderlings
+and
+heals
+them to full health.
+Human Form:
+Elise
+transforms into a human, gaining
+ranged
+basic attacks, and access to her human abilities. Additionally, she stores all active
+Spiderlings
+.
+Elise
+begins with one rank in
+Spider Form / Human Form
+and can increase it at levels 6, 11, and 16.
+Info
+Targeting input
+Auto
+Transformations do not count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+If
+Spider Form
+is cast during a
+basic attack windup
+,
+Elise
+will perform a
+Spider Form
+basic attack that benefits from the bonus damage and healing from
+Spider Queen
+, but remain at
+Human Form
+basic attack range, despite not using a projectile. This basic attack is considered a melee attack and thus will not trigger
+Runaan's Hurricane
+'s
+Wind's Fury
+bolts.
+Spider Form
+and
+Human Form
+have separate cooldowns.
+Video
+Pets
+[
+edit
+|
+edit source
+]
+Spiderling
+Bounty
+Gold
+5
+Exp
+0
+Statistics
+Health
+85 − 390 (based on level)
+Magic damage
+8 / 14 / 20 / 26
+(+ 15% AP)
+Attack speed
+0.
+665
+(+
+0% − 25% (based on
+Skittering Frenzy's rank)
+)
+Range
+100
+Armor
+30 / 50 / 70 / 90
+Magic resist
+50 / 70 / 90 / 110
+Incoming damage modifier
+75% damage from
+area damage
+Move speed
+350
+Control type
+Prioritize
+Elise's
+most recently attacked target.
+Target type
+Minion
+, does not count towards the minion kill tracking score
+On-hit effects
+Spiderlings'
+attacks can be mitigated by
+block
+,
+dodge
+, and
+blind
+, as well as stopped by
+Disarm
+.
+Spell effects
+Spiderlings'
+basic attacks apply
+spell effects
+as
+area damage
+.
+Abilities
+Vile Cluster
+The
+Spiderling
+benefits from
+Skittering Frenzy's
+active, and will
+vanish
+with
+Elise
+when she activates
+Rappel
+.
+Nest
+The
+Spiderling
+regenerates
+health
+over time, and is instantly restored to
+full health
+if
+Elise
+switches to
+Human Form
+with maximum
+Spiderlings
+.
+Pounce
+The
+Spiderling
+dashes
+to enemies targeted by
+Venomous Bite
+.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Elise (Collection)
+.
+Original
+View in 3D
+880
+26.10.2012
+Elise is a deadly predator who dwells in a shuttered, lightless palace, deep within the oldest city of Noxus. Once mortal, she was the mistress of a powerful house, but the bite of a vile demigod transformed her into something beautiful, yet utterly inhuman—a spider-like creature, drawing unsuspecting prey into her web. To maintain her eternal youth, Elise now prefers to feed upon the naive and the faithless, and there are few who can resist her seductions.
+Sydney Rainin-Smith
+Katie 'TeaTime' De Sousa
+Loot eligible
+Death Blossom
+View in 3D
+975
+26.10.2012
+An enchanting beauty she is, lithe in form, and colored like the flowering valleys frozen mid-bloom by winter's chill. Yet the creature Elise dines upon the flesh of maidens, allured by her delicate pulchritude, who dance softly into the jaws of a monster.
+Sydney Rainin-Smith
+Michelle Hoefener
+Death Blossom
+Loot eligible
+New SFX/VFX
+Victorious
+View in 3D
+Special
+20.12.2013
+Victorious Elise was awarded to players who reached Gold or higher in the 2013 season. Spin a wicked web for your enemies in gold-trimmed armor and deep purple robes, and chuckle as they struggle.
+Sydney Rainin-Smith
+Michal Ivan, Puppetworks Animation Studio
+Victorious
+Loot ineligible
+New SFX/VFX
+New Animations/Recall
+Blood Moon
+View in 3D
+975
+08.01.2015
+A revered priestess of the Blood Moon cult, Elise has so wholly intertwined her body with her demon spirit that they are now a single entity. She has traveled beyond all known civilization, existing in the apocryphal darkness hanging beyond the precipice of the world.
+Sydney Rainin-Smith
+Alex 'alexplank' Flores
+Blood Moon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+SKT T1
+View in 3D
+975
+17.08.2016
+Honoring Bengi's winning performance as Elise during the 2015 World Championship. This is Bengi's second World Champion skin, following his win with SKT at the 2013 World Championship.
+Sydney Rainin-Smith
+Victor '3rdColossus' Maury
+World Champions: 2015
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Super Galaxy
+View in 3D
+1350
+16.10.2017
+Once a promising cadet, Elise discovered that her metamorphic power enabled her transformation into a mechanical arachnoid at will. Now, she seeks to reign as an evil, immortal Spider Queen—seeing all the galaxy not as a home to defend, but a realm to be conquered.
+Sydney Rainin-Smith
+Mushk Rizvi
+Super Galaxy
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Bewitching
+View in 3D
+1350
+22.10.2020
+A witch of some renown, Elise is widely feared by trick-or-treaters after that whole “human-sized cocoons” incident.
+Sydney Rainin-Smith
+Viktoria Gavrilenko, West Studio
+Bewitching
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Bewitching Elise Chromas
+Amethyst
+Catseye
+Meteorite
+Pearl
+Rose Quartz
+Ruby
+Sandstone
+Sapphire
+Withered Rose
+View in 3D
+1350
+10.02.2022
+Elise is in attendance at every annual gala, despite never once receiving a formal invitation. Rumor has it she's been blacklisted for spinning webs of lies, forming and disbanding allegiances in the span of a single evening. Attendees have also noted her suitors never seem to make a return visit to the festival.
+Sydney Rainin-Smith
+Marie Magny, West Studio
+Withered Rose
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Withered Rose Elise Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Coven
+View in 3D
+1350
+11.10.2023
+They came to Elise long ago, crawling through the underbrush, their many eyes locked with hers as a deal was made. The unfathomable powers of an Old God for her devotion and humanity. Reborn in the image of an arachnoid deity, Elise lingers along the edges of the Elderwood, enticing to their doom all those foolish enough to believe her a mere folktale.
+Sydney Rainin-Smith
+Nathaniel Himawan, West Studio
+Coven
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Coven Elise Chromas
+Citrine
+Obsidian
+Pearl
+Profane
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.23
+Volatile Spiderling
+Bug Fix:
+Now properly paths to acquired targets instead of sometimes momentarily pathing away from them.
+V14.21
+Stats
+Armor growth reduced to 4.
+5
+from 5.
+2
+.
+Cocoon
+Bug Fix:
+No longer forces her to walk into range to cast.
+V14.20
+Spider Queen
+Bug Fix:
+Spiderlings
+no longer instantly die against all Epic monster attacks and abilities.
+Volatile Spiderling
+Bug Fix:
+Now more appropriately prioritizes targeting enemy champions.
+V14.19
+Spider Queen
+New Effect:
+Spiderlings are now restored to full health upon being summoned with
+Spider Form
+.
+Venomous Bite
+New Effect:
+Now grants sight of the target for
+0.
+528
+seconds
+seconds from the start of the cast time.
+Spiderlings
+and
+Volatile Spiderling
+now dash to the target on-cast instead of upon
+Elise
+hitting the target.
+Cocoon
+New Effect:
+Now casts from wherever the caster is at the end of the cast time.
+New Effect:
+Now grants
+true sight
+of the target for the duration of the disable, rather than only
+standard sight
+.
+Rappel
+New Effect:
+Now always gains her
+Spider Queen
+bonuses upon descending, instead of only when descending directly upon an enemy by issuing an
+attack order
+.
+New Effect:
+Recast can now be used without a target for the duration by simply recasting the ability or
+issuing a movement command
+within range after 1 second from the ability's cast.
+Area vision radius increased to 900 units from 850.
+Recast range for location-targeted recast, unit-targeted recast, and movement commands increased to
+825 units from
+700.
+Recast range for attack commands increased to
+900 units from
+850.
+Bug Fix:
+No longer incorrectly calculates
+Spider Queen
+total effectiveness (including the bonus). Previously, it would use a factor equal to
+Cocoon's
+stun duration [100% × (1.
+6
+/ 1.
+8
+/ 2 / 2.
+2
+/ 2.
+4
+)] instead of the proper 140 / 155 / 170 / 185 / 200%.
+Spider Form / Human Form
+Cooldown reduced to 3 seconds from 4.
+V14.12
+Rappel
+Bug Fix:
+Numbers for the ability's effects in the tooltip are no longer incorrectly multiplied by approximately 1000.
+V14.11
+Volatile Spiderling
+Bug Fix:
+Explosion SFX has been restored.
+V13.24
+Venomous Bite
+Bug Fix:
+Hit SFX now plays correctly while in
+Spider Form
+.
+V13.23
+Rappel
+Bug Fix:
+Spider Queen
+bonuses no longer incorrectly calculate their values as a 60 / 80 / 100 / 120 / 140% increase due to using
+Cocoon's
+stun duration as a multiplier.
+Values have been reverted to 40 / 55 / 70 / 85 / 100%.
+V13.20
+Bewitching Elise
+Rappel
+Bug Fix:
+Ground VFX now properly follows a moving target.
+V13.17
+Spider Queen
+Base damage increased to
+12 / 22 / 32 / 42 (based on
+Spider Form's Rank)
+from
+10 / 20 / 30 / 40 (based on
+Spider Form's Rank)
+.
+Base heal increased to
+6 / 8 / 10 / 12 (based on
+Spider Form's
+Rank)
+from
+4 / 6 / 8 / 10 (based on
+Spider Form's
+Rank)
+.
+Cocoon
+Stun duration increased to 1.
+6
+/ 1.
+8
+/ 2 / 2.
+2
+/ 2.
+4
+seconds from 1.
+6
+/ 1.
+7
+/ 1.
+8
+/ 1.
+9
+/ 2.
+V13.4
+Spider Queen
+Spiderling base damage changed to
+8 / 14 / 20 / 26 (based on
+Spider Form's Rank)
+from
+10 / 15 / 20 / 25
+.
+Venomous Bite
+Base damage reduced to 60 / 90 / 120 / 150 / 180 from 70 / 105 / 140 / 175 / 210.
+V12.20
+Neurotoxin
+Cast range reduced to 575 units from 625.
+Cast range changed to edge range from centered range.
+V12.14
+General
+Bug Fix:
+Knocked up/stunned animation is now correctly played.
+V12.13
+Stats
+Base armor increased to 30 from 27.
+Base health increased to 650 from 625.
+Health growth increased to 109 from 107.
+Neurotoxin
+Base damage increased to 40 / 75 / 110 / 145 / 180 from 40 / 70 / 100 / 130 / 160.
+V12.10
+Stats
+Base health increased to 625 from 555.
+Health growth increased to 107 from 93.
+Armor growth increased to 5.
+2
+from 4.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Spider Queen
+Heal AP ratio reduced to
+8% AP
+from
+10% AP
+.
+V12.9
+Volatile Spiderling
+Bug Fix:
+Spiderling now properly collides with and will explode against
+Baron Nashor
+.
+V12.8
+Rappel
+Bug Fix:
+If self-cast while an enemy champion was in very close proximity, no longer causes the caster to ascend and then immediately descend on them despite not having recasted the ability.
+V12.5
+- March 10th Hotfix
+Rappel
+Bug Fix:
+Now only descends if the second cast is on a target within the ability's range.
+V12.5
+- March 4th Hotfix
+Rappel
+Bug Fix:
+Can no longer be cast globally.
+V12.5
+General
+Updated visual effects.
+Original Elise
+Complete overhaul.
+Death Blossom Elise
+,
+Victorious Elise
+,
+Blood Moon Elise
+,
+SKT T1 Elise
+Same as new base.
+Super Galaxy Elise
+Minor changes.
+Rappel
+New VFX.
+Bewitching Elise
+Minor changes.
+Withered Rose Elise
+Minimal tweaks.
+V11.20
+Stats
+Base health increased to 555 from 534.
+Armor growth increased to 4 from 3.
+35
+.
+V11.11
+Spider Queen
+Damage AP ratio reduced to
+20% AP
+from
+30% AP
+.
+V11.3
+Neurotoxin
+Base damage reduced to 40 / 70 / 100 / 130 / 160 from 40 / 75 / 110 / 145 / 180.
+Skittering Frenzy
+Active bonus attack speed reduced to 60 / 70 / 80 / 90 / 100% from 60 / 80 / 100 / 120 / 140%.
+V11.2
+Venomous Bite
+Base damage reduced to 70 / 105 / 140 / 175 / 210 from 70 / 110 / 150 / 190 / 230.
+V10.25
+Rappel
+Bug Fix:
+Now properly increases the effects of her
+Spider Queen
+.
+V10.24
+- November 24th Hotfix
+Venomous Bite
+Bug Fix:
+Now properly deals damage again.
+V10.23
+Venomous Bite
+New Effect:
+Now applies on-hit effects.
+V10.15
+Spider Queen
+Bug Fix:
+Spiderlings' basic attacks now properly benefit from any adaptive force she gains from runes.
+Bug Fix:
+Spiderlings now properly trigger
+Manaflow Band
+.
+Bug Fix:
+Spiderlings now properly play death sounds.
+Super Galaxy Elise
+Bug Fix:
+Dance SFX for both Human and Spider forms now loop properly.
+V10.10
+Rappel
+Bug Fix:
+Is now properly able to cast onto targets like wards,
+Blast Cones
+,
+Scryer's Bloom
+, etc.
+V10.3
+General
+Undocumented:
+No longer swaps out
+Ultimate Hunter
+with
+Relentless Hunter
+.
+V10.2
+General
+Undocumented:
+Now swaps out
+Ultimate Hunter
+with
+Relentless Hunter
+.
+V9.6
+Spiderlings
+New Effect:
+Now triggers effects that are triggered by pets (i.e. on-ability-hit effects).
+V8.19
+Skittering Frenzy
+Cooldown reduced to 10 seconds from 12.
+Rappel
+Cooldown reduced to 22 / 21 / 20 / 19 / 18 seconds from 26 / 24 / 22 / 20 / 18.
+V8.14
+Stats
+Health growth increased to 93 from 85.
+V8.12
+Stats
+Human base movement speed increased to 330 from 325.
+Spider base movement speed increased to 355 from 350.
+Volatile Spiderling
+Base damage increased to 60 / 105 / 150 / 195 / 240 from 55 / 95 / 135 / 175 / 215.
+V8.7
+Venomous Bite
+Base damage increased to 70 / 110 / 150 / 190 / 230 from 60 / 100 / 140 / 180 / 220.
+Cocoon
+Cooldown reduced to 12 / 11.
+5
+/ 11 / 10.
+5
+/ 10 seconds from 14 / 13 / 12 / 11 / 10.
+V8.3
+Stats
+Base health regeneration reduced to 5.
+5
+from 5.
+708
+.
+V8.2
+Neurotoxin
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+Venomous Bite
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V7.22
+Stats
+Base attack damage increased to 55 from 47.
+Base armor increased to 27 from 22.
+128
+.
+Base health increased to 534 from 529.
+4
+.
+Health growth increased to 85 from 80.
+V7.18
+Volatile Spiderling
+Base magic damage reduced to 55 / 95 / 135 / 175 / 215 from 60 / 110 / 160 / 210 / 260.
+AP ratio increased to
+95% AP
+from
+80% AP
+.
+Rappel
+Cooldown increased to 26 / 24 / 22 / 20 / 18 seconds from 26 / 23 / 20 / 17 / 14.
+V7.15
+July 27th Hotfix
+Stats
+Bug Fix:
+Fixed a bug where her
+Spider Form
+wasn't properly affected by this patch's base AD reduction (50.
+54
+to 47).
+V7.15
+Stats
+Base attack damage reduced to 47 from 50.
+54
+.
+V7.14
+Venomous Bite
+Changed several interactions where it overwrotes any spell queuing commands, instead forcing the caster to immediately begin basic-attacking once the ability completed.
+V7.11
+Spider Queen
+Removed:
+Spiderlings killed increasing the minion killed stat.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.7
+Spider Form
+Bug Fix:
+If she casts
+Spider Form
+at the same time
+Thresh's
+Death Sentence
+connects, she no longer cleanses the effect.
+V7.4
+Rappel
+Bug Fix:
+Now correctly is not hit by turret missile projectiles during her invulnerability phase.
+V6.18
+Cocoon
+Bug Fix:
+Blood Moon
+and
+SKT T1 Elise's
+wispy trail particles on
+Cocoon
+no longer show through objects they pass behind (ex. turrets).
+V6.17
+General
+Bug Fix:
+Fixed a bug where buff VFX (ex.
+Banshee's Veil
+) weren't following
+SKT T1 Elise's
+movements during several of her animations.
+V6.12
+Cocoon
+Bug Fix:
+Fixed a bug where the stun was cut short if, after casting
+Cocoon
+,
+Elise
+instantly switched to
+Spider Form
+and cast
+Rappel
+on the
+Cocoon'd
+target.
+V6.2
+Human Form
+Movement speed reduced to 325 from 330.
+Spider Form
+Movement speed reduced to 350 from 355.
+Volatile Spiderling
+Base damage reduced to 60 / 110 / 160 / 210 / 260 from 75 / 125 / 175 / 225 / 275.
+V6.1
+Rappel
+Bug Fix:
+Elise would occasionally automatically targeting a nearby enemy when self-casting
+Rappel
+.
+V5.18
+Spider Queen
+Spiderling damage reduced to 10 / 15 / 20 / 25 from 10 / 20 / 30 / 40.
+Area-of-effect damage reduction increased to 25% from 20%.
+V5.16
+Neurotoxin
+Base damage reduced to
+4% of target's current health
+from 8%.
+V5.14
+Spider Queen
+Spiderling damage changed to magic from physical.
+Spiderling damage AP ratio increased to
+(+15% AP)
+from
+(+10% AP)
+.
+Spiderling movement speed increased to 355 from 345.
+Bug Fix:
+Spiderlings not moving or attacking for 4 seconds after first
+Rappel
+cast.
+Cocoon
+Stun duration increased to 1.
+6
+/ 1.
+7
+/ 1.
+8
+/ 1.
+9
+/ 2 seconds from 1 / 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2.
+V5.13
+Volatile Spiderling
+Bug Fix:
+Sometimes becoming invisible
+V5.12
+Spider Queen
+Renamed from
+Spider Swarm
+New Effect:
+Spider Form
+awakens dormant Spiderlings.
+New Effect:
+Human Form
+puts Spiderlings back into dormant state.
+Spider Form
+New Effect:
+Elise's basic attacks deal
+「 10  ×
+Spider Form
+'s Rank 」
+「 10 / 20 / 30 / 40 」
+(+ 30% AP)
+bonus magic damage and restore
+「 2 + (2  ×
+Spider Form
+'s Rank) 」
+「 4 / 6 / 8 / 10 」
+(+ 10% AP)
+health.
+Skittering Frenzy
+Removed:
+On-hit heal (moved to
+Spider Form
+)
+Rappel
+New Effect:
+After descending
+Spider Form
+'s bonus magic damage and healing are increased by 40 / 55 / 70 / 85 / 100% for 5 seconds.
+V5.6
+General
+Movement speed decreased to 330 from 335.
+Rappel
+New Effect:
+Elise can right-click while in the air to descend on a target (in addition to pressing E again)
+Cocoon
+Projectile speed increased to 1600 from 1450.
+Spider Form
+Bonus movement speed increased to 25 from 10.
+V5.1
+Neurotoxin
+/
+Venomous Bite
+Maximum damage to monsters increased to 75 / 100 / 125 / 150 / 175 from 50 / 75 / 100 / 125 / 150.
+V4.13
+Cocoon
+Projectile width reduced to 55 from 70.
+Bug Fix:
+Providing vision longer than stun duration (now matched)
+Rappel
+Elise-to-target range calculation changed to edge-edge from center-center(~75 range increase)
+Range reduced to 750 from 925 (~825 center-center)
+V4.9
+General
+Bug Fix:
+Recall
+animation occasionally canceling.
+Rappel
+Bug Fix:
+Initial cast could not be used on wards.
+V4.5
+Stats
+Armor increased to 16.
+5
+from 12.
+5
+V4.4
+Neurotoxin
+Base damage reduced to 40 / 75 / 110 / 145 / 180 from 40 / 80 / 120 / 160 / 200.
+Maximum damage to monsters reduced to 50 / 75 / 100 / 125 / 150.
+Venomous Bite
+Base damage reduced to 60 / 100 / 140 / 180 / 220 from 60 / 110 / 160 / 210 / 260.
+Maximum damage to monsters reduced to 50 / 75 / 100 / 125 / 150.
+Cocoon
+Stun duration changed to 1 / 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 seconds from 1.
+5
+at all ranks.
+Rappel
+Cooldown reduced to 26 / 23 / 20 / 17 / 14 seconds from 26 / 24 / 22 / 20 / 18.
+Spider Form
+Spiderling health changed to 85 - 390 from 90 - 260
+V4.2
+Spider Form
+Bug Fix:
+Hitbox being smaller than intended.
+Size increased to larger than human's from smaller
+V3.10
+Spider Swarm
+Spiderling health reduced to 90 - 260 from 125 - 550
+Spiderling armor increased to 30 / 50 / 70 / 90 based on
+Spider Form
+'s Rank from 30.
+Spiderling magic resistance increased to 50 / 70 / 90 / 110 based on
+Spider Form
+from 50.
+Area-of-effect damage reduction changed to 20% from 10 / 20 / 30 / 40.
+Removed:
+Spiderlings continuing to take actions before vanishing once Elise turns to
+Human Form
+.
+New Effect:
+Spiderlings group closer together while moving.
+Volatile Spiderling
+Spiderling movement speed reduced.
+Rappel
+Removed:
+Elise descending outside of the indicated area.
+Bug Fix:
+Elise using abilities and attacking as soon as she began her descent while still untargetable.
+Spiderlings descent changed to slightly after Elise from at the same time as her.
+V3.7
+Skittering Frenzy
+AP ratio increased to
+(+4% AP)
+from
+(+2% AP)
+Spider Form
+Removed:
+Bonus resistances while active
+V3.04
+Neurotoxin
+Cast range reduced to 625 from 650.
+Base damage reduced to 40 / 80 / 120 / 160 / 200 from 50 / 95 / 140 / 185 / 230.
+Venomous Bite
+Base damage increased to 60 / 110 / 160 / 210 / 260 from 50 / 95 / 140 / 185 / 230.
+V3.01
+Neurotoxin
+Mana cost increased to 80 / 85 / 90 / 95 / 100 from 60.
+Cocoon
+Mana cost reduced to 50 from 65.
+V1.0.0.153
+:
+Volatile Spiderling
+Bug Fix:
+Lasting 2.
+5
+seconds instead of the intended 3.
+Skittering Frenzy
+Bonus attack speed application delay changed to on cast from on next basic attack.
+V1.0.0.152
+Stats
+Movement speed increased to 335 from 310.
+V1.0.0.151
+Neurotoxin
+Ability power ratio increased to 3% per 100 ability power from 2%.
+Venomous Bite
+Ability power ratio increased to 3% per 100 ability power from 2%.
+Cocoon
+Missile speed increased to 1450 from 1300.
+Now reveals the target if it hits.
+Spider Form
+Bonus magic damage per attack ability power ratio increased to
+(+30% AP)
+from
+(+20% AP)
+.
+V1.0.0.150
+Abilities in Human Form:
+Spider Swarm
+(Innate)
+Elise's Human Form spells will ready a spiderling when cast on an enemy.
+Neurotoxin
+(Q)
+Elise damages a target based on its current health.
+Volatile Spiderling
+(W)
+Elise releases a venom-gorged spirdeling that explodes when it nears a target.
+Cocoon
+(E)
+Elise fires a skillshot that stuns the first enemy struck.
+Spider Form
+(R)
+Elise transforms into a menacing spider with new abilities. While in Spider Form, Elise deals bonus magic damage on attack and has increased movement speed, armor, and magic resistance. Each level of her ultimate allows Elise to summon an additional spiderling.
+Abilities in Spider Form:
+Spider Swarm
+(Innate): When she transforms into Spider Form, Elise summons her spiderlings to attack nearby enemies.
+Venomous Bite
+(Q)
+Elise lunges forward and bites her target, slowing them and dealing bonus damage based on how low its health is.
+Skittering Frenzy
+(W)
+Passive:
+Spiderlings have increased attack speed.
+Active:
+Elise and her spiderlings gain Attack Speed and heal her on each attack.
+Rappel
+(E)
+On enemy cast:
+Elise and her spiderlings ascend high into the air and descend upon an enemy target.
+On ground cast:
+Elise and her spiderlings ascend high into the air, becoming untargetable for two seconds. Casting Rappel on a nearby enemy during this time will descend upon your target.
+Human Form
+(R)
+Elise transforms into a human form with new abilities. Each level of her ultimate allows Elise to summon an additional spiderling.
+}}
+Trivia
+[
+edit
+|
+edit source
+]
+Elise,
+Nidalee
+,
+Gnar
+,
+Jayce
+and
+Kayle
+are the only champions to be conditionally considered both
+ranged
+and
+melee
+.
+She was the first champion to have a monologue during her login screen, the others being (in that order)
+Lissandra
+,
+Lucian
+, and
+Yasuo
+.
+She is one of few to have...
+Access to both her
+ultimate
+and a basic ability at Level 1 (the others being
+Karma
+,
+Jayce
+and
+Nidalee
+)
+A total 19 ranks on their whole abilities at Level 18 (the others being
+Karma
+,
+Jayce
+,
+Yuumi
+and
+Nidalee
+)
+Her transformation available before Level 6 (the others being
+Nidalee
+,
+Gnar
+and
+Jayce
+)
+More than five abilities (the others including
+Gnar
+,
+Jayce
+,
+Lee Sin
+,
+Kled
+,
+Nidalee
+, and
+Rek'Sai
+)
+Her title as the name of one of her abilities (the other being
+Vayne
+/
+Night Hunter
+)
+Elise's dance is the
+Can-can
+.
+A side-by-side comparison of both her forms can be seen
+here.
+She shares this dance with
+Final Boss Veigar
+and
+Urgot
+.
+Elise's
+Spider Form
+recalling
+might be referencing
+Skulltula
+from
+The Legend of Zelda
+.
+Elise
+is a truncation for
+Elis/zabet(h)
+the Romanised form of the Hebrew name אֱלִישֶׁבַע.
+Elise was the base for
+Twisted Treeline's
+2012 update, at whose center
+her god
+would reside.
+Elise is the final incarnation of
+Priscilla
+, a
+canceled
+champion brought back by playerbase request.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Diver
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+Divers
+are the more mobile portion of the Fighter class. Divers excel at singling out high-priority targets to blitz toward, immediately forcing those targets (and their teammates) to deal with the diver’s presence. Divers are not as durable as the tanks or juggernauts of the world, but Divers can take their fair share of punishment while bringing enough damage to be a real kill threat if left unchecked.
+Examples
+Hecarim
+Jarvan IV
+Vi
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Spider Form / Human Form
+COOLDOWN:
+3
+Passive:
+Spider Queen's
+effects are increased.
+Toggle:
+Elise
+switches between her
+Human Form
+and
+Spider Form
+.
+Spider Form:
+Elise
+transforms into a spider, reducing her
+attack range
+to
+melee
+. She gains
+bonus
+movement speed
+, new abilities, and a
+Spiderling
+swarm that will attack her foes.
+Human Form:
+Elise
+transforms back into
+human
+form and stores her
+Spiderlings
+.
+Elise
+begins with one rank in
+Spider Form / Human Form
+, which has 4 ranks.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Venomous Bite
+COOLDOWN:
+6
+Active:
+Elise
+pounces
+at the target enemy and deals damage based on the
+target's
+missing
+health
+, applying
+on-hit
+effects.
+If there are active
+Spiderlings
+or
+Volatile Spiderlings
+nearby, they will pounce with
+Elise
+and attack the target.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+True sight
+True Sight
+reveals units through
+fog of war
+,
+brush
+, and
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Ward
+Wards
+are deployable units that that grant
+sight
+over the surrounding area. They can only be destroyed by
+basic attacks
+, granting
+gold
+and
+experience
+.
+There are three kinds of deployable
+wards
+available for purchase:
+Control Ward
+,
+Warding Totem
+, and
+Farsight Alteration
+. Other types of wards, such as
+Zombie Ward
+, are usable through various means.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Standard sight
+Standard sight
+reveals units through
+fog of war
+and
+brush
+, but
+not
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Spider Queen
+Innate:
+The rank of
+Spider Form / Human Form
+affects the power of
+Spider Queen
+.
+Human Form: Whenever
+Elise's
+abilities hit an enemy, she gains a dormant
+Spiderling
+, up to a cap.
+Spider Form:
+Elise's
+basic attacks deal
+bonus
+magic damage
+and
+heal
+her.
+League of Legends content
+Volatile Spiderling
+COOLDOWN:
+12
+Active:
+Elise
+sends a
+Volatile Spiderling
+to the target location that explodes when it hits an enemy or times out.
+If the
+Spiderling
+does not hit an enemy before then, it will chase down a nearby enemy.
+League of Legends content
+Ground
+A unit that is
+grounded
+is unable to activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Grounded
+units can still be displaced.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Ground
+is the only type of
+crowd control
+that is most commonly found in persistent area of effects, which will reapply the status effect continuously.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+References
+[
+edit
+|
+edit source
+]
+↑
+Elise's profile page
+at
+LeagueOfLegends.com

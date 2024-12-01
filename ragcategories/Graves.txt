@@ -1,0 +1,2852 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Graves
+the Outlaw
+Release date
+2011-10-19
+Last changed
+V14.13
+Class(es)
+Specialist
+Legacy
+Marksman
+Position(s)
+Jungle
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+3
+Toughness
+2
+Control
+1
+Mobility
+2
+Utility
+2
+Style
+Difficulty
+Graves
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Graves
+Base statistics
+Edit
+Health
+625
++106
+Mana
+325
++40
+Health regen. (per 5s)
+8
++0.7
+Mana regen. (per 5s)
+8
++0.7
+Armor
+33
++4.6
+Attack damage
+68
++4
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+340
+Attack range
+425
+Attack speed
+Base AS
+0.475
+Attack windup
+0.5% (mod. 0.1)
+AS ratio
+0.49
+Bonus AS
++3
+%
+Missile speed
+3800
+Unit radius
+Gameplay radius
+65
+Selection radius
+110
+Pathing radius
+10
+Acq. radius
+750
+Special statistics
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-2%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+New Destiny
+TARGET RANGE:
+425
+RANGE:
+625
+/
+565
+WIDTH:
+40
+ANGLE:
+24°
+/
+30°
+SPEED:
+3800
+/
+3000
+/
+3400
+Innate:
+Graves'
+basic attacks consume up to
+2 shells
+before needing to reload. The reload speed is reduced based on his
+bonus
+attack speed
+. Each attack fires several
+pellets
+in a cone that each collide with the first enemy hit. Hitting a target with multiple
+pellets
+will deal increased damage, and non-champion enemies are additionally
+knocked back
+.
+Innate - Double Barrel:
+Graves'
+basic attacks
+fire his shotgun to consume
+ammunition
+within
+2 shells
+. He will
+reload
+over a few seconds immediately after expending all shells or withholding leftover shells for a while. The reload time is reduced by
+Graves'
+level and
+bonus
+attack speed
+, and can be interrupted by declaring an attack or casting an ability.
+Innate - 12-Gauge:
+Graves'
+basic attack sprays
+4 pellets
+in a cone, each colliding with the first enemy unit in their path, dealing
+70% − 100.
+01
+% (based on level)
+AD
+physical damage
+plus
+「
+23.
+31
+% − 33.
+3
+% (based on level)
+AD
+damage 」
+「 about one-third of the damage 」
+for each subsequent
+pellet
+hitting the same target, up to
+139.
+93
+% − 199.
+92
+% (based on level)
+AD
+physical damage
+against a single target. Pellets deal 25% reduced damage against
+structures
+.
+Critical strikes
+spray
+6 pellets
+over a 25% wider cone, with each
+pellet
+dealing
+「 (33.
+75
+% +
+18%
+) 」
+「 (45% of the
+bonus
+critical damage
+champions usually have) 」
+bonus
+physical damage
+, resulting in
+「
+178.
+312
+% (+
+23.
+997
+%)
+total
+damage 」
+「
+249.
+52
+% − 356.
+48
+% (based on level)
+(+
+33.
+58
+% − 47.
+97
+% (based on level)
+) AD
+physical damage
+」
+if all pellets hit.
+Pellets
+apply
+life steal
+at 100% effectiveness. Only the first
+pellet
+to hit each enemy applies
+on-hit effects
+.
+Innate - Buckshot:
+Non-champion units hit by more than one
+pellet
+are
+knocked back
+, though not through terrain.
+Info
+Targeting input
+Passive
+Damage type
+Type
+See Notes
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Projectile
+Blocked
+Graves
+takes 2.
+08
+seconds to reload 2 shells (when the clip is empty) and 1.
+3
+seconds to reload 1 shell.
+Graves
+must idle with 1 shell for 2.
+08
+seconds before he starts reloading. These values can be
+improved
+with
+bonus
+attack speed
+.
+Values of
+bonus
+attack speed
+between 150% and 200% have a negative effect on your reload speed.
+(bug)
+[2]
+Attack speed
+Growth
+will always have a positive effect on your reload speed and is not counted toward the 150% and 200% attack speed thresholds. For example, Graves gains
+51% bonus Attack Speed
+from Growth at level 18; meaning the thresholds at level 18 are at 201% and 251% respectively.
+Maximum Reload Speed:
+0.
+651
+− 0.
+891
+(based on level)
+, which equates to a reload timer of
+1.
+54
+− 1.
+12
+(based on level)
+seconds, which is the shortest reload time at the 150% threshold.
+You can hit multiple individual enemies in one shot. The first pellet hitting an enemy does:
+Increased damage (See above)
+On-hit
+Effects
+basic damage
+, while all additional pellets deal
+default damage
+Reduced damage from
+Warden's Mail
+Graves'
+attack windup
+is based on such a low value that it will always take only
+1 game tick
+, even at the lowest possible
+attack speed
+(
+0.2AS
+).
+When
+Graves'
+has his range increased by 35% to
+573.
+75
+via
+Rapid Firecannon
+, it has special effects on his cone spread:
+The reach of the individual missiles is also increased by 35% to
+843.
+75
+/
+783.
+75
+.
+The spread of the individual missiles is
+decreased
+by 35% (
+angle  ×  1/1.35
+) to
+17.
+7
+°
+/
+22.
+2
+°
+.
+Graves has a standard ranged homing missile used against
+Wards
+and
+Jungle plants
+. Pellets will not hit these targets.
+This is also used for
+Energized
+The effect is therefore guaranteed to affect his attack target, even if the pellets are connecting with a different target.
+The missile is reminiscent of the more standard ranged attack of pre-rework
+Graves
+.
+If
+Graves
+is
+blinded
+pellets will fly (still in a cone) in a random direction (excluding his target's) but he can still damage nearby enemy units hit by pellets.
+Structures can be hit by multiple pellets, as with other valid targets.
+If a
+critical strike
+occurs on a target behind the structure and the structure is hit by all pellets, this increases damage to the structure by 33.
+3
+%.
+"Single-use" on-hit effects (e.g.
+Spellblade
+) will be applied to the first enemy hit; the closest one.
+On-Action Effects
+such as
+Help, Pix!
+and
+Runaan's Hurricane
+will be triggered, and still obey their standard target-acquisition rules.
+Wind's Fury
+can select secondary targets that will also be damaged by collision from
+Graves'
+attack.
+Each pellet hit applies
+Black Cleaver
+, allowing you to stack up to 4/6 stacks per shot.
+Randuin's Omen
+reduces the critical damage of all pellets, resulting in each pellet dealing less damage when crit than if it wasn't critting (You still get 6 pellets which deal slightly more damage overall)
+Shooting a champion with
+Sundered Sky
+causes a guaranteed crit. If no pellet connects with that champion, you won't consume the mark (and won't heal).
+Kraken Slayer
+will only stack once, even if multiple enemies are hit.
+Kraken Slayer's
+projectile appears to go to the selected target, but instead it behaves like a normal pellet, stopping at the first enemy (Visual bug).
+The in-game HUD displays
+Graves'
+"Reload Speed" for reloading 2 Shells instead of his Attack Speed. This is a visual bug, and his attack speed behaves normally. This value represents
+Reloads per Second
+.
+Video
+Edit
+End of the Line
+COST:
+80 Mana
+COOLDOWN:
+13 / 11.
+25
+/ 9.
+5
+/ 7.
+75
+/ 6
+CAST TIME:
+0.
+25
+RANGE:
+800
+/
+900
+WIDTH:
+80
+/
+500
+/
+200
+Active:
+Graves
+fires an explosive shell that deals
+physical damage
+to enemies it passes through. The shell leaves a powder trail as it travels, and will detonate the trail after a short time, or immediately if it hits
+terrain
+. The explosion deals
+physical damage
+to enemies within.
+Active:
+Graves
+fires a round in the target direction that deals
+physical damage
+to enemies it passes through and leaves behind a powder trail.
+Physical Damage:
+45 / 65 / 85 / 105 / 125
+(+ 80%
+bonus
+AD)
+After 2 seconds, or
+0.
+231
+seconds
+upon colliding with terrain, the round detonates to deal
+physical damage
+to enemies within a wide perpendicular area and in a reverse wave along the powder trail.
+Physical Damage:
+85 / 120 / 155 / 190 / 225
+(+ 40 / 70 / 100 / 130 / 160%
+bonus
+AD)
+Total Physical Damage:
+130 / 185 / 240 / 295 / 350
+(+ 120 / 150 / 180 / 210 / 240%
+bonus
+AD)
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+See Notes
+Projectile
+See Notes
+Spell shields
+can only block one instance of the ability's damage.
+Wind Wall
+will destroy the projectile entirely and mitigate all effects, including the trail on the ground.
+Unbreakable
+is considered to be terrain for the purposes of the projectile, triggering its second effect.
+This ability will cast from wherever the caster is at the end of the cast time.
+Edit
+Smoke Screen
+COST:
+70 / 75 / 80 / 85 / 90 Mana
+COOLDOWN:
+26 / 24 / 22 / 20 / 18
+CAST TIME:
+0.
+25
+TARGET RANGE:
+950
+EFFECT RADIUS:
+200
+SPEED:
+1500
+Sight Reduction:
+250
+Active:
+Graves
+fires a smoke canister at the target location that creates a cloud of smoke upon impact, dealing
+magic damage
+and
+slowing
+nearby enemies. Enemies within the lingering cloud are
+nearsighted
+.
+Active:
+Graves
+fires a smoke canister at the target location that upon impact deals
+magic damage
+to enemies within the area and
+slows
+them by 50% for 0.
+5
+seconds.
+Magic Damage:
+60 / 110 / 160 / 210 / 260
+(+ 60% AP)
+The canister creates a cloud of smoke for 4 seconds that applies
+nearsight
+of outside the area to all enemies within every 0.
+25
+seconds, reducing their
+sight
+radius relative to the center.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Smoke Screen
+will nearsight
+untargetable
+units.
+Spell shields
+will block the instance of damage and
+slow
+, but will not mitigate the persistent area of effect.
+Crowd control immunity
+and
+cleanses
+have no effect on the user's
+sight
+radius reduction despite the
+nearsight
+being resisted / removed. Loss of allied vision will still be affected.
+Removing or resisting the nearsight will prevent it from being reapplied while staying inside the area (leaving and coming back inside will not).
+The nearsight debuff applies to non-champions but it does not inherently stop them from performing actions that require
+sight
+, such as
+basic attacking
+.
+This ability will cast from wherever the caster is at the end of the cast time.
+Edit
+Quickdraw
+COST:
+40 Mana
+COOLDOWN:
+16 / 15 / 14 / 13 / 12
+CAST TIME:
+none
+TARGET RANGE:
+375
+/
+275
+Active:
+Graves
+dashes
+in the target direction and reloads
+1 shell
+. He also gains a stack of
+True Grit
+, doubled if he dashed toward an enemy
+champion
+. Each time he hits an enemy with a
+pellet
+, the cooldown is
+reduced
+.
+True Grit:
+For each stack,
+Graves
+gains
+bonus
+armor
+. Attacks versus non-minion enemies will refresh the duration.
+Active:
+Graves
+dashes
+to the target location, reloading one
+shell
+while generating a
+stack
+of
+True Grit
+for 4 seconds, stacking up to 8 times. Dashing towards an enemy
+champion
+generates 2 stacks of
+True Grit
+.
+Quickdraw's
+current
+cooldown
+is reduced by 0.
+5
+seconds for every
+pellet
+impacting an enemy.
+True Grit:
+For each stack,
+Graves
+gains
+bonus
+armor
+. Subsequent casts of
+Quickdraw
+and attacks versus non-
+minions
+will refresh the duration of
+True Grit
+.
+Bonus Armor:
+4 / 7 / 10 / 13 / 16
+Maximum Bonus Armor:
+32 / 56 / 80 / 104 / 128
+Quickdraw
+resets
+Graves'
+basic attack timer. If
+Graves
+dashes while reloading, he can cast any of his
+abilities
+during the dash.
+(bug)
+Quickdraw will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Counters
+Grounded
+Disabled
+Knockdown
+Interrupted
+Graves
+gains the one additional stack of
+True Grit
+from
+Quickdraw
+if at any point during the dash a
+visible
+enemy champion is in front of
+Graves
+within
+1300 distance.
+Enemy champions have to be targetable to grant the additional stack.
+The additional stack of
+True Grit
+is gained when dashing towards
+clones
+just like actual champions.
+This check never happens if
+Graves
+dashes 0 distance (impossible outside of bugs), and will not always repeat a final time at the very end of the dash. Otherwise, it occurs continously while
+Graves
+is dashing.
+This works for a 180 degree sector from Graves to the Champion, as such dashing parallel to the champ will also give a bonus stack.
+Edit
+Collateral Damage
+COST:
+100 Mana
+COOLDOWN:
+100 / 80 / 60
+CAST TIME:
+0.
+25
+RANGE:
+1100
+/
+1690
+EFFECT RADIUS:
+740
+WIDTH:
+200
+ANGLE:
+60°
+SPEED:
+2100
+Active:
+Graves
+recoils
+backward and fires an explosive shell in the target direction that deals
+physical damage
+to enemies it passes through. Upon hitting an enemy champion or max range, the shell explodes to deal
+physical damage
+in a cone.
+Active:
+Graves
+fires an explosive shell in the target direction that deals
+physical damage
+to enemies hit and causes him to
+recoil
+400 units in the opposite direction.
+Physical Damage:
+275 / 425 / 575
+(+ 150%
+bonus
+AD)
+Upon hitting an enemy
+champion
+or reaching the end of its range, the shell explodes in a cone to deal reduced damage to additional enemies.
+Reduced Damage:
+200 / 320 / 440
+(+ 120%
+bonus
+AD)
+Info
+Targeting input
+Direction
+Damage type
+Type
+See Notes
+Sub-type
+Physical
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Grounded
+See Notes
+Knockdown
+Interrupted
+Applies
+spell damage
+to the target hit by the shell (including to non-champions struck before exploding
+(bug)
+) and
+area damage
+to targets within the explosion cone.
+The projectile will still explode early if the champion hit by the shell is protected by a
+spell shield
+.
+The explosion cone is anchored on the location of the shell missile when it collided with a champion, or otherwise its maximum cast range.
+The cone damage is always located 150 units behind, based off its direction
+Collateral Damage
+is not disabled while
+grounded
+or
+rooted
+, but
+Graves
+will not dash after the cast time while affected by them.
+Graves
+will not
+dash
+after the cast time if he is
+airborne
+.
+This ability will cast from wherever the caster is at the end of the cast time.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Graves (Collection)
+.
+Original
+View in 3D
+880
+19.10.2011
+Malcolm Graves is a renowned mercenary, gambler, and thief—a wanted man in every city and empire he has visited. Even though he has an explosive temper, he possesses a strict sense of criminal honor, often enforced at the business end of his double-barreled shotgun Destiny. In recent years, he has reconciled a troubled partnership with Twisted Fate, and together they have prospered once more in the turmoil of Bilgewater’s criminal underbelly.
+Kyle Hebert
+Jason Chan
+Loot eligible
+Hired Gun
+View in 3D
+520
+19.10.2011
+Kyle Hebert
+Kienan 'Knockwurst' Lafferty
+Vandal
+Loot eligible
+Jailbreak
+View in 3D
+975
+19.10.2011
+Kyle Hebert
+Unknown artist
+Legacy
+Loot eligible
+Legacy
+Crime City
+View in 3D
+975
+02.04.2012
+Cool, calm, and collected, Malcolm Graves is head of the notorious Graves crime family—and the only non-rat that Twitch will trust. Recent moves in the criminal underworld have put his alliance with the rat-men on shaky ground, and he's keen to find out why.
+Kyle Hebert
+OldGun-K
+Crime City
+Loot eligible
+Riot
+View in 3D
+975
+16.08.2012
+A Riot Games skin obtained by either meeting a Rioter or attending an official Riot event in 2012.
+Kyle Hebert
+Unknown artist
+Riot
+Loot eligible
+Legacy
+Pool Party
+View in 3D
+1350
+09.09.2013
+Kyle Hebert
+Unknown artist
+Pool Party
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Pool Party Graves Chromas
+Amethyst
+Citrine
+Emerald
+Ruby
+Sapphire
+Turquoise
+Cutthroat
+View in 3D
+750
+21.07.2015
+Do you want to do extreme damage to someone (or something) in a loud, noticeable fashion? Look no further than Graves and his slippery pal Tobias, two men who will blow up anything (must be destructible) or anyone (must be destructible) for the right price (no ghouls please). Inquire within!
+Kyle Hebert
+Christian Fell
+Bilgewater: Burning Tides
+Loot eligible
+Snow Day
+View in 3D
+1350
+14.12.2016
+Outfitted with his mighty snowblowing gun and a can-do attitude, Graves enters every snowball fight with the same entrepreneurial spirit that got him out of prison. Which is to say, blowing a lot of things up with little to no regard for his own safety.
+Kyle Hebert
+Esben Lash Rasmussen
+Snow Day
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Snow Day Graves Chromas
+Golden
+Victorious
+View in 3D
+Special
+08.11.2017
+Victorious Graves was awarded to players who reached Gold or higher in the 2017 season. The most wanted outlaw in Bilgewater boasts of his years of skillful heists, by wearing the finest regalia money can buy.
+Kyle Hebert
+Xu 'Crow God' Cheng
+Victorious
+Loot ineligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Victorious Graves Chromas
+3v3
+Flex
+Solo
+Praetorian
+View in 3D
+1350
+08.11.2018
+Unleashed upon the multiverse by imperfect Pulsefire technology, Graves is but one of a numberless horde of Praetorian marauders now plaguing spacetime. Its programming is unlike anything from any known past, present, or future—each of its thoughts is so complex, it would take ten lifetimes for a human to comprehend.
+N/A
+Bo 'chenbowow' Chen
+Praetorian
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Praetorian Graves Chromas
+Citrine
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Battle Professor
+View in 3D
+1350
+15.05.2019
+Graves is a salty ex-soldier who served in the Durandal military before he reluctantly became a professor. Following his discovery of something deep behind enemy lines, he received an offer to teach at the Academy from the God-Weapon itself. His hallmark cigar-munching, dispassionate teaching etiquette is a small price to pay for his decades of experience.
+Kyle Hebert
+Kelly Aleshire
+Battle Academia
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Battle Professor Graves Chromas
+Formal
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Sentinel
+View in 3D
+1820
+22.07.2021
+Graves could give a damn about saving the world, but the Ruined King is getting in the way of his criminal undertakings, and that he cannot abide. When the Sentinels come calling, Graves reckons he can play the hero for once—long enough to make sure there's a world left to rob, anyway.
+Fred Tatasciore
+Horace 'Hozure' Hsu
+Sentinels of Light
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+Sentinel Graves Chromas
+Emerald
+Pearl
+Resolute
+Rose Quartz
+Ruby
+Tanzanite
+EDG
+View in 3D
+1350
+12.05.2022
+Honoring Flandre's winning performance as Graves during the 2021 World Championship.
+Kyle Hebert
+Bo 'chenbowow' Chen
+World Champions: 2021
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+EDG Graves Chromas
+Elite
+Porcelain
+View in 3D
+1350
+22.02.2024
+Not long after gunpowder was invented, the Zodiac searched for a new protector of the Dragon Relic. Though ancient and wise, the gods struggled to find someone worthy, so they settled for Malcolm Graves. Eventually his expertise in firepower was pointed in the right direction (away from all the breakable vases).
+Kyle Hebert
+Santiago Parra, West Studio
+Porcelain
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Porcelain Graves Chromas
+Catseye
+Emerald
+Obsidian
+Opulent
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.17
+End of the Line
+Cooldown reduced to 13 / 11.
+25
+/ 9.
+5
+/ 7.
+75
+/ 6 seconds from 13 / 11.
+5
+/ 10 / 8.
+5
+/ 7.
+Initial base damage increased to 45 / 65 / 85 / 105 / 125 from 45 / 60 / 75 / 90 / 105.
+V14.13
+Quickdraw
+Bonus armor per stack increased to 4 / 7 / 10 / 13 / 16 from 2 / 5 / 8 / 11 / 14.
+Maximum bonus armor increased to 32 / 56 / 80 / 104 / 128 from 16 / 40 / 64 / 88 / 112.
+V14.9
+New Destiny
+Bug Fix:
+Sundered Sky's
+Lightshield Strike is no longer consumed with no effect, and now properly triggers the critical attack.
+V14.8
+- April 18th Hotfix
+Stats
+Attack speed growth increased to 3% from 2.
+6
+%.
+New Destiny
+The previous change for this ability's attack speed scaling has been reverted due to unintentionally losing its intended purpose of reducing reload time at certain amounts of bonus attack speed.
+V14.8
+New Destiny
+Increased non-growth attack speed scaling for decreasing reload time by 35%.
+Pellet critical strike bonus damage increased to 45% from 40%.
+Bonus damage per pellet critical strike increased to (33.
+75
+% +
+22.
+5
+%
+) from (30% +
+20%
+).
+Relative
+bonus
+damage of critical attacks where all pellets hit increased to
+78.
+3
+% (+
+30%)
+from
+73.
+3
+% (+
+26.
+7
+%)
+.
+Maximum critical strike damage increased to
+249.
+52
+% − 356.
+48
+% (based on level)
+(+
+41.
+98
+% − 59.
+97
+% (based on level)
+) AD
+from
+242.
+52
+% − 346.
+48
+% (based on level)
+(+
+37.
+31
+% − 53.
+3
+% (based on level)
+) AD
+.
+V14.7
+Collateral Damage
+Bug Fix:
+Can once again be cast while grounded.
+New Effect:
+Grounding and root effects now prevent the dash after casting.
+V14.2
+- January 24th Hotfix
+Smoke Screen
+Bug Fix:
+No longer grants an immensely large and recursive amount of adaptive force and hybrid resistances to champions who simultaneously have spells that echo consistent statistic updates and have the
+Unflinching
+rune equipped.
+[3]
+V13.22
+Quickdraw
+Bonus armor per stack reduced to 2 / 5 / 8 / 11 / 14 from 4 / 7 / 10 / 13 / 16.
+V13.18
+General
+Updated ability icons.
+V13.7
+New Destiny
+Critical strike bonus pellet damage increased to 30% from 20%.
+Critical strike damage modifier increased to 40% from 26.
+667
+%.
+Bonus damage on critical strike increased to 73.
+3
+% (+
+18.
+66
+%) from 59.
+98
+% (+
+12.
+44
+%).
+Collateral Damage
+Cooldown reduced to 100 / 80 / 60 seconds from 120 / 90 / 60.
+V12.17
+End of the Line
+Cooldown changed to 13 / 11.
+5
+/ 10 / 8.
+5
+/ 7 seconds from 12 / 11 / 10 / 9 / 8.
+Collateral Damage
+Base direct damage increased to 275 / 425 / 575 from 250 / 400 / 550.
+V12.11
+General
+Bug Fix:
+Glacial Augment
+is now properly swapped out with
+First Strike
+.
+V12.10
+Stats
+Base health increased to 625 from 555.
+Health growth increased to 106 from 92.
+Armor growth increased to 4.
+6
+from 3.
+4
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+V11.23
+New Destiny
+Bug Fix:
+Fixed a bug where he would receive full
+Fleet Footwork
+healing if he targets a champion with a basic attack that is blocked by minions.
+Energized
+will now trigger on the first struck enemy, instead of the original target.
+Previously, the invisible attack missile that manages interactions such as damaging wards naturally brought along the Energized proc on-attack.
+Now works like
+Gangplank's
+Parrrley
+or
+Ezreal's
+Mystic Shot
+; When the attack applies on-hit effects and
+Graves
+has 100 stacks, it'll apply the effect. This happens even if maximum stacks were reached after the attack was fired or by the attack being fired.
+V11.22
+New Destiny
+Critical strike bonus pellet damage reduced to 20% from 30%.
+Crit attacks where all pellets hit now deal 59.
+98
+% of the basic attacks where all pellets hit, reduced from 73.
+33
+%.
+Critical damage amp reduced to +0.
+3555
+% per percent bonus critical damage from +0.
+5333
+% per percent bonus critical damage.
+Reduction to the bonus critical damage (now 66.
+6
+%) is stronger than the base crit damage change (now 81.
+8
+%) due to having the same factor but different influence on the final damage.
+V11.21
+Quickdraw
+Bonus armor per stack reduced to 4 / 7 / 10 / 13 / 16 from 6 / 9 / 12 / 15 / 18.
+Maximum bonus armor reduced to 32 / 56 / 80 / 104 / 128 from 48 / 72 / 96 / 120 / 144.
+V11.17
+General
+New splash artwork for
+Crime City Graves
+.
+End of the Line
+Mana cost increased to 80 from 60.
+V11.14
+Stats
+Base attack damage increased to 68 from 66.
+V11.11
+Stats
+Attack damage growth increased to 4 from 3.
+V11.5
+- March 8th Hotfix
+Smoke Screen
+Bug Fix:
+Fixed a bug where it would block abilities when cast on top of
+Graves
+.
+V11.1
+- January 6th Hotfix
+Stats
+Base attack damage reduced to 66 from 68.
+V10.21
+Quickdraw
+Bonus armor per stack reduced to 6 / 9 / 12 / 15 / 18 from 8 / 11 / 14 / 17 / 20.
+Maximum bonus armor reduced to 48 / 72 / 96 / 120 / 144 from 64 / 88 / 112 / 136 / 160.
+V10.18
+Quickdraw
+Bug Fix:
+Using it after a basic attack now properly triggers
+Sheen
+or
+Kleptomancy
+.
+V10.13
+Crime City Graves
+Skin renamed to
+Crime City Graves
+from
+Mafia Graves
+.
+V10.11
+End of the Line
+Initial bonus AD ratio reduced to
+80%
+bonus
+AD
+from
+100%
+.
+V10.6
+New Destiny
+Bug Fix:
+Now deals the proper amount of damage when attacking a target with a max range Energized basic attack (Energized from
+Rapid Firecannon
+).
+V10.5
+Stats
+Base magic resistance increased to 32 from 30.
+Magic resistance growth increased to 1.
+25
+from 1.
+End of the Line
+Mana cost reduced to 60 at all ranks from 60 / 65 / 70 / 75 / 80.
+Cooldown reduced to 12 / 11 / 10 / 9 / 8 seconds from 13 / 12 / 11 / 10 / 9.
+V9.24b
+Quickdraw
+Cooldown reduced to 16 / 15 / 14 / 13 / 12 seconds from 18 / 17 / 16 / 15 / 14.
+V9.19
+Stats
+Base attack damage increased to 68 from 66.
+Base health increased to 555 from 551.
+12
+.
+Base mana increased to 325 from 322.
+2
+.
+Base mana regeneration increased to 8 from 7.
+9
+.
+V9.17
+Collateral Damage
+Bug Fix:
+Is now properly disabled when
+grounded
+.
+V9.15
+Quickdraw
+Bonus armor per stack increased to 8 / 11 / 14 / 17 / 20 from 5 / 7.
+5
+/ 10 / 12.
+5
+/ 15.
+V9.10
+End of the Line
+Detonation base damage increased to 85 / 120 / 155 / 190 / 225 from 85 / 115 / 145 / 175 / 205.
+V9.5
+Stats
+Base attack damage increased to 66 from 63.
+V8.24
+Praetorian Graves
+Bug Fix:
+Minimized clipping during his run animation.
+V8.20
+Stats
+Base attack damage reduced to 63 from 66.
+V8.11
+Stats
+Base attack damage reduced to 66 from 69.
+Collateral Damage
+Cooldown increased to 120 / 90 / 60 seconds from 110 / 85 / 60.
+V8.8
+Stats
+Health growth increased to 92 from 84.
+Collateral Damage
+Cooldown reduced to 110 / 85 / 60 seconds from 120 / 100 / 80.
+Pool Party Graves
+Bug Fix:
+Seams have been minimized on him and all of his chromas when on lower graphics settings.
+Snow Day Graves
+Bug Fix:
+Eyes now properly follow his head's movement during all animations.
+V8.7
+Snow Day Graves
+Smoke Screen
+Bug Fix:
+On-ground indicator now properly renders over elevation change.
+Riot Graves
+Bug Fix:
+Visor is now fully opaque.
+V8.6
+Stats
+Attack damage growth increased to 3 from 2.
+41
+.
+Magic resistance growth increased to 1 from 0.
+5
+.
+Smoke Screen
+Wind-up duration reduced to 0.
+15
+seconds from 0.
+25
+.
+New Effect:
+Vision reduction now applies more quickly.
+V8.1
+End of the Line
+Mana cost reduced to 60 / 65 / 70 / 75 / 80 from 60 / 70 / 90 / 90 / 100.
+Cooldown reduced to 13 / 12 / 11 / 10 / 9 seconds from 14 / 13 / 12 / 11 / 10.
+Smoke Screen
+Slow increased to 50% at all ranks from 15 / 20 / 25 / 30 / 35%.
+Slow duration reduced to 0.
+5
+seconds from 1.
+5
+.
+V7.24
+Victorious Graves
+Bug Fix:
+Chromas now have gem and model adjustments on his gun, like the non-chroma skin.
+V7.23
+Victorious Graves
+End of the Line
+Bug Fix:
+No longer uses classic VFX.
+Cutthroat Graves
+Bug Fix:
+Left hand no longer clips through his weapon during several animations.
+V7.22
+Stats
+Base attack damage increased to 69 from 60.
+83
+.
+Base armor increased to 33 from 24.
+376
+.
+End of the Line
+Initial base damage increased to 45 / 60 / 75 / 90 / 105 from 40 / 55 / 70 / 85 / 100.
+Detonation base damage increased to 85 / 115 / 145 / 175 / 205 from 80 / 110 / 140 / 170 / 200.
+V7.20
+Stats
+Base health regeneration increased to 8 from 6.
+676
+.
+End of the Line
+Initial damage AD ratio increased to
+100%
+bonus
+AD
+from
+80%
+bonus
+AD
+.
+V7.19
+Hired Gun Graves
+Bug Fix:
+No longer has an empty gap on his gun - VFX have been restored.
+V7.10
+End of the Line
+First hit base damage reduced to 40 / 55 / 70 / 85 / 100 from 55 / 70 / 85 / 100 / 115.
+First hit bonus AD ratio increased to
+80%
+bonus
+AD
+from
+75%
+bonus
+AD
+.
+Second hit base damage reduced to 80 / 110 / 140 / 170 / 200 from 80 / 125 / 170 / 215 / 260.
+Second hit bonus AD ratio increased to
+40 / 70 / 100 / 130 / 160%
+bonus
+AD
+from
+40 / 60 / 80 / 100 / 120%
+bonus
+AD
+.
+Collateral Damage
+Cooldown increased to 120 / 100 / 80 seconds from 100 / 90 / 80.
+V7.9
+General
+Splash artwork now has an alternate variant with his cigar for censorship purposes.
+General
+Removed:
+Queue multiple spells during his basic attack animation.
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.7
+Quickdraw
+Removed:
+Granting
+5 / 7.
+5
+/ 10 / 12.
+5
+/ 15 magic resistance
+per stack.
+V7.2
+Quickdraw
+Bug Fix:
+True Grit's
+duration is refreshed by
+Graves's
+basic attacks
+and spells
+against non-minions.
+V6.24
+Smoke Screen
+Bug Fix:
+Pool Party Graves's
+Smoke Screen
+now properly plays its sprinkler sound effects for enemies.
+V6.21
+Quickdraw
+Stack limit increased to 8 from 4.
+New Effect:
+Now grants 2 stacks if you dash toward an enemy champion.
+Resistances per stack reduced to 5 / 7.
+5
+/ 10 / 12.
+5
+/ 15 from 10 / 15 / 20 / 25 / 30.
+V6.16
+General
+Bug Fix:
+Fixed a bug where an enemy hit with multiple shells from
+Graves's
+basic attacks only applied a single stack of
+The Black Cleaver
+.
+V6.15
+General
+Bug Fix:
+Cancelling
+Graves's
+basic attack no longer fails to reset his basic attack timer.
+V6.14
+General
+Bug Fix:
+Fixed a bug where
+Elise's
+Spiderlings
+sometimes took no damage from
+Graves's
+basic attacks.
+Smoke Screen
+Bug Fix:
+No longer fizzles if cast immediately before
+Graves
+fires his second basic attack charge.
+Collateral Damage
+Bug Fix:
+Graves
+is no longer briefly stunned if an enemy tries to displace him as he casts
+Collateral Damage
+.
+V6.8
+New Destiny
+First pellet damage reduced to
+70-100% AD
+from
+75-110% AD
+.
+Subsequent pellets damage reduced to
+23-33% AD
+from
+24-36% AD
+.
+Critical strike pellets reduced to 6 from 8.
+Critical strike pellets spread angle reduced to 15° from 18°.
+Removed:
+Bonus critical damage grants additional pellets.
+New Effect:
+Critical strike pellets deal
+40% × (1 +
+bonus
+critical damage) AD
+bonus damage.
+V6.3
+New Destiny
+Removed:
+Buckshot
+knocking back
+Rift Scuttler
+.
+Removed:
+Double Barrel's
+0.
+25
+seconds recoil after attacking being interrupted by
+End of the Line
+and
+Collateral Damage
+.
+End of the Line
+Detonation base damage reduced to 80 / 125 / 170 / 215 / 260 from 85 / 145 / 205 / 265 / 325.
+New Effect:
+There is now a 0.
+25
+second delay for the detonation when it strikes terrain (
+changed from instant
+).
+Quickdraw
+Bug Fix:
+Quickdraw
+interrupted
+Graves'
+reload animation.
+New Effect:
+Graves
+will continue his last issued command before
+Quickdraw
+.
+V6.2
+Quickdraw
+Bug Fix
+: Fixed a bug where leveling up caused
+Quickdraw's
+armor and magic resistance bonus to become inconsistent until refreshed.
+V5.22
+November 17th Hotfix
+Stats
+Movement speed reduced to 340 from 345.
+End of the Line
+Initial damage reduced to 55 / 70 / 85 / 100 / 115 from 60 / 80 / 100 / 120 / 140.
+Detonation damage reduced to 85 / 145 / 205 / 265 / 325 from 90 / 155 / 220 / 285 / 350.
+Mana cost increased to 60 / 70 / 80 / 90 / 100 from 55 / 60 / 65 / 70 / 75.
+V5.22
+- Gameplay Update
+Stats
+Base attack damage increased to 60.
+83
+from 54.
+21
+.
+Attack damage growth reduced to 2.
+41
+from 3.
+1
+.
+Armor growth increased to 3.
+4
+from 3.
+2
+.
+Base attack speed reduced to 0.
+481
+from 0.
+625
+Attack delay increased to 0.
+3
+from 0.
+Graves'
+delay between attacks scales with attack speed better than convention.
+Movement speed increased to 345 from 330.
+Attack range reduced to 425 from 525.
+New Destiny
+-
+New Innate
+.
+True Grit
+repurposed into
+Quickdraw
+.
+Passive - 12-Gauge:
+Graves
+stores up to 2
+Shells
+. Each of
+Graves'
+basic attacks consumes 1
+Shell
+and sprays four
+pellets
+in a cone, dealing damage to the first enemy they each collide with.
+Graves is not guaranteed to hit his target.
+Enemies hit take
+75% - 110% AD
+damage plus
+25% - 36.
+6
+% AD
+damage for every
+pellet
+to hit them beyond the first.
+Damage scales with level.
+Turrets take 25% reduced damage (multiplicative).
+critical strikes
+fire 4 additional
+pellets
+(
++2 more with
+Infinity Edge
+).
+Targets that take modified damage from basic attacks will only be hit by one
+pellet
+- e.g. wards,
+Zyra's
+plants and
+Noxious Traps
+.
+Runaan's Hurricane
+fires its own lesser bolts at enemies near to Graves' target as if he used conventional autoattacks.
+Passive - Buckshot:
+Pellets cannot pass through units, each applies on-hit effects but enemies will only suffer on-hit effects once per attack. Non-champions hit by multiple pellets are
+knocked back
+.
+One-use on-hit effects like
+Sheen
+are applied to the first enemy hit, as with
+Rat-Ta-Tat-Tat
+.
+Passive - Double Barrel:
+After using all of his
+Shells
+,
+Graves
+reloads
+Destiny
+, which takes ~2 seconds.
+Graves
+bonus attack speed
+slightly
+reduces the reload timer. If
+Graves
+sits on one
+Shell
+for 4 seconds without attacking, he automatically reloads, which takes half as long. Acquiring a
+Shell
+from
+Quickdraw
+will interrupt
+Graves'
+reloading.
+End of the Line
+-
+New Q
+.
+Buckshot
+repurposed into
+New Destiny
+.
+Active:
+Graves
+fires a powder round forward in a line, dealing 60 / 80 / 100 / 120 / 140
+(+ 75% bonus AD)
+physical damage to enemies it passes through and leaving a trail of powder on the ground. After a 2 second delay or if the round strikes a structure or wall, the trail ignites dealing 90 / 155 / 220 / 285 / 350
+(+ 40 / 60 / 80 / 100 / 120% bonus AD)
+physical damage to enemies along the powder line toward the point of cast and in a rectangular area around the round's detonation.
+Smoke Screen
+Cooldown increased to 26 / 24 / 22 / 20 / 18 seconds from 20 / 19 / 18 / 17 / 16.
+Removed:
+Persistent
+slow
+.
+Now only slows on impact.
+Sight reduction changes to "Enemies inside
+Smoke Screen
+cannot see outside, for any reason" from "Enemies inside
+Smoke Screen
+have their sight radius reduced".
+Allied vision is still removed.
+Quickdraw
+On-hit CDR reduced to 0.
+5
+seconds from 1.
+Removed:
+Attack speed bonus.
+New Effect:
+On-hit CDR can be triggered by each
+pellet
+- i.e. up to
+4
+/
+8
+/
+10
+times per attack.
+New Effect:
+Instantly loads 1
+Shell
+.
+New Effect:
+Resets
+Graves'
+attack timer.
+New Effect:
+Now grants Graves a stack of
+True Grit
+for 4 seconds, increasing
+Graves'
+Armor and Magic Resistance by 10 / 15 / 20 / 25 / 30 that stacks up to 4 times.
+Hits
+attacks against non-minions refresh the duration, but only subsequent casts will generate additional stacks.
+Collateral Damage
+New Effect:
+Graves now
+recoils
+400 units on-cast.
+Trivia
+[
+edit
+|
+edit source
+]
+Graves' jokes reference
+gallows humor
+, as per his surname
+Graves
+.
+Graves' dance references
+one from a country show
+.
+A side-by-side comparison can be seen
+here
+.
+Graves was the second-to-last champion to have a "League Judgement" (they were discontinued after release;
+Varus
+was the last champion to receive one).
+End of the Line
+is among a few abilities that were named after a quote of their champion. In this case, it references his "End of the Line" quote which he had before the patch he got the ability,
+V5.22
+.
+The others are
+Dr. Mundo's
+Goes Where He Pleases
+and
+Draven's
+League of Draven
+.
+The icon for
+Collateral Damage
+is a reference to explosive hazard safety signs.
+Graves' shotgun can be seen in the game's
+Mac version trailer
+.
+Graves was the product of playerbase requests for a 'manly' ranged carry.
+In the Chinese localization, the names of all four of his active abilities are four-character phrases that allude to the criminal underworld and are often titles of gangster or martial arts films or television.
+End of the Line
+becomes 人在江湖, literally "a person in river and lake"; "river and lake" is a euphemism for the underworld, and the phrase is usually used to imply a person in the underworld cannot avoid committing unsavoury actions. Secondary title of
+Young and Dangerous
+, a Hong Kong triad film, in Chinese.
+Smoke Screen
+becomes 一手遮天, literally "covering the sky with one hand", a phrase to describe a criminal so well-connected and/or powerful they can halt justice. Secondary title of
+Young and Dangerous 3
+, a sequel to the above, in Chinese.
+Quickdraw
+becomes 猛龙过江, literally "ferocious dragon crossing river", usually used to describe a ruthless foreign rival or criminal. Secondary title of
+Young and Dangerous 2
+in Chinese. It is also the Chinese name of
+Way of the Dragon
+, starring Bruce Lee who fights against foreign martial artists including Chuck Norris.
+Collateral Damage
+becomes 龙争虎斗, literally "struggle of dragon and tiger", a phrase similar to "clash of the titans" in English. Secondary title of
+Young and Dangerous 5
+in Chinese. It is also the Chinese name of
+Enter the Dragon
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Specialist
+Specialists
+are champions that do not fit into the "neat little boxes" of the other classes, and represent Riot's ideal of having a champion roster with a lot of distinctiveness and diversity.
+Examples
+Azir
+Teemo
+Heimerdinger
+Singed
+Gangplank
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Applies life steal
+"Applies life steal"
+is a
+damage tag
+that gives an ability the property of having a damage source apply
+life steal
+like
+basic attack damage
+would.
+This tag is located on some abilities that deal
+spell damage
+(e.g.
+Samira's
+Flair
+and
+Inferno Trigger
+) and
+items
+that deal damage
+on-hit
+.
+Life steal
+does not have a penalty for
+area of effect
+abilities and is always applied to the damage dealt at 100% effectiveness, unless otherwise specified. Unlike
+Vamp
+, the
+"applies life steal"
+tag applies life steal directly and does not
+heal
+based on damage dealt and the life steal
+stat
+. Therefore healing modifiers that affect
+life steal
+also affect abilities with the
+"applies life steal"
+tag.
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Default damage
+Default damage
+is dealt by effects that are not otherwise classified, or are deliberately left unclassified. This most common source of
+default damage
+is splash damage from basic attacks.
+Default damage
+does not interact with most other effects, such as
+Conqueror
+stacking,
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of the damage's non-reactive nature (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Ward
+Wards
+are deployable units that that grant
+sight
+over the surrounding area. They can only be destroyed by
+basic attacks
+, granting
+gold
+and
+experience
+.
+There are three kinds of deployable
+wards
+available for purchase:
+Control Ward
+,
+Warding Totem
+, and
+Farsight Alteration
+. Other types of wards, such as
+Zombie Ward
+, are usable through various means.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Help, Pix!
+COOLDOWN:
+8
+Active:
+Lulu
+can cast
+Help, Pix!
+on herself or a unit.
+Enemy cast:
+Lulu
+sends
+Pix
+to the target for a few seconds, dealing
+magic damage
+and
+revealing
+them.
+Ally cast:
+Lulu
+sends
+Pix
+to the target,
+shielding
+them for a short time if they are a
+champion
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Wind Wall
+COOLDOWN:
+25 / 23 / 21 / 19 / 17
+Active:
+Yasuo
+raises a wind wall that drifts in the target direction for a few seconds, blocking all enemy
+projectiles
+that hit it.
+League of Legends content
+Unbreakable
+COOLDOWN:
+16 / 14 / 12 / 10 / 8
+Active:
+Braum
+sets his shield in a direction for a few seconds, intercepting any enemy
+projectiles
+to hit him and be destroyed.
+He gains damage reduction and negates the first instance of damage dealt by a champion completely from this direction.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Nearsight
+A unit that is
+nearsighted
+has their
+sight
+radius reduced and
+cannot
+see beyond their sight radius.
+While nearsighted, units cannot reveal
+stealthed
+wards
+or
+traps
+. Nearsighted units lose vision of all their allies as well as all external sources of vision (including from wards or abilities). This prevents
+unit-targeted
+effects, including
+basic attacks
+, from being used outside of the unit's reduced sight radius.
+True sight
+and
+unobstructed vision
+do
+not
+bypass the vision blocked by
+nearsight
+.
+Sources of
+nearsight
+do
+not
+stack with each other; only the application with the greatest sight reduction will take effect.
+Interrupts:
+Interrupts target commands if the
+nearsighted
+unit's target is outside of their new vision area and prevents
+automated target acquisition
+.
+Reduction:
+The
+duration
+is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+with the exceptions of
+Fiora's
+Riposte
+and
+Morgana's
+Black Shield
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast),
+Cleanse
+, and
+Mikael's Blessing
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Cc-Immune
+Crowd control immunity
+prevents
+any
+type of
+crowd control
+from being
+applied
+to the unit. CC which has already been applied will still have an effect on the unit. Epic
+monsters
+(excluding a summoned
+Rift Herald
+) and
+turrets
+are always immune to all crowd control, with the exception of
+stasis
+.
+League of Legends content
+Cleanse
+A unit that is
+cleansed
+has all applicable
+crowd control
+status effects removed.
+Due to the nature of the
+cleanse
+interaction, cleansing abilities and effects remain castable in circumstances that would otherwise inhibit casting, unless special-cased.
+"
+Cleanse
+" does not always refer to the act of removing
+all
+crowd control effects, some sources would specify only one or a few types of crowd control.
+A
+cleanse
+does not remove
+Stasis
+, but will remove the disable portion of
+Airborne
+.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Graves's profile page
+at
+LeagueOfLegends.com
+↑
+Reload Speed bug
+↑
+Riot Phreak on Unflinching + Smoke Screen

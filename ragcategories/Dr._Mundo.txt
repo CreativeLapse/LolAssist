@@ -1,0 +1,2575 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Dr. Mundo
+the Madman of Zaun
+Release date
+2009-09-02
+Last changed
+V14.20
+Class(es)
+Juggernaut
+Legacy
+Tank
+Fighter
+Position(s)
+Top
+Resource
+Health costs
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+450
+|
+260
+Crafting
++
+270
+Ratings
+Damage
+2
+Toughness
+3
+Control
+1
+Mobility
+1
+Utility
+1
+Style
+Difficulty
+Dr. Mundo
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+DrMundo
+Base statistics
+Edit
+Health
+613
++103
+Resource
+N/A (Uses Health)
+Health regen. (per 5s)
+7
++0.5
+Resource regen.
+N/A
+Armor
+32
++3.7
+Attack damage
+61
++2.5
+Magic resist.
+29
++2.3
+Crit. damage
+175%
+Move. speed
+345
+Attack range
+125
+Attack speed
+Base AS
+0.67
+Attack windup
+16.031%
+AS ratio
+0.625
+Bonus AS
++3.3
+%
+Unit radius
+Gameplay radius
+80
+Selection radius
+135
+Pathing radius
+50
+Acq. radius
+600
+Special statistics
+Damage Dealt
+-10%
+Damage Received
++5%
+Healing
+-10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++5%
+Healing
+-10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Goes Where He Pleases
+STATIC COOLDOWN
+:
+60 − 15 (based on level)
+Innate:
+Dr. Mundo
+regenerates
+an additional portion of
+his
+maximum
+health
+.
+Passive:
+Periodically,
+Dr. Mundo
+gains immunity to the next hostile spell's
+immobilizing
+effects, and upon resisting one, he loses a portion of
+his
+current
+health
+and drops a canister nearby.
+Dr. Mundo
+and enemy
+champions
+can move near the canister to destroy it. If he destroys the canister, the cooldown is
+reduced
+and he will
+heal
+for a portion of
+his
+maximum
+health
+.
+Innate:
+Dr. Mundo
+regenerates
+an additional
+「
+0.
+4
+% − 2.
+3
+% (based on level)
+of his
+maximum
+health
+every 5 seconds. 」
+「
+0.
+08
+% − 0.
+46
+% (based on level)
+of his
+maximum
+health
+each second. 」
+Passive:
+Periodically,
+Dr. Mundo
+gains immunity to the
+immobilizing
+effects of the next hostile spell to affect him. Upon resisting one,
+Dr. Mundo
+pays a
+health cost
+equal to
+4% of his
+current
+health
+and propels a canister that lands 525 units in the general direction of its source, remaining on the ground for 7 seconds.
+Dr. Mundo
+can move near the canister to consume it,
+healing
+himself for
+4% of his
+maximum
+health
+and reducing the
+cooldown
+of
+Goes Where He Pleases
+by 15 seconds. Enemy
+champions
+can move near it to destroy it.
+Goes Where He Pleases'
+cooldown resets upon
+respawning
+.
+"Mundo goes where he pleases!"
+Info
+Targeting input
+Passive
+Counters
+Projectile
+Not Blocked
+Upon being triggered by a hostile
+immobilizing
+effect,
+Goes Where He Pleases
+will also grant
+Dr. Mundo
+immunity to additional immobilizing effects from the same
+cast instance
+.
+Abilities where non-immobilizing effects and damage are nested into immobilizing ones will have them also prevented. Non-immobilizing effects and damage applied separately (the vast majority of cases) are not prevented.
+Spell shield
+and
+Black Shield
+take priority over
+Goes Where He Pleases
+.
+Goes Where He Pleases
+will not trigger against nor resist
+Rell's
+Magnet Storm's
+ongoing kinematic effect
+.
+It will trigger against and prevent the ability's initial
+displacement
+, but even in that case, not prevent the continous effect.
+The canister, whether in flight and on the ground, will transition in and out of
+Mordekaiser's
+Realm of Death
+alongside
+Dr. Mundo
+.
+(note)
+The canister cannot be interacted with while
+untargetable
+.
+Map-Specific Differences
+Ultra Rapid Fire
+differences
+edit
+Health regeneration changed to
+2.
+3
+% − 4.
+7
+% (based on level)
+maximum
+health
+.
+Edit
+Infected Bonesaw
+COST:
+50 / 60 / 70 / 80 / 90
+Health
+COOLDOWN:
+4
+CAST TIME:
+0.
+25
+TARGET RANGE:
+1050 /
+990
+WIDTH:
+120
+SPEED:
+2000
+Active:
+Dr. Mundo
+throws an infected bonesaw in the target direction that deals
+magic damage
+and
+slows
+the first enemy hit. If the bonesaw hits an enemy
+champion
+,
+Dr. Mundo
+heals
+for the entire
+health cost
+, reduced to half
+health cost
+when a non-champion is hit.
+Active:
+Dr. Mundo
+throws an infected bonesaw in the target direction that deals
+magic damage
+to the first enemy hit and
+slows
+them by 40% for 2 seconds.
+Magic Damage:
+20 / 22.
+5
+/ 25 / 27.
+5
+/ 30% of target's
+current
+health
+Infected Bonesaw
+has a minimum damage threshold, and is capped against
+monsters
+.
+Minimum Damage:
+80 / 130 / 180 / 230 / 280
+Capped Monster Damage:
+350 / 425 / 500 / 575 / 650
+If the bonesaw hits an enemy,
+Dr. Mundo
+heals
+for 50% of the
+health cost
+, increased to 100% against
+champions
+or
+monsters
+.
+"Bonesaw!"
+Info
+Targeting input
+Direction
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+This ability will cast from wherever the caster is at the start of the cast time.
+Spell shield
+blocking the ability's effects on the enemy does not prevent
+Dr. Mundo
+from receiving the health cost refund.
+Edit
+Heart Zapper
+COST:
+8%
+current
+health
+COOLDOWN
+:
+17 / 16.
+5
+/ 16 / 15.
+5
+/ 15
+CAST TIME:
+none
+EFFECT RADIUS:
+325
+Active:
+Dr. Mundo
+charges up a defibrillator for a few seconds, continually dealing
+magic damage
+to nearby enemies and storing a portion of the post-mitigation damage he takes.
+Heart Zapper
+can be recast within the duration, and does so automatically after the duration.
+Recast:
+Dr. Mundo
+detonates the defibrillator, dealing
+magic damage
+to nearby enemies and
+healing
+for an amount equal to the stored damage, which is increased if at least one enemy
+champion
+or large
+monster
+is hit.
+Active:
+Dr. Mundo
+charges up a defibrillator for up to 3 seconds, dealing
+magic damage
+every 0.
+25
+seconds to nearby enemies and storing
+80% − 95% (based on level)
+of
+post-mitigation damage
+he takes as
+grey health
+on his
+health bar
+, reduced to 25% after the first 0.
+75
+seconds.
+Magic Damage per Tick:
+5 / 8.
+75
+/ 12.
+5
+/ 16.
+25
+/ 20
+Total Magic Damage:
+80 / 140 / 200 / 260 / 320
+Heart Zapper
+can be recast after 0.
+5
+seconds within the duration, and does so automatically after the duration.
+Recast:
+Dr. Mundo
+detonates the defibrillator, dealing
+magic damage
+to nearby enemies and
+healing
+for 50% of
+grey health
+, increased to 100% if at least one enemy champion or large monster is hit.
+Magic Damage:
+20 / 35 / 50 / 65 / 80
+(+ 7%
+bonus
+health)
+Info
+Targeting input
+Auto
+Damage type
+Type
+See Notes
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+The charge up applies
+persistent area damage
+and the detonation deals
+area damage
+.
+Spell shield
+will only block the detonation.
+Heart Zapper
+will occasionally deal an additional tick of damage.
+(bug)
+Heart Zapper
+and its recast will buffer and cast at the end of
+Infected Bonesaw's
+cast time if attempted to cast during it.
+As with all buffering of this type, another input such as a movement command can override the buffering of the spell again.
+Edit
+Blunt Force Trauma
+COST:
+10 / 25 / 40 / 55 / 70
+Health
+COOLDOWN
+:
+9 / 8.
+25
+/ 7.
+5
+/ 6.
+75
+/ 6
+CAST TIME:
+none
+RANGE:
+650
+EFFECT RADIUS:
+155
+Passive:
+Dr. Mundo
+gains
+bonus
+attack damage
+based on his
+maximum
+health
+.
+Active:
+Dr. Mundo's
+next basic attack deals
+bonus
+physical damage
+, increased based on
+his
+missing
+health
+. If the target dies, their corpse is sent flying away in a line, dealing
+physical damage
+to enemies it passes through.
+Passive:
+Dr. Mundo
+gains
+bonus
+attack damage
+.
+Bonus Attack Damage:
+2 / 2.
+25
+/ 2.
+5
+/ 2.
+75
+/ 3%
+maximum
+health
+Active:
+Dr. Mundo
+empowers his next basic attack within 4 seconds to have an
+uncancellable windup
+, gain
+50
+bonus
+range
+, and deal
+bonus
+physical damage
+, increased by
+0% − 40% (based on
+Dr. Mundo's missing
+health)
+. If the target dies or is a small monster, they are sent flying away in a line, though not through terrain, causing all enemies they pass through to take
+100% AD
+plus
+Blunt Force Trauma's
+minimum
+bonus
+damage.
+Minimum Bonus Physical Damage:
+5 / 15 / 25 / 35 / 45
+(+ 7%
+bonus
+health)
+Maximum Bonus Physical Damage:
+7 / 21 / 35 / 49 / 63
+(+ 9.
+8
+%
+bonus
+health)
+Blunt Force Trauma
+as well as the triggering
+attack's damage
+is increased to 140% against
+minions
+and 200% against
+monsters
+.
+Blunt Force Trauma
+resets
+Dr. Mundo's
+basic attack timer.
+Info
+Targeting input
+Auto
+Damage type
+Type
+See Notes
+Sub-type
+Physical
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Blunt Force Trauma's
+attack deals
+spell damage
+, while the target's body being shoved deals
+area damage
+to enemies it passes through.
+Blunt Force Trauma's
+attack works against
+structures
+, consuming the buff and dealing its full damage.
+Blunt Force Trauma
+cannot knock back
+wards
+,
+structures
+or epic
+monsters
+it kills, nor champions that enter a
+zombie state
+upon dying.
+Targets flung away are rendered
+untargetable
+in the process.
+The damage of the enemy's corpse colliding with enemies does not benefit from
+Blunt Force Trauma's
+attack
+critically striking
+.
+Edit
+Maximum Dosage
+COOLDOWN
+:
+120
+CAST TIME:
+none
+Active:
+Dr. Mundo
+injects himself with chemicals, gaining
+increased
+base health
+and
+bonus
+movement speed
+, in addition to
+regenerating
+health
+over the duration.
+Active:
+Dr. Mundo
+injects himself with chemicals to become enhanced for 10 seconds, gaining increased
+base
+health
+,
+bonus
+movement speed
+, and
+bonus
+health regeneration
+.
+Increased Base Health:
+15 / 20 / 25%
+missing
+health
+Bonus Movement Speed:
+15 / 25 / 35%
+Bonus Health Regeneration:
+20 / 40 / 60%
+maximum
+health
+Health Regenerated per Second:
+2 / 4 / 6%
+maximum
+health
+At rank 3,
+Maximum Dosage's
+increased
+base
+health
+and
+bonus
+health regeneration
+are both increased by 5% for each enemy
+champion
+within 1200 units at the time of cast.
+"Medicine time!"
+Info
+Targeting input
+Auto
+The health regeneration granted by
+Maximum Dosage
+adjusts dynamically to
+Dr. Mundo's
+maximum
+health
+.
+Maximum Dosage
+will end prematurely upon entering
+resurrection
+.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Dr. Mundo (Collection)
+.
+Original
+View in 3D
+260
+01.09.2009
+Utterly insane, unrepentantly homicidal, and horrifyingly purple, Dr. Mundo is what keeps many of Zaun’s citizens indoors on particularly dark nights. This monosyllabic monstrosity seems to want nothing more than pain—both the giving of it, and the receiving of it. Wielding his massive meat cleaver as if it were weightless, Mundo is infamous for capturing and torturing dozens of Zaun’s citizens for his nefarious 'operations,' which seem to have no overall point or goal. He is brutal. He is unpredictable. He goes where he pleases. He is also not, technically, a doctor.
+Armen Taylor
+Alex 'alexplank' Flores
+Loot eligible
+Toxic
+View in 3D
+520
+17.12.2009
+Mundo not toxic, Mundo has healthy emotional coping mechanisms—oh, you mean purple goo? Mundo is sure that's fine, too.
+Armen Taylor
+West Studio
+Silver Age
+Loot eligible
+Legacy
+Mr. Mundoverse
+View in 3D
+520
+24.03.2010
+Mundo didn't mean to become fitness influencer, but Mundo's gains speak for themselves. Mundo recommends never skipping leg day, eating lots of protein, and smashing that like and subscribe button for more Mr. Mundoverse content.
+Armen Taylor
+Terence 'Terrylefruit' Cantal, West Studio
+Legacy
+Loot eligible
+Legacy
+Corporate Mundo
+View in 3D
+1820
+12.09.2010
+Mundo is not financial advisor. This is not financial advice. But you should buy the skin. Mundo likes the skin.
+Armen Taylor
+Terence 'Terrylefruit' Cantal, West Studio
+Day Job
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+Corporate Mundo Chromas
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Mundo Mundo
+View in 3D
+975
+19.10.2010
+Mundo could have dressed as anyone to go trick-or-treating, but this year he went as Mundo. Every year he goes as Mundo. Mundo trick-or-treats as he pleases.
+Armen Taylor
+Svetlana Tigai, West Studio
+Trick-or-Treat
+Loot eligible
+Legacy
+New SFX/VFX
+Executioner Mundo
+View in 3D
+520
+17.06.2011
+Executioner Mundo thinks people should not be so scared of him. Executioner Mundo puts on pants and chops up prisoners one leg at a time, just like Mundo pleases.
+Armen Taylor
+Marie Magny, West Studio
+Omen of the Dark
+Loot eligible
+Legacy
+New SFX/VFX
+Rageborn Mundo
+View in 3D
+975
+27.07.2012
+There are many tales of the Rageborn menace: that he's slain dragons with a single cleave, that the mightiest wizards cannot halt his advances, that no noble knight foolish enough to try and stop him has ever come back alive. The accounts often contradict each other, but the one thing they all agree on is this: Where Mundo goes, no one else pleases.
+Armen Taylor
+Ina Wong, West Studio
+Rift Quest
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+TPA Mundo
+View in 3D
+750
+23.05.2013
+Honoring Lilballz's winning performance as Mundo during the 2012 World Championship.
+Armen Taylor
+Bo Lu
+World Champions: 2012
+Loot eligible
+Legacy
+New SFX/VFX
+Pool Party Mundo
+View in 3D
+975
+25.06.2015
+Pool Party Mundo enjoys his hat and ukulele, but what he really loves are his shorts. They're comfy, and easy to wear.
+Armen Taylor
+Sixmorevodka Studio
+Pool Party
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+El Macho Mundo
+View in 3D
+1350
+01.06.2016
+Probably in a position he'd rather not be in, El Macho will be facing down three of the greatest fighters in modern history for Sunday's no-holds-barred money match. Luckily for him, Mundo has more madness to offer than the federation thinks he's got, and the cream always rises to the top.
+Armen Taylor
+Kelly Aleshire
+Luchador
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Frozen Prince Mundo
+View in 3D
+1350
+06.12.2018
+Once a handsome prince from an outlying region of the Winterlands, Mundo was touched by the curse of Ice King Twitch—corrupting him into a brutish thrall. He's still convinced he's the same statuesque royal as before, and as such… goes where he pleases.
+Armen Taylor
+Xu 'Crow God' Cheng
+Winter Wonder
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Frozen Prince Mundo Chromas
+Aquamarine
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Street Demons
+View in 3D
+1350
+13.09.2023
+An abstract genius of the highest caliber with a doctorate in fine art, Mundo's reckless and wild finger painting has earned him a lot of respect in the artistic community for its high-concept analysis of the monster/human condition. (Mundo isn't sure what that means; he's just happy that people like his work!)
+Armen Taylor
+Augusto Quirino, West Studio
+Street Demons
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Street Demons Dr. Mundo Chromas
+Citrine
+Emerald
+Obsidian
+Rose Quartz
+Ruby
+Sandstone
+Tanzanite
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.20
+Blunt Force Trauma
+Bonus attack damage reduced to
+2 / 2.
+25
+/ 2.
+5
+/ 2.
+75
+/ 3%
+maximum
+health
+from
+2 / 2.
+35
+/ 2.
+7
+/ 3.
+05
+/ 3.
+4
+%
+.
+V14.15
+Goes Where He Pleases
+Bug Fix:
+No longer ignores
+Aurora's
+Between Worlds'
+boundary collision push.
+V13.22
+Blunt Force Trauma
+Bonus attack damage increased to
+2 / 2.
+35
+/ 2.
+7
+/ 3.
+05
+/ 3.
+4
+%
+maximum
+health
+from
+2 / 2.
+25
+/ 2.
+5
+/ 2.
+75
+/ 3%
+.
+V13.21
+Blunt Force Trauma
+Bonus attack damage reduced to
+2 / 2.
+25
+/ 2.
+5
+/ 2.
+75
+/ 3%
+maximum
+health
+from
+2 / 2.
+5
+/ 3 / 3.
+5
+/ 4%
+.
+Bonus damage amplifier reduced to
+0% − 40% (based on
+missing
+health)
+from
+0% − 60%
+.
+Maximum bonus base damage reduced to 7 / 21 / 35 / 49 / 63 from 8 / 24 / 40 / 56 / 72.
+Maximum bonus damage health ratio reduced to
+9.
+8
+%
+bonus
+health
+from
+11.
+2
+%
+.
+V13.16
+Infected Bonesaw
+Bug Fix:
+The missile's visuals now correspond to its hitbox better.
+V13.6
+Stats
+Base health regeneration increased to 7 from 6.
+5
+.
+Health regeneration growth reduced to 0.
+5
+from 0.
+55
+.
+Heart Zapper
+Recast timer reduced to 0.
+5
+seconds from 1.
+Blunt Force Trauma
+Damage against monsters increased to 200% from 150%.
+V13.5
+Maximum Dosage
+Bug Fix:
+Now properly gains the base health instantly upon cast, rather than after a 0-0.
+25
+-second delay.
+V13.1
+Stats
+Base health reduced to 613 from 653.
+Armor growth reduced to 3.
+7
+from 4.
+2
+.
+Blunt Force Trauma
+Bonus attack damage reduced to
+2 / 2.
+5
+/ 3 / 3.
+5
+/ 4%
+maximum
+health
+from
+2.
+5
+/ 3 / 3.
+5
+/ 4 / 4.
+5
+%
+.
+Bug Fix:
+No longer deals more damage to monsters than intended.
+V12.23
+- December 14th Hotfix
+Stats
+Health regeneration growth reduced to 0.
+55
+to 0.
+75
+.
+Goes Where He Pleases
+Health regeneration reduced to
+0.
+4
+% − 2.
+3
+% (based on level)
+maximum
+health
+from
+0.
+4
+% − 2.
+5
+% (based on level)
+.
+Health cost increased to
+4%
+current
+health
+from
+3%
+.
+Infected Bonesaw
+Health cost changed to 50 / 60 / 70 / 80 / 90 from 60 at all ranks.
+Blunt Force Trauma
+Health cost changed to 10 / 25 / 40 / 55 / 70 from 20 / 30 / 40 / 50 / 60.
+Maximum Dosage
+Cooldown increased to 120 seconds from 110.
+V12.23
+Stats
+Attack damage growth reduced to 2.
+5
+from 3.
+5
+.
+Base attack speed reduced to 0.
+67
+from 0.
+72
+.
+Base magic resistance reduced to 29 from 32.
+Magic resistance growth increased to 2.
+3
+from 2.
+05
+.
+Goes Where He Pleases
+Health cost reduced to
+3%
+current
+health
+from
+7%
+.
+Heal reduced to
+4%
+maximum
+health
+from
+8%
+.
+Health regeneration changed to
+0.
+4
+% − 2.
+5
+% (based on level)
+maximum
+health
+from
+0.
+8
+% − 1.
+6
+% (based on level)
+.
+Infected Bonesaw
+Health cost increased to 60 from 50.
+Heart Zapper
+Health cost increased to
+8%
+current
+health
+from
+5%
+.
+New Effect:
+Now heals for 50% of grey health stored if no enemies were hit.
+Damage stored reduced to 25% at all ranks from 25 / 30 / 35 / 40 / 45%.
+New Effect:
+Now stores
+80% − 95% (based on level)
+of damage taken in the first 0.
+75
+seconds.
+Duration reduced to 3 seconds from 4.
+Blunt Force Trauma
+Cooldown increased to 9 / 8.
+25
+/ 7.
+5
+/ 6.
+75
+/ 6 seconds from 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6.
+Health cost increased to 20 / 30 / 40 / 50 / 60 from 10 / 20 / 30 / 40 / 50.
+Damage against monsters reduced to 150% from 200%.
+Bonus attack damage changed to
+2.
+5
+/ 3 / 3.
+5
+/ 4 / 4.
+5
+%
+maximum
+health
+from 15 / 20 / 25 / 30 / 35.
+Removed:
+Bonus attack damage is no longer increased by up to 40 / 50 / 60 / 70 / 80 based on missing health, reaching maximum value at
+70%
+missing
+health
+.
+Maximum Dosage
+Removed:
+No longer grants
+4 / 5.
+5
+/ 7%
+bonus
+health
+as
+bonus
+attack damage
+.
+Increased base health increased to
+15 / 20 / 25%
+missing
+health
+from
+8 / 11.
+5
+/ 15%
+.
+New Effect:
+At rank 3, the increased base health and health regeneration are now increased by 5% per enemy champion within 1200 units at the time of the ability being cast.
+V12.22
+General
+Several inconsistencies in his ability tooltips have been resolved.
+V12.12
+Goes Where He Pleases
+Health regeneration reduced to
+0.
+8
+% − 1.
+6
+% (based on level)
+maximum
+health
+from
+1% − 2% (based on level)
+.
+Maximum Dosage
+Increased base health reduced to
+8 / 11.
+5
+/ 15%
+missing
+health
+from
+10 / 15 / 20%
+.
+V12.10
+Stats
+Base health increased to 653 from 583.
+Health growth increased to 103 from 89.
+Armor growth increased to 4.
+2
+from 3.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Goes Where He Pleases
+Bug Fix:
+Crowd control immunity is no longer consumed by
+Blast Cones
+triggered by allies.
+Maximum Dosage
+Increased base health reduced to
+10 / 15 / 20%
+missing
+health
+from
+15 / 20 / 25%
+.
+V12.4
+Stats
+Attack damage growth reduced to 3.
+5
+from 4.
+2
+.
+Maximum Dosage
+Cooldown increased to 110 seconds at all ranks from 110 / 100 / 90.
+V11.24
+- December 15th Hotfix
+Stats
+Base health regeneration reduced to 6.
+5
+from 8.
+Infected Bonesaw
+Minimum damage reduced to 80 / 130 / 180 / 230 / 280 from 80 / 135 / 190 / 245 / 300.
+V11.21
+Blunt Force Trauma
+New Effect:
+Now trigger spell effects when dealing damage.
+V11.18
+Goes Where He Pleases
+Bug Fix:
+Fixed a bug where he would ignore all subsequent CC from a dragon or
+Rift Herald
+after it broke his
+Goes Where He Pleases
+spell shield once.
+Infected Bonesaw
+Damage cap against monsters increased to 350 / 425 / 500 / 575 / 650 from 300 / 350 / 400 / 450 / 500.
+Maximum Dosage
+New Effect:
+On cast, now grants him
+15 / 20 / 25%
+missing
+health
+as
+base
+health
+for the duration of the ability.
+Removed:
+No longer heals for
+20%
+missing
+health
+on cast.
+Health regeneration reduced to
+20 / 40 / 60%
+maximum
+health
+from
+20 / 45 / 70%
+.
+V11.17
+Goes Where He Pleases
+Bug Fix:
+Fixed a bug where, when an enemy immobilized
+Dr. Mundo
+while standing on top of him,
+Goes Where He Pleases'
+canister would get destroyed before it hit the ground.
+V11.14
+Stats
+Base attack speed increased to 0.
+72
+from 0.
+67
+.
+Goes Where He Pleases
+Health regeneration reduced to
+1% − 2% (based on level)
+maximum
+health
+from
+2%
+at all levels.
+Cooldown increased to
+60 − 15 (based on level)
+seconds from
+45 − 15 (based on level)
+.
+Infected Bonesaw
+Health cost refund against monsters increased to 100% from 50%.
+Blunt Force Trauma
+Damage against monsters increased to 200% from 140%.
+New Effect:
+Now always swats away small monsters.
+V11.13
+- June 23rd Hotfix
+Heart Zapper
+Bug Fix:
+Once again heals back
+Dr. Mundo's
+grey health for hitting a champion.
+V11.13
+Goes Where He Pleases
+Bug Fix:
+Now prevents
+Mordekaiser's
+Realm of Death
+from bringing
+Dr. Mundo
+to the Death Realm; no longer prevents the initial slow being applied.
+Blunt Force Trauma
+Bug Fix:
+Now more fluidly turns before the attack animation.
+Corporate Mundo
+,
+El Macho Mundo
+,
+Executioner Mundo
+,
+Mr. Mundoverse
+,
+Mundo Mundo
+, and
+TPA Mundo
+Infected Bonesaw
+Bug Fix:
+Is now more visible when used in brushes.
+V11.12
+- June 12th Hotfix
+Infected Bonesaw
+Maximum damage to monsters increased to 300 / 350 / 400 / 450 / 500 from 150 / 225 / 300 / 375 / 450.
+Heart Zapper
+Heal ratio against large monsters increased to 100% from 50%.
+V11.12
+- Full Relaunch
+General
+New splash artwork for
+Original Dr. Mundo
+,
+Toxic Dr. Mundo
+,
+Corporate Mundo
+,
+Mundo Mundo
+,
+Executioner Mundo
+, and
+Rageborn Mundo
+.
+Adjusted splash artwork for
+TPA Mundo
+,
+Pool Party Mundo
+,
+El Macho Mundo
+, and
+Frozen Prince Mundo
+.
+Stats
+Attack damage growth increased to 4.
+2
+from 3.
+Base attack speed reduced to 0.
+67
+from 0.
+721
+.
+Attack speed growth increased to 3.
+3
+% from 2.
+8
+%.
+Base armor reduced to 32 from 36.
+Goes Where He Pleases
+(Innate)
+New Effect:
+Now periodically causes him to ignore the next
+immobilizing
+effect.
+Preventing an effect makes him lose
+7% of his
+current
+health
+and launches a canister that lands 525 units in the general direction of its source, remaining on the ground for 7 seconds.
+Dr. Mundo
+can pick it up to heal himself for
+8% of his
+maximum
+health
+and reduce the cooldown of this effect by 15 seconds.
+Enemy champions can destroy the canister by walking over it before
+Dr. Mundo
+reaches it.
+Goes Where He Pleases'
+cooldown resets upon respawning.
+Cooldown:
+45 − 15 (based on level)
+seconds.
+Health regeneration reduced to
+2%
+maximum
+health
+from
+2.
+5
+%
+.
+Infected Bonesaw
+(Q)
+Health cost reduced to 50 at all ranks from 50 / 60 / 70 / 80 / 90.
+Minimum damage increased to 80 / 135 / 190 / 245 / 300 from 80 / 130 / 180 / 230 / 280.
+Maximum damage to monsters changed to 150 / 225 / 300 / 375 / 450 from 100 / 200 / 300 / 400 / 500.
+Removed:
+No longer restores health equal to the
+full
+health cost if
+Infected Bonesaw
+kills a non-champion.
+Removed:
+Damage is no longer capped at 100 / 200 / 300 / 400 / 500 against minions.
+Heart Zapper
+(W)
+No longer a toggle spell.
+Removed:
+No longer grants 30% tenacity while toggled on.
+New Active:
+Dr. Mundo
+charges up a defibrillator for 4 seconds, dealing a total of 80 / 140 / 200 / 260 / 320
+magic damage
+over the duration, with each tick occuring every 0.
+25
+seconds, to nearby enemies and storing 25 / 30 / 35 / 40 / 45% of the
+post-mitigation
+damage he takes.
+Heart Zapper
+can be recast after 1 second for the duration, and does so automatically at the end of the duration.
+New Recast:
+Dr. Mundo
+detonates the defibrillator, dealing 20 / 35 / 50 / 65 / 80
+(+ 7%
+bonus
+health)
+magic damage
+to nearby enemies and
+healing
+himself for 100% of all the damage stored if at least one enemy is hit, reduced to 50% if no
+champion
+is hit.
+Health cost changed to
+5%
+current
+health
+on-cast from 10 / 15 / 20 / 25 / 30 health per second while toggled on.
+Cooldown increased to
+17 / 16.
+5
+/ 16 / 15.
+5
+/ 15
+seconds from
+4
+seconds at all ranks.
+Blunt Force Trauma
+(E)
+Removed Passive:
+Taking
+magic damage
+or paying a
+health cost
+increases
+Dr. Mundo's
+magic resistance by 3%
+for 2 seconds, stacking up to 2 / 5 / 8 / 11 / 13 times.
+Removed Effect:
+On activation, grants 30 / 45 / 60 / 75 / 90
+bonus
+attack damage
+for 5 seconds, increased by an amount based on his
+percentage health
+, up to a maximum total of 50 / 80 / 110 / 140 / 170 at
+100%
+missing
+health
+.
+New Passive:
+Now always passively grants 15 / 20 / 25 / 30 / 35
+bonus
+attack damage
+, increased based on his
+missing
+health
+, up to a maximum total of 40 / 50 / 60 / 70 / 80 at
+70%
+missing
+health
+.
+Health cost reduced to 10 / 20 / 30 / 40 / 50 from 25 / 35 / 45 / 55 / 65.
+Cooldown increased to 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6 seconds after the attack from 6 / 5.
+5
+/ 5 / 4.
+5
+/ 4 seconds on-cast.
+New Effect:
+Empowered attack's windup is now
+uncancellable
+.
+Bonus attack range increased to 50 from 25.
+New Effect:
+Attack now applies against structures, consuming the effect and dealing the bonus damage.
+Damage of the empowered attack changed to 5 / 15 / 25 / 35 / 45
+(+ 7%
+bonus
+health)
+from
+4 / 4.
+5
+/ 5 / 5.
+5
+/ 6%
+maximum
+health
+.
+New Effect:
+Now increases the bonus damage to the primary target by
+0% − 60% (based on
+missing
+health)
+.
+New Effect:
+Now deals 40% increased damage to minions and non-epic monsters.
+New Effect:
+Now knocks enemies killed by the attack away in a line, dealing
+100% AD
+plus
+Blunt Force Trauma's
+minimum
+bonus
+damage to other enemies they pass through.
+Maximum Dosage
+(R)
+Removed:
+25%
+current
+health
+health cost.
+New Effect:
+Now additionally heals him on-cast for
+20% of his
+missing
+health
+.
+Duration reduced to 10 seconds from 12 seconds.
+New Effect:
+Now additionally grants
+(4 / 5.
+5
+/ 7%
+bonus
+health)
+bonus
+attack damage
+for the duration.
+Total health regeneration reduced to
+20 / 45 / 70%
+maximum
+health
+from
+60 / 85 / 110%
+.
+Trivia
+[
+edit
+|
+edit source
+]
+Dr. Mundo, the Madman of Zaun
+"Mundo" has two real world origins: the Proto-Germanic
+*mundo
+"hand, protection" & unrelated Ibero-
+Romance
+mundo
+"world" (like in Spanish, Portuguese, etc.).
+He is named after
+Edmundo 'odnumde' Sanchez
+, by
+Brandon 'Ryze' Beck
+.
+[2]
+Dr. Mundo's dance references the titular character from
+House, M.D.
+in turn dancing to
+Fight the Power
+by
+Public Enemy
+.
+A side-by-side comparison be seen
+here
+.
+In the
+V1.0.0.115
+April Fools' Day
+patch, the following change regarding Dr. Mundo were jokingly listed：
+Dr. Mundo decided that he enjoys the color blue.
+Dr. Mundo now has mana.
+None of his ability costs have changed.
+Masochism
+references the
+eponymous term
+for enjoyment derived from being inflicted pain, named after real-life writer
+Leopold von Sacher-Masoch
+.
+This is also mechanically referenced in his kit by gaining a higher AD bonus the lower his health is.
+The ability's name also fits for the
+early iterations
+of his E ability, which caused Dr. Mundo to be healed instead of being damaged from physical attacks for a duration.
+Sadism
+references the
+eponymous term
+for enjoyment derived from inflicting pain on others, named after real-life writer
+Marquis de Sade
+.
+The name chosen for this ability made the most sense for the
+early iterations
+of his R ability, which damaged nearby enemies for their current health.
+Dr. Mundo, the Madman of Zaun
+Dr. Mundo
+is one of 21 champions without a single
+ability power
+ratio on any ability:
+Aatrox
+,
+Camille
+,
+Darius
+,
+Draven
+,
+Garen
+,
+K'Sante
+,
+Kayn
+,
+Kled
+,
+Naafiri
+,
+Nilah
+,
+Olaf
+,
+Pyke
+,
+Riven
+,
+Samira
+,
+Sett
+,
+Talon
+,
+Urgot
+,
+Xayah
+,
+Yone
+, and
+Zed
+.
+Dr. Mundo is one of six champions who use health as a resource for abilities, the other five being
+Briar
+,
+Olaf
+,
+Soraka
+,
+Vladimir
+and
+Zac
+.
+His dance is a
+Pec Flex
+which involves flexing his pectoral muscles.
+His
+death
+animation shows him assume the morgue pose whilst adding a toe tag to himself.
+Goes Where He Pleases
+is among a few abilities that were named after a quote of their champion. In this case, it references his "Mundo goes where he pleases" quote which he had before the patch he got the ability,
+V11.12
+.
+The others are
+Draven's
+League of Draven
+and
+Graves'
+End of the Line
+.
+Following his rework, his kit was given a higher emphasis on medical equipment and terms, thus making several references to them.
+Infected Bonesaw
+was renamed from
+Infected Cleaver
+to have Dr. Mundo utilize the
+actual medical tool
+.
+Heart Zapper
+is based on the act of
+defibrillation
+.
+Blunt Force Trauma
+references the term for the
+eponymous injury type
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Juggernaut
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+Juggernauts
+are melee titans who relentlessly march down the opposition and devastate those foolish enough to get within their grasp. They are the only subclass who excel at both dealing and taking significant amounts of damage, but in turn they have a tough time closing in on targets due to their low range and extremely limited mobility.
+Examples
+Dr. Mundo
+Darius
+Mordekaiser
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Health
+Some champions use
+Health
+as a resource to cast abilities.
+While these champions can cast their abilities more freely than most, their disadvantage is that frequent ability usage will bring them closer to taking
+fatal damage
+.
+Health costs
+ignore
+invulnerability
+as well as effects that
+prevent
+falling below a certain health value.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Immobilize
+Immobilized
+units cannot control their movement. The following crowd control effects
+immobilize
+the unit:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Root
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Impaired movement
+is a similar term that, in addition to the above, also refers to units that are
+slowed
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Cast instance
+Cast instance is the identifier that tells the
+source
+of spells. Multiple spells, such as basic attacks and abilities, under the same cast instance behave as one for certain interactions. Some notable examples:
+Conqueror's
+stacking can only be triggered once per cast instance.
+Electrocute
+and
+Phase Rush
+can only receive 1 stack for their activation per cast instance.
+Muramana
+deals its damage once per cast instance.
+Not to be confused with damage instance, which is each individual effects, even under the same cast instance.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Black Shield
+COOLDOWN:
+26 / 23.
+5
+/ 21 / 18.
+5
+/ 16
+Active:
+Morgana
+shields
+the target allied champion or herself for a few seconds, which absorbs
+magic damage
+and grants
+crowd control immunity
+while the shield holds.
+League of Legends content
+Magnet Storm
+COOLDOWN:
+120 / 100 / 80
+Active:
+Rell
+erupts in magnetic fury,
+pulling
+nearby enemies inward. She then emits a
+Kinematic
+field that continually deals
+magic damage
+over a short time.
+Kinematics
+:
+Kinematics drags enemies toward the
+Source
+, but does not disable their actions nor intercept other forms of movement.
+League of Legends content
+Kinematics
+A unit that is under the effect of
+kinematics
+will be continually dragged to a specific unit or location until they reach it.
+Kinematics
+has no effect on units that are performing any form of movement other than basic movement and other
+kinematic
+effects.
+Kinematics
+should not be confused as an
+airborne
+effect nor displacement effect. It does not disable any of the unit's actions.
+Interrupts:
+Does not interrupt any actions, but will prevent the unit from effectively
+pathing
+to their intended location through basic movement.
+Reduction:
+The effect is instantaneous.
+There is nothing to reduce.
+Resist:
+Resisted by
+crowd control immunity
+and
+displacement immunity
+.
+Removal:
+Removed by leaving the source of the area of effect. The effect is instantaneous.
+There is nothing to cleanse.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Realm of Death
+COOLDOWN:
+140 / 120 / 100
+Active:
+Mordekaiser
+slows
+the target enemy champion, then banishes them with him to the
+Death Realm
+for a few seconds, cancelling all interactions with non-banished units.
+Additionally,
+Mordekaiser
+heals
+himself for a portion of the
+target's
+maximum
+health
+and temporarily steals a portion of their
+current
+attack damage
+,
+ability power
+,
+total
+attack speed
+,
+maximum
+health
+,
+armor
+,
+magic resist
+, and
+size
+.
+If the target dies while inside the
+Death Realm
+,
+Mordekaiser
+keeps his stolen stats until they
+respawn
+.
+Death Realm:
+The
+Death Realm
+confines units in a small area. Allies and enemies cannot see or interact with those in the
+Death Realm
+but can see their locations and vice versa.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Ultra Rapid Fire (U.R.F.)
+Ultra Rapid Fire
+is a
+Featured Game Mode
+that takes place on
+Summoner's Rift
+with the same objective as
+Classic 5v5
+, except all
+champions
+benefit from the
+Awesome Buff of Awesomely Awesome Buffing
+that grants excessive  ability haste and removes ability costs. The gameplay is
+explosive
+. The game mode can be played as
+All Random
+or
+Blind pick
+depending on the year.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Persistent area damage
+Persistent area damage
+is technically not a separate type of damage, but rather a hybrid classification that is applied to some spells.
+In situations where
+persistent damage
+and
+area damage
+would have conflicting outputs, the conflict is resolved by choosing the weakest possible outcome.
+Physical vamp
+and
+Spell vamp
+(where applicable) heals with one-third effectiveness, as with
+area damage
+.
+Arcane Comet's
+cooldown is reduced by 5%, as with
+persistent damage
+, per target affected.
+Counter Strike
+reduces the damage dealt by 25%, as with
+area damage
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Infected Bonesaw
+COOLDOWN:
+4
+Active:
+Dr. Mundo
+throws an infected bonesaw in the target direction that deals
+magic damage
+and
+slows
+the first enemy hit.
+If the bonesaw hits an enemy
+champion
+,
+Dr. Mundo
+heals
+for the entire
+health cost
+, reduced to half
+health cost
+when a non-champion is hit.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+References
+[
+edit
+|
+edit source
+]
+↑
+Dr. Mundo's profile page
+at
+LeagueOfLegends.com
+↑
+Mundo Name Origin

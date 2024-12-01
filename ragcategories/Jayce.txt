@@ -1,0 +1,2499 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Jayce
+the Defender of Tomorrow
+Release date
+2012-07-07
+Last changed
+V14.18
+Class(es)
+Artillery
+Legacy
+Marksman
+Fighter
+Position(s)
+Top
+Middle
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+2
+Utility
+2
+Style
+Difficulty
+Jayce
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Jayce
+Base statistics
+Edit
+Health
+590
++109
+Mana
+375
++45
+Health regen. (per 5s)
+6
++0.6
+Mana regen. (per 5s)
+6
++0.8
+Armor
+22
++5
+Attack damage
+59
++4.25
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+125
+Attack speed
+Base AS
+0.658
+Attack windup
+9.5% (mod. 0.005)
+AS ratio
+N/A
+Bonus AS
++3
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+200
+Special statistics
+Damage Dealt
++5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-8%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Hextech Capacitor
+Innate:
+Whenever
+Jayce
+switches between
+Hammer Stance
+and
+Cannon Stance
+, he briefly gains
+bonus
+movement speed
+and
+ignores
+unit collision.
+Innate:
+Whenever
+Jayce
+switches between either
+Hammer Stance
+or
+Cannon Stance
+, he gains
+ghosting
+and
+40
+bonus
+movement speed
+for 0.
+75
+seconds.
+Info
+Targeting input
+Passive
+No additional details.
+Edit
+To the Skies!
+COST:
+40 Mana
+COOLDOWN:
+16 / 14 / 12 / 10 / 8 / 6
+CAST TIME:
+none
+TARGET RANGE:
+600
+EFFECT RADIUS:
+300
+Active:
+Jayce
+leaps to the target enemy's location and smashes his hammer to the ground, dealing
+physical damage
+and
+slowing
+nearby enemies.
+Active:
+Jayce
+leaps
+to the target enemy's location. Upon arrival, he deals
+physical damage
+to all enemies within an area and
+slows
+them for 2 seconds.
+Physical Damage:
+60 / 110 / 160 / 210 / 260 / 310
+(+ 120%
+bonus
+AD)
+Slow:
+35 / 40 / 45 / 50 / 55 / 60%
+Lightning Field
+can be cast during the dash.
+"To the skies!"
+Info
+Targeting input
+Unit
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+To The Skies!
+will always direct
+Jayce
+linearly to his target's location.
+Map-Specific Differences
+Arena
+differences
+edit
+Shock Blast
+base damage changed to 40 / 80 / 120 / 160 / 200.
+Edit
+Lightning Field
+COST:
+40 Mana
+COOLDOWN
+:
+10
+CAST TIME:
+none
+EFFECT RADIUS:
+350
+Passive:
+Jayce's
+basic attacks restore
+mana
+.
+Active:
+Jayce
+surrounds himself with an electric field for a few seconds, continually dealing
+magic damage
+to nearby enemies.
+Passive:
+Jayce's
+basic attacks
+restore
+mana
+on-hit
+.
+Mana Restored:
+15 / 17 / 19 / 21 / 23 / 25
+Active:
+Jayce
+surrounds himself with an electric field for 4 seconds that deals
+magic damage
+every second to nearby enemies.
+Magic Damage Per Tick:
+40 / 55 / 70 / 85 / 100 / 115
+(+ 25% AP)
+Total Magic Damage:
+160 / 220 / 280 / 340 / 400 / 460
+(+ 100% AP)
+Info
+Targeting input
+Auto
+Damage type
+Type
+AOE DOT damage
+Sub-type
+Magic
+The
+mana
+restore triggers on
+structures
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Hyper Charge
+AD ratio changed to
+65 / 75 / 85 / 95 / 105% AD
+.
+Edit
+Thundering Blow
+COST:
+55 Mana
+COOLDOWN:
+20 / 18 / 16 / 14 / 12 / 10
+CAST TIME:
+0.
+25
+TARGET RANGE:
+240
+Active:
+Jayce
+swings his hammer at the target enemy, dealing
+magic damage
+based on the
+target's
+maximum health
+and
+knocking
+them back.
+Active:
+Jayce
+roots
+the target enemy over the cast time, then swings his hammer at them to deal
+magic damage
+, capped against
+monsters
+, and
+knock them back
+600 units.
+Magic Damage:
+8 / 10.
+8
+/ 13.
+6
+/ 16.
+4
+/ 19.
+2
+/ 22% of target's
+maximum
+health
+(+ 100%
+bonus
+AD)
+Maximum Monster Damage:
+200 / 300 / 400 / 500 / 600 / 700
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+Edit
+Transform Mercury Cannon
+COOLDOWN:
+6
+CAST TIME:
+none
+Active:
+Jayce
+transforms into
+Cannon Stance
+, becoming
+ranged
+with greater
+attack range
+and gaining new abilities. His next basic attack will reduce the target's
+armor
+and
+magic resist
+for a few seconds.
+Jayce
+begins the game with
+Transform
+but cannot increase its rank. Instead, his basic abilities each have 6 ranks.
+Active:
+Jayce
+transforms into
+Cannon Stance
+, receiving access to its
+abilities
+, becoming
+ranged
+with
+500 attack range
+, and empowering his next
+basic attack
+to reduce the target's
+armor
+and
+magic resistance
+by
+10 / 15 / 20 / 25% (based on level)
+for 5 seconds.
+Jayce
+begins the game with
+Transform
+but cannot increase its rank. Instead, his basic
+abilities
+each have 6 ranks.
+"Cannon engaged."
+Info
+Targeting input
+Auto
+Counters
+Parries
+Blocked
+Transformations do not count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+The resistance reduction does not apply to structures.
+Both
+Transform
+on-hit effects have no set duration and will only be consumed when
+Jayce
+either lands a basic attack or switches stances.
+The enhanced attack will not be consumed if it is parried (
+dodge
+,
+block
+,
+blind
+, and
+Riposte
+).
+The empowered attack will not trigger against
+structures
+nor
+wards
+.
+Edit
+Hextech Capacitor
+Innate:
+Whenever
+Jayce
+switches between
+Hammer Stance
+and
+Cannon Stance
+, he briefly gains
+bonus
+movement speed
+and
+ignores
+unit collision.
+Innate:
+Whenever
+Jayce
+switches between either
+Hammer Stance
+or
+Cannon Stance
+, he gains
+ghosting
+and
+40
+bonus
+movement speed
+for 0.
+75
+seconds.
+Info
+Targeting input
+Passive
+No additional details.
+Edit
+Shock Blast
+COST:
+55 / 60 / 65 / 70 / 75 / 80 Mana
+COOLDOWN:
+8
+CAST TIME:
+0.
+2143
+RANGE:
+1050
+/
+1600
+EFFECT RADIUS:
+175
+/
+250
+/
+160
+/
+250
+WIDTH:
+140
+SPEED:
+1450
+/
+2350
+Active:
+Jayce
+fires an electric bolt in the target direction that detonates upon hitting an enemy or max range, dealing
+physical damage
+to nearby enemies. If the bolt passes through
+Acceleration Gate
+, it supercharges: instantly increasing its speed, travel distance and detonation.
+Active:
+Jayce
+fires an electric bolt in the target direction that detonates upon hitting an enemy or reaching maximum range, dealing
+physical damage
+to nearby enemies and granting
+sight
+of the area for 1.
+25
+seconds.
+Physical Damage:
+60 / 115 / 170 / 225 / 280 / 335
+(+ 125%
+bonus
+AD)
+If the bolt passes through
+Acceleration Gate
+, it becomes supercharged: increasing its damage by 40% as well as its speed, range and explosion radius.
+Increased Damage:
+84 / 161 / 238 / 315 / 392 / 469
+(+ 175%
+bonus
+AD)
+"Feel the thunder!"
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+This ability will cast from wherever the caster is at the end of the cast time.
+Upon touching
+Acceleration Gate
+, the enhanced missile gains its remaining range equal to [ 1600 units - travelled distance of the standard missile ].
+This means that the range of the enhanced
+Shock Blast
+is always the same, regardless of how early or late it interacted with
+Acceleration Gate
+.
+Supercharging the
+Shock Blast
+as soon as possible, however, will improve its average speed significantly.
+For this,
+Jayce
+must stand inside or very close to the
+Acceleration Gate
+, or place it very close to himself right after
+Shock Blast's
+cast time.
+Shock Blast's
+effect radius is centered around the location of the missile as it collides.
+Shock Blast
+will
+always
+damage the enemy it collided with, even if it is so large that it is outside the effect radius.
+The non-enhanced
+Shock Blast
+detonation has a slightly smaller sight radius than the radius in which it deals damage.
+(note)
+Map-Specific Differences
+Arena
+differences
+edit
+Shock Blast
+base damage changed to 40 / 80 / 120 / 160 / 200.
+Edit
+Hyper Charge
+COST:
+40 Mana
+COOLDOWN
+:
+13 / 11.
+4
+/ 9.
+8
+/ 8.
+2
+/ 6.
+6
+/ 5
+CAST TIME:
+none
+Active:
+Jayce
+gains a massive burst of
+bonus
+attack speed
+on his next few basic attacks, each one dealing
+modified
+physical damage
+.
+Active:
+Jayce
+empowers his next 3
+basic attacks
+within 4 seconds to deal
+modified
+physical damage
+and gain
+300%
+bonus
+attack speed
+.
+Hyper Charge's
+total
+damage is affected by
+critical strike
+modifiers.
+Damage Modifier:
+70 / 78 / 86 / 94 / 102 / 110% AD
+Hyper Charge
+resets
+Jayce's
+basic attack timer.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Proc damage
+Sub-type
+Physical
+Counters
+Parries
+Blocked
+The last basic attack is checked
+on-hit
+rather than
+on-attack
+.
+If
+Runaan's Hurricane
+or
+Guinsoo's Rageblade
+hit the target before the basic attack does, the basic attack damage will not be modified.
+Map-Specific Differences
+Arena
+differences
+edit
+Hyper Charge
+AD ratio changed to
+65 / 75 / 85 / 95 / 105% AD
+.
+Edit
+Acceleration Gate
+COST:
+50 Mana
+COOLDOWN:
+16
+CAST TIME:
+none
+TARGET RANGE:
+650
+WIDTH:
+750
+Active:
+Jayce
+deploys an energy gate centered at the target location for a few seconds. All allied champions that touch the gate will gain a burst of
+movement speed
+.
+Active:
+Jayce
+deploys an energy gate centered at the target location, lasting for 4 seconds and granting
+sight
+of its surroundings.
+Jayce
+and all allied champions can move through it to gain
+bonus
+movement speed
+that decays over 3 seconds.
+Bonus Movement Speed:
+35 / 40 / 45 / 50 / 55 / 60%
+The buff is continuously refreshed while inside the gate. Acceleration Gate will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+The
+Gate
+grants the bonus in an area
+750 units wide and
+100 units thick.
+Edit
+Transform Mercury Hammer
+COOLDOWN:
+6
+CAST TIME:
+none
+Active:
+Jayce
+transforms into
+Hammer Stance
+, becoming
+melee
+and gaining new abilities. His next basic attack will deal
+bonus
+magic damage
+.
+Jayce
+begins the game with
+Transform
+but cannot increase its rank. Instead, his basic abilities each have 6 ranks.
+Active:
+Jayce
+transforms into
+Hammer Stance
+, receiving access to its
+abilities
+, becoming
+melee
+with
+125 attack range
+, gaining
+5 / 15 / 25 / 35 (based on level)
+(+ 7.5%
+bonus
+AD)
+bonus
+armor
+and
+bonus
+magic resistance
+, and empowering his next basic attack to deal
+25 / 65 / 105 / 145 (based on level)
+(+ 25%
+bonus
+AD)
+bonus
+magic damage
+.
+Jayce
+begins the game with
+Transform
+but cannot increase its rank. Instead, his basic
+abilities
+each have 6 ranks.
+"Hammer time!"
+Info
+Targeting input
+Auto
+Counters
+Parries
+Blocked
+Transformations do not count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+The enhanced attack will not be consumed if it is parried (
+dodge
+,
+block
+,
+blind
+, and
+Riposte
+).
+The
+Mercury Hammer's
+bonus damage can affect structures.
+Both
+Transform
+on-hit effects have no set duration and will only be consumed when
+Jayce
+either lands a basic attack or switches stances.
+The empowered attack will not trigger against
+wards
+.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Jayce (Collection)
+.
+Original
+View in 3D
+880
+06.07.2012
+Jayce is a brilliant inventor who has pledged his life to the defense of Piltover and its unyielding pursuit of progress. With his transforming hextech hammer in hand, Jayce uses his strength, courage, and considerable intelligence to protect his hometown. While revered throughout the city as a hero, he hasn’t taken well to the attention heroism brings. Still, Jayce’s heart is in the right place, and even those who envy his natural skills are grateful for his protection in the City of Progress.
+Trevor Devall
+Andrew 'Silver' Silver
+Loot eligible
+Full Metal
+View in 3D
+1350
+06.07.2012
+Backed by RiotCorp as the Full Metal Fighting League's first corporately sanctioned champion, Jayce has dethroned Pantheon and won the hearts of audiences worldwide—especially those who realize they gain 15 Riot Points every time they cheer his cyclonic blasts.
+Trevor Devall
+Kienan 'Knockwurst' Lafferty
+Heavy Metal
+Loot eligible
+Voice filter
+Debonair
+View in 3D
+975
+14.02.2013
+You're a scholar. You're an inventor. You're the man of the hour and the hour is now, yesterday, and tomorrow. Don't just be the father of invention—be the ivory god of substance, class, and style. It's you, Jayce. It's always been you.
+Trevor Devall
+Andrew 'Silver' Silver
+Debonair
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Forsaken
+View in 3D
+1350
+03.05.2015
+Opposed to balance in all measures, Jayce has gone down a path he cannot return from. He has sworn vengeance upon Chosen Master Yi and all he stands for.
+Trevor Devall
+Michelle Hoefener
+Legacy
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Jayce Brighthammer
+View in 3D
+750
+17.11.2016
+A noble paladin who has inexplicably mastered science and engineering, Jayce Brighthammer is a stout ally no foul creature can best! Unless that foul creature is a loophole in the rulebook, since Jayce likes to get any advantage over the Rift Master he can.
+Trevor Devall
+Christian Fell
+Rift Quest
+Loot eligible
+New SFX/VFX
+Battle Academia
+View in 3D
+1350
+15.05.2019
+A prestigious 2nd year whose face is known throughout the wider city of Durandal, Jayce is the class president, head of the world-renowned Luminary Club, and prodigious inventor of miraculous Jayce-branded technologies. He hopes his inventions will prevent the kind of tragedy that struck him in his youth, though he refuses to speak about what that was.
+Trevor Devall
+Choe HeonHwa
+Battle Academia
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Battle Academia Jayce Chromas
+Emerald
+Formal
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Resistance
+View in 3D
+1350
+12.11.2020
+While many presumed him dead, Jayce's sudden return to the Resistance has been heralded by some as a miracle and others as a curse. Burdened by guilt, he still blames himself for his failure to halt Viktor's rise. Only time will tell if Jayce can turn the tide.
+Trevor Devall
+Xuning Cui, Kudos Productions
+Battlecast
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Resistance Jayce Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Arcane Inventor
+View in 3D
+975
+08.11.2021
+Celebrating the RiotX Arcane event.
+Trevor Devall
+Ina Wong, West Studio
+Arcane
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Zenith Games
+View in 3D
+1350
+09.09.2022
+Jayce invented Hammerjack as a showcase sport for humanity's new augmented abilities. Nothing else tested athletes across so many directions and terrain, and with this being its first year in the Zenith Games, he intends to show everyone what THE sport of the 22nd century looks like.
+Trevor Devall
+Alsie Lau, West Studio
+Zenith Games
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Zenith Games Jayce Chromas
+Amethyst
+Aquamarine
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+T1
+View in 3D
+1350
+14.08.2024
+Honoring Zeus's winning performance as Jayce during the 2023 World Championship.
+Trevor Devall
+Alsie Lau, Kelvin Law, Mo Yan
+World Champions: 2023
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+T1 Jayce Chromas
+Elite
+Arcane Survivor
+View in 3D
+1820
+20.11.2024
+Jayce Talis faces a nightmarish possibility: the end of progress. The arcane transformed him, upending his world. Even his hextech hammer feels altered, wielding the weight of a gavel against threats to the future. What he has seen left him bloodied, what he survived nearly broke him—but he remains determined to keep a promise only he can fulfill.
+Trevor Devall
+Alsie Lau
+Arcane
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Prestige T1
+View in 3D
+Special
+14.08.2024
+After T1's shocking defeat at last year's Summoner's Cup, many lost hope that they'd ever be able to reclaim their throne. But Jayce's support for these legends never wavered. Sporting a bright white-and-gold glow, he stands tall in the front row and proudly cheers every victory, great or small, against WBG—a symbol of hope for all die-hard T1 fans.
+Trevor Devall
+Pandart Studio
+World Champions: 2023
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+T1
+. Store variants are discounted for multiple purchases.
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.18
+To the Skies!
+Slow increased to 35 / 40 / 45 / 50 / 55 / 60% from 30 / 35 / 40 / 45 / 50 / 55%.
+Acceleration Gate
+Bonus movement speed increased to 35 / 40 / 45 / 50 / 55 / 60% from 30 / 35 / 40 / 45 / 50 / 55%.
+V14.14
+Shock Blast
+Base damage increased to 60 / 115 / 170 / 225 / 280 / 335 from 55 / 110 / 165 / 220 / 275 / 330.
+Bonus AD ratio increased to
+125%
+bonus
+AD
+from
+120%
+.
+Thundering Blow
+Bug Fix:
+Now always turns him to face its target upon using the ability.
+V14.9
+Stats
+Selection radius increased to 120 units from 75.
+V14.4
+Stats
+Base attack damage increased to 59 from 57.
+Lightning Field
+Mana restoration increased to 15 / 17 / 19 / 21 / 23 / 25 from 10 / 12 / 14 / 16 / 18 / 20.
+Base damage per tick increased to 40 / 55 / 70 / 85 / 100 / 115 from 35 / 50 / 65 / 80 / 95 / 110.
+Total base damage increased to 160 / 220 / 280 / 340 / 400 / 460 from 140 / 200 / 260 / 320 / 380 / 440.
+Thundering Blow
+New Effect:
+Now
+roots
+the target during the cast time.
+V14.2
+Thundering Blow
+Knock back distance increased to 600 units from 500.
+Removed:
+No longer has a fixed displacement location for the target.
+V13.18
+General
+Updated ability icons.
+V13.1
+Stats
+Base attack damage increased to 57 from 54.
+To the Skies!
+Base damage increased to 60 / 110 / 160 / 210 / 260 / 310 from 55 / 100 / 145 / 190 / 235 / 280.
+Lightning Field
+Base damage per tick increased to 35 / 50 / 65 / 80 / 95 / 110 from 25 / 40 / 55 / 70 / 85 / 100.
+Total base damage increased to 140 / 200 / 260 / 320 / 380 / 440 from 100 / 160 / 220 / 280 / 340 / 400.
+V12.20
+Lightning Field
+Mana restore increased to 10 / 12 / 14 / 16 / 18 / 20 from 6 / 8 / 10 / 12 / 14 / 16.
+Transform Mercury Hammer
+New Effect:
+Bonus resistances now scale with
+7.
+5
+%
+bonus
+AD
+.
+V12.16
+To the Skies!
+Base damage increased to 55 / 100 / 145 / 190 / 235 / 280 from 55 / 95 / 135 / 175 / 215 / 255.
+Thundering Blow
+Base damage increased to
+8 / 10.
+8
+/ 13.
+6
+/ 16.
+4
+/ 19.
+2
+/ 22% of target's
+maximum
+health
+from
+8 / 10.
+4
+/ 12.
+8
+/ 15.
+2
+/ 17.
+6
+/ 20%
+.
+V12.10
+Stats
+Base health increased to 590 from 520.
+Health growth increased to 109 from 95.
+Armor growth increased to 5 from 3.
+8
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V12.7
+Stats
+Base health reduced to 520 from 560.
+Base armor reduced to 22 from 27.
+Health growth increased to 95 from 90.
+Armor growth increased to 3.
+8
+from 3.
+5
+.
+V11.22
+General
+Updated sound and visual effects.
+Base
+Jayce's
+voice lines have been remastered for clarity and quality.
+Basic attack missiles and hits are now unique between ranged and melee stances. Added new critical hit VFX.
+New
+Recall
+SFX.
+Hextech Capacitor
+Modernized visuals for reduced noise and clarity.
+To the Skies!
+Modernized visuals. Added clarity to match AoE size.
+Shock Blast
+New projectiles and explosions. Added burst when projectile supercharges.
+Lightning Field
+Modernized visuals with better defined AoE edge. Reduced noise to match damage level.
+Hyper Charge
+Removed noise.
+Thundering Blow
+Modernized visuals; added directionality on knockback
+Acceleration Gate
+Modernized visuals.
+V11.18
+Hextech Capacitor
+Bonus movement speed and ghosting duration reduced to 0.
+75
+seconds from 1.
+25
+.
+V11.9
+Hyper Charge
+Bug Fix:
+Fixed bug where it would not update his attack speed correctly.
+V11.8
+Transform Mercury Cannon
+Bug Fix:
+Kraken Slayer's
+Bring it Down now properly triggers in ranged form's basic attacks.
+Acceleration Gate
+Undocumented:
+Rescripted.
+Shock Blast
+no longer searches for allied minions to find the effect area.
+V11.5
+- March 8th Hotfix
+Acceleration Gate
+Bug Fix:
+Fixed a bug where he would gain 2
+Muramanas
+if he upgraded
+Manamune
+while casting
+Acceleration Gate
+on an ally.
+V10.4
+Stats
+Base mana increased to 375 from 357.
+2
+.
+Mana growth increased to 45 from 37.
+To the Skies!
+Base damage increased to 55 / 95 / 135 / 175 / 215 / 255 from 45 / 80 / 115 / 150 / 185 / 220.
+V10.3
+General
+Undocumented:
+No longer swaps out
+Ultimate Hunter
+with
+Relentless Hunter
+.
+Transform Mercury Cannon
+/
+Transform Mercury Hammer
+Bug Fix:
+Cooldown now properly reduces by 10% when he has the
+Cloudbringer's Grace
+buff.
+V10.2
+General
+Undocumented:
+Now swaps out
+Ultimate Hunter
+with
+Relentless Hunter
+.
+V10.1
+Shock Blast
+Base damage increased to 55 / 110 / 165 / 220 / 275 / 330 from 55 / 105 / 155 / 205 / 255 / 305.
+V9.18
+Acceleration Gate
+Bug Fix:
+Now properly functions when cast on top of him.
+V9.15
+Acceleration Gate
+Bug Fix:
+No longer causes small hitches to characters on or sometimes off-screen when cast.
+V9.14
+Stats
+Base attack damage reduced to 54 from 58.
+Attack damage growth increased to 4.
+25
+from 3.
+5
+.
+Shock Blast
+Base damage changed to 55 / 105 / 155 / 205 / 255 / 305 from 70 / 115 / 160 / 205 / 250 / 295.
+Bonus AD ratio increased to
+120%
+bonus
+AD
+from
+100%
+.
+V9.11
+Shock Blast
+Base damage reduced to 70 / 115 / 160 / 205 / 250 / 295 from 70 / 120 / 170 / 220 / 270 / 320.
+Bonus AD ratio reduced to
+100%
+bonus
+AD
+from
+120%
+.
+V9.8
+To the Skies!
+Bug Fix:
+Range/cast indicator now appears correctly.
+Thundering Blow
+Bug Fix:
+Range/cast indicator now appears correctly.
+V9.6
+Stats
+Base health reduced to 560 from 576.
+Health growth reduced to 90 from 95.
+Base health regeneration reduced to 6 from 7.
+5
+.
+Health regeneration growth reduced to 0.
+6
+from 0.
+8
+.
+Lightning Field
+New Effect:
+Now triggers effects that are triggered by DoT AoE abilities.
+V9.2
+General
+Bug Fix:
+Ranged basic attack animation has been fixed to synchronize with the attack's actual wind-up and launch.
+V9.1
+Acceleration Gate
+New Effect:
+If
+Jayce
+casts
+Acceleration Gate
+during
+Shock Blast's
+cast time, he'll now ignore movement commands until both abilities have been cast.
+V8.24
+General
+Bug Fix:
+Fixed a bug causing the audio on his basic attacks to sometimes be missing.
+V8.3
+Stats
+Base health regeneration increased to 7.
+5
+from 7.
+344
+.
+V8.2
+To the Skies!
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+Thundering Blow
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+Bug Fix:
+No longer disables
+Flash
+and
+Hexflash
+when used on a champion with
+Hextech Flashtraption
+shortly after they have flashed.
+V7.24b
+Shock Blast
+Base damage reduced to 70 / 120 / 170 / 220 / 270 / 320 from 80 / 130 / 180 / 230 / 280 / 330.
+Thundering Blow
+Cooldown increased to 20 / 18 / 16 / 14 / 12 / 10 seconds from 15 / 14 / 13 / 12 / 11 / 10.
+V7.23
+Full Metal Jayce
+Thundering Blow
+Bug Fix:
+Once again uses proper VFX, as opposed to classic.
+V7.22
+Stats
+Base attack damage increased to 58 from 50.
+78
+.
+Base armor increased to 27 from 22.
+38
+.
+Base health increased to 576 from 571.
+2
+.
+Health growth increased to 95 from 90.
+To the Skies!
+Base damage increased to 45 / 80 / 115 / 150 / 185 / 220 from 35 / 70 / 105 / 140 / 175 / 210.
+Shock Blast
+Base damage increased to 80 / 130 / 180 / 230 / 280 / 330 from 70 / 120 / 170 / 220 / 270 / 320.
+Transform Mercury Hammer
+Bonus damage increased to
+25 / 65 / 105 / 145 (based on level)
+from
+20 / 60 / 100 / 140 (based on level)
+.
+V7.16
+Transform Mercury Cannon
+/
+Transform Mercury Hammer
+Removed:
+On-hit effects procing against wards.
+V7.15
+Full Metal Jayce
+Hyper Charge
+Bug Fix:
+Custom VFX have been restored.
+V7.12
+Forsaken Jayce
+Bug Fix:
+Fixed a bug where his recall audio desynced from the animation when enemies lost and then regained vision of him during the channel.
+Jayce Brighthammer
+Acceleration Gate
+Bug Fix:
+Now correctly plays the electric buzz SFX for the spawning and despawning of his
+Acceleration Gate
+.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.3
+To the Skies!
+Base damage reduced to 35 / 70 / 105 / 140 / 175 / 210 from 40 / 80 / 120 / 160 / 200 / 240.
+Thundering Blow
+Mana cost increased to 55 from 40.
+Transform Mercury Hammer
+AD ratio reduced to
+25%
+bonus
+AD
+from
+40%
+bonus
+AD
+.
+V6.22
+General
+Changed Jayce walking animation while in Hammer stance.
+V6.17
+Thundering Blow
+Mana cost reduced to 40 at all ranks from 40 / 50 / 60 / 70 / 80 / 90.
+Transform Mercury Cannon
+/
+Transform Mercury Hammer
+Hammer Stance
+bonus damage ratio changed to
+40% bonus AD
+from
+40% AP
+.
+Bug Fix:
+Fixed a bug where
+Jayce
+could be locked out of basic attacking for a short duration upon swapping to
+Mercury Hammer
+.
+V6.6
+To the Skies!
+Mana cost reduced to 40 at all ranks from 40 / 45 / 50 / 55 / 60 / 65.
+Base damage increased to 40 / 80 / 120 / 160 / 200 / 240 from 30 / 70 / 110 / 150 / 190 / 230.
+AD ratio increased to
+120% bonus AD
+from
+100% bonus AD
+.
+V6.1
+Transform Mercury Hammer
+Bug Fix:
+Bonus magic damage upon transforming was being consumed against structures without dealing damage if
+Hyper Charge
+was active.
+V5.22
+Stats
+Base mana increased to 357.
+2
+from 307.
+2
+.
+Mana growth reduced to 37 from 40.
+V5.13
+Transform Mercury Cannon
+/
+Transform Mercury Hammer
+Bug Fix:
+Fixed a bug where the ability was improving at levels 5 / 10 / 15 instead of the intended 6 / 11 / 16.
+V5.11
+General
+Removed:
+Transform Mercury Cannon
+/
+Transform Mercury Hammer
+ranks.
+New Effect:
+Transform Mercury Cannon
+/
+Transform Mercury Hammer
+automatically 'rank up' at levels 6 / 11 / 16.
+'Rank up' values unchanged.
+New Effect:
+Each of Jayce's basic abilities have 6 ranks.
+To the Skies!
+Base damage changed to 30 / 70 / 110 / 150 / 190 / 230 from 20 / 65 / 110 / 155 / 200.
+Lightning Field
+Base damage changed to 100 / 160 / 220 / 280 / 340 / 400 from 100 / 170 / 240 / 310 / 380.
+Thundering Blow
+Base damage changed to
+8 / 10.
+4
+/ 12.
+8
+/ 15.
+2
+/ 17.
+6
+/ 20% of target's maximum health
+from 8 / 11 / 14 / 17 / 20.
+Cooldown changed to 15 / 14 / 13 / 12 / 11 / 10 seconds from 14 / 13 / 12 / 11 / 10.
+Shock Blast
+Base damage changed to 70 / 120 / 170 / 220 / 270 / 320 from 60 / 115 / 170 / 225 / 280.
+Hyper Charge
+Damage modifier changed to 70 / 78 / 86 / 94 / 102 / 110% from 70 / 80 / 90 / 100 / 110.
+Cooldown changed to 13 / 11.
+4
+/ 9.
+8
+/ 8.
+2
+/ 6.
+6
+/ 4 seconds from 13 / 11 / 9 / 7 / 5.
+V5.1
+Hyper Charge
+Damage modifier reduced to 70 / 80 / 90 / 100 / 110% from 70 / 85 / 100 / 115 / 130%.
+V4.21
+Hyper Charge
+Cooldown reduced to 13 / 11 / 9 / 7 / 5 seconds from 14 / 12 / 10 / 8 / 6.
+Cooldown now begins after the attacks have been used, rather than on activation.
+V4.5
+Stats
+Base armor increased to 16.
+5
+from 12.
+5
+.
+V3.9
+General
+Switching stances no longer counts as an activation for the purposes of item effects (
+Mana Charge
+,
+Spellblade
+).
+Shock Blast
+Base projectile speed increased to 1450 from 1350.
+Accelerated
+projectile speed unchanged
+Acceleration Gate
+Cooldown increased to 16 seconds at all ranks from 14 / 13 / 12 / 11 / 10.
+V1.0.0.152
+Stats
+Movement speed increased to 335 from 310.
+V1.0.0.150
+Thundering Blow
+Removed:
+Base damage.
+Bug Fix:
+Stun no longer lasts beyond the knockback duration.
+Acceleration Gate
+Mana cost increased to 50 from 30.
+V1.0.0.147b
+Thundering Blow
+Mana cost increased to 40 / 50 / 60 / 70 / 80 from 40 at all ranks.
+V1.0.0.145
+General
+Improved responsivenesss of basic attacks, primarily during Hammer stance.
+Bug Fix:
+First basic attack in Cannon stance being unresponsive.
+V1.0.0.142
+added
+Hextech Capacitor
+(Innate)
+Jayce gains a quick burst of movement speed and ignores unit collision each time Transform is cast.
+Hammer Stance
+To the Skies!
+(Q)
+Jayce leaps to an enemy dealing physical damage and slowing enemies.
+Lightning Field
+(W)
+Passive:
+Jayce restores mana each time he strikes with the Mercury Hammer.
+Active:
+Jayce creates a field of lightning damaging nearby enemies for several seconds.
+Thundering Blow
+(E)
+Jayce deals magic damage to an enemy based on their maximum health and knocks them back a short distance.
+Transform: Mercury Cannon
+(Ultimate)
+Transforms the Mercury Hammer into the Mercury Cannon gaining new abilities and increased range. The first attack in this form reduces the target's armor and magic resist.
+Cannon Stance
+Shock Blast
+(Q)
+Jayce fires an orb of electricity that detonates upon hitting an enemy (or reaching the end of its path) dealing physical damage to all enemies in the area of the explosion.
+Hyper Charge
+(W)
+Jayce gains a burst of energy, increasing attack speed to maximum for 3 attacks.
+Acceleration Gate
+(E)
+Jayce deploys an Acceleration Gate increasing the movement speed of all allies who pass through it. If Shock Blast is fired through the gate the missile speed, range, and damage will increase.
+Transform: Mercury Hammer
+(Ultimate)
+Transforms the Mercury Cannon into the Mercury Hammer gaining new abilities and increasing armor and magic resist. The first attack in this form deals additional magic damage.
+Trivia
+[
+edit
+|
+edit source
+]
+Jayce,
+Elise
+,
+Gnar
+,
+Nidalee
+, and
+Kayle
+are the only champions to be conditionally considered both
+ranged
+and
+melee
+.
+Jayce was the 100th released champion.
+Jayce's release marks...
+The first champion to have access to eight abilities (
+Transform Mercury Cannon
+and
+Transform Mercury Hammer
+counted separately).
+The third champion to have a dedicated
+Recall
+animation on release, the previous ones being
+Darius
+and
+Draven
+.
+The third champion able to start the game with an unlocked Ultimate ability, the previous ones being
+Udyr
+,
+Nidalee
+, and
+Karma
+.
+The fourth champion to have access to all four abilites at Level 1, the other ones being
+Elise
+,
+Karma
+,
+Nidalee
+, and
+Udyr
+.
+Jayce's dance references
+U Can't Touch This
+by
+MC Hammer
+.
+A side-by-side comparison can be seen
+here
+.
+He shares this dance with
+Malzahar
+(specifically his
+Voidlings'
+part).
+Coincidentally, 'Mercury
+Cannon
+/
+Hammer
+' can be shortened to 'MC Hammer'.
+Jayce's title,
+"the Defender of Tomorrow"
+, likely references
+Superman: The Man of Tomorrow
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Artillery
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Artillery Mages
+are the masters of range, and they leverage that advantage to whittle down their opponents over time from great distances. In turn, Artillery Mages are severely punished when enemies finally succeed in closing in on them, due to their extreme fragility and limited mobility.
+Examples
+Jayce
+Xerath
+Ziggs
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Transform Mercury Hammer
+COOLDOWN:
+6
+Active:
+Jayce
+transforms into
+Hammer Stance
+, becoming
+melee
+and gaining new abilities.
+His next basic attack will deal
+bonus
+magic damage
+.
+Jayce
+begins the game with
+Transform
+but cannot increase its rank. Instead, his basic abilities each have 6 ranks.
+League of Legends content
+Transform Mercury Cannon
+COOLDOWN:
+6
+Active:
+Jayce
+transforms into
+Cannon Stance
+, becoming
+ranged
+with greater
+attack range
+and gaining new abilities.
+His next basic attack will reduce the target's
+armor
+and
+magic resist
+for a few seconds.
+Jayce
+begins the game with
+Transform
+but cannot increase its rank. Instead, his basic abilities each have 6 ranks.
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Lightning Field
+COOLDOWN:
+10
+Passive:
+Jayce's
+basic attacks restore
+mana
+.
+Active:
+Jayce
+surrounds himself with an electric field for a few seconds, continually dealing
+magic damage
+to nearby enemies.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Shock Blast
+COOLDOWN:
+8
+Active:
+Jayce
+fires an electric bolt in the target direction that detonates upon hitting an enemy or max range, dealing
+physical damage
+to nearby enemies.
+If the bolt passes through
+Acceleration Gate
+, it supercharges: instantly increasing its speed, travel distance and detonation.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Persistent area damage
+Persistent area damage
+is technically not a separate type of damage, but rather a hybrid classification that is applied to some spells.
+In situations where
+persistent damage
+and
+area damage
+would have conflicting outputs, the conflict is resolved by choosing the weakest possible outcome.
+Physical vamp
+and
+Spell vamp
+(where applicable) heals with one-third effectiveness, as with
+area damage
+.
+Arcane Comet's
+cooldown is reduced by 5%, as with
+persistent damage
+, per target affected.
+Counter Strike
+reduces the damage dealt by 25%, as with
+area damage
+.
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Hyper Charge
+COOLDOWN:
+13 / 11.
+4
+/ 9.
+8
+/ 8.
+2
+/ 6.
+6
+/ 5
+Active:
+Jayce
+gains a massive burst of
+bonus
+attack speed
+on his next few basic attacks, each one dealing
+modified
+physical damage
+.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Root
+A unit that is
+rooted
+is unable to control its movement or activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Rooted
+units can still be displaced.
+Root
+is an
+immobilizing
+effect
+.
+Moving
+includes movement commands.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Jayce's profile page
+at
+LeagueOfLegends.com

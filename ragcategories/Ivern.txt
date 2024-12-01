@@ -1,0 +1,2937 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Ivern
+the Green Father
+Release date
+2016-10-05
+Last changed
+V14.18
+Class(es)
+Catcher
+Legacy
+Support
+Mage
+Position(s)
+Jungle
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+1
+Toughness
+1
+Control
+3
+Mobility
+2
+Utility
+3
+Style
+Difficulty
+Ivern
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Ivern
+Base statistics
+Edit
+Health
+630
++99
+Mana
+450
++60
+Health regen. (per 5s)
+7
++0.85
+Mana regen. (per 5s)
+6
++0.75
+Armor
+27
++4.7
+Attack damage
+50
++3
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+475
+Attack speed
+Base AS
+0.644
+Attack windup
+20%
+AS ratio
+N/A
+Bonus AS
++3.4
+%
+Unit radius
+Gameplay radius
+70
+Selection radius
+140
+Pathing radius
+40
+Acq. radius
+750
+Special statistics
+Damage Dealt
+-5%
+Damage Received
++0%
+Shielding
+-20%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++10%
+Damage Received
+-7%
+Shielding
++20%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
+-5%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Friend of the Forest
+Innate:
+Ivern
+cannot attack nor damage non-epic
+monsters
+. When he targets a jungle camp, he
+plants
+a magical
+grove
+under it at the cost of
+health
+and
+mana
+. The
+grove
+charges up over time to fully mature, upon which
+Ivern
+can then target the monsters to instantly clear the camp. Using
+Smite
+on a monster in the
+grove
+will clear the camp regardless of maturity.
+Innate:
+Ivern
+cannot attack nor damage non-epic
+monsters
+. Instead, targeting a jungle camp initiates a 2.
+5
+second
+channel
+that will plant a
+grove
+upon the camp. Placing a
+grove
+costs
+94.
+5
+− 0.
+14
+(based on level)
+health
+and
+90 − 0.
+37
+(based on level)
+mana
+. The channel cannot be cancelled in the first 0.
+15
+seconds and in the last 0.
+5
+seconds.
+Ivern
+cannot place a grove while he is unable to cast abilities.
+The
+grove
+matures over
+40 − 1 (based on level)
+seconds. When fully matured,
+Ivern
+can target the camp again to
+free
+it after a 0.
+5
+-second
+cast time
+, clearing the camp and receiving the
+full gold
+and
+full experience
+bounties
+. Using
+Smite
+on a monster within the
+grove
+will instantly
+free
+the camp regardless of maturity.
+If the camp's large monster has already been slain prior to planting a
+grove
+,
+Ivern
+will
+free
+the camp upon completing the channel at no cost. Similarly, the
+grove
+will instantly mature if the large monster is slain.
+Info
+Targeting input
+Unit
+Counters
+Disruption
+Interrupted
+Freeing a
+Krugs
+camp will only give the
+gold
+and
+experience
+of 1
+Ancient Krug
+, 2
+Krugs
+, and 3
+Mini Krugs
+, for a total of
+95 − 128.
+25
+(based on monster's level)
+experience
+and
+85
+.
+The entire
+Krugs
+camp is usually a total of 1
+Ancient Krug
+, 3
+Krugs
+, and 6
+Mini Krugs
+, for a total of
+153 − 206.
+55
+(based on monster's level)
+and
+131
+.
+Ivern
+must be within
+275 units of the
+large monster
+of the targeted camp to start channeling or collect a
+grove
+. The large monsters also must be
+visible
+.
+If
+Ivern
+cannot afford the cost to place a grove,
+Friend of the Forest
+is placed on a cooldown equal to the number of seconds it takes for his
+health regeneration
+and/or
+mana regeneration
+to restore him to the amount of health and/or mana needed to afford the cost.
+The cooldown will update based on
+Ivern's
+current
+health and mana regeneration, as well as his
+current
+health and mana.
+Friend of the Forest
+can be used while
+Ivern
+or the camp is in combat and, once the
+grove
+is placed,
+Smite
+can be used to instantly claim the camp.
+Interrupting
+Ivern's
+channel is the only way to contest jungle camps, short of killing the camp during the channel time.
+Saplings
+cannot be gathered by allied champions in a
+zombie state
+nor allied
+clones
+.
+Saplings
+can be gathered while
+untargetable
+.
+Allied
+clones
+killing buff monsters will also cause a
+sapling
+to be spawned.
+Freeing a
+grove
+causes the monsters within the camp to be dealt
+5000 true damage
+in the
+internalraw damage
+source type by
+Ivern
+, despite his inability to damage them.
+Friend of the Forest
+will leave
+Ivern
+at
+1 health
+if cast with exactly the required amount.
+Friend of the Forest
+cannot be cast with less, unlike other abilities with health costs.
+The following table refers for interactions while
+Ivern
+is
+channeling
+:
+Ivern
+is unable to act during the first 0.
+15
+and last 0.
+5
+seconds of the channel.
+Type
+Channel
+Attacking
+Interrupts
+Abilities
+Interrupts
+Movement
+Interrupts
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+Hextech Rocketbelt
+Interrupted by
+All item-actives not specified above interrupt
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+N/A
+Interrupted by
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+Damaging effects
+Death
+Cast-inhibiting effects
+Map-Specific Differences
+Nexus Blitz
+differences
+edit
+Alternate Innate -
+Enemy of the Forest:
+It's time for
+Ivern's
+revenge.
+Ivern
+can damage monsters, and they can damage him. Source: Ivern the Cruel.
+Video
+File:Ivern - Passive
+Edit
+Rootcaller
+COST:
+60 Mana
+COOLDOWN
+:
+14 / 13 / 12 / 11 / 10
+CAST TIME:
+0.
+25
+TARGET RANGE:
+1150 /
+0
+/
+475
+/
+Attack range
+WIDTH:
+160
+SPEED:
+1300
+Active:
+Ivern
+throws a vine in the target direction that deals
+magic damage
+and
+roots
+the first enemy hit. While the target is rooted,
+Ivern
+can recast
+Rootcaller
+. He and his allies can select the target to
+dash
+closer to the location.
+Recast:
+Ivern
+dashes
+to the target.
+Active:
+Ivern
+throws a vine in the target direction, dealing
+magic damage
+to the first enemy hit and
+rooting
+them for a duration, during which they are also
+revealed
+.
+Rootcaller
+can be recast while the target is
+rooted
+.
+Magic Damage:
+80 / 125 / 170 / 215 / 260
+(+ 70% AP)
+Root Duration:
+1.
+2
+/ 1.
+4
+/ 1.
+6
+/ 1.
+8
+/ 2 seconds
+Ivern
+and allied champions can select the target
+rooted
+by
+Rootcaller
+to
+dash
+to their location, stopping at
+their attack range
+.
+Recast:
+Ivern
+dashes
+to the rooted target.
+Hitting a non-epic monster reduces
+Rootcaller's
+cooldown
+by 50%.
+Info
+Targeting input
+Direction
+/
+Auto
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Grounded
+See Notes
+Knockdown
+Interrupted
+This ability will cast from wherever the caster is at the start of the cast time.
+Daisy
+dashes to rooted minions.
+Rootcaller
+will hit
+monsters
+but does not deal damage to them unless they were an epic monster.
+Ivern's
+pull/attack range is determined when he dashes to the target - not from when he initially casts
+Rootcaller
+and throws the vine.
+Ivern
+is not able to dash to the target unless they are within approximately 1200 range.
+PENDING FOR TEST:
+: This also counts for allies.
+Rootcaller
+cannot be used
+to
+dash
+while
+grounded
+or
+rooted
+. This applies to
+Ivern
+and his allies.
+Rootcaller's
+dash does not follow targets, their position at the time of starting the dash is the location
+Ivern
+and his allies will stop from.
+Ivern
+and his teammates cannot dash to a target if the root was not applied to them.
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 14 / 13 / 12 / 11 / 10 seconds.
+Video
+File:Ivern - Q
+Edit
+Brushmaker
+COST:
+30 Mana
+CAST TIME:
+0.
+25
+STATIC COOLDOWN
+:
+0.
+5
+RECHARGE:
+20
+TARGET RANGE:
+1000
+Passive:
+While
+Ivern
+is in
+brush
+, his basic attacks deal
+bonus
+magic damage
+.
+Active:
+Ivern
+grows a patch of
+brush
+at the target location. More brush will be created if grown near
+terrain
+or other brush.
+Passive:
+While
+Ivern
+is in
+brush
+, his basic attacks are empowered to deal
+bonus
+magic damage
+on-hit
+. This bonus persists for 3 seconds after leaving brush.
+Bonus Magic Damage:
+20 / 27.
+5
+/ 35 / 42.
+5
+/ 50
+(+ 20% AP)
+Active:
+Ivern
+grows a patch of
+brush
+at the target location for 45 seconds, granting
+sight
+of the area within and around it for 8 seconds. Brushes despawn instantly after allied
+vision
+of them is lost. Spawning brush near
+terrain
+or other brush increases its radius.
+While allied champions are in any
+brush
+when
+Ivern
+is in range, their basic attacks are empowered to deal
+bonus
+magic damage
+on-hit
+. This bonus persists for 1.
+5
+seconds after leaving brush.
+Ally Bonus Magic Damage:
+10 / 15 / 20 / 25 / 30
+(+ 10% of
+Ivern's
+AP)
+Ivern
+periodically
+stocks
+a
+Brushmaker
+charge, up to a maximum of 3.
+Info
+Targeting input
+Location
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Not Blocked
+Parries
+See Notes
+A
+brush
+will be immediately
+exposed
+if grown within the
+sight
+of an enemy
+turret
+.
+The bonus damage does not apply to structures.
+The bonus damage can be
+blocked
+or
+dodged
+.
+PENDING FOR TEST:
+: Passive's interactions with
+blinding
+effects.
+The empowerment given to allies respects
+enchantment redirection
+.
+Tips & Tricks
+Since enemy
+control wards
+require line of sight to disable your wards, placing a
+Brush
+on the disabled ward can re-enable them for the lifetime of the brush.
+Video
+File:Ivern - W
+Edit
+Triggerseed
+COST:
+70 Mana
+COOLDOWN:
+11 / 10 / 9 / 8 / 7
+CAST TIME:
+none
+TARGET RANGE:
+750
+EFFECT RADIUS:
+500
+Active:
+Ivern
+can target an ally champion,
+Daisy
+, or himself to
+shield
+them for a short time. The target then explodes to deal
+magic damage
+and
+slow
+nearby enemies.
+Active:
+Ivern
+places a seed on the target allied champion,
+Daisy
+, or himself, granting the target a
+shield
+for 2 seconds.
+Shield Strength:
+75 / 115 / 155 / 195 / 235
+(+ 50% AP)
+After 2 seconds, the seed explodes to deal
+magic damage
+to nearby enemies and
+slow
+them for 2 seconds.
+Magic Damage:
+70 / 90 / 110 / 130 / 150
+(+ 80% AP)
+Slow:
+40 / 45 / 50 / 55 / 60%
+If the seed does not damage an enemy champion and the shield persists by the end of the duration, the shield is reapplied for the same strength and duration without the explosion effect.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+The explosion occurs regardless of whether the shield is maintained.
+The damage of
+Triggerseed
+is attributed to the champion the shield was cast on.
+If cast on
+Daisy
+, the damage is attributed to
+Ivern
+.
+The
+slow
+debuff is always attributed to
+Ivern
+.
+Therefore, placing
+Triggerseed
+on allied champions:
+grants them credit for all
+kills
+on enemy units that it causes.
+triggers turret aggro on them if it deals damage to an enemy champion.
+triggers their spell effects instead of
+Ivern's
+.
+benefits from their
+magic penetration
+stat.
+Ivern's
+player can appreciate the damage
+Triggerseed
+from an ally deals via a yellow damage number intended to reflect the damage dealt.
+This yellow damage number wrongfully uses
+Ivern's
+magic penetration
+stat to calculate the expected damage dealt, instead of reflecting the actual damage dealt.
+Map-Specific Differences
+Nexus Blitz
+differences
+edit
+Detonation damages jungle monsters when cast on himself or
+Daisy
+.
+Arena
+differences
+edit
+Base shield changed to 80 / 115 / 150 / 185 / 220.
+Shield AP ratio changed to
+45% AP
+.
+Base damage changed to 70 / 90 / 110 / 130 / 150.
+Damage AP ratio changed to
+80% AP
+.
+Slow strength changed to 40 / 45 / 50 / 55 / 60%.
+Video
+File:Ivern - E
+Edit
+Daisy!
+COST:
+100 Mana
+COOLDOWN
+:
+140 / 130 / 120
+CAST TIME:
+0.
+5
+Active:
+Ivern
+summons his Sentinel friend
+Daisy
+to fight with him.
+Daisy!
+can be recast any number of times while
+Daisy
+is alive. The recast cannot be
+interrupted
+.
+Recast:
+Daisy
+is commanded to move to the target location. If recast on
+Ivern
+, she will follow him.
+Daisy Smash!:
+Whenever
+Daisy
+attacks the same champion three times in a row, she will send a shockwave that
+knocks up
+enemies hit within a line.
+Active:
+Ivern
+summons his sentinel friend
+Daisy
+to his side, who lands 350 units away from him in the target direction and remains on the field for up to 45 seconds as a controllable
+pet
+.
+Daisy!
+can be recast at any time while
+Daisy
+is alive.
+Recast:
+Ivern
+commands
+Daisy
+to move to the target location. If cast on
+Ivern
+,
+Daisy
+will follow him.
+The recast of Daisy! can be used while affected by
+cast-inhibiting crowd control
+. See
+Pets
+for more details about
+Daisy
+.
+Daisy!
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Daisy
+, when the ability is initially cast, is
+untargetable
+until she lands.
+Video
+File:Ivern - R
+Pets
+[
+edit
+|
+edit source
+]
+Daisy
+Bounty
+Gold
+50
+Exp
+0
+Statistics
+Leash range
+2500
+Health
+1000 − 4400 (based on level)
+(+ 50% AP)
+Attack damage
+70 / 100 / 130
+(+ 15% AP)
+Attack speed
+0.
+75
+(+ 30 / 45 / 60%)
+Range
+175
+Armor
+30 − 90 (based on level)
+Magic resist
+30 − 90 (based on level)
+Move speed
+430
+Control type
+R
+or
+Alt + Right Click
+Target type
+Minion
+On-hit effects
+Daisy's
+attacks are mitigated by
+block
+,
+dodge
+, and
+blind
+, as well as stopped by
+Disarm
+.
+Spell effects
+Daisy's
+basic attacks apply
+spell effects
+as
+area damage
+.
+Abilities
+AoE/Epic Monster Damage Reduction
+Daisy
+takes 25%
+reduced damage
+from
+area of effects
+and epic monsters.
+Spawn Haste
+Daisy
+gains
+40%
+bonus
+movement speed
+for the first 5 seconds after spawning. Additionally, she takes 25% reduced damage from all sources.
+(bug)
+Natural Recovery
+Daisy
+passively restores
+2.
+5
+health
+per second.
+Target Acquisition
+Daisy
+will automatically attack the nearest enemy within
+Ivern's
+leash range. This is negated while she is fulfilling a move command or following
+Ivern
+.
+Friend of the Forest
+Daisy
+cannot attack
+non-epic monsters
+.
+Daisy Smash!
+Daisy's
+basic attacks apply stacks of
+Daisy Smash!
+, resetting whenever she attacks a new target. Against a target with 2 stacks,
+Daisy's
+next basic attack gains
+50
+bonus
+attack range
+and is empowered to charge up for
+0.
+625
+seconds to send a shockwave in a line (
+800 range,
+200 width) toward the target that deals
+90 / 140 / 190
+(+ 50% AP)
+magic damage
+to enemies hit and
+stuns
+and
+knocks them up
+up for 1 second.
+Daisy Smash!
+cannot occur again for 3 seconds.
+Displacement immunity
+will also resist the application of the
+stun
+.
+Rootcaller
+Daisy
+prioritizes enemy champions and monsters
+rooted
+by
+Rootcaller
+and benefits from the ability's dash.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Ivern (Collection)
+.
+Original
+View in 3D
+975
+04.10.2016
+Ivern Bramblefoot, known to many as the Green Father, is a peculiar half man, half tree who roams Runeterra’s forests, cultivating life everywhere he goes. He knows the secrets of the natural world, and holds deep friendships with all things that grow, fly, and scuttle. Ivern wanders the wilderness, imparting strange wisdom to any he meets, enriching the forests, and occasionally entrusting loose-lipped butterflies with his secrets.
+David Lodge
+Evan 'Somnicidal' Monteiro
+Loot eligible
+Candy King
+View in 3D
+1350
+04.10.2016
+The resplendent ruler of the Candy Kingdom, Ivern is beloved by subjects far and wide. Yet there are those who have seen the monster lurking beneath his jolly frame—and his gnawing hunger for candy flesh that can never be satisfied.
+David Lodge
+Christian Fell
+Sugar Rush
+Loot eligible
+Voice filter
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+Dunkmaster
+View in 3D
+1350
+04.04.2019
+Daisy and Ivern first started as a basketball doubles pair on the mean streets of Kumungu jungle—but then a chance encounter with then-NBA commissioner John Brambleback pushed them both into the national spotlight. They've been tearing up the court on the professional circuit ever since.
+David Lodge
+Viktor Titov, Grafit Studio
+Dunkmaster
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dunkmaster Ivern Chromas
+Amethyst
+Aquamarine
+Catseye
+Obsidian
+Pearl
+Peridot
+Rose Quartz
+Ruby
+Old God
+View in 3D
+1350
+10.12.2020
+A nightmarish totem forged of witchcraft and forbidden incantations, Ivern stood among the Old Gods in the days before their destruction. Left inert for hundreds of years, he has risen along with his brethren to annihilate the paltry works of man.
+David Lodge
+Xuning Cui, Kudos Productions
+Coven
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Old God Ivern Chromas
+Citrine
+Emberwood
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Astronaut
+View in 3D
+1350
+24.02.2023
+Ivern's nurturing nature created a safe haven for the meeps under his care. However, an explosion caused by Xerath destroyed his ship and left him aimlessly floating in space. After a chance encounter with Fizz, who saved him by accidentally crashing into him, Ivern joined their ranks to search for any wanderers in need of his protection.
+David Lodge
+Roanna Peroz, Kudos Productions
+Astronauts
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Astronaut Ivern Chromas
+Amethyst
+Aquamarine
+Catseye
+Emerald
+Obsidian
+Rose Quartz
+Ruby
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.18
+Triggerseed
+Base shield reduced to 75 / 115 / 155 / 195 / 235 from 85 / 125 / 165 / 205 / 245.
+Slow reduced to 40 / 45 / 50 / 55 / 60% from 45 / 50 / 55 / 60 / 65%.
+V14.5
+Friend of the Forest
+Bug Fix:
+Can now properly free the
+Rift Scuttler
+in her Voidborn form after placing a grove on her.
+V14.1
+- January 12th Hotfix
+Friend of the Forest
+Bug Fix:
+Grove channel time no longer gets set to 13 seconds flat after steering
+Rift Herald
+and another condition.
+V13.24
+Stats
+Base health reduced to 630 from 655.
+Triggerseed
+Slow reduced to 45 / 50 / 55 / 60 / 65% from 50 / 55 / 60 / 65 / 70%.
+V13.22
+General
+Restored an alternate basic attack animation that has a 25% chance to play on normal attacks and 100% chance to play on critical strike attacks.
+Stats
+Attack windup reduced to 20% from 23%.
+V13.21
+- October 26th
+Daisy!
+Bug Fix:
+Rift Herald
+no longer ignores Daisy.
+V13.21
+Brushmaker
+Damage now triggers
+Ivern's
+own damage effects but still grants kill credit to the ally applying it.
+Bug Fix:
+Passive effect now properly triggers when attacking epic monsters.
+V13.19
+Triggerseed
+Bug Fix:
+Now properly grants the second shield even if
+Moonstone Renewer
+was activated on the target.
+V13.18
+Friend of the Forest
+Bug Fix:
+Now properly keeps aggro when fighting dragons.
+Note: This documents a change that was hotfixed during
+V13.17
+.
+V13.15
+Stats
+Base magic resistance reduced to 30 from 32.
+Magic resistance growth reduced to 1.
+3
+from 2.
+05
+.
+General
+Bug Fix:
+VFX of some of his abilities now correctly appear.
+Brushmaker
+Ally base damage increased to 10 / 15 / 20 / 25 / 30 from 5 / 7.
+5
+/ 10 / 12.
+5
+/ 15.
+Triggerseed
+Base shield increased to 85 / 125 / 165 / 205 / 245 from 80 / 115 / 150 / 185 / 220.
+Shield AP ratio reduced to
+50% AP
+from
+75% AP
+.
+Bug Fix:
+Slow application now properly triggers effects that interact with slows.
+Daisy!
+Daisy duration reduced to 45 seconds from 60.
+Daisy base health changed to
+1000 − 4400 (based on level)
+from 1300 / 2600 / 3900.
+Daisy base resistances changed to
+30 − 90 (based on level)
+from 20 / 50 / 100.
+Removed:
+Daisy resistances no longer scale with
+5% AP
+.
+Daisy attack AP ratio reduced to
+15% AP
+from
+30% AP
+.
+V13.14
+General
+Bug Fix:
+Several VFX issues have been fixed.
+Brushmaker
+Removed:
+On-hit damage no longer applies against structures.
+Daisy!
+Undocumented/Bug Fix:
+Pet can now consistently be commanded to attack inhibitors and the Nexus via their controller spells or automatic attack priorities.
+V13.13
+Brushmaker
+Self base damage reduced to 20 / 27.
+5
+/ 35 / 42.
+5
+/ 50 from 30 / 37.
+5
+/ 45 / 52.
+5
+/ 60.
+Self AP ratio reduced to
+20% AP
+from
+30% AP
+.
+Daisy!
+Slam base damage reduced to 20 / 40 / 60 from 40 / 60 / 80.
+Daisy base movement speed reduced to 430 from 440.
+V13.12
+Friend of the Forest
+Bug Fix:
+Allies slaying buff monsters no longer leaves behind an additional extra sapling for him to pick up.
+Brushmaker
+Bug Fix:
+No longer allows an allied
+Viego
+to reapply the passive mark of
+Blade of the Ruined King
+when attacking with the hit effect.
+Triggerseed
+Bug Fix:
+Shield is now properly reapplied if no enemies were hit by the ability.
+V13.11
+- Gameplay Update
+Friend of the Forest
+Removed:
+Starting at level 5, freeing the
+Red Brambleback
+or the
+Blue Sentinel
+no longer leaves behind a
+sapling
+for 60 seconds that can be gathered by one allied
+champion
+to gain the camp's respective buff, either the
+Crest of Cinders
+or the
+Crest of Insight
+. If an ally kills either monster, they also leave behind a
+sapling
+that only
+Ivern
+can consume.
+Rootcaller
+Cast range increased to 1150 units from 1100.
+New Effect:
+Recasting now dashes
+Ivern
+to on top of the enemy instead of at attack range.
+New Effect:
+Selecting a rooted target now dashes
+Ivern
+to his actual attack range instead of to 125 units.
+New Effect:
+Daisy
+now dashes to rooted minions.
+New Effect:
+Hitting a non-epic monster reduces its cooldown by 50%.
+Brushmaker
+Recharge time reduced to 20 seconds at all ranks from 40 / 36 / 32 / 28 / 24.
+New Effect:
+Now grants allied champions within the spawned brush 5 / 7.
+5
+/ 10 / 12.
+5
+/ 15
+(+ 10% of
+Ivern's
+AP)
+bonus
+magic damage on-hit on their basic attacks, lingering for 1.
+5
+seconds after leaving the brush.
+Area sight duration increased to 8 seconds from 3.
+Brush duration increased to 45 seconds from 30.
+New Effect:
+Brushes now despawn instantly after allied vision of them is lost.
+New Effect:
+Empowered basic attacks now have a special visual effect to reflect the on-hit damage.
+Undocumented:
+No longer counts as ability damage for
+Manaflow Band
+and
+Scorch
+.
+Triggerseed
+New Effect:
+If the shield does not damage an enemy champion, it is reapplied for the same strength and duration without the damage or slow effect.
+Daisy!
+Daisy base attack range increased to 175 from 125.
+Daisy base movement speed increased to 440 from 420.
+Daisy base attack speed increased to 0.
+75
+from 0.
+7
+.
+Daisy bonus attack speed reduced to 30 / 45 / 60% from 30 / 50 / 70%.
+New Effect:
+Daisy now regenerates 2.
+5
+health per second.
+New Effect:
+Slam now has a base damage of 40 / 60 / 80.
+Various AI improvements.
+Undocumented:
+Daisy's attacks now apply on-hit effects.
+V13.5
+Daisy!
+Bug Fix:
+Now properly despawns after the caster's death.
+V13.4
+General
+Bug Fix:
+Base skin now properly plays multiple voice lines.
+V13.3
+Friend of the Forest
+Bug Fix:
+Non-epic jungle monsters can no longer improperly gain aggro onto and attack him.
+V12.23
+Friend of the Forest
+Bug Fix:
+Smite
+can no longer be improperly cast on unmarked camps.
+V12.22
+- November 17th Hotfix
+Friend of the Forest
+Health cost reduced to
+98.
+25
+− 0.
+14
+(based on level)
+health from
+131 − 70.
+14
+(based on level)
+health.
+Mana cost reduced to
+90 − 0.
+37
+(based on level)
+mana from
+135 − 66.
+15
+(based on level)
+mana.
+Daisy!
+Bug Fix:
+Daisy can no longer take full kill credit from slaying
+Dragon
+, causing her respective team to not gain any credit.
+V12.13
+Daisy!
+Bug Fix:
+Tooltip now displays the correct formula for the Smash attack's damage.
+V12.12
+Friend of the Forest
+Health cost reduced to
+20% − 3% (based on level)
+base
+health
+from
+22.
+5
+% − 5.
+5
+% (based on level)
+.
+Mana cost reduced to
+30% − 4.
+5
+% (based on level)
+base
+mana
+from
+33% − 7.
+5
+% (based on level)
+.
+Triggerseed
+Base shield increased to 80 / 115 / 150 / 185 / 220 from 70 / 100 / 130 / 160 / 190.
+Daisy!
+Daisy base health increased to 1300 / 2600 / 3900 from 1250 / 2500 / 3750.
+Daisy base resistances increased to 20 / 50 / 100 from 15 / 40 / 90.
+V12.10
+Stats
+Base health increased to 655 from 585.
+Health growth increased to 99 from 85.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Triggerseed
+Base shield reduced to 70 / 100 / 130 / 160 / 190 from 80 / 115 / 150 / 185 / 220.
+Shield AP ratio reduced to
+75% AP
+from
+80% AP
+.
+V12.8
+General
+Bug Fix:
+Voice lines that played specific to jungle camps have been restored.
+V12.7
+Daisy!
+Bug Fix:
+Daisy
+no longer behaves improperly when hit by effects that reduce resistances.
+V12.5
+Friend of the Forest
+Undocumented/Bug Fix:
+Jungle buffs gifted to allies now have the proper 120 seconds duration rather than the 90 seconds duration from before the
+V6.24
+change.
+Ivern
+himself already gained the proper buff duration whether he freed the buff monster himself or picked up the gift.
+V11.24
+Friend of the Forest
+New Effect:
+Now frees an additional
+Krug
+and 3
+Mini Krugs
+.
+Experience from
+Krugs
+increased to
+95 − 128.
+25
+(based on monster's level)
+from
+37 − 49.
+95
+(based on monster's level)
+.
+Gold from
+Krugs
+increased to
+85
+from
+39
+.
+V11.16
+Old God Ivern
+Renamed to
+Old God Ivern
+from
+Elderwood Ivern
+.
+V11.14
+Triggerseed
+Base shield increased to 80 / 115 / 150 / 185 / 220 from 80 / 110 / 140 / 170 / 200.
+V11.7
+Triggerseed
+Base damage reduced to 70 / 90 / 110 / 130 / 150 from 70 / 95 / 120 / 145 / 170.
+V11.6
+Daisy!
+Bug Fix:
+Daisy's empowered AoE attack now properly scales on her AD, rather than on the caster's AD.
+V11.3
+Stats
+Health growth reduced to 85 from 95.
+Triggerseed
+Base shield reduced to 80 / 110 / 140 / 170 / 200 from 80 / 115 / 150 / 185 / 220.
+V11.2
+Triggerseed
+Bug Fix:
+Shield AP ratio properly reduced to
+80% AP
+from
+90% AP
+.
+V11.1
+- January 6th Hotfix
+Rootcaller
+Cooldown increased to 14 / 13 / 12 / 11 / 10 seconds from 12 / 11 / 10 / 9 / 8.
+Triggerseed
+Shield AP ratio reduced to
+80% AP
+from
+90% AP
+.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.25
+Rootcaller
+Cooldown reduced to 12 / 11 / 10 / 9 / 8 seconds from 14 / 13 / 12 / 11 / 10.
+Triggerseed
+Cooldown reduced to 11 / 10 / 9 / 8 / 7 seconds from 12 / 11 / 10 / 9 / 8.
+Shield AP ratio increased to
+90% AP
+from
+80% AP
+.
+Daisy!
+Daisy base attack speed increased to 0.
+7
+from 0.
+623
+.
+V10.19
+Triggerseed
+Slow increased to 50 / 55 / 60 / 65 / 70% from 40 / 45 / 50 / 55 / 60%.
+V10.15
+Daisy!
+Bug Fix:
+Daisy now properly triggers
+Manaflow Band
+.
+V10.14
+Brushmaker
+Bug Fix:
+Brushes spawned behind thin walls are no longer partially invisible from the enemy's point of view.
+V10.7
+Triggerseed
+Base damage increased to 70 / 95 / 120 / 145 / 170 from 60 / 80 / 100 / 120 / 140.
+Daisy!
+Cooldown reduced to 140 / 130 / 120 seconds from 160 / 140 / 120.
+V10.6
+General
+Recommended items updated.
+V9.21
+Rootcaller
+New Effect:
+Ivern
+now dashes to 125 range away from the target.
+Bug Fix:
+Fixed a bug where he would land inside some jungle camps when dashing with his Q.
+Bug Fix:
+Fixed a bug where allies would teleport to unexpected locations when he would dash to a rooted target.
+V9.20
+Stats
+Base attack range increased to 475 from 125.
+Champion range type changed to
+ranged
+from
+melee
+.
+Brushmaker
+Removed:
+No longer grants him 325
+bonus
+attack range.
+V9.6
+Brushmaker
+New Effect:
+Now more quickly empowers his attacks when he enters brush.
+Daisy
+New Effect:
+Now triggers effects that are triggered by pets (i.e. on-ability-hit effects).
+It is also classified as basic attacks. The big slam is classified as an ability hit and an AoE effect.
+V8.21
+Stats
+Base movement speed increased to 330 from 325.
+Brushmaker
+Base damage increased to 30 / 37.
+5
+/ 45 / 52.
+5
+/ 60 from 20 / 30 / 40 / 50 / 60.
+Triggerseed
+Base shield strength increased to 80 / 115 / 150 / 185 / 220 from 75 / 110 / 145 / 180 / 215.
+V8.12
+Friend of the Forest
+Bug Fix:
+Can no longer channel
+Friend of the Forest
+on a small wolf or razorbeak to quickly collect them after attempting to channel his passive on the big monster in the camp.
+V8.9
+Friend of the Forest
+Health cost reduced to
+22.
+5
+% - 5.
+5
+% (based on level) of
+base
+health
+from
+25% - 8% (based on level)
+.
+Grove mature duration reduced to
+40 − 1 (based on level)
+from
+40 − 6 (based on level)
+.
+Rootcaller
+Missile width increased to 80 from 65.
+V8.7
+Rootcaller
+Bug Fix:
+Dashing over walls to jungle monsters now works more consistently.
+Brushmaker
+Range increased to 1000 from 800.
+Daisy!
+New Effect:
+Daisy
+more aggressively acquires enemies to attack.
+New Effect:
+Daisy's
+AoE damage reduction now also protects her from epic monsters.
+V8.3
+Stats
+Base health regeneration increased to 7 from 6.
+9
+.
+Rootcaller
+Bug Fix:
+Fixed a bug where recasting
+Rootcaller
+counted as casting his ultimate for the purposes of stacking
+The Ultimate Hat
+rune.
+V7.24
+Friend of the Forest
+Grove health cost reduced to
+147 − 176 (based on level)
+from
+192 − 248 (based on level)
+.
+V7.22 November 12th Hotfix
+Triggerseed
+Base shield strength increased to 75 / 110 / 145 / 180 / 215 from 70 / 100 / 130 / 160 / 190.
+V7.22
+Stats
+Base armor increased to 27 from 22.
+Base health increased to 585 from 580.
+Health growth increased to 95 from 90.
+V7.19
+Candy King Ivern
+Bug Fix:
+No longer hums over all of his VO lines.
+V7.18
+Triggerseed
+Base damage increased to 60 / 80 / 100 / 120 / 140 from 50 / 70 / 90 / 110 / 130.
+Damage AP ratio increased to
+80% AP
+from
+70% AP
+.
+V7.14
+Brushmaker
+Cast range reduced to 800 from 1600.
+Candy King Ivern
+Bug Fix:
+No longer steals
+Jhin's
+taunt sound effects during his taunt animation.
+V7.12
+Triggerseed
+Base damage reduced to 50 / 70 / 90 / 110 / 130 from 60 / 90 / 120 / 150 / 180.
+New Effect:
+Tooltip now mentions that the ability can be casted on
+Daisy
+.
+Daisy!
+New Effect:
+Tooltip now mentions
+Daisy's
+stats and AP scalings.
+V7.11
+Candy King Ivern
+Bug Fix:
+Once again burps rudely after
+Recalling
+.
+V7.10
+Stats
+Base movement speed reduced to 325 from 330.
+Friend of the Forest
+Health cost to place a grove increased to
+192 − 248 (based on level)
+from
+174 − 161 (based on level)
+.
+Mana cost to place a grove increased to
+149 − 111 (based on level)
+from
+135 − 67 (based on level)
+.
+V7.8
+Brushmaker
+New Effect:
+Dropping brush directly on top of an epic monster no longer hides it from enemy vision.
+You can still deny enemy vision of an entire area by creating walls of brush, thereby denying vision of the monster.
+V7.7
+Daisy!
+Bug Fix:
+Fixed
+Daisy, Wait!
+tooltips (the ones that appear while Daisy is active).
+V7.6
+General
+Bug Fix:
+No longer gains vision of both wolf camps on Twisted Treeline when freeing one of them or the other.
+V7.3
+Daisy!
+Removed:
+Daisy
+no longer regenerates
+3%
+maximum
+health
+per second while out of combat.
+Daisy's
+bonus resistances reduced to 15 / 40 / 90 from 20 / 60 / 120.
+Bug Fix:
+Daisy
+will no longer start attacking the ground and teleporting out of control.
+Bug Fix:
+Daisy
+will no longer become invisible in rare circumstances.
+V7.1
+General
+Bug Fix:
+The flower
+Ivern
+creates during his taunt animation (candy for his
+Candy King
+skin) no longer vanishes if the camera moves away and back again.
+V6.24
+December 14th Hotfix
+Triggerseed
+Shield reduced to 70 / 100 / 130 / 160 / 190 from 80 / 120 / 160 / 200 / 240.
+Slow duration reduced to 2 seconds from 3.
+V6.24
+Triggerseed
+Mana cost increased to 70 from 50.
+Slow reduced to 40 / 45 / 50 / 55 / 60% from 70% at all ranks.
+V6.22
+General
+Bug Fix:
+Can no longer be flagged as AFK if he farms the jungle for too long without interacting with anyone else.
+Rootcaller
+Cooldown reduced to 14 / 13 / 12 / 11 / 10 seconds from 16 / 15 / 14 / 13 / 12.
+New Effect:
+Can now reactivate the ability to instantly drag
+Ivern
+to the target.
+Daisy!
+Daisy's
+maximum health increased to 1250 / 2500 / 3750 from 1250 / 2000 / 3500.
+Daisy
+should generally be smarter when it comes to following
+Ivern's
+commands.
+V6.21
+General
+Bug Fix:
+Fixed a weird texture on the back of
+Daisy's
+delicious head with the
+Candy King Ivern
+skin.
+V6.20
+Added
+Friend of the Forest
+– Innate
+Ivern
+cannot attack or damage non-epic
+monsters
+. Instead, targeting a jungle camp initiates a 2.
+5
+-second
+channel
+that, upon completion, places the monsters within a
+grove
+. Placing a grove costs
+health
+and
+mana
+, and cannot be cast if
+Ivern
+lacks the resources.
+The
+grove
+matures over
+40 − 6 (based on level)
+seconds. When fully matured,
+Ivern
+can interact with the camp again to instantly
+free
+the monsters, sending them away while receiving their full
+gold
+and
+experience
+bounty
+.
+Smiting
+a camp within a
+grove
+will instantly
+free
+the monsters, regardless of its maturity or the monster's current health.
+If the camp's large
+monster
+has already been slain,
+Ivern
+will
+free
+the camp upon completing the channel at no cost. Similarly, the
+grove
+will instantly mature if the large monster is slain.
+Starting at level 5, freeing the
+Red Brambleback
+or
+Blue Sentinel
+leaves behind a
+sapling
+that can be picked up by an allied champion to gain the camp's buff, consuming it in the process. If at least one allied
+champion
+is nearby,
+Ivern
+can pick up the sapling to transfer it to the nearest one in range. If an ally kills either monster, they also leave behind a sapling that only
+Ivern
+can consume.
+Rootcaller
+– Q spell
+Ivern
+throws a vine in the target direction, dealing 80 / 125 / 170 / 215 / 260
+(+ 70% AP)
+magic damage to the first enemy hit and
+rooting
+them for 1.
+2
+/ 1.
+4
+/ 1.
+6
+/ 1.
+8
+/ 2 seconds.
+Ivern
+and his allies can target enemies
+rooted
+by
+Rootcaller
+to dash to them, placing themselves at their attack range from the target.
+Cost:
+60 mana
+Cooldown:
+16 / 15 / 14 / 13 / 12
+Brushmaker
+– W spell
+Passive:
+While in brush,
+Ivern's
+basic attacks gain bonus range and deal bonus magic damage. These bonuses persist for 3 seconds after leaving brush.
+Active:
+Ivern
+grows a patch of brush at the target location,
+revealing
+the area within and around it for 3 seconds.
+Brushmaker
+spawns more brush if used near terrain or more brush.
+Brushmaker
+uses a stock system and
+Ivern
+can keep X in reserve.
+Cost:
+30 mana
+Recharge:
+40 / 36 / 32 / 28 / 24 seconds
+Cooldown:
+0.
+5
+seconds
+Triggerseed
+– E spell
+Ivern
+gifts a seed to the target allied champion, himself or
+Daisy
+, shielding them for 80 / 120 / 160 / 200 / 240
+(+ 80% AP)
+for 2 seconds.
+After the 2 seconds,
+Triggerseed
+bursts, dealing 60 / 90 / 120 / 150 / 180
+(+ 70% AP)
+magic damage to all nearby enemies and
+slowing
+them by 70% for 3 seconds.
+Cost:
+50 mana
+Cooldown:
+12 / 11 / 10 / 9 / 8
+Daisy!
+– R spell
+Ivern
+summons his sentinel friend
+Daisy
+, who remains on the field for 60 seconds as a controllable minion.
+While
+Daisy
+is active,
+Daisy!
+can be used to move her to the target location.
+Cost:
+100 mana
+Cooldown:
+160 / 140 / 120
+Trivia
+[
+edit
+|
+edit source
+]
+Ivern is an
+anagram
+of
+Riven
+.
+On
+V9.20
+, Ivern became the first champion to have its range type changed, from
+Melee
+to
+Ranged
+.
+If Ivern
+summons
+Daisy and then dances, she will also dance.
+Daisy's
+animations were reused from the
+Blue Sentinel's
+.
+Because of this, she shared its dance, which references
+Open the Door
+by
+Im Chang-jung
+.
+Before the rework of the
+Rift Herald
+in patch
+V7.9
+, she also shared this dance with her.
+The
+Raptor camp
+features in the icon of his
+Friend of the Forest
+ability.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Catcher
+Controllers
+are defensive casters that oversee the battlefield by protecting and opening up opportunities for their allies.
+Catchers
+specialize in locking down opponents or, in some cases, entire battlefields by creating intense zones of threat that only foolish enemies would dare wade through. Although not as reliant on their friends as Enchanters, the fragile Catchers greatly benefit from allied presence - both to deter incoming danger and to help capitalize on targets they've locked down.
+Examples
+Blitzcrank
+Morgana
+Zyra
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Krug camp
+The
+Ancient Krug
+,
+Krug
+, and
+Mini Krug
+are neutral
+monsters
+on
+Summoner's Rift
+.
+The
+Krug camp
+consists of one
+large
+Ancient Krug
+and one
+medium
+Krug
+. Killing the
+Ancient Krug
+will spawn four
+lesser
+Krugs
+, and killing
+medium
+Krugs
+will spawn two
+lesser
+Mini Krugs
+, for a total of 8 units. Killing this camp awards
+gold
+and
+experience
+.
+All additional units spawned will spawn with one lower level (capped at level 1) and will
+despawn
+after being out of combat for some time.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Interrupt
+Interrupt
+is a quality of crowd control that
+interrupts
+an in-progress effect, preventing its completion or causing the effect to go off at an
+interrupted
+state.
+The following crowd control effects
+interrupt
+channeled and charged
+abilities (unless otherwise noted by the ability):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+The following crowd control effects
+interrupt
+dashes
+:
+Airborne
+Knockdown
+Stasis
+Basic attack windups
+are
+interrupted
+by all forms of crowd control that inhibit attacking.
+Ground
+and
+Root
+only
+interrupt
+channeled and charged movement abilities.
+League of Legends content
+Zombie state
+A buff that allows a player to keep controlling their
+champion
+after
+Death
+always flags the champion to be in a
+zombie state
+. It prevents enemies from gaining full kill credit or triggering most on-kill effects from the champion a second time, and some abilities (e.g.
+You and Me!
+) interact differently with champions in this state.
+Renata Glasc's
+Bailout
+and
+Resurrection
+will always take precedence over
+zombie state
+effects.
+The following effects trigger a champion to enter a
+zombie state
+:
+Karthus'
+Death Defied
+Kog'Maw's
+Icathian Surprise
+Sion's
+Glory in Death
+League of Legends content
+Clone
+A
+clone
+or
+decoy
+is a specific type of
+pet
+that attempts to imitate a
+champion
+, copying their current vitality, stats, items, level, and most status effects upon creation. They are considered champions against many effects that do not strictly require
+player
+champions, else they are considered
+minions
+either small or large among certain cases.
+The
+damage
+they deal is attributed to them alone, but they transfer last hit and kill credit. Killing a
+clone
+awards
+25
+and
+44
+.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Raw damage
+Raw damage
+is a type of damage that normally ignores resistances,
+shields
+, and
+minimum health threshold
+and
+resurrection
+effects on the target.
+Invulnerability
+and
+spell shields
+,  where applicable, are the only ways to reduce or negate
+raw damage
+. Current champion-sources of
+raw damage
+against an enemy always deal more than
+100% of the target's
+current
+health
+(
+"execution damage"
+). Current champion-sources of
+raw damage
+against the player's own champion or an ally are special-cased to take place during effects that protect champions from death. Current implementations of
+minimum health thresholds
+are special-cased to leave units at
+1 health
+rather than the threshold, when they are dealt lethal
+raw damage
+.
+Raw damage
+does not interact with
+any
+effect.
+Internal raw
+damage is a form of
+raw damage
+that also bypasses
+invulnerability
+and has no overrides in place to prevent it from killing death-protected champions. The
+Nexus Obelisk
+,
+Zac's
+Cell Division
+redirected damage, and
+Rift Herald's
+self-damage also have this modified form.
+League of Legends content
+Nexus Blitz
+An explosive game mode known as Nexus Blitz. Traverse down one of two different paths in order to attack your enemy at their weakest point. Work with your allies to siege the enemy base and destroy their Nexus!
+Regular Modes
+Classic 5v5
+Custom
+Maps
+Temple of Lily and Lotus
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Root
+A unit that is
+rooted
+is unable to control its movement or activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Rooted
+units can still be displaced.
+Root
+is an
+immobilizing
+effect
+.
+Moving
+includes movement commands.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Standard sight
+Standard sight
+reveals units through
+fog of war
+and
+brush
+, but
+not
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Daisy!
+COOLDOWN:
+140 / 130 / 120
+Active:
+Ivern
+summons his Sentinel friend
+Daisy
+to fight with him.
+Daisy!
+can be recast any number of times while
+Daisy
+is alive. The recast cannot be
+interrupted
+.
+Recast:
+Daisy
+is commanded to move to the target location. If recast on
+Ivern
+, she will follow him.
+Daisy Smash!:
+Whenever
+Daisy
+attacks the same champion three times in a row, she will send a shockwave that
+knocks up
+enemies hit within a line.
+League of Legends content
+Ground
+A unit that is
+grounded
+is unable to activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Grounded
+units can still be displaced.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Ground
+is the only type of
+crowd control
+that is most commonly found in persistent area of effects, which will reapply the status effect continuously.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Brush
+Brush
+is a common terrain feature that obstructs
+sight
+for any unit outside of it.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Exposed
+Exposed
+units are
+visible
+regardless of being in a
+Brush
+.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Ivern's profile page
+at
+LeagueOfLegends.com

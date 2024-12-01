@@ -1,0 +1,2474 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Braum
+the Heart of the Freljord
+Release date
+2014-05-12
+Last changed
+V14.20
+Class(es)
+Warden
+Legacy
+Tank
+Support
+Position(s)
+Support
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Magic
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+1
+Toughness
+2
+Control
+3
+Mobility
+1
+Utility
+2
+Style
+Difficulty
+Braum
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Braum
+Base statistics
+Edit
+Health
+610
++112
+Mana
+311
++45
+Health regen. (per 5s)
+8.5
++1
+Mana regen. (per 5s)
+7
++0.8
+Armor
+47
++5.2
+Attack damage
+55
++3.2
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+125
+Attack speed
+Base AS
+0.644
+Attack windup
+23%
+AS ratio
+N/A
+Bonus AS
++3.5
+%
+Unit radius
+Gameplay radius
+80
+Selection radius
+130
+Pathing radius
+50
+Acq. radius
+800
+Special statistics
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++10%
+Damage Received
+-10%
+Damage Dealt
++5%
+Damage Received
+-18%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Concussive Blows
+TARGET IMMUNITY
+:
+8 / 6 / 4 (based on level)
+Innate:
+Braum's
+basic attacks and
+Winter's Bite
+apply a stack of
+Concussive Blows
+. Once the first stack is applied, allied champion
+basic attacks
+can also stack
+Concussive Blows
+. At maximum stacks, the target is
+stunned
+and takes
+magic damage
+. For the next few seconds they cannot receive new stacks, but take bonus
+magic damage
+from
+Braum's
+basic attacks.
+Innate:
+Braum's
+basic attacks
+and
+Winter's Bite
+each apply a
+stack
+of
+Concussive Blows
+to their target for 4 seconds, refreshing on subsequent applications and stacking up to 4 times. Once the first stack has been applied, any allied
+champion's
+basic attack applies an additional stack to the target
+on-hit
+.
+The fourth stack against a target consumes them all to deal
+26 − 196 (based on level)
+magic damage
+and
+stun
+them for
+1.
+25
+− 1.
+75
+(based on level)
+seconds.
+This effect cannot apply to the same target more than once every few seconds. During this immunity period, affected targets take
+「
+bonus
+magic damage
+equal to 20% of the trigger damage 」
+「
+5.
+2
+− 39.
+2
+(based on level)
+bonus
+magic damage
+」
+from
+Braum's
+basic attacks.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Parries
+See Notes
+Concussive Blows
+won't be applied if the attack is
+dodged
+or
+blocked
+or if the attack
+misses
+.
+Video
+Edit
+Winter's Bite
+COST:
+45 / 50 / 55 / 60 / 65 mana
+COOLDOWN:
+8 / 7.
+5
+/ 7 / 6.
+5
+/ 6
+CAST TIME:
+0.
+25
+RANGE:
+1050 /
+990
+WIDTH:
+120
+SPEED:
+1700
+Active:
+Braum
+propels freezing ice from his shield,
+slowing
+and dealing
+magic damage
+to the first enemy hit.
+Active:
+Braum
+propels ice from his shield in the target direction, dealing
+magic damage
+to the first enemy hit and
+slowing
+them by 70% decaying over 2 seconds.
+Magic Damage:
+75 / 125 / 175 / 225 / 275
+(+ 2.
+5
+% of
+Braum's
+maximum
+health)
+Info
+Targeting input
+Direction
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+This ability will cast from wherever the caster is at the end of the cast time.
+Video
+Edit
+Stand Behind Me
+COST:
+40 mana
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+CAST TIME:
+none
+TARGET RANGE:
+650
+Active:
+Braum
+dashes
+to a target allied
+champion
+or
+minion
+. On arrival, both of them gain
+armor
+and
+magic resistance
+for a few seconds.
+Active:
+Braum
+dashes
+to put himself
+between
+the target ally and the closest
+visible
+enemy
+champion
+within 1500 units
+, and upon arrival grants himself and the ally
+bonus
+armor
+and
+bonus
+magic resistance
+for 3 seconds.
+Ally Bonus Armor:
+20 / 25 / 30 / 35 / 40
+(+ 12%
+bonus
+armor)
+Ally Bonus Magic Resistance:
+20 / 25 / 30 / 35 / 40
+(+ 12%
+bonus
+magic resistance)
+Stand Behind Me
+can be
+self cast
+to instantly grant
+Braum
+the
+bonus
+resistances.
+Self Bonus Armor:
+20 / 25 / 30 / 35 / 40
+(+ 36%
+bonus
+armor)
+Self Bonus Magic Resistance:
+20 / 25 / 30 / 35 / 40
+(+ 36%
+bonus
+magic resistance)
+Unbreakable
+can be cast during the dash.
+"Stand behind Braum!"
+Info
+Targeting input
+Unit
+Counters
+Grounded
+Disabled
+Knockdown
+Interrupted
+Stand Behind Me
+can be used on allied
+minions
+but not on
+wards
+nor
+traps
+.
+Stand Behind Me
+has a
+forgiveness radius
+of 175 units.
+If there are no nearby enemy champions,
+Braum
+will dash to land up-to 150 units on the far side of his target.
+The maximum dash range without enemy champions present is ~650. An enemy champion on the far side of the ally will allow
+Braum
+to dash a total of up-to 800 units.
+If
+Unbreakable
+is cast during the dash,
+Winter's Bite
+and
+Glacial Fissure
+may also be cast.
+If the
+dash
+is interrupted, neither
+Braum
+nor his ally receive the bonus resistances.
+Map-Specific Differences
+Arena
+differences
+edit
+Base resistances changed to 20 / 30 / 40 / 50 / 60.
+Self armor ratio changed to
+45%
+bonus
+armor
+.
+Ally armor ratio changed to
+16%
+bonus
+armor
+.
+Self magic resistance ratio changed to
+45%
+bonus
+magic resistance
+.
+Ally magic resistance ratio changed to
+16%
+bonus
+magic resistance
+.
+Video
+Edit
+Unbreakable
+COST:
+30 / 35 / 40 / 45 / 50 Mana
+COOLDOWN
+:
+16 / 14 / 12 / 10 / 8
+CAST TIME:
+none
+ANGLE:
+180°
+Active:
+Braum
+sets his shield in a direction for a few seconds, intercepting any enemy
+projectiles
+to hit him and be destroyed. He gains damage reduction and negates the first instance of damage dealt by a champion completely from this direction.
+Active:
+Braum
+sets his shield in the target direction for a duration, creating a barrier in front of him that intercepts all incoming hostile
+projectiles
+and reduces the damage
+Braum
+takes through it. The first instance of damage dealt by a
+champion
+from this direction is reduced by 100%.
+Unbreakable
+does not affect
+turrets
+.
+Damage reduction:
+35 / 40 / 45 / 50 / 55%
+Barrier Duration:
+3 / 3.
+25
+/ 3.
+5
+/ 3.
+75
+/ 4 seconds
+While his shield is raised,
+Braum
+also gains
+10%
+bonus
+movement speed
+and
+ghosting
+.
+"My shield is here for you."
+Info
+Targeting input
+Direction
+Definitions
+Incoming:
+Damage sources coming from somewhere facing the shield. Those coming from different sides are not affected.
+Projectiles:
+Sped up entities not classified as a unit (
+champions
+,
+minions
+,
+monsters
+, etc.)
+Intercepting:
+A projectile hitting
+Braum
+because he is standing in front of the intended target. In addition to being redirected, an intercepted projectile is also destroyed
+after
+hitting
+Braum
+(although this is only applicable to pass-through projectiles).
+Unbreakable's
+full damage reduction can block multiple instances of damage if they're dealt at the same time.
+Moving units do not count for being blocked by
+Unbreakable
+.
+Champion summoned units
+are not classified as units until they hit the ground (e.g.
+Sapling Toss
+) and thus will interact with
+Unbreakable
+whilst en route.
+Projectiles whose effects trigger on collision will still trigger - dealing damage, applying
+debuffs
+, creating area of effects and marking the target as 'hit'.
+Projectiles that create an
+area of effect
+upon their collision will still affect other units and not only
+Braum
+.
+Projectiles that
+cannot
+hit
+Braum
+or his allies (such as an enemy
+Prismatic Barrier
+) will not be intercepted.
+[2]
+Soraka's
+Starcall's
+Rejuvenation
+projectile is however blocked.
+The
+damage reduction
+will affect any source of damage whose origin is in front of the shield. This includes:
+All intercepted projectiles.
+Melee
+and non-projectile-based
+ranged
+attacks.
+Instantaneous
+direction-targeted
+abilities (e.g.
+Arcanopulse
+,
+Final Spark
+,
+Lifeform Disintegration Ray
+.)
+Instantaneously-placed
+ground-targeted
+abilities (e.g.
+Lay Waste
+,
+Pillar of Flame
+,
+Rupture
+) relative to the ability's center and
+not
+the caster's.
+Point-blank area-of-effects (e.g.
+Ground Slam
+,
+Tantrum
+,
+Time Bomb
+not
+targeted at
+Braum
+)
+Instantaneous targeted abilities (e.g.
+Malefic Visions
+,
+Transfusion
+,
+Time Bomb
+targeted at
+Braum
+) and
+AoE DoT
+(e.g.
+Spirit Fire
+,
+Tormented Shadow
+,
+Poison Trail
+).
+The damage reduction only benefits
+Braum
+.
+Damage over time
+is calculated per tick but the full damage reduction will still only apply to a single tick.
+If the damage mitigated by
+Unbreakable
+exceeds a minimum threshold it is represented with floating text similar to the damage mitigated by shields ('
+-X
+')
+This floating text is always shown for the single fully-reduced damage source.
+Braum's
+facing direction is in the direction he's moving in.
+If
+Braum
+is protected by a
+spell shield
+, both it and the one-time-use full damage reduction can be consumed by a single blockable spell.
+The one-time-use full damage reduction will not be consumed if the damage source is nothing but
+true damage
+.
+Unbreakable
+will grant
+assist
+credit if the enemy whose damaging projectile is blocked from is killed within 10 seconds.
+Video
+Edit
+Glacial Fissure
+COST:
+100 mana
+COOLDOWN:
+120 / 100 / 80
+CAST TIME:
+0.
+5
+RANGE:
+1200
+/
+1200
+EFFECT RADIUS:
+300
+WIDTH:
+230
+/
+170
+SPEED:
+1400
+Active:
+Braum
+slams the ground,
+knocking up
+enemies nearby and in a line in front of him. A fissure is left along the line that
+slows
+enemies.
+Active:
+Braum
+leaps into the air and slams his shield into the ground, creating a fissure from the impact that travels forth in the target direction, dealing
+magic damage
+to enemies within its path as well as those around
+Braum
+.
+Magic Damage:
+150 / 300 / 450
+(+ 60% AP)
+The first target hit is
+knocked up
+for at least 0.
+6
+seconds, increased if they are further away from
+Braum
+. All other enemies hit are
+knocked up
+for 0.
+6
+seconds.
+Maximum Knockup Duration:
+1 / 1.
+5
+/ 2 seconds
+A field of ice is created along the fissure's path, lasting for 4 seconds and
+slowing
+enemies within the area every 0.
+25
+seconds. The field disappears after the duration ends in the same order and speed it was created with.
+Slow:
+40 / 50 / 60%
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+This ability will cast from wherever the caster is at the end of the cast time.
+Type
+Cast time
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Video
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Braum (Collection)
+.
+Original
+View in 3D
+880
+11.05.2014
+Blessed with massive biceps and an even bigger heart, Braum is a beloved hero of the Freljord. Every mead hall north of Frostheld toasts his legendary strength, said to have felled a forest of oaks in a single night, and punched an entire mountain into rubble. Bearing an enchanted vault door as his shield, Braum roams the frozen north sporting a mustachioed smile as big as his muscles—a true friend to all those in need.
+JB Blanc
+Joshua 'HUGEnFAST' Brian Smith
+Loot eligible
+Dragonslayer
+View in 3D
+975
+11.05.2014
+Dragonslayers first rose to battle their ancient foes hundreds of years ago, and after their victory, the land fell into a long, forgetful peace. When the dragons returned, most of the ancient warriors had passed away, leaving Braum to take up their task with only his mighty shield to defend the innocent.
+JB Blanc
+Charles 'Yideth' Liu
+Dragon World
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dragonslayer Braum Chromas
+Amethyst
+Catseye
+Emerald
+Fan Pass
+LCS
+LEC
+LPL
+Obsidian
+Pearl
+Sandstone
+El Tigre
+View in 3D
+1350
+21.01.2015
+A contemporary wrestler beloved the world over, El Tigre's roar is the bellow of a people's champion. He is a friend to all… but can still scissor kick a two hundred pound cage fighter right out of the ring.
+JB Blanc
+Alvin Lee
+Luchador
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Braum Lionheart
+View in 3D
+750
+07.12.2015
+The strongest, bravest knight in all the land, people love Braum Lionheart and his daring tales of adventure! He's definitely not a stickler for 7th-edition Riftquest rules, and there are certainly not snax stains on his character sheet. That would be unbecoming of such a gallant warrior.
+JB Blanc
+Unknown artist
+Rift Quest
+Loot eligible
+Santa
+View in 3D
+1350
+14.12.2016
+He's making that list, and checking it twice—but there's a lot of room for improvement because Braum is so nice! He may be tasked with giving coal to naughty children, but his big heart and sunny outlook ensure everyone gets exactly what they wanted... even the bad kids.
+JB Blanc
+Xu 'Crow God' Cheng
+Snowdown Showdown
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Crime City
+View in 3D
+1350
+23.08.2018
+Miss Fortune's body man is an unnervingly pleasant gentleman by the name of 'Bank Vault' Braum, whose alias was earned ripping the wall off a maximum security gold depository. He is accompanied by a small cadre of gun-toting poros, who love nothing more than belly rubs and murder.
+JB Blanc
+Kelly Aleshire
+Crime City
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Crime City Braum Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sandstone
+Tanzanite
+Sugar Rush
+View in 3D
+1350
+17.12.2019
+No one knows how Braum manages to never get candy stuck in his majestic mustache. Everyone knows how the great defender stands stalwart for everyone, from the smallest gumdrop to the strongest candy king.
+JB Blanc
+Xiao Guang Sun, West Studio
+Sugar Rush
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Sugar Rush Braum Chromas
+Catseye
+Citrine
+Obsidian
+Pearl
+Peridot
+Rose Quartz
+Ruby
+Sweet Tooth
+Pool Party
+View in 3D
+1350
+09.06.2021
+Braum's tiki lemonades are a lot like him—tall, sweet, and very popular with poros. Even the Boss is willing to wait his turn to get a glass!
+JB Blanc
+Ina Wong, West Studio
+Pool Party
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Pool Party Braum Chromas
+Amethyst
+Aquamarine
+Catseye
+Obsidian
+Peridot
+Rose Quartz
+Ruby
+Sandstone
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.20
+Stand Behind Me
+New Effect:
+Cast now has a forgiveness radius of 175 units.
+V14.9
+Stats
+Selection radius increased to 130 units from 100.
+V13.24
+Stats
+Base mana regeneration increased to 7 from 6.
+Glacial Fissure
+Minimum knock up duration increased to 0.
+6
+seconds from 0.
+3
+.
+V13.22
+Concussive Blows
+Bug Fix:
+No longer overlaps with
+Kai'Sa's
+Second Skin's
+mark indicator.
+V13.3
+Concussive Blows
+Cooldown interval reduced to levels 1 / 6 / 11 from levels 1 / 7 / 13.
+Winter's Bite
+Cooldown reduced to 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6 seconds from 10 / 9 / 8 / 7 / 6.
+Stand Behind Me
+Bonus resistances increased to 20 / 25 / 30 / 35 / 40 from 10 / 14 / 18 / 22 / 26.
+V13.1
+Stand Behind Me
+Bug Fix:
+Now properly grants assist credit to the caster if it affects an ally.
+Bug Fix:
+Restored buff VFX.
+V12.10
+Stats
+Base health increased to 610 from 540.
+Health growth increased to 112 from 98.
+Armor growth increased to 5.
+2
+from 4.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+V12.9
+Concussive Blows
+Cooldown reduced to
+8 / 6 / 4 (based on level)
+seconds from
+8 / 7 / 6 (based on level)
+.
+Unbreakable
+Damage reduction increased to 35 / 40 / 45 / 50 / 55% from 30 / 32.
+5
+/ 35 / 37.
+5
+/ 40%.
+V11.19
+Unbreakable
+Bug Fix:
+Now correctly blocks the damage dealt by
+Jayce's
+Shock Blast
+if it was the first instance of champion damage against the barrier.
+V11.7
+Unbreakable
+Cooldown reduced to 16 / 14 / 12 / 10 / 8 seconds from 18 / 16 / 14 / 12 / 10.
+Glacial Fissure
+Maximum knock up duration increased to 1 / 1.
+5
+/ 2 seconds from 1 / 1.
+25
+/ 1.
+5
+.
+V11.4
+Glacial Fissure
+Cooldown reduced to 120 / 100 / 80 seconds from 140 / 120 / 100.
+V11.1
+Stats
+Base attack damage reduced to 55 from 55.
+376
+.
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.20
+Winter's Bite
+Base damage increased to 75 / 125 / 175 / 225 / 275 from 60 / 110 / 160 / 210 / 260.
+Mana cost reduced to 45 / 50 / 55 / 60 / 65 from 55 / 60 / 65 / 70 / 75.
+V10.13
+Crime City Braum
+Skin renamed to
+Crime City Braum
+from
+Mafia Braum
+.
+V10.12
+Glacial Fissure
+Bug Fix:
+VFX is no longer misaligned when the ability is cast at 0 range.
+V10.3
+Concussive Blows
+Bug Fix:
+Stun duration now properly reduced by Tenacity.
+V9.24
+Stats
+Health growth increased to 98 from 87.
+Base health regeneration increased to 8.
+5
+from 8.
+Winter's Bite
+Base damage increased to 60 / 110 / 160 / 210 / 260 from 60 / 105 / 150 / 195 / 240.
+Stand Behind Me
+Cooldown reduced to 12 / 11 / 10 / 9 / 8 seconds from 14 / 13 / 12 / 11 / 10.
+Mana cost reduced to 40 at all ranks from 50 / 55 / 60 / 65 / 70.
+Bonus armor ratio to allies changed to
+12%
+bonus
+armor
+at all ranks from
+10 / 11.
+5
+/ 13 / 14.
+5
+/ 16%
+.
+Bonus magic resistance ratio to allies changed to
+12%
+bonus
+magic resistance
+at all ranks from
+10 / 11.
+5
+/ 13 / 14.
+5
+/ 16%
+.
+Bonus armor ratio to
+Braum
+increased to
+36%
+bonus
+armor
+at all ranks from
+10 / 11.
+5
+/ 13 / 14.
+5
+/ 16%
+.
+Bonus magic resistance ratio to
+Braum
+increased to
+36%
+bonus
+magic resistance
+at all ranks from
+10 / 11.
+5
+/ 13 / 14.
+5
+/ 16%
+.
+Glacial Fissure
+Base damage increased to 150 / 300 / 450 from 150 / 250 / 350.
+Old Effect:
+Enemy champions hit in the close vicinity are
+knocked up
+for 1 / 1.
+25
+/ 1.
+5
+seconds, while enemies hit in the line are
+knocked up
+for 0.
+25
+seconds. If no enemy champions are hit in the point-blank area, the first enemy champion hit in the line is
+knocked up
+for the full duration.
+New Effect:
+The first target hit is
+knocked up
+for between 0.
+3
+and 1 / 1.
+25
+/ 1.
+5
+seconds, depending on distance from
+Braum
+. All other enemies hit are
+knocked up
+for 0.
+3
+seconds.
+V9.12
+General
+Updated store assets for
+Dragonslayer Braum's
+chroma set.
+V9.7
+- April 9th Hotfix
+Unbreakable
+Bug Fix:
+Fixed a bug where it wouldn't reduce damage from certain multi-hit abilities.
+V9.1
+Unbreakable
+New Effect:
+Ability icon HUD now shows the remaining duration of the ability.
+V8.18
+Stats
+Base health reduced to 540 from 576.
+16
+.
+V8.8
+Stats
+Armor growth reduced to 4 from 4.
+5
+.
+Stand Behind Me
+Base resistances reduced to 10 / 14 / 18 / 22 / 26 from 17.
+5
+/ 20 / 22.
+5
+/ 25 / 27.
+5
+.
+Bonus resistances are now applied more responsively.
+V8.3
+Stats
+Base health regeneration reduced to 8 from 8.
+18
+.
+V8.2
+Santa Braum
+Bug Fix:
+Is no longer missing his purchase and champion-specific taunt VO.
+V7.24
+Stand Behind Me
+Bug Fix:
+Fixed a bug where it being cast on a champion with
+Summon Aery
+would cause Aery would jump to the caster of that ability.
+V7.22
+Stats
+Base armor increased to 47 from 26.
+72
+.
+Stand Behind Me
+Base resistances increased to 17.
+5
+/ 20 / 22.
+5
+/ 25 / 27.
+5
+from 15 / 17.
+5
+/ 20 / 22.
+5
+/ 25.
+V7.16
+Unbreakable
+Undocumented:
+Urgot's
+Fear Beyond Death
+no longer executes
+Braum
+if he blocks the chains that were about to execute an ally.
+V7.7
+Dragonslayer Braum
+and
+El Tigre Braum
+Winter's Bite
+Bug Fix:
+Restored missing particles when killing an enemy with
+Winter's Bite
+.
+V7.1
+Santa Braum
+Bug Fix:
+The face of the poro in the joke animation no longer mutates during the animation.
+V6.21
+Glacial Fissure
+Bug Fix:
+Slow no longer applies inconsistently to enemies in Fog of War.
+V6.16
+Dragonslayer Braum
+Bug Fix:
+No longer becomes momentarily blurry after casting a spell.
+V6.15
+Concussive Blows
+Base damage changed to
+26 − 196 (based on level)
+from
+40 − 176 (based on level)
+.
+Winter's Bite
+Base damage reduced to 60 / 105 / 150 / 195 / 240 from 70 / 115 / 160 / 205 / 250.
+V6.14
+Unbreakable
+Bug Fix:
+Braum
+no longer instantly dies if he tries to block
+Baron Nashor's
+Acid Shot with
+Unbreakable
+at the exact wrong moment.
+V5.18
+Winter's Bite
+Mana cost increased to 55 / 60 / 65 / 70 / 75 from 45 / 50 / 55 / 60 / 65.
+V5.16
+Stats
+Armor growth increased to 4.
+5
+from 4.
+V5.12
+Winter's Bite
+Base damage increased to 70 / 115 / 160 / 205 / 250 from 60 / 105 / 150 / 195 / 240.
+Mana cost reduced to 45 / 50 / 55 / 60 / 65 from 55 / 60 / 65 / 70 / 75.
+V4.13
+Concussive Blows
+Base damage changed to
+40 − 176 (based on level)
+from
+50 − 254 (based on level)
+.
+Stand Behind Me
+Mana cost increased to 50 / 55 / 60 / 65 / 70 from 30 / 40 / 50 / 60 / 70.
+Glacial Fissure
+First target knock up duration reduced to 1 / 1.
+25
+/ 1.
+5
+seconds from 1.
+5
+at all ranks.
+Slow reduced to 40 / 50 / 60% from 60% at all ranks.
+Persisting slow duration after leaving zone reduced to 0.
+25
+seconds from 1.
+5
+.
+V4.11
+Concussive Blows
+Stack debuff duration reduced to 4 seconds from 5.
+Base damage changed to
+50 − 254 (based on level)
+from
+70 − 240 (based on level)
+.
+Stand Behind Me
+Bug Fix:
+Fixed a bug where, when
+Braum
+tried to jump over a wall to a teammate with an enemy nearby, he would try to protect his teammate by facing the enemy but would then smack his butt into the wall and not actually jump over to safety.
+New Effect:
+Now jumps more intelligently.
+V4.9
+Stats
+Base attack damage reduced to 50 from 53.
+Concussive Blows
+Bug Fix:
+No longer stuns targets with a spell shield active.
+Winter's Bite
+Base damage reduced to 60 / 105 / 150 / 195 / 240 from 80 / 125 / 170 / 215 / 260.
+Stand Behind Me
+Base armor gain reduced to 15 / 17.
+5
+/ 20 / 22.
+5
+/ 25 from 20 / 22.
+5
+/ 25 / 27.
+5
+/ 30.
+Bonus armor ratio gain reduced to
+10 / 11.
+5
+/ 13 / 14.
+5
+/ 16%
+bonus
+armor
+from
+14 / 15.
+5
+/ 17 / 18.
+5
+/ 20%
+bonus
+armor
+.
+Base magic resistance gain reduced to 15 / 17.
+5
+/ 20 / 22.
+5
+/ 25 from 20 / 22.
+5
+/ 25 / 27.
+5
+/ 30.
+Bonus magic resistance ratio gain reduced to
+10 / 11.
+5
+/ 13 / 14.
+5
+/ 16%
+bonus
+magic resistance
+from
+14 / 15.
+5
+/ 17 / 18.
+5
+/ 20%
+bonus
+magic resistance
+.
+Unbreakable
+Bug Fix:
+Cleaned up a few cases where certain effects could bypass the active barrier.
+V4.7
+Added
+Concussive Blows
+Braum's
+basic attacks and
+Winter's Bite
+each apply
+Concussive Blows
+to his target for 5 seconds, stacking up to 4 times. Once the first stack has been applied, any allied champion's basic attack on the target generates an additional stack.
+Upon reaching 4 stacks, the target is
+stunned
+for
+1.
+25
+/ 1.
+5
+/ 1.
+75
+(based on level)
+seconds and takes
+70 − 240 (based on level)
+magic damage.
+This effect cannot occur on the same target more than once every few seconds, but during this immunity period affected targets instead take 20% of the trigger damage as
+bonus
+magic damage from
+Braum's
+basic attacks and
+Winter's Bite
+.
+Per-Target Cooldown:
+8 / 7 / 6 (based on level)
+seconds
+Winter's Bite
+Active:
+Braum
+propels ice from his shield in the target direction, dealing 80 / 125 / 170 / 215 / 260
+(+ 2.
+5
+%
+maximum
+health)
+magic damage to the first enemy hit and
+slowing
+them by 70% decaying over 2 seconds.
+Range:
+1000
+Mana Cost:
+55 / 60 / 65 / 70 / 75
+Cooldown:
+10 / 9 / 8 / 7 / 6 seconds
+Stand Behind Me
+Active:
+Braum
+dashes to the target ally, positioning himself between them and the closest enemy champion, gaining
+bonus
+armor
+and
+bonus
+magic resistance
+for 3 seconds. If his target is a champion, they also receive the same bonuses.
+Bonus Armor:
+20 / 22.
+5
+/ 25 / 27.
+5
+/ 30
+(+ 14 / 15.
+5
+/ 17 / 18.
+5
+/ 20%
+bonus
+armor)
+Bonus Magic Resistance:
+20 / 22.
+5
+/ 25 / 27.
+5
+/ 30
+(+ 14 / 15.
+5
+/ 17 / 18.
+5
+/ 20%
+bonus
+magic resistance)
+Range:
+650
+Mana Cost:
+30 / 40 / 50 / 60 / 70
+Cooldown:
+14 / 13 / 12 / 11 / 10 seconds
+Unbreakable
+Active:
+Braum
+raises his shield for 3 / 3.
+25
+/ 3.
+5
+/ 3.
+75
+/ 4 seconds in the target direction, creating a barrier that intercepts incoming non-turret enemy projectiles and reduces the damage by 30 / 32.
+5
+/ 35 / 37.
+5
+/ 40% he takes through the shield. The first instance of damage blocked by his shield is negated completely.
+While his shield is raised,
+Braum
+also gains 10%
+bonus
+movement speed and is
+ghosted
+.
+Mana Cost:
+30 / 35 / 40 / 45 / 50
+Cooldown:
+18 / 16 / 14 / 12 / 10 seconds
+Glacial Fissure
+Active:
+Braum
+leaps into the air and slams his shield into the ground, creating a fissure in the target direction that deals 150 / 250 / 350
+(+ 60% AP)
+magic damage to enemies as well as those around him.
+Enemy champions hit in the close vicinity are
+knocked up
+for 1.
+5
+seconds, while enemies hit in the line are
+knocked up
+for 0.
+25
+seconds.
+If no enemy champions are hit in the point-blank area, the first enemy champion hit in the line is
+knocked up
+for 1.
+5
+seconds.
+A field of ice then remains at the fissure's location for 4 seconds,
+slowing
+enemies within by 60% persisting for 1.
+5
+seconds.
+Range:
+1250
+Mana Cost:
+100
+Cooldown:
+140 / 120 / 100 seconds
+Trivia
+[
+edit
+|
+edit source
+]
+Braum is the first champion to feature a unique attack animation against turrets.
+He is also the second to feature two joke animations, the first being
+Heimerdinger
+.
+Braum's dance resembles the
+Ukrainian Cossack dance.
+Braum
+(as pronounced by his voice-actor: /bɹɔ:m/) is the American variant of German surname
+Brahm
+[3]
+/bɹɑ:mz/)
+, originating either from:
+Proto-Germanic
+*bremaz
+"prickly bush,
+blackberry
+" >
+Middle High German
+brame
+,
+Low Saxon
+Braam
+, English:
+broom
+(also
+*bremilaz
+> English
+bramble
+), or
+reduction of Hebrew
+Abram
+אַבְרָם, from Semitic *
+ʔab
+"father"
+[4]
+&
+*r-w-m ~ *r-y-m
+"high".
+[5]
+Braum strongly resembles the figure in the old
+Juggernaut
+mastery.
+When Braum feeds a
+Poro
+a
+Poro-Snax
+they will grow a mustache, with the color being determined by which skin he is using.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Warden
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+Wardens
+are defensive tanks. Wardens stand steadfast, seeking to hold the line by persistently locking down any on-comers who try to pass them. Wardens keep their allies out of harm’s way and allow them to safely deal with enemies caught in the fray.
+Examples
+Braum
+Shen
+Tahm Kench
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Winter's Bite
+COOLDOWN:
+8 / 7.
+5
+/ 7 / 6.
+5
+/ 6
+Active:
+Braum
+propels freezing ice from his shield,
+slowing
+and dealing
+magic damage
+to the first enemy hit.
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Unbreakable
+COOLDOWN:
+16 / 14 / 12 / 10 / 8
+Active:
+Braum
+sets his shield in a direction for a few seconds, intercepting any enemy
+projectiles
+to hit him and be destroyed.
+He gains damage reduction and negates the first instance of damage dealt by a champion completely from this direction.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Ward
+Wards
+are deployable units that that grant
+sight
+over the surrounding area. They can only be destroyed by
+basic attacks
+, granting
+gold
+and
+experience
+.
+There are three kinds of deployable
+wards
+available for purchase:
+Control Ward
+,
+Warding Totem
+, and
+Farsight Alteration
+. Other types of wards, such as
+Zombie Ward
+, are usable through various means.
+League of Legends content
+Stealthed trap
+Stealthed traps
+are
+units
+that are hidden from enemy
+vision
+for a set duration until triggered by an enemy. They can only be revealed by
+True Sight
+,
+Control Wards
+,
+Oracle Lens
+, and
+A Harmless Scarecrow
+.
+League of Legends content
+Targeting forgiveness
+Certain unit-targeted abilities present an accuracy-grace system called
+targeting forgiveness
+.
+When no valid target is
+directly selected
+upon using the ability, it will automatically search for one within a certain
+center-to-center
+forgiveness radius
+. If a valid target is found within the forgiveness radius, the ability will automatically acquire them and cast on them. If multiple targets are found, the nearest one to the forgiveness radius' center is chosen.
+Only ally-targeted abilities may utilize this system. Not to be confused with a different, priority-based system that a few other spells (e.g.
+Smite
+) use.
+League of Legends content
+Glacial Fissure
+COOLDOWN:
+120 / 100 / 80
+Active:
+Braum
+slams the ground,
+knocking up
+enemies nearby and in a line in front of him. A fissure is left along the line that
+slows
+enemies.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Projectile
+A
+projectile
+or
+missile
+is any entity not classified as a unit (
+champion
+,
+minion
+,
+monster
+, etc.
+) that travels at any given velocity.
+Moving units are
+not
+considered projectiles under any circumstance (
+including
+dashing
+units,
+airborne
+units, or units thrown by some abilities such as
+Force of Will
+or
+Roar of the Slayer
+.
+).
+Braum's
+Unbreakable
+,
+Samira's
+Blade Whirl
+, and
+Yasuo's
+Wind Wall
+can block, destroy and / or stop projectiles.
+Some
+ranged
+basic attacks (
+including
+turrets
+) and abilities don't use projectiles and will bypass projectile-blocking effects.
+Some abilities will
+destroy
+all currently incoming homing projectiles.
+League of Legends content
+Projectile
+A
+projectile
+or
+missile
+is any entity not classified as a unit (
+champion
+,
+minion
+,
+monster
+, etc.
+) that travels at any given velocity.
+Moving units are
+not
+considered projectiles under any circumstance (
+including
+dashing
+units,
+airborne
+units, or units thrown by some abilities such as
+Force of Will
+or
+Roar of the Slayer
+.
+).
+Braum's
+Unbreakable
+,
+Samira's
+Blade Whirl
+, and
+Yasuo's
+Wind Wall
+can block, destroy and / or stop projectiles.
+Some
+ranged
+basic attacks (
+including
+turrets
+) and abilities don't use projectiles and will bypass projectile-blocking effects.
+Some abilities will
+destroy
+all currently incoming homing projectiles.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+References
+[
+edit
+|
+edit source
+]
+↑
+Braum's profile page
+at
+LeagueOfLegends.com
+↑
+Unbreakable's interaction with Lux's Prismatic Barrier
+↑
+Dictionary of American Family Names
+. Ed. Patrick Hanks, pp. 214, 219
+↑
+Weninger et al.
+The Semitic Languages
+, p. 234
+↑
+Kogan, L.
+Genealogical Classification of Semitic
+, p. 97

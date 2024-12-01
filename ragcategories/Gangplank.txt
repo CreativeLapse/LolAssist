@@ -1,0 +1,2632 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Gangplank
+the Saltwater Scourge
+Release date
+2009-08-19
+Last changed
+V14.21
+Class(es)
+Specialist
+Legacy
+Fighter
+Position(s)
+Top
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+1
+Utility
+2
+Style
+Difficulty
+Gangplank
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Gangplank
+Base statistics
+Edit
+Health
+630
++114
+Mana
+280
++60
+Health regen. (per 5s)
+6
++0.6
+Mana regen. (per 5s)
+8
++0.7
+Armor
+31
++4.7
+Attack damage
+64
++3.7
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+345
+Attack range
+125
+Attack speed
+Base AS
+0.658
+Attack windup
+16.447%
+AS ratio
+0.69
+Bonus AS
++3.2
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+400
+Special statistics
+Damage Dealt
++5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++5%
+Damage Received
+-10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Trial by Fire
+STATIC COOLDOWN
+:
+15
+Innate:
+Every few seconds, Gangplank's next basic attack will burn the target, continually dealing
+bonus
+true damage
+and granting him
+bonus
+movement speed
+. Whenever a
+Powder Keg
+explodes,
+Trial by Fire's
+cooldown will
+reset
+and
+Gangplank
+will gain the
+movement speed
+.
+Innate:
+Periodically,
+Gangplank
+empowers his next
+basic attack
+to set the target on fire, dealing them
+「
+50 − 250 (based on level)
+(+ 100%
+bonus
+AD)
+(+ 2 per 1% critical strike chance)
+bonus
+true damage
+over 2.
+5
+seconds. 」
+「
+5 − 25 (based on level)
+(+ 10%
+bonus
+AD)
+(+ 0.
+2
+per 1% critical strike chance)
+bonus
+true damage
+every 0.
+25
+seconds over 2.
+5
+seconds. 」
+Turrets
+are dealt 50% damage.
+If
+Gangplank
+successfully hits a target with
+Trial by Fire
+, he gains
+15% − 30% (based on level)
+bonus
+movement speed
+for 2 seconds. Every time a
+Powder Keg
+explodes, the
+cooldown
+for
+Trial by Fire
+resets and
+Gangplank
+gains its
+bonus
+movement speed
+.
+Trial by Fire cannot be applied with
+Parrrley
+nor
+Powder Keg
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Default damage
+Sub-type
+True
+Counters
+Spell shield
+Not Blocked
+Parries
+Missing
+Reapplying
+Trial by Fire
+before a previous application has run out will stack the full damage, instead of refreshing the duration.
+The bonus true damage scaling based on critical strike chance is capped at 100% of the stat.
+If the attack is
+dodged
+or if
+Gangplank
+is
+blinded
+, the effect is not applied nor does
+Trial by Fire
+go on cooldown. If the attack is
+blocked
+, the effect is not applied, but
+Trial by Fire
+will go on cooldown.
+The empowered attack will not trigger against non-
+turret
+structures
+nor
+wards
+.
+Edit
+Parrrley
+COST:
+55 / 50 / 45 / 40 / 35 Mana
+COOLDOWN:
+4.
+5
+CAST TIME:
+0.
+25
+TARGET RANGE:
+625
+SPEED:
+2600
+Active:
+Gangplank
+shoots the target enemy with his pistol, dealing
+physical damage
+and applying
+on-hit
+and
+on-attack
+effects. If this attack kills the target, he gains
+gold
+and
+Silver Serpents
+.
+Active:
+Gangplank
+fires a shot at the target enemy that deals
+physical damage
+and applies
+on-hit
+and
+on-attack
+effects at 100% effectiveness as a
+ranged
+attack.
+Parrrley
+can
+critically strike
+for (175% +
+40%
+)
+total
+damage.
+Physical Damage:
+10 / 40 / 70 / 100 / 130
+(+ 100% AD)
+If
+Parrrley
+kills the target,
+Gangplank
+plunders
+gold
+and
+Silver Serpents
+. Each enemy killed by a
+Powder Keg
+explosion that was originally set off by
+Parrrley
+also counts for the plunder.
+Gold Plunder:
+3 / 4 / 5 / 6 / 7
+Silver Serpent Plunder:
+4 / 5 / 6 / 7 / 8
+Silver Serpents
+can be spent in the
+shop
+to upgrade
+Cannon Barrage
+.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Basic damage
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Parries
+Blocked
+Projectile
+Blocked
+Parrrley
+deals
+basic damage
+, but also triggers spell effects by dealing an additional 0
+spell damage
+.
+Fleet Footwork
+will always trigger its melee effect, even when it is triggered by
+Parrrley
+.
+On-hit
+effects that deal damage to secondary targets will allow
+Parrrley
+to plunder from enemies killed that way, much like with
+Powder Kegs
+.
+Ravenous Hydra
+and
+Titanic Hydra
+work like this and will grant additional plunder from enemies they kill when triggered by
+Parrrley
+as their
+cast instance
+.
+Even spell effects such as
+Luden's Companion
+will work with this when triggered by
+Parrrley
+as their
+cast instance
+. Spell effects that do not belong to their triggering cast instance, such as
+Liandry's Torment's
+damage debuff, do not grant plunder for enemies they kill.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+Map-Specific Differences
+Howling Abyss
+differences
+edit
+New Effect:
+Passively gains 1
+Silver Serpent
+per second.
+Ultra Rapid Fire
+differences
+edit
+Silver Serpent
+generation multiplied by 3.
+Arena
+differences
+edit
+New Effect:
+Now grants gold and
+Silver Serpents
+equal to 7% of damage dealt to champions.
+New Effect:
+Gains 187.
+5
+Silver Serpents
+per round.
+Edit
+Remove Scurvy
+COST:
+60 / 70 / 80 / 90 / 100 Mana
+COOLDOWN:
+22 / 20 / 18 / 16 / 14
+CAST TIME:
+0.
+25
+Active:
+Gangplank
+eats citrus to
+cleanse
+crowd control
+effects and
+heal
+based on
+his
+missing
+health
+.
+Active:
+Gangplank
+consumes a large quantity of citrus fruit,
+cleansing
+himself from all
+crowd control
+and
+healing
+himself.
+Heal:
+45 / 70 / 95 / 120 / 145
+(+ 90% AP)
+(+ 13%
+missing
+health)
+Info
+Targeting input
+Auto
+Damage type
+Type
+Remove Scury
+does not remove
+debuffs
+other than
+crowd control
+, even if both occur from the same effect. For example,
+Remove Scurvy
+will dispel the
+slow
+from
+Exhaust
+, but not its
+damage reduction
+.
+Remove Scurvy
+can remove the underlying
+stun
+from
+airborne
+, but a
+blink
+or
+dash
+ability is required to override the displacement.
+Edit
+Powder Keg
+COST:
+1 Charge
+CAST TIME:
+0.
+25
+STATIC COOLDOWN
+:
+0.
+5
+RECHARGE:
+17 / 16 / 15 / 14 / 13
+TARGET RANGE:
+1000
+EFFECT RADIUS:
+345
+/
+360
+Active:
+Gangplank
+places a
+Powder Keg
+at the target location, which can be basic attacked or
+shot
+to damage it. If an enemy destroys a
+Powder Keg
+, it is safely dismantled. If
+Gangplank
+destroys a
+Powder Keg
+, it will explode to deal the
+attack's damage
+to nearby enemies and
+slow
+them. Against an enemy
+champion
+, the explosion additionally deals
+bonus
+physical damage
+and ignores a
+portion of their armor
+.
+The explosion will cause nearby
+Powder Kegs
+to also explode.
+Gangplank
+stocks a
+Powder Keg
+every few seconds, up to a maximum.
+Active:
+Gangplank
+consumes a charge to place a powder keg at the target location that lasts for 25 seconds and will connect to other kegs with overlapping connection radius through a trail of black powder. The keg starts with
+3 health
+and loses
+1
+every
+2 / 1 / 0.
+5
+(based on level)
+seconds until it is left with
+1 health
+.
+Gangplank
+periodically
+stocks
+a
+Powder Keg
+charge, up to a maximum.
+Maximum charges:
+3 / 3 / 4 / 4 / 5
+Kegs can be
+basic attacked
+by enemies or
+Gangplank
+(including his
+Parrrley
+), dealing 1 damage to it. When an enemy destroys it, it is safely defused. When
+Gangplank
+destroys it, it explodes and also triggers a chain reaction that explodes other nearby connected kegs with a
+0.
+33
+seconds
+-delay between explosions. The explosions also grant
+sight
+of their radiuses for 2 seconds.
+Enemies caught in an explosion are
+slowed
+for 2 seconds, and are dealt the triggering
+attack's damage
+, dealing
+bonus
+physical damage
+against
+champions
+. Each enemy can only be hit once per chain and the damage dealt ignores
+40% of the target's armor
+.
+Slow:
+40 / 50 / 60 / 70 / 80%
+Bonus Champion Damage:
+75 / 105 / 135 / 165 / 195
+If the triggering attack was a
+critical strike
+, the explosions deal 5% more damage on top of the critical damage.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+The triggering attack's damage can include
+Parrrley
+'s base damage and
+Spellblade
+.
+When triggered with critical strike,
+Spellblade
+and the bonus damage to champions are added after the calculations, meaning that these effects are not increased by 5%.
+The total damage can be calculated with this formula:
+{aDMG * [1.75 (
++ 0.40
+)] * 1.05} + sDMG + cDMG
+Where:
+aDMG = Triggering attack's damage
+sDMG = Spellblade's damage
+cDMG = Bonus damage to champions
+Kegs have special interactions with
+Spellblade
+:
+If the keg destroying attack was empowered with
+Spellblade
+, its damage will be added to the explosions' damage.
+If the keg was not destroyed, it will consume the effect and the keg will store the damage it would have dealt. If the storing keg is the initial detonation of the chain, it will add its damage to the explosions' damage as if it was triggered with
+Spellblade
+.
+If the storing keg was attacked with a new instance of
+Spellblade
+, it will override the previously stored damage (if different).
+Damage can only be stored if
+Spellblade
+was consumed by
+Gangplank
+.
+The stored damage is static and will not change if
+Gangplank's
+base
+attack damage or ability power (see below) changes.
+Specific
+Spellblade
+item interactions:
+Bloodsong
+: Dealing damage with kegs to champions won't apply
+Expose Weakness
+to them.
+Iceborn Gauntlet
+: The frost field will be created on the location of the keg that is attacked.
+Lich Bane
+: The
+magic damage
+will be added to the explosions' damage, but will be dealt as
+physical damage
+.
+Trinity Force
+: Attacking kegs grants the movespeed from
+Quicken
+, but not dealing damage with them.
+Placed barrels do
+not
+grant
+vision
+until they explode, but they are revealed to
+Gangplank
+.
+If
+Gangplank
+loses allied vision, for instance due to
+nearsight
+, he will also lose vision on his barrels temporarily.
+Barrels prematurely grant
+sight
+of their explosion radius (including across terrain and into bushes) if
+Parrrley
+or a lit fuse is travelling towards them.
+This area reveal happens even if
+Parrrley
+is not going to make it explode.
+An exploding
+Powder Keg
+will splash
+Parrrley's
+bonus
+damage, and will also be modified if the attack
+critically strikes
+.
+Attacks against
+Powder Kegs
+will apply
+on-hit
+effects (such as
+Tiamat's
+Cleave
+), but
+proc damage
+against the barrel itself is reduced to 0.
+Damage from
+on-hit
+effects will
+not
+increase the damage of the explosion.
+Spellblade
+is a
+special-cased exception
+.
+Dead Man's Plate's
+Crushing Blow
+will not trigger from
+Powder Kegs
+destroyed from
+Gangplank
+, even with
+Parrrley
+.
+The number of
+Powder Kegs
+in stock is visible under
+Gangplank's
+health bar
+for all players.
+Gangplank
+stocks
+Powder Kegs
+even if the ability hasn't been learned yet.
+This is due to the recharge rate at level 1 being set the same as level 0.
+While at maximum charges, ranking up the ability to rank 3 or 5 grants the remaining charge immediately regardless of the recharge timer.
+If a barrel is destroyed during the
+0.
+33
+seconds
+-delay between explosions,
+Gangplank
+will plunder
+gold
+and
+Silver Serpents
+upon killing enemies as if he had done so using
+Parrrley
+.
+(bug)
+This effect persists through
+death
+and will only end upon killing an enemy with
+Parrrley
+.
+Map-Specific Differences
+Ultra Rapid Fire
+differences
+edit
+Keg deterioration speeds up at level 19 to every
+0.
+264
+seconds
+, and at level 25 to every
+0.
+132
+seconds
+.
+Edit
+Cannon Barrage
+COST:
+100 Mana
+COOLDOWN:
+170 / 150 / 130
+CAST TIME:
+0.
+25
+TARGET RANGE:
+Global
+EFFECT RADIUS:
+580
+INNER RADIUS:
+170
+Active:
+Gangplank
+orders a cannon bombardment to the target location, each blast deals
+magic damage
+and
+slows
+enemies within.
+Gangplank
+can improve
+Cannon Barrage
+by purchasing upgrades in the shop with
+Silver Serpents
+.
+Active:
+Gangplank
+shoots a flare into the air, signaling his ship off-shore to fire upon the target location for 8 seconds, calling down 12 waves of cannonballs in clusters of 3 every 2 seconds, and granting
+sight
+of the area for the duration. Each wave deals
+magic damage
+to all enemies within the area and
+slows
+them by 30% for 0.
+5
+seconds.
+Magic Damage Per Wave:
+40 / 70 / 100
+(+ 10% AP)
+Magic Damage Per Cluster:
+120 / 210 / 300
+(+ 30% AP)
+Total Magic Damage:
+480 / 840 / 1200
+(+ 120% AP)
+Gangplank
+can purchase upgrades for his ship in the store at the cost of 500
+Silver Serpents
+each, which improve
+Cannon Barrage
+:
+Death's Daughter
+:
+A large cannonball lands in the center of the barrage after the first cluster of waves occur, dealing a cluster's worth of
+true damage
+to enemies within the impact and
+slowing
+them by 75% for 1 second.
+True Damage with
+Death's Daughter
+:
+120 / 210 / 300
+(+ 30% AP)
+Total Mixed Damage with
+Death's Daughter
+:
+600 / 1050 / 1500
+(+ 150% AP)
+Fire at Will
+:
+Cannon Barrage
+fires
+「 6 additional waves 」
+「 2 additional clusters 」
+over its duration; 18 waves of cannonballs are called down in clusters of 3 every 1.
+3
+3
+seconds.
+Total Magic Damage with
+Fire at Will
+:
+720 / 1260 / 1800
+(+ 180% AP)
+Maximum Mixed Total Damage with
+Fire at Will
+and
+Death's Daughter
+:
+840 / 1470 / 2100
+(+ 210% AP)
+Raise Morale
+:
+Cannon Barrage
+grants
+Gangplank
+and all allies within the area
+40%
+bonus
+movement speed
+, lingering for 2 seconds.
+"Volley fire!"
+Info
+Targeting input
+Location
+Damage type
+Type
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Cannon Barrage's
+slow lingers for 0.
+25
+seconds after affected enemies leave the target area.
+Pets
+[
+edit
+|
+edit source
+]
+Powder Keg
+Bounty
+Gold
+10
+Exp
+0
+Statistics
+Health
+3
+Incoming damage modifier
+1 from champion basic attacks and
+Parrrley
+Not a valid target to
+minions
+and enemy
+abilities
+The only exception is Azir's
+Arise!
+, which deals 1 damage per soldier in range per attack
+Control type
+Autonomous (static)
+Target type
+Minion
+Abilities
+Countdown
+The
+Powder Keg
+loses
+1
+maximum
+health
+every
+2 / 1 / 0.
+5
+(based on level)
+seconds (minimum
+1
+current
+health
+).
+Fire in the Hole
+Gangplank
+can attack a
+Powder Keg
+with basic attacks and
+Parrrley
+. If he destroys it, the keg no longer grants
+kill gold
+but instead explodes, inflicting the triggering strike upon all
+nearby
+enemies, ignoring
+40% of their armor
+,
+slowing
+them by 40 / 50 / 60 / 70 / 80% for 2 seconds, dealing
+75 / 105 / 135 / 165 / 195
+bonus
+physical damage
+to enemy champions and applying
+spell effects
+as
+area damage
+.
+Magic damage
+effects are not applied. If
+Gangplank
+destroys a
+Powder Keg
+with
+Parrrley
+then every enemy killed by the
+Powder Keg
+will also be plundered and grants him
+Silver Serpents
+as if he had killed them with the initial ability.
+Powder Trail
+Powder Kegs
+connect to each other when
+nearby
+, and explode when a
+Powder Keg
+they are connected to is detonated, though they do not affect enemies hit by one of the previous explosions.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Gangplank (Collection)
+.
+Original
+View in 3D
+790
+18.08.2009
+As unpredictable as he is brutal, the dethroned reaver king Gangplank is feared far and wide. Once, he ruled the port city of Bilgewater, and while his reign is over, there are those who believe this has only made him more dangerous. Gangplank would see Bilgewater bathed in blood once more before letting someone else take it—and now with pistol, cutlass, and barrels of gunpowder, he is determined to reclaim what he has lost.
+Matthew Mercer
+Joshua 'HUGEnFAST' Brian Smith
+Loot eligible
+Spooky
+View in 3D
+520
+16.03.2010
+Matthew Mercer
+Unknown artist
+Trick-or-Treat
+Loot eligible
+New SFX/VFX
+Minuteman
+View in 3D
+520
+03.07.2010
+Matthew Mercer
+Unknown artist
+Legacy
+Loot eligible
+New SFX/VFX
+Sailor
+View in 3D
+750
+10.01.2011
+O, Bilgewater has been my home,
+Since last time I was sailing!
+But I'll not stay another day,
+I'd sooner be out whaling.
+Matthew Mercer
+Unknown artist
+Day Job
+Loot eligible
+Legacy
+New SFX/VFX
+Toy Soldier
+View in 3D
+975
+14.12.2011
+Gangplank is a model soldier in the toy army, racking up an impressive array of victories against the dolls and stuffed animals. He hopes to one day be named Toy General, leading his troops into glorious battle.
+Matthew Mercer
+Unknown artist
+Toy Box
+Loot eligible
+Legacy
+New SFX/VFX
+Special Forces
+View in 3D
+975
+12.09.2012
+How special are the special forces? Let's put it this way: they're the only unit in the military with unlimited access to oranges.
+Matthew Mercer
+Unknown artist
+Commando
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Sultan
+View in 3D
+975
+13.11.2013
+Gangplank is a ruler from a distant land, and tales of his battle prowess and flowing red beard have reached even the farthest-flung city-states. As all rulers from distant lands, he also sports a snappy hat.
+Matthew Mercer
+Sperasoft Studio
+Wonders of the World
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Captain
+View in 3D
+975
+09.08.2015
+Gangplank was a legendary murderer and cutthroat, prior to having his ship blown up while he was still on it. The silhouette of his famed captain's jacket is still burned into the memory of more than one unlucky sailor... with many convinced the man is somehow still alive.
+Matthew Mercer
+Alex 'alexplank' Flores
+Bilgewater: Burning Tides
+Loot eligible
+New voiceover
+New SFX/VFX
+Dreadnova
+View in 3D
+1350
+12.01.2017
+Once a high ranking admiral in the Royal Space Military, Gangplank's reign of terror began when he stole and proliferated blueprints for a former colleague's experimental superweapon. Ending a thousand-year civil war in an instant, he defected with a massive armed battalion and formed the interplanetary criminal network known as the Dreadnova Corps.
+Matthew Mercer
+Kelly Aleshire
+Dreadnova
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dreadnova Gangplank Chromas
+Obsidian
+Pearl
+Rogue
+Ruby
+Sapphire
+Tanzanite
+Pool Party
+View in 3D
+1350
+02.08.2018
+Gangplank is the self-crowned King of the Grill, but his summer bod is the real life of the party. There should be a law against those abs.
+Matthew Mercer
+Bo 'chenbowow' Chen
+Pool Party
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Pool Party Gangplank Chromas
+Amethyst
+Citrine
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+FPX
+View in 3D
+1350
+30.04.2020
+Honoring GimGoon's winning performance as Gangplank during the 2019 World Championship.
+Matthew Mercer
+Pan Chengwei
+World Champions: 2019
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+FPX Gangplank Chromas
+Elite
+Gangplank the Betrayer
+View in 3D
+1350
+05.05.2022
+Energized by a mysterious amulet containing Viego of Camavor and wielding the Blade of the Ruined King, Gangplank's personality erupted as he raged in search of the long-lost Isolde. Though ultimately freed of the King's influence by a group of heroes, he carries the experience with him... a reminder, perhaps, of true power.
+Matthew Mercer
+Edward Chee, West Studio
+Ruined
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Gangplank the Betrayer Chromas
+Aquamarine
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Turquoise
+PROJECT
+View in 3D
+1350
+06.03.2024
+Leader of the Command Line with a merciless reputation, Gangplank's access to dangerous PROJECT tech allows him to rule the city with a cybernetic fist. But when an insubordinate program wreaks havoc on his domain, he resorts to manipulating former Outcasts to protect his legacy and wipe the virus out for good.
+Matthew Mercer
+Eric Xie, West Studio
+PROJECT
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+PROJECT: Gangplank Chromas
+Amethyst
+Citrine
+Pearl
+Peridot
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.21
+Stats
+Base mana regeneration increased to 8 from 7.
+5
+.
+Powder Keg
+Recharge timer reduced to 17 / 16 / 15 / 14 / 13 seconds from 18 / 17 / 16 / 15 / 14.
+V14.13
+Powder Keg
+Base slow increased to 40 / 50 / 60 / 70 / 80% from 30 / 37.
+5
+/ 45 / 52.
+5
+/ 60%.
+Removed:
+Slow no longer increases by
+0% − 25% (based on critical strike chance)
+.
+V14.11
+Stats
+Base health increased to 630 from 600.
+Armor growth increased to 4.
+7
+from 4.
+2
+.
+V14.10
+Powder Keg
+Bug Fix:
+Phantom barrel chaining is once again possible.
+V14.9
+General
+Adjusted splash artwork for
+FPX Gangplank
+.
+Stats
+Selection radius increased to 120 units from 85.
+V14.5
+FPX Gangplank
+and
+Gangplank the Betrayer
+Bug Fix:
+VFX connecting the barrels now properly transition in as intended.
+V13.19
+Cannon Barrage
+Cooldown reduced to 170 / 150 / 130 seconds from 180 / 160 / 140.
+Death's Daughter
+slow increased to 75% from 60%.
+Raise Morale
+bonus movement speed increased to 40% from 30%.
+V13.12
+Powder Keg
+Recharge timer reduced to 18 / 17 / 16 / 15 / 14 seconds from 18 at all ranks.
+V13.5
+Trial by Fire
+Total base damage reduced to
+50 − 250 (based on level)
+from
+55 − 310 (based on level)
+.
+Base damage per tick reduced to
+5 − 25 (based on level)
+from
+5.
+5
+− 31 (based on level)
+.
+Powder Keg
+Recharge timer increased to 18 seconds at all ranks from 18 / 17 / 16 / 15 / 14.
+New Effect:
+Amount of barrels now display as a secondary resource on his mana bar.
+V13.4
+Cannon Barrage
+Bug Fix:
+Once again displays tooltips in the upgrades UI.
+V13.1b
+Stats
+Attack damage growth reduced to 3.
+7
+from 4.
+Powder Keg
+Increased damage on critical strikes reduced to 5% from 10%.
+V12.16
+Powder Keg
+Bug Fix:
+Barrel expiration times are now correctly displayed.
+V12.14
+Stats
+Base health reduced to 600 from 640.
+Health growth increased to 114 from 104.
+Base armor reduced to 31 from 35.
+Trial by Fire
+New Effect:
+Now deals an additional
+0 − 200 (based on critical strike chance)
+true damage.
+Parrrley
+Base damage changed to 10 / 40 / 70 / 100 / 130 from 20 / 45 / 70 / 95 / 120.
+Tooltip now additionally tracks
+Silver Serpents
+plundered.
+Powder Keg
+Bonus champion damage changed to 75 / 105 / 135 / 165 / 195 from 80 / 105 / 130 / 155 / 180.
+Slow strength reduced to 30 / 37.
+5
+/ 45 / 52.
+5
+/ 60% from 40 / 50 / 60 / 70 / 80%.
+New Effect:
+Slow strength is now increased by
+0% − 25% (based on critical strike chance)
+.
+Critical strike damage multiplier reduced to 110% from 125%.
+Tooltip no longer notes critical damage multiplier.
+(note)
+V12.10
+Stats
+Base health increased to 640 from 570.
+Health growth increased to 104 from 90.
+Armor growth increased to 4.
+2
+from 3.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Remove Scurvy
+Base heal reduced to 45 / 70 / 95 / 120 / 145 from 50 / 75 / 100 / 125 / 150.
+Health ratio reduced to
+13%
+missing
+health
+from
+15%
+.
+V12.9
+Cannon Barrage
+Bug Fix:
+No longer cancels attack windups of allies in the area of effect after purchasing the
+Raise Morale
+upgrade.
+V12.7
+Trial by Fire
+Total base damage increased to
+55 − 310 (based on level)
+from
+55 − 225 (based on level)
+.
+Base damage per tick increased to
+5.
+5
+− 31 (based on level)
+from
+5.
+5
+− 22.
+5
+(based on level)
+.
+Remove Scurvy
+Mana cost reduced to 60 / 70 / 80 / 90 / 100 from 80 / 90 / 100 / 110 / 120.
+V12.4
+Powder Keg
+Bug Fix:
+Casting it no longer grants a stack of
+Tear of the Goddess'
+Mana Charge.
+V12.1
+Parrrley
+Cooldown reduced to 4.
+5
+seconds from 5.
+Mana cost reduced to 55 / 50 / 45 / 40 / 35 from 60 / 55 / 50 / 45 / 40.
+V11.21
+Parrrley
+Bug Fix:
+Fixed a bug where it still healed for 20% instead of 10% from
+Fleet Footwork
+.
+V11.18
+Stats
+Base health increased to 570 from 540.
+Health growth increased to 90 from 82.
+V11.17
+Trial by Fire
+Bonus movement speed reduced to
+15% − 30% (based on level)
+from 30% at all levels.
+Parrrley
+New Effect:
+Now interacts with hit effects as if
+Gangplank
+was
+ranged
+.
+Undocumented:
+Critical strikes of
+Parrrley
+now modify its
+total
+damage, instead of modifying only the AD ratio.
+(bug)
+Critical
+Parrrley
+damage increased to [20 / 45 / 70 / 95 / 120
+(+ 100% AD)
+] × (175% +
+35%
+)] from 20 / 45 / 70 / 95 / 120 [
++100% AD
+× (175% +
+35%
+)]
+Powder Keg
+New Effect:
+Attacks and
+Parrrley
+that critically strike the
+Keg
+to explode have their damage increased by 25% before the
+Keg
+splashes it.
+This includes the
+Spellblade
+damage applied by the attack or stored on the barrel.
+Number of barrels increased to 3 / 3 / 4 / 4 / 5 from 3 at all ranks.
+Recharge timer increased to 18 / 17 / 16 / 15 / 14 seconds from 18 / 16 / 14 / 12 / 10.
+V11.7
+General
+Bug Fix:
+Fixed a bug where the UI would show square icons, not circle ones.
+V11.3
+General
+New interface added for upgrades to
+Cannon Barrage
+with Silver Serpents.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.25
+- December 15th Hotfix
+Stats
+Attack damage growth increased to 4 from 3.
+V10.23
+- November 16th Hotfix
+Cannon Barrage
+Bug Fix:
+Fixed a bug where he was able to rapidly buy all 3 upgrades with only 500
+Silver Serpents
+.
+Bug Fix:
+Fixed a bug where he was locked out of buying upgrades if the player disconnected.
+V10.23
+Stats
+Base mana reduced to 280 from 282.
+Mana growth increased to 60 from 40.
+V10.11
+Stats
+Attack speed ratio increased to 0.
+69
+from 0.
+658
+.
+Powder Keg
+Bug Fix:
+Barrels no longer stack bonus
+Sheen
+damage when chained.
+V10.6
+Parrrley
+Bug Fix:
+Now properly gains bonus gold or Silver Serpents if the energized lightning from
+Statikk Shiv
+kills a target.
+V10.3
+Parrrley
+Now correctly triggers
+on-attack
+effects.
+V9.22
+Powder Keg
+Bug Fix:
+Barrels no longer trigger
+Teemo's
+Noxious Trap's
+shrooms.
+V9.5
+Powder Keg
+Bonus damage against champions increased to 80 / 105 / 130 / 155 / 180 from 60 / 90 / 120 / 150 / 180.
+Cannon Barrage
+Base damage per wave increased to 40 / 70 / 100 from 35 / 60 / 85.
+V8.23
+- November 21st Hotfix
+Cannon Barrage
+Bug Fix:
+Fixed a bug causing it to always deal rank 1 damage.
+V8.6
+Powder Keg
+Bug Fix:
+Fixed a bug where his basic attack, when empowered by
+Sona's
+Hymn of Valor
+, would detonate his barrels.
+V8.4
+Parrrley
+Mana cost increased to 60 / 55 / 50 / 45 / 40 from 40 at all ranks.
+Powder Keg
+Removed:
+Barrels granting
+vision
+of other units.
+Keg duration reduced to 25 seconds from 60.
+V8.1
+Parrrley
+Bug Fix:
+Now correctly goes on cooldown on cast start instead of cast end.
+Cannon Barrage
+Bug Fix:
+Cooldown will no longer reset when buying the
+Raise Morale
+upgrade.
+V7.22
+Stats
+Base attack damage increased to 64 from 56.
+Base armor increased to 35 from 26.
+Trial by Fire
+Base damage increased to
+55 − 225 (based on level)
+from
+45 − 215 (based on level)
+.
+V7.21
+Parrrley
+Gold plundered increased to 3 / 4 / 5 / 6 / 7 from 2 / 3 / 4 / 5 / 6.
+V7.15
+Trial by Fire
+Bonus true damage increased to
+45 − 215 (based on level)
+from
+30 − 200 (based on level)
+.
+V7.13
+Cannon Barrage
+Bug Fix:
+Audio no longer desyncs when the camera is panned away and then returns.
+V7.4
+Powder Keg
+Bug Fix:
+Fixed a bug where gaining massive movement speed upon killing multiple units with
+Powder Keg
+while being hit by
+Nautilus'
+Riptide
+.
+V7.3
+Parrrley
+Bug Fix:
+Visual effects no longer stick around for too long.
+Powder Keg
+Bug Fix:
+Fixed a bug where
+Gangplank
+could critically strike structures directly after cancelling an attack on a
+Powder Keg
+.
+V7.2
+Powder Keg
+Bug Fix:
+Fixed a bug where if
+Quinn
+Vaulted
+Gangplank
+at the same time as he triggered a
+Powder Keg
+explosion on multiple targets, it made for one fast pirate.
+V6.22
+Parrrley
+Bug Fix:
+Critical strikes
+no longer travel faster than normal casts, fixing a bug that prevented him from chaining extra barrels during the travel time.
+V6.17
+Stats
+Base health reduced to 540 from 580.
+Remove Scurvy
+Mana cost increased to 80 / 90 / 100 / 110 / 120 from 60 / 70 / 80 / 90 / 100.
+Powder Keg
+Bug Fix:
+Fixed a bug where the physical damage dealt to a barrel when detonating it was proccing some lifesteal / spell vamp effects.
+Cannon Barrage
+Cooldown increased to 180 / 160 / 140 seconds from 160 / 150 / 140.
+Base damage per wave reduced to 35 / 60 / 85 from 50 / 70 / 90.
+Total base damage reduced to 420 / 720 / 1020 from 600 / 840 / 1080.
+V6.4
+Parrrley
+Gold
+per kill reduced to 2 / 3 / 4 / 5 / 6 from 4 / 5 / 6 / 7 / 8.
+Powder Keg
+Max. charges changed to 3 from
+2 / 3 / 4 / 5 (based on Cannon Barrage's Rank)
+.
+Recharge time reduced to 18 / 16 / 14 / 12 / 10 seconds from 18 / 17 / 16 / 15 / 14.
+Cannon Barrage
+Removed:
+Passive
+component.
+V6.2
+Cannon Barrage
+Cooldown increased to 160 / 150 / 140 seconds from 140 / 130 / 120.
+V6.1
+Trial by Fire
+DoT duration increased to 2.
+5
+seconds from 1.
+5
+.
+Total damage unchanged.
+AD ratio reduced to
+(+100% bonus AD)
+from
+(+120% bonus AD)
+.
+V5.21
+Stats
+Base health reduced to 580 from 631.
+Health growth increased to 82 from 79.
+Parrrley
+Mana cost reduced to 40 from 50.
+The ability no longer refunds 50% of mana cost (25 mana) on kill.
+V5.18
+Powder Keg
+Bonus physical damage to champions reduced to 60 / 90 / 120 / 150 / 180 from 80 / 110 / 140 / 170 / 200.
+Armor penetration reduced to 40% from 50%.
+V5.17
+Powder Keg
+Delay between casts implemented at 0.
+25
+seconds.
+Armor penetration reduced to 50% from 60%.
+V5.15
+General.
+New splash artwork for
+Original Gangplank
+.
+New voice over, which is applied to all of Gangplank's existing skins.
+Previous appearance re-purposed to
+Captain Gangplank
+.
+Parrrley
+Barrel hitbox for Parrrley substantially reduced (i.e. how close the projectile has to get to count as having hit the barrel).
+On Dominion, Twisted Treeline and ARAM, you now passively gain 1
+Silver Serpent
+per second.
+V5.14
+General
+Complete visual upgrade across all skins.
+New splash artwork for
+Original Gangplank
+.
+New voiceover.
+New lore.
+Stats
+Base damage reduced to 56 from 62.
+Base health reduced to 710 from 712.
+Health growth reduced to 79 from 81.
+Health regen growth reduced to 0.
+6
+from 0.
+75
+.
+Base mana reduced to 282 from 282.
+2
+.
+Base mana regen reduced to 7.
+5
+from 7.
+675
+.
+Attack speed growth increased to 3.
+2
+from 2.
+75
+.
+Base armor reduced to 26 from 26.
+044
+.
+Armor growth reduced to 3 from 3.
+3
+.
+Trial by Fire
+(Innate)
+New Innate:
+Gangplank's next attack ignites the target dealing bonus true damage and grants bonus movement speed. Destroying a
+Powder Keg
+instantly refreshes Trial by Fire and grants the same bonus movement speed.
+Parrrley cannot activate Trial by Fire.
+Parrrley
+(Q)
+New Effect:
+Killing units also grants
+Silver Serpents
+, a unique currency that can be spent to upgrade Cannon Barrage.
+Mana cost reduced to 50 from 50 / 55 / 60 / 65 / 70.
+Mana refund on kill reduced to 25 at all ranks from 25 / 27.
+5
+/ 30 / 32.
+5
+/ 35.
+Undocumented:
+Parrrley's base damage part can no longer crit.
+Remove Scurvy
+(W)
+Heal changed to 50 / 75 / 100 / 125 / 150
+(+90% AP)
+(+15% of missing health)
+from 80 / 150 / 220 / 290 / 360
+(+100% AP)
+.
+Cost changed to 60 / 70 / 80 / 90 / 100 mana from 65 at all ranks.
+Cooldown reduced to 22 / 20 / 18 / 16 / 14 seconds from 22 / 21 / 20 / 19 / 18.
+Powder Keg
+(E)
+New Active:
+Gangplank places a powder keg at the target location that he can attack to detonate, splashing
+the attack's damage
+to surrounding enemies and slowing them for a short duration. The damage benefits from 60% armor penetration and champions take bonus damage. If detonated by
+Parrrley
+, Gangplank will
+plunder
+from all enemies slain. The explosion sets off a chain reaction that explodes other nearby kegs - but the damage does not overlap.
+Enemies can also attack the kegs to safely destroy them (worth gold).
+No cost.
+Cannon Barrage
+(R)
+Now fires clusters of 3 waves every 2 seconds, for a total of 12 waves over an 8-second period (changed from 7 waves over 7 seconds).
+Now
+slows
+by 30% for
+0.
+5
+second (1 second per cluster)
+instead of 25% for the duration.
+Damage per wave changed to 50 / 70 / 90
+(+10% AP)
+from 75 / 120 / 165
+(+20% AP)
+.
+Cooldown increased to 140 / 130 / 120 from
+125
+.
+Gangplank has access to three unique items that can be purchased with
+Silver Serpents
+, a unique currency.
+Death's Daughter:
+An initial, mega-cannonball precedes the barrage, dealing
+「 a cluster worth 」
+「 150 / 210 / 270
+(+30%AP)
+」
+of true damageand
+slowing
+enemies by 60% for 1.
+5
+seconds.
+Raise Morale:
+Allies within the area gain 60% bonus movement speed for 2 seconds.
+Fire at Will:
+Launches 6 additional waves.
+Trivia
+[
+edit
+|
+edit source
+]
+Original Gangplank
+During development he was simply called
+Pirate
+or
+Rogal Cheastbeard
+.
+Gangplank was named after the eponymous
+disembarkation
+device.
+Gangplank is
+voiced
+by
+Dennis Collins Johnson
+, who also voices
+Heimerdinger
+and
+Taric
+.
+Parrrley
+being spelled with three R's references
+the pop culture pirate rendition
+and how Gangplank ironically negotiates (as per the word's definition) by killing his opponents and plundering them.
+Remove Scurvy
+references the real-world disease of
+scurvy
+, a disease common in sailors caused by a deficiency in Vitamin C. The high Vitamin C content in oranges is in turn a tongue-in-cheek way to say that eating them can "remove scurvy".
+NA Summoner 'SantiagoBR'
+is the creator of the
+'But I ate some oranges and it was K'
+meme.
+During Closed Beta 1 of development, Gangplank didn't have a beard. This was changed in Closed Beta 3. An image of him in this state can be viewed
+here
+.
+His secondary role is
+Support
+.
+In the now-removed official League of Legends
+forums
+, the
+original icon of
+Parrrley
+was used to represent the "Bug Reports" section.
+Gangplank, the Saltwater Scourge
+Gangplank is voiced by
+Matthew Mercer
+, who also voices
+Captain Gangplank
+and
+Wolf
+.
+He became the first champion to:
+Receive two
+visual updates
+(the first based on his Chinese artwork and the second based on
+Burning Tides
+).
+Have four Classic skins (counting
+Captain Gangplank
+before being disabled in-game after 'dying' in Burning Tides).
+Temporarily replace the
+announcer
+in every single map.
+One of the scrapped spells tested during Gangplank's visual gameplay update summoned a "pirate
+Gundam
+" that fired mid-range cannonballs from its arm and attacked with a miniature version of
+Unstoppable Force
+.
+[2]
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Specialist
+Specialists
+are champions that do not fit into the "neat little boxes" of the other classes, and represent Riot's ideal of having a champion roster with a lot of distinctiveness and diversity.
+Examples
+Azir
+Teemo
+Heimerdinger
+Singed
+Gangplank
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Powder Keg
+RECHARGE:
+17 / 16 / 15 / 14 / 13
+Active:
+Gangplank
+places a
+Powder Keg
+at the target location, which can be basic attacked or
+shot
+to damage it. If an enemy destroys a
+Powder Keg
+, it is safely dismantled.
+If
+Gangplank
+destroys a
+Powder Keg
+, it will explode to deal the
+attack's damage
+to nearby enemies and
+slow
+them. Against an enemy
+champion
+, the explosion additionally deals
+bonus
+physical damage
+and ignores a
+portion of their armor
+.
+The explosion will cause nearby
+Powder Kegs
+to also explode.
+Gangplank
+stocks a
+Powder Keg
+every few seconds, up to a maximum.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Parrrley
+COOLDOWN:
+4.
+5
+Active:
+Gangplank
+shoots the target enemy with his pistol, dealing
+physical damage
+and applying
+on-hit
+and
+on-attack
+effects.
+If this attack kills the target, he gains
+gold
+and
+Silver Serpents
+.
+League of Legends content
+Default damage
+Default damage
+is dealt by effects that are not otherwise classified, or are deliberately left unclassified. This most common source of
+default damage
+is splash damage from basic attacks.
+Default damage
+does not interact with most other effects, such as
+Conqueror
+stacking,
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of the damage's non-reactive nature (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+True damage
+Applies:
+Corrupting Potion
+Omnivamp
+Mitigated by:
+Damage shields
+Invulnerability
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+Removed content
+League of Legends content
+Parrrley
+COOLDOWN:
+4.
+5
+Active:
+Gangplank
+shoots the target enemy with his pistol, dealing
+physical damage
+and applying
+on-hit
+and
+on-attack
+effects.
+If this attack kills the target, he gains
+gold
+and
+Silver Serpents
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Cannon Barrage
+COOLDOWN:
+170 / 150 / 130
+Active:
+Gangplank
+orders a cannon bombardment to the target location, each blast deals
+magic damage
+and
+slows
+enemies within.
+Gangplank
+can improve
+Cannon Barrage
+by purchasing upgrades in the shop with
+Silver Serpents
+.
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Cast instance
+Cast instance is the identifier that tells the
+source
+of spells. Multiple spells, such as basic attacks and abilities, under the same cast instance behave as one for certain interactions. Some notable examples:
+Conqueror's
+stacking can only be triggered once per cast instance.
+Electrocute
+and
+Phase Rush
+can only receive 1 stack for their activation per cast instance.
+Muramana
+deals its damage once per cast instance.
+Not to be confused with damage instance, which is each individual effects, even under the same cast instance.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Howling Abyss
+The Howling Abyss is a bottomless crevasse located in the coldest, cruelest, part of the
+Freljord
+. Legends say that, long ago, a great battle took place here on the narrow bridge spanning this chasm. No one remembers who fought here, or why, but it is said that if you listen carefully to the wind you can still hear the cries of the vanquished tossed howling into the Abyss.
+Regular Modes
+Classic 5v5
+(
+All random
+)
+Custom
+Featured Game Modes
+Legend of the Poro King
+One For All
+One For All: Mirror Mode
+Snowdown Showdown
+League of Legends content
+Ultra Rapid Fire (U.R.F.)
+Ultra Rapid Fire
+is a
+Featured Game Mode
+that takes place on
+Summoner's Rift
+with the same objective as
+Classic 5v5
+, except all
+champions
+benefit from the
+Awesome Buff of Awesomely Awesome Buffing
+that grants excessive  ability haste and removes ability costs. The gameplay is
+explosive
+. The game mode can be played as
+All Random
+or
+Blind pick
+depending on the year.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Cleanse
+A unit that is
+cleansed
+has all applicable
+crowd control
+status effects removed.
+Due to the nature of the
+cleanse
+interaction, cleansing abilities and effects remain castable in circumstances that would otherwise inhibit casting, unless special-cased.
+"
+Cleanse
+" does not always refer to the act of removing
+all
+crowd control effects, some sources would specify only one or a few types of crowd control.
+A
+cleanse
+does not remove
+Stasis
+, but will remove the disable portion of
+Airborne
+.
+League of Legends content
+Crowd control
+A unit that is
+disabled
+is affected by a status effect that prevents certain actions – such as movement, attacking, casting and/or seeing–blocked, reduced or controlled.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Gangplank's profile page
+at
+LeagueOfLegends.com
+↑
+Statikk on Pirate Gundam

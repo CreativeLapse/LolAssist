@@ -1,0 +1,3016 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Akali
+the Rogue Assassin
+Release date
+2010-05-11
+Last changed
+V14.18
+Class(es)
+Assassin
+Legacy
+Assassin
+Position(s)
+Top
+Middle
+Resource
+Energy
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+3
+Utility
+1
+Style
+Difficulty
+Akali
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Akali
+Base statistics
+Edit
+Health
+600
++119
+Energy
+200
++0
+Health regen. (per 5s)
+9
++0.9
+Energy regen. (per 5s)
+50
+Armor
+23
++4.7
+Attack damage
+62
++3.3
+Magic resist.
+37
++2.05
+Crit. damage
+175%
+Move. speed
+345
+Attack range
+125
+Attack speed
+Base AS
+0.625
+Attack windup
+13.9%
+AS ratio
+N/A
+Bonus AS
++3.2
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+100
+Pathing radius
+30
+Acq. radius
+400
+Special statistics
+Damage Dealt
++5%
+Damage Received
+-10%
+Energy Regen
++20%
+Tenacity & Slow Resist
++20%
+Damage Dealt
++0%
+Damage Received
+-10%
+Ability Haste
++20
+Damage Dealt
++5%
+Damage Received
+-3%
+Damage Dealt
++0%
+Damage Received
+-10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Assassin's Mark
+EFFECT RADIUS:
+500
+Innate:
+Akali's
+damage with abilities against a champion create a ring around them for a few seconds, and she gains
+move speed
+while moving away from the ring. Once
+Akali
+exits the ring, she regains the
+move speed
+towards enemy champions and empowers her next
+basic attack
+with
+bonus
+range
+and
+magic damage
+.
+Innate:
+When
+Akali
+damages an enemy
+champion
+with an
+ability
+, she creates a ring around them for 4 seconds, refreshing on subsequent damaging abilities against champions. For 2 seconds, she gains
+30 / 40 / 50 / 60% (based on level)
+bonus
+movement speed
+while moving away from the center of the ring. Only one ring may be active at a time.
+When
+Akali
+exits the ring, for 2 seconds, she regains the
+bonus
+movement speed
+while facing nearby enemy champions and becomes empowered with
+Swinging Kama
+for 4 seconds, during which she cannot create another ring.
+Swinging Kama:
+Akali's
+next
+basic attack
+is empowered to have its
+range
+doubled and deal
+35 − 182 (based on level)
+(+ 60%
+bonus
+AD)
+(+ 55% AP)
+bonus
+magic damage
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Enemies cannot see the ring, but can see the empower effect.
+Swinging Kama
+gives a static
+bonus
+range which doesn't change if
+Akali's
+range changes during it (i.e
+Rapid Firecannon
+):
+If
+Rapid Firecannon
+fully charges within
+Swinging Kama's
+duration,
+Akali's
+total range increases to
+337.5
+.
+If
+Rapid Firecannon
+fully charges before gaining
+Swinging Kama
+,
+Akali's
+total range is increased to
+395
+.
+The ring will be created around the last target hit by
+Five Point Strike
+.
+The ring's center is offset 120 units away from the enemy's center, towards Akali.
+The empowered attack can be
+dodged
+and
+blocked
+, and will be mitigated by
+blinds
+.
+The empowered attack will trigger but not be consumed nor apply its effects against
+structures
+and
+wards
+.
+Video
+Edit
+Five Point Strike
+COST:
+110 / 100 / 90 / 80 / 70 energy
+COOLDOWN:
+1.
+5
+CAST TIME:
+0.
+25
+/ 0.
+225
+/ 0.
+2
+/ 0.
+175
+(based on level)
+TARGET RANGE:
+500 /
+120
+WIDTH:
+350
+ANGLE:
+20°
+Active:
+Akali
+throws out a cone of kunai that deals
+magic damage
+to enemies hit. Targets hit at maximum range are briefly
+slowed
+.
+Active:
+Akali
+unleashes kunai in a cone in the target direction, dealing
+magic damage
+to enemies hit. Targets beyond a certain range are also
+slowed
+by 50% for 0.
+5
+seconds.
+Magic Damage:
+45 / 70 / 95 / 120 / 145
+(+ 65% AD)
+(+ 60% AP)
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Five Point Strike
+will hit enemies after only
+0.
+188
+/ 0.
+169
+/ 0.
+15
+/ 0.
+131
+(based on level)
+seconds (75% of cast time) into the cast time.
+Due to
+any actions only starting on integer game ticks
+, the effective cast time rounds up to
+0.
+264
+/ 0.
+231
+/ 0.
+231
+/ 0.
+198
+(based on level)
+and the hit will occur at
+0.
+198
+/ 0.
+198
+/ 0.
+165
+/ 0.
+132
+(based on level)
+seconds into it.
+This ability will cast from wherever the caster is at the end of the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 70 / 100 / 130 / 160 / 190.
+Bonus AD ratio changed to
+75%
+bonus
+AD
+.
+AP ratio changed to
+75% AP
+.
+Video
+Edit
+Twilight Shroud
+COOLDOWN
+:
+20 / 19 / 18 / 17 / 16
+CAST TIME:
+0.
+25
+TARGET RANGE:
+250
+EFFECT RADIUS:
+350
+/
+1175
+Active:
+Akali
+restores
+energy
+and gains a brief burst of
+move speed
+. She also drops a smoke shroud that makes her
+invisible
+, attacking or using abilities will briefly reveal her. The shroud will expand into a ring over a few seconds, during which
+Akali
+gains increased
+energy
+.
+Active:
+Akali
+restores
+100 energy
+over 0.
+4
+seconds and gains
+bonus
+movement speed
+that decays over 2 seconds. She also detonates a smoke bomb a fixed distance away in the target direction, creating a circular shroud that expands over the next 5 seconds into a ring. The shroud does not permeate terrain, and will expand toward nearby enemy champions. While the shroud is active,
+Akali's
+maximum
+energy
+is increased by
+100
+.
+Bonus Movement Speed:
+30 / 35 / 40 / 45 / 50%
+Shroud Duration:
+5 / 5.
+5
+/ 6 / 6.
+5
+/ 7 seconds
+Entering the shroud renders
+Akali
+invisible
+, unless she is
+dashing
+.
+Declaring a basic attack or casting an ability will break the invisibility and prevent
+Akali
+from entering it for
+1 − 0.
+625
+(based on minutes)
+seconds, refreshing on subsequent attacks and casts.
+The
+marked
+section of Twilight Shroud will linger for the mark's duration, even after the shroud ends.
+Info
+Targeting input
+Direction
+Akali
+will also not gain the
+invisibility
+if she is
+Recalling
+.
+It is possible for
+Akali
+to detonate the smoke bomb on the far side of terrain from her current location.
+The effects are applied before the cast time, and
+Akali
+can move during the cast time.
+Using a basic attack breaks the stealth at the start of the attack windup.
+Map-Specific Differences
+Arena
+differences
+edit
+Energy restoration changed to 150.
+Bonus movement speed changed to 40 / 45 / 50 / 55 / 60%.
+Cooldown changed to 10 seconds from 20.
+Video
+Edit
+Shuriken Flip
+COST:
+30 energy
+COOLDOWN
+:
+16 / 14.
+5
+/ 13 / 11.
+5
+/ 10
+CAST TIME:
+0.
+4
+/
+0.
+25
+TARGET RANGE:
+825
+EFFECT RADIUS:
+Global
+WIDTH:
+120
+SPEED:
+1800
+/
+1500
+Active:
+Akali
+dashes
+backward and throws a shuriken forward that deals
+magic damage
+and marks the first enemy or
+smoke cloud
+hit for a short time. While
+Shuriken Flip
+marks a target, it can be recast.
+Recast:
+Akali
+dashes
+to the marked target across any distance, dealing
+magic damage
+.
+Active:
+Akali
+flips
+backward and, after the cast time, throws a shuriken in the target direction that deals
+magic damage
+to the first enemy hit.
+Magic Damage:
+21 / 42 / 63 / 84 / 105
+(+ 30% AD)
+(+ 33% AP)
+The shuriken
+marks
+and
+reveals
+the enemy or the last
+smoke
+section hit for 3 seconds, during which
+Shuriken Flip
+can be recast to consume the mark.
+Recast:
+Akali
+dashes
+towards the marked target or smoke section. Against enemies she deals
+magic damage
+upon arrival.
+Magic Damage:
+49 / 98 / 147 / 196 / 245
+(+ 70% AD)
+(+ 77% AP)
+Total Magic Damage:
+70 / 140 / 210 / 280 / 350
+(+ 100% AD)
+(+ 110% AP)
+Akali
+will not flip backwards if she is
+immobilized
+or
+grounded
+during the cast time.
+Twilight Shroud
+and
+Perfect Execution
+can be cast during the recast's dash.
+Info
+Targeting input
+Direction
+/
+Auto
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Akali
+will track the target if they change locations.
+She will not stop tracking the target until she reaches them, as there is no maximum tracking distance.
+Both casts count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Shuriken Flip
+does not interrupt
+Akali's
+previous move or attack orders.
+The recast does.
+Shuriken Flip
+cannot be recast if the target is not
+visible
+or is
+untargetable
+.
+Akali
+will be ordered to basic attack the target after the recast's dash ends.
+Akali
+will dash backwards up-to 400 units in a straight line. This dash can cross terrain if the end point is beyond it. If she would end the dash inside terrain, she will instead look for a location  in either direction left or right that is outside of terrain and dash there. If there is no such location, she will dash only up to the wall at her normal speed, ending the dash early.
+This ability will cast from wherever the caster is at the end of the cast time.
+The shuriken missile will fire from wherever
+Akali
+is at the end of the cast time (usually mid-dash), but always towards and reaching the location that was 825 units in front of her at the start of cast. The only exception is if she moves via
+Flash
+, in which case the range of the missile is decreased relative to the distance she blinked.
+Killing an enemy with the shuriken will still mark the last area of the
+shroud
+hit.
+Attempting to cast
+Five Point Strike
+during either dash will buffer it to cast as soon as the dash ends.
+Attacking
+Disabled
+Abilities
+Twilight Shroud
+is usable.
+Shuriken Flip
+is disabled for 10 seconds and then interrupts. Both dashes of
+Perfect Execution
+interrupt.
+Movement
+Disabled
+Items
+Usable
+All the other item-actives are usable
+Disabled
+N/A
+Interrupted by
+Hextech Rocketbelt
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Teleport
+Recall
+Disabled
+Hexflash
+Interrupted by
+Flash
+Interrupted by
+Death
+Cast-inhibiting effects
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 13 / 12 / 11 / 10 / 9 seconds.
+Video
+Edit
+Perfect Execution
+COOLDOWN
+:
+120 / 90 / 60
+CAST TIME:
+None
+(
+0.
+25
+) /
+None
+TARGET RANGE:
+675
+COLLISION RADIUS:
+110
+SPEED:
+1500
+/
+3000
+Active:
+Akali
+dashes
+in the direction of the target enemy champion, dealing
+physical damage
+to enemies she passes through.
+Perfect Execution
+can be recast within a period.
+Recast:
+Akali
+dashes
+in the target direction, dealing
+magic damage
+to enemies she passes through based on
+their
+missing
+health
+.
+Active:
+Akali
+dashes
+750 units in the direction of the target enemy
+champion
+, dealing
+magic damage
+to enemies she passes through. If this hits an enemy, she flips over them to continue the dash up to the normal range but for at least another 150 units.
+Magic Damage:
+110 / 220 / 330
+(+ 50%
+bonus
+AD)
+(+ 30% AP)
+Perfect Execution
+can be recast after a 2.
+5
+-second
+static cooldown
+within 10 seconds of the first activation.
+Recast:
+Akali
+dashes
+800
+units in the target direction, dealing
+magic damage
+to enemies she passes through, increased by
+0% − 200% (based on target's
+missing
+health)
+.
+Minimum Magic Damage:
+70 / 140 / 210
+(+ 30% AP)
+Maximum Magic Damage:
+210 / 420 / 630
+(+ 90% AP)
+Info
+Targeting input
+Unit
+/
+Direction
+Insufficient dash range
+Dash will gain bonus range through terrain.
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Both casts count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+With the first cast,
+Akali
+can dash up to a maximum of 900 units if the first enemy she hit was at the maximum dash range.
+Casting
+Flash
+during either dashes will interrupt them, but
+Akali
+will deal damage to any enemies she comes in contact with at the new location.
+Enemies already hit by either of
+Perfect Execution's
+casts cannot be affected more than once by the same cast.
+Shuriken Flip
+can be used during the initial dash if it is cast after
+Perfect Execution's
+cast time finishes.
+Video
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Akali (Collection)
+.
+Original
+View in 3D
+790
+11.05.2010
+Abandoning the Kinkou Order and her title of the Fist of Shadow, Akali now strikes alone, ready to be the deadly weapon her people need. Though she holds onto all she learned from her master Shen, she has pledged to defend Ionia from its enemies, one kill at a time. Akali may strike in silence, but her message will be heard loud and clear: fear the assassin with no master.
+Krizia Bajos
+Jessica 'OwleyCat' Oyhenart
+Loot eligible
+Stinger
+View in 3D
+520
+11.05.2010
+The Order of the Great Sparrow Bee follows a brutal, time-honored training regimen, teaching students to sting with the ferocity and ceaselessness of a hornet. Akali is their greatest champion, and she intends to take the art to even greater heights.
+Krizia Bajos
+Pyeongjun Park
+Loot eligible
+Legacy
+Infernal
+View in 3D
+520
+11.05.2010
+A djinn summoned from the world below, the Infernal known as Akali will burn her patron's enemies to cinders… though the cost for such service is always dire.
+Krizia Bajos
+West Studio
+Infernal
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+All-star
+View in 3D
+975
+24.06.2010
+A legendary all-star for Chaos FC, Akali was known for her aggressive style on the pitch. These days, she spends most of her time mentoring children and doing commercials for shoes.
+Krizia Bajos
+Viktor Titov, Grafit Studio
+Soccer Cup
+Loot eligible
+Legacy
+Nurse
+View in 3D
+975
+04.01.2011
+Hello, nurse! Goodbye, being alive.
+Krizia Bajos
+Jennifer Wuestling
+Rift Hospital
+Loot eligible
+New SFX/VFX
+Chromas
+Nurse Akali Chromas
+Amethyst
+Citrine
+Emerald
+Obsidian
+Rainbow
+Rose Quartz
+Ruby
+Tanzanite
+Blood Moon
+View in 3D
+975
+07.06.2011
+Priestesses of the Blood Moon walk their own path, traveling far from the cult to pursue the whispers of their demons. A meditative figure living deep in the snow-dusted wood, Akali was the first woman to embrace her inner darkness, and speak directly with the Blood Moon itself.
+Krizia Bajos
+Zeen Chin
+Blood Moon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Silverfang
+View in 3D
+975
+29.11.2011
+Former second-in-command of an honorable clan of assassins, Akali has broken from their ranks to find her own path. She plies her trade in the darkest corners of the world's largest metropolis, awaiting the day when she can establish a clan of her own.
+Krizia Bajos
+Jennifer Wuestling
+Legacy
+Loot eligible
+New SFX/VFX
+Headhunter
+View in 3D
+1350
+23.03.2015
+Her weapons flaring with alien energy, Akali hunts only the worthy in a dangerous game of life and death. Striking from anywhere at any moment, no living thing can escape her trophy wall.
+Krizia Bajos
+Jason Chan
+Headhunter
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Headhunter Akali Chromas
+Pearl
+Ruby
+Tanzanite
+Sashimi
+View in 3D
+750
+07.09.2016
+She's the fish ninja with speed on her side, the silent slicer, the death strike of deliciousness. Drop your guard and she'll assassinate your palate. It's your favorite and mine, Akali!
+Krizia Bajos
+Jojo So
+Culinary Masters
+Loot eligible
+New SFX/VFX
+KDA
+View in 3D
+1350
+03.11.2018
+Akali's street aesthetic and hard-hitting lyrics inspired a dedicated fandom. She wields a microphone or kama as a hip-hop ninja, revolutionizing the stale scene with her raw talents.
+Krizia Bajos
+Alvin Lee, Pan Chengwei, Bo 'chenbowow' Chen
+K/DA
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Prestige KDA
+View in 3D
+Special
+06.12.2018
+K/DA Akali is on fire right now, spitting rap solos at the Pop Music Awards—and her prestigious costume is exactly what you'd expect from the new golden child of pop.
+Krizia Bajos
+Pan Chengwei
+K/DA
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+KDA
+. Store variants are discounted for multiple purchases.
+PROJECT
+View in 3D
+1350
+01.08.2019
+A cutting-edge PROJECT subject who somehow escaped the City's boundaries, Akali brings dire warnings of an untested superweapon to those living in the wasteland beyond. With time running out and no other options, these outcasts join her in an attempt to take the mega-corporation down… suspicious that their newfound ally might in fact be a double agent.
+Krizia Bajos
+Atey Ghailan
+PROJECT
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+PROJECT: Akali Chromas
+Amethyst
+Catseye
+Obsidian
+Pearl
+Reckoning
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+True Damage
+View in 3D
+1350
+10.11.2019
+After the worldwide success of K/DA, Akali made it her mission to recruit accomplished and up-and-coming artists to form a new supergroup: True Damage. Never before has a crew been comprised of such diverse talent, ranging from natural lyricists to renowned producers to legendary vocalists—all ready to disrupt the music industry.
+Krizia Bajos
+Alvin Lee
+True Damage
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+True Damage Akali Chromas
+Catseye
+Emerald
+Freestyle
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+KDA ALL OUT
+View in 3D
+1350
+29.10.2020
+Fresh off her success with True Damage, Akali hits the stage full-throttle with her bold edge and fresh new direction. She spits fire with a mic in hand and pushes the band to the bleeding edge, because that's what the baddest do.
+Krizia Bajos
+Pan Chengwei
+K/DA
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+K/DA ALL OUT Akali Chromas
+BADDEST
+Catseye
+Pearl
+Peridot
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Crime City Nightmare
+View in 3D
+1350
+26.08.2021
+A loyal enforcer for the Graves family, Akali took the same deal everyone else did when the Mysterious Gentleman came calling. The power changed her, twisted her into something that hears a siren song echoing from beyond the veil of reality. Now she acts in ruthless, horrific violence, seeking an inscrutable 'balance' even she cannot name.
+Krizia Bajos
+West Studio
+Crime City Nightmare
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Crime City Nightmare Akali Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Underground
+Prestige KDA (2022)
+View in 3D
+Special
+01.04.2022
+K/DA Akali is on fire right now, spitting rap solos at the Pop Music Awards—and her prestigious costume is exactly what you'd expect from the new golden child of pop.
+Krizia Bajos
+Pan Chengwei
+K/DA
+Loot ineligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Prestige KDA
+. Store variants are discounted for multiple purchases.
+Star Guardian
+View in 3D
+1820
+28.07.2022
+On-again off-again co-captain of a new generation of Star Guardians, Akali's skill in battle is shadowed by her growing realization that the Oath she swore has condemned her to die. Though she fights for the light with all her heart, she finds that darkness is just as powerful... perhaps, even more so...
+Ashly Burch
+Bo 'chenbowow' Chen
+Star Guardian Season 4
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+Star Guardian Akali Chromas
+Brilliant
+Catseye
+Emerald
+Rose Quartz
+Ruby
+Turquoise
+DRX
+View in 3D
+1350
+01.06.2023
+Honoring Zeka's winning performance as Akali during the 2022 World Championship.
+Krizia Bajos
+Horace 'Hozure' Hsu
+World Champions: 2022
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+DRX Akali Chromas
+Elite
+Coven
+View in 3D
+1350
+11.10.2023
+They came to Akali encircling from the tree canopy at an impossible speed, their taunts leading her deeper still into the Elderwood until at last she was lost. Then a voice whispered the choice right into her ear: die in these woods alone or emerge in their charge. And so she walked out of the woods... straight into the arms of the Coven.
+Krizia Bajos
+Lejia Chan, Kudos Productions
+Coven
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Coven Akali Chromas
+Amethyst
+Catseye
+Destined
+Emerald
+Profane
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Prestige Coven
+View in 3D
+Special
+11.10.2023
+Arriving clad in a bold and sporty body suit, Akali's gala attire has us all spellbound. Subversive and on the cutting edge of fashion, she's fierce and redefines how we think of the wicked witch of the woods.
+Krizia Bajos
+Roanna Peroz, Kudos Productions
+Coven
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Coven
+. Store variants are discounted for multiple purchases.
+Empyrean
+View in 3D
+1350
+01.05.2024
+Before her realm's destruction, Akali was rotting away in prison for a failed assassination attempt on a despotic warlord. Now on her own as an Empyrean, she views her newfound freedom as a sign to stop the evil she couldn't before. The realms need a defender, and Akali is determined to fight for them as long as she can.
+Krizia Bajos
+Exia Xiaotong, Pandart Studio
+Empyrean
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Empyrean Akali Chromas
+Amethyst
+Catseye
+Emerald
+Neon Facade
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.18
+General
+Bug Fix:
+Certain voiceover lines will now properly trigger to play.
+V14.15
+Twilight Shroud
+Cooldown reduced to 20 / 19 / 18 / 17 / 16 seconds from 20 at all ranks.
+Perfect Execution
+First cast base damage changed to 110 / 220 / 330 from 80 / 220 / 360.
+Second cast minimum base damage increased to 70 / 140 / 210 from 60 / 130 / 200.
+Second cast maximum base damage increased to 210 / 420 / 630 from 180 / 390 / 600.
+Cooldown increased to 120 / 90 / 60 seconds from 100 / 80 / 60.
+V14.12
+Shuriken Flip
+Shuriken base damage reduced to 21 / 42 / 63 / 84 / 105 from 30 / 56.
+25
+/ 82.
+5
+/ 108.
+75
+/ 135.
+Shuriken AD ratio increased to
+30% AD
+from
+25.
+5
+% AD
+.
+Shuriken AP ratio reduced to
+33% AP
+from
+36% AP
+.
+Dash base damage reduced to 49 / 98 / 147 / 196 / 245 from 70 / 131.
+25
+/ 192.
+5
+/ 253.
+75
+/ 315.
+Dash AD ratio increased to
+70% AD
+from
+59.
+5
+% AD
+.
+Dash AP ratio reduced to
+77% AP
+from
+84% AP
+.
+V14.8
+- April 18th Hotfix
+Twilight Shroud
+Bug Fix:
+No longer restores 200 energy instead of 100 upon cast.
+V14.8
+Stats
+Base health increased to 600 from 570.
+V14.2
+Assassin's Mark
+New Effect:
+Empowered attack can no longer expire during its windup against a target.
+Bug Fix:
+No longer becomes unable to cast abilities for about 1.
+5
+seconds if she uses the empowered attack at the last second.
+V13.16
+Five Point Strike
+Base damage increased to 45 / 70 / 95 / 120 / 145 from 40 / 65 / 90 / 115 / 140.
+Energy cost reduced to 110 / 100 / 90 / 80 / 70 from 130 / 115 / 100 / 85 / 70.
+V13.11
+Five Point Strike
+Base damage increased to 40 / 65 / 90 / 115 / 140 from 30 / 55 / 80 / 105 / 130.
+V13.10
+Shuriken Flip
+Bug Fix:
+Can now properly cross walls with the dash.
+V13.5
+Shuriken Flip
+Bug Fix:
+Recast can no longer bypass the boundaries of
+Mordekaiser's
+Realm of Death
+.
+V12.18
+Shuriken Flip
+New Effect:
+Now applies
+true sight
+instead of a standard reveal.
+V12.15
+Twilight Shroud
+Bonus maximum energy increased to 100 from 80.
+Energy restore increased to 100 from 80.
+V12.14
+Assassin's Mark
+Bug Fix:
+Spinning animation while the empowered attack is active no longer is delayed when issuing a movement command.
+V12.10
+Stats
+Base health increased to 570 from 500.
+Health growth increased to 119 from 105.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+V11.22
+Assassin's Mark
+Base damage increased to
+35 − 182 (based on level)
+from
+29 − 170 (based on level)
+.
+AP ratio increased to
+55% AP
+from
+40% AP
+.
+V11.19
+Stats
+Base health regeneration increased to 9 from 8.
+Health regeneration growth increased to 0.
+9
+from 0.
+5
+.
+V11.14
+Five Point Strike
+Removed:
+Can no longer be cast during
+Shuriken Flip's
+recast.
+Attempting to cast the ability during either dash will buffer it to cast as soon as the dash ends.
+Perfect Execution
+Second cast minimum base damage reduced to 60 / 130 / 200 from 75 / 145 / 215.
+Second cast maximum base damage reduced to 180 / 390 / 600 from 225 / 435 / 645.
+V11.10
+Shuriken Flip
+Bug Fix:
+Fixed a bug where she would deal double damage if her target was very close to a wall.
+V11.7
+Shuriken Flip
+Bug Fix:
+Fixed an issue where the tooltip would not update its damage numbers when buying or selling items.
+V11.6
+Stats
+Base health reduced to 500 from 575.
+Health growth increased to 105 from 95.
+Assassin's Mark
+Removed:
+No longer restores
+10 / 15 / 20 (based on level)
+energy
+.
+Five Point Strike
+Energy cost changed to 130 / 115 / 100 / 85 / 70 from 120 / 115 / 110 / 105 / 100.
+Removed:
+No longer deals 25% bonus damage against minions and monsters at max rank.
+Twilight Shroud
+New Effect:
+Now increases her
+maximum
+energy
+by 80 while the shroud is active.
+Undocumented:
+Energy restore is now gained over 0.
+4
+seconds, rather than instantly.
+Shuriken Flip
+Shuriken base damage reduced to 30 / 56.
+25
+/ 82.
+5
+/ 108.
+75
+/ 135 from 50 / 85 / 120 / 155 / 190.
+Dash base damage increased to 70 / 131.
+25
+/ 192.
+5
+/ 253.
+75
+/ 315 from 50 / 85 / 120 / 155 / 190.
+Total base damage increased to 100 / 187.
+5
+/ 275 / 362.
+5
+/ 450 from 100 / 170 / 240 / 310 / 380.
+Shuriken AP ratio reduced to
+36% AP
+from
+50% AP
+.
+Dash AP ratio increased to
+84% AP
+from
+50% AP
+.
+Total AP ratio increased to
+120% AP
+from
+100% AP
+.
+Shuriken AD ratio reduced to
+25.
+5
+% AD
+from
+35% AD
+.
+Dash AD ratio increased to
+59.
+5
+% AD
+from
+35% AD
+.
+Total AD ratio increased to
+85% AD
+from
+70% AD
+.
+Perfect Execution
+First cast base damage changed to 80 / 220 / 360 from 125 / 225 / 325.
+First cast damage type changed to magic from physical.
+New Effect:
+First cast now scales with
+30% AP
+.
+V11.2
+Five Point Strike
+Energy cost increased to 120 / 115 / 110 / 105 / 100 from 120 / 110 / 100 / 90 / 80.
+V11.1
+Stats
+Base attack damage reduced to 62 from 62.
+4
+.
+V10.25
+- December 15th Hotfix
+Assassin's Mark
+Bonus movement speed reduced to
+30 / 40 / 50 / 60% (based on level)
+from
+40 / 50 / 60 / 70% (based on level)
+.
+Base damage reduced to
+29 − 170 (based on level)
+from
+39 − 180 (based on level)
+.
+AP ratio reduced to
+40% AP
+from
+50% AP
+.
+V10.24
+K/DA ALL OUT Akali
+Assassin's Mark's
+ring visual effect has been updated to match her helmet.
+V10.23
+Five Point Strike
+Energy cost reduced to 120 / 110 / 100 / 90 / 80 from 120 / 115 / 110 / 105 / 100.
+V10.22
+Shuriken Flip
+Bug Fix:
+Recast will no longer fizzle if she tries to reactivate it too quickly after marking her
+Twilight Shroud
+.
+V10.19
+Five Point Strike
+Base damage reduced 30 / 55 / 80 / 105 / 130 from 35 / 60 / 85 / 110 / 135.
+AP ratio reduced to
+60% AP
+from
+65% AP
+.
+V10.16
+Five Point Strike
+Base damage increased to 35 / 60 / 85 / 110 / 135 from 30 / 55 / 80 / 105 / 130.
+Shuriken Flip
+Damage type changed to magic from physical.
+V10.13
+Nurse Akali
+Updated visual effects.
+V10.12
+Five Point Strike
+Base damage increased to 30 / 55 / 80 / 105 / 130 from 25 / 50 / 75 / 100 / 125.
+AP ratio increased to
+65% AP
+from
+60% AP
+.
+V10.7
+Perfect Execution
+Cooldown reduced to 100 / 80 / 60 seconds from 120 / 90 / 60.
+V10.3
+- February 6th Hotfix
+Shuriken Flip
+Base damage increased to 50 / 85 / 120 / 155 / 190 from 40 / 70 / 100 / 130 / 160.
+Perfect Execution
+Cooldown reduced to 120 / 90 / 60 seconds from 160 / 130 / 100.
+First dash base damage increased to 125 / 225 / 325 from 85 / 150 / 215.
+V10.3
+Five Point Strike
+Energy cost increased to 120 / 115 / 110 / 105 / 100 from 100 / 95 / 90 / 85 / 80.
+Twilight Shroud
+Removed:
+No longer gains 20 / 25 / 30 / 35 / 40%
+bonus
+movement speed while in the shroud.
+New Effect:
+On-cast, now gains 30 / 35 / 40 / 45 / 50%
+bonus
+movement speed that decays over 2 seconds.
+Perfect Execution
+First cast targeting changed to champion targeting from free targeting.
+First cast target range increased to 675 units from 575.
+First cast dash distance increased to
+675 / 690 / 705 / 720 / 735 / 750 / 765 / 780 / 795 / 810 / 825 (based on distance from target)
+units from 575.
+V9.24
+Five Point Strike
+Removed:
+No longer has a hitbox behind herself.
+Bonus damage at max rank against minions and monsters reduced to 25% from 33%.
+V9.23
+True Damage Akali
+Loading screen border is now uniquely colored per True Damage skin.
+V9.19
+Perfect Execution
+Second base minimum base damage increased to 75 / 145 / 215 from 65 / 140 / 215.
+Second cast maximum base damage increased to 225 / 435 / 645 from 195 / 420 / 645.
+V9.18
+Perfect Execution
+Removed:
+No longer stuns for 0.
+5
+seconds on first cast.
+Second cast minimum base damage reduced to 65 / 140 / 215 from 85 / 150 / 215.
+Second cast maximum base damage reduced to 195 / 420 / 645 from 255 / 450 / 645.
+Cooldown increased to 160 / 130 / 100 seconds from 120 / 110 / 100.
+V9.16
+General
+Adjusted splash artwork for
+Sashimi Akali
+.
+V9.14
+- July 22nd Hotfix
+Twilight Shroud
+Bug Fix:
+Fixed a bug where she wasn't immediately stealthed after casting.
+V9.14
+- July 18th Hotfix
+Stats
+Base health increased to 575 from 550.
+Base health regeneration increased to 8 from 6.
+V9.14
+- July 17th Hotfix
+Perfect Execution
+Bug Fix:
+Travel speed when casting
+Perfect Execution
+is no longer slower than intended.
+V9.14
+Stats
+Base magic resistance increased to 37 from 32.
+1
+.
+Health growth increased to 95 from 85.
+Five Point Strike
+AP ratio increased to
+60% AP
+from
+50% AP
+.
+Twilight Shroud
+Removed:
+No longer causes all sources of
+true sight
+(except for
+turret
+targeting) to grant
+obscured vision
+instead.
+Now only gains
+invisibility
+in the shroud.
+Cooldown changed to 20 seconds at all ranks from 25 / 22 / 19 / 16 / 13.
+Energy restore increased to 80 at all ranks from 40 / 50 / 60 / 70 / 80.
+Removed:
+Duration is no longer extended by 2 seconds if
+Akali
+breaks and re-enters stealth.
+Shuriken Flip
+Shuriken base damage reduced to 40 / 70 / 100 / 130 / 160 from 70 / 105 / 140 / 175 / 210.
+Shuriken AD ratio changed to
+35%
+total
+AD
+from
+70%
+bonus
+AD
+.
+New Effect:
+Shuriken damage now scales with
+50% AP
+.
+Dash base damage reduced to 40 / 70 / 100 / 130 / 160 from 50 / 80 / 110 / 140 / 170.
+Dash AD ratio changed to
+35%
+total
+AD
+from
+70%
+bonus
+AD
+.
+New Effect:
+Dash damage now scales with
+50% AP
+.
+Perfect Execution
+Cooldown increased to 120 / 110 / 100 seconds from 100 / 85 / 70.
+V9.11
+Assassin's Mark
+Energy restoration reduced to
+10 / 15 / 20 (based on level)
+from
+10 / 20 / 30 (based on level)
+.
+Bonus AD ratio reduced to
+60%
+bonus
+AD
+from
+90%
+.
+AP ratio reduced to
+50% AP
+from
+70% AP
+.
+V9.9
+Twilight Shroud
+Bonus duration reduced to 2 seconds from 3.
+Maximum duration reduced to 7 / 7.
+5
+/ 8 / 8.
+5
+/ 9 seconds from 8 / 8.
+5
+/ 9 / 9.
+5
+/ 10.
+Cooldown increased to 25 / 22 / 19 / 16 / 13 seconds from 21 / 19 / 17 / 15 / 13.
+V9.7
+Twilight Shroud
+Bug Fix:
+Fixed a bug where the cooldown was incorrectly calculated with her cooldown reduction.
+V9.5
+Assassin's Mark
+Movement speed duration gained from moving towards the edge of the ring increased to 2 seconds from 1.
+25
+.
+Movement speed duration gained from moving towards enemies increased to 2 seconds from 1.
+25
+.
+Twilight Shroud
+New Effect:
+Is now only revealed by towers if she is within attack range rather than sight range.
+New Effect:
+Now only needs to exit and re-enter the shroud once to extend the duration by 3 seconds, instead of 6 times.
+Shuriken Flip
+Shuriken base damage increased to 70 / 105 / 140 / 175 / 210 from 60 / 90 / 120 / 150 / 180.
+Dash base damage reduced to 50 / 80 / 110 / 140 / 170 from 60 / 90 / 120 / 150 / 180.
+Perfect Execution
+Cooldown reduced to 100 / 85 / 70 seconds from 120 / 100 / 80.
+V9.3
+Stats
+Base health regeneration increased to 6 from 3.
+5
+.
+Five Point Strike
+Removed:
+If cast at
+180 energy or above
+, no longer heals for 5 / 10 / 15 / 20 / 25
+(+ 20 / 25 / 30 / 35 / 40% AD)
+(+ 20 / 25 / 30 / 35 / 40% AP)
+.
+Twilight Shroud
+Removed:
+Twilight Shroud
+no longer prevents turrets from revealing
+Akali
+.
+Cooldown increased to 21 / 19 / 17 / 15 / 13 seconds from 21 / 18.
+5
+/ 16 / 13.
+5
+/ 11.
+V8.24b
+Twilight Shroud
+New Effect:
+Akali
+now briefly obscures (opponents can see her outline but not target her) before stealthing or re-stealthing even if enemies don't have true sight in the area.
+New Effect:
+Targeted abilities and uncancellable basic attacks (e.g.
+Nasus'
+Siphoning Strike
+) are no longer canceled when
+Akali
+stealths or re-stealths.
+Re-stealth timing changed to
+1 / 0.
+9
+/ 0.
+825
+/ 0.
+725
+/ 0.
+625
+(based on minutes)
+seconds from
+0.
+9
+/ 0.
+8
+/ 0.
+725
+/ 0.
+625
+(based on levels)
+.
+Base duration increased to 5 / 5.
+5
+/ 6 / 6.
+5
+/ 7 seconds from 4 / 4.
+5
+/ 5 / 5.
+5
+/ 6.
+Maximum duration increased to 8 / 8.
+5
+/ 9 / 9.
+5
+/ 10 seconds from 6 / 6.
+5
+/ 7 / 7.
+5
+/ 8.
+V8.24
+Twilight Shroud
+Base duration reduced to 4 / 4.
+5
+/ 5 / 5.
+5
+/ 6 seconds from 5 / 5.
+5
+/ 6 / 6.
+5
+/ 7.
+Maximum duration reduced to 6 / 6.
+5
+/ 7 / 7.
+5
+/ 8 seconds from 8 / 8.
+5
+/ 9 / 9.
+5
+/ 10.
+K/DA Akali
+Bug Fix:
+Transition into her slowed animation has been restored.
+Perfect Execution
+Bug Fix:
+SFX volume no longer stacks when hitting multiple targets.
+V8.23
+- November 21st Hotfix
+General
+Bug Fix:
+Fixed a bug that made her attack speed higher than intended.
+V8.22
+General
+No longer has 4 last-hit assistance.
+Twilight Shroud
+Cooldown increased to 21 / 18.
+5
+/ 16 / 13.
+5
+/ 11 seconds from 17 / 15.
+5
+/ 14 / 12.
+5
+/ 11.
+Perfect Execution
+First and second cast base damage changed to 85 / 150 / 215 from 100 / 150 / 200.
+V8.18
+Perfect Execution
+First and second cast base damage reduced to 100 / 150 / 200 from 120 / 180 / 240.
+V8.17
+Perfect Execution
+Bug Fix:
+Fixed a bug where it dealt damage to all opponents based on the health of the last enemy struck, rather than calculating damage individually for each.
+V8.15
+- Full Relaunch
+General
+Title changed to
+the Rogue Assassin
+from
+the Fist of Shadow
+.
+Complete visual upgrade across all skins.
+New splash artwork for
+Original Akali
+,
+Stinger Akali
+,
+All-star Akali
+,
+Nurse Akali
+,
+Blood Moon Akali
+and
+Silverfang Akali
+.
+Adjusted splash artwork for
+Headhunter Akali
+and
+Sashimi Akali
+.
+Crimson Akali
+skin reworked into
+Infernal Akali
+.
+New voice over.
+New lore.
+New abilities.
+Stats
+Base movement speed reduced to 345 from 350.
+Attack speed delay increased to 0 from -0.
+1
+.
+Base attack speed reduced to 0.
+625
+from 0.
+694
+.
+Base attack damage increased to 62.
+4
+from 58.
+376
+.
+Base armor reduced to 23 from 31.
+38
+.
+Base health reduced to 550 from 593.
+Base health regeneration reduced to 3.
+5
+from 8.
+5
+.
+Attack speed growth increased to 3.
+2
+% from 3.
+1
+%.
+Attack damage growth increased to 3.
+3
+from 3.
+2
+.
+Health growth reduced to 85 from 90.
+Health regeneration growth reduced to 0.
+5
+from 0.
+65
+.
+Assassin's Mark
+(Innate)
+Akali's
+ability damage against enemy champions creates a 500-unit ring around them for 4 seconds, granting her
+40 / 50 / 60 / 70% (based on level)
+bonus
+movement speed for 1.
+25
+seconds while moving towards the edge of the ring.
+When
+Akali
+breaks through the ring, she regains the
+bonus
+movement speed towards enemy champions and gains
+Swinging Kama
+for 4 seconds.
+Swinging Kama:
+Akali's
+next basic attack gains 125
+bonus
+range
+, deals
+39 − 180 (based on level)
+(+ 90%
+bonus
+AD)
+(+ 70% AP)
+bonus
+magic damage and restores
+10 / 20 / 30 (based on level)
+.
+Five Point Strike
+(Q)
+Active:
+Akali
+throws a flurry of kunais in the target direction, dealing 25 / 50 / 75 / 100 / 125
+(+ 65% AD)
+(+ 50% AP)
+magic damage to enemies hit. Enemies hit at maximum range are also
+slowed
+by 50% for 0.
+5
+seconds.
+If cast at
+180 energy or above
+,
+Akali
+also heals for 5 / 10 / 15 / 20 / 25
+(+ 20 / 25 / 30 / 35 / 40% AD)
+(+ 20 / 25 / 30 / 35 / 40% AP)
+.
+At rank 5, deals 33.
+3
+%
+bonus
+damage to minions and monsters.
+Target Range:
+500.
+Energy Cost:
+100 / 95 / 90 / 85 / 80.
+Cooldown:
+1.
+5
+seconds.
+Twilight Shroud
+(W)
+Active:
+Akali
+restores 40 / 50 / 60 / 70 / 80 energy and detonates a smoke bomb in the target direction for 5 / 5.
+5
+/ 6 / 6.
+5
+/ 7 seconds. The smoke cloud begins as a circular area, expanding over the next 5 seconds to form a ring. The smoke cannot expand through terrain.
+While inside the smoke,
+Akali
+is
+invisible
+, gains 20 / 25 / 30 / 35 / 40%
+bonus
+movement speed and causes all sources of
+true sight
+, including turrets, to grant
+obscured vision
+instead.
+Akali's
+basic attacks and abilities will break the invisibility for
+0.
+9
+/ 0.
+8
+/ 0.
+725
+/ 0.
+625
+(based on levels)
+seconds and extend
+Twilight Shroud's
+duration by 0.
+5
+seconds, extending aswell whenever she leaves or enters the cloud.
+Twilight Shroud's
+duration cannot exceed 8 / 8.
+5
+/ 9 / 9.
+5
+/ 10 seconds unless
+marked
+, in which case the marked section will linger for the mark's duration.
+Target Range:
+250.
+Energy Cost:
+No cost.
+Cooldown:
+17 / 15.
+5
+/ 14 / 12.
+5
+/ 11
+seconds.
+Shuriken Flip
+(E)
+First Active:
+Akali
+dashes backward and fires a shuriken forward, dealing 60 / 90 / 120 / 150 / 180
+(+ 70%
+bonus
+AD)
+physical damage to the first enemy hit and
+marking
+them.
+If the
+Shuriken
+reaches maximum range without hitting an enemy, or the enemy dies because of the shuriken, it will mark the furthest most portion of
+Twilight Shroud
+it travelled through if applicable.
+While a target is marked,
+Akali
+can reactivate
+Shuriken Flip
+within the next 3 seconds.
+Second Active:
+Akali
+dashes towards the marked target, dealing the same initial damage.
+Target Range:
+650
+/
+Global
+.
+Energy Cost:
+30.
+Cooldown:
+16 / 14.
+5
+/ 13 / 11.
+5
+/ 10 seconds.
+Perfect Execution
+(R)
+First Active:
+Akali
+dashes in the target direction, dealing 120 / 180 / 240
+(+ 50%
+bonus
+AD)
+physical damage and
+stunning
+enemies hit for 0.
+5
+seconds.
+After 2.
+5
+seconds,
+Perfect Execution
+can be reactivated within the following 7.
+5
+seconds.
+Second Active:
+Akali
+dashes in the target direction, dealing 120 / 180 / 240
+(+ 30% AP)
+magic damage to enemies hit. The
+base
+damage is increased by
+0% − 150% (based on target's
+missing
+health)
+, and the
+scaling
+damage
+is increased by
+0% − 200% (based on target's
+missing
+health)
+.
+Target Range:
+575
+/
+750
+.
+Energy Cost:
+No cost.
+Cooldown:
+120 / 100 / 80 seconds.
+Trivia
+[
+edit
+|
+edit source
+]
+Akali, the Fist of Shadow
+Akali's dance referenced
+Single Ladies
+by
+Beyoncé
+.
+A side-by-side comparison can be seen
+here
+.
+Akali was the only energy-based champion to have any associated cost on their
+ultimate
+(one Essence of Shadow).
+Shadow Dance
+was going to be a skillshot but became single-targeted instead.
+Akali used to gain the
+'Law of Inverse Ninja Strength'
+cosmetic
+Easter egg
+debuff (
+"This unit is a flippin' ninja!"
+-
+"Ninjas are more effective when they work alone. For every Ninja on your team beyond yourself, you lose 1 health."
+) when she,
+Kennen
+,
+Shen
+, and/or
+Zed
+found themselves on the same team. It was removed in
+V3.14
+for unknown reasons.
+In the
+V1.0.0.115
+April Fools' Day
+patch, the following change regarding Akali was jokingly listed：
+Akali is no longer a ninja.
+Akali, the Rogue Assassin
+Due to
+Japanese rhotacism
+,
+Akali
+may sound identical to Japanese 明かり
+akari
+"
+light
+, brightness, gleam", from Old Japanese stative verbal root
+*aka(-r-)
+"to be red, to be bright" (>
+aka(-i)
+赤(い) "red")
+Akali is the second champion, after
+Yasuo
+, to have an emote that will orient itself the same (facing towards the camera), no matter what direction Akali was facing.
+However, she is the first to always reposition herself to face the camera when using the emotes, and has this function on both her dance and joke emotes.
+Akali's Series 1
+Eternals
+make the following references:
+Check Marks
+references the
+eponymous symbol
+.
+Like a Ninja
+describes
+Shuriken Flip's
+mobility and use of
+shuriken
+, two features common in depictions of
+ninja
+in popular culture.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Assassin
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Assassins
+specialize in infiltrating enemy lines with their unrivaled mobility to quickly dispatch high-priority targets. Due to their mostly melee nature, Assassins must put themselves into dangerous positions in order to execute their targets. Luckily, they often have defensive tricks up their sleeves that, if used cleverly, allow them to effectively avoid incoming damage.
+Examples
+Akali
+Evelynn
+Zed
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Energy
+Energy
+is a resource designed to limit how much a champion is able to use their
+basic
+abilities during a set time frame rather than through the use of
+mana
+. It is represented by a
+yellow
+bar instead of
+blue
+.
+Energy
+has a maximum of
+200
+(except for
+Shen
+, with
+400
+), and regenerates rapidly, at a rate of
+10 energy
+per second. This means that energy champions are not at risk of depleting their resource over a long period of time, however the small capacity restricts the rapid usage of multiple spells.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Basic attack
+The
+basic attack
+(or
+auto-attack
+) is the most basic means of a unit to deal damage to another unit, usually dealing
+100% AD
+. It has a brief cooldown based on the caster's current
+attack speed
+.
+All
+basic attacks
+are normally unit-targeted with their range limited by the caster's
+attack range
+, and have a brief attack
+windup
+. Damage is then dealt depending on the caster's range type:
+Melee
+and some projectile-less ranged attacks deal damage immediately.
+Ranged
+attacks usually send a projectile that follows the target and deals damage upon striking them. Projectiles can be intercepted by certain
+blocking
+effects.
+The damage event will trigger
+on-hit effects
+from buffs the caster may hold. If damage cannot be dealt, on-hit effects will not be triggered.
+On-attack
+effects will always trigger when the attack's
+windup
+completes.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Five Point Strike
+COOLDOWN:
+1.
+5
+Active:
+Akali
+throws out a cone of kunai that deals
+magic damage
+to enemies hit. Targets hit at maximum range are briefly
+slowed
+.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Invisibility
+Invisibility
+is a form of stealth that renders a unit hidden from enemy
+vision
+for a
+short
+period of time. It can be utilized to sneak in on opponents as well as the ability to reposition in-combat or simply to flee from a skirmish. It also grants
+ghosting
+.
+Invisible
+units can
+only
+be revealed by
+True Sight
+.
+Stealthed
+units shimmer their character model for 0.
+6
+seconds whenever they take damage.
+A unit will shimmer for every instance of damage they take, and shimmering does not make the unit targetable nor remove the
+stealth
+effect, but grants positional information to the enemy.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Shuriken Flip
+COOLDOWN:
+16 / 14.
+5
+/ 13 / 11.
+5
+/ 10
+Active:
+Akali
+dashes
+backward and throws a shuriken forward that deals
+magic damage
+and marks the first enemy or
+smoke cloud
+hit for a short time.
+While
+Shuriken Flip
+marks a target, it can be recast.
+Recast:
+Akali
+dashes
+to the marked target across any distance, dealing
+magic damage
+.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Twilight Shroud
+COOLDOWN:
+20 / 19 / 18 / 17 / 16
+Active:
+Akali
+restores
+energy
+and gains a brief burst of
+move speed
+. She also drops a smoke shroud that makes her
+invisible
+, attacking or using abilities will briefly reveal her.
+The shroud will expand into a ring over a few seconds, during which
+Akali
+gains increased
+energy
+.
+League of Legends content
+True sight
+True Sight
+reveals units through
+fog of war
+,
+brush
+, and
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Immobilize
+Immobilized
+units cannot control their movement. The following crowd control effects
+immobilize
+the unit:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Root
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Impaired movement
+is a similar term that, in addition to the above, also refers to units that are
+slowed
+.
+League of Legends content
+Ground
+A unit that is
+grounded
+is unable to activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Grounded
+units can still be displaced.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Ground
+is the only type of
+crowd control
+that is most commonly found in persistent area of effects, which will reapply the status effect continuously.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Perfect Execution
+COOLDOWN:
+120 / 90 / 60
+Active:
+Akali
+dashes
+in the direction of the target enemy champion, dealing
+physical damage
+to enemies she passes through.
+Perfect Execution
+can be recast within a period.
+Recast:
+Akali
+dashes
+in the target direction, dealing
+magic damage
+to enemies she passes through based on
+their
+missing
+health
+.
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Assassin's Mark
+Innate:
+Akali's
+damage with abilities against a champion create a ring around them for a few seconds, and she gains
+move speed
+while moving away from the ring.
+Once
+Akali
+exits the ring, she regains the
+move speed
+towards enemy champions and empowers her next
+basic attack
+with
+bonus
+range
+and
+magic damage
+.
+League of Legends content
+Realm of Death
+COOLDOWN:
+140 / 120 / 100
+Active:
+Mordekaiser
+slows
+the target enemy champion, then banishes them with him to the
+Death Realm
+for a few seconds, cancelling all interactions with non-banished units.
+Additionally,
+Mordekaiser
+heals
+himself for a portion of the
+target's
+maximum
+health
+and temporarily steals a portion of their
+current
+attack damage
+,
+ability power
+,
+total
+attack speed
+,
+maximum
+health
+,
+armor
+,
+magic resist
+, and
+size
+.
+If the target dies while inside the
+Death Realm
+,
+Mordekaiser
+keeps his stolen stats until they
+respawn
+.
+Death Realm:
+The
+Death Realm
+confines units in a small area. Allies and enemies cannot see or interact with those in the
+Death Realm
+but can see their locations and vice versa.
+References
+[
+edit
+|
+edit source
+]
+↑
+Akali's profile page
+at
+LeagueOfLegends.com

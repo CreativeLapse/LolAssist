@@ -1,0 +1,2852 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Galio
+the Colossus
+Release date
+2010-08-10
+Last changed
+V14.21
+Class(es)
+Warden
+Legacy
+Tank
+Mage
+Position(s)
+Middle
+Support
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Magic
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+2
+Toughness
+3
+Control
+3
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Galio
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Galio
+Base statistics
+Edit
+Health
+632
++126
+Mana
+410
++40
+Health regen. (per 5s)
+8
++0.8
+Mana regen. (per 5s)
+9.5
++0.7
+Armor
+24
++4.7
+Attack damage
+59
++3.5
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+340
+Attack range
+150
+Attack speed
+Base AS
+0.625
+Attack windup
+20.625%
+AS ratio
+N/A
+Bonus AS
++1.5
+%
+Unit radius
+Gameplay radius
+80
+Selection radius
+125
+Pathing radius
+50
+Acq. radius
+600
+Special statistics
+Damage Dealt
+-10%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Colossal Smash
+STATIC COOLDOWN
+:
+5
+EFFECT RADIUS:
+250
+Innate:
+Every few seconds,
+Galio's
+next basic attack is modified to gain
+attack speed
+and deal
+magic damage
+in an area, increased based on his
+bonus
+magic resist
+.
+Galios's
+ability hits against enemy
+champions
+or epic
+monsters
+reduce
+Colossal Smash's
+cooldown
+.
+Innate:
+Periodically,
+Galio's
+next
+basic attack
+is empowered to have an
+uncancellable windup
+, gain
+40%
+bonus
+attack speed
+and deal
+15 − 115 (based on level)
+(+ 100% AD)
+(+ 45% AP)
+(+ 60%
+bonus
+magic resistance)
+modified
+magic damage
+to the target and all enemies near them.
+Whenever
+Galio
+hits at least one enemy
+champion
+or epic
+monster
+with an
+ability
+, the
+cooldown
+of
+Colossal Smash
+is reduced by 3 seconds. This may occur only once per cast.
+Colossal Smash's
+damage based on its
+AD ratio
+can
+critically strike
+for
+(75% +
+40%
+) AD
+bonus
+magic damage
+to all targets hit.
+"Smash!"
+Info
+Targeting input
+Passive
+Damage type
+Type
+Default damage
+Sub-type
+Magic
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Spellblade
+does not get converted to magic damage and it will deal its damage only to the primary target.
+The empowered attack will not trigger against
+wards
+.
+Even if the ability hit is
+spell shielded
+Colossal Smash's
+cooldown will still be reduced.
+Edit
+Winds of War
+COST:
+70 / 75 / 80 / 85 / 90 Mana
+COOLDOWN:
+11 / 10 / 9 / 8 / 7
+CAST TIME:
+0.
+25
+TARGET RANGE:
+825
+EFFECT RADIUS:
+150
+WIDTH:
+120
+SPEED:
+1400
+/
+50
+Active:
+Galio
+fires two windblasts that converge to the target location, dealing
+magic damage
+to enemies hit. Upon converging, the blasts form a tornado that continually deals
+magic damage
+to enemies within, based on each
+target's
+maximum
+health
+.
+Active:
+Galio
+creates two windblasts 250 units to either side of him that arc out before converging to the target location, dealing
+magic damage
+to all enemies they pass through.
+Magic Damage:
+70 / 105 / 140 / 175 / 210
+(+ 70% AP)
+When the blasts meet, the gusts form a tornado that persists for 2 seconds, slowly moving forward and dealing
+magic damage
+equal to
+「
+2.
+5
+%
+(+ 1% per 100 AP)
+of target's
+maximum
+health
+every 0.
+5
+seconds 」
+「
+10%
+(+ 4% per 100 AP)
+of target's
+maximum
+health
+over the duration 」
+to enemies within the area, capped at
+「 150 per tick 」
+「 600 total 」
+against
+monsters
+.
+Winds of War will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+See Notes
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Deals
+area damage
+on the gust and applies
+persistent area damage
+for the tornado.
+Spell shield
+will block the gusts damage but not the tornado's.
+Yasuo's
+Wind Wall
+and
+Braum's
+Unbreakable
+can block each windblast individually.
+The tornado will not form if only one windblast reaches the target location.
+This ability will cast from wherever the caster is at the end of the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 70 / 105 / 140 / 175 / 210.
+Edit
+Shield of Durand
+COST:
+50 Mana
+COOLDOWN
+:
+18 / 17 / 16 / 15 / 14
+CAST TIME:
+none
+EFFECT RADIUS:
+175 − 350 (based on channel time)
+Passive:
+Galio
+gains a
+shield
+that absorbs
+magic damage
+based on
+his
+maximum
+health
+, and restores it while out of combat.
+Active:
+Galio
+charges up
+a defensive stance, moving
+slowly
+while gaining damage reduction.
+Shield of Durand
+can be recast within the duration and does so automatically afterward.
+Recast:
+Galio
+taunts
+nearby enemy champions, dealing
+magic damage
+. The effects are increased based on charge time.
+Passive:
+Galio
+gains
+Anti-Magic Bulwark
+, and restores it after
+12 / 10 / 8 (based on level)
+seconds without taking damage.
+Anti-Magic Bulwark:
+Gain a
+shield
+that absorbs
+magic damage
+.
+Magic Shield Strength:
+7.
+5
+/ 9 / 10.
+5
+/ 12 / 13.
+5
+% of
+maximum
+health
+Active:
+Galio
+charges
+for up to 2 seconds,
+slowing
+himself by 15%, and gaining
+magic damage
+reduction and half of that amount as
+physical damage
+reduction; charging increases
+Shield of Durand's
+radius, damage and
+taunt
+duration over the first 1.
+25
+seconds of the channel.
+Magic Damage Reduction:
+25 / 30 / 35 / 40 / 45%
+(+ 4% per 100 AP)
+(+ 8% per 100
+bonus
+magic resistance)
+(+ 1% per 100
+bonus
+health)
+Physical Damage Reduction:
+12.
+5
+/ 15 / 17.
+5
+/ 20 / 22.
+5
+%
+(+ 1.
+5
+% per 100 AP)
+(+ 4% per 100
+bonus
+magic resistance)
+(+ 0.
+5
+% per 100
+bonus
+health)
+Shield of Durand
+can be recast within the duration and does so automatically afterwards or if it is
+interrupted
+.
+Recast:
+Galio
+refreshes the
+damage reduction
+for 2 seconds and deals
+magic damage
+to nearby enemy champions, increased by
+0% − 200% (based on channel time)
+, as well as
+taunts
+them for
+0.
+5
+− 1.
+5
+(based on channel time)
+seconds and, after a brief delay, sets their
+movement speed
+to a
+static 60
+for the same duration but slightly longer.
+Minimum Magic Damage:
+20 / 30 / 40 / 50 / 60
+(+ 30% AP)
+Maximum Magic Damage:
+60 / 90 / 120 / 150 / 180
+(+ 90% AP)
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Disruption
+Interrupted
+Galio
+is
+locked out
+of attacking and casting for 0.
+4
+seconds after recasting.
+Galio
+may still buffer his actions during this time.
+Static movement speed
+cannot be modified by
+bonus
+movement speed
+or
+slow resist
+.
+This effect is negated only if the target is
+slow-immune
+.
+The ability key does not need to be held down when buffered in other abilities except
+Winds of War
+.
+The following table refers for interactions while
+Galio
+is
+channeling
+:
+Type
+Charge channel
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Allowed
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+Hextech Rocketbelt
+Interrupted by
+All item-actives not specified above interrupt
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Hexflash
+Interrupted by
+Recall
+Interrupted by
+Death
+Cast-inhibiting effects
+Tips & Tricks
+Since
+Anti-Magic Bulwark
+is instantly granted upon learning the ability, the
+shield
+may be gained once per game while in combat.
+Map-Specific Differences
+Arena
+differences
+edit
+Shield health ratio changed to
+7.
+5
+/ 9 / 10.
+5
+/ 12 / 13.
+5
+%
+maximum
+health
+.
+Shield timer changed to 5 seconds.
+Cooldown changed to 18 / 17 / 16 / 15 / 14 seconds
+Edit
+Justice Punch
+COST:
+50 Mana
+COOLDOWN:
+11 / 10 / 9 / 8 / 7
+CAST TIME:
+0.
+4
+TARGET RANGE:
+250
+/
+650
+WIDTH:
+320
+SPEED:
+2300
+Active:
+Galio
+will briefly
+step
+back before
+charging
+to the target location, dealing
+magic damage
+and
+knocking up
+enemies he passes through. He will stop upon hitting an enemy
+champion
+.
+Active:
+Galio
+steps
+backwards in the opposite direction over the cast time, then
+dashes
+to the target location until he hits an enemy
+champion
+or
+terrain
+.
+Galio
+deals
+magic damage
+to enemies he passes through, reduced to 80% against non-champions, and
+knocks them up
+for 0.
+75
+seconds as well as
+reveals
+them for the same duration.
+Magic Damage:
+90 / 130 / 170 / 210 / 250
+(+ 90% AP)
+Non-Champion Damage:
+72 / 104 / 136 / 168 / 200
+(+ 72% AP)
+Justice Punch will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Sub-type
+Magic
+Counters
+Grounded
+Disabled
+Knockdown
+See Notes
+Galio
+will initiate the
+dash
+even if his step backwards is
+knocked down
+.
+Galio's
+second dash will always dash the distance of the target direction. Having the step backwards cut short has no effect on the total distance gained.
+Type
+Cast time
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Recall
+Disabled
+Flash
+Teleport
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Edit
+Hero's Entrance
+COST:
+100 Mana
+COOLDOWN
+:
+180 / 160 / 140
+CAST TIME:
+none
+TARGET RANGE:
+4000 / 4750 / 5500
+EFFECT RADIUS:
+650
+Active:
+Galio
+guards the target allied champion,
+channelling
+for a short time and granting
+his
+magic damage
+shield
+to himself and all allied
+champions
+in the area. After a short delay,
+Galio
+rises
+unstoppably
+and
+intangibly
+before
+crashing
+down onto the target's initial location, dealing
+magic damage
+to nearby enemies and
+knocking them back
+.
+Active:
+Galio
+prepares to make an entrance,
+channeling
+for 2.
+75
+seconds and designating the target allied
+champion's
+location at the time of cast as his landing spot. Additionally, he resets
+Shield of Durand's
+passive shield for himself and grants it to all allied champions within the area for 5 seconds.
+After channeling for 1.
+25
+seconds, he gains
+crowd control immunity
+for the remaining duration, becomes
+untargetable
+, and leaps into the air for
+0.
+8
+seconds
+before
+dashing
+to his destination over
+0.
+2
+seconds
+. Afterwards, he lands and becomes targetable again, dealing
+magic damage
+to all nearby enemies upon impact,
+knocking them back
+100 units over 0.
+75
+seconds, and remaining in place for
+0.
+5
+seconds
+.
+Magic Damage:
+150 / 250 / 350
+(+ 70% AP)
+(Upon landing) "Hi everybody!"
+Info
+Targeting input
+Unit
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Not Interrupted
+Hero's Entrance
+does not resist allied
+crowd control
+.
+Hero's Entrance
+has a
+forgiveness radius
+of 175 units.
+Galio
+cannot cast
+Hero's Entrance
+on allies he cannot
+see
+while
+nearsighted
+.
+Galio
+will still cause an impact to occur at the destination even if he is unable to travel the full distance with the dash (e.g. by
+The Hextech Ultimatum's
+and
+Realm of Death's
+borders and terrain).
+Galio
+will dash as far as he can go, and thus, does not end the dash prematurely.
+Galio
+will always dash 100 units minimum, and dash
+over
+his target's location if they are less than 100 units away from him.
+The following table refers for interactions while
+Galio
+is
+channeling
+:
+Type
+Channel
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death
+Grounding effects
+Immobilizing effects
+Cast-inhibiting effects
+Hero's Entrance's
+channel can only be
+interrupted
+by
+crowd control
+in the first 1.
+25
+seconds.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 150 / 300 / 450.
+Knock up duration changed to 1.
+5
+seconds.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Galio (Collection)
+.
+Original
+View in 3D
+790
+10.08.2010
+Outside the gleaming city of Demacia, the stone colossus Galio keeps vigilant watch. Built as a bulwark against enemy mages, he often stands motionless for decades until the presence of powerful magic stirs him to life. Once activated, Galio makes the most of his time, savoring the thrill of a fight and the rare honor of defending his countrymen. But his triumphs are always bittersweet, for the magic he destroys is also his source of reanimation, and each victory leaves him dormant once again.
+Josh Petersdorf
+Victor '3rdColossus' Maury
+Loot eligible
+Enchanted
+View in 3D
+520
+10.08.2010
+Josh Petersdorf
+Mike Azevedo
+Legacy
+Loot eligible
+New SFX/VFX
+Hextech
+View in 3D
+520
+10.08.2010
+Sensing a shift in the marketability of Hextech items, several of Piltover's largest industrial families pooled resources to create Galio, a massive golem donated to the city and her people. While he is ostensibly a walking advertisement, the protective creature is both curious about the world, and proud of his responsibility.
+Josh Petersdorf
+Bo 'chenbowow' Chen
+Hextech
+Loot eligible
+Legacy
+New SFX/VFX
+Commando
+View in 3D
+520
+18.01.2011
+Issues with the military industrial complex notwithstanding, why would a government put all its petricite resources into a giant statue that punches things? Or a pair of sunglasses big enough for one to wear?
+Josh Petersdorf
+Mist XG
+Commando
+Loot eligible
+New SFX/VFX
+Gatekeeper
+View in 3D
+1820
+23.04.2012
+One of the great dukes of Hell, Galio stands before his kingdom's black gates as the judge of all sinners, casting souls into their proper torments. Attempting to invoke him generally ends in tragedy, as he's several hundred feet tall and refuses to shrink in the service of mortals.
+Josh Petersdorf
+Viktor Titov, Grafit Studio
+Demonic
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Debonair
+View in 3D
+750
+13.04.2015
+Savor that elixir. Highlight that heavenly white tux with a royal purple reserved for kings and queens who just don't deserve it. Because when you're an eighty foot tall petricite gargoyle, you're always the center of attention.
+Josh Petersdorf
+Sixmorevodka Studio
+Debonair
+Loot eligible
+New SFX/VFX
+Birdio
+View in 3D
+975
+29.03.2018
+A proud and noble salesman of delicious fried chicken, Birdio is the regional manager (and salesman of the year) for one of the world's largest chicken restaurants. Not one to be beaten at literally anything, he and Sivir have a well documented rivalry over who is the better employee.
+Josh Petersdorf
+Rudy Siswanto
+Culinary Masters
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Birdio Chromas
+Aquamarine
+Catseye
+Citrine
+Meteorite
+Rose Quartz
+Ruby
+Worlds Early Bird
+Infernal
+View in 3D
+1350
+05.09.2019
+A black-hearted monstrosity leading the hellish Infernal hordes, Galio is titanic even by the standards of his fiery kin. His steps melt the very bedrock beneath him, swallowing entire armies without so much as a second thought.
+Josh Petersdorf
+West Studio
+Infernal
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Infernal Galio Chromas
+Catseye
+Pearl
+Peridot
+Rose Quartz
+Ruby
+Dragon Guardian
+View in 3D
+1350
+15.04.2021
+A great dragon of old, who protected dragonkind's ancestral nesting grounds from those who might do it harm. Tricked by the mad knight Kayle so she could destroy every clutch of eggs under his charge, he has followed her back to human society, so he might exact his vengeance personally.
+Josh Petersdorf
+Forrest Imel, West Studio
+Dragon World
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dragon Guardian Galio Chromas
+Amethyst
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Mythmaker
+View in 3D
+1350
+12.01.2023
+The Great Beast Galio is a fearsome creature: proud, powerful, and worthy of the myth that bears his name. Yet each year he is bested, as the story goes, so when Irelia comes to him and tells him that their fates are not writ in stone, Galio listens. If helping her means crafting a new future, he will lend her all his beastly strength.
+Josh Petersdorf
+Rio Sabda, Caravan Studio
+Mythmaker
+Loot eligible
+Legacy
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Mythmaker Galio Chromas
+Citrine
+Emerald
+Gilded
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.21
+Stats
+Base mana reduced to 410 from 500.
+V14.20
+Hero's Entrance
+New Effect:
+Cast now has a forgiveness radius of 175 units.
+V14.8
+Stats
+Base movement speed increased to 340 from 335.
+Winds of War
+Cooldown reduced to 11 / 10 / 9 / 8 / 7 seconds from 12 / 10.
+75
+/ 9.
+5
+/ 8.
+25
+/ 7.
+V14.7
+Colossal Smash
+AP ratio increased to
+45% AP
+from
+40% AP
+.
+Shield of Durand
+Base magic damage reduction increased to 25 / 30 / 35 / 40 / 45% from 20 / 25 / 30 / 35 / 40%.
+Base physical damage reduction increased to 12.
+5
+/ 15 / 17.
+5
+/ 20 / 22.
+5
+% from 10 / 12.
+5
+/ 15 / 17.
+5
+/ 20%.
+Justice Punch
+Base damage increased to 90 / 130 / 170 / 210 / 250 from 75 / 115 / 155 / 195 / 235.
+V14.6
+Colossal Smash
+Removed:
+Cooldown is no longer affected by ability haste.
+New Effect:
+Cooldown is now reduced by 3 seconds upon hitting an enemy champion or epic monster with an ability, once per cast.
+Base damage reduced to
+15 − 115 (based on level)
+from
+15 − 200 (based on level)
+.
+AP ratio reduced to
+40% AP
+from
+50% AP
+.
+New Effect:
+Empowered attack now gains
+40%
+bonus
+attack speed
+during its windup.
+Bug Fix:
+Now properly executes minions when using the support item with charges.
+Winds of War
+Cooldown reduced to 12 / 10.
+75
+/ 9.
+5
+/ 8.
+25
+/ 7 seconds from 12 / 11 / 10 / 9 / 8.
+Initial hit AP ratio reduced to
+70% AP
+from
+75% AP
+.
+Shield of Durand
+Minimum base damage reduced to 20 / 30 / 40 / 50 / 60 from 20 / 35 / 50 / 65 / 80.
+Maximum base damage reduced to 60 / 90 / 120 / 150 / 180 from 60 / 105 / 150 / 195 / 240.
+Base magic damage reduction reduced to 20 / 25 / 30 / 35 / 40% from 25 / 30 / 35 / 40 / 45%.
+Physical damage reduction reduced to 10 / 12.
+5
+/ 15 / 17.
+5
+/ 20% from 12.
+5
+/ 15 / 17.
+5
+/ 20 / 22.
+5
+%.
+Magic damage reduction AP ratio reduced to
+4% per 100 AP
+from
+5% per 100 AP
+.
+Physical damage reduction AP ratio reduced to
+1.
+5
+% per 100 AP
+from
+2.
+5
+% per 100 AP
+.
+Magic damage reduction magic resistance ratio reduced to
+8% per 100
+bonus
+magic resistance
+from
+12%
+.
+Physical damage reduction magic resistance ratio reduced to
+4% per 100
+bonus
+magic resistance
+from
+6%
+.
+New Effect:
+Magic damage reduction now scales with
+1% per 100
+bonus
+health
+.
+New Effect:
+Physical damage reduction now scales with
+0.
+5
+% per 100
+bonus
+health
+.
+Justice Punch
+Base damage reduced to 75 / 115 / 155 / 195 / 235 from 90 / 130 / 170 / 210 / 250.
+Non-champion damage increased to 80% from 50%.
+V13.24
+Winds of War
+Cooldown reduced to 12 / 11 / 10 / 9 / 8 seconds from 12 / 11.
+5
+/ 11 / 10.
+5
+/ 10.
+V13.20
+Shield of Durand
+Cooldown reduced to 18 / 17 / 16 / 15 / 14 seconds from 18 / 17.
+5
+/ 17 / 16.
+5
+/ 16.
+Shield timer reduced to
+12 / 10 / 8 (based on level)
+seconds from 12 at all ranks.
+V13.19
+Hero's Entrance
+Cooldown reduced to 180 / 160 / 140 seconds from 200 / 180 / 160.
+V13.6
+Shield of Durand
+Base magic damage reduction increased to 25 / 30 / 35 / 40 / 45% from 20 / 25 / 30 / 35 / 40%.
+Base physical damage reduction increased to 12.
+5
+/ 15 / 17.
+5
+/ 20 / 22.
+5
+% from 10 / 12.
+5
+/ 15 / 17.
+5
+/ 20%.
+Magic damage reduction magic resistance ratio increased to
+12% per 100
+bonus
+magic resistance
+from
+8%
+.
+Physical damage reduction magic resistance ratio increased to
+6% per 100
+bonus
+magic resistance
+from
+4%
+.
+Justice Punch
+Cooldown reduced to 11 / 10 / 9 / 8 / 7 seconds from 12 / 11 / 10 / 9 / 8.
+V13.4
+Hero's Entrance
+Bug Fix:
+Decal visibility in the river for
+Mythmaker Galio
+has been improved.
+V13.3
+Colossal Smash
+Bug Fix:
+When used against a minion, no longer causes
+Spoils of War
+items to prioritize executing nearby lower health minions instead of the primary target minion.
+V12.13
+Winds of War
+Tornado base damage per tick increased to
+2.
+5
+% of target's
+maximum
+health
+from
+2%
+.
+Total tornado base damage increased to
+10% of target's
+maximum
+health
+from
+8%
+.
+Tornado AP ratio per tick increased to
+1% per 100 AP
+from
+0.
+66
+% per 100 AP
+.
+Total tornado AP ratio increased to
+4% per 100 AP
+from
+2.
+64
+% per 100 AP
+.
+V12.10
+Stats
+Base health increased to 632 from 562.
+Health growth increased to 126 from 112.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Shield of Durand
+Shield health ratio reduced to
+7.
+5
+/ 9 / 10.
+5
+/ 12 / 13.
+5
+%
+maximum
+health
+from
+8 / 9.
+75
+/ 11.
+5
+/ 13.
+25
+/ 15%
+.
+V11.24
+Gatekeeper Galio
+Bug Fix:
+Voice lines now play more consistently and accurately.
+V11.23
+General
+Bug Fix:
+Death animation VFX has been restored.
+V11.22
+Justice Punch
+Undocumented/Bug Fix:
+Once again locks out movement spells during the cast time and dash.
+V11.20
+Justice Punch
+Undocumented:
+No longer locks out movement spells, excluding
+Hexflash
+, during the cast time and dash.
+V11.19
+Shield of Durand
+Cooldown reduced to 18 / 17.
+5
+/ 17 / 16.
+5
+/ 16 seconds from 18 at all ranks.
+V11.14
+Shield of Durand
+Bug Fix:
+Recasting it right before
+Flash
+comes off cooldown while having
+Hexflash
+no longer unlocks the ability to cast Flash during the channel.
+V11.10
+Shield of Durand
+Cooldown increased to 18 seconds at all ranks from 18 / 17.
+5
+/ 17 / 16.
+5
+/ 16.
+Shield health ratio reduced to
+8 / 9.
+75
+/ 11.
+5
+/ 13.
+25
+/ 15%
+maximum
+health
+from
+8 / 11 / 14 / 17 / 20%
+.
+V10.25
+- December 15th Hotfix
+Shield of Durand
+Cooldown increased to 18 / 17.
+5
+/ 17 / 16.
+5
+/ 16 seconds from 16 / 15 / 14 / 13 / 12.
+V10.24
+Colossal Smash
+Bug Fix:
+Now properly scales with ability haste.
+V10.22
+Justice Punch
+New Effect:
+Now has a minimum 250 dash distance (starting from E origination, not the dashback).
+V10.18
+Winds of War
+Base damage reduced to 70 / 105 / 140 / 175 / 210 from 80 / 115 / 150 / 185 / 220.
+V10.10
+Shield of Durand
+New Effect:
+Passive now has new visual and sound effects.
+V10.7
+Hero's Entrance
+New Effect:
+On cast, now grants
+Shield of Durand's
+passive magic damage shield to all allied champions in the area he casted it at for 5 seconds.
+V10.3
+- February 6th Hotfix
+Gatekeeper Galio
+Winds of War
+Bug Fix:
+Visual effects no longer time out before the damage ticks stop.
+V10.3
+Winds of War
+Tornado duration increased to 2 seconds from 1.
+5
+.
+Tick count increased to 4 from 3.
+Tornado maximum damage increased to
+8%
+(+ 2.
+6
+6
+% per 100 AP)
+of target's
+maximum
+health
+from
+6%
+(+ 2% per 100 AP)
+.
+Damage per tick unchanged.
+V9.17
+Stats
+Base mana regeneration increased to 9.
+5
+from 9.
+335
+.
+Winds of War
+Cooldown reduced to 12 / 11.
+5
+/ 11 / 10.
+5
+/ 10 seconds from 14 / 13 / 12 / 11 / 10.
+Shield of Durand
+Minimum base damage increased to 20 / 35 / 50 / 65 / 80 from 10 / 20 / 30 / 40 / 50.
+Maximum base damage increased to 60 / 105 / 150 / 195 / 240 from 30 / 60 / 90 / 120 / 150.
+V9.15
+Colossal Smash
+New Effect:
+Cooldown now scales with cooldown reduction.
+Base damage increased to
+15 − 200 (based on level)
+from
+15 − 180 (based on level)
+.
+Justice Punch
+Base damage increased to 90 / 130 / 170 / 210 / 250 from 80 / 120 / 160 / 200 / 240.
+V9.14
+- July 18th Hotfix
+Colossal Smash
+Base damage increased to
+15 − 180 (based on level)
+from
+15 − 160 (based on level)
+.
+Winds of War
+Mana cost reduced to 70 / 75 / 80 / 85 / 90 from 80 / 85 / 90 / 95 / 100.
+V9.14
+Stats
+Mana growth increased to 40 from 20.
+Colossal Smash
+Removed:
+Cooldown is no longer reduced by 4 seconds every time
+Galio
+hits a unique enemy champion with an ability.
+Static cooldown reduced to 5 seconds from 8.
+Base damage increased to
+15 − 160 (based on level)
+from
+12 − 80 (based on level)
+.
+Bonus magic resistance ratio increased to
+60%
+bonus
+magic resistance
+from
+40%
+.
+Winds of War
+Cooldown increased to 14 / 13 / 12 / 11 / 10 seconds from 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8.
+Gust base damage increased to 80 / 115 / 150 / 185 / 220 from 70 / 105 / 140 / 175 / 210.
+Mana cost reduced to 80 / 85 / 90 / 95 / 100 from 80 / 90 / 100 / 110 / 120.
+Shield of Durand
+Removed:
+Can no longer
+Flash
+while charging.
+New Effect:
+Charge can now be interrupted by hard crowd controls.
+Self slow reduced to 15% from 30%.
+Justice Punch
+Bug Fix:
+No longer remains in the realm it was cast in when entering/existing
+Mordekaiser's
+Realm of Death
+.
+V9.11
+Shield of Durand
+Minimum base damage reduced to 10 / 20 / 30 / 40 / 50 from 20 / 30 / 40 / 50 / 60.
+Minimum AP ratio increased to
+30% AP
+from
+20% AP
+.
+Maximum base damage reduced to 30 / 60 / 90 / 120 / 150 from 60 / 90 / 120 / 150 / 180.
+Maximum AP ratio increased to
+90% AP
+from
+60% AP
+.
+Justice Punch
+Base damage reduced to 80 / 120 / 160 / 200 / 240 from 100 / 135 / 170 / 205 / 240.
+V9.2
+- January 25th Hotfix
+Justice Punch
+Base damage increased to 100 / 135 / 170 / 205 / 240 from 80 / 115 / 150 / 185 / 220.
+V9.2
+Winds of War
+Mana cost increased to 80 / 90 / 100 / 110 / 120 from 70 / 75 / 80 / 85 / 90.
+Gust base damage reduced to 70 / 105 / 140 / 175 / 210 from 70 / 110 / 150 / 190 / 230.
+Gust AP ratio reduced to
+75% AP
+from
+90% AP
+.
+Tornado AP ratio reduced to
+0.
+6
+6
+% AP
+from
+1.
+3
+3
+% AP
+.
+Justice Punch
+Base damage reduced to 80 / 115 / 150 / 185 / 220 from 100 / 130 / 160 / 190 / 220.
+V9.1
+Hero's Entrance
+New Effect:
+Can now ping whether the ability is within range or not.
+V8.24
+Winds of War
+Mana cost reduced to 70 / 75 / 80 / 85 / 90 from 70 / 85 / 100 / 115 / 130.
+Gust base damage increased to 70 / 110 / 150 / 190 / 230 from 50 / 80 / 110 / 140 / 170.
+Gust AP ratio increased to
+90% AP
+from
+80% AP
+.
+Total tornado damage changed to
+6%
+(+ 4% per 100 AP)
+of target's
+maximum
+health
+from 30 / 40 / 50 / 60 / 70
+(+ 60% AP)
+(+
+3% per 100 AP
+of target's
+maximum
+health)
+.
+Justice Punch
+Windup before dash reduced to 0.
+4
+seconds from 0.
+45
+.
+Dash speed increased to 2300 from 1900.
+New Effect:
+Now deals 50% reduced damage to non-champions.
+Hero's Entrance
+Removed:
+The targeted ally no longer gains 20 / 25 / 30%
+(+ 8% per 100
+bonus
+magic resistance)
+damage reduction.
+Removed:
+Enemies hit in the center of the impact zone are no longer knocked up for 1.
+25
+seconds.
+All enemies hit are now knocked up for 0.
+75
+seconds.
+V8.9
+Stats
+Base mana increased to 500 from 400.
+Mana growth reduced to 20 from 40.
+Base mana regeneration increased to 9.
+335
+from 7.
+Birdio
+Bug Fix:
+Is no longer incorrectly listed as a Mythic skin.
+V8.8
+Hero's Entrance
+Cooldown increased to 200 / 180 / 160 seconds from 180 / 150 / 120.
+V8.7
+Birdio
+Winds of War
+Bug Fix:
+Fade out VFX are no longer misplaced when ability is cast from lower to higher elevation change.
+Justice Punch
+Bug Fix:
+No longer has redundant white trail VFX after using
+Justice Punch
+.
+V8.5
+Winds of War
+Mana cost increased to 70 / 85 / 100 / 115 / 130 from 70 / 75 / 80 / 85 / 90.
+Cooldown increased to 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8 seconds from 10 / 9 / 8 / 7 / 6.
+V8.2
+Shield of Durand
+Bug Fix:
+Shield now correctly returns out of combat after falling off.
+V8.1
+Shield of Durand
+Bug Fix:
+Fixed a bug where his shield would expire, rather than refresh 12 seconds after taking damage.
+V7.24
+Colossal Smash
+AP ratio reduced to
+50% AP
+from
+70% AP
+.
+Shield of Durand
+New Effect:
+Deals between 20 / 30 / 40 / 50 / 60
+(+ 20% AP)
+and 60 / 90 / 120 / 150 / 180
+(+ 60% AP)
+magic damage, based on charge time.
+Deals
+100% − 300% (based on charge time)
+damage.
+Bug Fix:
+Fixed a bug where the taunt duration of partially-channeled W casts was sometimes shorter than intended.
+Justice Punch
+Cooldown reduced to 12 / 11 / 10 / 9 / 8 seconds from 14 / 13 / 12 / 11 / 10.
+V7.22
+Stats
+Base health increased to 562 from 550.
+Health growth increased to 112 from 100.
+V7.21
+October 26th Hotfix
+Winds of War
+AP ratio on gusts reduced to
+80% AP
+from
+90% AP
+.
+Tornado maximum health ratio reduced to
+1% per 100 AP
+of target's
+maximum
+health
+from
+3% per 100 AP
+of target's
+maximum
+health
+.
+V7.21
+Colossal Smash
+AP ratio increased to
+70% AP
+from
+40% AP
+.
+Winds of War
+Base damage on gusts reduced to 50 / 80 / 110 / 140 / 170 from 60 / 95 / 130 / 165 / 200.
+AP ratio on gusts increased to
+90% AP
+from
+75% AP
+.
+Tornado maximum health ratio changed to
+「
+1% per 33 AP
+of target's
+maximum
+health)
+」
+「
+3% per 100 AP
+of target's
+maximum
+health)
+」
+from
+2% of target's
+maximum
+health
+.
+Shield of Durand
+Damage reduction now splits into separate values for physical and magic damage.
+New Effect:
+Magic damage reduction now scales at
+「
+1% per 20 AP
+」
+「
+5% per 100 AP
+」
+.
+New Effect:
+Physical damage reduction now scales at
+「
+1% per 40 AP
+」
+「
+2.
+5
+% per 100 AP
+」
+.
+Base physical damage reduction reduced to 10 / 12.
+5
+/ 15 / 17.
+5
+/ 20% from 20 / 25 / 30 / 35 / 40%.
+Physical damage reduction MR ratio reduced to
+4% per 100
+bonus
+magic resistance
+from
+8%
+.
+Justice Punch
+Base damage reduced to 100 / 130 / 160 / 190 / 220 from 100 / 140 / 180 / 220 / 260.
+AP ratio increased to
+90% AP
+from
+70% AP
+.
+V7.16
+Hero's Entrance
+Cooldown increased to 180 / 150 / 120 seconds from 160 / 140 / 120.
+Ally damage reduction reduced to 20 / 25 / 30% from 20 / 30 / 40%.
+V7.13
+Stats
+Base armor reduced to 24 from 27.
+Winds of War
+Tornado base damage reduced to 30 / 40 / 50 / 60 / 70 from 45 / 60 / 75 / 90 / 105.
+Tornado AP ratio increased to
+60% AP
+from
+45% AP
+.
+Hero's Entrance
+Channel duration before jumping increased to 1.
+25
+seconds from 1 second.
+Hover time before dashing reduced by 0.
+25
+seconds.
+Total time to reach target unchanged.
+V7.8
+Gatekeeper Galio
+Bug Fix:
+Recall particles no longer stretch back to the Spawning Pool.
+Shield of Durand
+Bug Fix:
+Magic shield now properly recharges after he revives.
+Hero's Entrance
+Bug Fix:
+Fixed a bug where disconnecting during the cast of
+Hero's Entrance
+could cause
+Galio
+to be unable to target units and structures.
+V7.7
+Colossal Smash
+Base damage reduced to
+12 − 80 (based on level)
+from
+15 − 100 (based on level)
+.
+Winds of War
+AP ratio increased to
+75% AP
+from
+60% AP
+.
+Tornado target maximum health ratio reduced to
+6% target's
+maximum
+health
+from
+9% target's
+maximum
+health
+.
+Hero's Entrance
+Bug Fix:
+If
+Galio
+disconnected while flying up during
+Hero's Entrance
+, he no longer loses the ability to attack units and structures after reconnecting.
+V7.6
+- Rework
+Full Relaunch
+General
+Title changed to
+the Colossus
+from
+the Sentinel's Sorrow
+.
+Complete visual upgrade across all skins.
+New splash artwork for
+Original Galio
+,
+Enchanted Galio
+,
+Hextech Galio
+,
+Commando Galio
+,
+Gatekeeper Galio
+.
+Adjusted splash artwork for
+Debonair Galio
+.
+New voice over.
+New lore.
+Stats
+Base attack range increased to 150 from 125.
+Base attack speed reduced to 0.
+625
+from 0.
+638
+.
+Base attack damage reduced to 59 from 61.
+97
+.
+Base armor increased to 27 from 26.
+88
+.
+Base health reduced to 550 from 577.
+8
+.
+Base mana increased to 400 from 369.
+Base health regeneration reduced to 8 from 8.
+71
+.
+Base mana regeneration increased to 7 from 6.
+Attack speed growth increased to 1.
+5
+% from 1.
+2
+%.
+Attack damage growth increased to 3.
+5
+from 3.
+375
+.
+Health growth increased to 100 from 85.
+Mana growth reduced to 40 from 47.
+Health regeneration growth increased to 0.
+8
+from 0.
+75
+.
+Mana regeneration growth reduced to 0.
+7
+from 0.
+8
+.
+Colossal Smash
+-
+New I
+Innate:
+Every 8 seconds,
+Galio's
+next basic attack periodically deals
+15 − 100 (based on level)
+(+ 100% AD)
+(+ 40% AP)
+(+ 40%
+bonus
+magic resistance)
+magic damage to his main target and all enemies around it.
+Colossal Smash's
+cooldown is reduced by 4 seconds every time
+Galio
+hits an enemy champion with a new ability.
+Winds of War
+-
+New Q
+Active:
+Galio
+fires two gusts of wind that arc to either side before converging to the target area, dealing 60 / 95 / 130 / 165 / 200
+(+ 60% AP)
+magic damage to all enemies they pass through.
+Upon impacting with each other, the gusts form a tornado that
+advances
+for 1.
+5
+seconds, dealing 15 / 20 / 25 / 30 / 35
+(+ 13.
+3
+% AP)
+(+ 3% of target's
+maximum
+health)
+magic damage every 0.
+5
+seconds to every enemy
+within
+, capped at 50 per hit against monsters.
+Mana cost:
+70 / 75 / 80 / 85 / 90
+Cooldown:
+10 / 9 / 8 / 7 / 6 seconds
+Range:
+825
+Shield of Durand
+-
+New W
+Passive:
+Galio
+gains a shield that absorbs up to
+8 − 23 (based on level)
+%
+maximum
+health
+magic damage, refreshing after not taking damage for 12 seconds.
+First cast:
+Galio
+begins to charge over 1.
+75
+seconds,
+slowing
+himself by 30%, reducing incoming damage by 20 / 25 / 30 / 35 / 40%
+(+ 8% per
+bonus
+magic resistance)
+and increasing
+Shield of Durand's
+taunt
+radius over the duration.
+Second cast:
+Galio
+taunts
+all nearby enemies for 0.
+5
+seconds, with the duration increasing based on how long
+Shield of Durand
+was charged, up to 1.
+5
+seconds, and refreshes its damage reduction for 2 seconds.
+Shield of Durand
+cannot be interrupted by crowd control.
+Shield of Durand's
+cooldown starts on cast.
+Mana cost:
+50
+Cooldown:
+16 / 15 / 14 / 13 / 12 seconds
+Justice Punch
+-
+New E
+Active:
+Galio
+briefly dashes backwards before charging forward, stopping upon hitting terrain or an enemy champion, dealing 100 / 140 / 180 / 220 / 260
+(+ 70% AP)
+magic damage to all enemies hit and
+knocking them up
+for 0.
+75
+seconds.
+Mana cost:
+50
+Cooldown:
+14 / 13 / 12 / 11 / 10 seconds
+Hero's Entrance
+-
+New R
+Active:
+Galio
+designates the target allied champion's location at the time of cast as his landing spot, channeling for 1 seconds, and dashes to them, reducing the damage they take by 20 / 30 / 40%
+(+ 8% per 100
+bonus
+magic resistance)
+until he lands.
+Upon impact,
+Galio
+deals 150 / 250 / 350
+(+ 70% AP)
+magic damage to all
+nearby
+enemies and
+knocks them up
+for 0.
+75
+seconds, increased to 1.
+25
+seconds at the
+center
+of the impact zone.
+Mana cost:
+100
+Cooldown:
+160 / 140 / 120 seconds
+Trivia
+[
+edit
+|
+edit source
+]
+Galio, the Sentinel's Sorrow
+The name Galio may be inspired by the name Galileo, most commonly known for the Renaissance polymath
+Galileo
+.
+The name Galileo means "man of
+Galilee
+", ultimately from Semitic root
+g-l
+"to roll".
+[2]
+Galio's dance references
+Beauty and the Beast
+by
+Walt Disney
+.
+Galio, the Colossus
+Galio retains his dance post-
+rework
+, which references Beauty and the Beast by Walt Disney.
+He references his previous alias while attacking a
+Blue Sentinel
+:
+"You're a sentinel? I'm a sentinel! We should fight!"
+In this case however, this interaction has literal implications: Galio being a textbook-definition sentinel for Demacia, and Galio perhaps sharing similar origins with the Blue Sentinel, both being rock/mineral beings empowered/given life by magic.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Warden
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+Wardens
+are defensive tanks. Wardens stand steadfast, seeking to hold the line by persistently locking down any on-comers who try to pass them. Wardens keep their allies out of harm’s way and allow them to safely deal with enemies caught in the fray.
+Examples
+Braum
+Shen
+Tahm Kench
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Default damage
+Default damage
+is dealt by effects that are not otherwise classified, or are deliberately left unclassified. This most common source of
+default damage
+is splash damage from basic attacks.
+Default damage
+does not interact with most other effects, such as
+Conqueror
+stacking,
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of the damage's non-reactive nature (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Persistent area damage
+Persistent area damage
+is technically not a separate type of damage, but rather a hybrid classification that is applied to some spells.
+In situations where
+persistent damage
+and
+area damage
+would have conflicting outputs, the conflict is resolved by choosing the weakest possible outcome.
+Physical vamp
+and
+Spell vamp
+(where applicable) heals with one-third effectiveness, as with
+area damage
+.
+Arcane Comet's
+cooldown is reduced by 5%, as with
+persistent damage
+, per target affected.
+Counter Strike
+reduces the damage dealt by 25%, as with
+area damage
+.
+League of Legends content
+Wind Wall
+COOLDOWN:
+25 / 23 / 21 / 19 / 17
+Active:
+Yasuo
+raises a wind wall that drifts in the target direction for a few seconds, blocking all enemy
+projectiles
+that hit it.
+League of Legends content
+Unbreakable
+COOLDOWN:
+16 / 14 / 12 / 10 / 8
+Active:
+Braum
+sets his shield in a direction for a few seconds, intercepting any enemy
+projectiles
+to hit him and be destroyed.
+He gains damage reduction and negates the first instance of damage dealt by a champion completely from this direction.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Taunt
+A unit that is
+taunted
+will attempt to perform basic attacks on the
+Source
+(the
+unit
+that casted the
+Taunt
+spell) for the duration, during which they're unable to perform issued movement or attack commands, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Taunt
+is an
+immobilizing
+effect
+.
+Forced action effects
+cannot
+force the unit to perform an action that is disabled.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+and windups against the
+Source
+) and all
+channeled and charged
+abilities, as well as overrides previous
+Forced Action
+effects.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+or when the
+Source
+dies.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Interrupt
+Interrupt
+is a quality of crowd control that
+interrupts
+an in-progress effect, preventing its completion or causing the effect to go off at an
+interrupted
+state.
+
+The following crowd control effects
+interrupt
+channeled and charged
+abilities (unless otherwise noted by the ability):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+The following crowd control effects
+interrupt
+dashes
+:
+Airborne
+Knockdown
+Stasis
+Basic attack windups
+are
+interrupted
+by all forms of crowd control that inhibit attacking.
+Ground
+and
+Root
+only
+interrupt
+channeled and charged movement abilities.
+League of Legends content
+Lockout
+A champion that is
+locked out
+is unable to perform certain actions such as casting abilities, moving, or attacking. The prevented actions can vary per instance.
+Lockout does not interact with
+crowd control
+mechanics unless otherwise stated.
+League of Legends content
+Slow resist
+Slow resist
+is a stat that directly reduces the effectiveness of
+slows
+.
+League of Legends content
+Slow-immune
+Slow immunity
+is a status effect that prevents the application of
+slows
+.
+The following prevent the application of
+slows
+:
+Aphelios'
+Sentry
+Heimerdinger's
+H-28G Evolution Turret
+Master Yi's
+Highlander
+Nunu's
+Biggest Snowball Ever!
+Sejuani's
+Fury of the North
+Skarner's
+Ixtal's Impact
+Total
+crowd control immunity
+League of Legends content
+Winds of War
+COOLDOWN:
+11 / 10 / 9 / 8 / 7
+Active:
+Galio
+fires two windblasts that converge to the target location, dealing
+magic damage
+to enemies hit.
+Upon converging, the blasts form a tornado that continually deals
+magic damage
+to enemies within, based on each
+target's
+maximum
+health
+.
+League of Legends content
+Lunge
+A
+lunge
+refers to the movement of a champion
+during
+an ability's cast animation (
+such as short-ranged abilities
+) or an empowered attack's animation (
+such as empowerments that grant
+bonus range
+), in order to place the champion in range for a follow-up attack.
+Lunge
+is a movement distinct from
+dashes
+, primarily by not triggering effects that would otherwise interact with dashes, such as
+Poppy's
+Steadfast Presence
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Galio's profile page
+at
+LeagueOfLegends.com
+↑
+Huehnergard, J.
+2011 Proto-Semitic Language & Culture; Semitic Roots
+p. 2073

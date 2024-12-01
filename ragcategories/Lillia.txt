@@ -1,0 +1,2267 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Lillia
+the Bashful Bloom
+Release date
+2020-07-22
+Last changed
+V14.22
+Class(es)
+Skirmisher
+Legacy
+Fighter
+Mage
+Position(s)
+Jungle
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Magic
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+2
+Utility
+2
+Style
+Difficulty
+Lillia
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Lillia
+Base statistics
+Edit
+Health
+605
++105
+Mana
+410
++50
+Health regen. (per 5s)
+2.5
++0.55
+Mana regen. (per 5s)
+11.5
++0.95
+Armor
+22
++4.5
+Attack damage
+61
++3.1
+Magic resist.
+32
++1.55
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+325
+Attack speed
+Base AS
+0.625
+Attack windup
+14.706%
+AS ratio
+N/A
+Bonus AS
++2.7
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+135
+Pathing radius
+35
+Acq. radius
+400
+Special statistics
+Damage Dealt
+-5%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-2%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Dream-Laden Bough
+Innate:
+Lillia's
+abilities apply
+Dream Dust
+to enemies hit, which continually deals
+magic damage
+based on the
+target's
+maximum
+health
+over a short time, and
+heals
+her for the same duration.
+Innate:
+Lillia's
+abilities
+apply
+Dream Dust
+to enemies hit, which deals
+「
+5%
+(+ 1.
+25
+% per 100 AP)
+of the target's
+maximum
+health
+total
+magic damage
+over 3 seconds, capped at 65 」
+「
+0.
+8
+3
+%
+(+ 0.
+208
+3
+% per 100 AP)
+of the target's
+maximum
+health
+magic damage
+every 0.
+5
+seconds over 3 seconds, capped at 10.
+8
+3
+per tick 」
+against
+monsters
+.
+Lillia
+heals
+herself for
+「 39
+(+ 15% AP)
+against large
+monsters
+and
+6 − 90 (based on level)
+(+ 30% AP)
+against
+champions
+」
+「 6.
+5
+(+ 2.
+5
+% AP)
+against large
+monsters
+and
+1 − 15 (based on level)
+(+ 5% AP)
+against
+champions
+every 0.
+5
+seconds 」
+over the duration of
+Dream Dust
+, reduced to 15% effectiveness for each target afflicted beyond the first. She may only heal against 1 monster at a time.
+Info
+Targeting input
+Passive
+Damage type
+Type
+DOT damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Lilting Lullaby's
+application does not apply
+Dream Dust
+, but its triggering damage does.
+Dream Dust
+is applied even if the target takes no damage from an ability, e.g. by being
+shielded
+or
+invulnerable
+, but not when the ability hit is prevented in the first place (e.g.
+spell shield
+).
+Map-Specific Differences
+Arena
+differences
+edit
+Total base damage health ratio changed to
+4% of target's
+maximum
+health
+.
+Edit
+Blooming Blows
+COST:
+65 Mana
+COOLDOWN:
+6 / 5.
+5
+/ 5 / 4.
+5
+/ 4
+CAST TIME:
+0.
+25
+EFFECT RADIUS:
+225
+/
+485
+Passive:
+Whenever
+Lillia's
+abilities hit at least one enemy, she generates a stack of
+Prance
+, up to a cap.
+Active:
+Lillia
+swings her censer around her, dealing
+magic damage
+to nearby enemies. Enemies hit within the outer edge of the area additionally take the same amount as
+bonus
+true damage
+.
+Prance:
+For each stack,
+Lillia
+gains
+bonus
+movement speed
+.
+Passive:
+Whenever
+Lillia's
+abilities hit at least one enemy, she generates a
+stack
+of
+Prance
+for 6.
+5
+seconds, refreshing on subsequent hits and stacking up to 4 times. Stacks expire by one every 1.
+5
+seconds when the duration ends.
+Prance:
+For each stack,
+Lillia
+gains
+bonus
+movement speed
+.
+Bonus Movement Speed:
+3 / 4 / 5 / 6 / 7%
+(+ 3% per 100 AP)
+Maximum Bonus Movement Speed:
+12 / 16 / 20 / 24 / 28%
+(+ 12% per 100 AP)
+Active:
+Lillia
+swings her censer around her, dealing
+magic damage
+to nearby enemies. Enemies hit within the outer edge of the area additionally take the same amount as
+bonus
+true damage
+.
+Magic Damage:
+35 / 45 / 55 / 65 / 75
+(+ 35% AP)
+Total Mixed Damage:
+70 / 90 / 110 / 130 / 150
+(+ 70% AP)
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+/
+True
+Counters
+Spell shield
+Blocked
+Lillia
+can move during
+Blooming Blows'
+cast time.
+This ability will cast from wherever the caster is at the end of the cast time.
+Spell shield
+will not prevent
+Lillia
+from gaining a
+Prance
+stack.
+For the purpose of aim-assist,
+Lillia's
+attack range
+is reduced
+「 to 275 」
+「 by 50 」
+during
+Blooming Blows's
+cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio changed to
+30% AP
+.
+Edit
+Watch Out! Eep!
+COST:
+50 Mana
+COOLDOWN:
+14 / 13 / 12 / 11 / 10
+CAST TIME:
+None
+TARGET RANGE:
+500
+/
+350
+EFFECT RADIUS:
+65
+/
+250
+Active:
+Lillia
+dashes
+toward the target area and smashes her censer, dealing
+magic damage
+to enemies hit. Enemies hit within the epicenter are dealt
+increased damage
+.
+Active:
+Lillia
+dashes
+to 150 units in front of the target location over
+0.
+759
+seconds
+, though not through terrain, and deals
+magic damage
+in an area around the target spot. Enemies hit within the epicenter are dealt
+200% increased damage
+.
+Magic Damage:
+80 / 100 / 120 / 140 / 160
+(+ 35% AP)
+Increased Damage:
+240 / 300 / 360 / 420 / 480
+(+ 105% AP)
+Watch Out! Eep!
+deals 50% damage to
+minions
+.
+Minion Damage:
+40 / 50 / 60 / 70 / 80
+(+ 17.
+5
+% AP)
+Increased Minion Damage:
+120 / 150 / 180 / 210 / 240
+(+ 52.
+5
+% AP)
+Watch Out! Eep! will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Lillia
+dashes to her target location over
+0.
+627
+to 0.
+759
+seconds
+, but cannot move before the strike goes off at 0.
+759
+seconds, regardless.
+Lillia
+can hop over the edges of certain walls despite the ability being unable to traverse terrain.
+Edit
+Swirlseed
+COST:
+70 Mana
+COOLDOWN:
+14
+CAST TIME:
+0.
+4
+TARGET RANGE:
+700
+/
+Global
+EFFECT RADIUS:
+150
+WIDTH:
+120
+SPEED:
+5000
+/
+1400
+Active:
+Lillia
+lobs a seed at the target area that rolls forward indefinitely. The seed detonates upon hitting an enemy or terrain, dealing
+magic damage
+to enemies in a cone,
+slowing
+and
+revealing
+them for a short time.
+Active:
+Lillia
+lobs a seed at the target location that rolls forward indefinitely. The seed detonates upon hitting an enemy or terrain while on the ground, dealing
+magic damage
+to enemies in a cone,
+slowing
+them by 40% for 3 seconds and
+revealing
+them for 2 seconds.
+Magic Damage:
+60 / 85 / 110 / 135 / 160
+(+ 50% AP)
+Swirlseed will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+See Notes
+Swirlseed's
+origin is determined from
+Lillia's
+position at the start of cast, the rolling direction is determined from
+Lillia's
+position at the end of cast (when the projectile is created, not when the seed starts rolling).
+Spell shield
+does not prevent the seed from detonating thus striking nearby targets.
+Projectile destroying effects
+will still make the rolling seed detonate upon colliding with them, but not when the initial arcing missile is destroyed.
+If
+Braum's
+Unbreakable
+blocks the initial projectile, it is destroyed and deals 0 damage to him, as well as not triggering the cone-shaped area of effect.
+The spot at which the seed will collide with terrain is highlighted while it is rolling.
+Collision indicator
+Map-Specific Differences
+Howling Abyss
+differences
+edit
+Cooldown changed to 18 seconds.
+Edit
+Lilting Lullaby
+COST:
+50 Mana
+COOLDOWN:
+150 / 130 / 110
+CAST TIME:
+0.
+4
+EFFECT RADIUS:
+Global
+Active:
+Lillia
+casts a magical lullaby over all enemy
+champions
+affected by
+Dream Dust
+, making them
+drowsy
+before falling
+asleep
+for a few seconds. Damaging
+sleeping
+targets consumes the debuff to deal additional
+magic damage
+.
+Active:
+Lillia
+casts a magical lullaby over all enemy
+champions
+affected by
+Dream Dust
+, which
+arrives after 0.
+3
+seconds
+and renders them
+drowsy
+for 1.
+5
+seconds,
+slowing
+them by 10%. After the duration, they fall
+asleep
+for 2 seconds.
+The next instance of non-
+persistent
+damage that a
+sleeping
+target takes from
+champions
+, large
+monsters
+or
+turrets
+consumes the debuff to deal
+additional
+magic damage
+.
+Magic Damage:
+100 / 150 / 200
+(+ 40% AP)
+An enemy champion affected by
+Dream Dust
+is required to cast this ability.
+"Sleepy time!"
+Info
+Targeting input
+Auto
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+The
+sleep
+debuff is named
+Shhh.. They're Asleep
+.
+Lillia
+can move during
+Lilting Lullaby's
+cast time.
+The additional
+magic damage
+dealt is accredited to
+Lillia
+and benefits from her
+magic penetration
+.
+Lilting Lullaby's
+missile will not hit if the target becomes
+untargetable
+during the cast time or while it is travelling.
+Lilting Lullaby's
+application does not trigger aggro from
+turrets
+, only its triggering damage does.
+Dream Dust's
+persistent damage will still cause
+Lillia
+to trigger turret aggro, unless she casts
+Lilting Lullaby
+right before it runs out.
+Dream Dust
+will mark targets if
+Lilting Lullaby
+is learned.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Lillia (Collection)
+.
+Original
+View in 3D
+975
+22.07.2020
+Intensely shy, the fae fawn Lillia skittishly wanders Ionia's forests. Hiding just out of sight of mortals—whose mysterious natures have long captivated, but intimidated, her—Lillia hopes to discover why their dreams no longer reach the ancient Dreaming Tree. She now travels Ionia with a magical branch in hand, in an effort to find people's unrealized dreams. Only then can Lillia herself bloom and help others untangle their fears to find the sparkle within. Eep!
+Holly Earl
+Jennifer Wuestling
+Loot eligible
+Spirit Blossom
+View in 3D
+1350
+22.07.2020
+A shy fawn spirit, Lillia once served as the guardian of a sacred Ionian forest—until her grove was destroyed and cast into flame. Consumed by loss, she now slumbers in the spirit realm, reliving the destruction in an unending nightmare—unaware of the timid hope still waiting to bloom...
+Holly Earl
+Clare Wong, West Studio
+Spirit Blossom
+Loot eligible
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+Chromas
+Spirit Blossom Lillia Chromas
+Amethyst
+Citrine
+Night Blossom
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Nightbringer
+View in 3D
+1350
+23.09.2021
+Steward of nightmares, demon of dreams, Lillia revels in twisted fantasias that mortify mortal minds. Though she dallies in the war between order and chaos, she rarely joins the fray herself; she has a garden to tend to, after all, sowing seeds of terror and watching them bloom.
+Holly Earl
+Julia Yurtsev
+Nightbringer and Dawnbringer
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Nightbringer Lillia Chromas
+Catseye
+Deathbringer
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Shan Hai Scrolls
+View in 3D
+1350
+14.06.2023
+Every day, the Sun Bird flies between two sacred trees: the western Tree of Dawn and the eastern Tree of Dusk. Lillia is a spirit of rejuvenation and the Sun Bird's caretaker. A steward of time and seasons, she uses her censer to spread a calming mist as she carries the bird home at night.
+Holly Earl
+Kevin Glint, West Studio
+Shan Hai Scrolls
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Shan Hai Scrolls Lillia Chromas
+Amethyst
+Citrine
+Emerald
+Meteorite
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Faerie Court
+View in 3D
+1350
+15.05.2024
+Lady of the Winter Court and Keeper of the Seelie Heart-tree, Lillia records the history of the Faerie Queendoms in the ancient tree's rings, freezing events into forested, ever-growing archives. When Lillia discovers that someone has tried to tamper with her work, however, she must rally her courage—there is trouble afoot!
+Holly Earl
+Francis Tneh, West Studio
+Faerie Court
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Faerie Court Lillia Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.22
+- November 6th Hotfix
+Swirlseed
+Bug Fix:
+If
+Rylai's Crystal Scepter
+is equipped, Rimefrost's slow duration no longer improperly overrides
+Swirlseed's
+slow duration.
+V14.22
+Stats
+Armor growth reduced to 4.
+5
+from 5.
+2
+.
+Dream-Laden Bough
+Base heal per tick against monsters reduced to 6.
+5
+at all levels from
+6.
+5
+− 9 (based on level)
+.
+V14.18
+Dream-Laden Bough
+.
+Total monster damage cap reduced to 65 at all levels from
+70 − 100 (based on level)
+.
+Monster damage per tick cap reduced to 10.
+833
+from
+11.
+67
+− 16.
+67
+(based on level)
+.
+Lilting Lullaby
+Sleep duration reduced to 2 seconds at all ranks from 2 / 2.
+5
+/ 3.
+V14.17
+Dream-Laden Bough
+Total damage cap against monsters reduced to
+70 − 100 (based on level)
+from
+70 − 150 (based on level)
+.
+V14.14
+Dream-Laden Bough
+Subsequent champion healing reduced to 15% from 33%.
+Swirlseed
+Base damage reduced to 60 / 85 / 110 / 135 / 160 from 70 / 95 / 120 / 145 / 170.
+AP ratio reduced to
+50% AP
+from
+60% AP
+.
+V14.5
+- March 6th Hotfix
+Swirlseed
+Bug Fix:
+Missile can now properly hit targets in the area behind the initial impact.
+V14.5
+Swirlseed
+Bug Fix:
+Cone VFX hit indicator is now properly visible in the enemies' perspective when the missile collides with terrain.
+V14.3
+Dream-Laden Bough
+Total damage AP ratio reduced to
+1.
+25
+% per 100 AP
+from
+1.
+5
+% per 100 AP
+.
+Blooming Blows
+AP ratio reduced to
+35% AP
+from
+45% AP
+.
+V13.8
+Dream-Laden Bough
+Damage cap against monsters increased to
+70 − 150 (based on level)
+from
+50 − 150 (based on level)
+.
+Base heal against monsters changed to
+39 − 54 (based on level)
+from
+24 − 75 (based on level)
+.
+Heal AP ratio against monsters increased to
+15% AP
+from
+5.
+4
+% AP
+.
+Base heal against champions reduced to
+6 − 90 (based on level)
+from
+6 − 120 (based on level)
+.
+Heal AP ratio against champions increased to
+30% AP
+from
+18% AP
+.
+V13.1b
+Dream-Laden Bough
+Damage AP ratio increased to
+1.
+5
+% per 100 AP
+from
+1.
+2
+% per 100 AP
+Blooming Blows
+AP ratio increased
+45% AP
+from
+40% AP
+.
+Total AP ratio increased
+90% AP
+from
+80% AP
+.
+Swirlseed
+AP ratio increased
+60% AP
+from
+45% AP
+.
+Cooldown reduced to 14 seconds from 16.
+V12.23
+- December 14th Hotfix
+Dream-Laden Bough
+Total damage health ratio reduced to
+5% of target's
+maximum
+health
+from
+6%
+.
+Blooming Blows
+Base damage reduced to 35 / 45 / 55 / 65 / 75 from 40 / 50 / 60 / 70 / 80.
+Total base damage reduced to 70 / 90 / 110 / 130 / 150 from 80 / 100 / 120 / 140 / 160.
+V12.23
+Blooming Blows
+Base damage changed to 40 / 50 / 60 / 70 / 80 from 35 / 50 / 65 / 80 / 95.
+Total base damage changed to 80 / 100 / 120 / 140 / 160 from 70 / 100 / 130 / 160 / 190.
+V12.22
+General
+Range type changed to
+melee
+from
+ranged
+.
+Stats
+Base health reduced to 605 from 625.
+Health growth increased to 105 from 104.
+Dream-Laden Bough
+Base healing from champions reduced to
+1 − 20 (based on level)
+(growth formula) per 0.
+5
+seconds from
+1.
+75
+− 20.
+75
+(based on level)
+(linear with breakpoint at level 11).
+Total base healing from champions reduced to
+6 − 120 (based on level)
+from
+10.
+5
+− 124.
+5
+(based on level)
+.
+V12.15
+Dream-Laden Bough
+Damage cap against monster increased to
+50 − 150 (based on level)
+from
+40 − 100 (based on level)
+.
+V12.11
+Stats
+Base health reduced to 625 from 650.
+Dream-Laden Bough
+Damage AP ratio reduced to
+1.
+2
+% per 100 AP
+from
+1.
+5
+% per 100 AP
+.
+V12.10
+Stats
+Base health increased to 650 from 580.
+Health growth increased to 104 from 90.
+Armor growth increased to 5.
+2
+from 4.
+Magic resistance growth increased to 1.
+55
+from 0.
+75
+.
+Dream-Laden Bough
+Base heal against monsters reduced to
+24 − 75 (based on level)
+from
+27 − 103.
+5
+(based on level)
+.
+Heal AP ratio against monsters reduced to
+5.
+4
+% AP
+from
+6% AP
+.
+Base heal against champions reduced to
+10.
+5
+− 124.
+5
+(based on level)
+from
+12 − 139.
+5
+(based on level)
+.
+Heal AP ratio against champions reduced to
+18% AP
+from
+20.
+4
+% AP
+.
+V12.9
+Dream-Laden Bough
+Bug Fix:
+Now receives the correct amount of healing.
+V12.7
+Dream-Laden Bough
+Heal AP ratio against champions increased to
+20% AP
+from
+12% AP
+.
+Watch Out! Eep!
+Base damage increased to 80 / 100 / 120 / 140 / 160 from 70 / 90 / 110 / 130 / 150.
+V12.3
+Lilting Lullaby
+Sleep duration increased to 2 / 2.
+25
+/ 2.
+5
+seconds from 1.
+5
+/ 2 / 2.
+5
+.
+V11.18
+Stats
+Base health regeneration reduced to 2.
+5
+from 7.
+5
+.
+Health regeneration growth reduced to 0.
+55
+from 0.
+75
+.
+Dream-Laden Bough
+Base heal against monsters increased to
+27 − 103.
+5
+(based on level)
+from
+18 − 94 (based on level)
+.
+Blooming Blows
+Bonus movement speed duration increased to 6.
+5
+seconds from 5.
+5
+.
+Swirlseed
+Cooldown reduced to 16 seconds from 18.
+V11.17
+Watch Out! Eep!
+Bug Fix:
+Fixed a bug where the extended tooltip was missing the information that it deals 50% damage to minions.
+V11.15
+Blooming Blows
+Bug Fix:
+Fixed a bug where the movement speed did not scale off of AP from runes.
+V11.14
+Stats
+Base health regeneration reduced to 7.
+5
+from 9.
+Base armor increased to 22 from 20.
+Dream-Laden Bough
+Base damage increased to
+6% of target's
+maximum
+health
+from
+5%
+.
+New Effect:
+Target's maximum health damage now scales with
+1.
+5
+% per 100 AP
+.
+New Effect:
+Now heals for
+18 − 94 (based on level)
+(+ 6% AP)
+against large monsters and
+12 − 139.
+5
+(based on level)
+(+ 12% AP)
+against champions over the duration of
+Dream Dust
+. She may only heal against 1 monster at a time, reduced to 33% effectiveness for each target beyond the first.
+Blooming Blows
+Maximum stacks reduced to 4 from 5.
+Stack fall off time increased to 1.
+5
+seconds from 1.
+Bonus movement speed duration increased to 5.
+5
+seconds from 5.
+Base bonus movement speed per stack reduced to 3 / 4 / 5 / 6 / 7% from 7 / 8 / 9 / 10 / 11%.
+Maximum base bonus movement speed reduced to 12 / 16 / 20 / 24 / 28% from 35 / 40 / 45 / 50 / 55%.
+Bonus movement speed AP ratio per stack increased to
+3% per 100 AP
+from
+1% per 100 AP
+.
+Maximum bonus movement speed AP ratio increased to
+12% per 100 AP
+from
+5% per 100 AP
+.
+Base damage increased to 35 / 50 / 65 / 80 / 95 from 30 / 45 / 60 / 75 / 90.
+Cooldown increased to 6 / 5.
+5
+/ 5 / 4.
+5
+/ 4 seconds from 4 at all ranks.
+Mana cost increased to 65 from 45.
+Watch Out! Eep!
+Base damage increased to 70 / 90 / 110 / 130 / 150 from 70 / 85 / 100 / 115 / 130.
+AP ratio increased to
+35% AP
+from
+30% AP
+.
+Swirlseed
+Cooldown increased to 18 seconds from 12.
+Base damage increased to 70 / 95 / 120 / 145 / 170 from 70 / 90 / 110 / 130 / 150.
+AP ratio increased to
+45% AP
+from
+40% AP
+.
+Slow changed to 40% at all ranks from 25 / 30 / 35 / 40 / 45%.
+Lilting Lullaby
+Sleep duration reduced to 1.
+5
+/ 2 / 2.
+5
+seconds from 2 / 2.
+5
+/ 3.
+AP ratio increased to
+40% AP
+from
+30% AP
+.
+Initial slow reduced to 10% from 25%.
+Removed:
+Slow no longer increases up to 50% over the duration.
+V11.6
+Lilting Lullaby
+Cooldown increased to 150 / 130 / 110 seconds from 130 / 110 / 90.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.23
+Lilting Lullaby
+Bug Fix:
+Overhead indicator VFX on enemies is now fixed.
+V10.16
+General
+Bug Fix:
+Walking and running animations no longer loop when inputting movement commands.
+V10.15
+- Added
+Dream-Laden Bough
+(Innate)
+Innate:
+Lillia's
+abilities apply
+Dream Dust
+, dealing
+5% of the target's
+maximum
+health
+as
+magic damage
+over 3 seconds, capped at
+40 − 100 (based on level)
+damage against
+monsters
+.
+Blooming Blows
+(Q)
+Passive:
+Lillia
+gains a
+Prance
+stack for 5 seconds whenever she hits at least 1 enemy with her abilities, refreshing up to 5 stacks. Stacks are lost by one every 1 second. Each stack grants
+Lillia
+7 / 8 / 9 / 10 / 11%
+(+ 1% per 100 AP)
+bonus
+movement speed
+.
+Active:
+Lillia
+swings her censer around her, dealing 30 / 45 / 60 / 75 / 90
+(+ 40% AP)
+magic damage
+to nearby enemies. Enemies hit within the outer edge of the area additionally take the same amount as
+bonus
+true damage
+.
+Effect Radius:
+225
+/
+485
+.
+Cast Time:
+0.
+25
+seconds.
+Mana Cost:
+45.
+Cooldown:
+4 seconds.
+Watch Out! Eep!
+(W)
+Active:
+Lillia
+rushes
+to 150 units in front of the target area over 0.
+75
+seconds, though not through terrain, and winds up for a strike, dealing 70 / 85 / 100 / 115 / 130
+(+ 30% AP)
+magic damage
+in an area. Enemies hit within the center are dealt
+200% increased damage
+.
+Watch Out! Eep!
+deals 50% damage to
+minions
+.
+Target Range:
+500
+.
+Effect Radius:
+65
+250
+.
+Cast Time:
+0.
+25
+seconds.
+Mana Cost:
+50.
+Cooldown:
+14 / 13 / 12 / 11 / 10 seconds.
+Swirlseed
+(E)
+Active:
+Lillia
+lobs a seed at the target area that rolls forward indefinitely. The seed detonates upon colliding with an enemy or terrain upon landing or while rolling, dealing 70 / 90 / 110 / 130 / 150
+(+ 40% AP)
+magic damage
+to enemies in a cone,
+slowing
+them by 25 / 30 / 35 / 40 / 45% for 3 seconds and
+revealing
+them for 2 seconds.
+Swirlseed
+will cast at max range if cast beyond that. The spot at which the seed will last collide with terrain is highlighted to
+Lillia
+while it is rolling.
+Target Range:
+700
+/
+Global
+.
+Width:
+120
+.
+Effect Radius:
+150
+.
+Cast Time:
+0.
+4
+seconds.
+Mana Cost:
+70.
+Cooldown:
+12 seconds.
+Lilting Lullaby
+(R)
+Active:
+Lillia
+casts a magical lullaby over all targetable enemy
+champions
+affected by
+Dream Dust
+, rendering them
+drowsy
+for 1.
+5
+seconds, which gradually
+slows
+them, after which they fall
+asleep
+for 2 / 2.
+5
+/ 3 seconds.
+The next non-
+persistent
+non-
+minion
+damage taken by the
+sleeping
+targets consumes the debuff to deal additional 100 / 150 / 200
+(+ 30% AP)
+magic damage
+.
+Target Range:
+Global.
+Cast Time:
+0.
+4
+seconds.
+Mana Cost:
+50.
+Cooldown:
+130 / 110 / 90 seconds.
+Trivia
+[
+edit
+|
+edit source
+]
+Lillia has different animations, voice over queues and blooms depending on how many
+Prance
+stacks she has.
+[2]
+Her name and title likely pun on Latin
+lilia
+, plural of
+lilium
+< Greek
+leírion
+λείριον <
+Coptic
+hlēri
+ϩⲗⲏⲣⲓ <
+Ancient Egyptian
+ḥrrt
+"flower, blossom".
+Lillia was teased in-game with the
+Lillia's Haiku
+loot item earnable in patch
+V10.14
+. It was
+awarded
+by scoring takedowns as
+Jungle
+and openable from July 22, 2020. The card contained a Lillia Champion Permanent.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Skirmisher
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Skirmishers
+(also known as Duelists) aim to shred through any nearby enemy that approaches. Because Skirmishers lack high-end burst damage or reliable ways of closing in on high-priority targets, they are instead armed with situationally powerful defensive tools to survive in the fray, along with extreme sustained damage to cut down even the most durable targets.
+Examples
+Fiora
+Jax
+Yasuo
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Persistent damage
+Persistent damage
+is the damage type dealt primarily by damage over time (DoT) abilities. Most sources of
+persistent damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+persistent damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 5% whenever you deal an instance of
+persistent damage
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Lilting Lullaby
+COOLDOWN:
+150 / 130 / 110
+Active:
+Lillia
+casts a magical lullaby over all enemy
+champions
+affected by
+Dream Dust
+, making them
+drowsy
+before falling
+asleep
+for a few seconds.
+Damaging
+sleeping
+targets consumes the debuff to deal additional
+magic damage
+.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Invulnerability
+A unit that is
+Invulnerable
+reduces all damage taken to
+0
+and prevents effects that trigger from damage.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+True damage
+Applies:
+Corrupting Potion
+Omnivamp
+Mitigated by:
+Damage shields
+Invulnerability
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Standard sight
+Standard sight
+reveals units through
+fog of war
+and
+brush
+, but
+not
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Projectile
+A
+projectile
+or
+missile
+is any entity not classified as a unit (
+champion
+,
+minion
+,
+monster
+, etc.
+) that travels at any given velocity.
+Moving units are
+not
+considered projectiles under any circumstance (
+including
+dashing
+units,
+airborne
+units, or units thrown by some abilities such as
+Force of Will
+or
+Roar of the Slayer
+.
+).
+Braum's
+Unbreakable
+,
+Samira's
+Blade Whirl
+, and
+Yasuo's
+Wind Wall
+can block, destroy and / or stop projectiles.
+Some
+ranged
+basic attacks (
+including
+turrets
+) and abilities don't use projectiles and will bypass projectile-blocking effects.
+Some abilities will
+destroy
+all currently incoming homing projectiles.
+League of Legends content
+Unbreakable
+COOLDOWN:
+16 / 14 / 12 / 10 / 8
+Active:
+Braum
+sets his shield in a direction for a few seconds, intercepting any enemy
+projectiles
+to hit him and be destroyed.
+He gains damage reduction and negates the first instance of damage dealt by a champion completely from this direction.
+League of Legends content
+Howling Abyss
+The Howling Abyss is a bottomless crevasse located in the coldest, cruelest, part of the
+Freljord
+. Legends say that, long ago, a great battle took place here on the narrow bridge spanning this chasm. No one remembers who fought here, or why, but it is said that if you listen carefully to the wind you can still hear the cries of the vanquished tossed howling into the Abyss.
+Regular Modes
+Classic 5v5
+(
+All random
+)
+Custom
+Featured Game Modes
+Legend of the Poro King
+One For All
+One For All: Mirror Mode
+Snowdown Showdown
+League of Legends content
+Dream-Laden Bough
+Innate:
+Lillia's
+abilities apply
+Dream Dust
+to enemies hit, which continually deals
+magic damage
+based on the
+target's
+maximum
+health
+over a short time, and
+heals
+her for the same duration.
+League of Legends content
+Drowsy
+A unit that is
+drowsy
+is
+slowed
+, and afterwards will fall
+asleep
+.
+Removing
+drowsy
+or being
+displacement immune
+or
+immune to crowd control
+at its end will prevent
+sleep
+from occurring.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+.
+Slow resist
+,
+slow immunity
+and slow removals (i.e -
+Decisive Strike
+) can be used to (respectively) weaken, prevent or remove the associated
+slow
+, however, it does not prevent from falling asleep after the duration.
+Tenacity
+gained while
+drowsy
+will still affect the duration of the
+sleep
+.
+League of Legends content
+Sleep
+A unit that is
+asleep
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Sleep
+occurs after the duration of
+drowsiness
+finishes.
+Sleep
+is an
+immobilizing
+effect
+.
+Interrupts:
+Falling
+asleep
+interrupts
+attack windups
+(excluding
+uncancellable basic attacks
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+and taking damage (excluding damage from
+persistent damage
+,
+minions
+, and small and medium
+monsters
+, and any damage smaller than or equal to 10 post-mitigation).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Sleep
+A unit that is
+asleep
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Sleep
+occurs after the duration of
+drowsiness
+finishes.
+Sleep
+is an
+immobilizing
+effect
+.
+Interrupts:
+Falling
+asleep
+interrupts
+attack windups
+(excluding
+uncancellable basic attacks
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+and taking damage (excluding damage from
+persistent damage
+,
+minions
+, and small and medium
+monsters
+, and any damage smaller than or equal to 10 post-mitigation).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+References
+[
+edit
+|
+edit source
+]
+↑
+Lillia's profile page
+at
+LeagueOfLegends.com
+↑
+Interlocutioner on Lillia Bloom

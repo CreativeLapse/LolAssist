@@ -1,0 +1,2246 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Nilah
+the Joy Unbound
+Release date
+2022-07-13
+Last changed
+V14.21
+Class(es)
+Skirmisher
+Legacy
+Fighter
+Assassin
+Position(s)
+Bottom
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+3
+Utility
+2
+Style
+Difficulty
+Nilah
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Nilah
+Base statistics
+Edit
+Health
+570
++101
+Mana
+350
++35
+Health regen. (per 5s)
+6
++0.9
+Mana regen. (per 5s)
+8.2
++0.7
+Armor
+27
++4.5
+Attack damage
+58
++2
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+340
+Attack range
+225
+Attack speed
+Base AS
+0.697
+Attack windup
+22%
+AS ratio
+0.67
+Bonus AS
++3
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+32
+Acq. radius
+400
+Special statistics
+Damage Dealt
+-3%
+Damage Received
++0%
+Healing
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Joy Unending
+EFFECT RADIUS:
+1000
+Innate:
+Whenever
+Nilah
+kills a
+minion
+, she and the nearest allied champion gain an additional portion of the
+experience
+they would have lost from sharing.
+Innate:
+Nilah
+shares a bonus portion of
+healing
+or
+shielding
+with nearby allied champions that apply healing or shielding to her or themselves.
+Innate:
+Whenever
+Nilah
+kills
+a
+minion
+, she and the nearest allied
+champion
+gain an additional
+50% of the experience
+they would have lost from sharing.
+Innate:
+Whenever a nearby allied champion uses an
+ability
+to
+heal
+or
+shield
+either
+Nilah
+or themselves, both they and
+Nilah
+receive a
+bonus
+amount equal to 7.
+5
+% of the healing or 15% of the shielding after a 0.
+5
+-second delay.
+Bonus
+shielding lasts as long as the shield that triggered the effect, up to a maximum duration of 4 seconds.
+Info
+Targeting input
+Passive
+Nilah
+will gain a portion of all healing and all shielding from nearby allies that activate either of the effects on themselves while she is within range of them.
+The same applies to allies that grant
+Nilah
+a heal or shield; they gain a portion of the heal or shield given to her by them, even if the heal or shield affects both units.
+Heal and shields granted by
+items
+,
+runes
+, and
+summoner spells
+will
+not
+trigger the increased amount.
+The heal and shield increases do not trigger from their own heal or shield.
+Nilah
+may still gain a shield from her allies' shields even if they are longer than 4 seconds, but the buff of the shield will only last for up to 4 seconds.
+Nilah
+can receive a normal shield from nearby allies that gain
+physical
+or
+magic
+shields.
+Edit
+Formless Blade
+COST:
+30 Mana
+COOLDOWN
+:
+4
+CAST TIME:
+0.
+35
+− 0.
+28
+(based on
+bonus
+attack speed)
+/
+None
+RANGE:
+0 - 600
+/
+-150 - 500
+WIDTH:
+150
+Passive:
+Nilah
+gains
+armor penetration
+based on her
+critical strike chance
+. Her basic attacks and
+Formless Blade
+heal
+her for a portion of the damage dealt to
+champions
+based on her
+critical strike chance
+, converting overhealing into
+shielding
+that lasts a few seconds.
+Active:
+Nilah
+cracks her whip-blade in a line in the target direction that deals
+physical damage
+to enemies hit, increased based on her
+critical strike chance
+.
+If
+Formless Blade
+is cast during
+Slipstream
+,
+Nilah
+leaves a wave in her wake that homes back to her, dealing
+physical damage
+to enemies hit. If
+Formless Blade
+hits an enemy,
+Nilah
+empowers herself for a short time: gaining
+attack range
+and
+attack speed
+, and causing her basic attacks to strike in a cone that deals
+physical damage
+to enemies hit.
+Passive:
+Nilah
+gains
+0% − 33% (based on critical strike chance)
+armor penetration
+. Her
+basic attacks
+and
+Formless Blade
+heal
+her for
+0% − 20% (based on critical strike chance)
+of the
+post-mitigation damage
+dealt to
+champions
+, converting each heal instance beyond
+maximum
+health
+into a
+shield
+that last 6 seconds.
+Active:
+Nilah
+cracks her whip-blade in a line in the target direction that deals
+physical damage
+to enemies hit, increased by
+0% − 100% (based on critical strike chance)
+.
+Formless Blade
+can hit
+structures
+and
+applies
+life steal
+at 100% effectiveness to one target.
+Minimum Physical Damage:
+5 / 10 / 15 / 20 / 25
+(+ 90 / 95 / 100 / 105 / 110% AD)
+Maximum Physical Damage:
+10 / 20 / 30 / 40 / 50
+(+ 180 / 190 / 200 / 210 / 220% AD)
+If
+Formless Blade
+is cast during
+Slipstream
+,
+Nilah
+leaves behind a wave that is sent towards her location at the end of the dash, dealing the same damage to enemies hit.
+If
+Formless Blade
+hits an enemy,
+Nilah
+empowers herself for 4 seconds: gaining
+125
+bonus
+attack range
+and
+10% − 60% (based on level)
+bonus
+attack speed
+, and causing her basic attacks to strike in a cone that deals
+100% AD
+physical damage
+to enemies hit. Against secondary non-champion targets, this is reduced to
+33% AD
+for
+minions
+and
+10% AD
+for
+monsters
+, and additionally executes minions left below
+20 health
+.
+On-hit
+effects are applied only to the primary target.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+See Notes
+Parries
+See Notes
+Projectile
+Not Blocked
+This ability will cast from wherever the caster is at the end of the cast time.
+Formless Blade's
+active cast triggers call for help for dealing damage despite not being a targeted spell.
+(bug)
+Applies
+area damage
+on the empowered attacks.
+Spell shield
+will not block
+Formless Blade's
+empowered basic attacks.
+Parrying effects (
+dodge
+,
+block
+,
+blind
+) will negate
+Formless Blade's
+empowered attacks only as the primary target.
+Formless Blade's
+damage to the primary target of the enhanced attacks is affected by
+Infinity Edge
+and classified as
+basic damage
+.
+The target to which Nilah applies life steal to is unpredictable.
+Edit
+Jubilant Veil
+COST:
+60 / 45 / 30 / 15 / 0 Mana
+COOLDOWN
+:
+26 / 25 / 24 / 23 / 22
+CAST TIME:
+None
+COLLISION RADIUS:
+150
+Active:
+Nilah
+briefly envelops herself in mist, during which she gains
+move speed
+and
+magic damage
+reduction, and
+dodges
+all non-turret basic attacks. Allied champions she touches will also be enveloped.
+Active:
+Nilah
+envelops herself in mist for 2.
+25
+seconds, during which she becomes
+ghosted
+, gains
+bonus
+movement speed
+, reduces all incoming
+magic damage
+taken by 25%, and
+dodges
+all non-
+turret
+basic attacks.
+Bonus Movement Speed:
+15 / 17.
+5
+/ 20 / 22.
+5
+/ 25%
+Allied champions
+she touches
+will also be enveloped for 1.
+5
+seconds, gaining the same effects.
+Info
+Targeting input
+Auto
+Allies may only be affected by
+Jubilant Veil
+once every 6 seconds.
+Jubilant Veil's
+cooldown is not affected by
+Spear of Shojin
+Dragonforce
+.
+(bug)
+Edit
+Slipstream
+COST:
+30 Mana + 1 Charge
+CAST TIME:
+none
+STATIC COOLDOWN
+:
+0.
+5
+RECHARGE:
+26 / 22.
+5
+/ 19 / 15.
+5
+/ 12
+TARGET RANGE:
+550
+RANGE:
+450
+COLLISION RADIUS:
+150
+SPEED:
+2200
+Active:
+Nilah
+dashes
+in the target enemy's direction, dealing
+physical damage
+to enemies she passes through.
+Nilah
+periodically stocks a
+Slipstream
+charge, up to a maximum of 2.
+Active:
+Nilah
+dashes
+a fixed distance in the direction of the target unit, dealing
+physical damage
+to enemies she passes through.
+Physical Damage:
+60 / 70 / 80 / 90 / 100
+(+ 20%
+bonus
+AD)
+Nilah
+periodically
+stocks
+a
+Slipstream
+charge, up to a maximum of 2.
+Slipstream
+resets
+Nilah's
+basic attack timer.
+Formless Blade
+and
+Apotheosis
+can be cast during the dash.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Formless Blade
+used during
+Slipstream
+might not register, rendering it on cooldown without being casted.
+(bug)
+Slipstream
+has a chance of visually not using charge, causing it to showing one available charge without possibility of using it.
+(bug)
+Dashing to target through a wall within casting range will cancel the dash if wall is longer than dash range.
+(bug)
+Edit
+Apotheosis
+COST:
+80 Mana
+COOLDOWN
+:
+110 / 95 / 80
+CAST TIME:
+None
+EFFECT RADIUS:
+450
+/
+1500
+Active:
+Nilah
+whirls her whip-blade for a brief moment, continually dealing
+physical damage
+to nearby enemies. She then bursts to deal
+physical damage
+and
+pull in
+nearby enemies. Each hit will also
+slow
+enemies for a short time.
+Nilah
+heals
+herself and nearby allied champions for a portion of the damage dealt to
+champions
+, based on her
+critical strike chance
+, and converting overhealing into
+shielding
+that lasts for a moderate amount of time.
+Nilah
+can move during
+Apotheosis
+.
+Active:
+Nilah
+whirls her whip-blade over 1 second, dealing
+physical damage
+to nearby enemies every 0.
+25
+seconds. She then unleashes a burst that deals
+physical damage
+and
+pulls
+them 250 units towards her. Each hit also
+slows
+targets by 10% for 3 seconds, refreshing on subsequent hits.
+Physical Damage per Tick:
+15 / 25 / 35
+(+ 10%
+bonus
+AD)
+Total Physical Damage:
+60 / 100 / 140
+(+ 40%
+bonus
+AD)
+Burst Physical Damage:
+125 / 225 / 325
+(+ 100%
+bonus
+AD)
+Maximum Total Physical Damage:
+185 / 325 / 465
+(+ 140%
+bonus
+AD)
+Nilah
+heals
+herself and nearby allied champions for
+20% − 50% (based on critical strike chance)
+of the
+post-mitigation damage
+dealt to
+champions
+, reduced to 10% against non-champions, converting each heal instance beyond
+maximum
+health
+into a
+shield
+that last 6 seconds.
+Nilah
+is unable to basic attack and cast her other
+abilities
+during Apotheosis, but she is able to move.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+See Notes
+Apotheosis
+can pull enemies through walls and can knock them across
+Nilah's
+location.
+Spell shield
+will only block the burst damage.
+Apotheosis
+shielding reuses indicators from
+Joy Unending
+.
+The following table refers for interactions while
+Nilah
+is performing
+Apotheosis
+:
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Allowed
+Items
+Usable
+All the other item-actives are usable
+Disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Teleport
+Hexflash
+Disabled
+Recall
+Interrupted by
+N/A
+Interrupted by
+Death
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Nilah (Collection)
+.
+Original
+View in 3D
+975
+13.07.2022
+Nilah is an ascetic warrior from a distant land, seeking the world's deadliest, most titanic opponents so that she might challenge and destroy them. Having won her power through an encounter with the long-imprisoned demon of joy, she has no emotions other than unceasing jubilation—a small price to pay for the vast strength she now possesses. Channeling the demon's liquid form into a blade of unparalleled might, she stands defiant against ancient threats long forgotten.
+Sandra Saad
+Pan Chengwei
+Loot eligible
+Star Guardian
+View in 3D
+1350
+13.07.2022
+A powerful Outer Guardian who patrols the wider universe, Nilah has faced multiple reality-ending threats and returned alive... making her a living legend among her peers. Asked to act as teacher to the new generation, she has reluctantly accepted her new responsibilities... though if a particularly big monster appears in VC, she always calls dibs.
+Sandra Saad
+Jennifer Wuestling
+Star Guardian Season 4
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Star Guardian Nilah Chromas
+Brilliant
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Coven
+View in 3D
+1350
+11.10.2023
+They came to Nilah in a cacophony of cracking brambles and bone, offering unbridled talents in exchange for her loyalty. She obliged by filling a vessel with the deep crimson that dripped from the thorns. She now carries with her this godly relic along with the knowledge that she is destined for more than this coven can ever give.
+Sandra Saad
+Ina Wong, West Studio
+Coven
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Coven Nilah Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Profane
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.21
+Formless Blade
+Slipstream
+combo missile now deals damage instantly in the area, rather than when the missile hits the enemy.
+Bug Fix:
+Basic attack orders no longer cancel upon the attack buff expiring.
+Apotheosis
+Bug Fix:
+No longer has a fuzzy basic attack lockout of at least 0.
+1
+and up to 0.
+264
+seconds after the whirlpool ends.
+V14.20
+- October 10th Hotfix
+Slipstream
+Base damage reduced to 60 / 70 / 80 / 90 / 100 from 65 / 90 / 115 / 140 / 165.
+Apotheosis
+Base damage per tick reduced to 15 / 25 / 35 from 15 / 30 / 45.
+Maximum total base damage reduced to 185 / 325 / 465 from 185 / 345 / 505.
+Bonus AD ratio per tick reduced to
+10%
+bonus
+AD
+from
+20%
+.
+Burst bonus AD ratio reduced to
+100%
+bonus
+AD
+from
+120%
+.
+Maximum total bonus AD ratio reduced to
+140%
+bonus
+AD
+from
+200%
+.
+V14.20
+Slipstream
+Cast time reduced to 0 seconds from 0.
+01
+.
+V14.12
+Stats
+Base health regeneration increased to 6 from 4.
+Armor growth increased to 4.
+5
+from 4.
+2
+.
+V14.9
+Stats
+Selection radius increased to 120 units from 75.
+Formless Blade
+AD ratio reduced to
+90 / 95 / 100 / 105 / 110% AD
+from
+90 / 97.
+5
+/ 105 / 112.
+5
+/ 120% AD
+.
+Damage critical strike chance ratio reduced to
+0% − 100% (based on critical strike chance)
+from
+0% − 120% (based on critical strike chance)
+.
+Bonus attack speed increased to
+10% − 60% (based on level)
+from
+10% − 50% (based on level)
+.
+V14.2
+Jubilant Veil
+New Effect:
+Cast can now be buffered during the lockout of other abilities.
+New Effect:
+Can now be cast during the windup of other spells.
+Slipstream
+Adjusted the casting of it in combination with
+Formless Blade
+to be more consistent.
+V13.22
+Formless Blade
+Bonus attack speed reduced to
+10% − 50% (based on level)
+from
+10% − 60% (based on level)
+.
+Apotheosis
+Bonus AD ratio per tick reduced to
+20%
+bonus
+AD
+from
+28%
+.
+Maximum total bonus AD ratio reduced to
+200%
+bonus
+AD
+from
+232%
+.
+V13.21
+Coven Nilah
+Formless Blade
+Bug Fix:
+VFX when cast during
+Slipstream
+adjusted to not look similar to the VFX of
+Coven Morgana's
+Dark Binding
+.
+V12.23
+- December 14th Hotfix
+Formless Blade
+AD ratio reduced to
+90 / 97.
+5
+/ 105 / 112.
+5
+/ 120% AD
+from
+90 / 100 / 110 / 120 / 130% AD
+.
+Damage critical strike chance ratio increased to
+0% − 120% (based on critical strike chance)
+from
+0% − 100% (based on critical strike chance)
+.
+Healing increased to
+0% − 20% (based on critical strike chance)
+of damage dealt from
+0% − 15% (based on critical strike chance)
+.
+Apotheosis
+Bonus AD ratio per tick reduced to
+28%
+bonus
+AD
+from
+35%
+.
+Maximum total bonus AD ratio reduced to
+232%
+bonus
+AD
+from
+260%
+.
+Healing changed to
+20% − 50% (based on critical strike chance)
+of damage dealt from
+30% − 45% (based on critical strike chance)
+.
+V12.22
+Stats
+Base mana regeneration increased to 8.
+2
+from 8.
+18
+.
+V12.21
+Formless Blade
+Bug Fix:
+Passive shield duration now properly matches the ability tooltip.
+V12.15
+Joy Unending
+Bug Fix:
+Fixed a bug that caused it to be audible from the Fog of War.
+Bug Fix:
+Fixed a bug that caused it to trigger with
+Oceanic Will
+.
+V12.14
+General
+Bug Fix:
+SFX from locking in the champion while in champion select is no longer louder than intended.
+Joy Unending
+Bug Fix:
+No longer unintentionally triggers
+Fimbulwinter's
+Everlasting.
+Formless Blade
+Bug Fix:
+Empowered attack now does not last for a longer duration if used during
+Slipstream
+.
+Bug Fix:
+Empowered attacks no longer deal damage to the caster themself while they are affected by
+berserk
+.
+Bug Fix:
+VFX for the empowered attacks are now properly shown.
+Jubilant Veil
+Bug Fix:
+Now is properly grayed out in the HUD while
+Apotheosis
+is being casted.
+V12.13
+- July 14th Hotfix
+Stats
+Base health reduced to 570 from 590.
+Base armor reduced to 27 from 30.
+Joy Unending
+Increased healing modifier reduced to 7.
+5
+% from 10%.
+Increased shielding modifier reduced to 15% from 20%.
+Formless Blade
+Empowered attack AD ratio reduced to
+100% AD
+from
+110% AD
+.
+Secondary minion AD ratio reduced to
+33% AD
+from
+36.
+3
+% AD
+.
+Secondary monster AD ratio reduced to
+10% AD
+from
+11% AD
+.
+Bonus attack speed reduced to
+10% − 60% (based on level)
+from
+15% − 65% (based on level)
+.
+Slipstream
+Recharge cooldown increased to 26 / 22.
+5
+/ 19 / 15.
+5
+/ 12 seconds from 24 / 21 / 18 / 15 / 12.
+V12.13
+- Added
+Joy Unending
+(Innate)
+Innate:
+Whenever
+Nilah
+kills a
+minion
+, she and the nearest allied
+champion
+gain
+50% of the experience
+they would have lost due to sharing, in addition to the normal amount of shared experience.
+Innate:
+Nilah
+receives 10% increased
+healing
+and 20%
+bonus
+shield
+strength from allied champions' abilities. Allies that grant a heal or shield to themselves or
+Nilah
+gain the increased amount as well. If the ally granted it to themself only,
+Nilah
+gains the amount too.
+This effect only triggers if
+Nilah
+or the ally are near each other, with the increased amount triggering after 0.
+5
+seconds of the heal or shield being granted. Shields granted last the same duration as the shield that triggered the effect, up to a maximum duration of 4 seconds.
+Effect Radius:
+1000
+.
+Formless Blade
+(Q)
+Passive:
+Nilah
+gains
+0% − 33% (based on critical strike chance)
+armor penetration
+. Her basic attacks and
+Formless Blade
+heal
+her for
+0% − 15% (based on critical strike chance)
+of the
+post-mitigation damage
+dealt to champions, with healing in excess of her
+maximum
+health
+being converted to a
+shield
+. Each instance of shield gained by this effect lasts for 6 seconds.
+Active:
+Nilah
+cracks her whip-blade in a line in the target direction, dealing 5 / 10 / 15 / 20 / 25
+(+ 90 / 100 / 110 / 120 / 130% AD)
+physical damage
+to all enemies struck, increased by
+0% − 100% (based on critical strike chance)
+.
+Formless Blade
+can hit structures.
+Casting
+Formless Blade
+during
+Slipstream
+causes a wave to be sent towards
+Nilah's
+location at the end of the dash, dealing the same damage to all enemies hit.
+If
+Formless Blade
+hits an enemy,
+Nilah's
+whip-blade becomes enhanced for the next 4 seconds, granting her 125
+bonus
+attack range and
+15% − 65% (based on level)
+bonus
+attack speed
+and causing her basic attacks to strike in a cone, dealing
+110% AD
+physical damage
+to enemies hit. Against secondary non-champion targets, this is reduced to
+36.
+3
+% AD
+for
+minions
+and
+11% AD
+for
+monsters
+.
+On-hit
+effects are only applied to the primary target.
+Mana Cost:
+30.
+Cooldown:
+4
+seconds.
+Range:
+0 - 600
+/
+-150 - 500
+,
+Width:
+150
+,
+Cast Time:
+0.
+25
+seconds.
+Jubilant Veil
+(W)
+Active:
+Nilah
+envelops herself in mist for 2.
+25
+seconds, during which she becomes
+ghosted
+, gains 15 / 17.
+5
+/ 20 / 22.
+5
+/ 25%
+bonus
+movement speed
+,
+dodges
+all non-
+turret
+basic attacks, and reduces all incoming
+magic damage
+taken by 25%.
+While active, touching allied
+champions
+also envelops them in the mist, granting them the same effects for 1.
+5
+seconds.
+Mana Cost:
+60 / 45 / 30 / 15 / 0.
+Cooldown:
+26 / 25 / 24 / 23 / 22
+seconds.
+Cast Time:
+None.
+Slipstream
+(E)
+Active:
+Nilah
+dashes
+a fixed distance towards or through the target unit, dealing 65 / 90 / 115 / 140 / 165
+(+ 20% AD)
+physical damage
+to enemies she passes through.
+Nilah
+periodically stocks a
+Slipstream
+charge, up to a maximum of 2.
+Slipstream
+resets
+Nilah's
+basic attack timer.
+Formless Blade
+and
+Apotheosis
+can be cast during the dash.
+Cost:
+30 mana + 1 charge.
+Static Cooldown:
+0.
+5
+seconds.
+Recharge:
+22 / 19.
+5
+/ 17 / 14.
+5
+/ 12 seconds.
+Target Range:
+550,
+Range:
+450
+,
+Collision Radius:
+150
+,
+Speed:
+2200
+,
+Cast Time:
+None.
+Apotheosis
+(R)
+Active:
+Nilah
+whirls her whip-blade over 1 second, dealing 15 / 30 / 45
+(+ 35%
+bonus
+AD)
+physical damage
+to nearby enemies every 0.
+25
+seconds. Afterwards, she bursts to deal them 125 / 225 / 325
+(+ 120%
+bonus
+AD)
+physical damage
+and
+pull
+them 250 units towards her. Each hit
+slows
+the targets by 10% for 3 seconds, refreshing on subsequent hits.
+Nilah
+heals
+herself and nearby allied champions for
+30% − 45% (based on critical strike chance)
+of the
+post-mitigation damage
+dealt to champions, reduced to 10% against non-champions, with healing in excess of
+maximum
+health
+being converted to a
+shield
+. Each instance of shield gained by this effect lasts for 6 seconds.
+Nilah
+is unable to basic attack and cast her other abilities during Apotheosis, but she is still able to move.
+Mana Cost:
+80.
+Cooldown:
+110 / 95 / 80
+seconds.
+Effect Radius:
+450
+/
+1500
+,
+Cast Time:
+None.
+Trivia
+[
+edit
+|
+edit source
+]
+Nilah
+is one of 21 champions without a single
+ability power
+ratio on any ability:
+Aatrox
+,
+Camille
+,
+Darius
+,
+Dr. Mundo
+,
+Draven
+,
+Garen
+,
+K'Sante
+,
+Kayn
+,
+Kled
+,
+Naafiri
+,
+Olaf
+,
+Pyke
+,
+Riven
+,
+Samira
+,
+Sett
+,
+Talon
+,
+Urgot
+,
+Xayah
+,
+Yone
+, and
+Zed
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Skirmisher
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Skirmishers
+(also known as Duelists) aim to shred through any nearby enemy that approaches. Because Skirmishers lack high-end burst damage or reliable ways of closing in on high-priority targets, they are instead armed with situationally powerful defensive tools to survive in the fray, along with extreme sustained damage to cut down even the most durable targets.
+Examples
+Fiora
+Jax
+Yasuo
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Bottom
+Within a
+drafted team
+, the
+Bottom Carry
+is one of the two champions assigned to the bottom lane alongside the
+Support
+. Being the most vulnerable, the
+Bottom Carry
+has to acquire as much gold as possible to purchase key items that will greatly increase their fighting potential.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Bottom Carry
+is expected to fulfill the former designation: the position is made for champions that highly depend on item-based power spikes.
+Marksmen
+are the most likely champions to be selected in the
+Bottom Carry
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Slipstream
+RECHARGE:
+26 / 22.
+5
+/ 19 / 15.
+5
+/ 12
+Active:
+Nilah
+dashes
+in the target enemy's direction, dealing
+physical damage
+to enemies she passes through.
+Nilah
+periodically stocks a
+Slipstream
+charge, up to a maximum of 2.
+League of Legends content
+Applies life steal
+"Applies life steal"
+is a
+damage tag
+that gives an ability the property of having a damage source apply
+life steal
+like
+basic attack damage
+would.
+This tag is located on some abilities that deal
+spell damage
+(e.g.
+Samira's
+Flair
+and
+Inferno Trigger
+) and
+items
+that deal damage
+on-hit
+.
+Life steal
+does not have a penalty for
+area of effect
+abilities and is always applied to the damage dealt at 100% effectiveness, unless otherwise specified. Unlike
+Vamp
+, the
+"applies life steal"
+tag applies life steal directly and does not
+heal
+based on damage dealt and the life steal
+stat
+. Therefore healing modifiers that affect
+life steal
+also affect abilities with the
+"applies life steal"
+tag.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Formless Blade
+COOLDOWN:
+4
+Passive:
+Nilah
+gains
+armor penetration
+based on her
+critical strike chance
+. Her basic attacks and
+Formless Blade
+heal
+her for a portion of the damage dealt to
+champions
+based on her
+critical strike chance
+, converting overhealing into
+shielding
+that lasts a few seconds.
+Active:
+Nilah
+cracks her whip-blade in a line in the target direction that deals
+physical damage
+to enemies hit, increased based on her
+critical strike chance
+.
+If
+Formless Blade
+is cast during
+Slipstream
+,
+Nilah
+leaves a wave in her wake that homes back to her, dealing
+physical damage
+to enemies hit.
+If
+Formless Blade
+hits an enemy,
+Nilah
+empowers herself for a short time: gaining
+attack range
+and
+attack speed
+, and causing her basic attacks to strike in a cone that deals
+physical damage
+to enemies hit.
+League of Legends content
+Apotheosis
+COOLDOWN:
+110 / 95 / 80
+Active:
+Nilah
+whirls her whip-blade for a brief moment, continually dealing
+physical damage
+to nearby enemies. She then bursts to deal
+physical damage
+and
+pull in
+nearby enemies. Each hit will also
+slow
+enemies for a short time.
+Nilah
+heals
+herself and nearby allied champions for a portion of the damage dealt to
+champions
+, based on her
+critical strike chance
+, and converting overhealing into
+shielding
+that lasts for a moderate amount of time.
+Nilah
+can move during
+Apotheosis
+.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Nilah's profile page
+at
+LeagueOfLegends.com

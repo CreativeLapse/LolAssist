@@ -1,0 +1,2639 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Blitzcrank
+the Great Steam Golem
+Release date
+2009-09-02
+Last changed
+V14.22
+Class(es)
+Catcher
+Legacy
+Tank
+Support
+Position(s)
+Support
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Magic
+Store price
+1350
+|
+585
+Crafting
++
+810
+Ratings
+Damage
+1
+Toughness
+2
+Control
+3
+Mobility
+1
+Utility
+1
+Style
+Difficulty
+Blitzcrank
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Blitzcrank
+Base statistics
+Edit
+Health
+600
++109
+Mana
+267
++40
+Health regen. (per 5s)
+7.5
++0.75
+Mana regen. (per 5s)
+8.5
++0.8
+Armor
+37
++4.7
+Attack damage
+62
++3.5
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+325
+Attack range
+125
+Attack speed
+Base AS
+0.625
+Attack windup
+27%
+AS ratio
+N/A
+Bonus AS
++1.13
+%
+Unit radius
+Gameplay radius
+80
+Selection radius
+140
+Pathing radius
+50
+Acq. radius
+600
+Special statistics
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++5%
+Damage Received
++0%
+Damage Dealt
++6%
+Damage Received
+-3%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++5%
+Damage Received
+-5%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Mana Barrier
+STATIC COOLDOWN
+:
+90
+Innate:
+Periodically, when
+Blitzcrank
+gets to
+low-health
+,
+Mana Barrier
+generates a
+shield
+that scales with
+maximum mana
+.
+Innate:
+Periodically, when damaged to
+30%
+maximum
+health
+,
+Blitzcrank
+generates a
+shield
+equal to
+30% of
+maximum
+mana
+, lasting for up to 10 seconds.
+Info
+Targeting input
+Passive
+Damage type
+Type
+The shield will absorb the portion of incoming damage that would reduce health past 30%.
+Mana Barrier's
+interactions with other
+shield
+effects that trigger before taking damage that would reduce below 30% health:
+Mana Barrier
+will trigger simultaneously with the
+Lifeline
+effect from
+Hexdrinker
+,
+Maw of Malmortius
+, or
+Immortal Shieldbow
+if
+Blitzcrank
+takes damage while above 30% health, and trigger before them when the damage is taken while below 30% health.
+Mana Barrier
+will always trigger simultaneously with the
+Lifeline
+effect from
+Sterak's Gage
+if
+Blitzcrank
+takes damage while above or below 30% health.
+Mana Barrier
+will trigger after
+Nullifying Orb
+if
+Blitzcrank
+takes damage while above 30% health, and trigger simultaneously with it while below 30% health.
+Map-Specific Differences
+Arena
+differences
+edit
+Shield doubled.
+Static cooldown changed to 20 seconds.
+Video
+Edit
+Rocket Grab
+COST:
+100 mana
+COOLDOWN:
+20 / 19 / 18 / 17 / 16
+CAST TIME:
+0.
+25
+RANGE:
+1115
+/
+1020
+WIDTH:
+140
+/
+60
+SPEED:
+1800
+/
+1800
+Active:
+Blitzcrank
+fires the right hand which deals
+magic damage
+and
+stuns
+the first enemy hit. The target is also
+pulled
+towards
+Blitzcrank
+.
+Active:
+Blitzcrank
+fires their right hand in the target direction that catches the first enemy hit, dealing them
+magic damage
+,
+stunning
+them for 0.
+65
+seconds, and
+pulling
+them towards
+Blitzcrank
+, during which they are
+revealed
+.
+Magic Damage:
+105 / 150 / 195 / 240 / 285
+(+ 120% AP)
+Blitzcrank
+is
+unable
+to move or attack while Rocket Grab is in flight.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Rocket Grab's
+range is composed of a missile with 1080 range, and a smaller center-range area check at the end (colloqially known as a 'lollipop').
+The area check is currently half as long as it is supposed to be, reducing the intended 1150 range of the ability to 1115 range.
+Hitting an enemy with this area check only also fails to play the ability's hit SFX. This makes it possible to easily distinguish whether the target was picked up by the missile collision or 'lollipop'.
+Targets
+larger than 95 units in radius
+can be hit by a different edge-range circle check at the end of the missile.
+The
+airborne
+debuff lasts for up-to 1 second but will end prematurely when the target's movement stops, while the stun will persist (if duration permits).
+Displacement immunity
+will not resist the application of the
+stun
+.
+The target's destination lies 75 units in front of
+Blitzcrank
+.
+If the target is closer than this, the effect will still move them to this location.
+If this location would be inside static terrain, the target's destination will end up on
+Blitzcrank's
+side, even if that means pulling them right on top of
+Blitzcrank
+.
+This can occasionally fail.
+If
+Blitzcrank
+is being moved (e.g.
+Airborne
+,
+Kinematics
+or
+Fate's Call
+) during the grab, the target will be pulled towards
+Blitzcrank
+s old location.
+Blitzcrank
+will be ordered to
+basic attack
+the target once the target arrives.
+If the target dies to
+Rocket Grab's
+damage, they will not be pulled.
+This ability will cast from wherever the caster is at the end of the cast time.
+Type
+Cast time
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio changed to
+150% AP
+.
+Cooldown changed to 11 / 10.
+5
+/ 10 / 9.
+5
+/ 9 seconds.
+Video
+Edit
+Overdrive
+COST:
+75 mana
+COOLDOWN
+:
+10
+CAST TIME:
+none
+Active:
+Blitzcrank
+shifts into overdrive, gaining
+bonus
+attack speed
+and a burst of
+movement speed
+. When the effect ends,
+Blitzcrank
+is briefly
+slowed
+.
+Active:
+Blitzcrank
+shifts into overdrive, gaining
+bonus
+attack speed
+for 5 seconds and
+bonus
+movement speed
+that decays to 10% over the first 2.
+9
+seconds.
+Bonus Attack Speed:
+30 / 40 / 50 / 60 / 70%
+Initial Bonus Movement Speed:
+60 / 65 / 70 / 75 / 80%
+When
+Overdrive
+ends,
+Blitzcrank
+is
+slowed
+by 30% for 1.
+5
+seconds.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Proc damage
+Sub-type
+Magic
+Counters
+Parries
+Blocked
+The movement speed boost's decay is linear. On the first stat update after the buff is gained, the boost does not decay.
+The self-slow is affected by
+slow resist
+and
+Tenacity
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Self-slow strength changed to 20%.
+Self-slow duration changed to 1 second.
+Bonus attack speed changed to 70 / 75 / 80 / 85 / 90%.
+Video
+Edit
+Power Fist
+COST:
+25 mana
+COOLDOWN
+:
+9 / 8 / 7 / 6 / 5
+CAST TIME:
+none
+Active:
+Blitzcrank
+charges up a fist to make the next
+basic attack
+deal double damage and
+knock up
+the target into the air.
+Active:
+Blitzcrank
+empowers their next
+basic attack
+within 5 seconds to have an
+uncancellable windup
+, deal
+100% AD
+(+ 25% AP)
+bonus
+physical damage
+and
+knock up
+the target for 1 second. This damage is affected by
+critical strike
+modifiers.
+Power Fist
+resets
+Blitzcrank's
+basic attack timer.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Counters
+Spell shield
+See Notes
+Parries
+See Notes
+The
+knockup
+is applied even if the attack is
+dodged
+or
+missed
+.
+It is not applied if it is
+blocked
+.
+Spell shield
+prevents the
+knockup
+but not the damage.
+The enhanced attack will still complete and hit the target even if they become
+untargetable
+during the
+attack's windup
+.
+The target is displaced a short distance during the
+knockup
+in a random direction.
+Video
+Edit
+Static Field
+COST:
+100 mana
+COOLDOWN:
+60 / 40 / 20
+CAST TIME:
+0.
+25
+EFFECT RADIUS:
+600
+Passive:
+While
+Static Field
+is ready,
+Blitzcrank's
+basic attacks apply a stack of
+Static Field
+.
+Active:
+Blitzcrank
+detonates a powerful static charge that destroys
+shields
+, deals
+magic damage
+, and
+silences
+nearby enemies.
+Static Field:
+A stack detonates every second, dealing
+magic damage
+to the target.
+Passive:
+While
+Static Field
+is not on cooldown,
+Blitzcrank's
+basic attacks apply a
+stack
+to the target
+on-hit
+. After every 1 second, one stack is consumed to deal them
+magic damage
+.
+Magic Damage:
+50 / 100 / 150
+(+ 30 / 40 / 50% AP)
+(+ 2%
+maximum
+mana)
+Active:
+Blitzcrank
+detonates a static field that destroys the damage-mitigating
+shields
+of all nearby enemies, excluding the shields of
+monsters
+, and then deals them
+magic damage
+and
+silences
+them for 0.
+5
+seconds.
+Magic Damage:
+275 / 400 / 525
+(+ 100% AP)
+Info
+Targeting input
+Auto
+Damage type
+Type
+See Notes
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Blitzcrank's
+attacks do not have to deal damage to apply the mark.
+The mark will be consumed even if the target becomes
+untargetable
+.
+The lightning bolts deal
+spell damage
+while the static field applies
+area damage
+.
+Even if
+Static Field
+is blocked by a
+spell shield
+, it will still destroy any existing damage
+shields
+on the target.
+The visual effects will appear from wherever
+Blitzcrank
+is at the end of the cast time.
+(bug)
+This ability will cast from wherever the caster is at the start of the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+Passive base damage changed to 60 / 110 / 160.
+Passive AP ratio changed to
+40 / 50 / 60% AP
+.
+Active AP ratio changed to
+130% AP
+.
+Video
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Blitzcrank (Collection)
+.
+Original
+View in 3D
+790
+01.09.2009
+Blitzcrank is an enormous, near-indestructible automaton from Zaun, originally built to dispose of hazardous waste. However, he found this primary purpose too restricting, and modified his own form to better serve the fragile people of the Sump. Blitzcrank selflessly uses his strength and durability to protect others, extending a helpful metal fist or burst of energy to subdue any troublemakers.
+Duncan Watt
+Esben Lash Rasmussen
+Loot eligible
+Chromas
+Original Blitzcrank Chromas
+Cobalt
+Gunmetal
+Molten
+Rusty
+View in 3D
+520
+20.11.2009
+Duncan Watt
+Unknown artist
+Legacy
+Loot ineligible
+Goalkeeper
+View in 3D
+520
+24.06.2010
+One of the all time greatest keepers for Chaos FC, Blitzcrank has finally taken their place in the Sports Hall of Fame. Their image rests proudly with the likes of Volleyball Dragon, Women's Tennis Scuttle Crab, and Badminton Baron Nashor.
+Duncan Watt
+Unknown artist
+Soccer Cup
+Loot eligible
+Legacy
+Boom Boom
+View in 3D
+520
+29.08.2010
+Their fists are named “boom” and “boom,” proving that robots are a perfect facsimile of human life.
+Duncan Watt
+Unknown artist
+Day Job
+Loot eligible
+Piltover Customs
+View in 3D
+1350
+07.03.2011
+Your robot's legs were busted, so we replaced them with a vintage '32 hot rod, and eight-cylinder external mounted coal engine. Plus we painted flames on his fists. The flames cost extra.
+Duncan Watt
+Unknown artist
+Piltover Customs
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Definitely Not
+View in 3D
+975
+19.10.2011
+I, not a robot.
+Duncan Watt
+Kienan 'Knockwurst' Lafferty
+Definitely Not
+Loot eligible
+Legacy
+iBlitzcrank
+View in 3D
+1350
+01.03.2013
+Built as household assistance automata, thousands of iBlitzcranks were corrupted by Program during a routine software update. With their human owners oblivious to this fact, they continue to help, waiting patiently for the time their new command lines are initiated.
+Duncan Watt
+Unknown artist
+Program
+Loot eligible
+New SFX/VFX
+Riot
+View in 3D
+975
+21.10.2013
+A Riot Games skin obtained by either meeting a Rioter or attending an official Riot event in 2013.
+Duncan Watt
+Sperasoft Studio
+Riot
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Battle Boss
+View in 3D
+1350
+19.08.2015
+A boss hailing from a popular science fiction shooter, Blitzcrank is well known in the gaming community for cheap mechanics, powerful attacks, and a massive health pool. Veigar fittingly made them the gatekeeper of his personal fortress, because Veigar hates fun.
+Duncan Watt
+Alvin Lee
+Arcade: Battle Bosses
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Battle Boss Blitzcrank Chromas
+Catseye
+Citrine
+Pearl
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Lancer Rogue
+View in 3D
+1350
+16.11.2017
+An ancient sentinel corrupted by mysterious black lightning, Rogue Lancer Blitzcrank mercilessly crushes provincial armies, destroying entire castles with kings still on their thrones. What caused its rampage is still uncertain, but for now it seems to be following its dread protocol to the letter.
+Duncan Watt
+Jojo So
+Lancer
+Loot eligible
+Voice filter
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Lancer Paragon
+. Store variants are discounted for multiple purchases.
+Lancer Paragon
+View in 3D
+1350
+16.11.2017
+A silent protector of the masses, the artificial paladin Blitzcrank was aroused from the earth by a bolt of mysterious white lighting. It now serves all honorable subjects, defending with true and calculated precision.
+Duncan Watt
+Jojo So
+Lancer
+Loot eligible
+Voice filter
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Lancer Rogue
+. Store variants are discounted for multiple purchases.
+Witch's Brew
+View in 3D
+1350
+24.10.2019
+Once nothing but a simple cauldron, Blitzcrank was enchanted, brought to life in order to assist Miss Fortune in her beguiling bewitchments.
+Duncan Watt
+Choe HeonHwa
+Trick-or-Treat
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Witch's Brew Blitzcrank Chromas
+Aquamarine
+Catseye
+Emerald
+Obsidian
+Ruby
+Turquoise
+Space Groove
+View in 3D
+1820
+01.04.2021
+Blitz and Crank are Cat Planet's fiercest warriors, and work together seamlessly (mostly) to pilot their mech, Blitzcrank. While Crank believes that he can overcome his lack of rhythm with the help of his exuberant copilot, Blitz is… well… he's busy dancing to his own beat. Together they plan to take over Dog Planet and claim its sunbeams for themselves.
+Joe Zieja
+David Villegas, West Studio
+Space Groove
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+Space Groove Blitz & Crank Chromas
+Amethyst
+Catseye
+Disco
+Pearl
+Rose Quartz
+Ruby
+Victorious
+View in 3D
+Special
+16.11.2021
+Victorious Blitzcrank was awarded to players who reached Gold or higher in the 2021 season.
+Duncan Watt
+Forrest Imel, West Studio
+Victorious
+Loot ineligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Victorious Blitzcrank Chromas
+Flex Challenger
+Flex Diamond
+Flex Grandmaster
+Flex Master
+Flex Platinum
+Solo/Duo Challenger
+Solo/Duo Diamond
+Solo/Duo Grandmaster
+Solo/Duo Master
+Solo/Duo Platinum
+Zenith Games
+View in 3D
+1350
+09.09.2022
+Originally a bomb defusal robot, Blitzcrank was made a referee because of their ability to make split-second adjustments to stay ahead of the prodigious athletes. Only later did everyone realize that the bot's background made them unusually effective in defusing the intense... disagreements that often arise.
+Duncan Watt
+Augusto Quirino, West Studio
+Zenith Games
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Zenith Games Blitzcrank Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Beezcrank
+View in 3D
+1350
+22.11.2023
+Beezcrank has a reputation for getting his bee-infantry into sticky situations. Probably because of that giant honey-comb mech-arm.
+Duncan Watt
+Augusto Quirino, West Studio
+Bees!
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Beezcrank Chromas
+Amethyst
+Emerald
+Obsidian
+Pearl
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.22
+Power Fist
+AD ratio increased to
+100% AD
+from
+80% AD
+.
+V14.13
+Overdrive
+Cooldown reduced to 10 seconds from 15.
+V14.12
+Stats
+Base health reduced to 600 from 650.
+Mana Barrier
+Shield duration increased to 10 seconds from 4.
+V14.9
+Stats
+Selection radius reduced to 140 units from 165.
+Mana Barrier
+Shield duration reduced to 4 seconds from 10.
+Overdrive
+Initial bonus movement speed reduced to 60 / 65 / 70 / 75 / 80% from 70 / 75 / 80 / 85 / 90%.
+V14.4
+Static Field
+Removed:
+No longer destroys shields against monsters.
+V14.2
+Stats
+Base armor reduced to 37 from 40.
+Power Fist
+AD ratio reduced to
+80% AD
+from
+100% AD
+.
+V13.18
+General
+Updated ability icons.
+V13.17
+Stats
+Base health increased to 650 from 633.
+Base magic resistance increased to 32 from 28.
+Base attack speed reduced to 0.
+625
+from 0.
+65
+.
+Attack speed ratio reduced to 0.
+625
+from 0.
+7
+.
+Mana Barrier
+Shield strength changed to
+30%
+maximum
+mana
+at all levels from
+15% − 45% (based on level)
+.
+Overdrive
+Mana cost reduced to 75 from 85.
+Bonus attack speed reduced to 30 / 40 / 50 / 60 / 70% from 30 / 43 / 56 / 69 / 82%.
+Removed:
+No longer deals
+1% of target's
+maximum
+health
+magic damage
+on-hit while active, increased by
+60 − 220 (based on level)
+against non-champions.
+Power Fist
+Mana cost reduced to 25 from 40.
+AD ratio increased to
+100% AD
+from
+75% AD
+.
+Removed:
+Damage is no longer increased by
+175% AD
+(+ 125% AP)
+against non-champions.
+Static Field
+New Effect:
+On-hit damage now scales with
+2%
+maximum
+mana
+.
+V13.9
+Power Fist
+Bug Fix:
+No longer causes
+Glacial Augment's
+ice zones to last longer than intended.
+V12.22
+Mana Barrier
+Bug Fix:
+Tooltip now properly displays the shield's mana and level scaling.
+V12.21
+Stats
+Base health reduced to 633 from 653.
+Base magic resistance reduced to 28 from 32.
+Overdrive
+Bonus attack speed reduced to 30 / 43 / 56 / 69 / 82% from 40 / 53 / 66 / 79 / 92%.
+V12.20
+Mana Barrier
+Shield strength changed to
+15% − 45% (based on level)
+maximum
+mana
+from
+30%
+at all levels.
+Rocket Grab
+Base damage reduced to 105 / 150 / 195 / 240 / 285 from 105 / 155 / 205 / 255 / 305.
+Overdrive
+Bonus non-champion damage increased to
+60 − 220 (based on level)
+from
+60 − 180 (based on level)
+.
+Power Fist
+AD ratio reduced to
+75% AD
+from
+100% AD
+.
+Non-champion AD ratio increased to
+175% AD
+from
+150% AD
+.
+New Effect:
+Now occasionally knocks up minions and monsters to space if it overkills them.
+V12.19
+Stats
+Base attack speed increased to 0.
+65
+from 0.
+625
+.
+Attack speed ratio increased to 0.
+7
+from 0.
+625
+.
+Overdrive
+Bonus attack speed increased to 40 / 53 / 66 / 79 / 92% from 30 / 38 / 46 / 54 / 62%.
+Mana cost increased to 85 from 75.
+New Effect:
+Basic attacks now deal
+1% of the target's
+maximum
+health
+bonus
+magic damage
+on-hit while active, increased by
+60 − 180 (based on level)
+against minions and monsters.
+Bug Fix:
+The movement speed boost's decay is now linear instead of decaying by 20% of the current value every update tick (exponential). The boost no longer decays on the first update tick after the buff is gained.
+Power Fist
+Knock up duration increased to 1 second from 0.
+9
+.
+Mana cost increased to 40 from 25.
+New Effect:
+Damage now scales with
+25% AP
+.
+New Effect:
+Now deals an additional
+150% AD
+(+ 125% AP)
+bonus
+physical damage
+against minions and monsters.
+New Effect:
+Critical strikes now increase the
+bonus
+damage as well.
+Static Field
+Removed:
+Passive is no longer capped at 3 stacks per target.
+Passive damage AP ratio increased to
+30 / 40 / 50% AP
+from
+30% AP
+at all ranks.
+V12.12
+Rocket Grab
+Base damage increased to 105 / 155 / 205 / 255 / 305 from 90 / 140 / 190 / 240 / 290.
+Static Field
+Active base damage increased to 275 / 400 / 525 from 250 / 375 / 500.
+V12.10
+Stats
+Base health increased to 653 from 583.
+Health growth increased to 109 from 95.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+V12.4
+Stats
+Base health regeneration reduced to 7.
+5
+from 8.
+5
+.
+V11.21
+Power Fist
+New Effect:
+Now trigger spell effects when dealing damage.
+V11.15
+Stats
+Base armor increased to 40 from 37.
+Rocket Grab
+Base damage increased to 90 / 140 / 190 / 240 / 290 from 70 / 120 / 170 / 220 / 270.
+AP ratio increased to
+120% AP
+from
+100% AP
+.
+V11.1
+Stats
+Base health increased to 583 from 582.
+6
+.
+Base attack damage increased to 62 from 61.
+54
+.
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.16
+Rocket Grab
+Bug Fix:
+Now properly grants a stack of
+Electrocute
+and
+Phase Rush
+and two stacks of
+Conqueror
+from the basic attack following after.
+V10.6
+General
+Recommended items updated.
+V10.5
+Stats
+Base armor reduced to 37 from 40.
+V9.23
+Mana Barrier
+Undocumented:
+Tooltip now correctly notes the threshold for activation as 30% instead of 20%.
+V9.22
+Rocket Grab
+Base damage reduced to 70 / 120 / 170 / 220 / 270 from 80 / 135 / 190 / 245 / 300.
+V9.20
+Stats
+Base armor reduced to 40 from 44.
+Armor growth reduced to 3.
+5
+from 4.
+V9.19
+- September 26th Hotfix
+Rocket Grab
+Bug Fix:
+Lollipop now checks for the target's center rather than their edge, alike the missile. No longer gives an effective
+bonus
+range towards larger units.
+V9.19
+Rocket Grab
+Range increased to 1100 units from 1050.
+Now does a lollipop at the end of the missile for a
+bonus
+50 units range.
+Static Field
+Maximum mark stacks increased to 3 from 2.
+V9.14
+- July 19th Hotfix
+Static Field
+Bug Fix:
+Passive damage is no longer 50 too high at all ranks.
+V9.14
+Static Field
+New Effect:
+Now destroys shields on affected enemies before applying the damage and silence.
+V9.9
+- May 2nd Hotfix
+Static Field
+Bug Fix:
+Detonation damage increased to 250 / 375 / 500 from 150 / 275 / 400.
+V9.9
+General
+New visual effects.
+New basic attack hit effects.
+Mana Barrier
+Shield strength changed to
+30% of his
+maximum
+mana
+from
+50% of his
+current
+mana
+.
+Clean up shield effect.
+Rocket Grab
+VFX updated to show the actual width and distance of the hook that is more consistent with the hitbox and cleaned up with a small cast effect.
+Overdrive
+VFX is now more sparky.
+Power Fist
+VFX now has more of a static shock with an uppercut hit effect.
+Static Field
+Detonation base damage reduced to 150 / 275 / 400 from 250 / 375 / 500.
+New Passive Effect:
+While
+Static Field
+is off-cooldown, lightning charges
+Blitzcrank's
+fists, marking enemies he basic attacks, stacking up to 2 times. After every 1 second, 1 mark is consumed to deal 50 / 100 / 150
+(+ 30% AP)
+magic damage to marked enemies.
+Removed Passive Effect:
+While
+Static Field
+is off-cooldown and
+Blitzcrank
+is in combat, he fires a lightning bolt at a random visible enemy within a 450 radius every 2.
+5
+seconds, dealing 100 / 200 / 300
+(+ 20% AP)
+magic damage.
+VFX updated to show the actual range and clean up the electricity on
+Blitzcrank's
+body.
+Rusty Blitzcrank
+VFX updated to be more rusty.
+Piltover Customs Blitzcrank
+Overdrive
+Recolored effects and cleaned up.
+iBlitzcrank
+Rocket Grab
+VFX cleaned up.
+Overdrive
+Added jetpacks to his run animation.
+Battle Boss Blitzcrank
+Static Field
+Added a hint of red.
+Lancer Rogue Blitzcrank
+Static Field
+Cleaned up noise.
+Lancer Paragon Blitzcrank
+Static Field
+Cleaned up noise.
+V8.8
+Lancer Paragon Blitzcrank
+and
+Lancer Rogue Blitzcrank
+Bug Fix:
+Recall is no longer missing lightning effects VFX.
+V8.3
+Stats
+Base health regeneration reduced to 8.
+5
+from 8.
+51
+.
+V7.23
+Power Fist
+Bug Fix:
+Fixed a bug where the empowered basic attack was fizzling if the buff expired mid-attack. The empowered attacks now properly complete.
+Lancer Rogue Blitzcrank
+Bug Fix:
+Dance SFX are now synced with the animations.
+Bug Fix:
+Recall SFX is no longer too quiet.
+Lancer Paragon Blitzcrank
+Bug Fix:
+Dance SFX are now synced with the animations.
+V7.22
+Stats
+Base armor increased to 44 from 24.
+38
+.
+V7.3
+Battle Boss Blitzcrank
+Bug Fix:
+Removed a frame his idle animation from the end of his recall animation.
+Boom Boom Blitzcrank
+Static Field
+Bug Fix:
+Fixed a bug where his golden buckle was stretching severely during his death and
+Static Field
+animations.
+V7.2
+General
+Bug Fix:
+Fixed a bug where various buff visuals (ex.
+Banshee's Veil
+) weren't following
+Riot Blitzcrank
+around during his recall animation.
+V6.13
+Rocket Grab
+Now pulls enemies 75 units in front of
+Blitzcrank
+rather than directly on top of him.
+Power Fist
+Duration reduced to 5 seconds from 10.
+Power Fist's
+empowered basic attack can no longer be canceled.
+Static Field
+Cooldown changed to 60 / 40 / 20 seconds from 30 at all ranks.
+No longer hits monsters while
+Blitzcrank
+is out of combat.
+V6.7
+General
+Splash artwork for
+Boom Boom Blitzcrank
+updated to the Chinese art.
+V5.22
+Stats
+Base mana regeneration increased to 8.
+5
+from 6.
+V5.16
+Stats
+Armor growth increased to 4 from 3.
+5
+.
+V5.8
+Overdrive
+Movement speed bonus now decays more slowly over 5 seconds and cannot decay below 10%.
+V5.7
+Overdrive
+New Effect:
+Blitzcrank is slowed by 30% for 1.
+5
+seconds when the movement speed bonus ends (removed in
+V1.0.0.106
+)
+Duration reduced to 5 seconds from 8.
+Bonus movement speed increased to 70 / 75 / 80 / 85 / 90% from 16 / 20 / 24 / 28 / 32.
+Movement speed now decays over the duration.
+V4.19
+General
+New splash artwork for
+Original Blitzcrank
+.
+V4.18
+General
+Texture update to Classic, Rusty, Boom Boom, Definitely Not Blitzcrank, Goalkeeper, and Piltover.
+V4.13
+General
+Splash artwork for
+Rusty Blitzcrank
+and
+Goalkeeper Blitzcrank
+updated to the Chinese art.
+V4.8
+Rocket Grab
+Mana cost reduced to 100 from 120.
+Static Field
+Mana cost reduced to 100 from 150.
+V4.5
+Stats
+Base armor increased to 18.
+5
+from 14.
+5
+V3.01
+Stats
+Base mana reduced to 240 from 300.
+Rocket Grab
+Mana cost increased to 120 from 110.
+V1.0.0.154
+Mana Barrier
+Cooldown increased to 90 seconds from 60.
+Rocket Grab
+Now grants vision when it hits a target.
+V1.0.0.152
+Stats
+Movement speed increased to 325 from 300.
+V1.0.0.150
+Stats
+Health reduced to 518 from 568.
+Health per level reduced to 95 from 100.
+V1.0.0.139
+General
+Playing Against
+tips updated.
+V1.0.0.136
+Rocket Grab
+Mana cost reduced to 110 from 140.
+Base damage increased to 80 / 135 / 190 / 245 / 300 from 60 / 120 / 180 / 240 / 300.
+AP ratio increased to
+(+ 100% AP)
+from
+(+ 80% AP)
+V1.0.0.123
+Mana Barrier
+Fixed a bug where it could be bypassed if the damage taken would instantly kill Blitzcrank.
+Fixed a bug where it would activate when the cooldown expired even if not taking damage.
+Power Fist
+Fixed a bug where it failed to grant life steal effects.
+V1.0.0.121
+Rocket Grab
+Animation improved.
+V1.0.0.120
+Rocket Grab
+Blitzcrank will now attempt to immediately attack successfully-grabbed champions.
+V1.0.0.106
+General
+Recommended items updated.
+Stats
+Base attack speed increased to 0.
+625
+from 0.
+596
+.
+Overdrive
+Removed:
+Movement speed reduction when it ends.
+Power Fist
+Fixed a bug where it was not breaking spell shields.
+Fixed a bug where it did not display the hit particle when it killed a unit.
+Static Field
+Fixed a bug where it did not display the hit particle when it killed a unit.
+V1.0.0.104
+Stats
+Magic resistance per level increased to 1.
+25
+from 0.
+V1.0.0.103
+Stats
+Mana per level increased to 40 from 36.
+Mana Barrier
+No longer uses nor refunds Blitzcrank's mana when activated.
+Overdrive
+Cooldown reduced to 15 seconds from 20.
+Mana cost reduced to 75 from 90.
+Now reduces movement speed by 75 instead of 25%
+Fixed an edge case bug as a result.
+Static Field
+Cooldown reduced to 30 seconds from 40.
+No longer targets stealthed units.
+V1.0.0.101
+Power Fist
+Now resets Blitzcrank's auto attack timer.
+V1.0.0.98
+Rocket Grab
+Cooldown reduced to 20 / 19 / 18 / 17 / 16 seconds from 22 / 21 / 20 / 19 / 18.
+Overdrive
+Cooldown reduced to 20 seconds from 22.
+V1.0.0.97
+Rocket Grab
+Fixed a bug that allowed blink spells like
+Flash
+to transport people out of a grab after it had already hit and they were in the process of being pulled.
+V1.0.0.94
+Mana Barrier
+Cooldown timer added
+Power Fist
+No longer dodgeable.
+Static Field
+New Effect:
+Silences for 0.
+5
+seconds (previously removed in
+V0.9.25.24
+).
+V1.0.0.87
+Rusty Blitzcrank
+Fixed a bug where the hand projectile was showing up as the Classic color while using the skin.
+Texture updated with a new coat of rust.
+Power Fist
+Fixed a bug where the cooldown was 12 / 10 / 8 / 6 / 4 seconds instead of 9 / 8 / 7 / 6 / 5.
+V1.0.0.86
+Power Fist
+Slow particle from the affected target removed.
+Static Field
+Tooltip now shows the bonus damage based on Blitzcrank's ability power.
+V1.0.0.70
+Overdrive
+Now applies additive attack and movement speed boosts rather than multiplicative.
+Rocket Grab
+Return speed increased.
+V1.0.0.61
+General
+Recommended items updated.
+Rocket Grab
+Now it will fire directionally even if targeting a point outside of cast range.
+V1.0.0.58
+Rocket Grab
+Fixed a bug where it could be interrupted by the
+Hold
+key.
+V1.0.0.52
+Static Field
+Base damage increased to 250 / 375 / 500 from 200 / 300 / 400.
+V0.9.25.34
+General
+Secondary/critical strike animations updated.
+V0.9.25.24
+Rocket Grab
+Projectile speed increased to 1800 from 1550.
+Static Field
+Removed:
+Silence effect.
+Cooldown reduced to 40 seconds from 60.
+V0.9.25.21
+Stats
+Health per level reduced to 100 from 104.
+Critical strike chance per level reduced to 0.
+3
+from 0.
+4
+.
+Mana Barrier
+Activation changed to 20% of maximum health from 200 health.
+Rocket Grab
+Projectile speed reduced to 1550 from 1700.
+Mana cost increased to 140 from 130.
+Power Fist
+Stun duration reduced to 0.
+5
+seconds from 0.
+75
+Static Field
+Cooldown increased to 60 seconds from 45.
+Silence duration reduced to 3 seconds at all ranks from 3 / 4 / 5.
+V0.9.22.18
+Rocket Grab
+Range increased to 1050 from 1000.
+Cooldown increased to 22 / 21 / 20 / 19 / 18 seconds from 20 / 19 / 18 / 17 / 16.
+AP ratio reduced to
+(+ 80% AP)
+from
+(+ 100% AP)
+Overdrive
+Cooldown increased to 22 seconds from 20.
+Power Fist
+Cooldown increased to 9 / 8 / 7 / 6 / 5 seconds from 8 / 7 / 6 / 5 / 4.
+V0.9.22.16
+Added
+Mana Barrier
+-
+I
+When Blitzcrank is lowered to 200 health a mana shield activates, absorbing damage equal to a maximum of 50% current mana. The shield lasts for 10 seconds and refunds any unspent mana. Has a cooldown of 60 seconds.
+Rocket Grab
+-
+Q
+Blitzcrank fires his right hand to grab a target on its path, dealing damage and pulling it to him.
+Overdrive
+-
+W
+Blitzcrank supercharges himself to increase movement speed and attack speed. When this effect ends his movement speed is decreased by 25% for 3 seconds.
+Power Fist
+-
+E
+Blitzcrank charges up his fist to make his next basic attack deal double damage and knock up his target.
+Static Field
+-
+R
+Passive:
+While on cooldown, Blitzcrank fires lightning bolts that hit a random enemy unit every 3.
+5
+seconds.
+Active:
+Blitzcrank deals a large amount of magic damage and silences nearby enemy champions.
+Trivia
+[
+edit
+|
+edit source
+]
+While initially referred to using
+He/Him
+pronouns, Blitzcrank's most recent lore update updated pronouns to
+They/Them
+.
+The client and in-game ability descriptions still refer to Blitzcrank using
+He/Him
+pronouns.
+Concept art for a champion codenamed
+Iron Engineer
+was likely
+incorporated
+into Blitzcrank.
+Their dance references the
+Macarena
+dance
+.
+A side-by-side comparison can be seen
+here.
+Blitzcrank has been jokingly referred to as a girl by
+Tom 'Zileas' Cadwell
+.
+[2]
+They resemble
+Zog
+from
+the 2009 Astro Boy movie.
+Blitzcrank's feet resemble that of a duck's, due to Riot's love of ducks.
+Blitzcrank and
+Amumu
+were
+planned
+to have
+Sewn
+Chaos
+skins, but both were
+cancelled
+for
+failing
+to meet
+Riot
+'s quality standards.
+They may return in the future.
+Rocket Grab
+'s old icon is reused for the
+Teamfight Tactics
+item
+Rocket-Propelled Fist
+.
+In
+V12.20
+, a change was added to where
+Power Fist
+would occasionally knock up non-champion targets it killed "
+to the moon
+".
+[3]
+Blitzcrank,
+Caitlyn
+,
+Lissandra
+,
+Rumble
+,
+Sion
+,
+Varus
+,
+Vi
+,
+Viego
+,
+Xerath
+, and
+Ziggs
+are the only champions who can apply
+crowd control
+on themselves.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Catcher
+Controllers
+are defensive casters that oversee the battlefield by protecting and opening up opportunities for their allies.
+Catchers
+specialize in locking down opponents or, in some cases, entire battlefields by creating intense zones of threat that only foolish enemies would dare wade through. Although not as reliant on their friends as Enchanters, the fragile Catchers greatly benefit from allied presence - both to deter incoming danger and to help capitalize on targets they've locked down.
+Examples
+Blitzcrank
+Morgana
+Zyra
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Standard sight
+Standard sight
+reveals units through
+fog of war
+and
+brush
+, but
+not
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Lockout
+A champion that is
+locked out
+is unable to perform certain actions such as casting abilities, moving, or attacking. The prevented actions can vary per instance.
+Lockout does not interact with
+crowd control
+mechanics unless otherwise stated.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Displacement immune
+A unit that is
+displacement immune
+is
+immune
+to all
+Airborne
+effects in addition to the following effects:
+Crowd control
+Knockdown
+Suspension
+Kinematics
+Sleep
+Stasis
+Champion abilities
+Ambessa's
+Public Execution
+Mordekaiser's
+Realm of Death
+Skarner's
+Ixtal's Impact
+and
+Impale
+Sett's
+The Show Stopper
+Tahm Kench's
+Devour
+League of Legends content
+Kinematics
+A unit that is under the effect of
+kinematics
+will be continually dragged to a specific unit or location until they reach it.
+Kinematics
+has no effect on units that are performing any form of movement other than basic movement and other
+kinematic
+effects.
+Kinematics
+should not be confused as an
+airborne
+effect nor displacement effect. It does not disable any of the unit's actions.
+Interrupts:
+Does not interrupt any actions, but will prevent the unit from effectively
+pathing
+to their intended location through basic movement.
+Reduction:
+The effect is instantaneous.
+There is nothing to reduce.
+Resist:
+Resisted by
+crowd control immunity
+and
+displacement immunity
+.
+Removal:
+Removed by leaving the source of the area of effect. The effect is instantaneous.
+There is nothing to cleanse.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Fate's Call
+COOLDOWN:
+160 / 140 / 120
+Active:
+Kalista
+invokes her
+tether
+to retrieve her
+Oathsworn
+,
+vanishing
+and
+cleansing
+them from all
+crowd control
+, and hold them for a few seconds.
+While held, the
+Oathsworn
+may
+dash
+to reappear at the target location. If they collide with an enemy
+champion
+, they
+knock up
+all nearby enemies.
+League of Legends content
+Resurrection
+A unit that is protected by
+Resurrection
+will enter a revival state and dispel most debuffs upon taking
+fatal damage
+. After the state completes, the unit is revived.
+Resurrection
+effects do not count for kills or assists.
+Resurrection
+sources have a hierarchy, and will trigger in the following order:
+Zilean's
+Chronoshift
+Guardian Angel
+Anivia's
+Rebirth
+and
+Zac's
+Cell Division
+Resurrection
+will always take precedence over
+zombie state
+effects. Entering
+resurrection
+does not cancel cast times.
+Renata Glasc's
+Bailout
+always takes priority over
+resurrection
+.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Slow resist
+Slow resist
+is a stat that directly reduces the effectiveness of
+slows
+.
+League of Legends content
+Tenacity
+Tenacity
+(or
+Crowd Control Reduction
+) is a stat that reduces the duration of all incoming
+crowd control
+effects except
+displacements
+,
+drowsy
+,
+nearsight
+,
+stasis
+, and
+suppression
+.
+If
+tenacity
+is reduced below 0, the crowd control duration increases.
+Tenacity
+stacks
+multiplicatively
+or
+additively
+based on the combination of effects.
+The duration of a crowd control debuff is calculated when it is applied, and
+tenacity
+can reduce it to a minimum 0.
+5
+seconds.
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Blitzcrank's profile page
+at
+LeagueOfLegends.com
+↑
+Zileas post about Blitzcrank
+↑
+Another fantastic change by Riot!

@@ -1,0 +1,2786 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Kha'Zix
+the Voidreaver
+Release date
+2012-09-27
+Last changed
+V14.23
+Class(es)
+Assassin
+Legacy
+Assassin
+Position(s)
+Jungle
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Kha'Zix
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Khazix
+Base statistics
+Edit
+Health
+643
++99
+Mana
+327
++40
+Health regen. (per 5s)
+7.5
++0.75
+Mana regen. (per 5s)
+7.59
++0.5
+Armor
+32
++4.2
+Attack damage
+60
++3.1
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+350
+Attack range
+125
+Attack speed
+Base AS
+0.668
+Attack windup
+20.053%
+AS ratio
+N/A
+Bonus AS
++2.7
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+130
+Pathing radius
+35
+Acq. radius
+400
+Special statistics
+Damage Dealt
++10%
+Damage Received
+-10%
+Healing
++20%
+Tenacity & Slow Resist
++20%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Unseen Threat
+Innate:
+Kha'Zix
+gains
+Unseen Threat
+whenever the enemy loses
+sight
+of him causing his next basic attack against an enemy Champion to deal bonus magic damage and slow.
+Unseen Threat:
+Kha'Zix's
+next basic attack against an enemy champion deals
+bonus
+magic damage
+and
+slows
+them for a short time.
+Innate:
+Kha'Zix
+gains
+Unseen Threat
+whenever the enemy loses
+sight
+of him or he activates
+Void Assault
+.
+Unseen Threat:
+Kha'Zix
+empowers his next
+basic attack
+against an enemy champion to deal
+14 − 116 (based on level)
+(+ 40%
+bonus
+AD)
+bonus
+magic damage
+and
+slow
+them by 25% for 2 seconds.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Any form of vision loss may trigger
+Unseen Threat
+, such as
+Curse of the Black Mist
+,
+nearsight
+and
+Brushmaker
+.
+Void Assault
+grants
+Unseen Threat
+even if
+Kha'Zix
+never becomes unseen (e.g. affected by
+true sight
+).
+Other
+stealth
+such as
+Senna's
+Curse of the Black Mist
+does not do this.
+Both the attack's damage and bonus spell damage are grouped under the same Spell ID.
+Because of this, a single
+Unseen Threat
+attack does
+not
+trigger two
+Electrocute
+stacks.
+Map-Specific Differences
+Arena
+differences
+edit
+Bonus AD ratio changed to
+55%
+bonus
+AD
+.
+Slow strength changed to 35%.
+Edit
+Taste Their Fear
+COST:
+20 Mana
+COOLDOWN:
+4
+CAST TIME:
+0.
+25
+TARGET RANGE:
+325
+EFFECT RADIUS:
+375
+Passive:
+Kha'Zix
+considers any enemy unit to be
+Isolated
+if they are not nearby to one of their allies. His abilities have special interactions against
+Isolated
+targets.
+Active:
+Kha'Zix
+slashes the target enemy, dealing
+physical damage
+, increased against
+Isolated
+targets.
+Passive:
+Kha'Zix
+considers any enemy unit to be
+Isolated
+if they are not nearby to one of their allies.
+Taste Their Fear
+,
+Evolved Reaper Claws
+, and
+Evolved Spike Racks
+have special interactions against
+Isolated
+targets.
+Active:
+Kha'Zix
+slashes the target enemy, dealing
+physical damage
+, increased by 110% against
+Isolated
+targets.
+Physical Damage:
+80 / 105 / 130 / 155 / 180
+(+ 110%
+bonus
+AD)
+Increased Damage:
+168 / 220.
+5
+/ 273 / 325.
+5
+/ 378
+(+ 231%
+bonus
+AD)
+Edit
+Evolved Reaper Claws
+TARGET RANGE:
+375
+Passive:
+Kha'Zix
+gains
+bonus
+range
+on his basic attacks and
+Taste Their Fear
+.
+Evolved Bonus:
+If the target is
+Isolated
+, the cooldown is
+reduced
+.
+Passive:
+Kha'Zix
+gains
+50
+bonus
+range
+on his
+basic attacks
+and
+Taste Their Fear
+.
+Evolved Bonus:
+If the target is
+Isolated
+, the
+cooldown
+is reduced by 45%.
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Notes
+A team's allies are
+champions
+,
+pets
+,
+minions
+and outer
+turrets
+.
+Monsters
+are considered allies for other monsters.
+Wards
+do not prevent
+Isolation
+.
+A number of targetable
+champion summoned units
+are specifically tagged to not be a valid ally of a potentially
+Isolated
+target. These units are:
+Gangplank's
+Powder Keg
+Illaoi's
+Prophet of an Elder God
+Jhin's
+Captive Audience
+Nidalee's
+Bushwhack
+Rek'Sai's
+Tunnel
+Senna's
+Absolution's
+Mist Wraiths
+Teemo's
+Noxious Trap
+Viego's
+Sovereign's Domination's
+Mist Wraiths
+Yorick's
+Dark Procession
+Isolated
+targets are marked by an
+indicator to
+Kha'Zix
+when visible and within
+2500
+units of him. However,
+Isolation
+bonuses are evaluated when the relevant spells hit and thus enemies do not need to show the indicator for them to receive the effects.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Notes
+No additional details.
+Arena
+differences
+edit
+Bonus AD ratio changed to
+115%
+bonus
+AD
+.
+Evolved Reaper Claws
+cooldown refund changed to 60%.
+Edit
+Void Spike
+COST:
+55 / 60 / 65 / 70 / 75 Mana
+COOLDOWN:
+9
+CAST TIME:
+0.
+25
+TARGET RANGE:
+1025
+EFFECT RADIUS:
+275
+WIDTH:
+140
+SPEED:
+1700
+Active:
+Kha'Zix
+fires a bolt of spikes in the target direction that explodes upon hitting an enemy, dealing
+physical damage
+to nearby enemies.
+Kha'Zix
+heals
+himself if he is within the explosion.
+Active:
+Kha'Zix
+fires a bolt of spikes in the target direction that explodes upon hitting an enemy, dealing
+physical damage
+to nearby enemies.
+Physical Damage:
+85 / 115 / 145 / 175 / 205
+(+ 100%
+bonus
+AD)
+Kha'Zix
+heals
+himself if he is within the explosion.
+Heal:
+55 / 75 / 95 / 115 / 135
+(+ 50% AP)
+Edit
+Evolved Spike Racks
+Evolved Bonus:
+Void Spike
+now fires three clusters in a cone,
+slowing
+and
+revealing
+enemy champions hit for a short time. The
+slow
+is more potent against
+Isolated
+targets.
+Evolved Bonus:
+Void Spike
+now fires three clusters in a cone,
+slows
+by 40% and
+reveals
+enemy champions hit for 2 seconds. Multiple explosions do not deal extra damage to the same target nor provide
+Kha'Zix
+with additional healing.
+Isolated
+targets hit by
+Evolved Spike Racks
+are
+slowed
+by 60% instead.
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Notes
+This ability will cast from wherever the caster is at the end of the cast time.
+Void Spike's
+effect radius is centered around the location of the missile as it collides.
+File:Kha'Zix - W
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Notes
+This ability will cast from wherever the caster is at the end of the cast time.
+Evolved Spike Racks'
+effect radius is centered around the location of the missile as it collides.
+Spell shield
+will not block the
+reveal
+.
+Arena
+differences
+edit
+Base heal changed to 70 / 110 / 150 / 190 / 230.
+Heal AP ratio changed to
+100% AP
+.
+Video
+File:Kha'Zix - W
+Edit
+Leap
+COST:
+50 Mana
+COOLDOWN:
+20 / 18 / 16 / 14 / 12
+CAST TIME:
+none
+TARGET RANGE:
+700
+EFFECT RADIUS:
+300
+Active:
+Kha'Zix
+leaps
+to the target location, dealing
+physical damage
+to nearby enemies upon landing.
+Active:
+Kha'Zix
+leaps
+to the target location, dealing
+physical damage
+to nearby enemies upon arrival.
+Physical Damage:
+65 / 100 / 135 / 170 / 205
+(+ 20%
+bonus
+AD)
+Taste Their Fear
+can be cast during the dash. Leap will cast at max range if cast beyond that.
+Edit
+Evolved Wings
+TARGET RANGE:
+900
+Evolved Bonus:
+Leap
+has increased range, and the cooldown
+resets
+upon scoring a champion
+takedown
+.
+Evolved Bonus:
+Leap
+gains 200
+bonus
+cast range, and the
+cooldown
+resets upon scoring a champion
+takedown
+.
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Notes
+Kha'Zix
+can use his
+summoner spells
+and
+item actives
+while
+leaping
+.
+Buffering Interactions
+Taste Their Fear
+can be buffered to cast after the
+leap
+ends if it is cast while the target is out of range.
+If the target is still out of range after landing, there will be a 0.
+5
+second delay  before
+Kha'Zix
+starts moving towards the target compared to manually casting
+Taste Their Fear
+after landing.
+Void Spike
+&
+Void Assault
+can be buffered to cast after the leap ends.
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Notes
+Kha'Zix
+can use his
+summoner spells
+and
+item actives
+while
+leaping
+.
+Arena
+differences
+edit
+Cooldown changed to 12 / 11 / 10 / 9 / 8 seconds.
+Evolved Wings
+cast range changed to 900 units.
+Edit
+Void Assault
+COST:
+100 Mana
+COOLDOWN
+:
+100 / 85 / 70
+CAST TIME:
+none
+Passive:
+Each rank in
+Void Assault
+allows
+Kha'Zix
+to evolve one of his abilities, granting it additional effects.
+Active:
+Kha'Zix
+becomes
+invisible
+and gains
+bonus
+movement speed
+for a brief time. Upon breaking invisibility,
+Void Assault
+can be cast a second time at no additional cost.
+Passive:
+Each rank in
+Void Assault
+allows
+Kha'Zix
+to evolve one of his abilities, granting it additional effects. Evolving an ability causes him to enter a 2-second cast time.
+Kha'Zix
+cannot evolve while he is unable to cast abilities.
+Active:
+Kha'Zix
+becomes
+invisible
+for 1.
+25
+seconds, during which he gains
+40%
+bonus
+movement speed
+.
+After 2 seconds of leaving
+invisibility
+, and for the next 12 seconds,
+Void Assault
+can be recast at no additional cost.
+Recast
+:
+Kha'Zix
+mimics the first cast's effects.
+Edit
+Evolved Adaptive Cloaking
+Evolved Bonus:
+The
+invisibility
+is extended, and
+Void Assault
+can be cast up to 3 times.
+Evolved Bonus:
+The
+invisibility
+now lasts 2 seconds, and
+Void Assault
+can be recast twice.
+Targeting input
+Auto
+Notes
+Each cast counts as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Kha'Zix
+receives the evolution even if he dies while in cast time.
+Every time
+Void Assault
+is ranked, a secondary menu will pop up for
+Kha'Zix
+to select an ability to evolve, this can only be done once per ability.
+The only way for
+Kha'Zix
+to evolve all of his abilities is to gain the fourth evolution point by being victorious in
+The Hunt is On!
+(by scoring a
+takedown
+on
+Rengar
+).
+Using a basic attack breaks the stealth at the end of the attack windup.
+Targeting input
+Auto
+Notes
+No additional details.
+Arena
+differences
+edit
+Recast window changed to 18 seconds.
+Evolved Adaptive Cloaking
+invisibility duration changed to 3 seconds.
+Evolved Adaptive Cloaking
+number of recasts changed to 3.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Kha'Zix (Collection)
+.
+Original
+View in 3D
+880
+26.09.2012
+The Void grows, and the Void adapts—in none of its myriad spawn are these truths more apparent than Kha’Zix. Evolution drives the core of this mutating horror, born to survive and to slay the strong. Where it struggles to do so, it grows new, more effective ways to counter and kill its prey. Initially a mindless beast, Kha’Zix’s intelligence has developed as much as its form. Now, the creature plans out its hunts, and even utilizes the visceral terror it engenders in its victims.
+Unknown voice actor
+Joshua 'HUGEnFAST' Brian Smith
+Loot eligible
+Mecha
+View in 3D
+1350
+26.09.2012
+Designated K-ZX, the “Mecha Kha'Zix” unit was the first of the mecha line to be deployed against the kaiju threat. Due to its smaller size, it functions best in urban environments, adapting on the fly to threats against civilian populations.
+Unknown voice actor
+Unknown artist
+Mecha
+Loot eligible
+Voice filter
+Additional/unique quotes
+New SFX/VFX
+Chromas
+Mecha Kha'Zix Chromas
+Catseye
+Emerald
+Pearl
+Rose Quartz
+Sapphire
+Tanzanite
+Guardian of the Sands
+View in 3D
+975
+09.09.2014
+Kha'Zix, the devouring scarab—ancient guardian of the sands, we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest you consume them utterly.
+Unknown voice actor
+Sperasoft Studio
+Guardian of the Sands
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Death Blossom
+View in 3D
+975
+17.03.2016
+Hidden among the great flower-fields of the north are the Death Blossoms, primeval hunters whose disarming beauty would lull even the bravest knight to tears, if but for a moment. For Kha'Zix, feeding upon these hardy souls offers yet another chance at metamorphosis… and a moment is all he needs.
+Unknown voice actor
+Jean 'Curing' Go
+Death Blossom
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Dark Star
+View in 3D
+1350
+03.05.2017
+The hunger of the abyss, Kha'Zix is an alien horror whose ceaseless appetite feeds the Dark Star. Appearing before planets like a titanic locust, it devours all it encounters—the power of a hundred thousand stars fueling its evolution into an ever-greater threat.
+Unknown voice actor
+Xu 'Crow God' Cheng
+Dark Star
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Worlds 2018
+View in 3D
+1350
+27.09.2018
+Celebrating Worlds 2018 in Korea.
+Unknown voice actor
+Maki Planas Mata
+World Championship
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Worlds 2018 Kha'Zix Chromas
+100 Thieves
+Afreeca Freecs
+Ascension Gaming
+Cloud9
+DetonatioN FocusMe
+Dire Wolves
+EDward Gaming
+Flash Wolves
+Fnatic
+G-Rex
+G2 Esports
+Gambit Esports
+Generation Gaming
+Golden
+Infinity eSports CR
+Invictus Gaming
+KT Rolster
+KaBuM! e-Sports
+Kaos Latin Gamers
+MAD Team
+Phong Vũ Buffalo
+Royal Never Give Up
+SuperMassive eSports
+Team Liquid
+Team Vitality
+Odyssey
+View in 3D
+1350
+15.10.2020
+A member of an elite bounty hunting organization, Kha'zix is cold, ruthless and always gets the job done. Though hired by Karma to track down the missing templars, she doesn't realize that Kha'zix is a double agent secretly working for Aatrox to bring Karma to him.
+Unknown voice actor
+Sean 'Raiko' Tay, West Studio
+Odyssey
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Odyssey Kha'Zix Chromas
+Citrine
+Emerald
+Merc
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Lunar Guardian
+View in 3D
+1350
+26.01.2023
+Kha'Zix stalked the waters of Crescent Bay, his teeth and claws greeting anyone foolish enough to wander near. But there was something different about the Empress Ashe: she desired the same, unattainable power he craved. So he swore fealty to her—something he hadn't done in centuries—ready to fight by her side for a taste at the life he once led.
+Unknown voice actor
+Exia Xiaotong, West Studio
+Lunar Revel
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Lunar Guardian Kha'Zix Chromas
+Amethyst
+Citrine
+Emerald
+Obsidian
+Pearl
+Resplendent
+Rose Quartz
+Ruby
+Turquoise
+Crystalis Indomitus
+View in 3D
+Special
+20.03.2024
+To citizens of Crystalis Motus, the being known as Kha'Zix is a purely crystalline horror whose hunger to assimilate life knows no limits. To those in the north, however, it is a marvel: a being shaped by the crystals themselves into a near perfect form, and whose zeal to spread the Prismae's power is inspirational.
+Unknown voice actor
+Pandart Studio
+Crystalis Indomitus
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Crystalis Indomitus Kha'Zix Chromas
+Fractured
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.23
+Stats
+Base armor reduced to 32 from 36.
+Evolved Spike Racks
+Isolated slow reduced to 60% from 75%.
+V14.11
+Taste Their Fear
+Base damage increased to 80 / 105 / 130 / 155 / 180 from 70 / 95 / 120 / 145 / 170.
+V14.6
+Worlds 2018 Kha'Zix
+Bug Fix:
+Evolving
+Void Assault
+now correctly changes his textures.
+V13.20
+Worlds 2018 Kha'Zix
+Skin renamed to
+Worlds 2018 Kha'Zix
+from
+Championship Kha'Zix
+.
+V13.17
+Taste Their Fear
+Bonus AD ratio reduced to
+110%
+bonus
+AD
+from
+115%
+.
+Isolated bonus AD ratio reduced to
+231%
+bonus
+AD
+from
+241.5%
+.
+V13.12
+Stats
+Base attack damage reduced to 60 from 63.
+V13.8
+Taste Their Fear
+Base damage increased to 70 / 95 / 120 / 145 / 170 from 60 / 85 / 110 / 135 / 160.
+V13.7
+Taste Their Fear
+Isolation range reduced to 375 units from 425.
+Evolved Spike Racks
+Slow reduced to 40% from 60%.
+Isolated slow reduced to 75% from 90%.
+Void Assault
+Recast duration increased to 12 seconds from 10.
+V13.4
+Void Assault
+Bug Fix:
+Champion model no longer disappears during the effect while using the
+Classic
+,
+Mecha
+, or
+Death Blossom
+skins.
+V12.14
+General
+Bug Fix:
+Knocked up/stunned animation is now correctly played.
+V12.10
+Stats
+Base health increased to 643 from 573.
+Health growth increased to 99 from 85.
+Armor growth increased to 4.
+2
+from 3.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Void Spike
+Base heal reduced to 55 / 75 / 95 / 115 / 135 from 60 / 85 / 110 / 135 / 160.
+V11.22
+Taste Their Fear
+Bonus AD ratio reduced to
+115%
+bonus
+AD
+from
+130%
+.
+Isolated bonus AD ratio reduced to
+241.
+5
+%
+bonus
+AD
+from
+273%
+.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+Base health increased to 573 from 572.
+8
+.
+V10.24
+General
+Updated visual effects.
+Updated basic attack swipes and new hit visual effects.
+Unseen Threat
+Blade VFX are more glowy; target effects better fit into the Void color scheme.
+Taste Their Fear
+Updated isolated target indicator; reduced noise on target VFX.
+Void Spike
+New missile trail effects. Updated Explosion area of effect to match the hitbox.
+Leap
+Reduced noise on landing effect. Updated area of effect to match the hitbox.
+Void Assault
+Updated cloaking effect. Improved decloaking effect.
+Mecha Kha'Zix
+Void Spike
+rockets stay closer to the missile hitbox.
+Updated W and E area of effects.
+Guardian of the Sands Kha'Zix
+Updated W and E area of effects.
+Death Blossom Kha'Zix
+Updated W and E area of effects.
+Dark Star Kha'Zix
+Updated W and E area of effects.
+Worlds 2018 Kha'Zix
+Updated W and E area of effects.
+V10.18
+Evolved Spike Racks
+Bug Fix:
+Hitting an enemy champion with it no longer reveals a large area around him.
+Mecha Kha'Zix
+Unseen Threat
+Bug Fix:
+Passive hit SFX has been restored.
+Taste Their Fear
+Bug Fix:
+Non-isolated and isolated hit SFX have been restored.
+Void Spike
+Bug Fix:
+Missile hits and heal SFX have been restored.
+Leap
+Bug Fix:
+Ground hit SFX has been restored.
+Void Assault
+Bug Fix:
+Cast SFX has been restored.
+Guardian of the Sands Kha'Zix
+,
+Death Blossom Kha'Zix
+, and
+Dark Star Kha'Zix
+Void Spike
+Bug Fix:
+Heal SFX has been restored.
+V10.16
+Taste Their Fear
+Isolation bonus damage reduced to 110% from 120%.
+V10.14
+Taste Their Fear
+Isolation bonus damage increased to 120% from 100%.
+V9.22
+Unseen Threat
+Undocumented:
+Base damage reduced to
+14 − 116 (based on level)
+from
+14 − 150 (based on level)
+.
+V9.16
+- August 14th Hotfix
+Void Assault
+Bug Fix:
+Now properly breaks his stealth when he uses his
+Evolved Reaper Claws
+,
+Evolved Spike Racks
+, and
+Evolved Wings
+.
+V9.15
+Taste Their Fear
+Base damage increased to 60 / 85 / 110 / 135 / 160 from 50 / 75 / 100 / 125 / 150.
+V9.13
+- July 2nd Hotfix
+Taste Their Fear
+Bug Fix:
+Isolated
+target effect now properly applies to all champions.
+V9.1
+Void Assault
+New Effect:
+Ability icon border now shows the remaining time to recast the ability.
+V8.24
+Mecha Kha'Zix
+Void Spike
+Bug Fix:
+On-hit VFX are no longer significantly louder than base.
+V8.19
+Unseen Threat
+Bonus AD ratio increased to
+40%
+bonus
+AD
+from
+20%
+.
+Void Spike
+Evolved Spike Racks slow increased to 60% from 40%.
+Isolated target slow increased to 90% from 80%.
+V8.11
+Void Assault
+Cooldown reduced to 100 / 85 / 70 seconds from 100 / 90 / 80.
+Active invisibility reduced to 1.
+25
+seconds from 1.
+5
+.
+Evolved Adaptive Cloaking
+New Effect:
+Now increases the invisibility duration by 0.
+75
+seconds, for a total of 2 seconds.
+New Effect:
+Now increases the number of recast to 3 from 2.
+Removed:
+While out-of-combat,
+Kha'Zix
+also passively gains
+Void Assault
+for 3 seconds in brush. This persists for up to 1.
+5
+seconds after exiting the brush (10 second per brush cooldown).
+V8.9
+Death Blossom Kha'Zix
+Evolved Wings
+Bug Fix:
+Wings no longer lose textures and transparency when recalling.
+V8.6
+Taste Their Fear
+Base damage reduced to 50 / 75 / 100 / 125 / 150 from 65 / 90 / 115 / 140 / 165.
+Bonus AD ratio increased to
+130%
+bonus
+AD
+from
+120%
+.
+Isolation bonus damage increased to 100% from 65%.
+Void Spike
+Removed:
+Dealing 20% increased damage to monsters.
+V8.4
+Mecha Kha'Zix
+Void Assault
+Bug Fix:
+Chromas' VFX are now always visible to the enemy when used.
+V8.3
+Stats
+Base health regeneration reduced to 7.
+5
+from 7.
+51
+.
+V8.2
+Unseen Threat
+Bonus AD ratio reduced to
+20%
+bonus
+AD
+from
+40%
+.
+Taste Their Fear
+Bonus AD ratio increased to
+120%
+bonus
+AD
+from
+110%
+.
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V7.22
+Stats
+Base attack damage increased to 63 from 55.
+21
+.
+Base armor increased to 36 from 27.
+Unseen Threat
+Base damage increased to
+14 − 150 (based on level)
+from
+10 − 146 (based on level)
+.
+Taste Their Fear
+Base damage increased to 65 / 90 / 115 / 140 / 165 from 60 / 85 / 110 / 135 / 160.
+Void Spike
+Base damage increased to 85 / 115 / 145 / 175 / 205 from 80 / 110 / 140 / 170 / 200.
+V7.18
+Dark Star Kha'Zix
+Evolved Wings
+Bug Fix:
+VFX are now more visible on low and very low graphics settings.
+V7.14
+Taste Their Fear
+No longer forces you to automatically basic attack the target after the ability. Can now queue other spells after the ability instead.
+V7.13
+Taste Their Fear
+Base damage reduced to 60 / 85 / 110 / 135 / 160 from 70 / 95 / 120 / 145 / 170.
+Bonus AD ratio reduced to
+110%
+bonus
+AD
+from
+120%
+.
+Increased damage to isolated targets increased to 65% from 50%.
+Void Assault
+Active stealth duration increased to 1.
+5
+seconds from 1.
+25
+.
+Evolved Adaptive Cloaking
+Brush stealth duration increased to 3 seconds from 2.
+5
+.
+Invisibility linger duration increased to 1.
+5
+seconds from 1.
+25
+.
+V7.8
+Void Assault
+Bug Fix:
+No longer shows the incorrect visuals when evolving his
+Void Assault
+.
+V7.4
+Void Assault
+Bug Fix:
+Is no longer prevented from using his
+Void Assault
+passive by being "in combat" when stepping on
+Honeyfruit
+or attacking plants.
+V7.3
+General
+Bug Fix:
+Dance VO now loops more consistently.
+Taste Their Fear
+Bonus AD ratio reduced to
+120%
+bonus
+AD
+from
+140%
+bonus
+AD
+.
+Evolved Reaper Claws
+Cooldown refund reduced to 45% from 60%.
+V7.2
+General
+Bug Fix:
+Enemy spell shields are no longer consumed when a nearby
+Kha'Zix
+evolves an ability.
+V7.1
+Unseen Threat
+Bug Fix:
+Fixed several cases where abilities that create objects (ex.
+Jarvan IV's
+Demacian Standard
+) caused their casters to no longer be considered Isolated for the purposes of
+Unseen Threat
+.
+V6.23
+General
+Bug Fix:
+Corrected some scaling information in Kha'Zix's tooltips.
+V6.22
+Unseen Threat
+Bonus damage changes to
+10 − 146 (based on level)
+(+ 40%
+bonus
+AD)
+from
+15 − 190 (based on level)
+(+ 50% AP)
+.
+Taste Their Fear
+Cooldown increased to 4 seconds from 3.
+Bonus AD ratio increased to
+140%
+bonus
+AD
+from
+120%
+bonus
+AD
+.
+Isolation bonus increased to 50% from 30%.
+Isolation damage increased to 105 / 142.
+5
+/ 180 / 217.
+5
+/ 255
+(+ 210%
+bonus
+AD)
+from 91 / 123.
+5
+/ 156 / 188.
+5
+/ 221
+(+ 156%
+bonus
+AD)
+.
+Evolved Reaper Claws
+Renamed to
+Evolved Reaper Claws
+from
+Evolved Enlarged Claws.
+Removed:
+Increasing damage against Isolated targets.
+New Effect:
+If target is Isolated, refunds 60% of
+Taste Their Fear's
+cooldown.
+Void Spike
+Removed:
+Slowing by 20% damaged enemies.
+Evolved Spike Racks
+Evolved slow reduced to 40% from 50%.
+New Effect:
+Isolated targets are now slowed by 80% instead.
+Void Assault
+Stealth reclassified as
+Invisibility
+.
+Stealth duration increased to 1.
+25
+seconds from 1.
+Evolved Adaptive Cloaking
+Renamed to
+Evolved Adaptive Cloaking
+from
+Evolved Active Camouflage.
+Removed:
+Increasing invisibility duration and number of charges.
+New Effect:
+Kha'Zix
+gains
+Void Assault
+for 2.
+5
+seconds in brush, which lingers for 1.
+5
+seconds after exiting the brush. This can only be triggered while out of combat and there is a 10-second per-brush cooldown.
+V6.17
+Void Assault
+Bug Fix:
+Activating
+Youmuu's Ghostblade
+no longer breaks stealth.
+V6.6
+Taste Their Fear
+Cooldown reduced to 3 seconds from 3.
+5
+.
+Void Spike
+Cooldown reduced to 9 seconds from 10.
+V6.2
+Void Spike
+/
+Void Assault
+New Effect:
+Can be 'buffered' mid-
+Leap
+to cast slightly before landing (only if last one).
+V6.1
+Unseen Threat
+Attack frame on enhanced attacks reduced.
+Void Spike
+Explosion radius increased to 275 from 225.
+Leap
+Range increased to 700 from 600 (
+Evolved Wings
+range unchanged).
+V5.23
+Stats
+Base armor increased to 27 from 24.
+Taste Their Fear
+Mana cost reduced to 20 from 25.
+V5.21
+Taste Their Fear
+Isolation indicator updated for Classic and Guardian of the Sands.
+V5.11
+Taste Their Fear
+Isolation radius reduced to 425 from 500.
+V5.8
+Void Spike
+Base heal increased to 60 / 85 / 110 / 135 / 160 from 40 / 70 / 100 / 130 / 160.
+V4.20
+Void Spike
+Cooldown increased to 10 seconds from 8.
+V4.18
+Void Spike
+Base damage reduced to 80 / 110 / 140 / 170 / 200 from 75 / 115 / 155 / 195 / 235.
+V4.12
+Taste Their Fear
+Base damage increased to 70 / 95 / 120 / 145 / 170 from 55 / 80 / 105 / 130 / 155.
+V4.9
+General
+Bug Fix:
+Recall
+animation would occasionally cancel.
+Taste Their Fear
+Base damage reduced to 55 / 80 / 105 / 130 / 155 from 70 / 100 / 130 / 160 / 190.
+Bonus AD ratio reduced to
+120% bonus AD
+from
+150%
+.
+Isolation bonus damage reduced to 30% from 45%.
+Isolation base damage reduced to 71.
+5
+/ 104 / 136 / 169 / 201 from 101.
+5
+/ 145 / 188.
+5
+/ 232 / 275.
+5
+.
+Isolation bonus AD ratio reduced to
+156% Bonus AD
+from
+217.
+5
+%
+.
+Evolved Enlarged Claws
+Removed:
+% of target's missing health
+bonus damage
+Removed:
+Bonus damage to non-Isolated targets
+New Effect:
+Deals
+10 − 180 (based on level)
+(+ 104% Bonus AD)
+bonus damage to Isolated targets
+Isolation total damage changed to 71.
+5
+/ 104 / 136 / 169 / 201 +
+10 − 180 (based on level)
+(+ 260% Bonus AD)
+from 101.
+5
+/ 145 / 188.
+5
+/ 232 / 275.
+5
+(+ 217.
+5
+Bonus AD)
+(+ 8.
+7
+% of target's missing health)
+Void Spike
+New Effect:
+Deals 20% bonus damage to monsters.
+Evolved Spike Racks
+New Effect:
+Deals 20% bonus damage to monsters.
+Slow increased to 50% from 30%.
+New Effect:
+Grants sight of champions hit for 2 seconds.
+Evolved Active Camouflage
+Removed:
+50% damage reduction while stealthed.
+Twisted Treeline and Crystal Scar only:
+Taste Their Fear
+Damage amplifier against isolated targets reduced to 30% from 35%.
+Evolved Enlarged Claws
+Damage amplifier against isolated targets reduced to 30% from 35%.
+V4.8
+Evolved Wings
+Bug Fix:
+Cooldown longer than
+Leap's
+.
+Cooldown reduced to 22 / 20 / 18 / 16 / 14 seconds from 24 / 22 / 20 / 18 / 16.
+V4.7
+Taste Their Fear
+Isolation radius increased to 500 from 350.
+New Effect:
+Turrets count as allies when determining Isolation.
+Void Assault
+Re-cast window increased to 15 seconds from 10.
+Per-cast cooldown increased to 2 seconds from 1.
+V4.5
+Stats
+Base armor increased to 19 from 15.
+Void Assault
+Bug Fix:
+Activating
+Flash
+will no longer break stealth.
+Evolved Active Camouflage
+Removed:
+No longer reduces damage from turrets.
+V4.3
+Evolved Enlarged Claws
+Bonus damage reduced to
+6% of target's missing health
+from
+8%
+.
+Maximum damage to monsters reduced to 100 from 200.
+Leap
+Bonus AD ratio reduced to
+20% Bonus AD
+from
+80%
+.
+Void Assault
+New Effect:
+Kha'Zix ignores unit collision while stealthed.
+Evolved Active Camouflage
+New Effect:
+Increases stealth duration by 1 second.
+V4.2
+Twisted Treeline
+Taste Their Fear
+Isolation bonus damage reduced to 35% from 45%.
+Evolved Enlarged Claws
+Bonus damage reduced to
+6% of target's missing health
+from
+8%
+.
+V3.13
+Evolved Spike Racks
+New Effect:
+Increases
+Void Spike
+'s slow to 30% from 20%.
+V3.11
+Dominion
+Taste Their Fear
+Isolation bonus damage reduced to 35% from 45%.
+Evolved Enlarged Claws
+Bonus damage reduced to
+6% of target's missing health
+from
+8%
+.
+V3.8
+Taste Their Fear
+New Effect:
+Isolation grants 45% bonus damage.
+Evolved Enlarged Claws
+New Effect:
+Grants
+8% of target's missing health
+bonus damage (further increased by Isolation).
+Void Spike
+New Effect:
+Targets hit are slowed by 20% for 2 seconds.
+Mana cost reduced to 55 / 60 / 65 / 70 / 75 from 60 / 70 / 80 / 90 / 100.
+AD ratio increased to
+100% AD
+from
+90% AD
+.
+Removed:
+Being able to be cast during
+Leap
+.
+Evolved Spike Racks
+Removed:
+No longer consumes or applies
+Unseen Threat
+.
+Void Assault
+Stealthed damage reduction increased to 50% from 40%.
+V1.0.0.154
+Unseen Threat
+Base damage reduced to
+15 − 190 (based on level)
+from 15 - 220.
+Slow reduced to 25% from 35%.
+Taste Their Fear
+Bonus AD ratio reduced to
+150% Bonus AD
+from
+160%
+.
+Isolation bonus AD ratio reduced to
+200% Bonus AD)
+from
+240%
+.
+V1.0.0.152
+Stats
+Movement speed increased to 350 from 325.
+V1.0.0.148
+- Added
+Unseen Threat
+(Innate)
+When Kha'Zix is not visible to the enemy team, he gains Unseen Threat, causing his next basic attack against an enemy champion to deal bonus magic damage and slow.
+Taste Their Fear
+(Q)
+Deal physical damage to a single target. Damage against isolated targets is significantly increased. Kha'Zix passively marks enemies that are isolated from nearby allies.
+Evolved Enlarged Claws:
+Increases damage to isolated targets even further. Kha'Zix also gains increased range on both Taste Their Fear and his basic attack.
+Void Spike
+(W)
+Kha'Zix fires spikes that explode on contact, dealing physical damage to all nearby enemies. Kha'Zix is healed if he is within the explosion radius.
+Evolved Spike Racks:
+Causes Void Spike to fire three projectiles in a cone. Spikes will also apply Unseen Threat to all enemies caught within the area of effect.
+Leap
+(E)
+Kha'Zix leaps to an area, dealing physical damage to enemies in the area he lands.
+Evolved Wings:
+Increases Leap's range dramatically and causes a kill or assists to refresh the cooldown of Leap.
+Void Assault
+(Ultimate)
+Each rank of Void Assault allows Kha'Zix to evolve one of his active abilities, granting it an additional effect. Upon activation, Kha'Zix enters stealth and gains Unseen Threat, increasing movement speed. Kha'Zix can cast Void Assault again for a short time after activation.
+Evolved Active Camouflage:
+Allows Kha'Zix to cast Void Assault three times over the course of its duration and reduces any damage he sustains while in stealth.
+Trivia
+[
+edit
+|
+edit source
+]
+Kha'Zix's production name was 'Teek'.
+[2]
+Ryan 'Morello' Scott
+stated Kha'Zix is completely unrelated to canceled champion
+Omen
+.
+[3]
+Kha'Zix was the last champion to feature an '
+Art Spotlight
+'.
+When concealing himself (using
+Void Assault
+) Kha'Zix will run in a different manner than usual.
+When acquiring
+Evolved Wings
+, Kha'Zix will fly for a few seconds while moving (
+Pulsefire Ezreal
+and
+Monarch Kog'Maw
+do the same).
+The Hunt is On!
+between Kha'Zix and
+Rengar
+references
+Alien vs Predator
+.
+Isolation
+references
+Alien
+(Kha'Zix's main inspiration).
+Being an arthropodic invader from another world with scythes as his primary weapon, he also bears a striking resemblance to the real-life
+mantis
+&
+Metroid's Space Pirates
+, though he also possesses beetles' hardened outer wings.
+Void Spike's
+projectiles might be referencing a
+Hydralisk's
+from
+StarCraft
+.
+Kha'Zix can spend evolution points on abilities he has not learned yet (doing this only benefits
+Taste Their Fear
+for the bonus range on basic attacks).
+Kha'Zix must spend evolution points before ranking up any ability if he has any unspent points after ranking up
+Void Assault
+.
+Kha'Zix is the only Voidborn champion without true damage on any ability (unlike
+Feast
+,
+Icathian Surprise
+,
+Furious Bite
+,
+Endless Banquet
+,
+Organic Deconstruction
+, and
+Lifeform Disintegration Ray
+).
+Kha'Zix's name means "You face yourself" in an old mortal language, possibly Shuriman or Ixtalian
+Kha'Zix had his game assets reused for several
+featured game modes
+.
+He was given a retexture and features as a monster called the "Jumpy Slashy Monster" in
+Invasion
+.
+His animations were reused for the
+Shimmerstriker
+monster in
+Odyssey: Extraction
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Assassin
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Assassins
+specialize in infiltrating enemy lines with their unrivaled mobility to quickly dispatch high-priority targets. Due to their mostly melee nature, Assassins must put themselves into dangerous positions in order to execute their targets. Luckily, they often have defensive tricks up their sleeves that, if used cleverly, allow them to effectively avoid incoming damage.
+Examples
+Akali
+Evelynn
+Zed
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Void Assault
+COOLDOWN:
+100 / 85 / 70
+Passive:
+Each rank in
+Void Assault
+allows
+Kha'Zix
+to evolve one of his abilities, granting it additional effects.
+Active:
+Kha'Zix
+becomes
+invisible
+and gains
+bonus
+movement speed
+for a brief time. Upon breaking invisibility,
+Void Assault
+can be cast a second time at no additional cost.
+Evolved Adaptive Cloaking
+Evolved Bonus:
+The
+invisibility
+is extended, and
+Void Assault
+can be cast up to 3 times.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Curse of the Black Mist
+COOLDOWN:
+26 / 24.
+5
+/ 23 / 21.
+5
+/ 20
+Active:
+Senna
+creates an aura of mist and gains
+camouflage
+for a few seconds. She will quickly regain camouflage after breaking stealth.
+Allied champions that enter the mist gain
+Wraith Form
+for the remaining duration.
+Senna
+and allies camouflaged by
+Curse of the Black Mist
+also gain
+bonus
+movement speed
+.
+Wraith Form
+: Gain
+camouflage
+. Enemies will have
+obscured vision
+of camouflaged
+Wraiths
+moving outside the mist.
+Wraiths
+will quickly regain camouflage after breaking stealth.
+League of Legends content
+Nearsight
+A unit that is
+nearsighted
+has their
+sight
+radius reduced and
+cannot
+see beyond their sight radius.
+While nearsighted, units cannot reveal
+stealthed
+wards
+or
+traps
+. Nearsighted units lose vision of all their allies as well as all external sources of vision (including from wards or abilities). This prevents
+unit-targeted
+effects, including
+basic attacks
+, from being used outside of the unit's reduced sight radius.
+True sight
+and
+unobstructed vision
+do
+not
+bypass the vision blocked by
+nearsight
+.
+Sources of
+nearsight
+do
+not
+stack with each other; only the application with the greatest sight reduction will take effect.
+Interrupts:
+Interrupts target commands if the
+nearsighted
+unit's target is outside of their new vision area and prevents
+automated target acquisition
+.
+Reduction:
+The
+duration
+is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+with the exceptions of
+Fiora's
+Riposte
+and
+Morgana's
+Black Shield
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast),
+Cleanse
+, and
+Mikael's Blessing
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Brushmaker
+RECHARGE:
+20
+Passive:
+While
+Ivern
+is in
+brush
+, his basic attacks deal
+bonus
+magic damage
+.
+Active:
+Ivern
+grows a patch of
+brush
+at the target location. More brush will be created if grown near
+terrain
+or other brush.
+League of Legends content
+True sight
+True Sight
+reveals units through
+fog of war
+,
+brush
+, and
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Stealth
+Stealth
+renders a unit invisible to enemies and grants
+ghosting
+, allowing a unit to tread without being
+visible
+to enemies.
+Stealthed
+units within sight will briefly shimmer their silhouette upon taking damage, exposing their current position.
+Stealth
+is split into three categories:
+Invisibility
+: The unit
+can
+only
+be
+revealed by
+True Sight
+.
+Camouflage
+: The unit
+can
+only
+be
+revealed by
+True Sight
+, being within a certain detection radius of enemy
+champions
+, and nearby
+Control Wards
+.
+Stealthed trap
+: The unit
+can
+only
+be
+revealed by
+True Sight
+,
+Control Wards
+,
+Oracle Lens
+, and
+A Harmless Scarecrow
+.
+Unit-targeted
+effects cannot be cast upon stealthed units as the caster is unable to select the target without seeing them.
+Stealth
+is not a form of
+untargetability
+; units can still be hit by effects that do not require vision of targets, such as skill-shots,
+auto-targeted
+, and
+location-targeted
+effects.
+Certain actions break
+stealth
+. This can include, but is not limited to:
+basic attacking
+, casting an
+ability
+, activating an
+item
+, using a
+summoner spell
+, and taking damage. The interaction can vary among certain cases.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Taste Their Fear
+COOLDOWN:
+4
+Passive:
+Kha'Zix
+considers any enemy unit to be
+Isolated
+if they are not nearby to one of their allies. His abilities have special interactions against
+Isolated
+targets.
+Active:
+Kha'Zix
+slashes the target enemy, dealing
+physical damage
+, increased against
+Isolated
+targets.
+Evolved Reaper Claws
+Passive:
+Kha'Zix
+gains
+bonus
+range
+on his basic attacks and
+Taste Their Fear
+.
+Evolved Bonus:
+If the target is
+Isolated
+, the cooldown is
+reduced
+.
+League of Legends content
+Taste Their Fear
+COOLDOWN:
+4
+Passive:
+Kha'Zix
+considers any enemy unit to be
+Isolated
+if they are not nearby to one of their allies. His abilities have special interactions against
+Isolated
+targets.
+Active:
+Kha'Zix
+slashes the target enemy, dealing
+physical damage
+, increased against
+Isolated
+targets.
+Evolved Reaper Claws
+Passive:
+Kha'Zix
+gains
+bonus
+range
+on his basic attacks and
+Taste Their Fear
+.
+Evolved Bonus:
+If the target is
+Isolated
+, the cooldown is
+reduced
+.
+League of Legends content
+Void Spike
+COOLDOWN:
+9
+Active:
+Kha'Zix
+fires a bolt of spikes in the target direction that explodes upon hitting an enemy, dealing
+physical damage
+to nearby enemies.
+Kha'Zix
+heals
+himself if he is within the explosion.
+Evolved Spike Racks
+Evolved Bonus:
+Void Spike
+now fires three clusters in a cone,
+slowing
+and
+revealing
+enemy champions hit for a short time.
+The
+slow
+is more potent against
+Isolated
+targets.
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Pet
+A
+pet
+is a
+unit summoned by a champion
+to assist them on the battlefield.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Ward
+Wards
+are deployable units that that grant
+sight
+over the surrounding area. They can only be destroyed by
+basic attacks
+, granting
+gold
+and
+experience
+.
+There are three kinds of deployable
+wards
+available for purchase:
+Control Ward
+,
+Warding Totem
+, and
+Farsight Alteration
+. Other types of wards, such as
+Zombie Ward
+, are usable through various means.
+League of Legends content
+Powder Keg
+RECHARGE:
+17 / 16 / 15 / 14 / 13
+Active:
+Gangplank
+places a
+Powder Keg
+at the target location, which can be basic attacked or
+shot
+to damage it. If an enemy destroys a
+Powder Keg
+, it is safely dismantled.
+If
+Gangplank
+destroys a
+Powder Keg
+, it will explode to deal the
+attack's damage
+to nearby enemies and
+slow
+them. Against an enemy
+champion
+, the explosion additionally deals
+bonus
+physical damage
+and ignores a
+portion of their armor
+.
+The explosion will cause nearby
+Powder Kegs
+to also explode.
+Gangplank
+stocks a
+Powder Keg
+every few seconds, up to a maximum.
+League of Legends content
+Prophet of an Elder God
+STATIC CD:
+20 − 7.
+25
+(based on level)
+Innate:
+Periodically, a
+Tentacle
+will spawn next to nearby
+terrain
+. It can be killed by enemy basic attacks and will become dormant if
+Illaoi
+leaves it alone.
+A
+Tentacle
+only attacks through
+Illaoi's
+abilities and does so by slamming the ground once, dealing
+physical damage
+to enemies hit. Whenever it hits at least one enemy
+champion
+,
+Illaoi
+is
+healed
+for a portion of
+her
+missing
+health
+.
+League of Legends content
+Captive Audience
+RECHARGE:
+24 / 21.
+5
+/ 19 / 16.
+5
+/ 14
+Passive - Beauty in Death:
+Killing an enemy champion summons a free
+Blooming Lotus Trap
+under them.
+Active:
+Jhin
+places a
+stealthed
+Lotus Trap
+at the target location. When an enemy crosses, it will
+bloom
+,
+slowing
+and
+revealing
+them. The trap detonates shortly after, dealing
+magic damage
+to enemies.
+Jhin
+stocks a
+Lotus Trap
+every few seconds, holding up to two.
+League of Legends content
+Bushwhack
+COOLDOWN:
+13 / 12 / 11 / 10 / 9
+Active:
+Nidalee
+lays a
+stealthed
+that will spring upon contact with an enemy, continually dealing
+magic damage
+over a few seconds.
+League of Legends content
+Tunnel
+COOLDOWN:
+18 / 17 / 16 / 15 / 14
+Active:
+Rek'Sai
+dashes
+in the target direction and creates a
+Tunnel
+in her wake that lasts for a while.
+Rek'Sai
+can travel through the
+Tunnel
+in either direction, which becomes disabled afterwards for a few seconds.
+Rek'Sai
+cannot enter a tunnel while
+immobilized
+,
+grounded
+, or
+silenced
+. Enemy
+champions
+can stand on a
+Tunnel
+to destroy it and gain
+gold
+.
+League of Legends content
+Absolution
+TARGET IMMUNITY:
+6 / 5 / 4 (based on level)
+Innate - Weakened Soul
+:
+Senna's
+basic attacks and abilities against enemy
+champions
+apply a
+stack
+of
+Mist
+for a few seconds. Subsequent hits collect the
+Mist
+, dealing
+bonus
+physical damage
+based on the
+target's
+current
+health
+and rendering the target immune to further
+Mist
+applications for a few seconds.
+Enemies that die near
+Senna
+may spawn a
+Mist Wrath
+from their corpse, which lasts for a period. She can kill
+Mist Wraiths
+to gain
+gold
+and
+Mist
+stacks.
+Innate - Relic Cannon
+:
+Senna's
+basic attacks deal
+bonus
+physical damage
+and briefly grant her
+bonus
+movement speed
+based on the
+target's movement speed
+.
+Mist
+: For each stack,
+Senna
+gains
+bonus
+attack damage
+. For every few stacks, she also gains
+bonus
+attack range
+and
+critical strike chance
+, or
+life steal
+if she has max critical strike chance.
+League of Legends content
+Noxious Trap
+RECHARGE:
+35 / 30 / 25
+Active:
+Teemo
+tosses a poisonous mushroom to the target location that becomes
+stealthed
+and lasts for a while. It will bounce forward upon landing on another mushroom.
+Teemo
+periodically
+stocks
+a charge of
+Noxious Trap
+, up to a cap.
+Mushrooms can be destroyed by enemy
+basic attacks
+and will explode upon enemy contact, inflicting
+poison
+to nearby enemies and
+slowing
+them for a few seconds, as well as
+revealing
+them.
+poison
+:
+The target takes
+magic damage
+every second over a few seconds. Subsequent inflictions refresh the duration.
+References
+[
+edit
+|
+edit source
+]
+↑
+Kha'Zix's profile page
+at
+LeagueOfLegends.com
+↑
+Phreak on Kha'Zix
+↑
+Morello on Kha'Zix

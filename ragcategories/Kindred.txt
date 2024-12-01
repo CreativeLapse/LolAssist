@@ -1,0 +1,2584 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Kindred
+The Eternal Hunters
+Release date
+2015-10-14
+Last changed
+V14.14
+Class(es)
+Marksman
+Legacy
+Marksman
+Position(s)
+Jungle
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+3
+Utility
+2
+Style
+Difficulty
+Kindred
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Kindred
+Base statistics
+Edit
+Health
+595
++104
+Mana
+300
++35
+Health regen. (per 5s)
+7
++0.55
+Mana regen. (per 5s)
+7
++0.4
+Armor
+29
++4.7
+Attack damage
+65
++3.25
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+325
+Attack range
+500
+Attack speed
+Base AS
+0.625
+Attack windup
+17.544%
+AS ratio
+N/A
+Bonus AS
++3.5
+%
+Missile speed
+2000
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+525
+Special statistics
+Damage Dealt
++10%
+Damage Received
+-10%
+Total Attack Speed
++2.5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
+-5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+The champion
+Kindred
+consists of two entities:
+Lamb
+is the primary one answering movement commands and performing
+basic attacks
+.
+Wolf
+is the secondary one acting as an
+untargetable
+companion
+commanded through abilities.
+Edit
+Mark of the Kindred
+TARGET IMMUNITY
+:
+240
+Innate:
+Both
+Lamb
+and
+Wolf
+mark targets to
+hunt
+. Scoring a
+takedown
+against a
+hunted
+target collects a permanent stack of
+Mark of the Kindred
+.
+Lamb
+can select an enemy
+champion
+to
+hunt
+, and
+Wolf
+automatically selects a large
+monster
+to
+hunt
+.
+Mark of the Kindred:
+Lamb
+gains
+bonus
+range
+on her basic attacks and
+Mounting Dread
+. For each stack,
+Kindred's
+abilities become more potent.
+Innate:
+Both
+Lamb
+and
+Wolf
+mark targets to
+hunt
+. Scoring a
+takedown
+against a
+hunted
+target collects a stack of
+Mark of the Kindred
+.
+Mark of the Kindred:
+Lamb
+gains
+75 − 250 (based on marks)
+bonus
+range
+on her basic attacks and
+Mounting Dread
+.
+Innate - Lamb:
+Lamb
+is offered a selection of enemy
+champions
+to
+hunt
+if she has not been
+in combat
+with them in the last 6 seconds. Once selected, the mark is applied after an 8-second delay and thereafter it can be collected by
+Kindred
+.
+Lamb
+gains the ability to select a new target every 75 seconds.
+Targets successfully hunted cannot be marked again for 4 minutes.
+Innate - Wolf:
+Starting at
+3:15
+,
+Wolf
+periodically marks a random large
+monster
+within the enemy team's jungle for 180 seconds. The
+hunted
+camp is highlighted on the
+mini map
+to both teams. Once the
+hunted
+target is slain or the mark expires,
+Wolf
+will wait 45 seconds before selecting a new target.
+The type of monster that
+Wolf
+can mark changes based on
+Kindred's
+current
+Mark of the Kindred
+stacks:
+0 :
+Rift Scuttler
+1 – 3:
+Rift Scuttler
+,
+Crimson Raptor
+,
+Gromp
+4 – 7:
+Ancient Krug
+,
+Blue Sentinel
+,
+Greater Murk Wolf
+, or
+Red Brambleback
+8 + :
+Rift Herald
+or
+Baron Nashor
+,
+Dragon
+or
+Elder Dragon
+"Our mark looms over you."
+Info
+Targeting input
+Passive
+Takedowns
+on
+monsters
+occur if
+Kindred
+had damaged them within the last 6 seconds.
+This only includes if the monster was slain by
+Kindred
+or an ally.
+Only killing the large monster is required to claim
+Wolf's
+mark.
+Gaining stacks from champions that would change what constitutes as a valid target for
+Wolf
+will not affect
+Kindred's
+ability to claim
+Wolf's
+current target.
+Wolf
+cannot mark monsters that have been slain, even if
+Kindred's
+team doesn't know that the camp has been slain.
+Wolf's
+cooldown is not displayed in-game. Combined with the above point and the target restrictions,
+Wolf
+may go extended periods of time without seeming to do anything.
+Wolf's
+marked target will always have its mark removed from the map 15 seconds after dying for both teams, regardless of whether they have vision of it or not.
+Map-Specific Differences
+Nexus Blitz
+differences
+edit
+Removed:
+Jungle camps are no longer marked.
+On-champion-kill stacks changed to 2.
+New Effect:
+Now always grant a stack when killing the
+Blue Sentinel
+,
+Red Brambleback
+or
+Rift Herald
+.
+Arena
+differences
+edit
+New Effect:
+Gains 1
+Mark of the Kindred
+stack per round.
+Edit
+Dance of Arrows
+COST:
+35 Mana
+COOLDOWN:
+9
+CAST TIME:
+none
+TARGET RANGE:
+300
+EFFECT RADIUS:
+Kindred's
+attack range
+SPEED:
+500 +
+100% movement speed
+Active:
+Lamb
+dashes
+toward the target location, gaining
+bonus
+attack speed
+for a few seconds. She then fires at up to three nearby enemies, dealing
+physical damage
+. This cooldown is
+reduced
+by casting
+Wolf's Frenzy
+or using
+Dance of Arrows
+within its area.
+Active:
+Lamb
+dashes
+toward the target location, gaining
+35%
+(+ 5% per
+mark
+)
+bonus
+attack speed
+for 4 seconds and firing an arrow at up to 3 nearby
+visible
+enemies that deals
+physical damage
+. Her current attack target within any proximity will be prioritized by one of the arrows.
+Physical Damage:
+40 / 65 / 90 / 115 / 140
+(+ 75%
+bonus
+AD)
+Dance of Arrows'
+total
+cooldown
+is reduced to an amount while
+Lamb
+is within the area of
+Wolf's Frenzy
+. Casting
+Wolf's Frenzy
+reduces
+Dance of Arrows'
+current
+cooldown to the same amount.
+Static Cooldown:
+4 / 3.
+5
+/ 3 / 2.
+5
+/ 2 seconds
+Dance of Arrows
+resets
+Lamb's
+basic attack timer.
+Lamb
+can cast any of her
+abilities
+during the dash. Dance of Arrows will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Insufficient dash range
+Dash will gain bonus range through terrain.
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+The dash distance can be extended to up to 400 units when dashing across terrain.
+The cooldown will not be modified if it cannot be reduced (the current cooldown would have to be less than the reduction amount in this case).
+Map-Specific Differences
+Ultra Rapid Fire
+differences
+edit
+Cooldown while in
+Wolf's Frenzy
+set to 0.
+5
+seconds.
+*
+Edit
+Wolf's Frenzy
+COST:
+40 Mana
+COOLDOWN
+:
+18 / 17 / 16 / 15 / 14
+CAST TIME:
+none
+TARGET RANGE:
+500
+EFFECT RADIUS:
+800
+SPEED:
+1400
+Passive:
+As
+Kindred
+move and attack, they build up stacks of
+Hunter's Vigor
+. At full stacks,
+Lamb's
+next basic attack
+heals
+her.
+Active:
+Wolf
+dashes
+to the target location and occupies the area for a period. He attacks enemies within the area, dealing
+magic damage
+. Against
+monsters
+,
+Wolf's
+attacks deal increased damage and
+slow
+the target for a short time.
+Wolf's Frenzy
+ends immediately if
+Lamb
+leaves the area or dies.
+Passive:
+As
+Kindred
+move and attack, they build up to 100 stacks of
+Hunter's Vigor
+. At maximum stacks,
+Lamb's
+next basic attack
+heals
+her for
+0% − 100% (based on
+Kindred's
+missing
+health)
+of
+47 − 81 (based on level)
+. The heal is not triggered if
+Kindred
+is at full health.
+Active:
+Wolf
+dashes
+to the target location, then claims the surrounding area as his territory for the next 8.
+5
+seconds, separating from
+Lamb
+. He automatically attacks the closest nearby
+visible
+enemy within the area, prioritizing the last enemy
+Lamb
+has attacked, then enemy champions, then non-champions.
+Wolf's
+attacks deal
+magic damage
+and the rate at which he attacks scale with
+25% of
+Kindred's bonus
+attack speed
+. Against monsters, his attacks deal 150% damage and
+slow
+the target by 50% for 2 seconds.
+Magic Damage:
+25 / 30 / 35 / 40 / 45
+(+ 20%
+bonus
+AD)
+(+ 20% AP)
+(+ 1.
+5
+%
+(+ 1% per
+mark
+)
+of target's
+current
+health)
+Monster Damage:
+37.
+5
+/ 45 / 52.
+5
+/ 60 / 67.
+5
+(+ 30%
+bonus
+AD)
+(+ 30% AP)
+(+ 2.
+25
+%
+(+ 1.
+5
+% per
+mark
+)
+of target's
+current
+health)
+Wolf's Frenzy
+ends immediately if
+Lamb
+leaves the area or dies.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Wolf
+is
+untargetable
+and
+ghosted
+but he cannot move through terrain other than the initial dash on activation.
+Wolf
+is not able to re-target
+Rift Scuttler
+if he loses
+sight
+of her while he's attacking it.
+Wolf's Frenzy
+does not end if
+Lamb
+enters
+resurrection
+.
+Wolf's Frenzy
+applies ability haste to its cooldown post-effect.
+Given a base cooldown of 14 seconds at rank 5 with 100 ability haste, casting the ability and then ending it after 4 seconds will result in a remaining cooldown of
+(
+1
+4
+−
+4
+)
+×
+0
+.
+5
+=
+5
+seconds, where 0.5 is
+derived from ability haste
+.
+Because of this, there will always be some cooldown time remaining post-effect regardless of the amount of ability haste, unlike certain other abilities with cooldowns that start on-cast.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 10 / 15 / 20 / 25 / 30.
+Bonus AD ratio changed to
+10%
+bonus
+AD
+.
+Health ratio changed to
+1% of target's
+current
+health
+.
+Damage per mark changed to 0.
+5
+%.
+Edit
+Mounting Dread
+COST:
+50 Mana
+COOLDOWN:
+14 / 12.
+5
+/ 11 / 9.
+5
+/ 8
+CAST TIME:
+0.
+25
+TARGET RANGE:
+500 − 750 (based on Marks)
+Active:
+Lamb
+fires a shot at the target enemy that briefly
+slows
+them applies a stack of
+Mounting Dread
+.
+Lamb's
+basic attacks against this target stack
+Mounting Dread
+up to a cap. Applying maximum stacks consumes them all, causing
+Wolf
+to pounce on the target and deal
+physical damage
+based on its
+missing
+health
+.
+Critically strikes
+targets
+at low health
+.
+Active:
+Lamb
+fires a shot at the target enemy that
+slows
+them by 30%
+(+ 5% per 100 AP)
+for 1 second and marks them for 4 seconds. Her basic attacks against the marked target each apply a
+stack
+, refreshing the duration and stacking up to 3 times.
+The third stack directs
+Wolf
+to pounce on the target, consuming all stacks to deal
+additional
+physical damage
+, capped at 300 against
+monsters
+.
+Additional Physical Damage:
+80 / 110 / 140 / 170 / 200
+(+ 100%
+bonus
+AD)
+(+ 5%
+(+ 0.
+5
+% per
+Mark
+)
+of target's
+missing
+health)
+Enhanced damage below threshold:
+80 / 110 / 140 / 170 / 200
+(+ 100%
+bonus
+AD)
+(+ 7.
+5
+% (+
+2%)
+(+ 0.
+75
+% (+
+0.
+2
+%) per
+Mark
+)
+of target's
+missing
+health)
+The
+additional
+damage will
+critically strike
+against targets below
+25% − 75% (based on critical strike chance)
+of their
+maximum
+health
+, increasing the
+missing
+health
+portion by
+(50% +
+40%
+)
+, and cannot
+critically strike
+otherwise. The
+base
+damage of the pounce can independently
+critically strike
+.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Parries
+Blocked
+Projectile
+Blocked
+Guinsoo's Rageblade
+does not prevent the
+additional
+damage from
+critically striking
+.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel and not pay its cost but still go on
+cooldown
+.
+(bug)
+This ability cannot be cast on a target with
+Mounting Dread
+stacks.
+Map-Specific Differences
+Arena
+differences
+edit
+Base health ratio changed to
+2% of target's
+missing
+health
+.
+Edit
+Lamb's Respite
+COST:
+100 Mana
+COOLDOWN:
+180 / 150 / 120
+CAST TIME:
+None
+EFFECT RADIUS:
+535
+Active:
+Lamb
+blesses the ground under herself for a few seconds. Any unit inside the area will become
+invulnerable
+upon reaching
+low health
+. Units within the area are
+healed
+when the blessing ends.
+Active:
+Lamb
+blesses the ground underneath herself and enters a
+0.
+264
+seconds
+cast time
+, creating a sacred zone at her location at the time of cast that lasts for 4 seconds.
+All
+units
+inside the zone gain a
+minimum health threshold
+equal to
+10% of their
+maximum
+health
+, and will also become
+invulnerable
+while remaining in the area when they reach or are at the threshold, during which they also cannot be
+healed
+, but can still
+regenerate health
+.
+All targetable units within the zone are
+healed
+when the blessing ends.
+Heal:
+225 / 300 / 375
+"Shine once more, before the end."
+Info
+Targeting input
+Auto
+Damage type
+Type
+Lamb's Respite
+will affect all
+champions
+,
+minions
+, and
+monsters
+, but not
+wards
+,
+turrets
+, or
+jungle plants
+.
+Lamb's Respite
+will affect
+untargetable
+units but does not grant them the
+heal
+at the end of the blessing.
+It will specifically not affect champions that are
+resurrecting
+from
+Guardian Angel
+.
+Health costs
+will ignore
+Lamb's Respite's
+threshold.
+The cost will not be paid if the caster is below the threshold.
+Lamb's Respite
+has no effect on
+zombie state
+or
+clone
+units.
+The effects are applied before the cast time.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Kindred (Collection)
+.
+Original
+View in 3D
+880
+13.10.2015
+Separate, but never parted, Kindred represents the twin essences of death. Lamb’s bow offers a swift release from the mortal realm for those who accept their fate. Wolf hunts down those who run from their end, delivering violent finality within his crushing jaws. Though interpretations of Kindred’s nature vary across Runeterra, every mortal must choose the true face of their death.
+Marcella Lentz-Pope, Matthew Mercer
+Evan 'Somnicidal' Monteiro
+Loot eligible
+Shadowfire
+View in 3D
+1350
+13.10.2015
+When the Ashen Lord rose, high priests of the Shadowfire Temple called upon their own god to fend off the all-consuming Infernals. They neglected, however, to account for the being's twin aspects: Destruction, and Rebirth. Kindred will fight the flames, but there may be a bitter price to pay before the end…
+Marcella Lentz-Pope, Matthew Mercer
+Jean 'Curing' Go
+Infernal
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Super Galaxy
+View in 3D
+1350
+25.05.2016
+Lamb joined the Super Galaxy team as its lead scout, venturing into uncharted territory to face all manner of alien dangers. Soon after, Wolf joined the team as Lamb's partner—though, in truth, he only really joined because she still owes him for lunch, back when they were cadets. She's not getting away this time!
+Marcella Lentz-Pope, Matthew Mercer
+Christian Fell
+Super Galaxy
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Spirit Blossom
+View in 3D
+1350
+06.08.2020
+In the Ionian tradition, the Kindred are interpreted as a child and her beastly companion, endlessly playing games with one another until they are called to perform their duties. The two do not know where they came from, but it is said they feel a sense of loss for someone they knew long ago…
+Marcella Lentz-Pope, Matthew Mercer
+Horace 'Hozure' Hsu
+Spirit Blossom
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Spirit Blossom Kindred Chromas
+Aquamarine
+Catseye
+Night Blossom
+Obsidian
+Peridot
+Rose Quartz
+Ruby
+Sapphire
+Porcelain
+View in 3D
+1350
+26.01.2022
+Once a skilled hunter and her fierce hound, the two were so bonded that their souls remained together when they were preserved inside the Dog Zodiac Relic. Now they are two halves of a whole, mentoring generations of Protectors like Lux and Amumu and standing guard eternally over the ancient magic that keeps them alive.
+Marcella Lentz-Pope, Matthew Mercer
+David Villegas, West Studio
+Porcelain
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Porcelain Kindred Chromas
+Catseye
+Emerald
+Golden Tiger
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Woof and Lamb
+View in 3D
+1350
+06.04.2023
+Who said dogs and cats can't be best friends? Cat ladies and golden retriever boyfriends pitting the two against each other for centuries? Eh, forget all that! Woof and Lamb are living proof that canines and felines CAN get along... though the judges are not actually sure either of them are "alive".
+Marcella Lentz-Pope, Matthew Mercer
+Horace 'Hozure' Hsu
+Cats Versus Dogs
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Woof and Lamb Kindred Chromas
+Catseye
+Citrine
+Granite
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+DRX
+View in 3D
+1350
+01.06.2023
+Honoring Pyosik's winning performance as Kindred during the 2022 World Championship.
+Marcella Lentz-Pope, Matthew Mercer
+Horace 'Hozure' Hsu
+World Champions: 2022
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+DRX Kindred Chromas
+Elite
+Prestige Porcelain
+View in 3D
+Special
+22.02.2024
+The hunter and the hound stalk the runway in white-feathered armor with cerulean plating. The refractions of images that dance in the crystals embossed on both bow and headdress dare the audience to reflect on the past year, their fashion feats, and faux pas.
+Marcella Lentz-Pope, Matthew Mercer
+Horace 'Hozure' Hsu
+Porcelain
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Porcelain
+. Store variants are discounted for multiple purchases.
+Chosen of the Wolf
+View in 3D
+1350
+06.11.2024
+Do you hunger, dear Wolf? The Eternal Chase is almost upon us. For you and your followers who find bliss through battle, this hunt is their reward. Only those chosen to enter Volrachnun are granted this opportunity. Tell me, will they be able to withstand us in your afterlife?
+Marcella Lentz-Pope, Matthew Mercer
+Horace 'Hozure' Hsu
+Chosen of the Wolf
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Chosen of the Wolf Kindred Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.17
+Dance of Arrows
+Base bonus attack speed increased to 35% from 30%.
+Mounting Dread
+Cooldown reduced to 14 / 12.
+5
+/ 11 / 9.
+5
+/ 8 seconds from 14 / 13 / 12 / 11 / 10.
+Base damage increased to 80 / 110 / 140 / 170 / 200 from 80 / 100 / 120 / 140 / 160.
+Bonus AD ratio increased to
+100%
+bonus
+AD
+from
+80%
+.
+V14.14
+Stats
+Base health reduced to 595 from 610.
+Dance of Arrows
+Base bonus attack speed reduced to 30% from 35%.
+V14.10
+General
+Bug Fix:
+Restored idle VO quotes.
+V14.7
+Lamb's Respite
+Bug Fix:
+Champions within that are affected by
+Bailout
+and reach the threshold after scoring a champion takedown while still inside its area of effect no longer sometimes forcibly die.
+V14.3
+Mark of the Kindred
+Bug Fix:
+No longer sometimes marks enemies'
+Hubris
+statues.
+V13.17
+Mounting Dread
+Base slow reduced to 30% from 50%.
+Health ratio reduced to
+5% of target's
+missing
+health
+from
+8%
+.
+V13.16
+Mounting Dread
+Bug Fix:
+VFX now properly renders above impassable terrain.
+V13.14
+Stats
+Base health increased to 610 from 580.
+Base armor increased to 29 from 26.
+Mark of the Kindred
+Bug Fix:
+Can no longer re-mark targets before their hunt timer came off cooldown.
+Dance of Arrows
+Cooldown increased to 9 seconds from 8.
+Base damage reduced to 40 / 65 / 90 / 115 / 140 from 50 / 75 / 100 / 125 / 150.
+V13.13
+Stats
+Base armor reduced to 26 from 29.
+Base health reduced to 580 from 610.
+V13.12
+DRX Kindred
+Mark of the Kindred
+Bug Fix:
+Attack projectiles now properly have different VFX compared to 1 mark stack from 0.
+V13.10
+- May 18th Hotfix
+Stats
+Attack damage growth increased to 3.
+25
+from 2.
+5
+.
+Health growth increased to 104 from 99.
+Mounting Dread
+Critical strike threshold increased to
+25% − 75% (based on critical strike chance)
+of target's
+maximum
+health
+from
+15% − 65% (based on critical strike chance)
+.
+V13.10
+Wolf's Frenzy
+New Effect:
+Damage now scales with
+20% AP
+.
+Mounting Dread
+New Effect:
+Slow now scales with
+5% per 100 AP
+.
+V13.5
+General
+Bug Fix:
+Now properly plays their voice lines for buying jungle items.
+V13.1b
+Dance of Arrows
+Base damage reduced to 50 / 75 / 100 / 125 / 150 from 60 / 85 / 110 / 135 / 160.
+V12.22
+- November 17th Hotfix
+Dance of Arrows
+Base bonus attack speed increased to 35% from 25%.
+V12.22
+Mark of the Kindred
+Bug Fix:
+Mark passive is no longer audible through the fog of war.
+V12.10
+Stats
+Base health increased to 610 from 540.
+Health growth increased to 99 from 85.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Wolf's Frenzy
+Maximum base heal reduced to
+47 − 81 (based on level)
+from
+49 − 100 (based on level)
+.
+Lamb's Respite
+Base heal reduced to 225 / 300 / 375 from 250 / 325 / 400.
+V12.1
+Lamb's Respite
+Bug Fix:
+Fixed a bug where it would heal champions more than it was supposed to.
+V11.24
+Mark of the Kindred
+Bug Fix:
+Now is properly able to mark
+Chemtech Drake
+and
+Hextech Drake
+.
+V11.21
+General
+Bug Fix:
+Wolf has been fixed to animate with Lamb while emoting.
+V11.9
+Dance of Arrows
+Cooldown reduced to 8 seconds from 9.
+Base damage increased to 60 / 85 / 110 / 135 / 160 from 60 / 80 / 100 / 120 / 140.
+V11.8
+Wolf's Frenzy
+Bug Fix:
+Fixed a bug where it would not attack the
+Rift Scuttler
+if the ability was cast prior to it entering the respective ability area.
+V11.7
+Dance of Arrows
+Bonus AD ratio increased to
+75%
+bonus
+AD
+from
+65%
+.
+Mounting Dread
+Cooldown reduced to 14 / 13 / 12 / 11 / 10 seconds from 16 / 15 / 14 / 13 / 12.
+V11.6
+- Estimated
+Mounting Dread
+Undocumented:
+When the additional damage
+critically strikes
+on low health targets, it now amplifies only the portion of damage based on the
+target's
+missing
+health
+, instead of the entire additional damage.
+Undocumented:
+Bonus damage from additional sources of critical damage reduced to a proportion of 100% from 150%.
+(base critical damage unchanged at 50%)
+V10.23
+Mark of the Kindred
+Bug Fix:
+Tooltip no longer shows zeroes in place of the actual values.
+V10.22
+Mark of the Kindred
+Bug Fix:
+Fixed a bug where successfully hunted champions could be marked again without a 4 minute timer.
+V10.15
+General
+Bug Fix:
+No longer provides vision to her team while dead.
+V10.6
+General
+Recommended items updated.
+Stats
+Attack damage growth increased to 2.
+5
+from 2.
+26
+.
+Base mana regeneration increased to 7 from 6.
+972
+.
+Wolf's Frenzy
+Maximum heal increased to
+49 − 100 (based on level)
+from
+32 − 100 (based on level)
+.
+Lamb's Respite
+Heal increased to 250 / 325 / 400 from 200 / 250 / 300.
+V9.24b
+Lamb's Respite
+Bug Fix:
+VO now properly plays when casting it.
+V9.21
+Wolf's Frenzy
+Bug Fix:
+When casting it, Wolf now properly attacks enemies in range when she is not attacking anything.
+V9.18
+Wolf's Frenzy
+Bug Fix:
+Wolf no longer grants additional, non-functional vision to
+Kindred
+when circling her.
+V9.9
+Mark of the Kindred
+First mark increased to 3:15 from 2:05.
+V8.24
+Shadowfire Kindred
+and
+Super Galaxy Kindred
+Bug Fix:
+Model no longer use classic skin textures upon death.
+V8.15
+Wolf's Frenzy
+Wolf's attack speed scaling reduced to
+25% of
+Kindred's
+bonus
+attack speed
+from
+50%
+.
+Lamb's Respite
+Cooldown increased to 180 / 150 / 120 seconds from 160 / 130 / 100.
+V8.13
+Wolf's Frenzy
+Re Added-Hunter's Vigor:
+As
+Kindred
+move and attack they build stacks of
+Hunter's Vigor
+, up to a maximum of 100. At full stacks
+Lamb's
+next basic attack restores up to
+32 − 100 (based on level)
+health, based on
+Kindred's
+missing
+health
+.
+Removed:
+No longer reduces monster attack speed by 50% for 2 seconds.
+Bug Fix:
+Wolf's
+attack speed now appropriately scales with items.
+Bug Fix:
+No longer gets two marks for assisting on epic monster kills.
+V8.12
+Stats
+Attack speed growth increased to 3.
+5
+% from 2.
+5
+%.
+Dance of Arrows
+Bonus attack speed increased to 25% from 10%.
+Mounting Dread
+Base damage increased to 80 / 100 / 120 / 140 / 160 from 65 / 85 / 105 / 125 / 145.
+V8.11
+Mark of the Kindred
+Mark respawn time reduced to 40 seconds from 50.
+First mark spawn reduced to 2:05 from 2:20.
+Bug Fix:
+Assists on
+Rift Scuttler
+now appropriately collect marks.
+V8.10
+Mark of the Kindred
+New Effect:
+If an ally kills a hunted jungle monster within 6 seconds of
+Kindred
+damaging it,
+Kindred
+will still acquire the passive stack.
+V7.22
+Stats
+Base attack damage increased to 65 from 57.
+Base armor increased to 29 from 20.
+Dance of Arrows
+Base damage increased to 60 / 80 / 100 / 120 / 140 from 55 / 75 / 95 / 115 / 135.
+Mounting Dread
+Base damage increased to 65 / 85 / 105 / 125 / 145 from 60 / 80 / 100 / 120 / 140.
+V7.15
+Dance of Arrows
+Bug Fix:
+Fixed a bug where - if
+Kindred
+used
+Dance of Arrows
+to jump over a wall, the cast range of
+Mounting Dread
+would be permanently increased.
+V7.14
+Mounting Dread
+Changed several interactions where it overwrotes any spell queuing commands, instead forcing the caster to immediately begin basic-attacking once the ability completed.
+V7.13
+Mark of the Kindred
+Number of marks required for attack range increase after the first four is reduced to 3 from 4.
+Maximum 250 bonus range reached at 25 marks from 32.
+Wolf's Frenzy
+Target's current health ratio per mark increased to
+1% of the target's
+current
+health
+from
+0.
+5
+%
+.
+Mounting Dread
+Base damage increased to 60 / 80 / 100 / 120 / 140 from 40 / 60 / 80 / 100 / 120.
+V7.12
+Stats
+Base attack damage increased to 57 from 54.
+Wolf's Frenzy
+Wolf dash speed increased to 1400 from 1200.
+New Effect:
+Zone duration now waits to begin counting down until Wolf reaches the cast location. Casting
+Dance of Arrows
+during Wolf's travel time will still grant the reduced cooldown.
+Mounting Dread
+Mana cost reduced to 50 from 70.
+V7.11
+Stats
+Attack damage growth increased to 2.
+26
+from 1.
+7
+.
+Mark of the Kindred
+Removed:
+Granting
+1.
+25
+% of her target's
+current
+health
+as bonus on-hit physical damage on her basic attacks per stack.
+New Effect:
+Every 4 marks increases
+Kindred's
+basic attack,
+Dance of Arrows
+and
+Mounting Dread's
+cast range. The first 4 stacks grant 75
+bonus
+range, while every 4 marks after increase their ranges by 25.
+New Effect:
+Every mark now also amplifies all of
+Kindred's
+basic abilities:
+Dance of Arrows
+: Increases
+bonus
+attack speed
+by 5% per stack.
+Wolf's Frenzy
+:
++ 0.
+5
+% of target's
+current
+health
+per stack.
+Mounting Dread
+:
++ 0.
+5
+% of target's
+missing
+health
+per stack.
+Dance of Arrows
+New Effect:
+Now grants
+10%
+bonus
+attack speed
+for 4 seconds on cast, increased by 5% for every mark.
+Removed:
+Gaining +5 base damage per mark.
+AD ratio changed to
+65%
+bonus
+AD
+from
+20% AD
+.
+Dash speed increased to 500 from 400.
+Wolf's Frenzy
+New Effect:
+Can now direct
+Wolf
+to a position within 500 units of
+Lamb
+before creating the hunting territory.
+Wolf
+can go over walls while travelling in this way. This range does not scale with
+Mark of the Kindred
+stacks.
+New Effect:
+Wolf now also deals
+1.
+5
+% of target's
+current
+health
+damage, increased by 0.
+5
+% for every mark.
+AD ratio changed to
+20%
+bonus
+AD
+from
+40% AD
+.
+Wolf damage type changed to magic from physical.
+Mounting Dread
+Base damage reduced to 40 / 60 / 80 / 100 / 120 from 40 / 75 / 110 / 145 / 180.
+AD ratio changed to
+80%
+bonus
+AD
+from
+20% AD
+.
+Projectile speed increased to 2000 from 1600.
+Target's health ratio changed to
+8% of target's
+missing
+health
+from
+5% of target's
+maximum
+health
+.
+New Effect:
+Every mark now also increases damage by
+0.
+5
+% of target's
+missing
+health
+.
+New Effect:
+Jaws of Death:
+Wolf's
+mount
+will
+critical strike
+for 50%
+(+ 0.
+5
+% ×
+bonus
+critical damage)
+bonus damage against targets below
+15% − 65% (based on critical chance)
+of their
+maximum
+health
+.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.5
+Mark of the Kindred
+Mark time out reduced to 3 minutes from 5.
+Mark respawn time reduced to 50 seconds from 70.
+Old mark tier system:
+0 – 2 marks:
+Rift Scuttler
+or
+Crimson Raptor
+3 – 4 marks:
+Ancient Krug
+,
+Crimson Raptor
+,
+Gromp
+, or
+Greater Murk Wolf
+5 – 7 marks:
+Blue Sentinel
+,
+Red Brambleback
+,
+Rift Herald
+, or
+Dragon
+7 + marks:
+Baron Nashor
+or
+Elder Dragon
+New mark tier system:
+0 mark:
+Rift Scuttler
+1 – 3 marks:
+Rift Scuttler
+,
+Crimson Raptor
+, or
+Gromp
+4 – 7 marks:
+Greater Murk Wolf
+,
+Ancient Krug
+,
+Blue Sentinel
+, or
+Red Brambleback
+8 + marks:
+Rift Herald
+,
+Baron Nashor
+,
+Dragon
+, or
+Elder Dragon
+V6.24
+General
+Bug Fix:
+Restored missing audio during
+Shadowfire Kindred's
+run cycle when Lamb throws her bow in the air.
+V6.13
+Stats
+Armor reduced to 20 from 27.
+Armor growth increased to 3.
+5
+from 3.
+25
+.
+Wolf's Frenzy
+Removed:
+On-hit heal with 100 Hunter's Vigor stacks.
+New Effect:
+Wolf's attacks against neutral monsters both slow them and reduce their attack speed, each by 50% for 2 seconds.
+V6.12
+Shadowfire Kindred
+Basic attack particles updated for visibility.
+Bug Fix:
+Everyone but Kindred seeing Wolf as two copies of himself stacked on top of each other.
+V6.11
+Mark of the Kindred
+Champion-mark cooldown reduced to 75 seconds from 90.
+Neutral monster marking changed to based on current stacks from random before 6:
+0 – 2:
+Rift Scuttler
+or
+Crimson Raptor
+3 – 4:
+Ancient Krug
+,
+Crimson Raptor
+,
+Gromp
+, or
+Greater Murk Wolf
+5 – 7:
+Blue Sentinel
+,
+Red Brambleback
+,
+Rift Herald
+, or
+Dragon
+7 + :
+Baron Nashor
+or
+Elder Dragon
+Dance of Arrows
+Base damage reduced to 55 / 75 / 95 / 115 / 135 from 60 / 90 / 120 / 150 / 180.
+New Effect:
+Gains + 5 damage per
+Mark of the Kindred
+stack.
+Wolf's Frenzy
+Bug Fix:
+Wolf occasionally stopping damaging targets that got in range while active.
+Mounting Dread
+Base damage changed to 40 / 75 / 110 / 145 / 180 from 60 / 90 / 120 / 150 / 180.
+Slow reduced to 50% from 70%.
+V6.9
+Dance of Arrows
+Reduced cooldown increased to 4 / 3.
+5
+/ 3 / 2.
+5
+/ 2 seconds from 2 at all ranks
+Wolf's Frenzy
+New Effect:
+Hunter's Vigor stacks are generated on-attack
+Hunter's Vigor stacks from movement reduced
+Duration increased to 8.
+5
+seconds from 8
+New Effect:
+Wolf deals 50% bonus damage to neutral monsters
+V6.7
+Wolf's Frenzy
+Heal changed to
+34 − 102 (based on level)
+from
+43 − 94 (based on level)
+Lamb's Respite
+Targeting changed to self-cast from targeting allies.
+V6.4
+Mark of the Kindred
+Bug Fix:
+Kindred
+wouldn't gain a stack from marked neutral monsters if they were too far away from their spawn point.
+V6.2
+Dance of Arrows
+Mana cost increased to 35 from 30.
+Mounting Dread
+Base damage reduced to 60 / 90 / 120 / 150 / 180 from 80 / 110 / 140 / 170 / 200.
+V5.24
+Wolf's Frenzy
+Heal reduced to
+43 − 94 (based on level)
+from
+63 − 114 (based on level)
+.
+Lamb's Respite
+Cooldown changed to 160 / 130 / 100 seconds from 150 / 130 / 110.
+V5.22
+Stats
+Base attack damage increased to 54 from 49.
+Attack damage growth reduced to 1.
+7
+from 2.
+2
+.
+Base health regen reduced to 7 from 10.
+Mark of the Kindred
+New Effect:
+Baron Nashor
+and
+Rift Herald
+will be marked after obtaining 6 stacks (restriction on other neutral monsters unchanged).
+New Effect:
+Damage to monsters capped at 75 (+ 10 per stack).
+Removed:
+Displaying a stack on buff bar when having none.
+Mounting Dread
+Bug Fix:
+Sound sometimes not playing.
+V5.21
+Mark of the Kindred
+Bug Fix:
+Occasional incorrect coloring for allied and enemy mark indicators (instead of the intended blue for allies and red for enemies).
+Bug Fix:
+Stacks occasionally being gained from unmarked neutral monsters.
+V5.20
+Added
+Trivia
+[
+edit
+|
+edit source
+]
+Kindred
+is one of 15 champions that have an ability that infinitely stacks an effect:
+Aurelion Sol
+,
+Bard
+,
+Bel'Veth
+,
+Cho'Gath
+,
+Draven
+,
+Nasus
+,
+Senna
+,
+Shyvana
+,
+Sion
+,
+Smolder
+,
+Swain
+,
+Sylas
+,
+Thresh
+, and
+Veigar
+.
+In Kindred's case,
+Mark of the Kindred
+infinitely stacks the bonus
+attack speed
+of
+Dance of Arrows
+,
+magic damage
+of
+Wolf's Frenzy
+and
+bonus physical damage
+of
+Mounting Dread
+.
+Kindred is the first champion to not have their icon derived from their artwork (considering theirs is a two-for-one case) as well as the first whose release was celebrated with
+summoner icons
+(one for
+Lamb and one for
+Wolf).
+Kindred's dance references
+the 'Cups' tap dance performed by Christopher Rice.
+[2]
+A side-by-side comparison can be seen
+here.
+In the classic splash art,
+Lamb's hand has 4 fingers (with a possible hidden thumb) while in-game and in
+Super Galaxy Kindred's
+splash art she has 3 fingers.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Marksman
+Marksmen
+(formerly "Carries") excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger. Although Marksmen have the ability to stay relatively safe by kiting their foes, they are very fragile and are extremely reliant on powerful item purchases to become true damage threats.
+At present, Marksmen do not have any official subclasses. The following have been considered:
+Demolisher
+Scrapper
+Examples
+Ashe
+Ezreal
+Lucian
+Kai'Sa
+Jhin
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Takedown
+Takedown
+refers to a
+kill
+or
+assist
+being acceptable, with the type of enemy specified in each use case.
+Takedown
+is associated with triggering a
+passive
+effect, or timed effects shortly after scoring.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Mounting Dread
+COOLDOWN:
+14 / 12.
+5
+/ 11 / 9.
+5
+/ 8
+Active:
+Lamb
+fires a shot at the target enemy that briefly
+slows
+them applies a stack of
+Mounting Dread
+.
+Lamb's
+basic attacks against this target stack
+Mounting Dread
+up to a cap.
+Applying maximum stacks consumes them all, causing
+Wolf
+to pounce on the target and deal
+physical damage
+based on its
+missing
+health
+.
+Critically strikes
+targets
+at low health
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Nexus Blitz
+An explosive game mode known as Nexus Blitz. Traverse down one of two different paths in order to attack your enemy at their weakest point. Work with your allies to siege the enemy base and destroy their Nexus!
+Regular Modes
+Classic 5v5
+Custom
+Maps
+Temple of Lily and Lotus
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Wolf's Frenzy
+COOLDOWN:
+18 / 17 / 16 / 15 / 14
+Passive:
+As
+Kindred
+move and attack, they build up stacks of
+Hunter's Vigor
+. At full stacks,
+Lamb's
+next basic attack
+heals
+her.
+Active:
+Wolf
+dashes
+to the target location and occupies the area for a period. He attacks enemies within the area, dealing
+magic damage
+. Against
+monsters
+,
+Wolf's
+attacks deal increased damage and
+slow
+the target for a short time.
+Wolf's Frenzy
+ends immediately if
+Lamb
+leaves the area or dies.
+League of Legends content
+Mark of the Kindred
+TARGET IMMUNITY:
+240
+Innate:
+Both
+Lamb
+and
+Wolf
+mark targets to
+hunt
+. Scoring a
+takedown
+against a
+hunted
+target collects a permanent stack of
+Mark of the Kindred
+.
+Lamb
+can select an enemy
+champion
+to
+hunt
+, and
+Wolf
+automatically selects a large
+monster
+to
+hunt
+.
+Mark of the Kindred:
+Lamb
+gains
+bonus
+range
+on her basic attacks and
+Mounting Dread
+. For each stack,
+Kindred's
+abilities become more potent.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Ultra Rapid Fire (U.R.F.)
+Ultra Rapid Fire
+is a
+Featured Game Mode
+that takes place on
+Summoner's Rift
+with the same objective as
+Classic 5v5
+, except all
+champions
+benefit from the
+Awesome Buff of Awesomely Awesome Buffing
+that grants excessive  ability haste and removes ability costs. The gameplay is
+explosive
+. The game mode can be played as
+All Random
+or
+Blind pick
+depending on the year.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Resurrection
+A unit that is protected by
+Resurrection
+will enter a revival state and dispel most debuffs upon taking
+fatal damage
+. After the state completes, the unit is revived.
+Resurrection
+effects do not count for kills or assists.
+Resurrection
+sources have a hierarchy, and will trigger in the following order:
+Zilean's
+Chronoshift
+Guardian Angel
+Anivia's
+Rebirth
+and
+Zac's
+Cell Division
+Resurrection
+will always take precedence over
+zombie state
+effects. Entering
+resurrection
+does not cancel cast times.
+Renata Glasc's
+Bailout
+always takes priority over
+resurrection
+.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Invulnerability
+A unit that is
+Invulnerable
+reduces all damage taken to
+0
+and prevents effects that trigger from damage.
+References
+[
+edit
+|
+edit source
+]
+↑
+Kindred's profile page
+at
+LeagueOfLegends.com
+↑
+New Champion Q&A: Kindred, the Eternal Hunters

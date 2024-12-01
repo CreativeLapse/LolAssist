@@ -1,0 +1,2618 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Lux
+the Lady of Luminosity
+Release date
+2010-10-19
+Last changed
+V14.10
+Class(es)
+Burst
+Artillery
+Legacy
+Mage
+Support
+Position(s)
+Middle
+Support
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+450
+|
+260
+Crafting
++
+270
+Ratings
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+1
+Utility
+2
+Style
+Difficulty
+Lux
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Lux
+Base statistics
+Edit
+Health
+580
++99
+Mana
+480
++23.5
+Health regen. (per 5s)
+5.5
++0.55
+Mana regen. (per 5s)
+7
++0.8
+Armor
+21
++5.2
+Attack damage
+54
++3.3
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+550
+Attack speed
+Base AS
+0.669
+Attack windup
+15.625%
+AS ratio
+0.625
+Bonus AS
++3
+%
+Missile speed
+1600
+Unit radius
+Gameplay radius
+65
+Selection radius
+100
+Pathing radius
+35
+Acq. radius
+625
+Special statistics
+Damage Dealt
+-15%
+Damage Received
++10%
+Shielding
+-20%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Illumination
+Innate:
+Lux's
+abilities apply a mark to enemies hit for a few seconds. Her basic attacks and
+Final Spark
+consume the mark to deal
+bonus
+magic damage
+.
+Innate:
+Lux's
+abilities
+apply a mark to enemies hit for 6 seconds, refreshing on subsequent hits.
+Lux's
+basic attacks
+and
+Final Spark
+consume the mark to deal
+30 − 200 (based on level)
+(+ 30% AP)
+bonus
+magic damage
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Parries
+Missing
+Starting an
+attack windup
+against a target with a mark that is about to expire refreshes its duration to 0.
+25
+seconds. Casting
+Final Spark
+refreshes the marks of all marked enemies to 1.
+25
+seconds if they are within
+5000
+units of the ability's casting position and have a mark with a remaining duration of less than 1 second.
+Spell shield
+prevents
+Final Spark
+from consuming the mark.
+The on-hit damage from
+Illumination
+via basic attack cannot be blocked by
+spell shield
+.
+Illumination's
+trigger from a basic attack can be
+blocked
+(bonus damage is negated and the mark will still be consumed).
+PENDING FOR TEST:
+: Parry interactions (
+dodge
+,
+blind
+).
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio changed to
+50% AP
+.
+Edit
+Light Binding
+COST:
+50 Mana
+COOLDOWN:
+11 / 10.
+5
+/ 10 / 9.
+5
+/ 9
+CAST TIME:
+0.
+25
+RANGE:
+1300 /
+1240
+WIDTH:
+140
+SPEED:
+1200
+Active:
+Lux
+shoots a sphere of light in the target direction that deals
+magic damage
+to the first two enemies hit and
+roots
+them for a short time.
+Active:
+Lux
+shoots a sphere of light in the target direction that deals
+magic damage
+to the first two enemies hit and
+roots
+them for 2 seconds.
+Magic Damage:
+80 / 120 / 160 / 200 / 240
+(+ 65% AP)
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Targets immune to the
+root
+still count towards
+Light Binding's
+two-target limit.
+This ability will cast from wherever the caster is at the end of the cast time.
+Light Binding
+spawns an additional missile at the same location and vector as the main missile. This additional "Dummy" missile has the same visual effects as the main missile and gets destroyed when it hits a single enemy, thereby making the surviving VFX of the single missile weaker in intensity.
+PENDING FOR TEST:
+This hacky solution also causes Lux Q to count as two skillshots for things such as "skillshots dodged" Eternals.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 110 / 150 / 190 / 230 / 270.
+Cooldown changed to 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8 seconds.
+Edit
+Prismatic Barrier
+COST:
+60 / 65 / 70 / 75 / 80 Mana
+COOLDOWN:
+14 / 13 / 12 / 11 / 10
+CAST TIME:
+0.
+25
+RANGE:
+*
+1175
+EFFECT RADIUS:
+110
+WIDTH:
+220
+SPEED:
+2400
+Active:
+Lux
+throws her wand in the target direction that homes back to her after reaching maximum range. Allied champions hit by the wand gain a
+shield
+for a short time, which can stack up to twice.
+Lux
+receives the shield upon throwing the wand and upon its return.
+Active:
+Lux
+throws her wand in the target direction that homes back to her after reaching maximum range. Allied champions hit by the wand gain a
+shield
+for 2.
+5
+seconds, which can stack up to 2 times, stacking with the previous shield and refreshing its duration.
+Shield Strength:
+40 / 55 / 70 / 85 / 100
+(+ 40% AP)
+Maximum Shield:
+80 / 110 / 140 / 170 / 200
+(+ 80% AP)
+Lux
+receives the shield upon throwing the wand and upon its return.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Counters
+Projectile
+See Notes
+Each pass of the wand grants a shield to each target once.
+Prismatic Barrier
+may only stack up to 2 times. Subsequent instances of passing through the wand have no effect on the shield's strength nor duration.
+The shield will also be granted to allies near the wand's return location.
+Both passes of
+Prismatic Barrier
+cannot hit units whose
+center
+is beyond the missile range or behind its origin, even if their
+hitbox radius
+overlaps.
+At the return location, this behaviour is overridden by an additional center check with the same diameter as the missile width.
+If
+Lux
+dies
+before her wand returns it will fizzle upon reaching maximum range.
+Lux's
+wand decelerates on the way out and accelerates on the way back.
+This ability will cast from wherever the caster is at the start of the cast time.
+Prismatic Barrier
+is destroyed by
+Wind Wall
+and
+Blade Whirl
+but not
+Unbreakable
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Base shield changed to 60 / 90 / 120 / 150 / 180.
+AP ratio changed to
+45% AP
+.
+Edit
+Lucent Singularity
+COST:
+70 / 80 / 90 / 100 / 110 Mana
+COOLDOWN
+:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8
+CAST TIME:
+0.
+25
+TARGET RANGE:
+1100
+EFFECT RADIUS:
+310
+/
+600
+SPEED:
+1200
+Active:
+Lux
+sends a lucent singularity to the target location that lasts for a few seconds and slows enemies within.
+Lucent Singularity
+can be recast within this time, and does so automatically after the duration.
+Recast:
+Lux
+detonates the singularity, dealing
+magic damage
+to enemies within.
+Active:
+Lux
+sends a lucent singularity to the target location, remaining there for 5 seconds to grant
+sight
+of the area and
+slow
+nearby enemies.
+Slow:
+25 / 30 / 35 / 40 / 45%
+Lucent Singularity
+can be recast at any time while it is in flight or within the duration, and does so automatically after the duration.
+Recast:
+Lux
+detonates the singularity, dealing
+magic damage
+to enemies within. If
+Lucent Singularity
+was recast while in flight, it will detonate upon arrival.
+Magic Damage:
+65 / 115 / 165 / 215 / 265
+(+ 80% AP)
+The slow lingers for 1 second after leaving the area. Enemies hit by
+Lucent Singularity's
+detonation are also slowed by the same amount for 1 second.
+Info
+Targeting input
+Location
+/
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+The initial cast counts as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+The manual recast does not.
+Lucent Singularity
+grants
+sight
+while also in flight.
+Map-Specific Differences
+Arena
+differences
+edit
+Slow changed to 40 / 45 / 50 / 55 / 60%.
+Edit
+Final Spark
+COST:
+100 Mana
+COOLDOWN:
+60 / 50 / 40
+CAST TIME:
+1
+RANGE:
+3400
+WIDTH:
+200
+Active:
+Lux
+fires a massive laser in a line in the target direction that deals
+magic damage
+and briefly
+reveals
+enemies hit.
+Active:
+Lux
+fires a massive laser in a line in the target direction that deals
+magic damage
+to enemies hit and
+reveals
+them for 1.
+5
+seconds, as well as granting
+sight
+of the surrounding area.
+Magic Damage:
+300 / 400 / 500
+(+ 120% AP)
+"By the light!"
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Final Spark
+grants sight of its surroundings during the cast time and for 0.
+5
+seconds afterwards.
+This ability will cast from wherever the caster is at the start of the cast time.
+Type
+Cast time
+Attacking
+Disabled
+Abilities
+Lucent Singularity
+can only be recast if it is present.
+Light Binding
+and
+Prismatic Barrier
+are disabled.
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Disabled
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 30 seconds at all ranks.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Lux (Collection)
+.
+Original
+View in 3D
+790
+19.10.2010
+Luxanna Crownguard hails from Demacia, an insular realm where magical abilities are viewed with fear and suspicion. Able to bend light to her will, she grew up dreading discovery and exile, and was forced to keep her power secret, in order to preserve her family’s noble status. Nonetheless, Lux’s optimism and resilience have led her to embrace her unique talents, and she now covertly wields them in service of her homeland.
+Carrie Keranen
+Katie 'TeaTime' De Sousa
+Loot eligible
+Sorceress
+View in 3D
+520
+19.10.2010
+An aspiring mage from the Demacian Dukedom, Lux has traveled across the land in her quest to lighten the lives of the peasantry with magic. Though her efforts are often met with suspicion at first, tales of her 'miracles' are beginning to reach the ruling class of the Dukedom itself…
+Carrie Keranen
+Unknown artist
+Medieval
+Loot eligible
+Spellthief
+View in 3D
+750
+19.10.2010
+She doesn't pull in coin like the Spellthief's Edge, and can't actually steal spells like Sylas, but technically Lux is learning and reproducing illegal magic. Sadly, “Illegal Spell Learner Lux” doesn't have quite the same ring to it.
+Carrie Keranen
+Jem Flores
+Arcanists
+Loot eligible
+Commando
+View in 3D
+520
+17.06.2011
+Soundproof ear protectors, a multispectral heat visor, lace-up knee-high boots, and a double-sided flamethrower that shoots lasers instead of fire? Lux really does have it all.
+Carrie Keranen
+Katie 'TeaTime' De Sousa
+Commando
+Loot eligible
+Imperial
+View in 3D
+975
+29.11.2011
+Carrie Keranen
+Unknown artist
+Legacy
+Loot eligible
+Legacy
+Steel Legion
+View in 3D
+975
+01.02.2013
+This highly-trained specialist in the Steel Legion uses light-magnifying crystal rods to discharge rays of concentrated energy. Designated Lux, her affinity with the weapons has been quietly observed by several leading scientists within the organization.
+Carrie Keranen
+Unknown artist
+Steel Legion
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Star Guardian
+View in 3D
+1350
+17.05.2015
+Cheerful and courageous, Lux shines the brightest among her Star Guardian team. While young and inexperienced, the pink-haired captain's optimism inspires others in their destiny to protect the universe. She truly believes that as long as they fight together, there is no darkness they can't overcome.
+Carrie Keranen
+Jean 'Curing' Go
+Star Guardian Season 1
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Pajama Guardian
+. Store variants are discounted for multiple purchases.
+Elementalist
+View in 3D
+3250
+28.11.2016
+Carrie Keranen
+Jean 'Curing' Go
+Elementalist
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Transforming
+Includes Extras
+Chromas
+Elementalist Lux forms
+Air
+Dark
+Fire
+Ice
+Magma
+Mystic
+Nature
+Storm
+Water
+Lunar Empress
+View in 3D
+1350
+08.02.2018
+Groomed from a young age to guard the immortal realm from darkness, the Lunar Empress and her companions are said to stand watch over the world. Lux, though a powerful demigod in her own right, draws aid from the ever-faithful Warwick and Nasus.
+Carrie Keranen
+Xu 'Crow God' Cheng
+Lunar Revel
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Lunar Empress Lux Chromas
+Amethyst
+Peridot
+Rose Quartz
+Ruby
+Turquoise
+Pajama Guardian
+View in 3D
+1350
+21.11.2018
+As captain of her Star Guardian team, Lux knows the importance of a little R&R. As host of the party, though, she's still working on the relaxation part. It's hard to cut loose—especially when a certain handsome blond Guardian keeps flashing that charming grin!—but Lux's boundless optimism still lights up any room.
+Carrie Keranen
+Sangsoo Jeong
+Star Guardian Season 1
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Star Guardian
+. Store variants are discounted for multiple purchases.
+Battle Academia
+View in 3D
+1350
+15.05.2019
+A 1st year at the Durandal God-Weapon Academy, Lux maintains an upbeat attitude no matter the odds. Despite her freshman position in the Sorcery Club, Lux wields a tremendous amount of magical power that even the Academy's senior staff can't quite explain.
+Carrie Keranen
+Pan Chengwei
+Battle Academia
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Prestige Battle Academia
+View in 3D
+Special
+15.05.2019
+Now in her second year at Durandal Academy, Lux has been hardened by the harrowing trials, losses, and betrayals that punctuated her freshman experience. Following the climactic clash with a certain Rogue God-Weapon, Lux has mastered her powers and risen to take her place as head of the Sorcery Club, as well as the new class president.
+Carrie Keranen
+Rudy Siswanto
+Battle Academia
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Battle Academia
+. Store variants are discounted for multiple purchases.
+Dark Cosmic
+View in 3D
+1820
+26.03.2020
+Once the right hand of Queen Ashe, Lux embraced the darkness in her heart, answering the mad call of the Dark Star. Finally seeing the truth, she rejects the Cosmic Court, instead serving her own dark ambition to quiet the banal noise of creation. For she now knows her true fate—to reign as Queen of a Dark Court, and rightful master of the Dark Star.
+Carrie Keranen
+Bo 'chenbowow' Chen
+Dark Star
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Transforming
+This skin is a variant of
+Cosmic
+. Store variants are discounted for multiple purchases.
+Cosmic
+View in 3D
+1820
+26.03.2020
+The right hand of Queen Ashe, Lux weaves celestial constellations, bringing order to a universe drifting towards entropy. When the Dark Star began corrupting members of the Cosmic Court, Lux stepped forward to confront Thresh. Yet she harbors a terrible secret—a shard of darkness that has always lived within her heart, whispering temptations…
+Carrie Keranen
+Bo 'chenbowow' Chen
+Cosmic
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Transforming
+This skin is a variant of
+Dark Cosmic
+. Store variants are discounted for multiple purchases.
+Space Groove
+View in 3D
+1350
+01.04.2021
+A normal girl from the Normal World, Lux picked up a groove-enhancing staff to defend her planet from the Harsh Vibes… inadvertently discovering she could channel mighty blasts of concentrated disco music. Sailing into space with her mercenary bodyguard, Samira, Lux now stands as the bubbly bastion of good against an evil alien armada and their terrible taste in music.
+Carrie Keranen
+Svetlana Tigai, West Studio
+Space Groove
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Space Groove Lux Chromas
+Amethyst
+Citrine
+Disco
+Emerald
+Obsidian
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Porcelain
+View in 3D
+1350
+26.01.2022
+As the current leader of the Protectors and wielder of the Rabbit Relic, Lux is determined to keep up her sunny disposition in spite of everything: her own arduous sorcery training, the newbie archaeologist who stumbled into their ranks, and the sudden threat of an awakened evil now out for vengeance. She's got this… right? Right.
+Carrie Keranen
+Forrest Imel, West Studio
+Porcelain
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Porcelain Lux Chromas
+Catseye
+Emerald
+Golden Tiger
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Soul Fighter
+View in 3D
+1350
+20.07.2023
+On the run from her family, and she figured the best place to hide would be ON TV?! Seriously though, folks, this lady has some trauma... and we all know the ring is *the* place to work that out! Now, if I was a betting man—and I am—I'd say she'd use that soul's desire to make her drama disappear. It's Lux!
+Carrie Keranen
+Roanna Peroz, Kudos Productions
+Soul Fighter
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Soul Fighter Lux Chromas
+Amethyst
+Aquamarine
+Citrine
+Emerald
+Limitless
+Obsidian
+Rose Quartz
+Ruby
+Turquoise
+Prestige Battle Academia (2022)
+View in 3D
+Special
+01.04.2022
+Now in her second year at Durandal Academy, Lux has been hardened by the harrowing trials, losses, and betrayals that punctuated her freshman experience. Following the climactic clash with a certain Rogue God-Weapon, Lux has mastered her powers and risen to take her place as head of the Sorcery Club, as well as the new class president.
+Carrie Keranen
+Rudy Siswanto
+Battle Academia
+Loot ineligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Prestige Battle Academia
+. Store variants are discounted for multiple purchases.
+Prestige Porcelain
+View in 3D
+Special
+26.01.2022
+A leader bends, but never breaks. In the Protectors' pursuit of ancient evil, Lux has navigated her team over obstacles that even the archeologist — in all his unbridled confidence — thought insurmountable. Lux's power, once a dim light in a darkened world, now shines brightly. And her ragtag group of fragile personalities, the Protectors? With her support, deserving of their title.
+Carrie Keranen
+Forrest Imel, West Studio
+Porcelain
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Porcelain
+. Store variants are discounted for multiple purchases.
+Empyrean
+View in 3D
+1350
+03.11.2022
+Forced to live in squalor and shame for her magical abilities, Lux ironically escaped certain death when her realm collapsed. Now with the raw power of the Foreglow, she's free. It doesn't matter that she's on her last legs: she intends to live and experience as much as she can before the fire consumes her.
+Carrie Keranen
+West Studio
+Empyrean
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Empyrean Lux Chromas
+Catseye
+Emerald
+Neon Flare
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Faerie Court
+View in 3D
+1350
+15.05.2024
+A young sorceress studying under Archmage Milio, Lux is ready to prove that she's not just an idle Lady of the Summer Court. Responsible for splitting sunbeams into rainbows through the morning dew, she has a lot of work to conquer each day before the sun rises—but she is nothing if not determined!
+Carrie Keranen
+Fortune 'Fortuneee' K
+Faerie Court
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Faerie Court Lux Chromas
+Catseye
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.10
+General
+Bug Fix:
+Restored
+Recall
+winddown animation for all skins.
+Bug Fix:
+Restored Respawn animation for all skins.
+V14.9
+Lucent Singularity
+Bug Fix:
+Vision bubble is no longer inconsistent inside terrain, causing some targets to remain undetected in its radius.
+V14.7
+Illumination
+AP ratio increased to
+30% AP
+from
+25% AP
+.
+Light Binding
+AP ratio increased to
+65% AP
+from
+60% AP
+.
+V14.2
+Light Binding
+Bug Fix:
+No longer has a very rare chance to break a spell shield that was added right after it applied its full effects already.
+Width of the extra dummy VFX missile is now identical to the functionally relevant one.
+V14.1
+- January 12th Hotfix
+Stats
+Base health increased to 580 from 560.
+Base armor increased to 21 from 19.
+Attack speed growth increased to 3% from 2%.
+Prismatic Barrier
+AP ratio per hit increased to
+40% AP
+from
+35% AP
+.
+V13.17
+Stats
+Base mana regeneration reduced to 7 from 8.
+Illumination
+Base damage increased to
+30 − 200 (based on level)
+from
+20 − 190 (based on level)
+.
+AP ratio increased to
+25% AP
+from
+20% AP
+.
+Light Binding
+Cooldown reduced to 11 / 10.
+5
+/ 10 / 9.
+5
+/ 9 seconds from 11 at all ranks.
+Lucent Singularity
+Base damage reduced to 65 / 115 / 165 / 215 / 265 from 70 / 120 / 170 / 220 / 270.
+V13.14
+Dark Cosmic Lux
+and
+Cosmic Lux
+Bug Fix:
+Staff no longer resets position while using the
+Taunt
+emote in a loop transition.
+Elementalist Lux
+Light Binding
+Bug Fix:
+Orb no longer renders behind a turret.
+Prismatic Barrier
+Bug Fix:
+VFX trail no longer renders behind environment objects.
+V12.23
+- December 14th Hotfix
+Lucent Singularity
+AP ratio increased to
+80% AP
+from
+70% AP
+.
+Final Spark
+AP ratio increased to
+120% AP
+from
+100% AP
+.
+V12.14
+Light Binding
+Root buff renamed to
+Light Binding
+from
+Prismatic Seal
+.
+Prismatic Barrier
+Shield buff renamed to
+Prismatic Barrier
+from
+Stardust Barrier
+.
+V12.10
+Stats
+Base health increased to 560 from 490.
+Health growth increased to 99 from 85.
+Armor growth increased to 5.
+2
+from 4.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Prismatic Barrier
+Base shield per hit reduced to 40 / 55 / 70 / 85 / 100 from 45 / 65 / 85 / 105 / 125.
+V12.6
+Lucent Singularity
+Bug Fix:
+Missile is no longer blocked by
+spell shields
+.
+V11.24
+- December 15th Hotfix
+Light Binding
+Cooldown increased to 11 seconds at all ranks from 11 / 10.
+5
+/ 10 / 9.
+5
+/ 9.
+Base damage reduced to 80 / 120 / 160 / 200 / 240 from 80 / 125 / 170 / 215 / 260.
+V11.21
+Stats
+Attack speed growth increased to 2% from 1%.
+Illumination
+New Effect:
+Starting an attack windup against a target with a mark that is about to expire refreshes its duration to 0.
+25
+seconds.
+New Effect:
+Casting
+Final Spark
+refreshes the marks of all marked enemies to 1.
+25
+seconds if they are within a certain distance of the ability's casting position and have a mark with a remaining duration of less than 1 second.
+Lucent Singularity
+Base damage increased to 70 / 120 / 170 / 220 / 270 from 60 / 110 / 160 / 210 / 260.
+AP ratio increased to
+70% AP
+from
+65% AP
+.
+Final Spark
+Cooldown reduced to 60 / 50 / 40 seconds from 80 / 60 / 40.
+V11.11
+Final Spark
+Bug Fix:
+VO once again plays.
+V11.10
+Lucent Singularity
+Base damage increased to 60 / 110 / 160 / 210 / 260 from 60 / 105 / 150 / 195 / 240.
+AP ratio increased to
+65% AP
+from
+60% AP
+.
+V11.7
+Lucent Singularity
+Bug Fix:
+Fixed a bug where she would trigger
+Moonstone Renewer's
+Starlit Grace by casting
+Lucent Singularity
+, regardless of if she hit an enemy.
+V11.1
+Stats
+Base armor increased to 19 from 18.
+72
+.
+Base attack damage increased to 54 from 53.
+54
+.
+V10.20
+Lucent Singularity
+Bug Fix:
+Can no longer slow her enemies for a longer period than intended when she reactivates it mid-air.
+V10.18
+Prismatic Barrier
+Bug Fix:
+Now properly applies the shield at max two times.
+V10.17
+Prismatic Barrier
+Base shield reduced to 45 / 65 / 85 / 105 / 125 from 50 / 75 / 100 / 125 / 150.
+AP ratio increased to
+35% AP
+from
+30% AP
+.
+Mana cost increased to 60 / 65 / 70 / 75 / 80 from 60 at all ranks.
+Bug Fix:
+No longer grants bonus shielding at the edge.
+V10.11
+- May 27th Hotfix
+Lucent Singularity
+Bug Fix:
+Fixed a bug where the slow radius was larger than its damage radius.
+V10.11
+Lucent Singularity
+Slow linger duration increased to 1 second from 0.
+25
+.
+New Effect:
+Enemies are slowed for 1 second after being damaged by
+Lucent Singularity
+.
+V10.9
+Final Spark
+Bug Fix:
+No longer goes on full cooldown when she dies during its cast.
+V10.8
+Lucent Singularity
+Indicator added to show recast ability timer.
+V10.4
+Light Binding
+Base damage increased to 80 / 125 / 170 / 215 / 260 from 70 / 115 / 160 / 205 / 250.
+AP ratio reduced to
+60% AP
+from
+70% AP
+.
+Cooldown reduced to 11 / 10.
+5
+/ 10 / 9.
+5
+/ 9 seconds from 13 / 12 / 11 / 10 / 9.
+Final Spark
+New Effect:
+Can now cast
+Flash
+while casting.
+Undocumented:
+Now goes on cooldown if
+Lux
+dies while casting.
+V10.3
+Lucent Singularity
+Bug Fix:
+Now also grants fog of war and brush vision if the abilty's edges are inside it.
+V10.2
+Lucent Singularity
+Bug Fix:
+Now grants fog of war and brush vision only if the ability's center is inside it, from always granting it.
+V9.24
+General
+New visual effects.
+Basic attacks cleaned up the missile and impact.
+Cleaned up and improved the staff effects when she is idle.
+All skins cleaned up and made to match the base kit changes.
+Illumination
+Cleaned up.
+Light Binding
+Added a subtle effect to better show the width of the missile, sparkles, and rainbows.
+Prismatic Barrier
+Cleaned up and added a subtle missile width indicator for when it goes out.
+Lucent Singularity
+Completely revamped and cleaned up the charge and explosion effects.
+Final Spark
+Completely overhauled with indicator lines on both sides to show the actual width of the beam and a line at the end to show the actual range.
+Steel Legion Lux
+Light Binding
+Cleaned up the lightning effects on the missile.
+Lucent Singularity
+Cleaned up the lightning effects on the explosion.
+Final Spark
+Cleaned up the lightning effects on the beam.
+V9.20
+Illumination
+Bug Fix:
+Is now properly tagged as a single target ability.
+V9.16
+Prismatic Barrier
+Shield strength increased to 50 / 75 / 100 / 125 / 150 from 50 / 65 / 80 / 95 / 110.
+V9.15
+Final Spark
+Bug Fix:
+Cooldown timer now properly appears when she dies during cast.
+V9.14
+- July 17th Hotfix
+Illumination
+Bug Fix:
+No longer gains additional Keystone Runes stacks when triggering
+Illumination
+on a target.
+V9.14
+Light Binding
+Cooldown changed to 13 / 12 / 11 / 10 / 9 seconds from 10 at all ranks.
+Mana cost changed to 50 at all ranks from 40 / 45 / 50 / 55 / 60.
+Prismatic Barrier
+Removed:
+No longer doubles shield strength upon return.
+Shield AP ratio increased to
+30% AP
+from
+20% AP
+.
+Shield duration reduced to 2.
+5
+seconds from 3.
+Final Spark
+Removed:
+No longer refunds 30 / 40 / 50% of cooldown if
+Final Spark
+hits at least one enemy champion that dies within 1.
+75
+seconds.
+Cooldown reduced to 80 / 60 / 40 seconds from 80 / 65 / 50.
+AP ratio increased to
+100% AP
+from
+75% AP
+.
+V9.5
+Lunar Empress Lux
+Bug Fix:
+Textures no longer becomes corrupted upon death.
+V9.4
+General
+Base run animation updated.
+V9.2
+Prismatic Barrier
+Bug Fix:
+Basic attack no longer cancels if issued the moment
+Prismatic Barrier
+reaches maximum range.
+Final Spark
+Removed:
+No longer uses minimap targeting.
+V9.1
+Lucent Singularity
+New Effect:
+Ability icon border now shows the remaining time to recast the ability.
+Final Spark
+New Effect:
+Can now ping whether the ability is within range or not.
+V8.9
+Stats
+Health growth reduced to 85 from 91.
+Base mana increased to 480 from 384.
+Mana growth reduced to 23.
+5
+from 47.
+Base mana regeneration increased to 8 from 6.
+New:
+Now has 7% bonus attack speed at level 1.
+Attack speed growth reduced to 1% from 1.
+36
+%.
+Light Binding
+Base damage increased to 70 / 115 / 160 / 205 / 250 from 50 / 100 / 150 / 200 / 250.
+Cooldown reduced to 10 seconds at all ranks from 13 / 12.
+5
+/ 12 / 11.
+5
+/ 11.
+Mana cost reduced to 40 / 45 / 50 / 55 / 60 from 50 / 55 / 60 / 65 / 70.
+Prismatic Barrier
+Returning wand now always shields for twice as much, instead of needing to hit an ally first.
+Now shields herself and fires the missile at the start of cast, instead of after the 0.
+25
+second cast time. She is still rooted for the cast time.
+Lucent Singularity
+Missile speed reduced to 1200 from 1300.
+Radius reduced to 310 from 350.
+Mana cost reduced to 70 / 80 / 90 / 100 / 110 from 70 / 85 / 100 / 115 / 130.
+Cooldown reduced to 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8 seconds from 10 at all ranks.
+V8.8
+Elementalist Lux
+Light Binding
+Bug Fix:
+No longer fade out prematurely when compared to other
+Lux
+skins.
+V8.7
+General
+Bug Fix:
+Once again has her shiny staff VFX.
+Final Spark
+Cooldown refund increased to 30 / 40 / 50% from 10 / 30 / 50%.
+New Effect:
+Cooldown refund now also applies on enemy champions who die within 1.
+75
+seconds of being hit by
+Final Spark
+.
+Spellthief Lux
+,
+Sorceress Lux
+,
+Commando Lux
+, and
+Imperial Lux
+Bug Fix:
+Once again have their shiny staff VFX.
+Lunar Empress Lux
+Bug Fix:
+Once again has her light VFX on death.
+V8.5
+Light Binding
+Bug Fix:
+Projectile now visually disappears after it hits a second target, since it doesn't actually do anything after that point.
+V8.3
+Stats
+Base health regeneration increased to 5.
+5
+from 5.
+4
+.
+V8.2
+Star Guardian Lux
+Bug Fix:
+Staff is no longer missing its glow.
+V8.1
+Elementalist Lux
+Final Spark
+Bug Fix:
+Water form VFX have been restored.
+Light Binding
+Bug Fix:
+Fire form VFX have been restored.
+V7.23
+Stats
+Base attack damage reduced to 53.
+54
+from 53.
+544
+.
+Base health regeneration reduced to 5.
+4
+from 5.
+424
+.
+V7.22
+Stats
+Base health increased to 490 from 477.
+72
+.
+Health growth increased to 91 from 79.
+V7.15
+Light Binding
+Cooldown reduced to 13 / 12.
+5
+/ 12 / 11.
+5
+/ 11 seconds from 15 / 14 / 13 / 12 / 11.
+Prismatic Barrier
+New Effect:
+Hitting an ally with
+Prismatic Barrier
+as it's going out doubles the shield granted when it's coming back.
+Empowered Shield:
+100 / 130 / 160 / 190 / 230
+(+ 40% AP)
+V7.13
+Elementalist Lux
+Bug Fix:
+Can now click the same element in both transform phases.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.7
+Final Spark
+New Effect:
+If
+Final Spark
+kills an enemy champion, 10 / 30 / 50% of its cooldown is refunded.
+V7.6
+General
+New voice over.
+V7.3
+Elementalist Lux
+Lucent Singularity
+Bug Fix:
+Fixed a bug where it had no particles for its inner orb.
+V7.1
+General
+Bug Fix:
+Fixed an issue where the tails of Fire form
+Elementalist Lux's
+dress disappeared during some animations.
+Prismatic Barrier
+Adjusted
+Elemetalist Lux's
+shield visuals on several forms to maintain similar levels of brightness and noise.
+Bug Fix:
+Star Guardian Lux's
+wand no longer gets briefly stuck at the max range of
+Prismatic Barrier
+.
+Lucent Singularity
+Missile has been adjusted to better distinguish it from
+Elementalist Lux's
+other effects. It's now primarily swirling ribbons of light.
+Final Spark
+Warning indicator on
+Elementalist Lux's
+Final Spark
+adjusted to be immediately visible on-cast, rather than brightening over the duration.
+V6.24
+General
+Bug Fix:
+Repositioned
+Elementalist Lux's
+animated splash in Champion Select on the updated client.
+Bug Fix:
+Elementalist Lux's
+Origin loading screen border is no longer obfuscated by ranked borders.
+Bug Fix:
+Fixed a few bugs with
+Elementalist Lux's
+transformation menu.
+Bug Fix:
+Fixed a gap in
+Elementalist Lux's
+Fire
+form flame collar VFX.
+Prismatic Barrier
+Implemented colorblind improvements for
+Elementalist Lux's
+Fire
+and
+Magma
+form shields.
+V6.23
+Final Spark
+Clarity:
+Cast indicator line has been widened to be easier to read.
+V6.18
+Lucent Singularity
+Slow increased to 25 / 30 / 35 / 40 / 45% from 20 / 24 / 28 / 32 / 36%.
+V6.16
+Final Spark
+Bug Fix:
+Fixed a bug where it wasn't dealing damage to champions it hit if
+Lux
+couldn't see them.
+V6.15
+General
+New splash artwork for
+Spellthief Lux
+.
+V6.14
+Illumination
+Base damage increased to
+20 − 190 (based on level)
+from
+18 − 154 (based on level)
+Light Binding
+Base damage reduced to 50 / 100 / 150 / 200 / 250 from 60 / 110 / 160 / 210 / 260.
+V6.12
+Final Spark
+Bug Fix:
+Fixed a visual bug where Lux would appear to cast multiple lasers in rapid succession (only the last one was real).
+V6.7
+Prismatic Barrier
+Projectile speed updated to be slightly slower as it goes out but much faster on return.
+V6.6
+Prismatic Barrier
+Base shield strength reduced to 50 / 65 / 80 / 95 / 110 from 80 / 105 / 130 / 155 / 180.
+AP ratio reduced to
+20% AP
+from
+35% AP
+.
+New Effect:
+Shield stacks when it passes through the same ally when going from and then back to Lux, for a total 100 / 130 / 160 / 190 / 220
+40% AP
+maximum shield.
+New Effect:
+Projectile decelerates on the way out and accelerates on the way back.
+V6.3
+General
+New ability icons.
+V5.17
+Light Binding
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 50 / 60 / 70 / 80 / 90.
+Removed:
+Reduced damage and reduced root duration for secondary target.
+V5.12
+Prismatic Barrier
+New Effect:
+Lux now gains her initial shield instantaneously instead of after the 0.
+25
+second cast time.
+Lucent Singularity
+Slow zone radius increased to 350 from 300.
+New Effect:
+Can be re-activated while in-flight to immediately detonate upon arrival.
+V5.6
+Final Spark
+Bug Fix:
+Fixed a bug where triggering Illumination with Final Spark didn't add Illumination's AP ratio to the detonation.
+V4.13
+General
+Splash artwork for
+Sorceress Lux
+updated to the Chinese art.
+Illumination
+Base damage reduced to
+18 − 154 (based on level)
+from
+20 − 190 (based on level)
+.
+New:
+20% AP
+scaling.
+V4.5
+Stats
+Base armor increased to 12 from 8.
+V4.4
+Final Spark
+New Effect:
+Maximum range indicator added to map when Highlighting the ability icon.
+V4.1
+Final Spark
+Cooldown start changed to after cast time from on-cast.
+Removed:
+No longer goes on cooldown if Lux dies while casting.
+V3.8
+Lucent Singularity
+Slow refresh rate reduced to 0.
+25
+seconds.
+New Effect:
+Applies a 0.
+25
+seconds slow to targets hit by the detonation.
+V3.5 (Balance update)
+Stats
+Movement speed reduced to 330 from 340.
+Final Spark
+Cooldown increased to 80 / 65 / 50 seconds from 80 / 60 / 40.
+V1.0.0.152
+Stats
+Movement speed increased to 340 from 315.
+V1.0.0.151
+Final Spark
+Bug Fix:
+Visual effects no longer appear at the wrong angle if aimed beyond the edge of the map.
+V1.0.0.148
+General
+New splash artwork for
+Original Lux
+.
+V1.0.0.145
+Final Spark
+Renamed from
+Infinite Light
+.
+V1.0.0.144
+Infinite Light
+Renamed from
+Finales Funkeln
+.
+V1.0.0.142
+Stats
+Base mana regen per 5 seconds increased to 6.
+6
+from 5.
+6
+.
+Light Binding
+Mana cost reduced to 50 / 60 / 70 / 80 / 90 from 60 / 75 / 90 / 105 / 120.
+Finales Funkeln
+Mana cost reduced to 100 at all ranks from 100 / 150 / 200.
+New Effect:
+Cast range now displays on the minimap.
+V1.0.0.138
+Lucent Singularity
+Bug Fix:
+Fixed a bug where its cooldown was 11 seconds instead of 10.
+V1.0.0.135
+Lucent Singularity
+New Effect:
+Grants vision while in flight.
+Cooldown start changed to on-cast from upon detonation.
+Cooldown increased to 10 seconds from 9.
+New Effect:
+Buff displaying duration remaining till automatic detonation.
+Finales Funkeln
+New Effect:
+Grants vision of affected area during cast time as well as of enemy champions hit for a short duration afterwards.
+Lux can no longer
+Flash
+while casting
+Finales Funkeln
+.
+V1.0.0.131
+Prismatic Barrier
+Base shield strength increased to 80 / 105 / 130 / 155 / 180 from 60 / 85 / 110 / 135 / 160.
+Missile speed increased to 1400 from 1200.
+Lucent Singularity
+Cooldown reduced to 9 seconds from 10.
+V1.0.0.125
+Illumination
+Bug Fix:
+Now properly displays numbers in its tooltip as it updates.
+V1.0.0.123
+Stats
+Basic attack updated to be more responsive.
+Basic attack missile speed increased.
+Light Binding
+Cooldown reduced to 15 / 14 / 13 / 12 / 11 seconds from 16 / 15 / 14 / 13 / 12.
+V1.0.0.113
+Prismatic Barrier
+Base shield strength increased to 60 / 85 / 110 / 135 / 160 from 50 / 75 / 100 / 125 / 150.
+Finales Funkeln
+AP ratio reduced to
+75% AP
+from
+85% AP
+.
+V1.0.0.109
+Stats
+Bug Fix:
+Fixed a bug that caused Lux to have 0 base mana regen.
+V1.0.0.105
+Prismatic Barrier
+AP ratio increased to
+35% AP
+from
+30% AP
+.
+Mana cost reduced to 60 from 75.
+Missile width increased by 22%.
+Bug Fix:
+AP ratio being lower than stated in tooltip.
+Lucent Singularity
+Slow increased to 20 / 24 / 28 / 32 / 36% from 14 / 18 / 22 / 26 / 30%.
+Detonation radius increased to 350 from 300.
+Bug Fix:
+Tooltip displaying incorrect values.
+Finales Funkeln
+New Effect:
+Detonates and reapplies
+Illumination
+.
+V1.0.0.104
+General
+PVP.net tags and character ratings updated.
+Recommended items updated.
+Finales Funkeln
+AP ratio increased to
+85% AP
+from
+75% AP
+.
+V1.0.0.103
+Illumination
+(Innate)
+Lux's damaging spells illuminate the target for 6 seconds. Lux's next attack ignites the debuff, dealing magic damage to the target.
+Light Binding
+(Q)
+Fires a ball of light towards a target location, binding the units hit. The units take magic damage. Can hit up to two targets with the second target receiving a reduced effect.
+Prismatic Barrier
+(W)
+Lux throws her wand and bends the light around any friendly target it touches, protecting them from enemy damage.
+Lucent Singularity
+(E)
+Creates a zone that slows enemy units (zone lasts 5 seconds). Can be detonated to deal magic damage to enemies in the area.
+Finales Funkeln
+(Ultimate)
+After a short delay, Lux fires a beam of light in front of her dealing damage to all enemy units in the area.
+Trivia
+[
+edit
+|
+edit source
+]
+Luxanna
+comes from Latin word for light,
+lux
+.
+Lux's ultimate has had three names, all referencing
+Marisa Kirisame
+from
+Touhou Project
+.
+Finales Funkeln
+(German: 'final sparkle') (
+V1.0.0.103
+-
+V1.0.0.144
+)
+Infinite Light
+(
+V1.0.0.144
+-
+V1.0.0.145
+)
+Final Spark
+(
+V1.0.0.145
+- present, references Marisa Kirisame's
+Last Spell
+in Imperishable Night)
+Final Spark
+also references
+Final Flash
+by
+Vegeta
+from
+Dragon Ball Z
+.
+The Lady of Luminosity
+might come from
+Luminance Fräulein
+("Lady" in German) (an ability name during production).
+Lux,
+Ezreal
+, and
+Katarina
+are the only champions to be visually redesigned between being announced and being released (Lux's was
+conceived
+by
+NA Summoner 'Katertot'
+aka
+Katie 'TeaTime' De Sousa
+).
+Lux -
+Garen
+is one of seven pairs of sibling champions (the others being
+Cassiopeia
+-
+Katarina
+,
+Kayle
+-
+Morgana
+,
+Nasus
+-
+Renekton
+,
+Yasuo
+-
+Yone
+,
+Darius
+-
+Draven
+, and
+Vi
+-
+Jinx
+).
+Though not a pair,
+Anivia
+,
+Ornn
+, and
+Volibear
+are also siblings.
+The
+ward skin
+Luminosity Ward
+is her classic staff.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Burst
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Burst Mages
+aim to single out vulnerable targets by locking them down and following up with a devastating barrage of damage from range. They are strongest when using their full suite of spells executed perfectly to maximum effect, and most vulnerable when they cannot deliver.
+Examples
+Annie
+Syndra
+Veigar
+League of Legends content
+Artillery
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Artillery Mages
+are the masters of range, and they leverage that advantage to whittle down their opponents over time from great distances. In turn, Artillery Mages are severely punished when enemies finally succeed in closing in on them, due to their extreme fragility and limited mobility.
+Examples
+Jayce
+Xerath
+Ziggs
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Final Spark
+COOLDOWN:
+60 / 50 / 40
+Active:
+Lux
+fires a massive laser in a line in the target direction that deals
+magic damage
+and briefly
+reveals
+enemies hit.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Root
+A unit that is
+rooted
+is unable to control its movement or activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Rooted
+units can still be displaced.
+Root
+is an
+immobilizing
+effect
+.
+Moving
+includes movement commands.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Wind Wall
+COOLDOWN:
+25 / 23 / 21 / 19 / 17
+Active:
+Yasuo
+raises a wind wall that drifts in the target direction for a few seconds, blocking all enemy
+projectiles
+that hit it.
+League of Legends content
+Blade Whirl
+COOLDOWN:
+30 / 28 / 26 / 24 / 22
+Active:
+Samira
+briefly spins her blade twice, dealing
+physical damage
+to nearby enemies each time. During this time, she destroys all incoming enemy
+projectiles
+.
+League of Legends content
+Unbreakable
+COOLDOWN:
+16 / 14 / 12 / 10 / 8
+Active:
+Braum
+sets his shield in a direction for a few seconds, intercepting any enemy
+projectiles
+to hit him and be destroyed.
+He gains damage reduction and negates the first instance of damage dealt by a champion completely from this direction.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Standard sight
+Standard sight
+reveals units through
+fog of war
+and
+brush
+, but
+not
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Lucent Singularity
+COOLDOWN:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8
+Active:
+Lux
+sends a lucent singularity to the target location that lasts for a few seconds and slows enemies within.
+Lucent Singularity
+can be recast within this time, and does so automatically after the duration.
+Recast:
+Lux
+detonates the singularity, dealing
+magic damage
+to enemies within.
+League of Legends content
+Light Binding
+COOLDOWN:
+11 / 10.
+5
+/ 10 / 9.
+5
+/ 9
+Active:
+Lux
+shoots a sphere of light in the target direction that deals
+magic damage
+to the first two enemies hit and
+roots
+them for a short time.
+References
+[
+edit
+|
+edit source
+]
+↑
+Lux's profile page
+at
+LeagueOfLegends.com

@@ -1,0 +1,2085 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Nami
+the Tidecaller
+Release date
+2012-12-07
+Last changed
+V14.20
+Class(es)
+Enchanter
+Legacy
+Support
+Mage
+Position(s)
+Support
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+1
+Toughness
+1
+Control
+3
+Mobility
+1
+Utility
+2
+Style
+Difficulty
+Nami
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Nami
+Base statistics
+Edit
+Health
+560
++88
+Mana
+365
++43
+Health regen. (per 5s)
+5.5
++0.55
+Mana regen. (per 5s)
+11.5
++0.4
+Armor
+29
++5.2
+Attack damage
+54
++3.1
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+550
+Attack speed
+Base AS
+0.644
+Attack windup
+18%
+AS ratio
+N/A
+Bonus AS
++2.61
+%
+Missile speed
+1500
+Unit radius
+Gameplay radius
+65
+Selection radius
+125
+Pathing radius
+35
+Acq. radius
+600
+Special statistics
+Damage Dealt
+-5%
+Damage Received
++5%
+Healing
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++5%
+Damage Received
+-7%
+Healing
++20%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Surging Tides
+Innate:
+Nami's
+abilities grant a burst of
+movement speed
+to allied champions hit. The bonus is doubled from
+Tidal Wave
+.
+Innate:
+Nami's
+abilities
+grant
+100
+(+ 25% AP)
+bonus
+movement speed
+to allied
+champions
+hit, decaying over 1.
+5
+seconds. The bonus is
+「 doubled 」
+「 increased to
+200
+(+ 50% AP)
+」
+from
+Tidal Wave
+.
+Info
+Targeting input
+Passive
+Tidal Wave
+uses a separate empowered buff that has priority over the normal buff, and it will be used even if the full/current strength of the empowered buff is weaker than the full-strength normal buff.
+If the normal buff remains ongoing when the empowered buff expires, it will then begin with full strength and completely decay over its
+remaining
+duration.
+Edit
+Aqua Prison
+COST:
+60 mana
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+CAST TIME:
+0.
+25
+TARGET RANGE:
+850
+*
+EFFECT RADIUS:
+200
+/
+225
+Active:
+Nami
+tosses a bubble that lands at the target location, dealing
+magic damage
+to enemies within as well as briefly
+revealing
+and
+suspending
+them.
+Suspension
+The target is stunned, but also marked as
+airborne
+. Suspension can be reduced by
+Tenacity
+.
+Active:
+Nami
+launches a bubble at the target location that lands
+after
+0.
+726
+seconds
+, dealing
+magic damage
+to enemies hit and
+suspending
+them for 1.
+5
+seconds, during which they are
+revealed
+.
+Magic Damage:
+90 / 145 / 200 / 255 / 310
+(+ 50% AP)
+Allied champions are granted
+Surging Tides
+in a slightly larger area.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+The combined time from the start of the cast time to the bubble landing is
+0.
+264
+seconds
++
+0.
+726
+seconds
+= 0.99 seconds.
+Aqua Prison
+provides the status effect that allows
+Last Breath
+to be cast.
+[2]
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio changed to
+70% AP
+.
+Edit
+Ebb and Flow
+COST:
+70 / 75 / 80 / 85 / 90 mana
+COOLDOWN:
+10
+CAST TIME:
+0.
+25
+TARGET RANGE:
+725
+EFFECT RADIUS:
+800
+Active:
+Nami
+unleashes a stream of water onto the target champion or herself, which then bounces to nearby champions up to twice, alternating between enemies and allies and Nami.
+Ebb and Flow
+heals
+allies and deals
+magic damage
+to enemies, with subsequent bounces becoming less potent.
+Active:
+Nami
+unleashes a stream of water onto the target champion or herself, which then bounces to nearby unaffected champions up to twice, alternating between enemies and allies and
+Nami
+.
+Ebb and Flow
+heals
+allies and deals
+magic damage
+to enemies, with each bounce modifying the effectiveness of the next by -10%
+(+ 10% per 100 AP)
+.
+Heal:
+55 / 80 / 105 / 130 / 155
+(+ 40% AP)
+Minimum Heal:
+44 / 64 / 84 / 104 / 124
+(+ 32% AP)
+Magic Damage:
+60 / 95 / 130 / 165 / 200
+(+ 50% AP)
+Minimum Damage:
+48 / 76 / 104 / 132 / 160
+(+ 40% AP)
+Info
+Targeting input
+Unit
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+If cast on an enemy with a
+spell shield
+they will not take damage but
+Ebb and Flow
+will still continue to bounce, and the target who blocked the ability may be targeted again by the final bounce.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 65 / 100 / 135 / 170 / 205.
+Damage AP ratio changed to
+65% AP
+.
+Base heal changed to 70 / 100 / 130 / 160 / 190.
+Heal AP ratio changed to
+30% AP
+.
+Edit
+Tidecaller's Blessing
+COST:
+55 / 60 / 65 / 70 / 75 mana
+COOLDOWN:
+11
+CAST TIME:
+none
+TARGET RANGE:
+800
+Active:
+Nami
+blesses herself or an allied champion for a few seconds, empowering their next three basic attacks or abilities to deal
+bonus
+magic damage
+and briefly
+slow
+enemies.
+Active:
+Nami
+blesses herself or an allied champion for 6 seconds, empowering their next 3
+basic attacks
+or
+abilities
+to each deal
+bonus
+magic damage
+and
+slow
+enemies for 1 second.
+Bonus Magic Damage Per Hit:
+20 / 30 / 40 / 50 / 60
+(+ 20% AP)
+Total Bonus Magic Damage:
+60 / 90 / 120 / 150 / 180
+(+ 60% AP)
+Slow:
+15 / 20 / 25 / 30 / 35%
+(+ 5% per 100 AP)
+Empowered abilities that apply
+area damage
+only deal
+33% − 66% (based on level)
+of the
+bonus
+damage to non-champions.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Proc damage
+Sub-type
+Magic
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Tidecaller's Blessing
+has a
+forgiveness radius
+of 175 units.
+The effect will not trigger against
+structures
+nor
+wards
+.
+The empowerment given to allies respects
+enchantment redirection
+.
+Damage instances of
+Tidecaller's Blessing
+beyond the first do not count as separate applications for the purposes of
+Electrocute
+and
+Phase Rush
+.
+Tips & Tricks
+Allied champions can apply
+Imperial Mandate's
+Coordinated Fire
+and trigger it on subsequent attacks on their own if
+Nami
+owns the item and empowers the ally with
+Tidecaller's Blessing
+.
+Edit
+Tidal Wave
+COST:
+100 mana
+COOLDOWN:
+120 / 110 / 100
+CAST TIME:
+0.
+5
+TARGET RANGE:
+2750
+EFFECT RADIUS:
+750
+WIDTH:
+500
+SPEED:
+850
+Active:
+Nami
+surges a tidal wave in the target direction that deals
+magic damage
+and briefly knocks up enemies hit. The wave also
+slows
+enemies based on the distance traveled.
+Active:
+Nami
+surges a tidal wave in the target direction, granting
+sight
+around its trajectory as it travels, dealing
+magic damage
+to enemies hit,
+knocking them up
+for
+0.
+5
+seconds, and
+slowing
+them by 70% for
+2 − 4 (based on distance traveled)
+seconds.
+Magic Damage:
+150 / 250 / 350
+(+ 60% AP)
+"Oceans, spill forth!"
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+This ability will cast from wherever the caster is at the end of the cast time.
+Surging Tides
+will trigger immediately on
+Nami
+on-cast.
+The wave travels over
+3.
+267
+seconds
+.
+Type
+Cast time
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Nami (Collection)
+.
+Original
+View in 3D
+880
+07.12.2012
+A headstrong young vastaya of the seas, Nami was the first of the Marai tribe to leave the waves and venture onto dry land, when their ancient accord with the Targonians was broken. With no other option, she took it upon herself to complete the sacred ritual that would ensure the safety of her people. Amidst the chaos of this new age, Nami faces an uncertain future with grit and determination, using her Tidecaller staff to summon the strength of the oceans themselves.
+Cassandra Lee Morris
+Michelle Hoefener
+Loot eligible
+Koi
+View in 3D
+975
+07.12.2012
+Cassandra Lee Morris
+Michelle Hoefener
+Legacy
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Koi Nami Chromas
+Smoke
+Sunbeam
+Twilight
+River Spirit
+View in 3D
+975
+01.06.2014
+Once upon a time, a young farmer was enchanted by music coming from the deep jungle, and followed it to the grove of a river spirit. Overcome by her beauty, he went to embrace her—and was dragged screaming into the emerald waters below, never to be seen again.
+Cassandra Lee Morris
+Michelle Hoefener
+Fables
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Urf the Nami-tee
+View in 3D
+750
+31.03.2015
+Nami doesn't quite understand the concept of Urf, but was told to don her apparel in honor of the great manatee known as Urf. She's happy to lounge around with her fellow manatee and manatee aficionados, but is quite perplexed as to why she's being shot out of a cannon.
+Cassandra Lee Morris
+Unknown artist
+Urf the Manatee
+Loot eligible
+Deep Sea
+View in 3D
+1350
+29.06.2016
+“I saw her! Where light ceases and one is alone with the cold darkness and the sea, she appeared before me—a wordless, ancient thing, pulsing with an unearthly luster as vicious shapes twisted in the gloom beyond.”
+Cassandra Lee Morris
+Alvin Lee
+Forgotten Depths
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+SKT T1
+View in 3D
+1350
+27.06.2017
+Honoring Wolf's winning performance as Nami during the 2016 World Championship. This is Wolf's second World Champion skin, following his win with SKT at the 2015 World Championship.
+Cassandra Lee Morris
+Alvin Lee
+World Champions: 2016
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Program
+View in 3D
+1350
+15.11.2018
+An aquatic search and rescue med-bot whose manufacturer was acquired in an aggressive corporate takeover, Nami has been irreversibly changed by the directives of Program. For now, she continues in her primary function… though her behavior has become increasingly erratic.
+Cassandra Lee Morris
+Pyeongjun Park
+Program
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Program Nami Chromas
+Amethyst
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Splendid Staff
+View in 3D
+1350
+26.09.2019
+When the demigoddess Irelia was bested by a heavenly empress, the seal over Talon's draconic power began to weaken… allowing some of his magic to leak into the world. Once a mere fish who dreamed of being a dragon, Nami has received some of this power, and has found her true form beginning to awaken.
+Cassandra Lee Morris
+Jessica 'OwleyCat' Oyhenart
+Immortal Journey
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Splendid Staff Nami Chromas
+Aquamarine
+Citrine
+Heavenly Crane
+Pearl
+Peridot
+Rose Quartz
+Ruby
+Tanzanite
+Cosmic Destiny
+View in 3D
+1350
+24.11.2020
+The bringer of life, Nami is charged with scattering the seeds of 'Élan vital' on the newborn, cold lifeless rocks and planets that appear with the birth of new stars and constellations.
+Cassandra Lee Morris
+West Studio
+Cosmic
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Cosmic Destiny Nami Chromas
+Amethyst
+Emerald
+Obsidian
+Rainbow
+Rose Quartz
+Ruby
+Turquoise
+Bewitching
+View in 3D
+1350
+07.10.2021
+Bobbing for apples is certainly a lot more challenging when Nami brings the tides with her to the party. The apples don't bite back, but the pumpkin-fish do!
+Cassandra Lee Morris
+West Studio
+Bewitching
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Bewitching Nami Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Space Groove
+View in 3D
+1350
+17.11.2022
+Fashioning herself as the Siren of the Cosmic Hot Tub, Nami's songs have crowds from across the galaxy flocking to catch one of her sets. So when the organizers of The Jam asked her to perform her songs at the most stellar of interstellar discos, her enthusiastic “Yes!” was a no-brainer.
+Cassandra Lee Morris
+Huyy Nguyen, West Studio
+Space Groove
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Space Groove Nami Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Prestige Space Groove
+View in 3D
+Special
+17.11.2022
+Nami has been serving up splashy looks at the Gala for a long time and has never been one to swim with the current trends. This season, she's showcasing her musical side, hoping to push the show to a new, groovier beat. With a stage as nice as the Gala's, why not dance on it?
+Cassandra Lee Morris
+Marie Magny, West Studio
+Space Groove
+Loot ineligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Space Groove
+. Store variants are discounted for multiple purchases.
+Coven
+View in 3D
+1820
+11.10.2023
+They called to Nami from the deep, their voice carrying a promise of power greater than any she had ever known. All Nami needed to do was feed it. She has now forsaken her oaths, her coven, spending endless nights lurking just below the murky waterways of the Elderwood in search of her next sacrifice to the Leviathan.
+Cassandra Lee Morris
+Joshua Raphael, West Studio
+Coven
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+Coven Nami Chromas
+Catseye
+Emerald
+Pearl
+Profane
+Ruby
+Sapphire
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.20
+Tidecaller's Blessing
+New Effect:
+Cast now has a forgiveness radius of 175 units.
+V14.11
+Stats
+Base attack damage increased to 54 from 51.
+Ebb and Flow
+Mana cost reduced to 70 / 75 / 80 / 85 / 90 from 70 / 80 / 90 / 100 / 110.
+Tidal Wave
+Slow increased to 70% at all ranks from 50 / 60 / 70%.
+V14.7
+Ebb and Flow
+Initial base damage reduced to 60 / 95 / 130 / 165 / 200 from 60 / 100 / 140 / 180 / 220.
+Initial damage AP ratio reduced to
+50% AP
+from
+55% AP
+.
+Initial base heal increased to 55 / 80 / 105 / 130 / 155 from 55 / 75 / 95 / 115 / 135.
+Initial heal AP ratio increased to
+40% AP
+from
+25% AP
+.
+Base bounce effectiveness reduced to -10% from -15%.
+Bounce effectiveness AP ratio increased to
+10% per 100 AP
+from
+7.
+5
+% per 100 AP
+.
+Tidecaller's Blessing
+Base damage per hit reduced to 20 / 30 / 40 / 50 / 60 from 20 / 35 / 50 / 65 / 80.
+Total base damage reduced to 60 / 90 / 120 / 150 / 180 from 60 / 105 / 150 / 195 / 240.
+V14.2
+Tidal Wave
+New Effect:
+Missile now spawns from slightly behind her.
+V13.21
+Tidecaller's Blessing
+Damage now triggers
+Nami's
+own damage effects but still grants kill credit to the ally applying it.
+Coven Nami
+Tidal Wave
+Bug Fix:
+Ability SFX is now properly audible when it is launched from the fog of war.
+V13.20
+General
+Undocumented:
+Bug Fix:
+Deep Sea Nami
+voice lines and VFX are no longer global.
+V13.18
+General
+Updated ability icons.
+V13.15
+Surging Tides
+Base bonus movement speed increased to 100 from 90.
+AP ratio increased
+25% AP
+from
+20% AP
+.
+Aqua Prison
+Base damage increased to 90 / 145 / 200 / 255 / 310 from 75 / 130 / 185 / 240 / 295.
+V13.4
+Aqua Prison
+Bug Fix:
+Red ring indicator in the enemy's perspective is much clearer.
+V13.1b
+Ebb and Flow
+Base damage reduced to 60 / 100 / 140 / 180 / 220 from 70 / 110 / 150 / 190 / 230.
+Damage AP ratio increased to
+55% AP
+from
+50% AP
+.
+Tidecaller's Blessing
+Base damage per hit reduced to 20 / 35 / 50 / 65 / 80 from 25 / 40 / 55 / 70 / 85.
+V12.17
+Tidecaller's Blessing
+Removed:
+Subsequent damage instances are no longer considered separate applications for the purposes of
+Electrocute
+and
+Phase Rush
+.
+V12.16
+General
+Adjusted splash artwork for
+Urf the Nami-tee
+.
+V12.10
+Stats
+Base health increased to 560 from 490.
+Health growth increased to 88 from 74.
+Armor growth increased to 5.
+2
+from 4.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+General
+Updated visual effects.
+Ebb and Flow
+Base heal reduced to 55 / 75 / 95 / 115 / 135 from 60 / 85 / 110 / 135 / 160.
+Heal AP ratio reduced to
+25% AP
+from
+30% AP
+.
+Original Nami
+Complete overhaul.
+Koi Nami
+Recolored from base.
+River Spirit Nami
+Recolored from base.
+Urf the Nami-tee
+Same as new base.
+Deep Sea Nami
+Changes to mirror new base.
+SKT T1 Nami
+Changes to mirror new base.
+Program Nami
+Minor changes.
+V12.4
+Tidecaller's Blessing
+Base damage per hit increased to 25 / 40 / 55 / 70 / 85 from 20 / 35 / 50 / 65 / 80.
+V12.3
+Surging Tides
+Base bonus movement speed increased to 90 from 45.
+Base bonus movement speed granted by
+Tidal Wave
+increased to 180 from 90.
+New Effect:
+Bonus movement speed now decays over the duration.
+Tidecaller's Blessing
+Base damage per hit reduced to 20 / 35 / 50 / 65 / 80 from 25 / 40 / 55 / 70 / 85.
+V11.17
+Stats
+Base health increased to 490 from 475.
+Ebb and Flow
+Mana cost reduced to 70 / 80 / 90 / 100 / 110 from 70 / 85 / 100 / 115 / 130.
+V11.1
+Stats
+Base attack damage reduced to 51 from 51.
+208
+.
+V10.25
+Ebb and Flow
+Bug Fix:
+Now properly grants allies with movement speed from
+Surging Tides
+.
+V10.23
+Tidecaller's Blessing
+Undocumented:
+When cast on an ally now applies
+Nami's
+own spell effects rather than the cast target one's (e.g.
+Electrocute
+,
+Imperial Mandate
+,
+Font of Life
+).
+V10.21
+Ebb and Flow
+Bug Fix:
+Corrected the AP ratio in the tooltip from
+150% AP
+to
+50% AP
+.
+V10.18
+Tidecaller's Blessing
+Bug Fix:
+When she kills the
+Rift Scuttler
+using an empowered basic attack, the Speed Shrine is no longer treated as her ability, stopping allied champions from receiving buffs like
+Summon Aery
+by walking through it.
+V10.9
+Stats
+Base health reduced to 475 from 489.
+32
+.
+Base mana reduced to 365 from 377.
+24
+.
+Surging Tides
+Base bonus movement speed reduced to 45 from 60.
+V10.1
+Tidecaller's Blessing
+New Effect:
+Now also empowers abilities to deal bonus magic damage and apply the slow.
+New Effect:
+Empowered area-of-effect abilities only deal
+33% − 66% (based on level)
+of the bonus damage to non-champions.
+V9.2
+Tidal Wave
+Removed:
+No longer uses minimap targeting.
+V8.20
+Ebb and Flow
+Base heal reduced to 60 / 85 / 110 / 135 / 160 from 65 / 95 / 125 / 155 / 185.
+V8.17
+Deep Sea Nami
+Bug Fix:
+No longer leaves her spine behind while moving during her recall animation.
+V8.8
+General
+Bug Fix:
+Laugh VFX once again play properly when emote is used.
+V8.7
+SKT T1 Nami
+Bug Fix:
+Recall signature has been restored.
+V8.3
+Stats
+Base health regeneration increased to 5.
+5
+from 5.
+424
+.
+V8.2
+Ebb and Flow
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V8.1
+River Spirit Nami
+Tidecaller's Blessing
+Bug Fix:
+Orbs are no longer offset during rotation.
+V7.22
+Stats
+Base armor increased to 29 from 19.
+72
+.
+River Spirit Nami
+Tidecaller's Blessing
+Bug Fix:
+On-hit SFX has been restored.
+V7.21
+Tidecaller's Blessing
+Bug Fix:
+Base skin and all her other skins properly play the correct SFX for auto-attacks empowered by
+Tidecaller's Blessing
+. The audio has actually been tweaked and made more apparent as well.
+V7.19
+River Spirit Nami
+Bug Fix:
+No longer has misplaced VFX on her staff.
+V7.15
+Aqua Prison
+Cooldown reduced to 12 / 11 / 10 / 9 / 8 seconds from 14 / 13 / 12 / 11 / 10.
+V7.14
+SKT T1 Nami
+Bug Fix:
+Hair no longer twitches at the start of one of her idle animations.
+V7.9
+May 4th Hotfix
+General
+New Effect:
+Attack animations have received non-gameplay impacting adjustments.
+New Effect:
+Basic attack visual and sound effects have been adjusted.
+Tidecaller's Blessing
+New Effect:
+Nami
+now uses crit animation while under the effect of
+Tidecaller's Blessing
+.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.4
+Urf the Nami-tee
+Bug Fix:
+Fixed a bug where her side fins bent outwards during her recall animation.
+V7.3
+Deep Sea Nami
+Bug Fix:
+Head fin no longer bends into her shoulder.
+V7.2
+General
+Bug Fix:
+The mirror reflection of
+River Spirit Nami's
+staff is now reattached to the staff's surface, rather than the ground.
+V7.1
+General
+Bug Fix:
+River Spirit Nami's
+right tail fin no longer disappears in several of her animations.
+Bug Fix:
+Koi Nami's
+chromas now properly use her skin-specific water particles during her walk animation.
+V6.16
+General
+Bug Fix:
+Deep Sea Nami
+no longer keeps talking when Voice Volume is disabled.
+V6.15
+General
+Bug Fix:
+Koi Nami's
+chromas now properly use her ability particle effects, rather than
+Classic Nami's
+.
+V5.22
+Stats
+Mana regen increased to 11.
+5
+from 9.
+V5.16
+Surging Tides
+Bonus movement speed increased to 60 from 40.
+AP ratio increased to
+(+ 20% AP)
+from
+(+ 10% AP)
+New Effect:
+Bonus movement speed is doubled for allies hit by
+Tidal Wave
+.
+V4.13
+General
+Movement speed reduced to 335 from 340.
+Ebb and Flow
+Cooldown increased to 10 seconds from 9.
+V4.9
+General
+Bug Fix:
+Recall
+animation would occasionally cancel.
+V4.5
+General
+Recommended items updated
+Stats
+Armor increased to 13 from 9.
+V4.1
+Tidal Wave
+Cooldown now starts at end of cast from at start.
+Will no longer go on cooldown if Nami dies while casting.
+V3.14
+Surging Tides
+New Effect:
+Bonus movement speed has a
+(+10% AP)
+ratio.
+Aqua Prison
+AP ratio reduced to
+(+ 50% AP)
+from
+(+ 65% AP)
+Ebb and Flow
+Damage reduction per bounce modifier changed to −15%
+(+ 7.
+5
+% per 100 AP)
+from 15.
+It can become positive leading to increased damage.
+Tidecaller's Blessing
+New Effect:
+On-hit slow has a
+(+5% per 100 AP)
+ratio.
+Tidal Wave
+AP ratio reduced to
+(+60% AP)
+from
+(+70% AP)
+V3.10
+Aqua Prison
+Fixed a bug where the stun sometimes lasted longer than intended.
+V3.7
+Basic attack projectile speed increased to 1500 from 1350
+Surging Tides
+Bonus movement speed increased to 40 from 30.
+Aqua Prison
+Stun duration increased to 1.
+5
+seconds from 1.
+25
+V3.5 (Balance update)
+Tidal Wave
+Range increased to 2750 from 2500.
+Cooldown reduced to 120 / 110 / 100 seconds from 140 / 120 / 100.
+Mana cost reduced to 100 at all ranks from 100 / 150 / 200.
+V3.04
+Tidecaller's Blessing
+New visual effects added to better communicate the amount of charges left.
+Duration increased to 6 seconds from 5.
+V3.02
+Basic attacks are now more responsive
+Stats
+Movement speed increased to 340 from 335.
+V1.0.0.154
+Stats
+Movement speed increased to 335 from 330.
+Aqua Prison
+Cooldown reduced to 14 / 13 / 12 / 11 / 10 seconds from 16 / 14.
+5
+/ 13 / 11.
+5
+/ 10.
+Tidal Wave
+Projectile speed increased to 850 from 750.
+V1.0.0.152
+Added
+Trivia
+[
+edit
+|
+edit source
+]
+Nami's backstory resembles
+Dinotopia's
+.
+When playing Nami and typing 'hat' in the store search bar the result displayed will be
+Boots of Speed
+, referencing
+The Little Mermaid
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Enchanter
+Controllers
+are defensive casters that oversee the battlefield by protecting and opening up opportunities for their allies.
+Enchanters
+focus on amplifying their allies' effectiveness by directly augmenting them and defending them from incoming threats. Enchanters themselves are often quite fragile and bring relatively low damage to the table, meaning they really only shine when grouped together with others.
+Examples
+Janna
+Sona
+Soraka
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Tidal Wave
+COOLDOWN:
+120 / 110 / 100
+Active:
+Nami
+surges a tidal wave in the target direction that deals
+magic damage
+and briefly knocks up enemies hit. The wave also
+slows
+enemies based on the distance traveled.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Standard sight
+Standard sight
+reveals units through
+fog of war
+and
+brush
+, but
+not
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Suspension
+A unit that is
+suspended
+is
+stunned
+for the duration. It also pretends to be
+airborne
+while the stun holds (
+Last Breath
+can be cast on a
+suspended
+enemy). A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Suspension
+is an
+immobilizing
+effect
+.
+Unlike common
+stuns
+,
+suspension
+is prevented by effects that prevent
+displacements
+and becoming
+suspended
+also interrupts the ongoing movement of
+dashes
+and
+airborne
+effects.
+
+Like common
+stuns
+, it is affected by
+Tenacity
+and can be fully removed by
+cleansing
+effects.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities and all
+dashes
+and
+airborne
+effects (displacement
+and
+status effects).
+Knock ups
+will not have their
+airborne
+status removed if there is no sourced debuff, but their forced movement still ends.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Fully removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Surging Tides
+Innate:
+Nami's
+abilities grant a burst of
+movement speed
+to allied champions hit. The bonus is doubled from
+Tidal Wave
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Last Breath
+COOLDOWN:
+70 / 50 / 30
+Active:
+Yasuo
+blinks
+to the target
+airborne
+enemy champion and instantly generates max
+Flow
+. He then briefly
+knocks up
+,
+reveals
+, and deals
+physical damage
+to all nearby
+airborne
+enemies.
+He becomes empowered for some time, causing his
+critical strikes
+to gain
+bonus
+-armor penetration
+.
+Bonus
+-armor penetration
+affects
+bonus
+armor
+only.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Targeting forgiveness
+Certain unit-targeted abilities present an accuracy-grace system called
+targeting forgiveness
+.
+When no valid target is
+directly selected
+upon using the ability, it will automatically search for one within a certain
+center-to-center
+forgiveness radius
+. If a valid target is found within the forgiveness radius, the ability will automatically acquire them and cast on them. If multiple targets are found, the nearest one to the forgiveness radius' center is chosen.
+Only ally-targeted abilities may utilize this system. Not to be confused with a different, priority-based system that a few other spells (e.g.
+Smite
+) use.
+League of Legends content
+Enchantment redirection
+A certain group of damaging abilities called
+enchantments
+or
+empowerments
+require interaction of an
+empowerer
+, with an
+ally
+hitting an enemy. Enchantments commonly include mark detonations or
+buffs
+given to allies. The credit for an applied enchantment is directed in the following ways:
+Any damage dealt through the ally by the enchantment is credited to the empowerer instead of the ally. Effects that can trigger on-damage instances of the empowerer (e.g.
+Summon Aery
+;
+Morellonomicon's
+Grievous Wounds
+on magic damage; etc.) will trigger and also be credited to the empowerer. For the empowerer's redirected damage only, the ally will apply the empowerer's damage modifiers (e.g.
+magic penetration
+).
+Any unit
+kill
+achieved by the ally having applied the empowerer's redirected damage, is credited to the ally instead of the empowerer.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Resurrection
+A unit that is protected by
+Resurrection
+will enter a revival state and dispel most debuffs upon taking
+fatal damage
+. After the state completes, the unit is revived.
+Resurrection
+effects do not count for kills or assists.
+Resurrection
+sources have a hierarchy, and will trigger in the following order:
+Zilean's
+Chronoshift
+Guardian Angel
+Anivia's
+Rebirth
+and
+Zac's
+Cell Division
+Resurrection
+will always take precedence over
+zombie state
+effects. Entering
+resurrection
+does not cancel cast times.
+Renata Glasc's
+Bailout
+always takes priority over
+resurrection
+.
+League of Legends content
+Tidecaller's Blessing
+COOLDOWN:
+11
+Active:
+Nami
+blesses herself or an allied champion for a few seconds, empowering their next three basic attacks or abilities to deal
+bonus
+magic damage
+and briefly
+slow
+enemies.
+League of Legends content
+Ebb and Flow
+COOLDOWN:
+10
+Active:
+Nami
+unleashes a stream of water onto the target champion or herself, which then bounces to nearby champions up to twice, alternating between enemies and allies and Nami.
+Ebb and Flow
+heals
+allies and deals
+magic damage
+to enemies, with subsequent bounces becoming less potent.
+League of Legends content
+Aqua Prison
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+Active:
+Nami
+tosses a bubble that lands at the target location, dealing
+magic damage
+to enemies within as well as briefly
+revealing
+and
+suspending
+them.
+Suspension
+The target is stunned, but also marked as
+airborne
+. Suspension can be reduced by
+Tenacity
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Nami's profile page
+at
+LeagueOfLegends.com
+↑
+Yasuo Reddit AMA

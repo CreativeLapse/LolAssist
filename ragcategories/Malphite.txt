@@ -1,0 +1,2391 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Malphite
+Shard of the Monolith
+Release date
+2009-09-02
+Last changed
+V14.21
+Class(es)
+Vanguard
+Legacy
+Tank
+Mage
+Position(s)
+Top
+Middle
+Support
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Magic
+Store price
+450
+|
+260
+Crafting
++
+270
+Ratings
+Damage
+1
+Toughness
+3
+Control
+3
+Mobility
+1
+Utility
+1
+Style
+Difficulty
+Malphite
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Malphite
+Base statistics
+Edit
+Health
+665
++104
+Mana
+280
++60
+Health regen. (per 5s)
+7
++0.55
+Mana regen. (per 5s)
+7.3
++0.55
+Armor
+37
++4.95
+Attack damage
+62
++4
+Magic resist.
+28
++2.05
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+125
+Attack speed
+Base AS
+0.736
+Attack windup
+24.968%
+AS ratio
+0.638
+Bonus AS
++3.4
+%
+Unit radius
+Gameplay radius
+80
+Selection radius
+125
+Pathing radius
+50
+Acq. radius
+400
+Special statistics
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Granite Shield
+STATIC COOLDOWN
+:
+8 / 7 / 6 (based on level)
+Innate:
+Malphite
+shields
+himself equal to a portion of
+his
+maximum
+health
+, which refreshes after a few seconds without taking damage.
+Innate - Shard of the Monolith:
+Malphite
+gains increased percentage
+size
+equal to
+8% of his
+total
+armor
+, capped at 35% increased size at
+437.
+5
+armor
+.
+Innate:
+Malphite
+grants himself a
+shield
+equal to
+10% of his
+maximum
+health
+. The shield lasts until it is broken, and refreshes after a few seconds of not taking damage.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Malphite's
+increased size is affected by his base armor and growth, but also reduced by
+Black Cleaver
+. His increased size does not consider
+Thunderclap's
+bonus
+armor.
+The bonus
+will
+become a size reduction if
+Malphite
+is dropped to
+negative
+armor values.
+Granite Shield
+does not refresh its cooldown from damage that is mitigated by
+shields
+.
+Edit
+Seismic Shard
+COST:
+70 / 75 / 80 / 85 / 90 Mana
+COOLDOWN:
+8
+CAST TIME:
+0.
+25
+TARGET RANGE:
+625
+SPEED:
+1200
+Active:
+Malphite
+sends a shard to the target enemy that deals
+magic damage
+and
+slows
+them for a few seconds. He also gains
+bonus
+movement speed
+for the same duration.
+Active:
+Malphite
+sends a shard to the target enemy that deals
+magic damage
+and
+slows
+them for 3 seconds.
+Magic Damage:
+70 / 120 / 170 / 220 / 270
+(+ 60% AP)
+Slow:
+20 / 25 / 30 / 35 / 40%
+Malphite
+also gains
+bonus
+movement speed
+equal to the raw amount the target lost from the slow for the duration.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+The rock spawns 100 units in front of
+Malphite
+.
+Malphite
+will gain the bonus movement speed for the full duration as long as
+Seismic Shard
+impacts the target.
+Both a buff shown in the hotbar and duration bar above the ability icon will indicate the remaining duration.
+Seismic Shard's
+movement speed gain is entirely based off the target's current, and loss of, movement speed.
+Targets that are already
+slowed
+by another effect will grant
+Malphite
+diminished movement speed.
+Slow-resistant
+and
+slow-immune
+targets will reduce or nullify
+Malphite's
+gain.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+Edit
+Thunderclap
+COST:
+30 / 35 / 40 / 45 / 50 mana
+COOLDOWN
+:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8
+CAST TIME:
+None
+Passive:
+Malphite
+gains
+bonus
+armor
+, tripled while
+Granite Shield
+is active.
+Active:
+Malphite's
+next basic attack within a few seconds is empowered to gain
+bonus
+range
+and deal
+bonus
+physical damage
+. Additionally,
+Malphite's
+basic attacks for the next few seconds trigger a cone in the direction of the target that deals
+physical damage
+to enemies hit.
+Passive:
+Malphite
+gains
+bonus
+armor
+, tripled while
+Granite Shield
+is active.
+Bonus Armor:
+10 / 15 / 20 / 25 / 30% armor
+Increased Bonus Armor:
+30 / 45 / 60 / 75 / 90% armor
+Active:
+Malphite
+empowers his next basic attack within 6 seconds to have an
+uncancelable windup
+, gain
+50
+bonus
+range
+, and deal
+bonus
+physical damage
+on-hit
+.
+Bonus Physical Damage:
+30 / 40 / 50 / 60 / 70
+(+ 20% AP)
+(+ 15% armor)
+Additionally,
+Malphite's
+basic attacks
+on-hit
+for the next 5 seconds are empowered to trigger a cone in the direction of the target that deals
+physical damage
+to enemies hit.
+Physical Damage:
+15 / 25 / 35 / 45 / 55
+(+ 30% AP)
+(+ 15% armor)
+Thunderclap
+resets
+Malphite's
+basic attack timer.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Proc damage
+Sub-type
+Physical
+Counters
+Spell shield
+Not Blocked
+Parries
+Missing
+The passive
+will
+amplify
+negative
+armor
+, too, if
+Malphite's
+armor is dropped that low.
+The empowered attack:
+Benefits from
+Thunderclap's
+cone effect.
+Prevents
+Malphite
+from casting
+Seismic Shard
+and
+Ground Slam
+during its windup.
+Cannot
+have its
+windup
+canceled by new movement or attack commands, or casting
+Unstoppable Force
+.
+Can
+have its windup canceled by casting
+Hextech Rocketbelt
+.
+The cone starts from
+Malphite's
+location.
+Unlike similar spells, it does not deal its damage separately to the primary target of the attack(s); if the target is outside the
+area of effect
+when struck, it will not take the bonus damage.
+PENDING FOR TEST:
+: Interaction with parrying effects (
+dodge
+,
+block
+,
+blind
+).
+Taking into account
+Malphite's
+base
+attack speed
+and attack speed growth, he'll be able to use up to 4-6 (levels 1-18) empowered attacks (including the initial one).
+With
+2.
+5
+attack speed
+, he'll be able to use up to 12.
+Edit
+Ground Slam
+COST:
+50 Mana
+COOLDOWN:
+7
+CAST TIME:
+0.
+2419
+EFFECT RADIUS:
+400
+Active:
+Malphite
+slams the ground beneath him, dealing
+magic damage
+to nearby enemies and
+crippling
+them for a short time.
+Active:
+Malphite
+slams the ground beneath him, dealing
+magic damage
+to nearby enemies and
+crippling
+them for 3 seconds.
+Magic Damage:
+70 / 110 / 150 / 190 / 230
+(+ 60% AP)
+(+ 40% armor)
+Cripple:
+30 / 35 / 40 / 45 / 50%
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+The
+cripple
+stacks multiplicatively
+with other sources of
+attack speed reductions
+.
+This ability will cast from wherever the caster is at the end of the cast time.
+Map-Specific Differences
+One for All
+differences
+edit
+The
+cripple
+can be applied more than once; it can be
+stacked
+by multiple
+Ground Slams
+.
+Edit
+Unstoppable Force
+COST:
+100 Mana
+COOLDOWN:
+130 / 105 / 80
+CAST TIME:
+none
+TARGET RANGE:
+1000
+EFFECT RADIUS:
+325
+SPEED:
+1500 +
+100% movement speed
+Active:
+Malphite
+dashes
+with
+displacement immunity
+to the target location. Upon arrival, he deals
+magic damage
+to nearby enemies and briefly
+knocks them up
+.
+displacement immunity
+:
+The dash cannot be deterred by
+crowd control
+.
+Active:
+Malphite
+dashes
+with
+displacement immunity
+to the target location. Upon arrival, he deals
+magic damage
+to nearby enemies and
+knocks them up
+for 1.
+5
+seconds.
+Magic Damage:
+200 / 300 / 400
+(+ 90% AP)
+Unstoppable Force will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Not Interrupted
+The dash speed can be up-to doubled if
+Unstoppable Force
+is targeted at the middle of a wall so that his destination ends up on the other side.
+It will be decreased if his destination ends up closer to him than his target location.
+If
+Malphite
+dies during his
+dash
+, the ability cancels.
+If the dash is interrupted without
+Malphite
+dying, for instance when he enters
+resurrection
+during
+Unstoppable Force
+, he halts and the ability instead affects enemies at the stopped location.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Malphite (Collection)
+.
+Original
+View in 3D
+585
+01.09.2009
+A massive creature of living stone, Malphite was born from the heart of the great Ixtali construct known as the Monolith. He has studied the elemental balance of Runeterra for centuries, using his tremendous strength to maintain order in a frequently chaotic world, and crush the dark things that crawl beneath it. Now, roused all too often from his slumbers, Malphite endures the fluid temperaments of mortals, in pursuit of the only cause worthy of the last of his kind.
+Unknown voice actor
+Alex 'alexplank' Flores
+Loot eligible
+Shamrock
+View in 3D
+520
+16.03.2010
+Malphite is a twenty-ton rock man who used to be part of an even larger rock that was destroyed, leaving him orphaned on a distinctly un-rocklike plane of existence. The guy could use a little luck.
+Unknown voice actor
+Unknown artist
+Wonders of the World
+Loot eligible
+Legacy
+New SFX/VFX
+Coral Reef
+View in 3D
+750
+08.11.2010
+“When I was young, I used to watch our ships sail back to port—but of late can't bring myself to look. For every vessel that docks, another runs aground of coral that was not there before. It's as though even the seabed has turned against us, slowly moving toward some unfathomable end.”
+Unknown voice actor
+Unknown artist
+Forgotten Depths
+Loot eligible
+Legacy
+New SFX/VFX
+Marble
+View in 3D
+520
+21.03.2011
+Unknown voice actor
+Unknown artist
+Legacy
+Loot eligible
+Legacy
+New SFX/VFX
+Obsidian
+View in 3D
+975
+15.08.2011
+As great mountains were ripped from their foundations during the rise of the Ashen Lord, from deep beneath them climbed strange, obsidian creatures, freed for the first time after thousands of years. They seem intent on stopping the Infernals, and are uniquely suited to defeating them.
+Unknown voice actor
+Unknown artist
+Infernal
+Loot eligible
+Legacy
+New SFX/VFX
+Glacial
+View in 3D
+1350
+11.07.2012
+That's no glacier…
+Unknown voice actor
+Unknown artist
+Glacial
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Mecha
+View in 3D
+1350
+23.07.2014
+Designated M-2, the “Mecha Malphite” unit is a massive, bipedal fortress capable of turning into a planetary drill—making it the ultimate defensive option when faced with new and powerful kaiju. A single punch from its gauntlets can blow holes through thick titanium sheeting, and such attacks have felled countless monsters.
+Unknown voice actor
+Alex 'alexplank' Flores
+Mecha
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Mecha Malphite Chromas
+Catseye
+Citrine
+Emerald
+Granite
+Obsidian
+Pearl
+Sandstone
+Sapphire
+Ironside
+View in 3D
+975
+07.10.2015
+There are two kinds of mercenaries in the game today: the first being your rank-and-file sellsword, barely worth the stink of grog on his breath. The second is a nigh-indestructible golem, twenty feet tall, and made from the hull of a legendary gunship. Choose wisely.
+Unknown voice actor
+Sixmorevodka Studio
+Bilgewater: Burning Tides
+Loot eligible
+New Animations/Recall
+Odyssey
+View in 3D
+1350
+12.09.2018
+Malphite was once the pit boss of a deep space mining operation, until Jinx cracked the asteroid in half and got them both fired. His enduring loyalty to someone who is very obviously a psychopath has landed him in all kinds of danger across the galaxy, but he honestly doesn't seem to mind.
+Unknown voice actor
+Viktor Titov, Grafit Studio
+Odyssey
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Odyssey Malphite Chromas
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Dark Star
+View in 3D
+1350
+26.03.2020
+The remnants of a once lush and enormous exo-planet, the Dark Star consumed and reformed the broken cluster of planetary debris into a twisted consciousness, ever pulling others into its orbit, and unleashing oblivion upon all who cross its path.
+Unknown voice actor
+Lucas Parolin, West Studio
+Dark Star
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Prestige Dark Star
+View in 3D
+Special
+26.03.2020
+Gilded by the Dark Star's touch and empowered through its radiance, Malphite barrels across space, demolishing entire systems and consuming the broken remnants into his immense and twisted form.
+Unknown voice actor
+Rudy Siswanto
+Dark Star
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Dark Star
+. Store variants are discounted for multiple purchases.
+FPX
+View in 3D
+1350
+30.04.2020
+Honoring Doinb's winning performance as Malphite during the 2019 World Championship.
+Unknown voice actor
+Pan Chengwei
+World Champions: 2019
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+FPX Malphite Chromas
+Elite
+Tenfold Triumph
+Old God
+View in 3D
+1350
+12.08.2021
+Appearing to mortals as a Jet-Black Ibex, Malphite was an Old God of the mountain slain by the Eclipse order and cast down onto the rocks below. Death did not claim him, but the mountain did—and now he rises in its hulking earthen form, the land itself twisted with hatred and consumed by new and terrible hungers.
+Unknown voice actor
+Felipe Martini, West Studio
+Coven
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Old God Malphite Chromas
+Catseye
+Dark Ritual
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Lunar Guardian
+View in 3D
+1350
+26.01.2023
+Malphite was one of three guardians of the Yun Tal Empire, a demi-god of crag and magma, his brothers-in-arms a serpent of water and a spirit of nature. Their friendship ended in an instant, when one guardian's infinitesimal betrayal led to the death of another. Now, Malphite stands alone with unwavering loyalty, desperate to restore his nation's former glory, no matter the cost of lives.
+Unknown voice actor
+Jack Hsu, West Studio
+Lunar Revel
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Lunar Guardian Malphite Chromas
+Emerald
+Obsidian
+Pearl
+Resplendent
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.21
+Stats
+Base health increased to 665 from 644.
+V14.18
+Granite Shield
+Shield health ratio increased to
+10%
+maximum
+health
+from
+9%
+.
+V14.9
+General
+Adjusted splash artwork for
+FPX Malphite
+.
+V13.18
+General
+Updated ability icons.
+V13.8
+Thunderclap
+Attack base damage reduced to 30 / 40 / 50 / 60 / 70 from 30 / 45 / 60 / 75 / 90.
+Cleave armor ratio reduced to
+15% armor
+from
+20%
+.
+V13.4
+Thunderclap
+Attack armor ratio increased to
+15% armor
+from
+10%
+.
+Cleave armor ratio increased to
+20% armor
+from
+15%
+.
+Cooldown reduced to 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8 seconds from 12 / 11.
+5
+/ 11 / 10.
+5
+/ 10.
+V12.23
+Ground Slam
+Mana cost reduced to 50 at all ranks from 50 / 55 / 60 / 65 / 70.
+Base damage increased to 70 / 110 / 150 / 190 / 230 from 60 / 95 / 130 / 165 / 200.
+Armor ratio increased to
+40%
+total
+armor
+from
+30%
+.
+V12.22
+Stats
+Base mana regeneration reduced to 7.
+3
+from 7.
+32
+.
+V12.19
+Thunderclap
+Cleave AP ratio increased to
+30% AP
+from
+20% AP
+.
+Unstoppable Force
+AP ratio increased to
+90% AP
+from
+80% AP
+.
+V12.16
+Granite Shield
+Cooldown reduced to
+8 / 7 / 6 (based on level)
+seconds from
+10 / 8 / 6 (based on level)
+.
+Thunderclap
+Cooldown reduced to 12 / 11.
+5
+/ 11 / 10.
+5
+/ 10 seconds from 12 at all ranks.
+V12.10
+Stats
+Base health increased to 644 from 574.
+Health growth increased to 104 from 90.
+Armor growth increased to 4.
+95
+from 3.
+75
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Granite Shield
+Shield health ratio reduced to
+9%
+maximum
+health
+from
+10%
+.
+V11.12
+Thunderclap
+Cleave base damage increased to 15 / 25 / 35 / 45 / 55 from 10 / 20 / 30 / 40 / 50.
+Cleave armor ratio increased to
+15% armor
+from
+10% armor
+.
+V11.1
+- January 6th Hotfix
+Thunderclap
+Cleave armor ratio reduced to
+10% armor
+from
+15% armor
+.
+Ground Slam
+Armor ratio reduced to
+30% armor
+from
+40% armor
+.
+V11.1
+Stats
+Base health reduced to 574 from 575.
+Base attack damage increased to 62 from 61.
+97
+.
+V10.25
+- December 15th Hotfix
+Stats
+Base magic resistance reduced to 28 from 32.
+1
+.
+V10.23
+Stats
+Base health increased to 575 from 574.
+2
+.
+Base mana reduced to 280 from 282.
+2
+.
+Mana growth increased to 60 from 40.
+V10.13
+Thunderclap
+Bug Fix:
+No longer reduces the amount of
+Hail of Blades
+stacks.
+V10.3
+General
+New visual effects.
+Basic attack added heft and size to swings and hits.
+All skins cleaned up and matched for base changes.
+Granite Shield
+Added activate and deactivate sound effects
+Seismic Shard
+Cleaned up and added a sound for when his haste run activates.
+Thunderclap
+Updated with hooks for cast, loop, and new empowered hit and auto attack hits.
+Ground Slam
+Cleaned up.
+Unstoppable Force
+Updated with new hooks for cast, miss, and hit.
+Glacial Malphite
+Thunderclap
+New cast and ability loop.
+Unstoppable Force
+New ability miss.
+Mecha Malphite
+Granite Shield
+Custom passive active.
+Thunderclap
+New ability loop.
+Unstoppable Force
+New ability miss.
+Ironside Malphite
+Granite Shield
+Custom passive active.
+Thunderclap
+New ability loop.
+Odyssey Malphite
+Granite Shield
+Custom passive active.
+Thunderclap
+Updated attack hits.
+V9.23
+Thunderclap
+Bug Fix:
+Empowered attack window no longer lasts indefinitely if the first basic attack that would proc it is canceled.
+V9.22
+Unstoppable Force
+AP ratio reduced to
+80% AP
+from
+100% AP
+.
+V9.17
+Unstoppable Force
+Bug Fix:
+Is now properly disabled when
+grounded
+.
+V9.15
+Seismic Shard
+Slow increased to 20 / 25 / 30 / 35 / 40% from 15 / 20 / 25 / 30 / 35%.
+Thunderclap
+Base damage increased to 30 / 45 / 60 / 75 / 90 from 20 / 35 / 50 / 65 / 80.
+Bug Fix:
+Cleave damage will now trigger
+Hunter's Talisman
+.
+Unstoppable Force
+Bug Fix:
+Now casts at max range if used outside of maximum range.
+V9.14
+General
+New visual effects for all abilities and skins.
+New Effect:
+Malphite
+is now slightly smaller at the start of the game.
+New Effect:
+Malphite's
+size increases with armor, capped at about 850
+total
+armor.
+Granite Shield
+New Effect:
+New shield regeneration VFX.
+Seismic Shard
+Improved cast animation for most skins.
+Now spawns his rock ~100 units in front of him rather than at his center point.
+Slow strength increased to 15 / 20 / 25 / 30 / 35% from 14 / 17 / 20 / 23 / 26%.
+Slow duration reduced to 3 seconds from 4.
+Thunderclap
+(Reworked W)
+Renamed
+Thunderclap
+from
+Brutal Strikes
+.
+New Active:
+Malphite's
+next basic attack within 6 seconds gains 50
+bonus
+range and deals 20 / 35 / 50 / 65 / 80
+(+ 20% AP)
+(+ 15% armor)
+bonus
+physical damage on-hit. Additionally, for 5 seconds,
+Malphite's
+basic attacks also deal 10 / 20 / 30 / 40 / 50
+(+ 20% AP)
+(+ 10% armor)
+physical damage in a cone to units behind his target.
+New Active Effect:
+Thunderclap
+resets
+Malphite's
+basic attack timer.
+Removed Active:
+For 6 seconds,
+Malphite's
+basic attacks deal 15 / 30 / 45 / 60 / 75
+(+ 10% AP)
+(+ 15% armor)
+bonus
+physical damage which splashes to enemies around his target.
+Mana cost increased to 30 / 35 / 40 / 45 / 50 from 25 at all ranks.
+Unstoppable Force
+New Effect:
+New VFX impact creater.
+V8.13
+General
+Adjusted splash artwork for
+Ironside Malphite
+.
+V8.7
+Stats
+Attack damage growth increased to 4 from 3.
+375
+.
+Ground Slam
+AP ratio increased to
+60% AP
+from
+20% AP
+.
+Unstoppable Force
+Cooldown reduced to 130 / 105 / 80 seconds from 130 / 115 / 100.
+V7.22
+Stats
+Base health increased to 490 from 477.
+72
+.
+Health growth increased to 91 from 79.
+V7.19
+Brutal Strikes
+Bonus armor reduced to
+10 / 15 / 20 / 25 / 30% armor
+from
+15 / 20 / 25 / 30 / 35%
+.
+New Effect:
+While
+Granite Shield
+is active, this bonus is tripled to
+30 / 45 / 60 / 75 / 90% armor
+.
+V7.15
+Mecha Malphite
+Bug Fix:
+No longer has visible seams on his model.
+V7.11
+Ground Slam
+Armor ratio increased to
+40%
+total
+armor
+from
+30%
+total
+armor
+.
+V7.1
+Brutal Strikes
+Bug Fix:
+Mecha Malphite's
+chromas now properly put spikes on his fists for the duration of
+Brutal Strikes
+.
+V6.17
+Brutal Strikes
+Cooldown reduced to 12 seconds from 14.
+Passive armor increased to
+15 / 20 / 25 / 30 / 35%
+from
+10 / 15 / 20 / 25 / 30%
+.
+Active armor ratio increased to
+15% armor
+from
+10% armor
+.
+V6.4
+Stats
+Base health regen reduced to 7 from 8.
+5
+.
+Ground Slam
+Base damage reduced to 60 / 95 / 130 / 165 / 200 from 60 / 100 / 140 / 180 / 220.
+V6.2
+Unstoppable Force
+Bug Fix:
+Sometimes affecting displaced enemies (
+Pillar of Ice
+) where they were rather than where they ended up.
+V5.23
+General
+Model size increased by ~10%
+V5.12
+Brutal Strikes
+Base damage reduced to 15 / 30 / 45 / 60 / 75 from 25 / 40 / 55 / 70 / 85.
+AP ratio reduced to
+10% AP
+from
+15% AP
+.
+New Effect:
+Has a
+10% armor
+ratio.
+Damage radius increased to 225 from 200.
+Bug Fix:
+Enhanced attacks being visible through fog of war.
+V5.11
+Brutal Strikes
+reworked
+Removed:
+Passive splash damage, bonus armor and bonus attack damage upon activation.
+New Passive:
+Grants 10 / 15 / 20 / 25 / 30% bonus armor.
+New Active:
+For the next 6 seconds, Malphite's basic attacks deal 25 / 40 / 55 / 70 / 85
+(+ 15% AP)
+bonus physical damage to his target and surrounding enemies
+New Effect:
+Enhanced attacks display the area of effect radius.
+New Effect:
+Enhanced attacks use Malphite's critical strike animation.
+V4.7
+Granite Shield
+Cooldown reduced to
+10 / 8 / 6 (based on level)
+seconds from 10 at all ranks.
+Brutal Strikes
+Mana cost reduced to 25 at all ranks from 50 / 55 / 60 / 65 / 70.
+V4.5
+General
+New splash artwork for
+Original Malphite
+.
+Stats
+Base armor increased to 22 from 18.
+V1.0.0.152
+Stats
+Movement speed increased to 335 from 310.
+V1.0.0.143
+Ground Slam
+Armor ratio reduced to
+(30% armor
+from
+50% armor
+.
+New Effect:
+Has a
+20% AP
+ratio.
+Attack speed slow duration reduced to 3 seconds from 4.
+V1.0.0.140
+Stats
+Health per level increased to 90 from 82.
+Unstoppable Force
+Travel speed increased.
+V1.0.0.139
+Unstoppable Force
+Bug Fix:
+Being interrupted by
+polymorph
+.
+V1.0.0.138
+Seismic Shard
+Bug Fix:
+Malphite losing the bonus movement speed if target dies.
+V1.0.0.135
+Granite Shield
+Now shows a cooldown timer.
+Unstoppable Force
+Impact radius increased to 325 from 300.
+Removed:
+Using
+Flash
+while casting.
+Bug Fix:
+Targets appearing to be hit but unaffected.
+V1.0.0.129
+Stats
+Base armor increased to 18 from 13.
+Brutal Strikes
+Cooldown reduced to 14 seconds from 16.
+Ground Slam
+Cooldown reduced to 7 seconds from 8.
+V1.0.0.126
+Brutal Strikes
+Passive splash damage shape updated.
+Passive splash damage range updated.
+New Effect:
+Visual indicator for targets hit by passive splash damage.
+V1.0.0.125
+Ground Slam
+Bug Fix:
+Armor value in tooltip not being rounded.
+V1.0.0.123
+Brutal Strikes
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 55 / 60 / 65 / 70 / 75.
+Ground Slam
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 60 / 65 / 70 / 75 / 80.
+Area of effect radius increased to 400 from 350.
+Unstoppable Force
+Bug Fix:
+Sometimes being stopped by
+Crystallize
+,
+Cataclysm
+, and/or
+Pillar of Filth
+.
+V1.0.0.118
+Granite Shield
+Cooldown reduced to 10 seconds from 12.
+V1.0.0.113
+Granite Shield
+Cooldown increased to 12 seconds from 8.
+Ground Slam
+Armor ratio reduced to
+50% armor
+from
+70% armor
+.
+V1.0.0.111
+General
+Updated ability tooltips.
+V1.0.0.107
+Seismic Shard
+Cast range reduced to 625 from 700.
+Slow changed to 14 / 17 / 20 / 23 / 26% from 10 / 15 / 20 / 25 / 30%.
+Bonus movement speed changed to 14 / 17 / 20 / 23 / 26% from 10 / 15 / 20 / 25 / 30%.
+Ground Slam
+Mana cost increased to 60 / 65 / 70 / 75 / 80 from 60 at all ranks.
+V1.0.0.106
+Seismic Shard
+Base damage reduced to 70 / 120 / 170 / 220 / 270 from 80 / 135 / 190 / 245 / 300.
+V1.0.0.105
+Ground Slam
+Bug Fix:
+Bypassing
+spell shields
+.
+V1.0.0.104
+Stats
+Magic resistance per level increased to 1.
+25
+from 0.
+Ground Slam
+Bug Fix:
+Bypassing
+spell shields
+.
+Unstoppable Force
+Stun duration increased for 1.
+5
+seconds from 1.
+Bug Fix:
+Stun wouldn't last long enough..
+V1.0.0.103
+Seismic Shard
+Cooldown reduced to 8 seconds from 10.
+Ground Slam
+Bug Fix:
+Radius appearing visually shorter than intended.
+Unstoppable Force
+Cooldown reduced to 130 / 115 / 100 seconds from 140 / 125 / 110.
+V1.0.0.100
+Unstoppable Force
+Can no longer be cast while rooted.
+V1.0.0.99
+General
+Recommended items updated.
+Granite Shield
+The shield will now automatically regenerate to full after 8 seconds of not being hit from previously when it would not replenish until the shield was fully destroyted.
+Bug Fix:
+Particle not appearing for a second after activation.
+Bug Fix:
+Shield not increasing with bonus health until after breaking and reapplying.
+Seismic Shard
+Cooldown reduced to 10 seconds from 12.
+Slow duration reduced to 4 seconds from 5.
+Mana cost reduced to 70 / 75 / 80 / 85 / 90 from 80 / 90 / 100 / 110 / 120.
+Brutal Strikes
+Cooldown reduced to 16 seconds from 20.
+Passive splash damage increased to 30 / 38 / 46 / 54 / 62% from 30 / 35 / 40 / 45 / 50%.
+Removed:
+Splash damage affecting structures.
+Bug Fix:
+Splash damage being calculated with twice the actual bonus attack damage.
+Removed:
+Splash damage being increased by 30 / 40 / 50 / 60 / 70% upon activation.
+New Effect:
+Upon activation Malphite gains 20 / 25 / 30 / 35 / 40% bonus armor and 20 / 25 / 30 / 35 / 40% bonus attack damage.
+Ground Slam
+Mana cost reduced to 60 at all ranks from 60 / 70 / 80 / 90 / 100.
+Tooltip updated to display armor ratio.
+Unstoppable Force
+New Effect:
+Malphite cannot be disabled while casting.
+V1.0.0.85
+Stats
+Attack range increased to 125 from 100.
+Movement speed increased to 310 from 300.
+Unstoppable Force
+Bug Fix:
+Sometimes uncastable while at low health.
+V1.0.0.79
+General
+Recommended items updated.
+V1.0.0.72
+Unstoppable Force
+Animation updated.
+V1.0.0.70
+Unstoppable Force
+Removed:
+No longer affects Baron Nashor.
+V1.0.0.63
+Stats
+Base armor increased to 13 from 4.
+Brutal Strikes
+Removed:
+Cast animation
+V1.0.0.61
+Stats
+Base armor reduced to 4 from 17.
+Base armor per level increased to 3.
+75
+from 3.
+Ground Slam
+Attack speed slow changed to 30 / 35 / 40 / 45 / 50% from 20 / 30 / 40 / 50 / 60%.
+Mana cost increased to 60 / 70 / 80 / 90 / 100 from 60 / 65 / 70 / 75 / 80.
+V1.0.0.52
+Seismic Shard
+Bonus movement speed changed to target's lost percentage from Malphite's own.
+Unstoppable Force
+Stun duration reduced to 1.
+5
+/ 1.
+75
+/ 2 seconds from 1.
+5
+/ 2 / 2.
+5
+.
+Cooldown increased to 140 / 120 / 100 seconds from 120 / 100 / 80.
+V0.9.25.34
+General
+Updated secondary and critical strike animations.
+V0.9.25.21
+General
+Basic abilities switched.
+Seismic Shard
+(Q)
+Range reduced to 700 from 790.
+Brutal Strikes
+(W)
+Cooldown increased to 20 seconds from 16.
+Ground Slam
+(E)
+Armor ratio increased to
+70% armor
+from
+50% armor
+.
+Unstoppable Force
+Radius updated to match cast indicator.
+Range reduced to 1000 from 1300.
+Cooldown increased to 120 / 100 / 80 seconds from 105 / 90 / 75.
+V0.9.22.16
+Granite Shield
+(Innate)
+Malphite summons a shield of rock that absorbs 10% of his maximum health. If Malphite has not been hit, this effect will recharge after 10 seconds.
+Ground Slam
+(Q)
+Malphite slams the ground sending out a shockwave that deals damage based on his armor and reduces the attack speed of enemies for 4 seconds.
+Seismic Shard
+(W)
+Using his primal elemental magic, Malphite sends a shard of earth through the ground at his foe, dealing damage and stealing movement speed for 6 seconds.
+Brutal Strikes
+(E)
+Passive: Malphite's attacks deal damage to units around his target.
+Active: Malphite's damage is increased by a large %.
+Unstoppable Force
+(Ultimate)
+Malphite ferociously charges to a location, damage enemies and knocking them into the air when he reaches that location.
+Trivia
+[
+edit
+|
+edit source
+]
+While the
+Ground Slam's
+icon shows Malphite punching the ground, the actual animation has him slam the ground with his open palm instead.
+Ground Slam
+leaves an imprint shaped like the
+Riot Games Inc.
+logo upon impact.
+Malphite is one of a few champions to have multiple textures in one skin. When he uses
+Granite Shield
+or
+Thunderclap
+.
+Four other champions with this feature are
+LeBlanc
+(via
+Mirror Image
+),
+Shaco
+(via
+Hallucinate
+),
+Nasus
+(via
+Fury of the Sands
+) and
+Wukong
+(via
+Warrior Trickster
+).
+Malphite's dance references
+Capoeira
+(
+'Ginga Steps'
+in particular).
+A side-by-side comparison can be seen
+here.
+In
+Skarner's Theme Video
+, starting at 1:49, Malphite can be seen briefly with an updated visual model.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Vanguard
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+Vanguards
+are offensive tanks. Vanguards lead the charge for their team and specialize at bringing the action. Their explosive team fight initiation seeks to catch enemies out of position while allowing allies to follow-up to devastating effect.
+Examples
+Amumu
+Leona
+Sejuani
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Thunderclap
+COOLDOWN:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8
+Passive:
+Malphite
+gains
+bonus
+armor
+, tripled while
+Granite Shield
+is active.
+Active:
+Malphite's
+next basic attack within a few seconds is empowered to gain
+bonus
+range
+and deal
+bonus
+physical damage
+.
+Additionally,
+Malphite's
+basic attacks for the next few seconds trigger a cone in the direction of the target that deals
+physical damage
+to enemies hit.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Slow resist
+Slow resist
+is a stat that directly reduces the effectiveness of
+slows
+.
+League of Legends content
+Slow-immune
+Slow immunity
+is a status effect that prevents the application of
+slows
+.
+The following prevent the application of
+slows
+:
+Aphelios'
+Sentry
+Heimerdinger's
+H-28G Evolution Turret
+Master Yi's
+Highlander
+Nunu's
+Biggest Snowball Ever!
+Sejuani's
+Fury of the North
+Skarner's
+Ixtal's Impact
+Total
+crowd control immunity
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Granite Shield
+STATIC CD:
+8 / 7 / 6 (based on level)
+Innate:
+Malphite
+shields
+himself equal to a portion of
+his
+maximum
+health
+, which refreshes after a few seconds without taking damage.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Seismic Shard
+COOLDOWN:
+8
+Active:
+Malphite
+sends a shard to the target enemy that deals
+magic damage
+and
+slows
+them for a few seconds.
+He also gains
+bonus
+movement speed
+for the same duration.
+League of Legends content
+Ground Slam
+COOLDOWN:
+7
+Active:
+Malphite
+slams the ground beneath him, dealing
+magic damage
+to nearby enemies and
+crippling
+them for a short time.
+League of Legends content
+Unstoppable Force
+COOLDOWN:
+130 / 105 / 80
+Active:
+Malphite
+dashes
+with
+displacement immunity
+to the target location. Upon arrival, he deals
+magic damage
+to nearby enemies and briefly
+knocks them up
+.
+displacement immunity
+:
+The dash cannot be deterred by
+crowd control
+.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Cripple
+A unit that is
+crippled
+has reduced
+total
+attack speed
+for the duration.
+Sources of
+cripple
+stack multiplicatively with each other.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+cripple immunity
+.
+Removal:
+Removed by
+Cleanses
+and specifically
+Master Yi's
+Highlander
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+References
+[
+edit
+|
+edit source
+]
+↑
+Malphite's profile page
+at
+LeagueOfLegends.com

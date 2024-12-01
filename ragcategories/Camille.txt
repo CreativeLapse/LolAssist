@@ -1,0 +1,2592 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Camille
+the Steel Shadow
+Release date
+2016-12-07
+Last changed
+V14.21
+Class(es)
+Diver
+Legacy
+Fighter
+Assassin
+Position(s)
+Top
+Support
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+3
+Toughness
+2
+Control
+2
+Mobility
+3
+Utility
+1
+Style
+Difficulty
+Camille
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Camille
+Base statistics
+Edit
+Health
+650
++99
+Mana
+339
++52
+Health regen. (per 5s)
+8.5
++0.8
+Mana regen. (per 5s)
+8.15
++0.75
+Armor
+35
++5
+Attack damage
+68
++3.8
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+340
+Attack range
+125
+Attack speed
+Base AS
+0.644
+Attack windup
+19.33%
+AS ratio
+N/A
+Bonus AS
++2.5
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+100
+Pathing radius
+35
+Acq. radius
+550
+Special statistics
+Damage Dealt
++5%
+Damage Received
+-5%
+Healing
++20%
+Shielding
++10%
+Ability Haste
++10
+Damage Dealt
++0%
+Damage Received
+-5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Adaptive Defenses
+STATIC COOLDOWN
+:
+18 / 14 / 10 (based on level)
+Innate:
+Periodically,
+Camille's
+next basic attack against a champion will
+on-hit
+grant her a
+shield
+against their damage type (
+physical
+or
+magical
+) for a short time.
+Innate:
+Periodically,
+Camille's
+next
+basic attack
+on-hit
+against an enemy champion grants her a
+shield
+equal to
+20% of her
+maximum
+health
+, lasting for 2 seconds and absorbing damage from either exclusively
+physical damage
+or
+magic damage
+, based on which type the target has previously dealt most of against champions as well as on
+Camille's
+current
+armor
+and
+magic resistance
+.
+"Adapt or perish."
+Info
+Targeting input
+Passive
+Damage type
+Type
+Adaptive Defenses
+goes on cooldown after the shield expires or is destroyed.
+The shield-typing is determined based on the
+total
+damage the target has dealt to champions that game (as a percentage) versus
+Camille's
+current
+armor
+and
+magic resistance
+.
+For example, with little
+bonus
+resistances
+Camille
+would likely gain the most obvious shield-typing - i.e.
+physical shield
+versus champions primarily dealing
+physical damage
+and
+magic shield
+versus champions primarily dealing
+magic damage
+. However, if she has a sufficient amount of
+armor
+against a champion dealing both alternates of
+physical damage
+and
+magic damage
+, she will receive a magic shield as the
+physical damage
+threat is already being mitigated by her
+armor
+, and vice versa.
+The type of shield that will be granted to
+Camille
+when she attacks any one enemy champion is shown as an icon beneath their
+health bar
+:
+orange
+for physical shield and
+blue
+for magic shield.
+Adaptive Defenses
+takes priority over all other
+shields
+except
+Black Shield
+.
+Adaptive Defenses
+Will not grant
+Camille
+the shield is the attack is
+dodged
+,
+blocked
+, or if she is
+blinded
+.
+Video
+File:Camille - Passive
+Edit
+Precision Protocol
+COST:
+25 Mana
+COOLDOWN
+:
+9 / 8 / 7 / 6 / 5
+CAST TIME:
+none
+Active:
+Camille's
+next basic attack deals
+bonus
+physical damage
+and grants her
+bonus
+movement speed
+.
+Precision Protocol
+can be recast for a short time, dealing significantly increased damage if
+Camille
+delays the recast. A portion of the attack's damage will be dealt as
+true damage
+.
+Active:
+Camille
+empowers her next basic attack within 4 seconds to have an
+uncancellable windup
+, gain
+50
+bonus
+range
+, deal
+bonus
+physical damage
+and grant her
+bonus
+movement speed
+for 1 second.
+Bonus Physical Damage:
+20 / 25 / 30 / 35 / 40% AD
+Bonus Movement Speed:
+25 / 30 / 35 / 40 / 45%
+After 0.
+25
+seconds,
+Precision Protocol
+can then be recast within the next 3.
+5
+seconds at no additional cost.
+Recast:
+Camille
+mimics the first cast's effects. If
+Precision Protocol
+is recast after 1.
+5
+seconds of the first attack, then the
+bonus
+damage is doubled, and
+40% − 100% (based on level)
+of the attack's
+total
+damage will be dealt as
+true damage
+.
+Increased Mixed Damage:
+40 / 50 / 60 / 70 / 80% AD
+Both casts of Precision Protocol
+reset
+Camille's
+basic attack timer.
+Camille
+is able to cast
+Tactical Sweep
+,
+Hookshot
+, or
+The Hextech Ultimatum
+during the windup of Precision Protocol's empowered attack without cancelling it.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Spell damage
+Sub-type
+Physical damage
+/
+True damage
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Both casts count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Both enhanced attacks
+cannot
+critically strike
+.
+The 1.
+5
+-second delay is "fuzzy", meaning it may take up to another 0.
+25
+seconds to ready the window for the empowered attack.
+This syncs up perfectly with
+Sheen's
+cooldown between casts at 0
+item haste
+, which is also "fuzzy".
+The second attack will also become empowered if it simply starts after the 1.
+5
+-second delay, even if the recast was consumed earlier.
+The empowered
+recast
+'s
+true damage
+:
+Has a special case to factor
+Spellblade
+into the true damage conversion of part of her attack's damage.
+Other
+on-hit
+effects do not interact with the true damage conversion.
+Is not amplified by modifiers that do not increase true damage such as
+Coup de Grace
+.
+Randomly dependent on buff order, if
+Plated Steelcaps
+applies first before the conversion, then the resulting damage will be reduced, otherwise if the conversion happens first, then the damage will not be successively reduced (both effects are pre-mitigation on-take-damage events).
+(bug)
+Is dealt just prior to the physical damage portion of the attack.
+Precision Protocol
+applies to
+structures
+but the recast does not convert to true damage.
+The enhanced attack will still complete and hit the target even if they become
+untargetable
+during the
+attack's windup
+.
+Warden's Mail's
+flat damage reduction is reduced on the second cast, reducing the physical damage but not the true damage.
+(note)
+Video
+File:Camille - Q
+Edit
+Tactical Sweep
+COST:
+50 / 55 / 60 / 65 / 70 Mana
+COOLDOWN:
+17 / 15.
+5
+/ 14 / 12.
+5
+/ 11
+CAST TIME:
+none
+EFFECT RADIUS:
+325
+/
+650
+ANGLE:
+70°
+Active:
+Camille
+sweeps her leg after a delay, dealing
+physical damage
+to enemies hit in a cone. Enemies in the outer half are slowed and take increased damage, while also
+healing
+her.
+Active:
+Camille
+sweeps her leg in a cone in the target direction over 1.
+1
+seconds, during which she is
+ghosted
+and unable to declare basic attacks. Afterwards, she deals
+physical damage
+to all enemies within.
+Physical Damage:
+50 / 75 / 100 / 125 / 150
+(+ 60%
+bonus
+AD)
+Enemies hit by the outer half of the cone take
+additional
+physical damage
+, capped at 300 against
+monsters
+, and are
+slowed
+by 80% decaying over 2 seconds.
+Camille
+is
+healed
+for 100% of this
+additional
+damage
+post-mitigation
+against enemy
+champions
+in the outer half.
+Outer Cone Bonus Damage:
+6 / 6.
+5
+/ 7 / 7.
+5
+/ 8%
+(+ 2.
+5
+% per 100
+bonus
+AD)
+of target's
+maximum
+health
+Non-epic monsters take 50% damage from
+Tactical Sweep
+.
+Non-Epic Monster Damage:
+25 / 37.
+5
+/ 50 / 62.
+5
+/ 75
+(+ 30%
+bonus
+AD)
+Bonus Non-Epic Monster Damage:
+3 / 3.
+25
+/ 3.
+5
+/ 3.
+75
+/ 4%
+(+ 1.
+25
+% per 100
+bonus
+AD)
+of target's
+maximum
+health
+Other abilities can be cast during the animation without cancelling it.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Camille
+can move during the delay, but the hitbox and
+Camille's
+visuals are fixed to the initial target direction.
+Camille's
+facing-direction, for effects such as
+Petrifying Gaze
+, is the direction she is moving, and not the direction the model is facing.
+The 50% damage reduction against non-epic monsters applies after the cap. Because of this, the actual cap against non-epic monsters is 150 damage.
+Because the increased damage in the outer range of the cone is dealt as an
+additional
+instance of damage (as opposed to
+bonus
+damage to the original instance), it will trigger effects twice such as being reduced by
+Bone Plating
+an extra time.
+(note)
+It still belongs to the same
+cast instance
+, therefore it does not trigger additional stacks of
+Conqueror
+or
+Electrocute
+.
+Video
+File:Camille - W
+Edit
+Hookshot
+COST:
+70 Mana
+COOLDOWN:
+16 / 15 / 14 / 13 / 12
+CAST TIME:
+none
+TARGET RANGE:
+800
+WIDTH:
+100
+Active:
+Camille
+fires a grapple,
+dashing
+onto any terrain she hits and briefly perching onto it. While perched, she gains the ability to cast
+Wall Dive
+.
+Active:
+Camille
+fires a grapple in the target direction. If the grapple collides with terrain,
+Camille
+will
+dash
+toward and attach to the terrain for 0.
+75
+seconds, during which she gains the ability to cast
+Wall Dive
+.
+Camille
+will be
+knocked down
+by any
+immobilizing
+or
+polymorphing
+crowd control during the dash.
+Other abilities can be cast during the ability. Casting
+The Hextech Ultimatum
+will cause the grapple to disappear if it is in flight.
+Edit
+Wall Dive
+CAST TIME:
+none
+TARGET RANGE:
+400
+/
+800
+EFFECT RADIUS:
+130
+SPEED:
+1050 +
+100% movement speed
+Active:
+Camille
+dashes
+, dealing
+physical damage
+to enemies near the landing location. Dash range is doubled towards enemy
+champions
+. Upon colliding with an enemy
+champion
+, she
+knocks back
+and
+stuns
+all nearby enemy champions, gaining
+bonus
+attack speed
+.
+Active:
+Camille
+dashes
+in the target direction, dealing
+physical damage
+to enemies near the landing location.
+Wall Dive's
+range is doubled towards enemy
+champions
+within 1400 units.
+Camille
+grants
+ghosting
+to non-champions she passes through for 4 seconds.
+Physical Damage:
+60 / 90 / 120 / 150 / 180
+(+ 75%
+bonus
+AD)
+Camille
+stops prematurely upon colliding with an enemy champion,
+knocking back
+all nearby enemy champions, though not through terrain, as well as
+stunning
+them for 0.
+75
+seconds, while also gaining
+bonus
+attack speed
+for 5 seconds.
+Bonus Attack Speed:
+40 / 45 / 50 / 55 / 60%
+Wall Dive may be also cast with movement or attack commands. Other abilities besides
+The Hextech Ultimatum
+can be cast while grappled or during the dash.
+Targeting input
+Direction
+Counters
+Projectile
+Blocked
+Grounded
+See Notes
+Knockdown
+Interrupted
+Notes
+Camille
+may move while the grapple is in flight.
+Hookshot
+can be cast while
+rooted
+but not while
+grounded
+.
+Camille
+will grapple to terrain even if she is
+immobilized
+.
+Hookshot
+can interact with
+player-generated terrain
+.
+Sleep
+does not count for knocking the dash down.
+(bug)
+File:Camille - E
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Grounded
+See Notes
+Knockdown
+Interrupted
+Notes
+Wall Dive
+count as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Despite what one might assume from a wall-jumping ability,
+Wall Dive
+can
+be used to go through terrain (including the terrain she is bound to).
+Casting
+Flash
+during
+Wall Dive's
+dash will interrupt it but
+Camille
+will affect enemies around the new location.
+Wall Dive
+is disabled while
+grounded
+or
+rooted
+.
+Wall Dive
+will not automatically cast from movement or attack commands in both cases. While grounded, however,
+Camille
+is able to move while bound. She may still dash away from her current location once the grounding finishes.
+Camille
+will only gain a range indicator towards each valid champion within the extended dash range (800), but will still gain the extended dash range without the indicator against enemies within the 1400 range.
+She does not have to
+see
+any enemy champions to gain the range indicator or extended range.
+Displacement immunity
+will not resist the application of the
+stun
+.
+If
+Tactical Sweep
+is cast during
+Wall Dive's
+dash on its opposite direction, the target wil be  knockback further and to a different direction.
+(bug)
+The following table refers for interactions while
+Camille
+is bound to terrain:
+When
+Camille
+is interrupted, she will automatically cast
+Wall Dive
+. The only exception is if she was interrupted by casting
+Flash
+or
+Recall
+, in which case
+Wall Dive
+cancels.
+Attacking
+Initiates the dash towards attack target.
+Abilities
+Precision Protocol
+and
+Tactical Sweep
+are usable.
+The Hextech Ultimatum
+is disabled.
+Movement
+Initiates the dash towards the commanded location.
+Items
+Usable
+N/A
+Disabled
+N/A
+Interrupted by
+All items interrupt
+Consumables
+Interrupts
+Spells
+Usable
+N/A
+Disabled
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Teleport
+Hexflash
+Interrupted by
+Flash
+Recall
+Interrupted by
+Death
+Cast-inhibiting effects
+File:Camille - E
+Video
+File:Camille - E
+File:Camille - E
+Edit
+The Hextech Ultimatum
+COST:
+100 Mana
+COOLDOWN:
+140 / 115 / 90
+CAST TIME:
+none
+TARGET RANGE:
+475
+EFFECT RADIUS:
+425
+Active:
+Camille
+dives
+onto an enemy champion, creating a zone around the target and
+knocking away
+all other enemies. While within the zone, the target cannot escape through any means, and
+Camille's
+basic attacks deal
+bonus
+magic damage
+against them. The zone will disappear if
+Camille
+leaves or dies.
+Active:
+Camille
+becomes
+untargetable
+and
+leaps
+with
+displacement immunity
+towards the target enemy
+champion
+over 0.
+5
+seconds,
+revealing
+them for the duration and
+disrupting
+their ongoing
+channels
+.
+Upon landing on the target, she becomes targetable again and creates a hexagonal zone around her current location for a duration,
+knocking away
+all other nearby enemies on impact, though not through terrain.
+Zone Duration:
+2.
+5
+/ 3.
+25
+/ 4 seconds
+The target cannot escape the zone through any means. While within the zone,
+Camille's
+basic attacks deal
+bonus
+magic damage
+.
+Bonus Magic Damage:
+4 / 6 / 8% of target's
+current
+health
+The Hextech Ultimatum
+ends automatically within 1 second if
+Camille
+leaves the area or dies.
+"You will stay where I want you to stay!"
+Info
+Targeting input
+Unit
+Damage type
+Type
+Proc damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Not Interrupted
+The
+disrupt
+is 'nested' into a 0.
+4
+-second
+Silence debuff
+on the target, but unlike normal silences, this debuff does not actually make the target
+unable to cast
+. Instead, this makes sure that the
+disrupt
+is prevented by
+immunity to silences
+.
+Camille
+will attempt to basic attack the target upon landing.
+Camille
+will track the target if they change locations.
+She will always land and create the zone after 0.
+5
+seconds.
+If the target becomes
+untargetable
+,
+dies
+, or moves
+2000
+or more units away during the dash, it will be interrupted and the ability's
+cooldown
+and
+mana
+cost will not be refunded.
+Knockaway
+speed is 1000.
+If the target manages to be outside of the boundaries, they will immediately be pulled back towards the center of the hexagon.
+The boundaries are not considered terrain (
+Unstoppable Onslaught
+exception), and enemies that try to move out of the area will be displaced back inside.
+Dashes
+,
+blinks
+,
+displacements
+, and other forms of movement will cap their effect range to the boundary. Targets will stop at the boundary even after it expired.
+Ekko's
+Chronobreak
+will still deal damage at the hologram's location.
+An active
+Cease and Desist
+on a target outside the perimeter will cause
+Vi
+to continue her charge until
+The Hextech Ultimatum
+ends. She can knockback and damage secondary targets multiple times.
+If the target
+attaches
+to a unit, they will only be displaced back inside once they detach.
+The Hextech Ultimatum
+does not end nor break the bind to the victim.
+Kayn's
+Umbral Trespass
+allows him to cast it even if his target is outside the area, dashing through the borders and attaching despite being unable to escape.
+Yuumi's
+You and Me!
+allows her to bypass the borders if the unit she attaches to leaves the area.
+Tristana's
+Rocket Jump
+does not allow her to escape, but she applies the
+magic damage
+and
+slow
+.
+Sett's
+The Show Stopper
+does not allow him to pass through the borders and the dash will end prematurely when he encounters them.
+If the target of
+The Show Stopper
+is also the target of
+The Hextech Ultimatum
+, they can go through the borders while attached to him.
+If
+Camille
+enters
+resurrection
+during the initial cast, the
+dash
+is stopped and the zone is formed immediately.
+The Hextech Ultimatum
+ends if the target enters
+resurrection
+, but not if
+Camille
+does.
+The Hextech Ultimatum
+ends immediately if the target is dragged by
+Fear Beyond Death
+, or displaced outside of the zone by
+Dragon's Rage
+or
+Keeper's Verdict
+.
+The following table refers for interactions while
+Camille
+is dashing.
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+N/A
+Disabled
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Teleport
+Recall
+Hexflash
+Mark
+Dash
+Interrupted by
+N/A
+Interrupted by
+Death
+Video
+File:Camille - R
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Camille (Collection)
+.
+Original
+View in 3D
+975
+07.12.2016
+Weaponized to operate outside the boundaries of the law, Camille is the Principal Intelligencer of Clan Ferros—an elegant and elite agent who ensures the Piltover machine and its Zaunite underbelly runs smoothly. Adaptable and precise, she views sloppy technique as an embarrassment that must be put to order. With a mind as sharp as the blades she bears, Camille's pursuit of superiority through hextech body augmentation has left many to wonder if she is now more machine than woman.
+Emily O'Brien
+Evan 'Somnicidal' Monteiro
+Loot eligible
+Program
+View in 3D
+1350
+12.12.2016
+Weaponized to quell the G/NETIC rebellion, Program Camille is a robotic assassin who will kill any human trying to utilize unauthorized technology. A being of adaptable protocols and laser-like focus, she takes her orders directly from Program's superior artificial intelligence.
+Emily O'Brien
+Pan Chengwei
+Program
+Loot eligible
+Voice filter
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+Coven
+View in 3D
+1350
+27.11.2018
+They came to Camille as if in some dark slumber—whispers of the Ebony Ram, and the nameless things tumbling up from long-forgotten sepulchers. Her throat full of hearsay, she cuts down the vestiges of the new world, seeding the earth with the magics and witchery of her ancient, grinning masters.
+Emily O'Brien
+Jem Flores
+Coven
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Coven Camille Chromas
+Aquamarine
+Dark Ritual
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+iG
+View in 3D
+1350
+23.04.2019
+Honoring Ning's winning performance as Camille during the 2018 World Championship.
+Emily O'Brien
+Pan Chengwei
+World Champions: 2018
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Arcana
+View in 3D
+1350
+13.05.2021
+Poised precariously above the city, on the edge of High Arcana, Camille's power comes from surprise and defying expectations. Her patterns seem confusing and alarming—even perilous—to those who cross her path, but they always resolve to her benefit. When burdened on the brink, Camille is at her strongest, but no one truly knows what she plans to use all that strength for...
+Emily O'Brien
+Jessica 'OwleyCat' Oyhenart
+Arcana
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Arcana Camille Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Strike Commander
+View in 3D
+1350
+25.08.2022
+There are few truly “veteran” soldiers in the galaxy, and those who make it far enough to earn the title have done so for a reason. As commander of RSM's newly minted Strike Team Hyperion, Camille is ruthless, calculating, and fierce, bringing to bear the full power of the Y03-Principality on any target unlucky enough to end up in her sights.
+Emily O'Brien
+Jeremy Chong, West Studio
+Steel Valkyries
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Strike Commander Camille Chromas
+Ace
+Aquamarine
+Citrine
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+Winterblessed
+View in 3D
+1350
+06.12.2023
+As Senna continued her search, the bitter Camille pursued her with simmering rage. She was an elegant but ruthless dancer who ran afoul of a previous Polaris and was punished for it, enough so to lose her legs. Wielding newly empowered limbs, she ambushed Senna and summoned her compatriots, Sylas and Thresh. The Aurora thieves had arrived.
+Emily O'Brien
+Marie Magny, West Studio
+Winterblessed
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Winterblessed Camille Chromas
+Citrine
+Emerald
+Obsidian
+Ornamented
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Wreathguard
+Prestige Winterblessed
+View in 3D
+Special
+06.12.2023
+No one dances between the runway and the fashion house like Camille. She relishes letting her rivals mistake her cold demeanor for disinterest, only to be stomped into dust by her cutting edge designs. For this year's Winter Gala, she aims to leave everyone with fashionable blessings, as long as they remember who they got them from.
+Emily O'Brien
+Ina Wong, West Studio
+Winterblessed
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Winterblessed
+. Store variants are discounted for multiple purchases.
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.21
+Stats
+Base health reduced to 650 from 670.
+Tactical Sweep
+Base damage reduced to 50 / 75 / 100 / 125 / 150 from 70 / 100 / 130 / 160 / 190.
+Tooltip updated to reflect the 300 damage cap against monsters on the outer half.
+Wall Dive
+Bonus AD ratio reduced to
+75%
+bonus
+AD
+from
+90%
+.
+The Hextech Ultimatum
+Removed:
+No longer has a base on-hit damage of 5 / 10 / 15.
+V14.19
+Tactical Sweep
+Bug Fix:
+Fixed an issue that prevented her from getting the heal if damage was done to shields.
+V14.15
+Precision Protocol
+Bug Fix:
+True damage is no longer mitigated by some effects.
+V14.11
+Precision Protocol
+Bonus movement speed reduced to 25 / 30 / 35 / 40 / 45% from 30 / 35 / 40 / 45 / 50%.
+The Hextech Ultimatum
+Base damage reduced to 5 / 10 / 15 from 20 / 30 / 40.
+V14.7
+Precision Protocol
+Bonus movement speed increased to 30 / 35 / 40 / 45 / 50% from 30 / 32.
+5
+/ 35 / 37.
+5
+/ 40%.
+Cooldown reduced to 9 / 8 / 7 / 6 / 5 seconds from 9 / 8.
+25
+/ 7.
+5
+/ 6.
+75
+/ 6.
+Tactical Sweep
+Outer cone base damage increased to
+6 / 6.
+5
+/ 7 / 7.
+5
+/ 8% of target's
+maximum
+health
+from
+5 / 5.
+5
+/ 6 / 6.
+5
+/ 7%
+.
+Wall Dive
+Base damage reduced to 60 / 90 / 120 / 150 / 180 from 80 / 110 / 140 / 170 / 200.
+V14.2
+Stats
+Base health increased to 670 from 646.
+Adaptive Defenses
+Cooldown reduced to
+18 / 14 / 10 (based on level)
+from
+20 / 15 / 10 (based on level)
+.
+Precision Protocol
+Movement speed increased to 30 / 32.
+5
+/ 35 / 37.
+5
+/ 40% from 20 / 25 / 30 / 35 / 40%.
+V13.17
+Adaptive Defenses
+Bug Fix:
+Shield type indicator now uses the correct color for an enemy
+Neeko
+disguised as a champion that uses a different damage type from hers.
+V13.15
+Stats
+Attack damage growth increased to 3.
+8
+from 3.
+5
+.
+The Hextech Ultimatum
+Base damage increased to 20 / 30 / 40 from 5 / 10 / 15.
+V12.23
+Program Camille
+Bug Fix:
+Voice lines will no longer be played globally for allies and enemies as long as she was visible to them.
+V12.22
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+V12.17
+Adaptive Defenses
+Shield health ratio increased to
+20%
+maximum
+health
+from
+17%
+.
+Wall Dive
+Base damage increased to 80 / 110 / 140 / 170 / 200 from 60 / 95 / 130 / 165 / 200.
+Bonus AD ratio increased to
+90%
+bonus
+AD
+from
+75%
+.
+V12.10
+Stats
+Base health increased to 646 from 576.
+Health growth increased to 99 from 85.
+Armor growth increased to 5 from 3.
+8
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Adaptive Defenses
+Shield health ratio reduced to
+17%
+maximum
+health
+from
+20%
+.
+V11.24
+Tactical Sweep
+Outer cone base damage reduced to
+5 / 5.
+5
+/ 6 / 6.
+5
+/ 7%
+maximum
+health
+from
+6 / 6.
+5
+/ 7 / 7.
+5
+/ 8%
+.
+Outer cone bonus AD ratio reduced to
+2.
+5
+% per 100
+bonus
+AD
+from
+3.
+3
+%
+.
+Hookshot
+Cooldown increased to 16 / 15 / 14 / 13 / 12 seconds from 16 / 14.
+5
+/ 13 / 11.
+5
+/ 10.
+V11.21
+Precision Protocol
+New Effect:
+Now trigger spell effects when dealing damage.
+V11.18
+Adaptive Defenses
+Cooldown increased to
+20 / 15 / 10 (based on level)
+seconds from
+16 / 13 / 10 (based on level)
+.
+Hookshot
+Bug Fix:
+Fixed a bug where it would get cancelled upon using any consumables.
+V11.5
+Tactical Sweep
+Bug Fix:
+Heal now properly takes into account her outer cone bonus damage, not the inner cone damage.
+V11.4
+Tactical Sweep
+Cooldown increased to 17 / 15.
+5
+/ 14 / 12.
+5
+/ 11 seconds from 15 / 13.
+5
+/ 12 / 10.
+5
+/ 9.
+V11.1
+Stats
+Base health increased to 576 from 575.
+6
+.
+Not functional:
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.23
+Stats
+Mana growth increased to 52 from 32.
+V10.21
+Wall Dive
+Bonus attack speed reduced to 40 / 45 / 50 / 55 / 60% from 40 / 50 / 60 / 70 / 80%.
+V10.8
+Hookshot
+Indicator added to show recast ability timer.
+Indicator added to show empowerment timer.
+The Hextech Ultimatum
+Indicator added to show empowerment timer.
+V9.17
+Hookshot
+Bug Fix:
+Is now properly disabled when
+grounded
+. Can still be cast while
+rooted
+.
+Undocumented:
+Camille can now start moving if
+grounded
+while attached to a wall. She may still re-cast from her current location once the grounding finishes.
+V9.14
+- July 22nd Hotfix
+Precision Protocol
+Bug Fix:
+Now properly converts
+Sheen's
+bonus damage to true damage.
+V9.8
+Stats
+Base attack speed increased to 0.
+644
+from 0.
+625
+.
+V9.3
+Hookshot
+Removed:
+No longer collides with minions or monsters,
+stunning
+them for 0.
+75
+seconds.
+V8.24
+Stats
+Base attack speed reduced to 0.
+625
+from 0.
+644
+.
+V8.13
+Hookshot
+Base damage reduced to 60 / 95 / 130 / 165 / 200 from 75 / 120 / 175 / 210 / 255.
+V7.24
+Adaptive Defenses
+Shield duration increased to 2 seconds from 1.
+5
+.
+Precision Protocol
+Time to use second cast increased to 3.
+5
+seconds from 3.
+New Effect:
+Timer displays on icon showing second cast availability.
+V7.22
+Stats
+Base attack damage increased to 68 from 60.
+Base armor increased to 35 from 26.
+Tactical Sweep
+Base damage increased to 70 / 100 / 130 / 160 / 190 from 65 / 95 / 125 / 155 / 185.
+Hookshot
+Base damage increased to 75 / 120 / 175 / 210 / 255 from 70 / 115 / 160 / 205 / 250.
+V7.12
+Adaptive Defenses
+Cooldown reduced to
+16 / 13 / 10 (based on level)
+seconds from
+20 / 15 / 10 (based on level)
+.
+Precision Protocol
+Empowered second attack bonus damage increased to 100% from 80%.
+V7.7
+Tactical Sweep
+Removed:
+Outer half healing against minions and monsters.
+Now only heals against enemy champions.
+The Hextech Ultimatum
+Duration reduced to 2.
+5
+/ 3.
+25
+/ 4 seconds from 4 at all ranks.
+V7.4
+Hookshot
+Bug Fix:
+Fixed a bug where the second cast of
+Hookshot
+wasn't granting attack speed on hitting an enemy champion if she buffered her
+The Hextech Ultimatum
+.
+V7.3
+Precision Protocol
+Bonus damage on second hit reduced to 80% from 100%.
+Tactical Sweep
+New Effect:
+Now decays fully to 0% over the duration.
+Slow reduced to 80% from 90%.
+Hookshot
+Mana cost increased to 70 from 50.
+Stun duration reduced to 0.
+75
+seconds from 1.
+New Effect:
+Now only grants
+attack speed
+if she hits an enemy
+champion
+.
+The Hextech Ultimatum
+Removed:
+No longer persists for its full remaining duration after
+Camille
+dies.
+New Effect:
+Now dissipates within 1 second after
+Camille
+dies.
+V7.2
+Precision Protocol
+Bug Fix:
+Second cast now correctly damages wards at level 16 and higher.
+V7.1
+Stats
+Health growth reduced to 85 from 95
+Adaptive Defenses
+Duration reduced to 1.
+5
+seconds from
+1.
+5
+/ 2 / 2.
+5
+(based on level)
+.
+Hookshot
+Slightly increased radius where
+Camille
+will reveal herself if
+Hookshotting
+near enemies while she is in Fog of War.
+The Hextech Ultimatum
+Knockaway speed increased to 1000 from 600.
+Knockaway stun now only lasts until the target lands, rather than a 1-second fixed duration.
+Bug Fix:
+Border no longer disappears under elevated terrain.
+Bug Fix:
+The green triangle patterning on the ground during
+Program Camille's
+The Hextech Ultimatum
+no longer fails to appear if the camera moved away during the cast time.
+V6.24
+December 14th Hotfix
+Stats
+Base attack damage reduced to 60 from 62.
+Precision Protocol
+Second hit true damage conversion reduced to
+40 − 100 (based on level)
+% from
+55 − 100 (based on level)
+%.
+V6.24
+Added
+Adaptive Defenses
+- Innate
+Camille's
+next basic attack against enemy champions is periodically enhanced to shield her for
+20%
+maximum
+health
+against the target's most lethal damage type. If the target is liable to inflict more magic damage than physical damage against
+Camille
+, the shield exclusively blocks magic damage, otherwise, the shield exclusively blocks physical damage.
+Static Cooldown:
+20 / 15 / 10 (based on level)
+Precision Protocol
+- Q spell
+Camille's
+next basic attack deals
+20 / 25 / 30 / 35 / 40% AD
+bonus
+physical damage and grants her 20 / 25 / 30 / 35 / 40%
+bonus
+movement speed for 1 second.
+Precision Protocol
+can then be recast within the next 3 seconds at no extra cost. If recast at least 1.
+5
+seconds after the first attack,
+Precision Protocol's
+damage is doubled and
+55 − 100 (based on level)
+% of the damage is dealt as true damage. Both casts of
+Precision Protocol
+reset
+Camille's
+auto attack timer.
+Cooldown:
+9 / 8.
+25
+/ 7.
+5
+/ 6.
+75
+/ 6
+Cost:
+25
+Tactical Sweep
+- W spell
+After a brief delay,
+Camille
+sweeps her leg to deal 65 / 95 / 125 / 155 / 185
+(+ 60%
+bonus
+AD)
+physical damage all enemies in a cone in front of her. Enemies hit by the outer half of the cone are
+slowed
+by 90%, decaying over 2 seconds, and take
+6 / 6.
+5
+/ 7 / 7.
+5
+/ 8%
+(+ 3% per 100
+bonus
+AD)
+of target's
+maximum
+health
+bonus
+physical damage, healing
+Camille
+for the same amount, capped at
+10% of her
+maximum
+health
+against non-champions. Non-epic monsters take 50% reduced damage from
+Tactical Sweep
+.
+Cooldown:
+15 / 13.
+5
+/ 12 / 10.
+5
+/ 9
+Cost:
+50 / 55 / 60 / 65 / 70
+Hookshot
+- E spell
+First Cast:
+Camille
+fires a hookshot in the target direction that attaches to terrain, causing her to dash to it and enabling the second cast.
+Second Cast - Wall Dive:
+Camille
+dashes to the target location, range doubled if she is leaping toward an enemy champion. Upon colliding with the first enemy struck or finishing the dash,
+Camille
+deals 70 / 115 / 160 / 205 / 250
+(+ 75%
+bonus
+AD)
+physical damage to all nearby enemies and
+stuns
+them for 1 second. If
+Camille
+strikes an enemy on the second cast of
+Hookshot
+, she gains
+40 / 50 / 60 / 70 / 80%
+bonus
+attack speed
+for 5 seconds.
+Cooldown:
+16 / 14.
+5
+/ 13 / 11.
+5
+/ 10
+Cost:
+50
+The Hextech Ultimatum
+- R spell
+Camille
+dashes toward the target enemy champion, becoming untargetable during the leap. When she lands, she creates a locked, hexagonal zone around the target for 4 seconds,
+knocking away
+all other nearby enemies on impact. The target can move freely inside the zone, but cannot escape it through any means. While within the zone,
+Camille's
+basic attacks deal 5 / 10 / 15
+(+ 4 / 6 / 8% of target's
+current
+health)
+bonus
+magic damage.
+The Hextech Ultimatum's
+effects end automatically if
+Camille
+leaves the area.
+Cooldown:
+140 / 115 / 90
+Cost:
+100
+Trivia
+[
+edit
+|
+edit source
+]
+Camille
+is one of 21 champions without a single
+ability power
+ratio on any ability:
+Aatrox
+,
+Darius
+,
+Dr. Mundo
+,
+Draven
+,
+Garen
+,
+K'Sante
+,
+Kayn
+,
+Kled
+,
+Naafiri
+,
+Nilah
+,
+Olaf
+,
+Pyke
+,
+Riven
+,
+Samira
+,
+Sett
+,
+Talon
+,
+Urgot
+,
+Xayah
+,
+Yone
+, and
+Zed
+.
+Camille was the last champion released in
+2016
+, designed to make players 'feel like in-control badasses'.
+Her design bears a very strong resemblance to ​​​​Lin Beifong from the series
+Legend of Korra
+, with similar appearance, profession, and fighting style. She may have also been influenced by Gazelle from the movie
+Kingsman: The Secret Service
+.
+Camille's passive is so far the only instance of a shield that exclusively protects from physical damage.
+Camille
+is the French derivative of Latin
+Camilla
+, feminine form of
+cognomen
+Camillus
+.
+Camillus/a
+means 'temple attendant,' and has no Latin root. Earlier forms include Greek
+Κάδμος
+-Κάμιλλος-Κᾰσμῖλος-Κᾰδμῖλος, loaned from Pre-Greek
+*Hatʸmilʸ-
+.
+[2]
+The name Camille could also be a reference to the mythological warrior
+Camilla
+who appears in the second half of Vergil's Aeneid on the side of the
+Rutulians
+. She is a warrior virgin queen of the
+Volsci
+and serves under the goddess Diana. She was said to be so swift-footed she could run through a wheat field without breaking the tops of the stalks and run across the ocean without wetting her feet.
+Her clan's name
+Ferros
+probably references the Latin word for iron
+ferrum
+"
+iron
+".
+[3]
+Her dance references the
+Airflare
+, a
+breakdance move
+.
+A side-by-side comparison can be seen
+here
+.
+She shares this dance with
+Kennen
+.
+Her dance is very similar to
+PROJECT: Vayne's
+, whose dance is a similar breakdance move.
+A side-by-side comparison of her and
+PROJECT: Vayne's
+dances can be seen
+here.
+She was first mentioned in pre-rework
+Evelynn's
+color story
+The Shadows Beckon
+which is no longer canon.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Diver
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+Divers
+are the more mobile portion of the Fighter class. Divers excel at singling out high-priority targets to blitz toward, immediately forcing those targets (and their teammates) to deal with the diver’s presence. Divers are not as durable as the tanks or juggernauts of the world, but Divers can take their fair share of punishment while bringing enough damage to be a real kill threat if left unchecked.
+Examples
+Hecarim
+Jarvan IV
+Vi
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Black Shield
+COOLDOWN:
+26 / 23.
+5
+/ 21 / 18.
+5
+/ 16
+Active:
+Morgana
+shields
+the target allied champion or herself for a few seconds, which absorbs
+magic damage
+and grants
+crowd control immunity
+while the shield holds.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Tactical Sweep
+COOLDOWN:
+17 / 15.
+5
+/ 14 / 12.
+5
+/ 11
+Active:
+Camille
+sweeps her leg after a delay, dealing
+physical damage
+to enemies hit in a cone. Enemies in the outer half are slowed and take increased damage, while also
+healing
+her.
+League of Legends content
+Hookshot
+COOLDOWN:
+16 / 15 / 14 / 13 / 12
+Active:
+Camille
+fires a grapple,
+dashing
+onto any terrain she hits and briefly perching onto it.
+While perched, she gains the ability to cast
+Wall Dive
+.
+Wall Dive
+Active:
+Camille
+dashes
+, dealing
+physical damage
+to enemies near the landing location. Dash range is doubled towards enemy
+champions
+.
+Upon colliding with an enemy
+champion
+, she
+knocks back
+and
+stuns
+all nearby enemy champions, gaining
+bonus
+attack speed
+.
+League of Legends content
+The Hextech Ultimatum
+COOLDOWN:
+140 / 115 / 90
+Active:
+Camille
+dives
+onto an enemy champion, creating a zone around the target and
+knocking away
+all other enemies.
+While within the zone, the target cannot escape through any means, and
+Camille's
+basic attacks deal
+bonus
+magic damage
+against them.
+The zone will disappear if
+Camille
+leaves or dies.
+League of Legends content
+True damage
+Applies:
+Corrupting Potion
+Omnivamp
+Mitigated by:
+Damage shields
+Invulnerability
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Petrifying Gaze
+COOLDOWN:
+120 / 100 / 80
+Active:
+Cassiopeia
+blasts in a cone, dealing
+magic damage
+to enemies hit and
+stunning
+any that are facing her, while
+slowing
+any others with their back turned.
+References
+[
+edit
+|
+edit source
+]
+↑
+Camille's profile page
+at
+LeagueOfLegends.com
+↑
+Beekes, R.S.P.
+Etymological Dictionary of Greek
+, pp. 613-4
+↑
+DeVaan.
+Etymological Dictionary of Latin and the other Italic Languages
+, p. 213, 214

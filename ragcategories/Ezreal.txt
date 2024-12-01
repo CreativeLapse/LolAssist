@@ -1,0 +1,2636 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Ezreal
+the Prodigal Explorer
+Release date
+2010-03-16
+Last changed
+V14.15
+Class(es)
+Marksman
+Legacy
+Marksman
+Mage
+Position(s)
+Bottom
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Store price
+1350
+|
+585
+Crafting
++
+810
+Ratings
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+3
+Utility
+1
+Style
+Difficulty
+Ezreal
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Ezreal
+Base statistics
+Edit
+Health
+600
++102
+Mana
+375
++70
+Health regen. (per 5s)
+4
++0.65
+Mana regen. (per 5s)
+8.5
++1
+Armor
+24
++4.7
+Attack damage
+60
++2.75
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+325
+Attack range
+550
+Attack speed
+Base AS
+0.625
+Attack windup
+18.839%
+AS ratio
+N/A
+Bonus AS
++2.5
+%
+Missile speed
+2000
+Unit radius
+Gameplay radius
+65
+Selection radius
+115
+Pathing radius
+35
+Acq. radius
+550
+Special statistics
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Rising Spell Force
+Innate:
+Ezreal's
+abilities generate stacks of
+Rising Spell Force
+for each enemy hit, up to a cap.
+Rising Spell Force:
+For each stack,
+Ezreal
+gains
+bonus
+attack speed
+.
+Innate:
+Ezreal
+generates a
+stack
+of
+Rising Spell Force
+for each enemy hit by his
+abilities
+, lasting for 6 seconds, refreshing on subsequent hits, and stacking up to 5 times.
+Rising Spell Force:
+For each stack,
+Ezreal
+gains
+10%
+bonus
+attack speed
+, up to a maximum of
+50%
+.
+Info
+Targeting input
+Passive
+Rising Spell Force
+will stack even if the abilities hit were blocked by
+spell shields
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Bonus attack speed per stack changed to 15%.
+Edit
+Mystic Shot
+COST:
+28 / 31 / 34 / 37 / 40 Mana
+COOLDOWN:
+5.
+5
+/ 5.
+25
+/ 5 / 4.
+75
+/ 4.
+5
+CAST TIME:
+0.
+25
+TARGET RANGE:
+1200
+WIDTH:
+120
+SPEED:
+2000
+Active:
+Ezreal
+fires a bolt of energy that deals
+physical damage
+to the first enemy hit. If the bolt hits an enemy, all of
+Ezreal's
+ability cooldowns are
+reduced
+.
+Mystic Shot
+applies
+on-hit
+and
+on-attack
+effects.
+Active:
+Ezreal
+fires a bolt of energy in the target direction that deals
+physical damage
+to the first enemy hit and applies
+on-hit
+and
+on-attack
+effects at 100% effectiveness.
+Physical Damage:
+20 / 45 / 70 / 95 / 120
+(+ 130% AD)
+(+ 15% AP)
+If
+Mystic Shot
+successfully hits an enemy, the
+current
+cooldowns
+of
+Ezreal's
+abilities, including
+Mystic Shot's
+, are reduced by 1.
+5
+seconds.
+Info
+Targeting input
+Direction
+Damage type
+Type
+See Notes
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+See Notes
+Parries
+Blocked
+Projectile
+Blocked
+Mystic Shot
+deals
+basic damage
+, but also triggers spell effects by dealing an additional 0
+spell damage
+.
+Mystic Shot
+benefits from
+life steal
+,
+omnivamp
+, and
+physical vamp
+, but not
+spell vamp
+.
+Even if the ability is blocked by
+spell shield
+it will still trigger the cooldown reduction.
+This ability will cast from wherever the caster is at the end of the cast time.
+Mystic Shot
+will be buffered and cast when the cooldown ends if the player attempts to cast it within 0.
+05
+seconds of the cooldown ending.
+Map-Specific Differences
+Ultra Rapid Fire
+differences
+edit
+Cooldown reduction on
+Essence Flux
+,
+Arcane Shift
+, and
+Trueshot Barrage
+changed to 0.
+33
+seconds.
+Arena
+differences
+edit
+Base damage changed to 30 / 55 / 80 / 105 / 130.
+AD ratio changed to
+140% AD
+.
+AP ratio changed to
+20% AP
+.
+Video
+Edit
+Essence Flux
+COST:
+50 Mana
+COOLDOWN:
+8
+CAST TIME:
+0.
+25
+TARGET RANGE:
+1200
+WIDTH:
+160
+SPEED:
+1700
+Active:
+Ezreal
+fires an orb that shortly marks the first enemy
+champion
+, epic
+monster
+, or
+structure
+hit. His next attack or ability on the target detonates the mark, dealing
+magic damage
+. If the mark was detonated by an ability,
+Ezreal
+restores
+mana
+.
+Active:
+Ezreal
+fires an orb in the target direction that marks the first enemy
+champion
+, epic
+monster
+, or
+structure
+hit for 4 seconds.
+His next
+basic attack
+or
+ability
+against the target detonates the mark to deal them
+bonus
+magic damage
+.
+Bonus Magic Damage:
+80 / 135 / 190 / 245 / 300
+(+ 100%
+bonus
+AD)
+(+ 70 / 75 / 80 / 85 / 90% AP)
+If the mark was detonated with an ability,
+Ezreal
+restores
+60 mana
+plus the
+mana cost
+of that ability.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Parries
+See Notes
+Projectile
+Blocked
+The application of
+Essence Flux
+deals 0
+proc damage
+.
+This triggers
+in-combat
+effects such as drawing turret aggro and drawing
+monster aggression
+.
+It also triggers
+Sudden Impact
+and applies
+Elixir of Sorcery
+.
+It does not trigger
+Cheap Shot
+, however, as
+proc damage
+doesn't trigger
+Cheap Shot
+.
+Block
+and
+Dodge
+prevents the mark from being triggered by a basic attack.
+Spell shield
+prevents the mark from being triggered by an ability. If the mark is triggered by a basic attack, spell shield will prevent
+Essence Flux's
+damage.
+This ability will cast from wherever the caster is at the end of the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 110 / 170 / 230 / 290 / 350.
+Video
+Edit
+Arcane Shift
+COST:
+70 Mana
+COOLDOWN:
+26 / 23 / 20 / 17 / 14
+CAST TIME:
+0.
+25
+TARGET RANGE:
+475
+EFFECT RADIUS:
+750
+SPEED:
+2000
+Active:
+Ezreal
+blinks
+to the target location and fires a bolt that strikes the nearest enemy, dealing
+magic damage
+.
+Active:
+Ezreal
+blinks
+from his current location to up to 475 units towards the target location, then fires a homing bolt towards the nearest enemy that deals
+magic damage
+and
+reveals
+them for 1 second.
+Magic Damage:
+80 / 130 / 180 / 230 / 280
+(+ 50%
+bonus
+AD)
+(+ 75% AP)
+Arcane Shift
+prioritizes firing at the nearest enemy marked by
+Essence Flux
+.
+The target does not have to be
+visible
+to be hit by this ability. Arcane Shift will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Grounded
+Disabled
+If
+Ezreal
+is moved during the cast time, his range to blink will update accordingly. This does not exceed the maximum target range.
+The target is revealed as soon as
+Ezreal
+fires the missile at them.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 90 / 140 / 190 / 240 / 290.
+AP ratio changed to
+90% AP
+.
+Cooldown changed to 18 / 16 / 14 / 12 / 10 seconds.
+Video
+Edit
+Trueshot Barrage
+COST:
+100 Mana
+COOLDOWN:
+120 / 105 / 90
+CAST TIME:
+1
+TARGET RANGE:
+Global
+WIDTH:
+320
+SPEED:
+2000
+Active:
+Ezreal
+winds up to fire a powerful bolt of energy that deals
+magic damage
+to enemies hit.
+Active:
+Ezreal
+fires an arc of energy in the target direction that briefly grants
+sight
+of its surroundings and deals
+magic damage
+to enemies hit.
+Magic Damage:
+350 / 550 / 750
+(+ 100%
+bonus
+AD)
+(+ 90% AP)
+Minions
+and non-epic
+monsters
+take 50% reduced damage.
+Reduced Damage:
+175 / 275 / 375
+(+ 50%
+bonus
+AD)
+(+ 45% AP)
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Trueshot Barrage's
+projectile has an
+icon on the mini-map while it is in flight. It can be seen by only
+Ezreal
+and his allies.
+This ability will cast from wherever the caster is at the start of the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 390 / 540 / 690.
+AP ratio changed to
+110% AP
+.
+Video
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Ezreal (Collection)
+.
+Original
+View in 3D
+880
+16.03.2010
+A dashing adventurer, unknowingly gifted in the magical arts, Ezreal raids long-lost catacombs, tangles with ancient curses, and overcomes seemingly impossible odds with ease. His courage and bravado knowing no bounds, he prefers to improvise his way out of any situation, relying partially on his wits, but mostly on his mystical Shuriman gauntlet, which he uses to unleash devastating arcane blasts. One thing is for sure—whenever Ezreal is around, trouble isn’t too far behind. Or ahead. Probably everywhere.
+Daniel Amerman
+Suke 'hugehugesword' Su
+Loot eligible
+Nottingham
+View in 3D
+520
+16.03.2010
+An adventuring elf from the outlying forest kingdoms, Ezreal likes to present himself as a “handsome rogue-paladin” named Jarro Lightfeather. Very few people believe his claims of knighthood, but they serve as a decent enough distraction between his disastrous misadventures.
+Daniel Amerman
+Kelly Aleshire
+Albion
+Loot eligible
+Legacy
+Striker
+View in 3D
+520
+24.06.2010
+A young and flashy prodigy, Ezreal is Order United's most popular player. Or at least he was, until a long series of teleportation-related fouls got him in trouble with the oversight committee.
+Daniel Amerman
+Viktor Titov, Grafit Studio
+Soccer Cup
+Loot eligible
+Legacy
+Frosted
+View in 3D
+520
+18.07.2010
+Ezreal occasionally finds himself in the Freljord, searching for such-and-such ancient artifact. But braving sub-zero temperatures, terrifying ice beasts, and angry Freljordian tribes is a tall order, even for him—that's why he goes in disguise. He's practically a different person!
+Daniel Amerman
+Yan Li
+Freljord
+Loot eligible
+Explorer
+View in 3D
+750
+13.10.2010
+Ezreal's almost suicidal obsession with braving tombs, ruins, forbidden temples, and abandoned cities has netted him a tidy handful of priceless relics. Most of those relics are sold off to pay exploration-related medical bills, but one of these days…
+Daniel Amerman
+Sangsoo Jeong
+Legacy
+Loot eligible
+Legacy
+Pulsefire
+View in 3D
+3250
+29.06.2012
+Temporal fugitive and time-hopping explorer extraordinaire, Ezreal leaps across disparate realities searching for interesting technology to acquire. He is responsible for countless paradoxes and is currently wanted by the dystopian Remembrancers, who hunt him relentlessly.
+Daniel Amerman, Christine Brynn Khalil
+Jennifer Wuestling
+Pulsefire
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Transforming
+Includes Extras
+Chromas
+Pulsefire Ezreal forms
+Level 06
+Level 11
+Level 16
+TPA
+View in 3D
+750
+23.05.2013
+Honoring BeBe's winning performance as Ezreal during the 2012 World Championship.
+Daniel Amerman
+Bo Lu
+World Champions: 2012
+Loot eligible
+Legacy
+Debonair
+View in 3D
+750
+05.08.2014
+Tailored suits, fitted vests, and an elegant gauntlet let everyone know the difference between Ezreal and the common rabble is simple. He makes this look good, and they… don't.
+Daniel Amerman
+Sperasoft Studio
+Debonair
+Loot eligible
+Chromas
+Debonair Ezreal Chromas
+Amethyst
+Meteorite
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sandstone
+Striped
+Ace of Spades
+View in 3D
+750
+20.05.2015
+First is the Ace, at a hurtling pace,
+A man of both talent and vim,
+Who holds all the cards in the court of High Stakes
+Because everything's about him.
+Daniel Amerman
+Michal Ivan, Sixmorevodka Studio
+Highstakes
+Loot eligible
+Arcade
+View in 3D
+1350
+24.08.2016
+A skilled gamer transported to Arcade World by Veigar, Ezreal holds the world record for speedrunning the original version of Hyper Crystal Dungeon in 45 seconds, using a custom-made mobile controller. Veigar has made a terrible mistake.
+Daniel Amerman
+Xu 'Crow God' Cheng
+Arcade: Heroes
+Loot eligible
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+Star Guardian
+View in 3D
+1350
+06.09.2017
+With a boundless curiosity about the universe, Ezreal is a born explorer, and becoming a Star Guardian only served to fuel his appetite for discovery. Though known to wander off, he always returns when most needed, especially now, as a certain pink-haired Guardian from another team has caught his attention…
+Daniel Amerman
+Pan Chengwei, Alex 'alexplank' Flores, Esben Lash Rasmussen, Alvin Lee, Jean 'Curing' Go
+Star Guardian Season 2
+Loot eligible
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Pajama Guardian
+. Store variants are discounted for multiple purchases.
+SSG
+View in 3D
+1350
+20.07.2018
+Honoring Haru's winning performance as Ezreal during the 2017 World Championship.
+Daniel Amerman
+Rudy Siswanto, Pan Chengwei
+World Champions: 2017
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Pajama Guardian
+View in 3D
+1350
+21.11.2018
+The First Star has burdened Ezreal with a lot. The responsibility. The hefty weight of destiny. The sparkly outfit (he's used to it). “Attending a slumber party” was definitely not on the list of expected cosmic duties. Not that he minds, really… as long as they don't actually try to braid his hair.
+Daniel Amerman
+Sangsoo Jeong
+Star Guardian Season 2
+Loot eligible
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Star Guardian
+. Store variants are discounted for multiple purchases.
+Battle Academia
+View in 3D
+1820
+15.05.2019
+A young orphan initially thought devoid of any superhuman abilities, Ezreal had resigned himself to a normal life once he graduated middle school. But an encounter with a deadly threat awakened his slumbering potential, and now he finds himself a 1st year at the prestigious Durandal God-Weapon Academy, where he's joined the ragtag Battle Club.
+Daniel Amerman
+Alvin Lee
+Battle Academia
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Transforming
+Chromas
+Battle Academia Ezreal Chromas
+Mythic
+PsyOps
+View in 3D
+1350
+03.09.2020
+A young hotshot and the newest recruit in the elite PsyOps unit, Ezreal's raw psychic ability is only matched by his severely over-inflated ego. He has successfully annoyed the rest of his team to the point they just direct him towards hard targets and half-hope he winds up dead.
+Daniel Amerman
+Bo 'chenbowow' Chen
+PsyOps
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Prestige PsyOps
+View in 3D
+Special
+03.09.2020
+Ezreal's mastery of psychic military combat has driven him to new heights, attracting the attention of his handlers in High Command. He's calmed down a bit, earning some respect from his squad mates… but not enough. He's never calmed down enough.
+Daniel Amerman
+Sanhua Chen, Kudos Productions
+PsyOps
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+PsyOps
+. Store variants are discounted for multiple purchases.
+Porcelain Protector
+View in 3D
+1820
+26.01.2022
+After accidentally unleashing an ancient evil sorceress while doing research in the university archive, Ezreal narrowly escaped certain death when Lux and the spirit of the Tiger Relic stepped in to save him. Though he is new to the world of magic, Ezreal has joined the Protectors— determined to help solve the problem he (inadvertently) caused.
+Daniel Amerman
+Edward Chee, West Studio
+Porcelain
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Transforming
+Chromas
+Porcelain Protector Ezreal Chromas
+Catseye
+Golden Tiger
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Faerie Court
+View in 3D
+1350
+23.03.2023
+Though he is a lord of the Summer Court, Ezreal would much rather be investigating ancient magical history than putting up with all the political drama. When his research reveals something curious about the Faerie queen's line of succession, however, Ezreal discovers that someone may have placed Karma upon the throne for their own purposes…
+Daniel Amerman
+Exia Xiaotong, West Studio
+Faerie Court
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Faerie Court Ezreal Chromas
+Catseye
+Emerald
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Winsome
+HEARTSTEEL
+View in 3D
+1350
+08.11.2023
+After a manufactured one-hit wonder launched Ezreal into the spotlight, only for him to fall out of it again when the album got panned, Ezreal decided it was time he took some creative control back. Now, having left his old label and lending what star power he has to HEARTSTEEL, Ezreal has found musicians and friends he's ready to make a comeback with.
+Daniel Amerman
+Bo 'chenbowow' Chen, Julia Yurtsev, Jennifer Wuestling
+HEARTSTEEL
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+HEARTSTEEL Ezreal Chromas
+Catseye
+Citrine
+Emerald
+Pearl
+Rockstar
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Heavenscale
+View in 3D
+1350
+07.02.2024
+Wherever chaos is sown, dragons across the kingdom know to listen for Ezreal's mischievous laughter. His japes are harmless, but don't let that merry spirit fool you: he is a shrewd royal scout alongside Kai'Sa who has braved many adventures between bouts of pranking. Dressing up like a human to go party? Now that sounds like his idea of a good time.
+Daniel Amerman
+Joshua Raphael, West Studio
+Heavenscale
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Heavenscale Ezreal Chromas
+Amethyst
+Auspacious
+Catseye
+Emerald
+Lustrous
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Prestige Heavenscale
+View in 3D
+Special
+07.02.2024
+Ezreal's gilded gala garb is fit for royalty. Adorned in hand-crafted scales and crystal horns, this tastemaker came to the party with a mission: ring in the New Year not just with a bang, but a roar.
+Daniel Amerman
+Exia Xiaotong, West Studio
+Heavenscale
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Heavenscale
+. Store variants are discounted for multiple purchases.
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.17
+Stats
+Base attack damage reduced to 60 from 62.
+V14.15
+Mystic Shot
+AD ratio reduced to
+130% AD
+from
+140% AD
+.
+V14.12
+Stats
+Attack damage growth increased to 2.
+75
+from 2.
+5
+.
+Mystic Shot
+AD ratio increased to
+140% AD
+from
+130% AD
+.
+Trueshot Barrage
+Base damage increased to 350 / 550 / 750 from 325 / 500 / 675.
+V14.3
+Mystic Shot
+AD ratio reduced to
+130% AD
+from
+135% AD
+.
+Trueshot Barrage
+Base damage reduced to 325 / 500 / 675 from 350 / 525 / 700.
+Bonus AD ratio reduced to
+100%
+bonus
+AD
+from
+120%
+.
+V14.2
+Mystic Shot
+AD ratio increased to
+135% AD
+from
+130% AD
+.
+Essence Flux
+Bonus AD ratio increased to
+100%
+bonus
+AD
+from
+60%
+.
+Trueshot Barrage
+Base damage increased to 350 / 525 / 700 from 350 / 500 / 650.
+Bonus AD ratio increased to
+120%
+bonus
+AD
+from
+100%
+.
+V14.1
+- January 12th Hotfix
+Essence Flux
+Cooldown reduced to 8 seconds from 12.
+Arcane Shift
+Mana cost reduced to 70 from 90.
+V13.21
+General
+Bug Fix:
+Voice lines for when he scores
+First Blood
+or attacks epic monsters have been restored.
+V13.18
+Essence Flux
+Bug Fix:
+Mark is now properly triggered when hitting a target with an ability that doesn't apply on-hit effects even if they are under the effect of a
+dodging
+ability.
+V13.8
+Stats
+Base attack damage increased to 62 from 60.
+V13.6
+Pulsefire Ezreal
+Bug Fix:
+Trueshot Barrage
+thruster particle VFX no longer spawn at significant offset from the fired arc.
+V13.5
+Essence Flux
+Bug Fix:
+Can no longer be triggered by a
+Mystic Shot
+that was
+blocked
+.
+V13.4
+General
+Bug Fix:
+Critical strike hit VFX now properly play for some skins.
+Bug Fix:
+Skins with capes now play the correct animations for their cape.
+V13.1b
+Stats
+Mana regeneration growth increased to 1 from 0.
+65
+.
+V13.1
+Star Guardian Ezreal
+/
+Pajama Guardian Ezreal
+Bug Fix:
+Homeguard
+animation is now properly played.
+V12.17
+Arcane Shift
+Cooldown reduced to 26 / 23 / 20 / 17 / 14 seconds from 28 / 25 / 22 / 19 / 16.
+V12.10
+Stats
+Base health increased to 600 from 530.
+Health growth increased to 102 from 88.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V12.8
+Trueshot Barrage
+Cooldown reduced to 120 / 105 / 90 seconds from 120 at all ranks.
+V11.21
+Mystic Shot
+Bug Fix:
+Fixed a bug where it did not count toward the stacking effect of
+Mortal Reminder's
+passive.
+V11.12
+General
+Adjusted splash artwork for
+TPA Ezreal
+.
+V11.11
+General
+Bug Fix:
+Voice lines for opening the shop plays once again.
+Stats
+Health regeneration growth increased to 0.
+65
+from 0.
+55
+.
+Base armor increased to 24 from 22.
+V11.5
+Mystic Shot
+Bug Fix:
+Fixed a bug where this attack would not trigger
+Runaan's Hurricane's
+Wind's Fury if he casted it and turned around before it hit.
+This was done by making
+Ezreal's
+current facing direction turn towards
+Mystic Shot's
+victim if the hit triggered
+Runaan's Hurricane's
+Wind's Fury.
+V11.3
+Mystic Shot
+AD ratio increased to
+130% AD
+from
+120% AD
+.
+V11.1
+Mystic Shot
+Bug Fix:
+Now properly triggers
+Muramana's
+Shock only once.
+V10.23
+Stats
+Mana growth increased 70 from 50.
+V10.16
+Pulsefire Ezreal
+Bug Fix:
+VFX can now properly be seen in spectator mode.
+V10.14
+Arcane Shift
+Cooldown increased to 28 / 25 / 22 / 19 / 16 seconds 25 / 22 / 19 / 16 / 13.
+V10.11
+Stats
+Base health increased to 530 from 500.
+Health growth increased to 88 from 86.
+V10.4
+Essence Flux
+Bug Fix:
+Orb now has a debuff icon when it attaches to a target.
+V10.3
+Stats
+Mana growth increased to 50 from 42.
+Attack speed growth increased to 2.
+5
+% from 1.
+5
+%.
+Mystic Shot
+Now correctly triggers
+on-attack
+effects.
+V9.24b
+Mystic Shot
+AD ratio increased to
+120% AD
+from
+110% AD
+.
+V9.23
+- November 21st Hotfix
+Stats
+Base health increased to 500 from 491.
+Base mana increased to 375 from 360.
+Base mana regeneration increased to 8.
+5
+from 8.
+092
+.
+Mystic Shot
+Base damage increased to 20 / 45 / 70 / 95 / 120 from 15 / 40 / 65 / 90 / 115.
+V9.16
+Mystic Shot
+AP ratio reduced to
+15% AP
+from
+30% AP
+.
+Arcane Shift
+Cooldown increased to 25 / 22 / 19 / 16 / 13 seconds from 19 / 17.
+5
+/ 16 / 14.
+5
+/ 13.
+V9.13
+General
+Bug Fix:
+Ability VO lines will play less frequently.
+V9.12
+General
+Adjusted splash artwork for
+Ace of Spades Ezreal
+.
+V8.24
+Mystic Shot
+Bug Fix:
+Corrected interaction when casting
+Flash
+mid-cast. Skillshot now fires toward target position.
+Essence Flux
+Bug Fix:
+Corrected interaction when casting
+Flash
+mid-cast. Skillshot now fires toward target position.
+Pulsefire Ezreal
+Bug Fix:
+Recall VO has been restored.
+V8.23
+Essence Flux
+Base damage increased to 80 / 135 / 190 / 245 / 300 from 75 / 125 / 175 / 225 / 275.
+AP ratio increased to
+70 / 75 / 80 / 85 / 90% AP
+from
+70% AP
+at all ranks.
+Trueshot Barrage
+Removed:
+The total damage is no longer reduced to
+100% − 30% (based on enemy hit)
+.
+New Effect:
+The total damage is now reduced by 50% against minions and non-epic monsters.
+V8.21
+General
+Bug Fix:
+Double-pressing
+Ezreal's
+abilities no longer cancels movement commands.
+Essence Flux
+Base damage increased to 75 / 125 / 175 / 225 / 275 from 75 / 120 / 165 / 210 / 255.
+V8.20
+- Visual Update
+General
+Complete visual upgrade across all skins.
+New artwork for
+Nottingham Ezreal
+,
+Striker Ezreal
+,
+Explorer Ezreal
+, and
+Pulsefire Ezreal
+.
+Adjusted artwork for
+Original Ezreal
+,
+Frosted Ezreal
+,
+TPA Ezreal
+,
+Debonair Ezreal
+,
+Ace of Spades Ezreal
+, and
+Arcade Ezreal
+.
+New voice over.
+New lore.
+Rising Spell Force
+New ability icon.
+Mystic Shot
+New ability icon.
+AP ratio reduced to
+30% AP
+from
+40% AP
+.
+Essence Flux
+- Reworked W
+Active:
+Ezreal
+fires an orb that sticks to first champion, epic monster, turret, inhibitor, or nexus hit for 4 seconds.
+Hitting the orb with an ability or attack detonates it dealing 75 / 120 / 165 / 210 / 255
+(+ 60%
+bonus
+AD)
+(+ 70% AP)
+magic damage. Detonating with an ability refunds the cost of that ability plus
+60 mana
+.
+Range:
+1150.
+Mana Cost:
+50.
+Cooldown:
+12 seconds.
+Arcane Shift
+New Effect:
+Now prioritizes target hit by
+Essence Flux
+.
+New ability icon.
+Trueshot Barrage
+New ability icon.
+V8.19
+SSG Ezreal
+Bug Fix:
+Ability VFX have received a clarity pass.
+V8.17
+General
+Adjusted splash artwork for
+TPA Ezreal
+.
+V8.15
+SSG Ezreal
+Bug Fix:
+Now properly listed as World Champions: 2017 in the Skins Collections tab.
+V8.14
+Star Guardian Ezreal
+Bug Fix:
+Shields are no longer misplaced during his dancing animation.
+V8.12
+Stats
+Base armor reduced to 22 from 25.
+V8.11
+- June 1st Hotfix
+Stats
+Attack damage growth reduced to 2.
+5
+from 3.
+11
+.
+Rising Spell Force
+Bonus attack speed per stack reduced to 10% at all levels from
+10 / 12 / 14 (based on level)
+%.
+V8.11
+Stats
+Base health increased to 491 from 484.
+4
+.
+Health growth increased to 86 from 80.
+Base armor reduced to 25 from 31.
+Base health regeneration reduced to 4 from 6.
+5
+.
+Base attack damage reduced to 60 from 64.
+Attack damage growth increased to 3.
+11
+from 2.
+41
+.
+V8.3
+Stats
+Base health regeneration increased to 6.
+5
+from 6.
+424
+.
+V8.2
+Mystic Shot
+Base damage reduced to 15 / 40 / 65 / 90 / 115 from 35 / 55 / 75 / 95 / 115.
+V7.24b
+Stats
+Attack speed growth reduced to 1.
+5
+% from 2.
+8
+%.
+V7.24
+Mystic Shot
+AD ratio reduced to
+110% AD
+from
+125% AD
+.
+V7.22
+Stats
+Base attack damage increased to 64 from 55.
+66
+.
+Base armor increased to 31 from 21.
+88
+.
+Arcane Shift
+Base damage increased to 80 / 130 / 180 / 230 / 280 from 75 / 125 / 175 / 225 / 275.
+V7.19
+Pulsefire Ezreal
+Bug Fix:
+Homeguard animation has been restored.
+V7.17
+Mystic Shot
+AD ratio increased to
+125% AD
+from
+110% AD
+.
+V7.15
+Mystic Shot
+Cooldown reduced to 5.
+5
+/ 5.
+25
+/ 5 / 4.
+75
+/ 4.
+5
+seconds from 6.
+5
+/ 6 / 5.
+5
+/ 5 / 4.
+5
+.
+Pulsefire Ezreal
+Essence Flux
+Bug Fix:
+On-hit SFX have been restored.
+Trueshot Barrage
+Bug Fix:
+The on-hit SFX volume has been turned up to be equivalent to all other
+Ezreal
+skins.
+V7.11
+Pulsefire Ezreal
+Rising Spell Force
+Bug Fix:
+Hand-glowy particles for effects like
+Sheen
+and
+Rising Spell Force
+no longer slip to his elbow during his
+Recall
+.
+Mystic Shot
+Bug Fix:
+Fixed a bug where, when
+Statikk Shiv's
+chain lighting was proc'd by
+Mystic Shot
+, it wasn't properly critting at 100% crit chance.
+Bug Fix:
+On-hit particles now properly display when killing jungle monsters.
+Trueshot Barrage
+Bug Fix:
+On-hit particles now properly display when killing jungle monsters.
+V7.10
+General
+Pulsefire Ezreal
+has been updated with a new VO, recall and new texture for all of his forms.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.7
+Pulsefire Ezreal
+Mystic Shot
+Bug Fix:
+If he uses
+Mystic Shot
+while affected by the aura buff of
+Sona's
+Hymn of Valor
+, he now properly uses his own VFX rather than
+Sona's
+.
+V7.3
+Pulsefire Ezreal
+Bug Fix:
+Fixed a bug where the flying animation stopped, but the audio didn't.
+V6.21
+Pulsefire Ezreal
+Bug Fix:
+Recall
+VO lines no longer stop playing after he dies.
+V6.17
+Rising Spell Force
+Bonus attack speed increased to
+10 / 12 / 14 (based on level)
+% from 10% at all levels.
+V6.15
+General
+Adjusted splash artwork for
+Frosted Ezreal
+.
+V6.4
+Trueshot Barrage
+Cooldown increased to 120 seconds from 80.
+V5.22
+Stats
+Base attack damage increased to 55.
+66
+from 50.
+24
+.
+Attack damage growth reduced to 2.
+41
+from 3.
+Base mana increased to 360.
+6
+from 310.
+6
+.
+Mana growth reduced to 42 from 45.
+Mystic Shot
+On-hit cooldown reduction increased to 1.
+5
+seconds from 1 second.
+Cooldown increased to 6.
+5
+/ 6 / 5.
+5
+/ 5 / 4.
+5
+seconds from 6 / 5.
+5
+/ 5 / 4.
+5
+/ 4.
+Arcane Shift
+Cooldown increased to 19 / 17.
+5
+/ 16 / 14.
+5
+/ 13 from 19 / 17 / 15 / 13 / 11.
+V5.20
+General
+New splash artwork for
+Frosted Ezreal
+.
+V5.18
+Arcane Shift
+New Effect:
+Now has a scales of
+50%
+bonus
+AD
+.
+V5.13
+Pulsefire Ezreal
+Updated basic attack animation and visual effects to feel more responsive.
+Mystic Shot
+Updated animation to feel more responsive.
+V5.11
+General
+Adjusted artwork for
+Ace of Spades Ezreal
+.
+V4.20
+General
+Texture update to Classic, Explorer, Frosted, Nottingham and Striker Ezreal.
+V4.19
+General
+New splash artwork for
+Original Ezreal
+.
+V4.18
+Rising Spell Force
+Buff duration increased to 6 seconds from 5.
+Mystic Shot
+AD ratio increased to
+110% AD
+from
+100% AD
+V4.16
+General.
+New lore.
+V4.12
+Essence Flux
+New Effect:
+Can now benefit from the attack speed increase if he places himself within the wave.
+V4.5
+Stats
+Base armor increased to 16 from 12.
+V4.4
+Mystic Shot
+AP ratio increased to
+40% AP
+from
+20% AP
+.
+V3.10
+Mystic Shot
+Undocumented: Animation changed to match auto-attack animation.
+V3.6
+Pulsefire Ezreal
+Bug Fix:
+Fixed a bug where he would occasionally not see gold popups for some of his last hits on targets in plain view.
+Bug Fix:
+Fixed a bug where he would play his death animation a second time if
+Trueshot Barrage
+was leveled up while dead.
+V3.01
+Stats
+Base movement speed reduced to 325 from 330.
+Rising Spell Force
+Duration reduced to 5 seconds from 6.
+Trueshot Barrage
+Damage falloff per target hit increased to 10% from 8%.
+V1.0.0.154
+Stats
+Base attack speed reduced to 0.
+625
+from 0.
+665
+.
+V1.0.0.152
+Stats
+Movement speed increased to 330 from 305.
+V1.0.0.150
+Essence Flux
+No longer reduces enemy champion attack speed.
+V1.0.0.146
+Mystic Shot
+Mana cost reduced to 28 / 31 / 34 / 37 / 40 from 30 / 35 / 40 / 45 / 50.
+Essence Flux
+Base damage reduced to 70 / 115 / 160 / 205 / 250 from 80 / 130 / 180 / 230 / 280.
+AP ratio increased to
+80% AP
+from
+60% AP
+.
+Missile width reduced to 80 from 120.
+V1.0.0.144
+General
+Splash artwork for
+Original Ezreal
+,
+Nottingham Ezreal
+,
+Striker Ezreal
+,
+Frosted Ezreal
+and
+Explorer Ezreal
+updated to the Chinese art.
+V1.0.0.142
+Mystic Shot
+Bug Fix:
+Fixed a bug where it had different ranges at different levels.
+V1.0.0.140b
+Essence Flux
+Mana cost reduced to 50 / 60 / 70 / 80 / 90 from 60 / 70 / 80 / 90 / 100.
+Trueshot Barrage
+Mana cost reduced to 100 from 150.
+V1.0.0.133
+General.
+Bug Fix:
+Fixed a bug where Ezreal would lose his run animation and appear to be "skating" after 390 movement speed.
+Trueshot Barrage
+New Effect:
+Now grants vision while in flight.
+V1.0.0.129
+Essence Flux
+Bug Fix:
+Now correctly flagged as an area effect spell.
+V1.0.0.125
+Essence Flux
+New Effect:
+Now break spell shields.
+V1.0.0.122
+Mystic Shot
+Bug Fix:
+Fixed a bug where it did not interact with spell shields.
+V1.0.0.121
+General
+Adjusted auto attack animation to be more responsive.
+Essence Flux
+Mana cost reduced to 60 / 70 / 80 / 90 / 100 from 70 / 80 / 90 / 100 / 110.
+Trueshot Barrage
+Cooldown reduced to 80 seconds from 100.
+V1.0.0.116
+Mystic Shot
+New Effect:
+Now additionally scales with
+20% AP
+.
+Trueshot Barrage
+New Effect:
+Now scales additively with both attack damage and ability power instead of just the higher of the two.
+V1.0.0.115
+Mystic Shot
+Bug Fix:
+Fixed a bug where it was granting 2 charges of
+Guinsoo's Rageblade
+/
+Tear of the Goddess
+upon cast.
+V1.0.0.114
+Arcane Shift
+Bug Fix:
+Fixed a bug where it could target unseen minions such as wards.
+V1.0.0.112
+Trueshot Barrage
+New Effect:
+Now scales with the higher of a
+100%
+bonus
+AD
+ratio OR the existing
+90% AP
+ratio.
+V1.0.0.110
+Rising Spell Force
+New Effect:
+Now has a particle to indicate the amount of stacks.
+Bug Fix:
+Fixed a tooltip bug that stated Ezreal was gaining 15% attack speed per stack instead of 10%.
+Bug Fix:
+Fixed a bug where some of Ezreal's spells were displaying incorrect text on cast.
+V1.0.0.107
+Stats
+Base damage increased to 47.6 from 45.
+Damage per level increased to 3 from 2.6.
+Base attack speed increased to 0.665 from 0.658.
+V1.0.0.104
+Essence Flux
+Changed the attack speed increase to be additive rather than multiplicative.
+Cooldown reduced to 9 seconds from 10.
+Trueshot Barrage
+AP ratio increased to
+90% AP
+from
+80% AP
+.
+V1.0.0.103
+Essence Flux
+AP ratio increased to
+70% AP
+from
+60% AP
+.
+Trueshot Barrage
+AP ratio increased to
+80% AP
+from
+70% AP
+.
+V1.0.0.100
+Stats
+Base damage reduced to 45 from 47.6.
+Damage per level reduced to 2.6 from 3.
+Attack speed per level reduced to 2.8 from 3.22.
+Arcane Shift
+Can no longer be cast while rooted.
+Mystic Shot
+Base damage reduced to 35 / 55 / 75 / 95 / 115 from 40 / 65 / 90 / 115 / 140.
+Essence Flux
+Mana cost reduced to 70 / 80 / 90 / 100 / 110 from 80 / 90 / 100 / 110 / 120.
+V1.0.0.99
+Mystic Shot
+AD ratio reduced to
+100% AD
+from
+110% AD
+.
+V1.0.0.98
+Trueshot Barrage
+Bug Fix:
+Fixed a bug where Ezreal's voice would play at the target location instead of where Ezreal was.
+V1.0.0.97
+Essence Flux
+Bug Fix:
+Fixed a discrepancy in its level-up tooltip that incorrectly mentioned a heal.
+V1.0.0.94(b)
+Mystic Shot
+Range reduced to 1100 from 1200.
+AD ratio reduced to
+110% AD
+from
+120% AD
+.
+Arcane Shift
+Cooldown increased to 19 / 17 / 15 / 13 / 11 seconds from 17 / 15 / 13 / 11 / 9 seconds.
+V1.0.0.94
+Essence Flux
+Attack speed buff/debuff increased to 20 / 23 / 26 / 29 / 32% from 5 / 10 / 15 / 20 / 25%.
+Removed the heal component.
+V1.0.0.87
+Mystic Shot
+AD ratio increased to
+120% AD
+from
+100% AD
+.
+Essence Flux
+Heal amount reduced to 50% of the damage value from 70%.
+Attack speed buff/debuff reduced to 5 / 10 / 15 / 20 / 25% from 20 / 25 / 30 / 35 / 40%.
+Trueshot Barrage
+AP ratio reduced to
+70% AP
+from
+100% AP
+.
+V1.0.0.85
+Essence Flux
+Heal reduced to 70% of the damage value from 100%.
+V1.0.0.81
+Stats
+Base armor increased to 12 from 9.
+Base damage increased to 49 from 47.
+Base mana regeneration increased to .9 from .8.
+Movement speed increased to 305 from 300.
+Rising Spell Force
+Duration increased to 6 seconds from 5.
+Mystic Shot
+Base damage increased to 40 / 65 / 90 / 115 / 140 from 40 / 60 / 80 / 100 / 120.
+Essence Flux
+Missile width increased to 120 from 100.
+Arcane Shift
+Closest unit targeting range increased to 750 from 650.
+Mana cost reduced to 90 from 100.
+V1.0.0.79
+Added
+Rising Spell Force
+(Innate)
+Hitting a target with any of Ezreal's abilities increases his attack speed by 15% for 5 seconds, up to 75%.
+Mystic Shot
+(Q)
+Ezreal fires a bolt of energy, if it strikes an enemy unit it reduces all of Ezreal's cooldowns by 1 second.
+Essence Flux
+(W)
+Ezreal fires a fluctuating wave of energy, damaging and reducing enemy champions attack speed, as well as healing and increasing allied champions attack speed.
+Arcane Shift
+(E)
+Ezreal teleports to a target nearby location and fires a homing arrow which strikes the nearest enemy unit.
+Trueshot Barrage
+(Ultimate)
+Ezreal channels for 1 second to fire a powerful barrage of energy missiles which do massive damage to each unit they pass through (deals 8% less damage to each unit it passes through).
+Trivia
+[
+edit
+|
+edit source
+]
+Ezreal was the first to have a '
+Champion Spotlight
+'.
+He is one of few to feature in multiple ones due to significant gameplay changes (the others being
+Lee Sin
+,
+Karma
+,
+Katarina
+, and
+Sivir
+).
+He was also the first
+6300
+champion released after the game's official launch on 27-Oct-2009.
+He was named after
+Colt 'Ezreal' Hallam
+.
+His dance both before and after his
+visual update
+references the dance from the '
+Hare Hare Yukai
+' ED of the
+The Melancholy of Haruhi Suzumiya
+anime.
+According to a forum post by Colt 'Ezreal' Hallam, the idea for him to have this dance came from
+Miyuki 'Shurelia' Mitsuhashi
+.
+[2]
+A side-by-side comparison from before his update can be seen
+here
+.
+A side-by-side comparison from after his update can be seen
+here
+.
+Much like
+Akali's
+Visual Gameplay Update, Ezreal's previous iteration is still considered canon.
+[3]
+[4]
+Ezreal is the first champion to have 13 skins and one of the first to have 12 skins.
+He and
+Miss Fortune
+attained their twelfth skin at the same time with the
+Pajama Guardian
+skin set.
+Ezreal is the first champion to have a
+skillshot
+ability that can give buffs to allies with his
+Essence Flux
+, but it was reworked from
+V8.20
+.
+Ezreal is also the first champion to have a
+skillshot
+ability that can heal to allies with his
+Essence Flux
+, but its heal component was removed from
+V1.0.0.94
+.
+There is a
+Runescape
+NPC
+based on and named after Ezreal.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Marksman
+Marksmen
+(formerly "Carries") excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger. Although Marksmen have the ability to stay relatively safe by kiting their foes, they are very fragile and are extremely reliant on powerful item purchases to become true damage threats.
+At present, Marksmen do not have any official subclasses. The following have been considered:
+Demolisher
+Scrapper
+Examples
+Ashe
+Ezreal
+Lucian
+Kai'Sa
+Jhin
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Bottom
+Within a
+drafted team
+, the
+Bottom Carry
+is one of the two champions assigned to the bottom lane alongside the
+Support
+. Being the most vulnerable, the
+Bottom Carry
+has to acquire as much gold as possible to purchase key items that will greatly increase their fighting potential.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Bottom Carry
+is expected to fulfill the former designation: the position is made for champions that highly depend on item-based power spikes.
+Marksmen
+are the most likely champions to be selected in the
+Bottom Carry
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Essence Flux
+COOLDOWN:
+8
+Active:
+Ezreal
+fires an orb that shortly marks the first enemy
+champion
+, epic
+monster
+, or
+structure
+hit.
+His next attack or ability on the target detonates the mark, dealing
+magic damage
+. If the mark was detonated by an ability,
+Ezreal
+restores
+mana
+.
+League of Legends content
+Arcane Shift
+COOLDOWN:
+26 / 23 / 20 / 17 / 14
+Active:
+Ezreal
+blinks
+to the target location and fires a bolt that strikes the nearest enemy, dealing
+magic damage
+.
+League of Legends content
+Trueshot Barrage
+COOLDOWN:
+120 / 105 / 90
+Active:
+Ezreal
+winds up to fire a powerful bolt of energy that deals
+magic damage
+to enemies hit.
+League of Legends content
+Ultra Rapid Fire (U.R.F.)
+Ultra Rapid Fire
+is a
+Featured Game Mode
+that takes place on
+Summoner's Rift
+with the same objective as
+Classic 5v5
+, except all
+champions
+benefit from the
+Awesome Buff of Awesomely Awesome Buffing
+that grants excessive  ability haste and removes ability costs. The gameplay is
+explosive
+. The game mode can be played as
+All Random
+or
+Blind pick
+depending on the year.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Blink
+A
+blink
+refers to a form of movement whereby a unit displaces from point A to B without traversing the space between.
+League of Legends content
+Standard sight
+Standard sight
+reveals units through
+fog of war
+and
+brush
+, but
+not
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Mystic Shot
+COOLDOWN:
+5.
+5
+/ 5.
+25
+/ 5 / 4.
+75
+/ 4.
+5
+Active:
+Ezreal
+fires a bolt of energy that deals
+physical damage
+to the first enemy hit.
+If the bolt hits an enemy, all of
+Ezreal's
+ability cooldowns are
+reduced
+.
+Mystic Shot
+applies
+on-hit
+and
+on-attack
+effects.
+League of Legends content
+Rising Spell Force
+Innate:
+Ezreal's
+abilities generate stacks of
+Rising Spell Force
+for each enemy hit, up to a cap.
+Rising Spell Force:
+For each stack,
+Ezreal
+gains
+bonus
+attack speed
+.
+League of Legends content
+Hymn of Valor
+COOLDOWN:
+8
+Active:
+Sona
+projects sound bolts to the two nearest enemies that each deal
+magic damage
+, and she gains a stack of
+Accelerando
+for each bolt that damages an enemy
+champion
+.
+Melody
+Bonus:
+Sona
+and tagged allied champions deal
+bonus
+magic damage
+on their next basic attack within a few seconds.
+Power Chord
+– Staccato:
+Power Chord
+deals
+increased
+magic damage
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Ezreal's profile page
+at
+LeagueOfLegends.com
+↑
+Ezreal dance Shurelia's idea
+↑
+Scathlocke on Ezreal 1
+↑
+Scathlocke on Ezreal 2

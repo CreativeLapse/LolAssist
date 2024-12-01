@@ -1,0 +1,2743 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Irelia
+the Blade Dancer
+Release date
+2010-11-16
+Last changed
+V14.22
+Class(es)
+Diver
+Legacy
+Fighter
+Assassin
+Position(s)
+Top
+Middle
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+2
+Toughness
+2
+Control
+2
+Mobility
+3
+Utility
+2
+Style
+Difficulty
+Irelia
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Irelia
+Base statistics
+Edit
+Health
+630
++115
+Mana
+350
++50
+Health regen. (per 5s)
+6
++0.85
+Mana regen. (per 5s)
+8
++0.8
+Armor
+36
++4.7
+Attack damage
+65
++3.5
+Magic resist.
+30
++2.05
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+200
+Attack speed
+Base AS
+0.656
+Attack windup
+19.672%
+AS ratio
+N/A
+Bonus AS
++2.5
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+100
+Pathing radius
+35
+Acq. radius
+600
+Special statistics
+Damage Dealt
++0%
+Damage Received
++0%
+Ability Haste
++20
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-3%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Ionian Fervor
+Innate:
+Irelia's
+abilities generate a stack of
+Ionian Fervor
+for each enemy champion hit, as well as one stack if she hits at least one non-champion. Basic attacks against enemy
+champions
+and large
+monsters
+will also refresh the duration.
+Innate - Unsteady:
+Enemy
+champions
+and large
+monsters
+hit by
+Flawless Duet
+and
+Vanguard's Edge's
+initial barrage are
+marked. The mark can be consumed by
+Bladesurge
+.
+Ionian Fervor:
+For each stack,
+Irelia
+gains
+bonus attack speed
+. At maximum stacks, her basic attacks deal
+bonus
+magic damage
+.
+Basic attacks against enemy
+champions
+and large
+monsters
+will also refresh the duration.
+Innate:
+Irelia
+generates a
+stack
+of
+Ionian Fervor
+for each enemy champion hit by her
+abilities
+, or if she hits at least one non-champion, lasting for 6 seconds, refreshing on basic attacks and ability hits against enemy
+champions
+, large
+monsters
+, and
+structures
+, and stacking up to 4 times.
+Ionian Fervor:
+For each stack,
+Irelia
+gains
+7.
+5
+% − 25% (based on level)
+bonus
+attack speed
+, up to a maximum of
+30% − 100% (based on level)
+. At maximum stacks,
+Irelia's
+basic attacks
+are empowered to deal
+10 − 61 (based on level)
+(+ 20%
+bonus
+AD)
+bonus
+magic damage
+on-hit
+, reduced to
+「 50% 」
+「
+5 − 30.
+5
+(based on level)
+(+ 10%
+bonus
+AD)
+」
+against structures.
+Innate - Unsteady:
+Enemy
+champions
+and large
+monsters
+hit by
+Flawless Duet
+and
+Vanguard's Edge's
+initial barrage are
+marked
+as
+Unsteady
+for 5 seconds. The mark can be consumed by
+Bladesurge
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+Magic
+Counters
+Parries
+Missing
+PENDING FOR TEST:
+: Parry interactions (
+block
+,
+dodge
+, and
+blind
+).
+Ionian Fervor
+stacks are represented by a counter under
+Irelia's
+health bar
+. It is highlighted while the ability is at its maximum effect.
+Edit
+Bladesurge
+COST:
+15 Mana
+COOLDOWN:
+10 / 9 / 8 / 7 / 6
+CAST TIME:
+none
+TARGET RANGE:
+600
+SPEED:
+1400 +
+100% movement speed
+Active:
+Irelia
+dashes
+through the target enemy, dealing
+physical damage
+, applying
+on-hit
+effects, and
+healing
+herself. If this attack kills the target, the cooldown is
+reset
+. Whenever a
+mark is consumed, the cooldown is
+reduced
+.
+Active:
+Irelia
+dashes
+100 units through the target enemy's location, and upon collision or dash completion, she deals
+physical damage
+, applies
+on-hit
+effects, and
+heals
+herself.
+Bladesurge
+deals
+50 − 237 (based on level)
+bonus
+physical damage
+to
+minions
+.
+Physical Damage:
+5 / 25 / 45 / 65 / 85
+(+ 70% AD)
+Heal:
+9 / 10 / 11 / 12 / 13% AD
+Bladesurge's
+current
+cooldown
+is reduced to 0.
+2
+seconds upon collision of targets
+marked
+as
+Unsteady
+, and is
+reset
+if the target dies to or during
+Bladesurge's
+dash.
+Flawless Duet
+can be cast during the dash.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Basic damage
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Parries
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Bladesurge
+will be buffered and cast when the cooldown ends or is reset if the player attempts to cast it within 0.
+5
+seconds of the cooldown ending/resetting.
+Bladesurge
+deals
+basic damage
+, but also triggers spell effects by dealing an additional 0
+spell damage
+.
+If the target dies during
+Bladesurge's
+dash, the cooldown is fully refunded and
+Irelia
+may also cast her other abilities during the dash.
+If the target dies to
+Bladesurge
+and was also
+marked
+, the cooldown is still fully refunded.
+Bladesurge
+will only allow
+Irelia
+to dash through walls if there is enough space for her on the other side.
+Bladesurge
+deals its damage and consumes
+marks
+when
+Irelia
+collides with the target, or at the end of the dash if the target moves away.
+Bladesurge
+will not deal damage if the
+dash
+is
+interrupted
+beforehand.
+The damage will be dealt if the target is in collision range when the dash is interrupted however.
+Flash
+will interrupt the
+dash
+but
+Irelia
+will still collide with and deal damage to her target if the blink leaves her in contact with it at the new location.
+Irelia
+will complete her remaining dash distance even if the damage is dealt earlier.
+If the target is
+untargetable
+,
+Bladesurge
+will instead deals its damage at the end of the dash, rather than on collision.
+Irelia
+will automatically be ordered to
+acquire
+and attack
+Bladesurge's
+target as soon as the dash completes.
+If a different target than
+Bladesurge's
+is selected during the dash, she will
+acquire
+that different target instead.
+Edit
+Defiant Dance
+COST:
+70 / 75 / 80 / 85 / 90 Mana
+COOLDOWN
+:
+20 / 18 / 16 / 14 / 12
+CAST TIME:
+None
+/
+0.
+25
+RANGE:
+775
+/
+895
+EFFECT RADIUS:
+300
+/
+120
+WIDTH:
+240
+Active:
+Irelia
+charges
+up for a brief moment, during which she gains damage reduction and increases
+Defiant Dance's
+damage.
+Defiant Dance
+can be recast within the duration, and does so automatically afterwards. The charge cannot be
+interrupted
+.
+Recast:
+Irelia
+swipes her blades in the target direction, dealing
+physical damage
+to enemies nearby and within a line, increased based on how long she charged up.
+Active:
+Irelia
+charges
+for up to 1.
+5
+seconds, during which she increases
+Defiant Dance's
+damage over the first 0.
+75
+seconds of the channel and reduces incoming
+physical damage
+by
+40% − 70% (based on level)
+(+ 7% per 100 AP)
+and incoming
+magic damage
+by
+20% − 35% (based on level)
+(+ 3.
+5
+% per 100 AP)
+.
+Defiant Dance
+can be recast within the duration, and does so automatically afterwards.
+Defiant Dance's
+charge cannot be
+interrupted
+by
+crowd control
+.
+Recast:
+Irelia
+swipes her blades in the target direction, dealing
+physical damage
+to enemies around her and within a line, increased by
+0% − 200% (based on channel time)
+. She also retains the damage reduction for 0.
+5
+seconds.
+Minimum Physical Damage:
+10 / 25 / 40 / 55 / 70
+(+ 40% AD)
+(+ 40% AP)
+Maximum Physical Damage:
+30 / 75 / 120 / 165 / 210
+(+ 120% AD)
+(+ 120% AP)
+Defiant Dance's recast can be used while affected by
+cast-inhibiting crowd control
+. If
+Ionian Fervor
+would expire during the charge, it will instead refresh every 0.
+25
+seconds for the remaining charge and be retained for 0.
+5
+seconds after the recast is initiated.
+Info
+Targeting input
+Auto
+/
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Disruption
+Not Interrupted
+Enemies around
+Irelia
+will be dealt the damage once the recast's cast time ends, while enemies within the line are dealt the damage via a missile that reaches the furthest targets after a
+0.
+066
+seconds
+delay after the recast's cast time.
+Quick Casting utilizes hold-and-release for the two casts.
+Defiant Dance
+reaches 100% physical damage reduction at
+857.
+14
+− 428.
+57
+(based on level)
+AP
+.
+Defiant Dance
+reaches 100% magic damage reduction at
+2285.
+71
+− 1857.
+14
+(based on level)
+AP
+.
+Defiant Dance
+will also recast automatically upon entering
+resurrection
+.
+This ability will cast from wherever the caster is at the end of the cast time.
+This refers to the recast.
+The following table refers for interactions while
+Irelia
+is
+channeling
+:
+Type
+Charge channel
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled, but can still use trinkets
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Interrupted by
+Hexflash
+(Recasts)
+Interrupted by
+Death
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 16 / 15 / 14 / 13 / 12 seconds.
+Edit
+Flawless Duet
+COST:
+50 Mana
+COOLDOWN
+:
+16 / 15 / 14 / 13 / 12
+CAST TIME:
+none
+TARGET RANGE:
+775
+EFFECT RADIUS:
+Global
+WIDTH:
+Convergence hit width
+SPEED:
+2000
+Active:
+Irelia
+sends a blade to the target location for a short time.
+Flawless Duet
+can be recast within the duration, and does so automatically after the duration. The recast cannot be
+interrupted
+.
+Recast:
+Irelia
+sends a second blade to the target location, or to her current position if
+Flawless Duet
+was recast automatically. Once both blades have been placed, they converge to deal
+magic damage
+and
+stun
+enemies within a line between.
+Active:
+Irelia
+sends a blade to the target location for 3.
+5
+seconds.
+Flawless Duet
+can be recast after 0.
+15
+seconds while the blade is active, and does so automatically at the end of its duration, though not if she is unable to cast abilities.
+Recast:
+Irelia
+sends a second blade to the target location, or to her current position if
+Flawless Duet
+was recast automatically.
+Once both blades have been placed, they fly toward each other regardless of distance and converge over 0.
+25
+seconds, afterwards dealing
+magic damage
+to all enemies within a line between them and
+stunning
+them for 0.
+75
+seconds, during which they are
+revealed
+.
+Magic Damage:
+80 / 125 / 170 / 215 / 260
+(+ 80% AP)
+Flawless Duet's recast can be used during
+Bladesurge
+and the cast time of
+Vanguard's Edge
+. Each of the blades' travel times are
+0.
+264
+seconds
+. Flawless Duet will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Both casts count as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+If the ability is not manually recasted, the secondary effect will trigger and it will be considered as an ability activation. This is the only ability with this interaction in the game.
+Flawless Duet
+will recast automatically at its end during
+Defiant Dance
+despite being disabled.
+Flawless Duet
+will also recast automatically upon entering
+resurrection
+.
+The outgoing blades will stop flight upon touching
+projectile
+blocking effects. The converging blades will instead be destroyed upon contact with such effects.
+The blades will not stun nor deal damage if they fail to converge (i.e
+Yasuo's
+Wind Wall
+).
+Both of
+Flawless Duet's
+casts will be buffered and cast when their cooldowns end if the player attempts to cast each within 0.
+3
+seconds of their cooldown ending.
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio changed to
+100% AP
+.
+Edit
+Vanguard's Edge
+COST:
+100 Mana
+COOLDOWN:
+125 / 105 / 85
+CAST TIME:
+0.
+4
+TARGET RANGE:
+1000
+WIDTH:
+320
+SPEED:
+2000
+Active:
+Irelia
+launches a barrage of blades in the target direction that expand outward upon hitting an enemy champion, dealing
+magic damage
+to enemies hit. After expanding, the blades form a spade-shaped perimeter around the enemy champion hit for a short time. Enemies that pass through the blades for the first time are dealt
+magic damage
+and
+slowed
+.
+Active:
+Irelia
+launches a barrage of blades in the target direction, expanding outward upon hitting an enemy champion, dealing
+magic damage
+to all enemies hit and
+revealing
+them for 1 second.
+Magic Damage:
+125 / 250 / 375
+(+ 70% AP)
+After expanding, the blades drop on the ground, knocking all enemy units away from them, though not rendering them
+airborne
+, and forming a spade-shaped perimeter around the enemy champion hit for 2.
+5
+seconds that grants
+sight
+of its surroundings. Enemies that pass through the blades for the first time are dealt the same
+magic damage
+and are
+slowed
+by 90% for 1.
+5
+seconds.
+The perimeter will point at the same angle
+Irelia
+casted it from, but based on the target's center.
+"Ionia calls!"
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Bladesurge's
+cooldown reduction applies before
+ability haste
+.
+Enemies that cross the perimeter are
+not
+marked
+for
+Bladesurge
+.
+This ability will cast from wherever the caster is at the end of the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+Bladesurge
+cooldown reduction changed to 1.
+5
+/ 2.
+5
+/ 3.
+5
+.
+Cooldown changed to 40 seconds at all ranks.
+AP ratio changed to
+100% AP
+.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Irelia (Collection)
+.
+Original
+View in 3D
+880
+16.11.2010
+The Noxian occupation of Ionia produced many heroes, none more unlikely than young Irelia of Navori. Trained in the ancient dances of her province, she adapted her art for war, using the graceful and carefully practised movements to levitate a host of deadly blades. After proving herself as a fighter, she was thrust into the role of resistance leader and figurehead, and to this day remains dedicated to the preservation of her homeland.
+Cherami Leigh
+Jessica 'OwleyCat' Oyhenart
+Loot eligible
+Nightblade
+View in 3D
+520
+16.11.2010
+In exchange for the power to expel Noxus from Ionia, Irelia struck a bargain with an evil spirit—a decision that would prove costly when her humanity began to slip away...
+Cherami Leigh
+Choe HeonHwa
+Legacy
+Loot eligible
+Voice filter
+Additional/unique quotes
+New SFX/VFX
+Aviator
+View in 3D
+520
+16.11.2010
+Few war pilots were as skilled as Irelia, whose flashy dogfighting earned her a place among the greatest soldiers in history. After the war she continued to fly fighter planes, never once losing her spark.
+Cherami Leigh
+Jana Schirmer
+Day Job
+Loot eligible
+Additional/unique quotes
+New SFX/VFX
+Infiltrator
+View in 3D
+975
+11.10.2011
+Using technologically superior cracking devices and hard-light blades, Irelia's nefarious activity is surprisingly hard to follow. She's responsible for a string of heists and high-profile espionage missions.
+Cherami Leigh
+Zeen Chin
+Silver Age
+Loot eligible
+Legacy
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+Frostblade
+View in 3D
+975
+30.04.2012
+An ice sprite hailing from the mythical Winterlands, Irelia's demeanor is surprisingly stoic considering her mischievous brethren. Despite this, she aspires to one day serve in the court of the Poro King.
+Cherami Leigh
+Viktor Titov, Grafit Studio
+Winter Wonder
+Loot eligible
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+Chromas
+Frostblade Irelia Chromas
+Golden
+Order of the Lotus
+View in 3D
+750
+03.06.2015
+A chance encounter with the Order of the Lotus changed Irelia's life forever, as she opened her mind to the cosmic cycles of death and rebirth over many human lifetimes. She is still a fierce warrior, but now fights knowing her soul can never truly die.
+Cherami Leigh
+Michelle Hoefener
+Order of the Lotus
+Loot eligible
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+Divine Sword
+View in 3D
+1350
+04.09.2018
+Long ago, the demigoddess Irelia challenged a headstrong dragon king to a duel, defeating him before all the members of his assembled court. In his hubris, he lashed out at her, and in return she sealed his power within her sacred blade, so that he might find humility among humankind.
+Cherami Leigh
+Bo 'chenbowow' Chen
+Immortal Journey
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Divine Sword Irelia Chromas
+Amethyst
+Aquamarine
+Emerald
+Meteorite
+Obsidian
+Rose Quartz
+Ruby
+Unflinching Zeal
+iG
+View in 3D
+1350
+23.04.2019
+Honoring Duke's winning performance as Irelia during the 2018 World Championship. This is Duke's second World Champion skin, following his win with SKT at the 2016 World Championship.
+Cherami Leigh
+Pan Chengwei
+World Champions: 2018
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+PROJECT
+View in 3D
+1350
+01.08.2019
+A PROJECT castoff who found sanctuary in the lawless wastes, Irelia has led other outcasts like her as they attempt to survive corporate assassins, murderous old-world technology, and widespread ecological collapse. Knowing Warwick could destroy everything she holds dear, she joins the attack on the City to end PROJECT once and for all.
+Cherami Leigh
+Maki Planas Mata
+PROJECT
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Prestige PROJECT
+View in 3D
+Special
+01.08.2019
+There are moments when Irelia and the other outcasts remember who they once were, before PROJECT exiled them into a wasteland filled with sand-blasted monuments to corporate greed. These memories are fleeting, the last flickering images of a long-compromised humanity.
+Cherami Leigh
+Xuning Cui, Kudos Production
+PROJECT
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+PROJECT
+. Store variants are discounted for multiple purchases.
+High Noon
+View in 3D
+1350
+18.06.2020
+A fallen angel who escaped the destruction of Heaven, now tainted by ineffable darkness. Irelia has spent years in hiding, thus her return alongside a newly resurrected Senna attests to the presence of powers who would see the heavenly kingdom restored… perhaps for the continued benefit of man, or perhaps for their final damnation.
+Cherami Leigh
+Kudos Productions
+High Noon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Transforming
+Chromas
+High Noon Irelia Chromas
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Sentinel
+View in 3D
+1350
+08.07.2021
+After the fall of the Ionian Grand Temple, Irelia could not stand idly by while her home was ravaged by the Black Mist. Deputized by the Sentinels, she fights the Ruination as one of their comrades: a natural-born leader who understands the threat that Ruined Karma poses, she will stop at nothing to save the Spirit of Ionia.
+Cherami Leigh
+Bo 'chenbowow' Chen
+Sentinels of Light
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Sentinel Irelia Chromas
+Citrine
+Emerald
+Pearl
+Resolute
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Prestige PROJECT (2022)
+View in 3D
+Special
+01.04.2022
+There are moments when Irelia and the other outcasts remember who they once were, before PROJECT exiled them into a wasteland filled with sand-blasted monuments to corporate greed. These memories are fleeting, the last flickering images of a long-compromised humanity.
+Cherami Leigh
+Xuning Cui, Kudos Production
+PROJECT
+Loot ineligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Prestige PROJECT
+. Store variants are discounted for multiple purchases.
+Mythmaker
+View in 3D
+1820
+12.01.2023
+Irelia was always a bystander in the story of “The Great Beast Galio”, watching from the sidelines each year as the story was told again and again… until the day that the Lunar Players crashed into their myth-world, and she found out that her story could change. Now it's time for Irelia to become the hero she wished she could be and write her own destiny.
+Cherami Leigh
+Bo 'chenbowow' Chen
+Mythmaker
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+Mythmaker Irelia Chromas
+Emerald
+Gilded
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Porcelain
+View in 3D
+1350
+22.02.2024
+Irelia was dedicated to the preservation of ancient relics long before she became a protector. Her first year at university, she interned at the renowned Archeology Institute. It was the highlight of her short life... until she was granted mythical powers by the Ram Relic and thrust into a centuries-old war. Schoolwork sort of pales in comparison.
+Cherami Leigh
+Alsie Lau
+Porcelain
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Porcelain Irelia Chromas
+Catseye
+Emerald
+Obsidian
+Opulent
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.22
+Ionian Fervor
+New Effect:
+Damage now applies against structures at 50% damage.
+New Effect:
+Duration is now refreshed against structures.
+V14.21
+Bladesurge
+Cooldown reduced to 10 / 9 / 8 / 7 / 6 seconds from 11 / 10 / 9 / 8 / 7.
+Mana cost reduced to 15 from 20.
+AD ratio increased to
+70% AD
+from
+60% AD
+.
+Bonus minion damage reduced to
+50 − 237 (based on level)
+from
+55 − 259 (based on level)
+.
+Vanguard's Edge
+Removed:
+No longer reduces
+Bladesurge's
+cooldown by 0.
+5
+/ 1 / 1.
+5
+seconds.
+V14.15
+Stats
+Base health increased to 630 from 590.
+Base health regeneration reduced to 6 from 8.
+5
+.
+V14.14
+Stats
+Attack damage growth reduced to 3.
+5
+from 4.
+Ionian Fervor
+Attack speed per stack changed to
+7.
+5
+% − 25% (based on level)
+from
+7.
+5
+% − 20% (based on level)
+.
+Now scales with every level.
+Maximum attack speed changed to
+30% − 100% (based on level)
+from
+30% − 80% (based on level)
+.
+Vanguard's Edge
+Bladesurge
+cooldown reduction reduced to 0.
+5
+/ 1 / 1.
+5
+seconds from 0.
+5
+/ 1.
+5
+/ 2.
+5
+.
+V14.11
+Stats
+Health growth reduced to 115 from 124.
+V14.4
+Divine Sword Irelia
+Bug Fix:
+Homeguard run VFX no longer appears to be more intense than intended.
+Infiltrator Irelia
+Ionian Fervor
+Bug Fix:
+VFX of the blades now shifts color at maximum stacks.
+V14.2
+Bladesurge
+Bug Fix:
+Dash now properly resets if cast at max range and the target dies right before she arrives.
+Undocumented:
+Check rate for the reset to have been successful quadrupled to once every 0.
+0625
+seconds from once every 0.
+25
+seconds (resultingly every 2 game ticks instead of every 8 game ticks).
+V13.18
+Vanguard's Edge
+Cooldown reduced to 125 / 105 / 85 seconds from 140 / 120 / 100.
+V12.16
+Stats
+Armor growth increased to 4.
+7
+from 4.
+2
+.
+Base magic resistance increased to 30 from 28.
+V12.14
+General
+Bug Fix:
+Knocked up/stunned animation is now correctly played.
+V12.11
+Bladesurge
+Heal increased to
+9 / 10 / 11 / 12 / 13% AD
+from
+7 / 8 / 9 / 10 / 11% AD
+.
+Flawless Duet
+Cooldown reduced to 16 / 15 / 14 / 13 / 12 seconds from 18 / 16.
+5
+/ 15 / 13.
+5
+/ 12.
+V12.10
+Stats
+Base health increased to 590 from 520.
+Health growth increased to 124 from 110.
+Armor growth increased to 4.
+2
+from 3.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Bladesurge
+Heal reduced to
+7 / 8 / 9 / 10 / 11% AD
+from
+8 / 10 / 12 / 14 / 16% AD
+.
+V12.9
+Ionian Fervor
+Bug Fix:
+No longer only grants stacks for champions hit when hitting champions and minions & monsters simultaneously.
+V11.20
+Ionian Fervor
+Bonus AD ratio reduced to
+20%
+bonus
+AD
+from
+30%
+.
+V11.19
+Ionian Fervor
+Bug Fix:
+Blades VFX now properly changes color while at 4 stacks.
+Bladesurge
+Bug Fix:
+No longer occasionally hits its target twice (thereby dealing its damage twice).
+Correction:
+This bug could still be reproduced in this patch and future ones. The bugfix did not prevent it from occuring completely.
+V11.17
+Bladesurge
+Heal AD ratio reduced to
+8 / 10 / 12 / 14 / 16% AD
+from
+12 / 14 / 16 / 18 / 20% AD
+.
+V11.15
+Defiant Dance
+Minimum AD ratio reduced to
+40% AD
+from
+50% AD
+.
+Maximum AD ratio reduced to
+120% AD
+from
+150% AD
+.
+Base physical damage reduction reduced to
+40% − 70% (based on level)
+from
+40% − 80% (based on level)
+.
+Base magic damage reduction reduced to
+20% − 35% (based on level)
+from
+20% − 40% (based on level)
+.
+V11.14
+Stats
+Base health reduced to 520 from 580.
+Health growth increased to 110 from 95.
+Base magic resistance reduced to 28 from 32.
+Ionian Fervor
+Maximum stacks reduced to 4 from 5.
+Bonus attack speed per stack changed to
+7.
+5
+% − 20% (based on level)
+from
+8% − 16% (based on level)
+.
+Maximum bonus attack speed reduced to
+30% − 80% (based on level)
+from
+40% − 80% (based on level)
+.
+Base damage reduced to
+10 − 61 (based on level)
+from
+15 − 66 (based on level)
+.
+Bonus AD ratio increased to
+30%
+bonus
+AD
+from
+25%
+.
+Secondary resource bar (count of passive stacks) is now also visible to enemy players.
+Bladesurge
+Base dash speed reduced to 1400 from 1500.
+Bonus minion damage changed to
+55 − 259 (based on level)
+from 55 / 75 / 95 / 115 / 135.
+Defiant Dance
+Base physical damage reduction changed to
+40% − 80% (based on level)
+from 50% at all levels.
+New Effect:
+Now reduces magic damage by
+20% − 40% (based on level)
+(+ 3.
+5
+% per 100 AP)
+.
+Maximum base damage increased to 30 / 75 / 120 / 165 / 210 from 20 / 50 / 80 / 110 / 140.
+Maximum AD ratio increased to
+150% AD
+from
+100% AD
+.
+Maximum damage AP ratio increased to
+120% AP
+from
+80% AP
+.
+Flawless Duet
+Missile travel time changed to
+0.
+264
+seconds
+at all distances from 0 to
+0.
+396
+seconds
+(based on distance).
+Removed:
+Can no longer be recast during
+cast-inhibiting crowd control
+.
+Vanguard's Edge
+New Effect:
+Now passively reduces
+Bladesurge's
+cooldown by 0.
+5
+/ 1.
+5
+/ 2.
+5
+seconds.
+This takes effect before ability haste.
+V10.25
+Stats
+Base attack damage increased to 65 from 63.
+Bladesurge
+Cooldown reduced to 11 / 10 / 9 / 8 / 7 seconds from 12 / 11 / 10 / 9 / 8.
+V10.23
+Stats
+Mana growth increased to 50 from 30.
+V10.19
+Vanguard's Edge
+Barrage base damage increased to 125 / 250 / 375 from 125 / 225 / 325.
+Perimeter base damage increased to 125 / 250 / 375 from 125 / 200 / 275.
+V10.15
+Ionian Fervor
+Bonus attack speed per stack increased to
+8% − 16% (based on level)
+from
+8% − 12% (based on level)
+.
+V10.10
+Flawless Duet
+Base damage increased to 80 / 125 / 170 / 215 / 260 from 70 / 110 / 150 / 190 / 230.
+V9.15
+Flawless Duet
+Bug Fix:
+Fixed a bug where it would target incorrect positions in Howling Abyss and Summoner Rift's river.
+V9.12
+Flawless Duet
+Cooldown increased to 18 / 16.
+5
+/ 15 / 13.
+5
+/ 12 seconds from 14 / 13 / 12 / 11 / 10.
+Target range reduced to 775 from 850.
+V9.9
+Frostblade Irelia
+Bug Fix:
+Fixed a bug where her moving blades did not play sounds during her Golden Chroma respawn animation.
+V9.3
+Stats
+Health growth increased to 95 from 85.
+Base armor increased to 36 from 34.
+Ionian Fervor
+New Effect:
+Irelia
+gains 1
+Ionian Fervor
+stack for every enemy champion hit by her abilities, or if she hits at least one non-champion, stacking up to 5 times.
+Ionian Fervor
+lasts for 6 seconds, with basic attacks against champions and large and epic monsters refreshing the duration.
+Irelia
+gains
+8 / 10 / 12% (based on level)
+bonus
+attack speed per stack, up to
+40 / 50 / 60% (based on level)
+. At maximum stacks,
+Irelia's
+basic attacks deal
+15 − 66 (based on level)
+(+ 25%
+bonus
+AD)
+bonus
+magic damage on-hit.
+Old Effect:
+Irelia
+gains 1
+Ionian Fervor
+stack for every enemy champion hit by her abilities, or if she hits at least one non-champion, stacking up to 4 times.
+Ionian Fervor
+lasts for 6 seconds, with basic attacks against champions and large and epic monsters refreshing the duration.
+Irelia's
+basic attacks deal
+4 − 17 (based on level)
+(+ 4%
+bonus
+AD)
+bonus
+magic damage per stack, up to
+16 − 68 (based on level)
+(+ 16%
+bonus
+AD)
+. At maximum stacks,
+Irelia
+gains
+30 / 40 / 50% (based on level)
+bonus
+attack speed.
+Bladesurge
+Minion bonus damage increased to 55 / 75 / 95 / 115 / 135 from 45 / 60 / 75 / 90 / 105.
+Defiant Dance
+Base damage reduction increased to 50% from 40%.
+New Effect:
+Damage reduction now only applies to physical damage.
+Flawless Duet
+Hitbox visuals are now easier to see.
+V9.2
+Ionian Fervor
+Removed:
+At 4 stacks, no longer deals 200%
+bonus
+damage to shields.
+Bladesurge
+Removed:
+No longer deals double damage to minions.
+New Effect:
+Deals 45 / 60 / 75 / 90 / 105
+bonus
+damage to minions.
+Vanguard's Edge
+Wall duration reduced to 2.
+5
+seconds at all ranks from 2.
+5
+/ 3 / 3.
+5
+.
+Removed:
+No longer
+disarms
+enemies passing through the wall for 1.
+5
+seconds.
+Slow increased to 90% from 60%.
+Base wall damage increased to 125 / 200 / 275 from 75 / 125 / 175.
+Undocumented:
+Wall VFX no longer changes depending on whether
+Ionian Fervor
+is fully stacked or not.
+V8.24
+Defiant Dance
+Cooldown increased to 20 / 18 / 16 / 14 / 12 seconds from 16 / 15 / 14 / 13 / 12.
+Base damage reduction reduced to 40% from 50%.
+Removed:
+No longer grants 1 additional stack of
+Ionian Fervor
+.
+Vanguard's Edge
+Bug Fix:
+Corrected interaction when casting
+Flash
+mid-cast. Skillshot now fires in target direction.
+V8.21
+Stats
+Base movement speed reduced to 335 from 340.
+V8.17
+Bladesurge
+Minion increased damage increased to 100% from 70%.
+V8.15
+Stats
+Base attack damage increased to 63 from 60.
+Base health increased to 580 from 550.
+Ionian Fervor
+Base damage per stack increased to
+4 − 17 (based on level)
+from
+1 − 12 (based on level)
+.
+Bladesurge
+Target range reduced to 600 from 625.
+Base damage reduced to 5 / 25 / 45 / 65 / 85 from 10 / 30 / 50 / 70 / 90.
+AD ratio reduced to
+60% AD
+from
+70% AD
+.
+Defiant Dance
+Base damage reduction changed to 50% at all ranks from 45 / 50 / 55 / 60 / 65%.
+Flawless Duet
+Target range reduced to 850 from 900.
+Base damage reduced to 70 / 110 / 150 / 190 / 230 from 80 / 120 / 160 / 200 / 240.
+Removed:
+No longer deals 50% reduced damage against monsters.
+Vanguard's Edge
+Target range reduced to 1000 from 1050.
+V8.13
+Ionian Fervor
+Base on-hit damage per stack reduced to
+1 − 12 (based on level)
+from
+2.
+5
+− 16.
+5
+(based on level)
+.
+On-hit AD ratio per stack changed to
+4%
+bonus
+AD
+from
+2% − 4% (based on level)
+AD
+.
+Bonus attack speed increased to
+30% / 40% / 50% (based on level)
+from
+20% / 30% / 40% (based on level)
+.
+Defiant Dance
+Minimum base damage reduced to 10 / 25 / 40 / 55 / 70 from 10 / 30 / 50 / 70 / 90.
+Minimum AD ratio reduced to
+50% AD
+from
+60% AD
+.
+Maximum base damage reduced to 20 / 50 / 80 / 110 / 140 from 20 / 60 / 100 / 140 / 180.
+Maximum AD ratio reduced to
+100% AD
+from
+120% AD
+.
+Flawless Duet
+Mark duration reduced to 5 seconds from 6.
+Vanguard's Edge
+Mark duration reduced to 5 seconds from 6.
+V8.9
+Ionian Fervor
+New Effect:
+Duration now also refreshes when attacking large monsters.
+V8.8
+Stats
+Base armor increased to 34 from 31.
+Bladesurge
+Bonus damage to minions increased to 70% from 60%.
+Flawless Duet
+Bug Fix:
+No longer credits her for several minion kills with each cast.
+Vanguard's Edge
+Cooldown increased to 140 / 120 / 100 seconds from 120 / 105 / 90.
+Missile base damage reduced to 125 / 225 / 325 from 150 / 275 / 400.
+Wall base damage reduced to 75 / 125 / 175 from 125 / 200 / 275.
+V8.7
+- April 5th Hotfix
+Stats
+Base attack damage reduced to 60 from 63.
+Base armor reduced to 31 from 34.
+Base health reduced to 550 from 580.
+Bladesurge
+AD ratio reduced to
+70% AD
+from
+80% AD
+.
+Flawless Duet
+Stun duration reduced to 0.
+75
+seconds at all ranks from 0.
+8
+/ 0.
+9
+/ 1 / 1.
+1
+/ 1.
+2
+.
+Vanguard's Edge
+Disarm and slow duration reduced to 1.
+5
+seconds from 2.
+V8.7
+- Full Relaunch
+General
+Title changed to
+the Blade Dancer
+from
+the Will of the Blades
+.
+Complete visual upgrade across all skins.
+New splash artwork for
+Original Irelia
+,
+Nightblade Irelia
+,
+Aviator Irelia
+,
+Infiltrator Irelia
+and
+Frostblade Irelia
+. Tweaked splash artwork for
+Order of the Lotus Irelia
+.
+New voice over.
+New lore.
+Stats
+Base movement speed reduced to 340 from 345.
+Base attack range increased to 200 from 125.
+Base attack damage reduced to 63 from 70.
+Base attack speed reduced to 0.
+656
+from 0.
+665
+.
+Base health reduced to 580 from 607.
+2
+.
+Base mana increased to 350 from 338.
+8
+.
+Base magic resistance reduced to 32 from 32.
+1
+.
+Base mana regeneration reduced to 8 from 8.
+1
+.
+Attack speed growth reduced to 2.
+5
+% from 3.
+2
+%.
+Attack damage growth increased to 4 from 3.
+3
+.
+Armor growth reduced to 3 from 3.
+75
+.
+Health growth reduced to 85 from 90.
+Mana growth reduced to 30 from 32.
+Health regeneration growth increased to 0.
+85
+from 0.
+65
+.
+Mana regeneration growth increased to 0.
+8
+from 0.
+65
+.
+Ionian Fervor
+(Innate)
+Innate:
+Irelia
+gains 1
+Ionian Fervor
+stack for every enemy champion hit by her abilities, or if she hits at least one non-champion, stacking up to 4 times.
+Ionian Fervor
+lasts for 6 seconds, with basic attacks against champions refreshing the duration.
+Ionian Fervor:
+Irelia's
+basic attacks deal
+2.
+5
+− 16.
+5
+(based on level)
+(+
+2% − 4% (based on level)
+AD)
+bonus
+magic damage per stack. At maximum stacks,
+Irelia
+gains
+20% / 30% / 40% (based on level)
+bonus
+attack speed and deals an additional
+20 − 132 (based on level)
+(+
+16% − 32% (based on level)
+AD)
+magic damage against shields.
+Bladesurge
+(Q)
+Passive:
+Enemy champions and monsters hit by
+Flawless Duet
+and
+Vanguard's Edge's
+initial barrage are
+marked
+for 6 seconds.
+Active:
+Irelia
+dashes to the target enemy, dealing 10 / 30 / 50 / 70 / 90
+(+ 80% AD)
+physical damage, applying on-hit effects and healing herself for
+12 / 14 / 16 / 18 / 20% AD
+.
+Bladesurge
+deals 60% increased damage to minions.
+Bladesurge's
+cooldown is refunded if the target was
+marked
+or dies to
+Bladesurge
+.
+Target Range:
+625.
+Cooldown:
+12 / 11 / 10 / 9 / 8 seconds.
+Mana Cost:
+20.
+Defiant Dance
+(W)
+First Cast:
+Irelia
+aligns her blades around her, gaining 1
+Ionian Fervor
+stack and channelling for X seconds, during which she reduces incoming damage by 45 / 50 / 55 / 60 / 65%
+(+ 10% per 100 AP)
+.
+Defiant Dance
+cannot be interrupted.
+Second Cast:
+Irelia
+swipes with her blades in the target direction, dealing 10 / 30 / 50 / 70 / 90
+(+ 60% AD)
+(+ 40% AP)
+physical damage to all enemies around her and in a line, increased by
+0% − 100% (based on channel time)
+, up to 20 / 60 / 100 / 140 / 180
+(+ 120% AD)
+(+ 80% AP)
+.
+The
+Second Cast
+activates automatically toward the cursor's direction at the end of the duration.
+Target Range:
+825.
+Cooldown:
+16 / 15 / 14 / 13 / 12 seconds.
+Mana Cost:
+70 / 75 / 80 / 85 / 90.
+Flawless Duet
+(E)
+Active:
+Irelia
+sends a blade to the target location for 3.
+5
+seconds. While active,
+Irelia
+may re-activate
+Flawless Duet
+to send another blade toward another location.
+Once both blades have been placed and after a X-second delay, they fly toward each other, dealing 80 / 120 / 160 / 200 / 240
+(+ 80% AP)
+magic damage and
+stunning
+enemies caught in the crossfire for 0.
+8
+/ 0.
+9
+/ 1 / 1.
+1
+/ 1.
+2
+seconds. Monsters receive 50% reduced damage.
+If
+Irelia
+does not re-activate
+Flawless Duet
+the second blade will automatically be placed at her current location unless she is affected by crowd control.
+Target Range:
+900.
+Cooldown:
+14 / 13 / 12 / 11 / 10 seconds.
+Mana Cost:
+50.
+Vanguard's Edge
+(R)
+Irelia
+launches a barrage of blades through a wide line in the target direction, exploding outwards upon hitting a champion, dealing 150 / 275 / 400
+(+ 70% AP)
+magic damage to all enemies struck.
+The blades form into a spade-shaped perimeter around the explosion for a 2.
+5
+/ 3 / 3.
+5
+seconds,
+knocking aside
+all enemies. Enemies that pass the blades are dealt 125 / 200 / 275
+(+ 70% AP)
+magic damage, and are
+disarmed
+while being
+slowed
+by 60% for 2 seconds.
+Target Range:
+1000.
+Cooldown:
+120 / 105 / 90 seconds.
+Mana Cost:
+100.
+Trivia
+[
+edit
+|
+edit source
+]
+According to
+Kuo-Yen 'Xypherous' Lo
+, Irelia is based on
+Himura Kenshin
+from
+Rurouni Kenshin
+.
+[2]
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Diver
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+Divers
+are the more mobile portion of the Fighter class. Divers excel at singling out high-priority targets to blitz toward, immediately forcing those targets (and their teammates) to deal with the diver’s presence. Divers are not as durable as the tanks or juggernauts of the world, but Divers can take their fair share of punishment while bringing enough damage to be a real kill threat if left unchecked.
+Examples
+Hecarim
+Jarvan IV
+Vi
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Flawless Duet
+COOLDOWN:
+16 / 15 / 14 / 13 / 12
+Active:
+Irelia
+sends a blade to the target location for a short time.
+Flawless Duet
+can be recast within the duration, and does so automatically after the duration. The recast cannot be
+interrupted
+.
+Recast:
+Irelia
+sends a second blade to the target location, or to her current position if
+Flawless Duet
+was recast automatically.
+Once both blades have been placed, they converge to deal
+magic damage
+and
+stun
+enemies within a line between.
+League of Legends content
+Vanguard's Edge
+COOLDOWN:
+125 / 105 / 85
+Active:
+Irelia
+launches a barrage of blades in the target direction that expand outward upon hitting an enemy champion, dealing
+magic damage
+to enemies hit.
+After expanding, the blades form a spade-shaped perimeter around the enemy champion hit for a short time. Enemies that pass through the blades for the first time are dealt
+magic damage
+and
+slowed
+.
+League of Legends content
+Bladesurge
+COOLDOWN:
+10 / 9 / 8 / 7 / 6
+Active:
+Irelia
+dashes
+through the target enemy, dealing
+physical damage
+, applying
+on-hit
+effects, and
+healing
+herself.
+If this attack kills the target, the cooldown is
+reset
+. Whenever a
+mark is consumed, the cooldown is
+reduced
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Interrupt
+Interrupt
+is a quality of crowd control that
+interrupts
+an in-progress effect, preventing its completion or causing the effect to go off at an
+interrupted
+state.
+The following crowd control effects
+interrupt
+channeled and charged
+abilities (unless otherwise noted by the ability):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+The following crowd control effects
+interrupt
+dashes
+:
+Airborne
+Knockdown
+Stasis
+Basic attack windups
+are
+interrupted
+by all forms of crowd control that inhibit attacking.
+Ground
+and
+Root
+only
+interrupt
+channeled and charged movement abilities.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Crowd control
+A unit that is
+disabled
+is affected by a status effect that prevents certain actions – such as movement, attacking, casting and/or seeing–blocked, reduced or controlled.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Cast-inhibiting crowd control
+A unit that is affected by
+cast-inhibiting crowd control
+is unable to cast abilities, activate items, or use summoner spells. The following crowd control effects disable casting of all spells and abilities as well as interrupts all
+channels
+:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Note that
+Disrupt
+is not a status effect and solely interrupts channels, and thus cannot fall under this classification.
+Root
+and
+Ground
+only disable movement spells and abilities.
+Stasis
+and
+Suppression
+are the only crowd control effects that disable all summoner spells from use; all other cast-inhibiting crowd control only disable movement summoner spells.
+League of Legends content
+Ionian Fervor
+Innate:
+Irelia's
+abilities generate a stack of
+Ionian Fervor
+for each enemy champion hit, as well as one stack if she hits at least one non-champion. Basic attacks against enemy
+champions
+and large
+monsters
+will also refresh the duration.
+Innate - Unsteady:
+Enemy
+champions
+and large
+monsters
+hit by
+Flawless Duet
+and
+Vanguard's Edge's
+initial barrage are
+marked. The mark can be consumed by
+Bladesurge
+.
+Ionian Fervor:
+For each stack,
+Irelia
+gains
+bonus attack speed
+. At maximum stacks, her basic attacks deal
+bonus
+magic damage
+.
+Basic attacks against enemy
+champions
+and large
+monsters
+will also refresh the duration.
+References
+[
+edit
+|
+edit source
+]
+↑
+Irelia's profile page
+at
+LeagueOfLegends.com
+↑
+Xypherous, Irelia, and Kenshin

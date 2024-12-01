@@ -1,0 +1,3134 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Kayle
+the Righteous
+Release date
+2009-02-21
+Last changed
+V14.22
+Class(es)
+Specialist
+Legacy
+Mage
+Marksman
+Position(s)
+Top
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+4800
+|
+260
+Crafting
++
+2880
+Ratings
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+1
+Utility
+3
+Style
+Difficulty
+Kayle
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Kayle
+Base statistics
+Edit
+Health
+670
++92
+Mana
+330
++50
+Health regen. (per 5s)
+5
++0.5
+Mana regen. (per 5s)
+8
++0.8
+Armor
+26
++4.2
+Attack damage
+50
++2.5
+Magic resist.
+22
++1.3
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+175
+Attack speed
+Base AS
+0.625
+Attack windup
+19.355%
+AS ratio
+0.667
+Bonus AS
++1.5
+%
+Missile speed
+5000
+Unit radius
+Gameplay radius
+65
+Selection radius
+140
+Pathing radius
+35
+Acq. radius
+600
+Special statistics
+Damage Dealt
+-5%
+Damage Received
++10%
+Damage Dealt
+-10%
+Damage Received
++5%
+Damage Dealt
+-5%
+Damage Received
++5%
+Damage Dealt
+-5%
+Damage Received
++10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Divine Ascent
+Kayle
+ascends through four forms that each grant additional bonuses:
+Level 1 - Zealous:
+Kayle's
+basic attacks grant her stacking
+attack speed
+, and at maximum stacks she also gains
+move speed
+.
+Level 6 - Arisen:
+Kayle
+gains
+range
+and becomes a ranged champion.
+Level 11 - Aflame:
+While at maximum stacks,
+Kayle's
+basic attacks launches a fire wave that deals
+magic damage
+.
+Level 16 - Transcendent:
+Kayle
+is permanently at maximum stacks, in addition to gaining even more
+range
+.
+Innate:
+Kayle
+ascends through four forms that each grant additional bonuses. She ascends upon spending a skill point at
+levels
+1, 6, 11, and 16.
+Level 1 - Zealous:
+Kayle's
+basic attacks
+on-attack
+generate a
+stack
+of
+Zeal
+for 5 seconds, refreshing on subsequent hits and stacking up to 5 times. For each stack, she gains
+6%
+(+ 1% per 100 AP)
+bonus
+attack speed
+, up to a maximum of
+30%
+(+ 5% per 100 AP)
+. At max stacks, she becomes
+Exalted
+, gaining
+10%
+bonus
+movement speed
+.
+Level 6 - Arisen:
+Kayle
+becomes
+ranged
+and gains
+350
+bonus
+attack range
+for a total of
+525
+.
+Level 11 - Aflame:
+Kayle
+gains 10% bonus
+size
+. While
+Kayle
+is
+Exalted
+, her basic attacks
+on-attack
+also launch a
+wave
+of fire forward that deals
+20 − 41 (based on level)
+(+ 10%
+bonus
+AD)
+(+ 25% AP)
+magic damage
+to all enemies it passes through. The
+wave
+is affected by
+critical strike
+modifiers.
+Level 16 - Transcendent:
+Kayle
+gains an additional
+100
+bonus
+attack range
+for a total of
+625
+, and permanently gains the full effects of
+Zealous
+.
+"Behold, the righteous flame!"
+Info
+Targeting input
+Passive
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Parries
+Bypass
+Projectile
+See Notes
+Zealous
+The stacking
+bonus
+attack speed
+can be tracked on the HUD via a buff called
+Zeal
+, while the maximum stacks bonus grants the buff
+Exalted
+.
+Subsequent applications will also refresh the duration of all stacks, but all of them are lost when expired.
+If
+Kayle
+is in her attack animation after the stacks expire, she gains another 0.
+5
+seconds to refresh/stack
+Zeal
+.
+Each stack grants
+bonus
+attack speed
+based on
+Kayle's
+ability power
+at the time the stack is generated and will not update if it is changed.
+For example, if a stack is generated while she has
+0 ability power
+, it'll grant
+6% attack speed
+. If she acquired
+100 ability power
+afterward, the next stack will grant
+7%
+. The 2 stacks grant a total of
+13%
+bonus
+attack speed
+and not
+14%
+.
+Arisen
+Basic attacks within
+175 units
+will still use
+Kayle's
+melee basic attack animations and do not utilize
+projectiles
+.
+They are still classified as
+ranged
+attacks.
+Due to this fact, projectile-blocking effects cannot intercept basic attacks while
+Kayle's
+target is within her "melee" range.
+Aflame
+On becoming
+Aflame
+,
+Kayle's
+bonus size grows linearly over 1 second.
+Basic attacks against
+structures
+and
+wards
+do not trigger fire waves.
+While at 4 stacks of
+Zeal
+, the next attack
+on-attack
+reaching the fifth stack will be empowered by
+Aflame
+, releasing the first fire wave.
+Transcendent
+The
+Zeal
+and
+Exalted
+buffs are replaced by a new buff that grants the benefits of both and it is not visible on
+Kayle's
+HUD.
+This buff also updates its
+attack speed
+value whenever a
+stat update
+happens and
+ability power
+is changed, however, it does not track
+ability power
+from other buffs, unless they have been specifically special cased. The following buffs are not special cased yet and will not grant bonus
+attack speed
+:
+Runes
+(including
+Adaptive Force rune shards
+)
+Infernal Might
+Fire Waves Details
+Hitboxes shows by a graph side by side.
+A wave consists of three projectiles for the hitbox and a fourth for visuals.
+The hitbox projectiles spawn 75 units behind
+Kayle
+, travel through her, and are destroyed once they've traveled 850 units. Their technical details are:
+Range:
+850
+(755 effective)
+Width:
+200
+Projectile Speed:
+2800
+Angle:
+18° (left and right at 9° to their side, respectively)
+Projectile
+-blocking effects can block each projectile individually.
+It is possible to block the visuals, but still get hit by an unblocked "invisible" hitbox projectile.
+Hitting an enemy with multiple projectiles of the same wave will not increase the damage dealt.
+The fire wave shares
+cast instance
+with the triggering basic attack.
+The amount of
+Conqueror
+stacks gained will be
+(
+2
+/
+1
+)
+if the basic attack deals damage first or 2 if the wave does so.
+Keep in mind that it's still two damage instances. If one triggers
+Bone Plating
+, the other's damage will be blocked.
+Fire waves roll
+critical strike chance
+on each target hit individually.
+The distance of the fire waves scales with
+bonus
+attack range.
+A known issue is that despite dealing
+area spell damage
+the fire wave does not:
+Consume
+Mana Charge
+from
+Tear of the Goddess
+and its upgrades.
+Trigger
+Manaflow Band
+.
+Interactions & Other
+Because
+Kayle
+is both a
+melee
+and
+ranged
+champion, she can purchase both ranged and melee exclusive items at anytime, but their effects will function depending on her current range type; the same principle also applies to
+runes
+.
+However, keep in mind that, prior to ascending to
+Arisen
+,
+Starfire Spellblade
+also changes this behaviour based on its usage.
+Waves are fired in the direction that
+Kayle
+is facing. Changing that during the attack windup via
+Flash
+will also change the direction of the wave.
+Each ascension has an unique animation and a voice line.
+(
+See: Kayle's quotes
+)
+The ascensions' animation will override the current one, but it does not cancel
+Kayle's
+current action, nor her previous orders.
+Map-Specific Differences
+Arena
+differences
+edit
+Wave bonus AD ratio changed to
+7%
+bonus
+AD
+.
+Wave AP ratio changed to
+17% AP
+.
+Edit
+Radiant Blast
+COST:
+70 / 75 / 80 / 85 / 90 Mana
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+CAST TIME:
+Attack Windup Time
+RANGE:
+900
+WIDTH:
+150
+SPEED:
+1600
+Active:
+Kayle
+summons a celestial sword that travels forward and expands upon hitting a target, dealing
+magic damage
+,
+slowing
+, and reducing the
+armor
+and
+magic resist
+of all targets struck.
+Active:
+Kayle
+conjures a portal in front of her that faces the target direction, from which a celestial sword launches forward.
+Magic Damage:
+60 / 100 / 140 / 180 / 220
+(+ 60%
+bonus
+AD)
+(+ 50% AP)
+Slow:
+26 / 32 / 38 / 44 / 50%
+The sword expands upon hitting an enemy, targets struck in the area are dealt
+magic damage
+,
+slowed
+for 2 seconds, and inflicted with 15%
+reduced
+armor
+and
+magic resistance
+for 4 seconds.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Details
+This ability has a cast time and cast delay. The former represents the amount of time Kayle needs to spend to cast and is equal to her attack windup time. The latter is the amount of time the portal needs to launch the sword, which is always
+0.
+264
+seconds
+seconds, starting from the beginning of the cast time.
+As implied by the previous point, the portal is created at the start of the cast time and
+Kayle
+does not have to be alive for it to launch the sword.
+The portal does not follow
+Kayle's
+movements, using
+Flash
+or getting displaced won't change its position nor direction either.
+The cast time can be calculated by dividing
+Kayle's
+windup percent
+value (0.
+193555
+) with her current total attack speed.
+Radiant Blast's
+cast time is
+0.
+33
+seconds
+at base attack speed, is at most
+0.
+99
+seconds
+at the minimum attack speed of
+0.2
+, and is
+0.
+099
+seconds
+at the attack speed cap of
+2.5
+. The cast time can be further decreased with effects that allows the player to bypass the attack speed cap.
+Additionally, it should be noted that due to action only taking place on whole game ticks, the cast time can only be changed in fractions of 0.
+033
+seconds. This also means that the lowest possible cast time is 0.
+033
+seconds, requiring at least
+5.8652
+attack speed.
+Correction:
+Important to note that in patch
+V9.17
+,
+Radiant Blast's
+cast time was changed to be a flat 0.
+25
+seconds, rather than scaling with the attack windup time. In patch
+V10.4
+, this was undocumentedly changed back. Whether the change to scale with windup time again was intentional or not is unknown.
+The resistance reduction is applied after the damage has been dealt.
+The expansion consists of 5 hitboxes, forming a cross-like shape centered 100 units ahead from the impact in its direction. Their technical details can be seen below and visualized on the image to the right.
+The left side shows projectile's width and the total area traveled if it does not hit a target, while the right side shows the explosions when it hits a target.
+ExplosionCenter
+: 100 radius
+ExplosionLeft
+: 150 distance, 125 width
+ExplosionRight
+: 150 distance, 125 width
+ExplosionBackward
+: 100 distance, 90 width
+ExplosionForward
+: 400 distance, 90 width
+Interactions & Other
+The visual effects of the explosion shows the blade and guard of
+Kayle's
+swords.
+The resistance reduction can be tracked on the HUD as a debuff called
+Sundered
+.
+Correction:
+Note that the
+PsyOps skin still uses the old shred VFX, which also only shows for 3 seconds (effect duration is not affected). This is possibly an oversight as all existing, and at the time released Dragon Slayer, skins were updated properly in
+V11.18
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Slow changed to 15 / 20 / 25 / 30 / 35%.
+Video
+File:Kayle Q Radiant Blast
+Edit
+Celestial Blessing
+COST:
+70 / 75 / 80 / 85 / 90 Mana
+COOLDOWN:
+15
+CAST TIME:
+0.
+25
+TARGET RANGE:
+900
+Active:
+Kayle
+heals
+herself and an allied champion. Additionally, both of them gains
+move speed
+for a brief time.
+Active:
+Kayle
+and the target allied champion are
+healed
+and gain
+bonus
+movement speed
+for 2 seconds.
+Heal:
+55 / 80 / 105 / 130 / 155
+(+ 25% AP)
+Bonus Movement Speed:
+24 / 28 / 32 / 36 / 40%
+(+ 8% per 100 AP)
+If cast without a valid target, or
+self-cast
+,
+Celestial Blessing
+will automatically target the closest allied champion in range, prioritizing the one with the lowest
+health
+.
+Info
+Targeting input
+Unit
+/
+Auto
+Details
+Celestial Blessing's
+cast time does not interrupt movement and the effects are applied at the start.
+Interactions & Other
+If cast with
+auto-targeting
+,
+Celestial Blessing
+may target allies who are
+untargetable
+, or allied clones that cannot be targeted by allies (such as
+Wukong's
+Warrior Trickster
+).
+Map-Specific Differences
+Arena
+differences
+edit
+Bonus movement speed changed to 15 / 20 / 25 / 30 / 35%.
+Video
+File:Kayle W Celestial Blessing
+Edit
+Starfire Spellblade
+COOLDOWN
+:
+8 / 7.
+5
+/ 7 / 6.
+5
+/ 6
+CAST TIME:
+none
+EFFECT RADIUS:
+350
+Passive:
+Kayle
+deals
+bonus
+magic damage
+on-hit.
+Active:
+Kayle
+kindles her blade, causing her next basic attack to deal additional
+bonus
+magic damage
+based on the
+target's
+missing
+health
+.
+Level 11 -
+Aflame
+Bonus:
+The attack explodes upon the target, dealing its damage to surrounding enemies.
+Starfire Spellblade
+applies
+on-hit
+effects and
+life steal
+on all targets struct.
+Passive:
+Kayle
+deals
+bonus
+magic damage
+on-hit
+.
+Passive Damage:
+15 / 20 / 25 / 30 / 35
+(+ 10%
+bonus
+AD)
+(+ 20% AP)
+Active:
+Kayle
+kindles her blade, empowering her next
+basic attack
+within 6 seconds to have an
+uncancellable windup
+and deal additional
+bonus
+magic damage
+on-hit
+that is capped at 400 against
+monsters
+. If
+Kayle
+is not yet
+Arisen
+, this attack becomes
+ranged
+with
+525 range
+.
+Bonus Magic Damage:
+8 / 8.
+5
+/ 9 / 9.
+5
+/ 10%
+(+ 1.
+5
+% per 100 AP)
+of target's
+missing
+health
+Aflame
+Bonus:
+The attack explodes upon the target, dealing its damage to surrounding enemies and applying
+on-hit
+effects. This is affected by
+critical strike
+modifiers.
+Starfire Spellblade
+resets
+Kayle's
+basic attack timer.
+Info
+Targeting input
+Auto
+Damage type
+Type
+See Notes
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Parries
+See Notes
+Projectile
+Blocked
+Details
+Starfire Spellblade
+will be buffered and cast when the cooldown ends if the player attempts to cast it within 0.1 seconds of the cooldown ending.
+Starfire Spellblade
+deals:
+The basic attack part deals
+basic damage
+as normal.
+Proc damage
+for the passive's
+on-hit
+effect.
+Spell damage
+for the active's effect.
+The damage dealt to secondary targets by the explosion is additionally tagged as
+area of effect
+.
+The active's effect shares the same
+cast instance
+with the triggering attack (exception:
+Muramana
+, see
+Interactions & Other
+).
+Parry interactions:
+Blind
+: The main target will never receive damage, but the secondary targets will receive the active's spell damage.
+Block
+: Blocking will always negate all damage. Keep in mind that if a secondary target is outside of
+Spirit's Refuge's
+zone, they won't block damage.
+Dodge
+: Dodging will always negate all damage.
+PENDING FOR TEST:
+: All parry interactions are marked for retesting because of patch
+V11.1
+changes.
+Interactions & Other
+While the active's effect is up, a circle is visible to
+Kayle
+, indicating her
+range
+, however, this circle only takes into account
+Divine Ascent's
+effect on her range, not other sources such as
+Rapid Firecannon
+.
+The increased range (with the item's effect included) will be
+675
+prior to ascending to
+Transcendent
+, after which it's
+725
+.
+To clarify the description,
+Starfire Spellblade
+can behave both as a
+ranged
+and
+melee
+attack based on how far the target is prior to
+Kayle
+ascending to
+Arisen
+, after which the attack will be always using ranged standards.
+If the target is 200 units away or closer, the attack will be considered melee. This also uses her melee animations, not utilizing projectiles even after ascending.
+If the target is over 200 units, the attack will be considered ranged.
+To further expand on this: Using the ranged empowered attack will change
+Kayle's
+range type to ranged while the projectile is alive. This means that if the target could outrun the projectile,
+Kayle
+would be stuck on being ranged, although the bonuses from the active are not kept. While it's unlikely to be on this temporary ranged state for longer than half a seconds during a normal playthrough, it is possible to achieve few seconds when specific conditions are met.
+Keep in mind that while on-hit effects will be applied to all targets in the explosion,
+on-attack
+effects are only applied once per basic attack, not per target hit.
+Single-use on-hits, such as
+Spellblade
+, will be applied to the main target.
+If the main target died prior to the projectile reaching them, or if it was a
+jungle plant
+, the effects will be applied to the closest target from the explosion's center.
+Guinsoo's Rageblade's
+Phantom Hit
+can only be applied to the main target.
+Despite being one cast instance,
+Starfire Spellblade
+triggers
+Muramana's
+Shock
+twice on each target, dealing normal bonus damage after the basic attack and increased bonus damage after the spell, totalling at
+(
+5%
+/
+4.
+2
+%
+)
+maximum
+mana
+(+ 6% AD)
+bonus
+physical damage
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Passive base damage changed to 5 / 10 / 15 / 20 / 25.
+Passive AD ratio changed to
+7%
+bonus
+AD
+.
+Passive AP ratio changed to
+14% AP
+.
+Health ratio changed to
+6.
+5
+/ 7 / 7.
+5
+/ 8 / 8.
+5
+% of target's
+missing
+health
+.
+Video
+File:Kayle E Starfire Spellblade
+Edit
+Divine Judgment
+COST:
+100 / 50 / 0 mana
+COOLDOWN:
+160 / 120 / 80
+CAST TIME:
+0.
+5
+TARGET RANGE:
+900
+EFFECT RADIUS:
+675 / 675 / 775
+Active:
+Kayle
+grants herself or an allied champion
+invulnerability
+for the next few seconds, and conjures flaming swords around herself. After a brief delay, the swords rain down around the target, dealing
+magic damage
+to enemies hit.
+Active:
+Kayle
+grants herself or a target allied champion
+invulnerability
+for 2.
+5
+seconds and conjures swords of fire.
+After 2.
+5
+seconds, she rains the swords down around the target, dealing
+magic damage
+to nearby enemies.
+Magic Damage:
+200 / 300 / 400
+(+ 100%
+bonus
+AD)
+(+ 70% AP)
+"Drown in holy fire!"
+Info
+Targeting input
+Unit
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Details
+Divine Judgment's
+cast time does not interrupt movement and the cast will finish even after
+Kayle's
+death.
+Since
+internalraw
+damage ignores invulnerability, the target may still die via the
+Nexus Obelisk
+, but the ability will finish at their corpse's position regardless.
+Divine Judgment
+will prioritize casting on allies over
+Kayle
+. This means that if Kayle's and an ally's selection ranges are intercepting each other on the cursor's position, the cast will always occur on the ally.
+Prior to becoming
+Transcended
+via
+Divine Ascent
+, casting
+Divine Judgment
+refreshes the duration of
+Zeal
+stacks at the start of the cast time to ensure that it does not expire while she can't attack during the cast.
+During cast, an indicator for the damaging area can be seen around the target, however, this is not visible if there is no
+sight
+on the them.
+Divine Judgment
+can be cast on
+clones
+too, including
+Shapesplitter
+and
+Warrior Trickster
+, which are normally not targetable for allies.
+While it's an uncommon occurence, it is possible to cast
+Divine Judgment
+on targets who just entered
+resurrection
+or
+zombie state
+. This is only possible with very strict timing and perhaps high latency.
+It's recommended to avoid both of the afformentioned interactions, as they render the usage of
+Divine Judgment
+useless in many cases.
+Interactions & Other
+While the target is invulnerable, a number indicator will appear beneath them whenever they would receive damage to show the amount that was entirely mitigated. This is calculated pre-mitigation, meaning before resistances and reductions are taken into account.
+Rapid Firecannon's
+Energized
+effect behaves strangely with the set basic attack range:
+If the ability is cast while the effect is ready, the range goes from
+400
+to
+385
+over 4
+stat updates
+(400 -> 390 -> 387 -> 385). When the cast completes, the proper range needs 2 updates to set in (
+660
+-
+675
+while
+Arisen
+;
+710
+-
+725
+while
+Transcended
+).
+Gaining the effect during the cast will cause the range to cycle between
+525
+and
+550
+until the cast finishes, then the proper range is set after 1 update.
+Selling the item during the cast causes the range to be set to
+250
+.
+PENDING FOR TEST:
+Range values are outdated because of patch
+V11.18
+changes to
+Kayle
+.
+The invulnerability can be tracked on the HUD via a buff called
+Intervention
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 150 / 225 / 300.
+Cooldown changed to 320 / 240 / 160 seconds.
+Video
+File:Kayle R Divine Judgement
+Notes
+[
+edit
+|
+edit source
+]
+As mentioned in some of the ability descriptions,
+Kayle's
+basic attacks within 175 units will always use her melee animation, even after becoming ranged, not utilizing projectiles.
+Basic attacks empowered by
+Starfire Spellblade
+have a 200 "melee" range.
+Basic attacks made while
+Kayle
+is
+silenced
+will function as normal, while lacking a visual projectile.
+Once reaching the second ascension at level 11,
+Kayle's
+portrait icon for certain skins will change:
+On the Original skin
+becomes
+.
+On the Silver skin
+becomes
+.
+On the Viridian skin
+becomes
+.
+On the Battleborn skin
+becomes
+.
+On the Aether Wing skin
+becomes
+.
+On the Riot skin
+becomes
+.
+On the Pentakill skin
+becomes
+.
+On the PsyOps skin
+becomes
+.
+On the Dragonslayer skin
+becomes
+.
+On the Pentakill III: Lost Chapter skin
+becomes
+.
+On the Sun-Eater skin
+becomes
+.
+On the Immortal Journey skin
+becomes
+.
+On the Empyrean skin
+becomes
+.
+On the Prestige Empyrean skin
+becomes
+.
+Keep in mind that from others' point of view, only the Original skin is shown.
+Trivia
+[
+edit
+|
+edit source
+]
+Kayle
+,
+Elise
+,
+Gnar
+,
+Jayce
+, and
+Nidalee
+are the only champions to be conditionally considered both
+ranged
+and
+melee
+.
+The projectile speed of Kayle's basic attack is the second highest in the game with its 5000 speed among all ranged basic attacks that utilize projectiles, by a margin.
+Aphelios'
+Severum
+gun has the fastest at 92400 speed, while
+Soraka
+has the slowest at 1000 speed. The average is between 1500 and 2000.
+The first buff from her innate (
+Zeal
+) shares its name with the item
+Zeal
+.
+Her dance references
+Elaine Benes'
+dance
+from
+Seinfeld
+.
+A side-by-side comparison can be seen
+here
+.
+In
+Ultimate Spellbook
+,
+Kayle
+ascends without the player's input. This is caused by the fact that the choosen Ult-ernate Summoner Spells are automatically ranked up when the required levels are reached, which also matches the levels that the player may initiate the ascensions on.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Kayle (Collection)
+.
+Original
+View in 3D
+260
+21.02.2009
+Born to a Targonian Aspect at the height of the Rune Wars, Kayle honored her mother’s legacy by fighting for justice on wings of divine flame. She and her twin sister Morgana were the protectors of Demacia for many years—until Kayle became disillusioned with the repeated failings of mortals, and abandoned this realm altogether. Still, legends are told of her punishing the unjust with her fiery swords, and many hope that she will one day return…
+Zehra Fazal
+Jessica 'OwleyCat' Oyhenart, Victor '3rdColossus' Maury, Jennifer Wuestling
+Loot eligible
+Silver
+View in 3D
+Special
+13.11.2009
+Given to players who purchased the Retail Collector's Edition of League of Legends.
+Zehra Fazal
+Jem Flores
+Collector's Edition
+Loot ineligible
+New SFX/VFX
+Viridian
+View in 3D
+520
+01.06.2010
+Forest Elves are long lived compared to the humans they live among, and many delve into centuries-long explorations for even a scrap of their empires' lost magic. Those who find it, such as Kayle, are gifted with incredible powers over the natural world.
+Zehra Fazal
+Zeen Chin
+Albion
+Loot eligible
+Chromas
+Viridian Kayle Chromas
+Aquamarine
+Citrine
+Obsidian
+Pearl
+Rose Quartz
+Transcended
+View in 3D
+975
+13.07.2010
+Having cast aside her humanity, Kayle has transcended and fully assumed her mother's mantle as the divine Aspect of Justice. She is aware of her mortal origins, but views it as something distant that she left behind very long ago.
+Zehra Fazal
+Atey Ghailan
+Otherroads
+Loot eligible
+Legacy
+Battleborn
+View in 3D
+975
+18.04.2011
+Kayle is a benevolent goddess in times of peace, and a terrifying battle spirit in times of war. She wears the traditional warpaint of her people as a living record of their victories and power.
+Zehra Fazal
+Bo 'chenbowow' Chen
+Woad
+Loot eligible
+New SFX/VFX
+Judgment
+View in 3D
+Special
+22.08.2011
+Those poor souls accused of crimes are brought before the all-seeing entity Kayle, where their deeds are judged with cold dispassion. Few are absolved, and fewer still escape their sentence.
+Zehra Fazal
+Viktor Titov, Grafit Studio
+Legacy
+Loot ineligible
+New SFX/VFX
+Aether Wing
+View in 3D
+1820
+18.01.2013
+Authorized pilot of the X07-Gevurah combat exosuit, Kayle is a justicar of the Royal Space Military operating deep in the heart of lawless space. Though her mission is to uphold the fragile postwar peace, years of violent conflict have radicalized her—now she acts as heartless judge, jury, and executioner for anyone or anything that falls beneath her gaze.
+Zehra Fazal
+Alex 'alexplank' Flores
+Steel Valkyries
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+Aether Wing Kayle Chromas
+Ace
+Amethyst
+Emerald
+Rose Quartz
+Ruby
+Sapphire
+Riot
+View in 3D
+975
+12.08.2014
+A Riot Games skin obtained by either meeting a Rioter or attending an official Riot event in 2014.
+Zehra Fazal
+John Yucedag
+Riot
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Iron Inquisitor
+View in 3D
+750
+04.05.2016
+To be crowned inquisitor was to take a stand against the darkness, and at the head of the order stood Kayle, for her light shone the brightest. But darkness comes in many forms, and when the city fell, even its greatest champion would eventually turn upon her sisters.
+Zehra Fazal
+Pan Chengwei
+Omen of the Dark
+Loot eligible
+Pentakill
+View in 3D
+1350
+08.08.2017
+When PENTAKILL needed a female vocalist, the heavens parted and a literal angel of rock fell to earth, taking up her sword-mic for the eternal glory of heavy metal.
+Zehra Fazal
+Alvin Lee, Kan Liu
+Pentakill
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+PsyOps
+View in 3D
+1350
+17.09.2020
+A self-described “savior” and powerful psionic swordswoman, Kayle views herself as an impartial judge in world affairs, appearing on wings powered by psychic energy as an angel of war. Her understanding of the world is black and white to a frightening extreme, and she has joined the paramilitary BRG to see her twisted vision realized.
+Zehra Fazal
+West Studio
+Black Rose Group
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+PsyOps Kayle Chromas
+Emerald
+Hunter
+Rose Quartz
+Ruby
+Sandstone
+Sapphire
+Tanzanite
+Turquoise
+Dragonslayer
+View in 3D
+1350
+15.04.2021
+A famous dragonslayer who vanished into the distant mountains, obsessed with destroying the dragon lineage utterly. Many years later she has returned, so changed by the carnage that she has begun to resemble a dragon herself.
+Zehra Fazal
+Forrest Imel, West Studio
+Dragon World
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dragonslayer Kayle Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Pentakill Lost Chapter
+View in 3D
+1350
+09.09.2021
+All hail, Kayle, the Bringer of Woe! With the strength of a self-righteous angel, she claims justice and judgment soar on her wings of wrath. Surely, if any can rally the warrior host of metal, it will be her.
+Zehra Fazal
+Terence 'Terrylefruit' Cantal, West Studio
+Pentakill III: The Lost Chapter
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Pentakill III: Lost Chapter Kayle Chromas
+Aquamarine
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Sun-Eater
+View in 3D
+1350
+28.04.2022
+The hated sun-eater, Kayle wished to be one with the divine she loved, devouring the primordial sun and steeping the land in an eternal eclipse. Driven mad with light and unable to contain her power, she passed fragments down to an army of witch-knights, who slew the other gods in an act of unforgivable blasphemy.
+Zehra Fazal
+Marie Magny, West Studio
+Eclipse
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Sun-Eater Kayle Chromas
+Citrine
+Emerald
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Immortal Journey
+View in 3D
+1350
+16.08.2023
+The Grounded Foresight School teaches power in knowing one's surroundings, but as Kayle nears immortality, doubt has crept in. Her parents' random deaths fostered a desire to exert as much control as possible in her life, but with her teacher Zed's banishment, the ground is now shaky. Immortality, she hopes, will finally give her solid footing.
+Zehra Fazal
+Huyy Nguyen, West Studio
+Immortal Journey
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Immortal Journey Kayle Chromas
+Amethyst
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Empyrean
+View in 3D
+1350
+01.05.2024
+Royal life for Kayle was one of blissful ignorance, while her sister pursued justice and equality for their subjects. After becoming the sole survivor of her realm, Kayle was awoken, and saw her fate as punishment for years of indifference. Now she doles out justice across the realms in tribute to her sister, though her methods are far more... severe.
+Zehra Fazal
+Augusto Quirino, West Studio
+Empyrean
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Empyrean Kayle Chromas
+Catseye
+Emerald
+MSI 2024 Chaos
+Neon Facade
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Prestige Empyrean
+View in 3D
+Special
+01.05.2024
+When flames swept through Kayle's studio, at first she was overcome with grief. She had lost everything, but then realized that the fire freed her to do—and be—more. Now she returns to the Gala with her new line, Neon Flame, crossing styles, materials, and forms. Kayle has been reborn, and she will transcend everyone.
+Zehra Fazal
+Ina Wong, West Studio
+Empyrean
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Empyrean
+. Store variants are discounted for multiple purchases.
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.22
+Divine Ascent
+Bonus attack speed AP ratio per stack increased to
+1% per 100 AP
+from
+0.
+5
+% per 100 AP
+.
+V14.21
+Celestial Blessing
+Mana cost reduced to 70 / 75 / 80 / 85 / 90 from 90 / 100 / 110 / 120 / 130.
+V14.10
+Empyrean Kayle
+Bug Fix:
+Properly implemented her unique HUD portrait before ascending to
+Aflame
+(level 11).
+V14.9
+Immortal Journey Kayle
+Bug Fix:
+Properly implemented her unique HUD portrait before ascending to
+Aflame
+(level 11).
+V14.5
+Starfire Spellblade
+New Effect:
+Now triggers spell effects upon dealing damage.
+V14.1
+- January 12th Hotfix
+Divine Ascent
+Bonus attack speed AP ratio per stack reduced to
+0.
+5
+% per 100 AP
+from
+1%
+.
+V13.17
+Dragonslayer Kayle
+Bug Fix:
+Smoke VFX during her
+Recall
+now uses the correct shape.
+Immortal Journey Kayle
+Bug Fix:
+Her champion icon on the scoreboard and minimap now use the correct icon to reflect her third form at level 11.
+V13.10
+Divine Judgment
+Bug Fix:
+Sword VFX are no longer missing on her body during the cast animation.
+V13.9
+General
+Bug Fix:
+Several SFX and animations now properly play.
+Divine Ascent
+Aflame base damage changed to
+20 − 41 (based on level)
+from
+15 − 35 (based on
+Starfire Spellblade's Rank)
+.
+Starfire Spellblade
+Passive AP ratio reduced to
+20% AP
+from
+25% AP
+.
+Divine Judgment
+Cast time reduced to 0.
+5
+seconds from 1.
+5
+.
+Area of effect delay increased to 2.
+5
+seconds from 1.
+5
+seconds.
+Duration changed to 2.
+5
+seconds at all ranks from 2 / 2.
+5
+/ 3.
+Effect radius increased to 675 / 675 / 775 units from 500 at all ranks.
+Base damage reduced to 200 / 300 / 400 from 200 / 350 / 500.
+AP ratio reduced to
+70% AP
+from
+80% AP
+.
+Removed:
+No longer reduces her attack range to 400 if she self-casts.
+V13.4
+General
+Bug Fix:
+No longer permanently loses attack speed from certain sources of ability power after reaching level 16.
+V13.3
+Divine Ascent
+Bonus movement speed increased to 10% from 8%.
+Starfire Spellblade
+Passive AP ratio increased to
+25% AP
+from
+20% AP
+.
+V12.13
+Divine Ascent
+New Effect:
+Now slightly increases size upon becoming
+Aflame
+.
+V12.10
+- May 25th Hotfix
+Stats
+Base magic resistance reduced to 22 from 26.
+Health growth reduced to 92 from 99.
+Starfire Spellblade
+Active base damage reduced to
+8 / 8.
+5
+/ 9 / 9.
+5
+/ 10%
+missing
+health
+from
+8 / 9 / 10 / 11 / 12%
+.
+Active AP ratio reduced to
+1.
+5
+% per 100 AP
+from
+2% per 100 AP
+.
+V12.10
+Stats
+Base health increased to 670 from 600.
+Health growth increased to 99 from 85.
+Armor growth increased to 4.
+2
+from 3.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Celestial Blessing
+Base heal reduced to 55 / 80 / 105 / 130 / 155 from 60 / 90 / 120 / 150 / 180.
+Heal AP ratio reduced to
+25% AP
+from
+30% AP
+.
+V12.9
+Divine Ascent
+Bug Fix:
+Movement and attack voice lines now play correctly while
+Ascended
+.
+V11.24
+Divine Ascent
+New Effect:
+While Aflame and Exalted, or Transcendent, the distance of the waves launched by her basic attacks now scales with her
+bonus
+attack range.
+V11.15
+Stats
+Base magic resistance reduced to 26 from 30.
+V11.10
+Divine Ascent
+Aflame (fire wave) AP ratio increased to
+25% AP
+from as
+20% AP
+.
+Transcendent bonus attack range increased to 100 from 50.
+Maximum bonus attack range increased to 625 from 575.
+Bug Fix:
+Fire waves now properly trigger
+Muramana's
+Shock.
+V11.8
+Starfire Spellblade
+Bug Fix:
+Kraken Slayer's
+Bring it Down now triggers properly from all ranges.
+Divine Judgement
+Bug Fix:
+Voice lines now trigger more frequently at cast.
+V11.1
+Starfire Spellblade
+Bug Fix:
+No longer consumes charges of
+Tear of the Goddess
+twice.
+Is now considered a single cast instance instead of two individual ones (one for the basic attack and one for the spell).
+Now only gives one stack for effects such as
+Electrocute
+or
+Phase Rush
+, instead of two.
+No longer triggers
+Conqueror
+twice.
+etc.
+V10.25
+Stats
+Base magic resistance reduced to 30 from 34.
+Divine Ascent
+Aflame AP ratio reduced to
+20% AP
+from
+25% AP
+.
+Bug Fix:
+Fixed a bug where her attack range would unintentionally increase after leveling up
+Divine Judgement
+.
+Starfire Spellblade
+Passive AP ratio reduced to
+20% AP
+from
+25% AP
+.
+V10.24
+Divine Ascent
+Attack speed AP ratio per stack reduced to
+1% per 100 AP
+from
+2% per 100 AP
+.
+Maximum attack speed AP ratio reduced to
+5% per 100 AP
+from
+10% per 100 AP
+.
+V10.23
+Divine Ascent
+New Effect:
+Now grants
+2% per 100 AP
+bonus
+attack speed
+per stack.
+V10.22
+PsyOps Kayle
+Divine Judgement
+Bug Fix:
+No longer triggers a series of flashes across the screen when activated.
+V10.18
+Radiant Blast
+Removed:
+No longer refunds
+50% of its mana cost
+per enemy champion hit.
+Celestial Blessing
+Mana cost increased to 90 / 100 / 110 / 120 / 130 from 70 / 80 / 90 / 100 / 110.
+Starfire Spellblade
+Mana cost reduced to 0 from 50 / 55 / 60 / 65 / 70.
+Projectile speed increased to 5000 from 2000.
+Cooldown reduced to 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6 seconds from 8 at all ranks.
+Aether Wing Kayle
+and
+Pentakill Kayle
+Radiant Blast
+Bug Fix:
+VFX no longer renders over impassable terrain.
+V10.4
+Radiant Blast
+Undocumented:
+Cast time reverted to match
+Kayle's
+basic attack's windup time from 0.
+25
+seconds.
+V9.22
+Radiant Blast
+Base damage reduced to 60 / 100 / 140 / 180 / 220 from 70 / 115 / 160 / 205 / 250.
+Celestial Blessing
+Mana cost increased to 70 / 80 / 90 / 100 / 110 from 60 / 70 / 80 / 90 / 100.
+V9.19
+Divine Judgment
+Bug Fix:
+Fixed a bug where
+Ultimate Hunter
+would not reduce its cooldown.
+V9.18
+Divine Ascent
+Aflame base damage increased to
+15 − 35 (based on
+Starfire Spellblade's Rank)
+from
+10 − 30 (based on
+Starfire Spellblade's Rank)
+Starfire Spellblade
+Passive base damage increased to 15 / 20 / 25 / 30 / 35 from 10 / 15 / 20 / 25 / 30.
+V9.17
+General
+Adjusted splash artwork for
+Original Kayle
+.
+Divine Ascent
+New Effects:
+Innate:
+Upon reaching levels 1, 6, 11, and 16, along with spending another skill point,
+Kayle
+ascends into a new form, gaining additional bonuses.
+Zealous (1):
+Kayle's
+basic attacks grant
+6%
+bonus
+attack speed
+for 5 seconds, stacking up to 5 times for a maximum of
+30%
+bonus
+attack speed
+. At maximum stacks,
+Kayle
+becomes
+Exalted
+, gaining
+8%
+bonus
+movement speed
+. Can stack against turrets.
+Arisen (6):
+Kayle
+becomes a
+ranged champion
+with
+525 attack range
+.
+Aflame (11):
+While
+Exalted
+,
+Kayle's
+basic attacks against non-structures additionally launch a wave of fire in the target's direction, dealing
+10 − 30 (based on
+Starfire Spellblade's Rank)
+(+ 10%
+bonus
+AD)
+(+ 25% AP)
+magic damage
+to enemies hit. The waves can
+critically strike
+for
+(100% +
+25%
+)
+bonus
+magic damage
+.
+Transcendent (16):
+Zealous
+is permanently set to maximum stacks and
+Kayle
+gains
+50
+bonus
+attack range
+, for a total of 575 attack range.
+Old Effects:
+Innate:
+Upon reaching levels 1, 6, 11, and 16, along with spending another skill point,
+Kayle
+ascends into a new form, gaining additional bonuses.
+Zealous (1):
+Kayle's
+basic attacks against non-structures grant
+6%
+bonus
+attack speed
+for 5 seconds, stacking up to 5 times for a maximum of
+30%
+bonus
+attack speed
+. At maximum stacks,
+Kayle
+becomes
+Exalted
+, gaining
+15%
+bonus
+movement speed
+when moving toward enemies.
+Aflame (6):
+While
+Exalted
+,
+Kayle's
+basic attacks against non-structures additionally launch a wave of fire in the target's direction, dealing
+10 − 30 (based on
+Starfire Spellblade's Rank)
+(+ 10% AD)
+(+ 20% AP)
+magic damage
+to enemies hit. The waves can
+critically strike
+for
+(100% +
+25%
+)
+bonus
+magic damage
+.
+Arisen (11):
+Kayle
+becomes a
+ranged champion
+with
+550 attack range
+. Additionally,
+Zealous's
+bonus
+attack speed is increased to
+10%
+bonus
+attack speed
+per stack, for a maximum of
+50%
+bonus
+attack speed
+.
+Transcendent (16):
+Zealous
+is permanently set to maximum stacks. Additionally,
+Aflame's
+fiery waves now deal
+true damage
+instead.
+Radiant Blast
+New Effect:
+Now refunds
+50% of mana cost
+for each champion hit with it.
+Cast delay reduced to 0.
+25
+seconds from 0.
+5
+.
+Cast time changed to 0.
+25
+seconds, rather than matching the basic attack's windup time.
+Missile speed reduced to 1600 from 2000.
+Target range reduced to 900 units from 950.
+Resistances shred reduced to 15% from 20%.
+Resistances shred duration increased to 4 seconds from 3.
+Bug Fix:
+Fixed a bug where it wouldn't pierce as far if it hit its target at point-blank range.
+Starfire Spellblade
+Bonus magic damage reduced to
+8 / 9 / 10 / 11 / 12% of target's
+missing
+health
+from
+8 / 10 / 12 / 14 / 16%
+.
+AP ratio increased to
+2% per 100 AP
+from
+1% per 100 AP
+.
+Passive on-hit damage AD ratio reduced to
+10%
+bonus
+AD
+from
+10%
+total
+AD
+.
+Passive on-hit damage AP ratio increased to
+25% AP
+from
+20% AP
+.
+Divine Judgment
+Mana cost reduced to 100 / 50 / 0 from 100 at all ranks.
+AoE radius increased to 500 units from 475.
+V9.9
+Celestial Blessing
+Undocumented:
+Can now be casted while there's a
+decoy
+nearby.
+Divine Judgment
+Bug Fix:
+Fixed a bug where she would sometimes freeze when casting her
+Divine Judgement
+and then teleport to a new location.
+Undocumented:
+Can no longer be cast on
+decoys
+.
+V9.8
+Stats
+Base attack damage reduced to 50 from 52.
+Base armor reduced to 26 from 28.
+Base attack speed reduced to 0.
+667
+from 0.
+695
+.
+Divine Ascent
+New Effect:
+Ascensions are now based on level and skill points.
+V9.7
+Stats
+Base health regeneration reduced to 5 from 6.
+Armor growth reduced to 3 from 3.
+5
+.
+Radiant Blast
+Mana cost increased to 70 / 75 / 80 / 85 / 90 from 60 / 65 / 70 / 75 / 80.
+Celestial Blessing
+Base movement speed reduced to 24 / 28 / 32 / 36 / 40% from 26 / 32 / 38 / 44 / 50%.
+Mana cost changed to 60 / 70 / 80 / 90 / 100 from 70 / 75 / 80 / 85 / 90.
+Starfire Spellblade
+Bonus magic damage reduced to
+8 / 10 / 12 / 14 / 16% of target's
+missing
+health
+from
+10 / 12.
+5
+/ 15 / 17.
+5
+/ 20%
+.
+New Effect:
+Bonus magic damage now scales with
+1% per 100 AP
+.
+V9.6
+General
+Now defaults to attack damage as her default adaptive stat, from ability power.
+Updated recommended items.
+Stats
+Attack damage growth reduced to 2.
+5
+from 3.
+Attack speed growth reduced to 1.
+5
+% from 2%.
+Celestial Blessing
+Movement speed AP ratio reduced to
+8% per 100 AP
+from
+10% per 100 AP
+.
+New Effect:
+Bonus movement speed now begins on cast rather than after 0.
+25
+seconds.
+Removed:
+No longer has a 1 second uncancellable window.
+Starfire Spellblade
+New Effect:
+Cast time is now identical to her basic attack windup, from 0.
+25
+seconds.
+Bug Fix:
+The basic attack portion of
+Starfire Spellblade's
+attack can now properly critically strike.
+Riot Kayle
+Updated VFX to be more wee-woo.
+Silver Kayle
+Updated VFX to be more blue.
+Battleborn Kayle
+Updated VFX to be less yellow.
+Judgment Kayle
+Updated VFX to be more spooky.
+Aether Wing Kayle
+New death animation.
+Removed robotic VO processing.
+V9.5
+- Full Relaunch
+General
+Title changed to
+the Righteous
+from
+the Judicator
+.
+Complete visual upgrade across all skins.
+New artwork for
+Original Kayle
+,
+Viridian Kayle
+,
+Battleborn Kayle
+,
+Aether Wing Kayle
+,
+Judgment Kayle
+,
+Riot Kayle
+, and
+Silver Kayle
+.
+Tweaked artwork for
+Iron Inquisitor Kayle
+and
+Pentakill Kayle
+.
+Unmasked Kayle
+reworked into
+Transcended Kayle
+.
+New voice over.
+New lore.
+Stats
+Base attack range increased to 175 from 125.
+Base attack speed increased to 0.
+695
+from 0.
+638
+.
+Base attack damage increased to 52 from 51.
+Base armor increased to 28 from 26.
+88
+.
+Base magic resistance increased to 34 from 30.
+Base health increased to 600 from 586.
+Base mana reduced to 330 from 375.
+Base health regeneration reduced to 6 from 8.
+5
+.
+Attack speed growth reduced to 2% from 2.
+2
+%.
+Attack damage growth increased to 3 from 2.
+2
+.
+Health growth reduced to 85 from 105.
+Mana growth increased to 50 from 25.
+Health regeneration growth reduced to 0.
+5
+from 0.
+75
+.
+Divine Ascent
+(Innate)
+Innate - Zealous:
+Kayle's
+basic attacks grant 6%
+bonus
+attack speed for 5 seconds, stacking up to 5 times for a maximum of 30%
+bonus
+attack speed. At maximum stacks,
+Kayle
+becomes
+Exalted
+, gaining 15%
+bonus
+movement speed when moving toward enemies.
+Upon spending 6, 11, and 16 skill points,
+Kayle
+ascends into a new form, gaining additional bonuses.
+Aflame - Level 6:
+While
+Exalted
+,
+Kayle's
+basic attacks additionally launch a wave of fire in the target's direction, dealing
+10 − 30 (based on
+Starfire Spellblade's Rank)
+(+ 10% AD)
+(+ 20% AP)
+magic damage to enemies hit.
+Arisen - Level 11:
+Kayle
+becomes a
+ranged champion
+with 550 attack range. Additionally,
+Zealous's
+bonus
+attack speed is increased to 10%
+bonus
+attack speed, for a maximum of 50%
+bonus
+attack speed.
+Transcendent - Level 16:
+Kayle
+permanently has full
+Zealous
+stacks and is permanently
+Exalted
+. Additionally,
+Aflame's
+fiery waves now deal true damage.
+Radiant Blast
+(Q)
+Active:
+Kayle
+plants a portal at her initial location that faces the target direction. After a 0.
+5
+-second delay, a celestial sword launches forward from the portal.
+The sword explodes into a cross upon collision with an enemy, dealing 70 / 115 / 160 / 205 / 250
+(+ 60%
+bonus
+AD)
+(+ 50% AP)
+magic damage and
+slowing
+targets struck by 26 / 32 / 38 / 44 / 50%, while reducing their armor and magic resistance by 20% for 3 seconds.
+Mana Cost:
+60 / 65 / 70 / 75 / 80.
+Cooldown:
+12 / 11 / 10 / 9 / 8 seconds.
+Celestial Blessing
+(W)
+Active:
+Kayle
+and target allied champion are
+healed
+for 60 / 90 / 120 / 150 / 180
+(+ 30% AP)
+health and gain 26 / 32 / 38 / 44 / 50%
+(+ 10% per 100 AP)
+bonus
+movement speed for 2 seconds.
+If cast without a valid target, or self-cast,
+Celestial Blessing
+will automatically target the most wounded ally in range.
+Target Range:
+900.
+Mana Cost:
+70 / 75 / 80 / 85 / 90.
+Cooldown:
+15 seconds.
+Starfire Spellblade
+(E)
+Passive:
+Kayle's
+basic attacks deal 10 / 15 / 20 / 25 / 30
+(+ 10% AD)
+(+ 20% AP)
+bonus
+magic damage. Additionally,
+Aflame's
+base damage is increased.
+Active:
+Kayle's
+next basic attack within 6 seconds deals
+10 / 12.
+5
+/ 15 / 17.
+5
+/ 20% of target's
+missing
+health
+bonus
+magic damage. While
+Aflame
+, it also damages enemies surrounding the target.
+Prior to becoming
+Arisen
+,
+Starfire Spellblade
+also causes
+Kayle
+to become a
+ranged champion
+with 550 attack range on the empowered attack.
+Mana Cost:
+50 / 55 / 60 / 65 / 70.
+Cooldown:
+8 seconds.
+Divine Judgment
+(R)
+Active:
+Kayle
+conjures swords around the target allied champion or herself over 1.
+5
+seconds, after which she brings them crashing to the ground, dealing magic damage to all enemies in the area.
+Divine Judgment
+also grants the target
+invulnerability
+for 2 / 2.
+5
+/ 3 seconds.
+Target Range:
+900.
+Mana Cost:
+100.
+Cooldown:
+160 / 120 / 80 seconds.
+Trivia
+[
+edit
+|
+edit source
+]
+Kayle, the Judicator
+Kayle was the first to have her dance changed after release, (followed by
+Veigar
+) the first to have her abilities reworked three times since release, (followed by
+Ryze
+) and the first to use Chinese artwork outside Asian servers.
+Kayle -
+Morgana
+is one of seven pairs of sibling champions (the others being
+Cassiopeia
+-
+Katarina
+,
+Garen
+-
+Lux
+,
+Nasus
+-
+Renekton
+,
+Yasuo
+-
+Yone
+,
+Darius
+-
+Draven
+, and
+Vi
+-
+Jinx
+).
+Though not a pair,
+Anivia
+,
+Ornn
+, and
+Volibear
+are also siblings.
+During
+Alpha Test
+, she was simply called 'Judicator' and at one point she was incorrectly listed as a
+tank
+.
+Her old dance referenced
+Will Smith's
+"Jump on It"
+dance from
+The Fresh Prince of Bel-Air
+.
+A side-by-side comparison can be seen
+here
+.
+She shared this dance with
+Singed
+.
+Her new dance is a reference to the dance of Elaine Benes from
+Seinfeld "The Little Kicks"
+.
+In the now-removed official League of Legends
+forums
+, the
+original icon of
+Intervention
+was used to represent the "Mac Client" section.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Specialist
+Specialists
+are champions that do not fit into the "neat little boxes" of the other classes, and represent Riot's ideal of having a champion roster with a lot of distinctiveness and diversity.
+Examples
+Azir
+Teemo
+Heimerdinger
+Singed
+Gangplank
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Projectile
+A
+projectile
+or
+missile
+is any entity not classified as a unit (
+champion
+,
+minion
+,
+monster
+, etc.
+) that travels at any given velocity.
+Moving units are
+not
+considered projectiles under any circumstance (
+including
+dashing
+units,
+airborne
+units, or units thrown by some abilities such as
+Force of Will
+or
+Roar of the Slayer
+.
+).
+Braum's
+Unbreakable
+,
+Samira's
+Blade Whirl
+, and
+Yasuo's
+Wind Wall
+can block, destroy and / or stop projectiles.
+Some
+ranged
+basic attacks (
+including
+turrets
+) and abilities don't use projectiles and will bypass projectile-blocking effects.
+Some abilities will
+destroy
+all currently incoming homing projectiles.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Cast instance
+Cast instance is the identifier that tells the
+source
+of spells. Multiple spells, such as basic attacks and abilities, under the same cast instance behave as one for certain interactions. Some notable examples:
+Conqueror's
+stacking can only be triggered once per cast instance.
+Electrocute
+and
+Phase Rush
+can only receive 1 stack for their activation per cast instance.
+Muramana
+deals its damage once per cast instance.
+Not to be confused with damage instance, which is each individual effects, even under the same cast instance.
+League of Legends content
+Starfire Spellblade
+COOLDOWN:
+8 / 7.
+5
+/ 7 / 6.
+5
+/ 6
+Passive:
+Kayle
+deals
+bonus
+magic damage
+on-hit.
+Active:
+Kayle
+kindles her blade, causing her next basic attack to deal additional
+bonus
+magic damage
+based on the
+target's
+missing
+health
+.
+Level 11 -
+Aflame
+Bonus:
+The attack explodes upon the target, dealing its damage to surrounding enemies.
+Starfire Spellblade
+applies
+on-hit
+effects and
+life steal
+on all targets struct.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Warrior Trickster
+COOLDOWN:
+18 / 17 / 16 / 15 / 14
+Active:
+Wukong
+enters brief
+invisibility
+and
+dashes
+to the target location, leaving behind a
+clone
+that remains for a short time.
+The clone will basic attack autonomously and gain the effects of his other abilities, as well as cast
+Cyclone
+.
+League of Legends content
+Divine Ascent
+Kayle
+ascends through four forms that each grant additional bonuses:
+Level 1 - Zealous:
+Kayle's
+basic attacks grant her stacking
+attack speed
+, and at maximum stacks she also gains
+move speed
+.
+Level 6 - Arisen:
+Kayle
+gains
+range
+and becomes a ranged champion.
+Level 11 - Aflame:
+While at maximum stacks,
+Kayle's
+basic attacks launches a fire wave that deals
+magic damage
+.
+Level 16 - Transcendent:
+Kayle
+is permanently at maximum stacks, in addition to gaining even more
+range
+.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Spirit's Refuge
+COOLDOWN:
+18 / 16.
+5
+/ 15 / 13.
+5
+/ 12
+Active:
+Shen
+primes his
+Spirit Blade
+, creating an area around it. After a short time, or when
+Shen
+or allied champions enter the area, the
+Spirit Blade
+briefly erupts a protective zone that
+blocks
+enemy basic attacks that hit
+Shen
+or allied champions in the area.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+References
+[
+edit
+|
+edit source
+]
+↑
+Kayle's profile page
+at
+LeagueOfLegends.com

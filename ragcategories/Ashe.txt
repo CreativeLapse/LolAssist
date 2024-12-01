@@ -1,0 +1,2511 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Ashe
+the Frost Archer
+Release date
+2009-02-21
+Last changed
+V14.12
+Class(es)
+Marksman
+Legacy
+Marksman
+Support
+Position(s)
+Bottom
+Support
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Store price
+450
+|
+260
+Crafting
++
+270
+Ratings
+Damage
+2
+Toughness
+1
+Control
+3
+Mobility
+1
+Utility
+2
+Style
+Difficulty
+Ashe
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Ashe
+Base statistics
+Edit
+Health
+610
++101
+Mana
+280
++35
+Health regen. (per 5s)
+3.5
++0.55
+Mana regen. (per 5s)
+7
++0.65
+Armor
+26
++4.6
+Attack damage
+59
++2.95
+Magic resist.
+30
++1.3
+Crit. damage
+100%
+Move. speed
+325
+Attack range
+600
+Attack speed
+Base AS
+0.658
+Attack windup
+21.93%
+AS ratio
+N/A
+Bonus AS
++3.33
+%
+Missile speed
+2500
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+600
+Special statistics
+Damage Dealt
++5%
+Damage Received
++0%
+Total Attack Speed
++3%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
+-5%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Frost Shot
+Innate - Frost Shot:
+Ashe's
+basic attacks apply a
+slow
+on-hit and cause her subsequent attacks to deal increased damage.
+Innate - Critical Slow:
+Ashe's
+critical strikes
+deal no bonus damage but apply an empowered
+slow
+.
+Innate - Frost Shot:
+Ashe's
+basic attacks
+and
+ability
+hits apply
+Frost
+to enemies for 2 seconds, which
+slows
+them by
+20% − 30% (based on level)
+for the duration. Basic attacks against enemies with
+Frost
+are modified to deal 115%
+(+ (75% +
+40%
+) of critical strike chance)
+damage.
+Innate - Critical Slow:
+Ashe's
+critical strikes
+do not deal any additional damage, instead they double
+Frost's
+slow strength to
+40% − 60% (based on level)
+, decaying over the first second of the duration to its normal strength.
+Info
+Targeting input
+Passive
+Damage type
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Parries
+Blocked
+Ashe's
+critical strikes are still considered
+critical strike damage
+that will be reduced by
+Randuin's Omen
+.
+Runaan's Hurricane's
+will not deal additional damage on
+critical strikes
+.
+Cheap Shot
+will trigger on a subsequent basic attack even when the target is no longer slowed.
+(note)
+Map-Specific Differences
+Arena
+differences
+edit
+Slow duration changed to 1.
+5
+seconds.
+Video
+Edit
+Ranger's Focus
+COST:
+30 Mana + 4 Focus
+CAST TIME:
+none
+Passive:
+Ashe's
+basic attacks generate stacks of
+Focus
+, up to a cap. Once the stacks reach the cap, she can cast
+Ranger's Focus
+.
+Active:
+Ashe
+gains
+bonus
+attack speed
+and augments her basic attacks to fire a flurry of arrows.
+Passive:
+While
+Ranger's Focus
+is inactive,
+Ashe's
+basic attacks
+on-attack
+generate a
+stack
+of
+Focus
+for 4 seconds, which refreshes on subsequent attacks and stacks up to 4 times. Stacks expire by one every 1 second.
+Active:
+For 6 seconds,
+Ashe
+gains
+bonus
+attack speed
+and empowers her basic attacks to fire a flurry of five arrows.
+Bonus Attack Speed:
+25 / 32.
+5
+/ 40 / 47.
+5
+/ 55%
+Each arrow deals
+modified
+physical damage
+that benefits from
+Frost Shot
+and
+life steal
+. Flurries apply
+on-hit
+effects only once.
+Physical Damage Per Arrow:
+21 / 22 / 23 / 24 / 25% AD
+Total Damage Per Flurry:
+105 / 110 / 115 / 120 / 125% AD
+Ranger's Focus
+resets
+Ashe's
+basic attack timer.
+Info
+Targeting input
+Auto
+Damage type
+Type
+See Notes
+Sub-type
+Physical
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Projectile
+Blocked
+The first attack from Ranger's Focus has 6 arrows, thus dealing 20% more total damage than expected.
+Ranger's Focus
+first bolt deals
+basic damage
+with the subsequent 4 bolts dealing a non-reactive damage type (e.g.
+default damage
+or
+proc damage
+).  The entire effect is classified as a basic attack on a
+script
+-level, but is considered an ability for other effects (i.e
+Sap Magic
+), which is likely due to a mistaken script-level tag.
+Although
+Ranger's Focus
+has no actual cooldown, 4 stacks of focus are needed before
+Ranger's Focus
+can be reactivated. The time before being able to reactivate
+Ranger's Focus
+is
+6.
+08
+− 1.
+6
+(based on attack speed)
+seconds.
+Each arrow from a flurry applies
+Frost
+and the bonus damage from
+Frost Shot
+is calculated individually per arrow.
+Similarly, since a flurry is 5 instances of physical damage,
+Black Cleaver
+allows her to cleave the enemy target 5 times per flurry.
+Sources of flat damage reduction against any (physical) damage such as
+Amumu's
+Tantrum
+,
+Leona's
+Eclipse
+or
+Fizz's
+Nimble Fighter
+will apply the reduction to each arrow's damage, resulting in extremely reduced damaged compared to a normal attack.
+Each additional arrow from
+Runaan's Hurricane
+will also split into 5 arrows.
+The arrows are evenly distributed among secondary enemies but one enemy cannot be hit by more than 5 arrows.
+The flurry will trigger on-hit effects once to each enemy hit, but no more than 3 targets per attack.
+The flurry applies against
+structures
+. Stacks of
+Focus
+will not be granted when attacking structures.
+Video
+Edit
+Volley
+COST:
+75 / 70 / 65 / 60 / 55 Mana
+COOLDOWN:
+18 / 14.
+5
+/ 11 / 7.
+5
+/ 4
+CAST TIME:
+0.
+25
+EFFECT RADIUS:
+1200
+WIDTH:
+20
+ANGLE:
+27.
+75
+°/ 37° / 46.
+25
+°
+/
+4.
+625
+°
+SPEED:
+2000
+Active:
+Ashe
+fires arrows in a cone dealing
+physical damage
+and applying
+Critical Slow
+to the first enemies hit.
+Active:
+Ashe
+shoots a volley of arrows in a cone in the target direction, each dealing
+physical damage
+to the first enemy hit, and applying
+Critical Slow
+to enemy
+champions
+hit.
+Arrows:
+7 / 8 / 9 / 10 / 11
+Physical Damage:
+20 / 35 / 50 / 65 / 80
+(+ 100% AD)
+Enemies can intercept multiple arrows but do not take damage from any beyond the first.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+The missiles are spawned in a straight horizontal line 75 units in front of
+Ashe
+, with a total width of 75/100/100/123/123 units.
+Between each missile spawn location is a distance of 12.
+5
+units, except for the two outermost ones at the last two ranks (which are 11.
+5
+units from the closest other one), and the two centermost missiles at ranks 2 and 4 (which have 20 units between them and 15 units to the next missile, respectively).
+This inconsistent behaviour of spawn locations means the angle between each missile can vary off of 4.
+625
+° slighty.
+This ability will cast from wherever the caster is at the end of the cast time.
+Map-Specific Differences
+Howling Abyss
+differences
+edit
+Cooldown changed to 18 / 17.
+5
+/ 17 / 16.
+5
+/ 16 seconds.
+Arena
+differences
+edit
+Base damage changed to 25 / 45 / 65 / 85 / 105.
+AD ratio changed to
+120% AD
+.
+Cooldown changed to 20 / 16.
+5
+/ 13 / 9.
+5
+/ 6 seconds.
+Video
+Edit
+Hawkshot
+COST:
+1 Charge
+COOLDOWN:
+5
+CAST TIME:
+0.
+25
+RECHARGE:
+90 / 80 / 70 / 60 / 50
+TARGET RANGE:
+Global
+EFFECT RADIUS:
+1000
+SPEED:
+1400
+Active:
+Ashe
+sends out her Hawk Spirit. The spirit
+exposes
+the area along its path and a large area at its destination.
+Ashe
+periodically
+stocks
+a charge of
+Hawkshot
+, up to a cap.
+Active:
+Ashe
+sends a hawk spirit toward the target location, granting
+sight
+of the area along its path
+「 repeatedly for 0.
+5
+seconds after every 100 units traveled 」
+「 for effectively up-to 1.
+8
+seconds at any location 」
+and at its destination for 5 seconds.
+Ashe
+periodically
+stocks
+a
+Hawkshot
+charge, up to a maximum of 2.
+Info
+Targeting input
+Location
+Counters
+Spell shield
+Not Blocked
+Projectile
+See Notes
+Hawkshot's
+recharge timer seems to start at the beginning of the game, even prior to ranking the ability, but upon actually ranking the ability, it starts with one charge and the recharge timer starts from 0.
+Hawkshot
+will ping enemy champions it spots if allies didn't already have vision of them, and put a 'revealed' visual effect on them for
+2.
+75
+seconds
+, but does not actually reveal the units in particular, and is removed if the champion leaves the area.
+Hawkshot
+will grant assist credit if a previously-unseen enemy champion is killed within 10 seconds of being revealed by the ability.
+Hawkshot
+will trigger upon colliding with
+Blade Whirl
+or
+Wind Wall
+or but not
+Unbreakable
+.
+Hawkshot
+will grant 0.33 points of
+vision score
+for each champion revealed.
+Video
+Edit
+Enchanted Crystal Arrow
+COST:
+100 Mana
+COOLDOWN:
+100 / 80 / 60
+CAST TIME:
+0.
+25
+RANGE:
+Global
+EFFECT RADIUS:
+400
+/
+350
+WIDTH:
+260
+SPEED:
+1500 - 2100
+Active:
+Ashe
+launches a crystal arrow of ice that
+stuns
+the first enemy champion hit, dealing
+magic damage
+. The arrow accelerates initially and its stun duration increases the farther the arrow has traveled. Surrounding enemies take
+magic damage
+and are
+slowed
+.
+Active:
+Ashe
+fires a massive arrow of ice in the target direction, granting
+sight
+of the
+area
+it flies through each for 1 second. The arrow shatters upon hitting an enemy
+champion
+, dealing them
+magic damage
+,
+stunning
+them for
+1 − 3.
+5
+(based on distance traveled)
+seconds, and granting
+sight
+of the area around them for 1 second.
+Magic Damage:
+200 / 400 / 600
+(+ 120% AP)
+Enemies surrounding the primary target are dealt 50% damage and afflicted with
+Frost Shot
+.
+Reduced Damage:
+100 / 200 / 300
+(+ 60% AP)
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Enchanted Crystal Arrow's
+projectile has an
+icon on the mini-map while it is in flight. It can be seen by only
+Ashe
+and her allies.
+This ability will cast from wherever the caster is at the start of the cast time.
+The effect will be centered on the first champion struck, not at the location the missile collided with them.
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio changed to
+200% AP
+.
+Stun duration changed to
+1.
+5
+− 4.
+5
+(based on distance traveled)
+.
+Video
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Ashe (Collection)
+.
+Original
+View in 3D
+260
+21.02.2009
+Iceborn warmother of the Avarosan tribe, Ashe commands the most populous horde in the north. Stoic, intelligent, and idealistic, yet uncomfortable with her role as leader, she taps into the ancestral magics of her lineage to wield a bow of True Ice. With her people’s belief that she is the mythological hero Avarosa reincarnated, Ashe hopes to unify the Freljord once more by retaking their ancient, tribal lands.
+Melissa Hutchison
+Katie 'TeaTime' De Sousa
+Loot eligible
+Freljord
+View in 3D
+520
+20.11.2009
+Under a united Freljord, Ashe leads her kinsfolk under one banner to protect against all invaders and the impending threat from the Watchers. With her fellow clan leaders by her side, there's no force in all of Runeterra that can threaten the North.
+Melissa Hutchison
+Unknown artist
+Freljord
+Loot eligible
+Legacy
+New SFX/VFX
+Sherwood Forest
+View in 3D
+520
+08.04.2010
+Condemned as a rogue and a thief, Ashe is nonetheless a leader of the free peoples of Albion, protecting the weak and the powerless from oppression in any form. Hundreds of bounty hunters have scoured the woods to find her, but they always come back with empty hands… and emptier pockets.
+Melissa Hutchison
+Unknown artist
+Albion
+Loot eligible
+New SFX/VFX
+Woad
+View in 3D
+520
+18.07.2010
+A legendary wilderness archer, Ashe is the first and last member of the Woad Tribe many a wayward traveler will ever meet. Nothing is known of her past, save for frozen corpses littering the northern trails.
+Melissa Hutchison
+Concept Art House
+Woad
+Loot eligible
+New SFX/VFX
+Queen
+View in 3D
+975
+21.09.2010
+A radiant queen once venerated as a figure reborn from legend, Ashe rules her people as the visionary leader of two great Freljordian houses. Yet two equally driven rivals oppose her queendom, as a rising darkness threatens to consume them all.
+Melissa Hutchison
+Unknown artist
+Medieval
+Loot eligible
+Legacy
+Amethyst
+View in 3D
+975
+15.11.2011
+Melissa Hutchison
+Unknown artist
+Legacy
+Loot eligible
+New SFX/VFX
+Heartseeker
+View in 3D
+975
+14.02.2014
+Leader of the Heartseekers and self-described queen of hearts, Ashe is a just ruler with no tolerance for agony or grief as the season of romance approaches. Instead she'd rather fill the world with love... generally using projectile weapons.
+Melissa Hutchison
+Michelle Hoefener
+Heartbreakers
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Marauder
+View in 3D
+750
+17.02.2015
+Magelord culture was, at the height of the empire's power, strictly segregated into brutal warrior-castes, whose rise and fall was dictated by their victories in battle. Little regard is paid to this outdated militarism now—Marauder captains like Ashe maintain power simply by instilling fear, and slaying their rivals.
+Melissa Hutchison
+Pan Chengwei
+Marauder
+Loot eligible
+PROJECT
+View in 3D
+1820
+01.08.2016
+While on the frontlines of a corporate war, Ashe witnessed the human cost of PROJECT's ambition. Now the leader of the resistance group G/NETIC, Ashe has set her sights on nothing less than the downfall of the most powerful corporations.
+Melissa Hutchison
+Kelly Aleshire
+PROJECT
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+PROJECT: Ashe Chromas
+Mythic
+Worlds 2017
+View in 3D
+1350
+12.09.2017
+Celebrating Worlds 2017 in China.
+Melissa Hutchison
+Jem Flores
+World Championship
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Worlds 2017 Ashe Chromas
+Golden
+Cosmic Queen
+View in 3D
+1350
+21.08.2018
+Benevolent ruler of the stars, Ashe fires her arrows across the endless darkness of space, creating new constellations wherever they fall. Her court drifts between galaxies, replenishing all the lights that have faded.
+Melissa Hutchison
+Alex 'alexplank' Flores
+Cosmic
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Cosmic Queen Ashe Chromas
+Emerald
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+High Noon
+View in 3D
+1820
+10.10.2019
+A mechanical angel built at the dawn of the pioneer age, Ashe is fueled by the blood of deities gunned down in the infamous land rush that destroyed Heaven. She has adopted a devil-may-care attitude as she seeks adventure, choosing to forgive and protect the same mankind that forever robbed itself of eternal paradise.
+Melissa Hutchison
+Clare Wong, West Studio
+High Noon
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+High Noon Ashe Chromas
+Amethyst
+Aquamarine
+Nomad
+Obsidian
+Ruby
+Fae Dragon
+View in 3D
+1350
+01.10.2020
+Ashe led her tribe into a mysterious forest to protect them from Brand's destruction. There, she happened upon the Fae Dragon, who sensed her immense power and devotion to her people and blessed her with its arcane magic. Now, Ashe weaves spells to keep them safe while biding her time for her revenge.
+Melissa Hutchison
+Jeremy 'Jermu' Anninos
+Dragonmancers
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Fae Dragon Ashe Chromas
+Emberclaw
+Jadeclaw
+Obsidian
+Pearl
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Coven
+View in 3D
+1350
+12.08.2021
+They came to Ashe in a bone-deep chill—the frost of the Jet-Black Ibex, entombing the world in ice. She descended the mountain and brought a harrowing winter with her… but that is not the only thing that followed Ashe into the night. The mountain itself rumbles.
+Melissa Hutchison
+West Studio
+Coven
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Coven Ashe Chromas
+Aquamarine
+Catseye
+Dark Ritual
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Ocean Song
+View in 3D
+1350
+09.06.2022
+As the CEO of the hot clothing company Frel, Ashe is dead tired after spending a year heads-down in work with little sun at her Northern headquarters. The Ocean Song Festival sounds like the perfect place for her to warm up, disappear into a crowd, and lose herself to some fabulous music.
+Melissa Hutchison
+Terence 'Terrylefruit' Cantal
+Ocean Song
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Ocean Song Ashe Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Lunar Empress
+View in 3D
+1350
+26.01.2023
+Her people slaughtered, Ashe—daughter of the Emperor of the Great Sea—sought solace on an abandoned island far from home. There, she made alliances with a strange serpent and a sinister would-be king, in the hope that their untapped might could help seize her empire back. It was a hard-fought victory, but the true battle is far from over: diplomacy.
+Melissa Hutchison
+Julia Yurtsev
+Lunar Revel
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Lunar Empress Ashe Chromas
+Emerald
+Obsidian
+Pearl
+Resplendent
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+DRX
+View in 3D
+1350
+01.06.2023
+Honoring BeryL's winning performance as Ashe during the 2022 World Championship.
+Melissa Hutchison
+Horace 'Hozure' Hsu
+World Champions: 2022
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+DRX Ashe Chromas
+Elite
+Crystalis Motus
+View in 3D
+Special
+06.12.2023
+Ashe's retreat from her northern homeland was not due to any invasion, but the Prismae Crystals. In such a harsh environment, their power was difficult to resist, leading many to lose their minds and bodies to its magic. Forced to find shelter in the south, Ashe now gathers an army to take back her home from the monsters that overrun it.
+Melissa Hutchison
+Francis Tneh, West Studio
+Crystalis Motus
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Crystalis Motus Ashe Chromas
+Reclaimed
+Infernal
+View in 3D
+1350
+30.05.2024
+Using her accursed bow, Ashe sets her sights on all who have not already willingly joined the Ashen Lord's army. Once pierced by her blazing arrows, her mark immediately becomes consumed by the Infernal flame and damned to serve within his legions forevermore.
+Melissa Hutchison
+Yuyu Wong, Kudos Productions
+Infernal
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Infernal Ashe Chromas
+Amethyst
+Aquamarine
+Catseye
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.17
+Stats
+Base health reduced to 610 from 640.
+V14.12
+Frost Shot
+Bonus damage reduced to 115% from 120%.
+V14.10
+Enchanted Crystal Arrow
+Updated missile visual effect to more accurately match the hitbox for all skins.
+Trail VFX has been added to the ground below the arrow.
+Direction arrow has been moved slightly further.
+Fae Dragon Ashe
+,
+Heartseeker Ashe
+,
+PROJECT: Ashe
+Enchanted Crystal Arrow
+Added more volume to the arrow trails and glow to better match the hitbox.
+V14.5
+Ranger's Focus
+Bug Fix:
+No longer prevents
+Kraken Slayer
+from gaining an additional stack on-hit when
+Guinsoo's Rageblade's
+Phantom Hit
+is triggered.
+V13.20
+Worlds 2017 Ashe
+Skin renamed to
+Worlds 2017 Ashe
+from
+Championship Ashe
+.
+V13.12
+Frost Shot
+Bonus damage increased to 120% from 115%.
+Volley
+Base damage increased to 20 / 35 / 50 / 65 / 80 from 10 / 25 / 40 / 55 / 70.
+Enchanted Crystal Arrow
+AP ratio increased to
+120% AP
+from
+100% AP
+.
+V13.7
+Hawkshot
+Bug Fix:
+No longer leaves critical strike VFX on enemies that are revealed.
+V13.6
+Frost Shot
+Bonus damage increased to 115% from 110%.
+V13.5
+Ranger's Focus
+Mana cost reduced to 30 from 50.
+Duration increased to 6 seconds from 4.
+Volley
+Base damage reduced to 10 / 25 / 40 / 55 / 70 from 20 / 35 / 50 / 65 / 80.
+Enchanted Crystal Arrow
+Cooldown increased to 100 / 80 / 60 seconds from 80 / 70 / 60.
+V13.1b
+Stats
+Mana growth increased to 35 from 32.
+Mana regeneration growth increased to 0.
+65
+from 0.
+4
+.
+V12.22
+Stats
+Attack damage growth reduced to 2.
+95
+from 2.
+96
+.
+Base mana regeneration increased to 7 from 6.
+97
+.
+V12.18
+Ranger's Focus
+Bonus attack speed increased to 25 / 32.
+5
+/ 40 / 47.
+5
+/ 55% from 20 / 25 / 30 / 35 / 40%.
+V12.10
+Stats
+Base health increased to 640 from 570.
+Health growth increased to 101 from 87.
+Armor growth increased to 4.
+6
+from 3.
+4
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V12.9
+Volley
+Bug Fix:
+Sound effects no longer stop playing if it was leveled up to rank 2 on-cast.
+V12.5
+- March 9th Hotfix
+Volley
+Mana cost changed to 75 / 70 / 65 / 60 / 55 from 70 at all ranks.
+Enchanted Crystal Arrow
+Cooldown reduced to 80 / 70 / 60 seconds from 100 / 80 / 60.
+V12.4
+Enchanted Crystal Arrow
+Missile speed changed to
+1500 / 1700 / 1900 / 2100 (based on travel time)
+from 1600.
+V11.18
+Volley
+Cooldown increased to 18 / 14.
+5
+/ 11 / 7.
+5
+/ 4 seconds from 14 / 11.
+5
+/ 9 / 6.
+5
+/ 4.
+V11.7
+Enchanted Crystal Arrow
+Cooldown reduced to 100 / 80 / 60 seconds from 100 / 90 / 80.
+V10.25
+Volley
+Bug Fix:
+Fixed a bug where it could be cast while it's on cooldown if it was leveled up and cast at the same time.
+V10.23
+- November 12th Hotfix
+Frost Shot
+New Effect:
+Basic attacks against enemies affected by
+Frost Shot
+no longer deal bonus damage based on her crit chance if she owns
+Guinsoo's Rageblade
+or
+Rageknife
+.
+V10.22
+Volley
+Number of arrows changed to 7 / 8 / 9 / 10 / 11 from 9 at all ranks.
+V10.18
+Stats
+Base attack damage reduced to 59 from 61.
+Ranger's Focus
+Bug Fix:
+Runaan's Hurricane's
+Wind's Fury's damage now properly takes under consideration the future levels of
+Ranger's Focus
+.
+Amethyst Ashe
+Ranger's Focus
+Bug Fix:
+Runaan's Hurricane's
+bolts now properly use the skin's VFX.
+V10.16
+Ranger's Focus
+Bonus attack speed reduced to 20 / 25 / 30 / 35 / 40% from 20 / 30 / 40 / 50 / 60%.
+V10.11
+Stats
+Base health increased to 570 from 539.
+Health growth increased to 87 from 85.
+V10.8
+Ranger's Focus
+Bonus attack speed increased to 20 / 30 / 40 / 50 / 60% from 20 / 25 / 30 / 35 / 40%.
+V10.6
+General
+Recommended items updated.
+V9.22
+Volley
+Mana cost increased to 70 from 50.
+V9.21
+Hawkshot
+Bug Fix:
+Enemies spotted by
+Hawkshot
+no longer have the vision Eyes above their heads until the end of the game.
+V9.20
+General
+New voice over.
+V9.19
+Frost Shot
+Slow increased to
+20% − 30% (based on level)
+from
+15% − 30% (based on level)
+.
+Enhanced slow increased to
+40% − 60% (based on level)
+from
+30% − 60% (based on level)
+.
+Ranger's Focus
+New Effect:
+Now resets
+Ashe's
+basic attack timer, instead of reducing her next basic attack's delay to 40% if currently any higher.
+V9.12
+Volley
+Cooldown reduced to 14 / 11.
+5
+/ 9 / 6.
+5
+/ 4 seconds from 15 / 12.
+5
+/ 10 / 7.
+5
+/ 5.
+V9.9
+General
+New visual effects.
+Basic attack made more frosty with an updated arrow model.
+Frost Shot
+More frosty and cool.
+Ranger's Focus
+More frosty and cool.
+Volley
+Cleaned up unnecessary noise and created a sharper projectile.
+Hawkshot
+Updated hawk model.
+Enchanted Crystal Arrow
+Brand new arrow model that indicates a clearer hitbox.
+V9.6
+PROJECT: Ashe
+Enchanted Crystal Arrow
+Bug Fix:
+Fixed a bug where it was missing its VFX.
+V9.1
+Ranger's Focus
+New Effect:
+Ability icon border now flashes when the ability is castable at maximum stacks.
+Hawkshot
+New Effect:
+Now gains assist credit if a previously-unseen enemy is killed within 10 seconds of being revealed by
+Hawkshot
+.
+V8.21
+Frost Shot
+Base slow increased to
+15% − 30% (based on level)
+from
+10% − 20% (based on level)
+.
+Critical strike slow changed to double the slow amount instead of triple.
+Ranger's Focus
+Bug Fix:
+Fixed a bug that made
+Runaan's Hurricane
+bolts fired by
+Ranger's Focus
+invisible.
+Bug Fix:
+Fixed a bug that made
+Runaan's Hurricane
+bolts fired by
+Ranger's Focus
+search for targets the moment the individual bolt was fired rather than the moment the attack was declared.
+Hawkshot
+New Effect:
+Now pings enemies it spots if your team didn't already have vision of them.
+Bug Fix:
+Vision trail duration very slightly increased to address a bug where the trail sometimes wouldn't show up on the minimap (vision duration at the destination unchanged).
+V8.11
+Stats
+Base health increased to 539 from 527.
+72
+.
+Health growth increased to 85 from 79.
+Base armor reduced to 26 from 30.
+Base health regeneration reduced to 3.
+5
+from 5.
+5
+.
+Base attack damage reduced to 61 from 65.
+Attack damage growth increased to 2.
+96
+from 2.
+26
+.
+V8.3
+Stats
+Base health regeneration increased to 5.
+5
+from 5.
+424
+.
+V8.2
+Hawkshot
+Bug Fix:
+No longer procs spell shields when flying through champions out of her self-vision.
+V8.1
+Sherwood Forest Ashe
+and
+Woad Ashe
+Ranger's Focus
+Bug Fix:
+Now have appropriately themed bolts when using
+Runaan's Hurricane
+.
+V7.23
+PROJECT: Ashe
+Bug Fix:
+Digital screen VFX no longer disappear when moving the camera away and back during her recall animation.
+Heartseeker Ashe
+Bug Fix:
+The chair in her recall no longer rotates at the end of the animation.
+V7.22
+Stats
+Base attack damage increased to 65 from 56.
+508
+.
+Base armor increased to 30 from 21.
+212
+.
+V7.14
+Frost Shot
+Bug Fix:
+Fixed a bug causing the bonus damage to apply to inhibitors.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.5
+PROJECT: Ashe
+Bug Fix:
+Fixed a bug where the particles for killing enemy units with basic attacks and critical strikes weren't displaying correctly.
+V7.2
+General
+Adjusted splash artwork for
+Marauder Ashe
+.
+V6.21
+Ranger's Focus
+Bug Fix:
+Fixed a bug where rapidly pressing Q the instant Focus reaches four stacks could cause
+Ranger's Focus's
+mana cost to apply multiple times.
+V6.20
+Frost Shot
+Base slow changed to
+10% − 20% (based on level)
+from
+5% − 25% (based on level)
+.
+Critical strikes slow increased to
+30% − 60% (based on level)
+from
+10% − 50% (based on level)
+.
+New Effect:
+Critical strikes slow now decays to the base slow value over the first half of the slow duration.
+Ranger's Focus
+New Effect:
+Instead of fully resetting
+Ashe's
+basic attack, casting
+Ranger's Focus
+reduces her basic attack delay to 40% of the full value (no reduction if the delay is already below 40%). If
+Ashe's
+delay between basic attacks is 1 second, casting Ranger's Focus brings that delay down to 0.
+4
+seconds for the next attack.
+Active's damage per arrow reduced to
+21 / 22 / 23 / 24 / 25% AD
+from
+23 / 24 / 25 / 26 / 27% AD
+.
+Total damage per flurry reduced to
+105 / 110 / 115 / 120 / 125% AD
+from
+115 / 120 / 125 / 130 / 135% AD
+.
+V6.18
+Volley
+Cooldown increased to 15 / 12.
+5
+/ 10 / 7.
+5
+/ 5 seconds from 12 / 10 / 8 / 6 / 4.
+Enchanted Crystal Arrow
+Bug Fix:
+PROJECT: Ashe's
+Enchanted Crystal Arrow
+no longer explodes slightly earlier than
+Ashe's
+other skins upon hitting an enemy champion.
+V6.17
+Ranger's Focus
+Duration reduced to 4 seconds from 5.
+Enchanted Crystal Arrow
+Base damage reduced to 200 / 400 / 600 from 250 / 425 / 600.
+V6.4
+Ranger's Focus
+Flurry duration increased to 5 seconds from 4.
+New Effect:
+Stacks now decay one every 4 seconds, instead of all at once.
+V5.24
+Ranger's Focus
+Maximum stacks reduced to 4 from 5.
+V5.23
+Ranger's Focus
+Bug Fix:
+Critical strikes
+were only being calculated once per flurry instead of once per arrow.
+Bug Fix:
+Runaan's Hurricane
+was only triggering once per flurry
+New Effect:
+While consuming
+Focus
+stacks,
+Runaan's Hurricane
+will fire frost-colored bolts.
+V5.22
+Stats
+Base attack damage increased to 56.
+508
+from 51.
+89
+Attack damage growth reduced to 2.
+26
+from 2.
+85
+Base mana increased to 280 from 231.
+8
+Mana growth reduced to 32 from 35.
+Frost Shot
+Slow reduced to
+5 − 25% (based on level)
+from
+5 − 35% (based on level)
+.
+Removed:
+On-crit effects
+against
+Frosted
+targets.
+New Effect - Critical Slow:
+Ashe
+now has a 1% chance per 1% of her critical strike chance to double Frost Shot's
+slow
+to
+10 − 50% (based on level)
+and trigger
+On-crit effects
+. The slow decays to the standard amount over the duration.
+Volley
+will always trigger the enhanced slow versus champions.
+Ranger's Focus
+removed:
+Cooldown
+removed:
+Casting at less than 5
+Focus
+stacks.
+removed:
+Volley
+and
+Enchanted Crystal Arrow
+granting
+Focus
+stacks. Basic attacks only.
+removed:
+20% increase of
+Frost Shot's
+Slow
+.
+Activation consumes all
+Focus
+stacks and
+Ashe
+will not generate stacks while the effect is active.
+V5.12
+Focus
+No longer generates multiple stacks per enemy hit by
+Volley
+/
+Enchanted Crystal Arrow
+- now only up to one per cast.
+V5.11
+General
+Recommended items updated.
+Ranger's Focus
+The 5-stack flurry attack no longer triggers on attacks against turrets.
+Volley
+Base damage reduced to 20 / 35 / 50 / 65 / 80 from 40 / 50 / 60 / 70 / 80.
+Hawkshot
+Vision radius while traveling reduced to 1000 from 1500.
+Hawks update their vision more frequently as they travel.
+V5.9
+Gameplay Update
+Stats
+Basic attack projectile speed increased to 2500 from 2000.
+Attack speed growth reduced to 3.
+333
+% from 4%.
+Frost Shots
+- Repurposed Ability
+New Innate:
+Ashe's
+basic attacks and abilities apply
+Frost
+to enemies damaged, slowing them by
+5 − 35 (based on level)
+% for 2 seconds. Ashe's basic attacks against
+frosted
+units always critically strike, dealing
+「
+10 + (X * (1 + Y))% AD
+bonus critical damage, where X is her critical strike chance and Y is her bonus critical strike damage (both in decimal format) 」
+「
+10% AD
+bonus critical damage, plus an additional
+1% AD
+for every 1% of her
+critical strike chance
+that is modified by 1% for every 1% of her
+bonus
+critical strike damage
+」
+. Ashe cannot otherwise critically strike.
+Notes:
+Frosted
+targets are distinct from
+Slowed
+targets - only Ashe's
+Frost Shot
+can trigger the bonus damage.
+Other slows don't trigger it.
+Ashe's
+empowered attacks (
+even the base
+10% AD
+with no crit chance
+) are classified as critical strikes for gameplay purposes and will trigger effects such as
+Frenzy
+and
+Reinforced Armor
+.
+[2]
+As such, it is also not applied by
+Runaan's Hurricane
+.
+Here are examples on the behaviour of
+Frost Shot's
+bonus damage.
+[3]
+None of the following considers the
+100% AD
+base damage from basic attacks.
+Infinity Edge
+will deal
+40% AD
+bonus damage (
+10 + (
+20
+×  (1 +
+0.
+5
+)
+).
+Adding a
+Phantom Dancer
+increases the aforementioned to
+92.
+5
+% AD
+bonus damage (
+10 + (
+55
+×  (1 +
+0.
+5
+)).
+With 100% critical strike chance and
+Infinity Edge's
+bonus critical damage, you will deal
+160% AD
+bonus damage (
+10 + (
+100
+×  (1 +
+0.
+5
+)
+).
+Probable Bug:
+Critical strike damage from runes is stacking multiplicatively with Infinity Edge, rather than additively, for a maximum of 228.
+265
+% bonus damage (10 + 100 × 1.
+5
+× 1.
+4551
+).
+Ranger's Focus
+- New Ability
+Passive:
+Ashe
+gains a stack of
+Focus
+for 4 seconds whenever she slows an enemy, stacking up to 5 times.
+Ashe will not generate stacks while Ranger's Focus is on cooldown.
+Active:
+Ashe
+consumes all
+Focus
+stacks to gain 20 / 25 / 30 / 35 / 40% bonus attack speed and increases
+Frost Shot's
+slow strength
+「 by 20% 」
+「 to
+25 − 55 (based on level)
+% 」
+for 4 seconds. If
+Ashe
+consumes 5 stacks of
+Focus
+on activation,
+Ranger's Focus
+will also cause each of Ashe's attacks to fire a flurry of five arrows, dealing
+「
+23 / 24 / 25 / 26 / 27%
+modified attack damage with each arrow 」
+「 a total of
+115 / 120 / 125 / 130 / 135% attack damage
+on each empowered attack 」
+. The flurry will stack multiplicatively with
+Frost Shots
+, will benefit from
+life steal
+and triggers
+on-attack effects
+five times, but on-hit effects are only applied once.
+Cost: 50 mana
+Cooldown: 18 seconds
+Notes:
+The multi-attack effect is similar to
+Lightslinger
+and
+Double Strike
+, except that on-hit effects aren't applied by the extra attacks.
+Triggering
+On Attack Effects
+multiple times is intentional.
+[4]
+- namely,
+Runaan's Hurricane
+and
+Pix
+.
+Note that Pix's cannot attack more than twice per second.
+On-hit effects are disabled on the latter four attacks and will not be triggered even by Runaan's minor bolts.
+As such, the item's 10 on-hit damage is only applied by the first attack.
+Runaan's splash damage is affected by the damage modifier - dealing
+「 10
+(+57.
+5
+/ 60 / 62.
+5
+/ 65 / 67.
+5
+AD)
+damage per flurry 」
+「
+11.
+5
+/ 12 / 12.
+5
+/ 13 / 13.
+5
+% AD
+damage per arrow (+ 10 on the first) 」
+to secondary targets.
+As with
+Headshot
+, attacks against structures will refresh the timer on Focus but will not generate new stacks.
+The multi-attack effect will work on structures - i.e.
+you will plink towers faster than
+Jinx
+.
+Volley
+Arrows increased to 9 from 7.
+Radius is unaffected.
+Mana cost reduced to 50 mana from 60.
+Cooldown reduced to 12 / 10 / 8 / 6 / 4 seconds from 16 / 13 / 10 / 7 / 4.
+New Effect:
+Targets can now intercept multiple arrows, but will take no damage from arrows beyond the first.
+Arrows beyond the first will still generate Focus.
+Hawkshot
+Passive gold generation removed.
+Range increased to Global from 2500 / 3250 / 4000 / 4750 / 5500.
+New Effect:
+Now works with a stock system, able to hold up to two charges.
+Static cooldown implemented at 5 seconds.
+Recharge time increased to 90 / 80 / 70 / 60 / 50 versus the current 60 / 55 / 50 / 45 / 40 cooldown.
+Enchanted Crystal Arrow
+No longer innately slows, but will apply
+Frost Shots'
+slow.
+Slow percentage effectively reduced to
+5 − 35 (based on level)
+(+20% during Ranger's Focus)% from 50%.
+Slow duration effectively reduced to 2 from 3.
+Trivia
+[
+edit
+|
+edit source
+]
+Ashe's dance references
+J'en Ai Marre!
+by
+Alizée
+.
+A side by side comparison can be seen
+here.
+Ashe shares similarities with
+Ashelia B'nargin Dalmasca
+from
+Final Fantasy XII
+. Their names are similar and both became queens, use ranged weapons (Ashelia uses hand bombs in
+Final Fantasy XII: Revenant Wings
+) and were once hunted down to prevent them from leading their respective peoples.
+Ashe is the first (and so far the only) champion to possess two global-ranged abilities:
+Hawkshot
+and
+Enchanted Crystal Arrow
+.
+Timewinder
+and
+Chronobreak's
+ranges can be global, albeit situationally.
+Ashe was named for
+Marc 'Tryndamere' Merrill
+'s wife Ashley.
+As of December 9, 2017 Ashe has featured on the
+free champion rotation
+more than any other champion (76 times).
+In
+Summoner's Rift
+,
+Thornmail
+was once recommended as a situational item for
+Ashe
+, this was most likely a reference to the old
+Basic Tutorial
+where
+Ashe
+is pre-selected as the player's champion and
+Thornmail
+is the only purchasable item.
+In the now-removed official League of Legends
+forums
+, the
+old icon of
+Focus
+was used to represent the "New Player Forum" section.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Marksman
+Marksmen
+(formerly "Carries") excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger. Although Marksmen have the ability to stay relatively safe by kiting their foes, they are very fragile and are extremely reliant on powerful item purchases to become true damage threats.
+At present, Marksmen do not have any official subclasses. The following have been considered:
+Demolisher
+Scrapper
+Examples
+Ashe
+Ezreal
+Lucian
+Kai'Sa
+Jhin
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Bottom
+Within a
+drafted team
+, the
+Bottom Carry
+is one of the two champions assigned to the bottom lane alongside the
+Support
+. Being the most vulnerable, the
+Bottom Carry
+has to acquire as much gold as possible to purchase key items that will greatly increase their fighting potential.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Bottom Carry
+is expected to fulfill the former designation: the position is made for champions that highly depend on item-based power spikes.
+Marksmen
+are the most likely champions to be selected in the
+Bottom Carry
+position.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Frost Shot
+Innate - Frost Shot:
+Ashe's
+basic attacks apply a
+slow
+on-hit and cause her subsequent attacks to deal increased damage.
+Innate - Critical Slow:
+Ashe's
+critical strikes
+deal no bonus damage but apply an empowered
+slow
+.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Default damage
+Default damage
+is dealt by effects that are not otherwise classified, or are deliberately left unclassified. This most common source of
+default damage
+is splash damage from basic attacks.
+Default damage
+does not interact with most other effects, such as
+Conqueror
+stacking,
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of the damage's non-reactive nature (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Script
+The game has two damage systems in place: an
+engine-level
+system and
+script-level
+system. Scripts are used by most "modern" game features, such as
+Runes Reforged
+.
+The following are engine-level damage classifications:
+Raw damage
+,
+Default damage
+,
+Proc damage
+,
+Reactive damage
+,
+Basic damage
+,
+Spell damage
+,
+Area damage
+,
+Persistent damage
+and
+Pet damage
+.
+The following are script-level damage classifications:
+AOE
+,
+Periodic
+,
+Indirect
+,
+BasicAttack
+,
+ActiveSpell
+,
+Proc
+,
+Pet
+and
+NonRedirectable
+.
+In most cases, the two systems correlate. A combination of the two systems is responsible for effects such as
+persistent area damage
+, with systems like
+life steal
+, on-hit effects and
+spell vamp
+being connected to the engine-level damage types and
+Arcane Comet
+being connected to script-level tags.
+Instances where script-level tags create deviations from engine-level rules are noted in the ability-details.
+League of Legends content
+Sap Magic
+STATIC CD:
+30 − 20 (based on level)
+Innate:
+Periodically,
+Maokai's
+next basic attack will
+heal
+him for a portion of
+his
+maximum
+health
+.
+Each time
+Maokai
+casts an ability or is hit by an enemy ability,
+Sap Magic
+cooldown is
+reduced
+by a few seconds.
+League of Legends content
+Frost Shot
+Innate - Frost Shot:
+Ashe's
+basic attacks apply a
+slow
+on-hit and cause her subsequent attacks to deal increased damage.
+Innate - Critical Slow:
+Ashe's
+critical strikes
+deal no bonus damage but apply an empowered
+slow
+.
+League of Legends content
+Tantrum
+COOLDOWN:
+9 / 8 / 7 / 6 / 5
+Passive:
+Amumu
+gains damage reduction against
+physical damage
+.
+Tantrum's
+cooldown is reduced whenever he is hit by a
+basic attack
+.
+Active:
+Amumu
+releases his anger, dealing
+magic damage
+to nearby enemies.
+League of Legends content
+Eclipse
+COOLDOWN:
+14 / 13 / 12 / 11 / 10
+Active:
+Leona
+raises her
+guard
+for a short time, gaining flat damage reduction,
+bonus
+armor
+and
+bonus
+magic resistance
+.
+Her shield detonates afterward, dealing
+magic damage
+to all nearby enemies. If this hits an enemy,
+Leona's
+guard
+is extended for a short time.
+League of Legends content
+Nimble Fighter
+Innate:
+Fizz
+ignores
+unit collision
+, and takes reduced damage.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Howling Abyss
+The Howling Abyss is a bottomless crevasse located in the coldest, cruelest, part of the
+Freljord
+. Legends say that, long ago, a great battle took place here on the narrow bridge spanning this chasm. No one remembers who fought here, or why, but it is said that if you listen carefully to the wind you can still hear the cries of the vanquished tossed howling into the Abyss.
+Regular Modes
+Classic 5v5
+(
+All random
+)
+Custom
+Featured Game Modes
+Legend of the Poro King
+One For All
+One For All: Mirror Mode
+Snowdown Showdown
+League of Legends content
+Exposed
+Exposed
+units are
+visible
+regardless of being in a
+Brush
+.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Blade Whirl
+COOLDOWN:
+30 / 28 / 26 / 24 / 22
+Active:
+Samira
+briefly spins her blade twice, dealing
+physical damage
+to nearby enemies each time. During this time, she destroys all incoming enemy
+projectiles
+.
+League of Legends content
+Wind Wall
+COOLDOWN:
+25 / 23 / 21 / 19 / 17
+Active:
+Yasuo
+raises a wind wall that drifts in the target direction for a few seconds, blocking all enemy
+projectiles
+that hit it.
+League of Legends content
+Unbreakable
+COOLDOWN:
+16 / 14 / 12 / 10 / 8
+Active:
+Braum
+sets his shield in a direction for a few seconds, intercepting any enemy
+projectiles
+to hit him and be destroyed.
+He gains damage reduction and negates the first instance of damage dealt by a champion completely from this direction.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+References
+[
+edit
+|
+edit source
+]
+↑
+Ashe's profile page
+at
+LeagueOfLegends.com
+↑
+Frost Shot's damage clasification
+↑
+The base 10% isn't affected by the crit modifies.
+↑
+Ranger's Focus' interaction with Runaan's Hurricane

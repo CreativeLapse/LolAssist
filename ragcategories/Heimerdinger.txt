@@ -1,0 +1,2422 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Heimerdinger
+the Revered Inventor
+Release date
+2009-10-10
+Last changed
+V14.11
+Class(es)
+Specialist
+Legacy
+Mage
+Support
+Position(s)
+Support
+Top
+Middle
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+1
+Utility
+2
+Style
+Difficulty
+Heimerdinger
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Heimerdinger
+Base statistics
+Edit
+Health
+558
++101
+Mana
+385
++20
+Health regen. (per 5s)
+7
++0.55
+Mana regen. (per 5s)
+8
++0.8
+Armor
+19
++4.2
+Attack damage
+56
++2.7
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+340
+Attack range
+550
+Attack speed
+Base AS
+0.658
+Attack windup
+20%
+AS ratio
+0.625
+Bonus AS
++1.36
+%
+Missile speed
+1500
+Unit radius
+Gameplay radius
+55
+Selection radius
+100
+Pathing radius
+31
+Acq. radius
+550
+Special statistics
+Damage Dealt
+-10%
+Damage Received
++10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-3%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Hextech Affinity
+EFFECT RADIUS:
+300
+Innate:
+Heimerdinger
+gains
+bonus
+movement speed
+while near allied
+towers
+and
+turrets
+he deploys.
+Innate:
+Heimerdinger
+gains
+20%
+bonus
+movement speed
+while near an allied
+turret
+or a
+H-28G Evolution Turret
+or
+H-28Q Apex Turret
+deployed by him.
+Info
+Targeting input
+Passive
+No additional details.
+Edit
+H-28G Evolution Turret
+COST:
+20 Mana + 1 Turret Kit
+COOLDOWN:
+1
+CAST TIME:
+0.
+25
+RECHARGE:
+20
+TARGET RANGE:
+350
+Active:
+Heimerdinger
+deploys a rapid-fire turret that deals
+magic damage
+to his target, or a nearby enemy. The turret will become dormant while he leaves it alone.
+Heimerdinger
+periodically
+stocks
+a
+Turret Kit
+, up to a maximum of 3. The turret has a secondary beam attack that charges up over time, which deals
+magic damage
+to enemies hit.
+Active:
+Heimerdinger
+deploys a
+H-28G Evolution Turret
+at the target location, which lasts until destroyed.
+Heimerdinger
+periodically
+stocks
+a
+Turret Kit
+charge, up to a maximum of 3.
+Up to 3
+H-28G Evolution Turrets
+can be deployed at a time, with those deployed beyond the maximum destroying the oldest one.
+See
+Pets
+for more details about H-28G Evolution Turrets.
+Edit
+H-28Q Apex Turret
+COOLDOWN:
+1
+CAST TIME:
+0.
+25
+TARGET RANGE:
+450
+UPGRADE:
+Heimerdinger
+instead deploys a slow-fire turret that attacks a nearby enemy champion, dealing
+magic damage
+and
+slowing
+nearby enemies. The turret has a secondary beam attack that charges up over time and while it fires, which deals
+magic damage
+to enemies hit.
+UPGRADE!!!
+- Active:
+Heimerdinger
+deploys a
+H-28Q Apex Turret
+at the target location, which lasts for 8 seconds.
+H-28Q Apex Turret
+scales with
+UPGRADE!!!'s
+rank.
+See
+Pets
+for more details about the H-28Q Apex Turret.
+Targeting input
+Location
+Damage type
+Type
+See Notes
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Projectile
+Blocked
+Notes
+Deals
+spell damage
+on basic attacks and
+area damage
+on the beam.
+The
+H-28G Evolution Turret's
+stats update every second to reflect rank ups, level ups, and changes in
+Heimerdinger's
+ability power.
+The
+Turret Kit
+buff will visually represent the recharge rate cooldown, and how many
+H-28G Evolution Turret's
+that
+Heimerdinger
+has stored. This is visible to both allies and enemies.
+The recharge rate of
+H-28G Evolution Turret
+is affected by
+ability haste
+.
+The
+H-28G Evolution Turret
+has a
+sight
+radius of
+585
+while active and
+227.
+5
+while dormant.
+The amount of
+Turret Kit
+charges
+Heimerdinger
+has is indicated by small nuts orbiting him.
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Projectile
+Blocked
+Notes
+The
+H-28Q Apex Turret
+has a
+sight
+radius of
+900
+.
+The
+H-28Q Apex Turret's
+stats update every second to reflect rank ups, level ups, and changes in
+Heimerdinger's
+ability power.
+Arena
+differences
+edit
+Turret health changed to 70% value.
+Turret base damage changed to 4 / 6 / 8 / 10 / 12.
+Turret AP ratio changed to
+25% AP
+.
+Turret beam base damage changed to 30 / 45 / 60 / 75 / 90.
+Turret beam AP ratio changed to
+45% AP
+.
+Edit
+Hextech Micro-Rockets
+COST:
+50 / 60 / 70 / 80 / 90 Mana
+COOLDOWN:
+11 / 10 / 9 / 8 / 7
+CAST TIME:
+0.
+25
+TARGET RANGE:
+1325
+Active:
+Heimerdinger
+fires a wave of rockets that converge to the target location and fan beyond it to max range, each dealing
+magic damage
+to the first enemy hit. Whenever a rocket hits an enemy
+champion
+, nearby
+turrets
+gain some beam charge.
+Active:
+Heimerdinger
+unleashes a wave of 5 rockets that converge to the target location and fan beyond it up to a maximum range, with each one dealing
+magic damage
+to the first enemy it hits. Every rocket hitting an enemy
+champion
+grants 20% beam charge to all
+turrets
+within 1000 range, up to a maximum of 100% beam charge when hitting 5 rockets on an enemy champion.
+Initial Magic Damage:
+40 / 65 / 90 / 115 / 140
+(+ 55% AP)
+Enemies can be hit by multiple rockets, with each one beyond the first dealing 20% damage, increased to 40% against
+minions
+.
+Additional Magic Damage:
+8 / 13 / 18 / 23 / 28
+(+ 11% AP)
+Total Magic Damage:
+72 / 117 / 162 / 207 / 252
+(+ 99% AP)
+Additional Minion Damage:
+24 / 39 / 54 / 69 / 84
+(+ 33% AP)
+Total Minion Damage:
+136 / 221 / 306 / 391 / 476
+(+ 187% AP)
+Edit
+Hextech Rocket Swarm
+COOLDOWN:
+11 / 10 / 9 / 8 / 7
+CAST TIME:
+0.
+25
+TARGET RANGE:
+1325
+UPGRADE:
+Heimerdinger
+now fires waves of rockets, each rocket dealing
+magic damage
+to the first enemy hit.
+UPGRADE!!!
+- Active:
+Heimerdinger
+launches 4 waves of 5 rockets in quick succession to the target location, each one dealing
+magic damage
+. Enemy
+champions
+and
+monsters
+are dealt reduced damage from rockets beyond the first, and further reduced beyond the fifth.
+Minions
+take 100% damage from every rocket.
+Initial Rocket Damage:
+135 / 180 / 225
+(+ 45% AP)
+2-5 Rocket Magic Damage:
+32 / 45 / 58
+(+ 12% AP)
+6-20 Rocket Damage:
+16 / 22.
+5
+/ 29
+(+ 6% AP)
+Total Damage:
+503 / 697.
+5
+/ 892
+(+ 183% AP)
+Minion Rocket Damage:
+135 / 180 / 225
+(+ 45% AP)
+Total Minion Damage:
+2700 / 3600 / 4500
+(+ 900% AP)
+Hextech Rocket Swarm
+scales with
+UPGRADE!!!'s
+rank.
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Notes
+Hextech Micro-Rockets'
+direction-targeting allows for custom spread.
+This ability will cast from wherever the caster is at the end of the cast time.
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Notes
+Hextech Rocket Swarm's
+direction-targeting allows for custom spread.
+Heimerdinger
+can move once
+Hextech Rocket Swarm
+has been cast, even if the projectiles are still spawning or haven't even started to move yet.
+Hextech Micro-Rockets
+will cast from wherever
+Heimerdinger
+is at the end of the cast time.
+Arena
+differences
+edit
+Initial damage AP ratio changed to
+65% AP
+.
+Cooldown changed to 10 / 9 / 8 / 7 / 6 seconds.
+Edit
+CH-2 Electron Storm Grenade
+COST:
+85 Mana
+COOLDOWN:
+11
+CAST TIME:
+0.
+25
+TARGET RANGE:
+970
+EFFECT RADIUS:
+250
+INNER RADIUS:
+135
+SPEED:
+1200
+Active:
+Heimerdinger
+lobs a grenade to the target location that deals
+magic damage
+and
+slows
+nearby enemies. Enemies hit at the epicenter are also
+stunned
+. If the grenade hits an enemy
+champion
+, nearby
+turrets
+gain full beam charge.
+Active:
+Heimerdinger
+hurls a grenade at the target location that detonates upon impact, dealing
+magic damage
+to nearby enemies and
+slowing
+them by 35% for 2 seconds. If the grenade hits an enemy
+champion
+, all
+turrets
+within 1000 range of the impact gain 100% beam charge.
+Magic Damage:
+60 / 100 / 140 / 180 / 220
+(+ 60% AP)
+Enemies hit at the center of the grenade's impact are also
+stunned
+for 1.
+5
+seconds.
+Edit
+CH-3X Lightning Grenade
+COOLDOWN:
+11
+CAST TIME:
+0.
+25
+TARGET RANGE:
+970
+EFFECT RADIUS:
+250
+INNER RADIUS:
+135
+SPEED:
+1200
+UPGRADE:
+Heimerdinger's
+grenade now bounces 3 times, each dealing
+magic damage
+in a larger area. Enemy
+champions
+will not be damaged by subsequent bounces.
+UPGRADE!!!
+- Active:
+Heimerdinger
+hurls a massive grenade at the target location that bounces
+a fixed distance
+3 times, exploding each time at
+twice the radius
+.
+Magic Damage:
+100 / 200 / 300
+(+ 60% AP)
+Enemy champions can only be damaged once per cast, but can be
+slowed
+and
+stunned
+multiple times if circumstances permit.
+CH-3X Lightning Grenade
+scales with
+UPGRADE!!!'s
+rank.
+CH-3X Lightning Grenade will cast at max range if cast beyond that.
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Notes
+This ability will cast from wherever the caster is at the end of the cast time.
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Notes
+No additional details.
+Edit
+UPGRADE!!!
+COST:
+100 Mana
+COOLDOWN
+:
+100 / 85 / 70
+CAST TIME:
+none
+Active:
+Heimerdinger
+can empower his next ability to apply an additional effect. These empowered abilities have the same
+cooldowns
+as their basic forms, deal modified damage, and do not cost mana.
+UPGRADE!!!
+can be recast after a short time, and does so automatically upon casting another ability.
+Recast:
+UPGRADE!!!
+ends and is put on a short
+cooldown
+.
+Active:
+Heimerdinger
+empowers his next
+basic ability
+for an additional effect, consuming the empowerment upon cast and placing
+UPGRADE!!!
+on full cooldown. These empowered abilities have the same cooldowns as their basic forms, deal modified damage, and do not have a
+mana
+cost.
+UPGRADE!!!
+can be recast after 3 seconds while the empowerment is available.
+Recast:
+Heimerdinger
+ends
+UPGRADE!!!
+and puts it on a 3-second
+cooldown
+.
+UPGRADE!!! can be used while affected by
+cast-inhibiting crowd control
+.
+Info
+Targeting input
+Auto
+Toggle abilities do not count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Consuming the buff for an empowered basic
+ability
+does.
+No compensations for
+mana
+are made if
+UPGRADE!!!
+is recast.
+Map-Specific Differences
+Arena
+differences
+edit
+H-28Q Apex Turret
+base damage changed to 50 / 65 / 80.
+H-28Q Apex Turret
+beam base damage changed to 90 / 125 / 160.
+Pets
+[
+edit
+|
+edit source
+]
+H-28G Evolution Turret
+Bounty
+Gold
+5
+Exp
+0
+Statistics
+Health
+130 − 640 (based on level)
+(+
+5% − 45% (based on level)
+AP)
+Magic damage
+7 / 11 / 15 / 19 / 23
+(+ 35% AP)
+Attack speed
+1.
+75
+Range
+525
+Armor
+10 − 80 (based on level)
+Magic resist
+25 − 65 (based on level)
+Incoming damage modifier
+40% increased damage from
+melee
+champion basic attacks and turrets
+CC resist
+Slow
+Move speed
+0
+Control type
+Heimerdinger's
+basic attacks and abilities apply a refreshing, high-priority mark for 3 seconds that the
+H-28G Evolution Turret
+will attack. Enemy champions who attack
+Heimerdinger
+will be targeted secondarily, and the
+H-28G Evolution Turret
+will otherwise attack the closest target to itself.
+H-28G Evolution Turrets
+are static.
+Target type
+Minion
+, does not count towards the minion kill tracking score
+On-hit effects
+Attacks can be mitigated by
+block
+,
+dodge
+, and
+blind
+, as well as stopped by
+Disarm
+.
+Spell effects
+Basic attacks deal
+spell damage
+and the beams deal
+area damage
+.
+Abilities
+Beam Attack
+The
+H-28G Evolution Turret
+spawns with 0% charge, displayed below its health bar and generates 1.
+11
+‾% charge per second. At 100% charge, if there are targets within 900 units range,
+H-28G Evolution Turret
+fires a beam in their direction after a short wind-up, prioritizing enemy champions, and dealing
+40 / 60 / 80 / 100 / 120
+(+ 55% AP)
+magic damage
+to all enemies it passes through.
+Deactivation
+The
+H-28G Evolution Turret
+initiates an 8-second timer while
+Heimerdinger
+is
+out of range
+. If the timer completes, it deactivates, loses all current charge, and has its
+sight
+range reduced from
+585
+to
+227.
+5
+units.
+H-28G Evolution Turret
+instantly reactivates once
+Heimerdinger
+moves back into range.
+Drain Immunity
+Damage dealt to the
+H-28G Evolution Turret
+does not benefit from
+life steal
+nor
+spell vamp
+.
+Dynamic Stats
+The
+H-28G Evolution Turret
+updates its stats every second to reflect changes in gameplay.
+H-28Q Apex Turret
+Bounty
+Gold
+25
+Exp
+0
+Statistics
+Health
+725 − 1525 (based on level)
+(+ 50% AP)
+Magic damage
+80 / 100 / 120
+(+ 35% AP)
+Attack speed
+1.
+05
+Range
+600
+Armor
+30 − 90 (based on level)
+Magic resist
+30 − 90 (based on level)
+Incoming damage modifier
+40% increased damage from
+melee
+champion basic attacks and turrets
+CC resist
+Immune to crowd control
+(except
+stasis
+)
+Move speed
+0
+Control type
+H-28Q Apex Turrets
+prioritize attacking enemy champions whenever possible. They are static.
+Target type
+Minion
+On-hit effects
+Attacks cannot be mitigated by
+block
+or
+dodge
+.
+Spell effects
+Basic attacks and beam apply spell effects as
+area damage
+.
+Abilities
+Apex Shots
+H-28Q Apex Turret's
+basic attacks deal damage to nearby enemies around its target and
+slows
+affected targets by 25% for 1 second.
+Apex Beam
+H-28Q Apex Turret
+spawns with 0% charge, displayed below its health bar, generates 12.
+5
+% charge per second, and an additional 20% per basic attack. At 100% charge, if there are targets
+in range
+,
+H-28Q Apex Turret
+fires a beam in their direction after a short wind-up, prioritizing enemy champions, and dealing
+100 / 140 / 180
+(+ 70% AP)
+magic damage
+to all enemies it passes through.
+Drain Immunity
+Damage dealt to the
+H-28Q Apex Turret
+does not benefit from
+life steal
+nor
+spell vamp
+.
+Dynamic Stats
+The
+H-28Q Apex Turret
+updates its stats every second to reflect changes in gameplay.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Heimerdinger (Collection)
+.
+Original
+View in 3D
+790
+09.10.2009
+A brilliant yet eccentric yordle scientist, Professor Cecil B. Heimerdinger is one of the most innovative and esteemed inventors Piltover has ever known. Relentless in his work to the point of neurotic obsession, he thrives on answering the universe’s most impenetrable questions. Though his theories often appear opaque and esoteric, Heimerdinger has crafted some of Piltover’s most miraculous—not to mention lethal—machinery, and constantly tinkers with his inventions to make them even more efficient.
+Dennis Collins Johnson
+Alex 'alexplank' Flores
+Loot eligible
+Alien Invader
+View in 3D
+1820
+13.07.2010
+No one believed Heimerdinger when he tried to warn them about the invaders from outer space. They believed when he took off the wig.
+Dennis Collins Johnson
+Unknown artist
+Invaders
+Loot eligible
+Legacy
+New SFX/VFX
+Transforming
+Blast Zone
+View in 3D
+520
+24.06.2010
+An eccentric scientist living in the New Bandle Republic, Heimerdinger has not yet told anyone he may have developed “a large pre-war bomb or two” for “one or more rogue governments”. He would prefer tinkering in a city that is not actively trying to kill him.
+Dennis Collins Johnson
+Yan Shu
+Road Warrior
+Loot eligible
+New SFX/VFX
+Transforming
+Piltover Customs
+View in 3D
+975
+22.11.2010
+Heimerdinger moonlights as part owner of the city's most infamous customs dealer, where he generally adds an external engine and flame paint to vehicles of the rich and famous. Get him on a good day, though, and he'll build you a real monster—for a price.
+Dennis Collins Johnson
+Unknown artist
+Piltover Customs
+Loot eligible
+New SFX/VFX
+Transforming
+Snowmerdinger
+View in 3D
+975
+14.12.2011
+Brought to life by the power of a magic hat, Snowmerdinger now pursues theoretical Snowdown sciences including snowball trajectory, cocoa cooling speeds, and automated turret construction. He engineered his own strain of carrot noses.
+Dennis Collins Johnson
+Unknown artist
+Snowdown Showdown
+Loot eligible
+Legacy
+New SFX/VFX
+Transforming
+Hazmat
+View in 3D
+975
+13.07.2014
+Sometimes, when he's alone at night, Heimerdinger wonders if the reason his head is so big is all that exposure to Zaun Grey. Then he gets tired, and rests his giant head against an equally giant pillow.
+Dennis Collins Johnson
+Suke 'hugehugesword' Su
+Day Job
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Transforming
+Dragon Trainer
+View in 3D
+1820
+11.10.2018
+Dragon training, to the few who understand it, seems to be the sole domain of yordles. Heimerdinger has long believed that dragons and humankind can peacefully coexist, citing centuries of his own successful research. His current dragon hatchling, Pythagoras, holds no opinion on the subject.
+Jason Palmer
+Jem Flores
+Dragon World
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Transforming
+Pool Party
+View in 3D
+1350
+02.07.2020
+Through the combination of precise schematics and top-of-the-line construction tools, Heimerdinger's next sand castle creation will be his grandest iteration yet! Assuming Syndra doesn't land on it again…
+Dennis Collins Johnson
+West Studio
+Pool Party
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Transforming
+Chromas
+Pool Party Heimerdinger Chromas
+Amethyst
+Aquamarine
+Citrine
+Emerald
+Obsidian
+Rainbow
+Rose Quartz
+Ruby
+Heimerstinger
+View in 3D
+1350
+03.03.2022
+Now isn't he just the buzziest little worker bee?
+Dennis Collins Johnson
+Huyy Nguyen, West Studio
+Bees!
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Transforming
+Chromas
+Heimerstinger Chromas
+Emerald
+Obsidian
+Pearl
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Arcane Professor
+View in 3D
+1350
+..
+After his dismissal from the Piltover Council, Heimerdinger has been busy working on what matters most: the Anomaly and its effects on Zaun. Working together with Jayce and Ekko—his two protégés—Heimerdinger may finally be starting to see the full potential of magic.
+Dennis Collins Johnson
+Fortune 'Fortuneee' K
+Arcane
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Arcane Professor Heimerdinger Chromas
+Paragon
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.11
+H-28G Evolution Turret
+Bug Fix:
+Ability is no longer sometimes locked out even when charges were available, because of the recharge cooldown being desynced from the ability's charge count as they are used.
+Undocumented:
+Heimerdinger no longer has a buff that tracks his charges and the recharge timer.
+This buff was also previously desynced from his actual charge count.
+Bug Fix:
+The floating charge count on his VFX around his model is now synced with the actual amount of available charges on the ability.
+V14.2
+H-28G Evolution Turret
+New Effect:
+Now updates its stats every 1 second in order to reflect level ups, rank ups, and the caster's changes in ability power.
+Bug Fix:
+Warden's Mail
+and
+Randuin's Omen
+no longer improperly slow their attack speed.
+H-28Q Apex Turret
+New Effect:
+Now updates its stats every 1 second in order to reflect level ups, rank ups, and the caster's changes in ability power.
+V13.22
+Stats
+Base attack speed increased to 0.
+658
+from 0.
+625
+.
+Attack windup reduced to 20% from 20.
+078125
+%.
+V13.15
+UPGRADE!!!
+H-28Q Apex Turret
+Base health changed to
+725 − 1525 (based on level)
+from
+850 − 1450 (based on level)
+.
+Health AP ratio changed to
+50% AP
+at all levels from
+25% − 200% (based on level)
+AP
+.
+Armor increased to
+30 − 90 (based on level)
+from
+10 − 80 (based on level)
+.
+Magic resistance increased to
+30 − 90 (based on level)
+from
+25 − 65 (based on level)
+.
+V13.7
+H-28G Evolution Turret
+Undocumented:
+Now begins the game with one charge available instead of three.
+Known Bug:
+Spawning or respawning will cause the buff to not correctly track his charges, showing three charges available instead of one. This is further de-synced as turrets are placed and destroyed (and only syncs up when he has no turrets deployed and three charges actually available).
+Reminder that the count on his VFX around his model is synced up with the count on the buff bar, not on his Q.
+UPGRADE!!!
+Undocumented/Bug Fix:
+No longer automatically refreshes the cooldowns of
+Hextech Micro-Rockets
+or
+CH-2 Electron Storm Grenade
+when cast (including when the ability is canceled).
+V13.1b
+H-28G Evolution Turret
+Turret base health reduced to
+130 − 640 (based on level)
+from
+175 − 700 (based on level)
+.
+Turret health AP ratio increased to
+5% − 45% (based on level)
+AP
+from
+5% − 40% (based on level)
+AP
+.
+Hextech Micro-Rockets
+Initial rocket base damage reduced to 40 / 65 / 90 / 115 / 140 from 50 / 75 / 100 / 125 / 150.
+Initial rocket AP ratio increased to
+55% AP
+from
+45% AP
+.
+V12.21
+- November 2nd Hotfix
+H-28Q Apex Turret
+Bug Fix:
+Casting the ability no longer improperly resets the cooldowns of
+Hextech Micro-Rockets
+and
+CH-2 Electron Storm Grenade
+if they were already on cooldown.
+V12.12
+H-28G Evolution Turret
+Turret base damage increased to 7 / 11 / 15 / 19 / 23 from 6 / 9 / 12 / 15 / 18.
+Turret base health increased to
+175 − 700 (based on level)
+from
+150 − 575 (based on level)
+.
+CH-2 Electron Storm Grenade
+Cooldown reduced to 11 seconds from 12.
+V12.10
+Stats
+Base health increased to 558 from 488.
+Health growth increased to 101 from 87.
+Armor growth increased to 4.
+2
+from 3.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V12.1
+H-28G Evolution Turret
+Bug Fix:
+Deactivation sound effects have been restored for several of his skins.
+CH-2 Electron Storm Grenade
+Bug Fix:
+Explosion sound effects no longer play multiple times upon hitting an enemy.
+V11.9
+Hextech Micro-Rockets
+Initial rocket base damage reduced to 50 / 75 / 100 / 125 / 150 from 50 / 80 / 110 / 140 / 170.
+Additional rocket base damage reduced to 10 / 15 / 20 / 25 / 30 from 10 / 16 / 22 / 28 / 34.
+Maximum base damage reduced to 90 / 135 / 180 / 225 / 270 from 90 / 144 / 198 / 252 / 306.
+V11.1
+Stats
+Base attack damage increased to 56 from 55.
+536
+.
+Base armor reduced to 19 from 19.
+04
+.
+V10.15
+H-28G Evolution Turret
+Bug Fix:
+Turret now properly triggers
+Manaflow Band
+.
+V10.14
+H-28G Evolution Turret
+Bug Fix:
+Approaching and triggering his turrets no longer triggers
+Immolate
+.
+V9.24b
+Hextech Micro-Rockets
+Initial rocket base damage reduced to 50 / 80 / 110 / 140 / 170 from 60 / 90 / 120 / 150 / 180.
+CH-3X Lightning Grenade
+Base damage reduced to 100 / 200 / 300 from 150 / 250 / 350.
+AP ratio reduced to
+60% AP
+from
+75% AP
+.
+V9.21
+UPGRADE!!!
+Bug Fix:
+Tooltip no longer mentions that his
+CH-3X Lightning Grenade's
+slow is improved to 80%.
+V9.19
+H-28G Evolution Turret
+Turret basic attack AP ratio increased to
+35% AP
+from
+30% AP
+.
+H-28Q Apex Turret
+Turret basic attack AP ratio increased to
+35% AP
+from
+30% AP
+.
+CH-2 Electron Storm Grenade
+Stun duration increased to 1.
+5
+seconds from 1.
+25
+.
+V9.6
+Turrets
+New Effect:
+Now triggers effects that are triggered by pets (i.e. on-ability-hit effects).
+Turret lasers, ult turrets shots, and ult turret lasers are classified as AoE effects, too.
+V9.1
+H-28G Evolution Turret
+New Effect:
+Can now ping the number of turrets available or time until next turret if none are available.
+V8.24
+- December 5th Hotfix
+H-28G Evolution Turret
+Bug Fix:
+Dying while third turret charge is stockpiling no longer allows him to get a fourth charge.
+Hextech Rocket Swarm
+Bug Fix:
+Once again shares a cooldown with
+Hextech Micro-Rockets
+.
+CH-2 Electron Storm Grenade
+Bug Fix:
+Stun duration has been fixed.
+CH-3X Lightning Grenade
+Bug Fix:
+Stun duration has been fixed.
+Bug Fix:
+Can no longer cast it immediately after
+CH-2 Electron Storm Grenade
+if timed exactly.
+V8.24
+H-28G Evolution Turret
+Turret beam attack cooldown now actually scales with cooldown reduction.
+Turret stats have been moved into the expanded tooltip (hold SHIFT). Expanded tooltip now indicates that turret health scales off
+Heimerdinger's
+ability power.
+Hextech Micro-Rockets
+Now states the actual damage rockets deal to minions instead of "60%" (which was lower than actual damage dealt due to additional AP scaling).
+Hextech Rocket Swarm
+Maximum base damage increased to 503 / 697.
+5
+/ 892 from 499 / 687 / 862.
+Missiles 2 to 5 base damage increased to 32 / 45 / 58 from 28 / 39 / 49.
+Missiles 6 to 20 base damage reduced to 16 / 22.
+5
+/ 29 from 16.
+8
+/ 23.
+4
+/ 29.
+4
+.
+V8.22
+Dragon Trainer Heimerdinger
+Bug Fix:
+No longer has redundant death SFX.
+Bug Fix:
+Is no longer missing dance SFX.
+V8.9
+Stats
+Base mana increased to 385 from 307.
+2
+.
+Mana growth reduced to 20 from 40.
+Base mana regeneration increased to 8 from 6.
+V8.1
+H-28Q Apex Turret
+Beam base damage reduced to 100 / 140 / 180 from 200 / 270 / 340.
+V7.22
+Stats
+Base health increased to 488 from 476.
+Health growth increased to 87 from 75.
+V7.16
+H-28Q Apex Turret
+Bug Fix:
+Beam attack no longer breaks for the rest of its duration if its target walks out of range during the beam attack's wind-up.
+V7.15
+Hextech Rocket Swarm
+Bug Fix:
+Now correctly do reduced damage after the first hit to
+Baron Nashor
+.
+CH-2 Electron Storm Grenade
+Bug Fix:
+Sweeping a ward no longer plays the sound effects to it when he is in the game.
+CH-3X Lightning Grenade
+Bug Fix:
+No longer has the old AP ratio of 60% for the second and third bounces.
+V7.12
+General
+Bug Fix:
+Must now actually fire a basic attack to command turrets to focus a target. Issuing an attack command and immediately cancelling it no longer triggers the redirect.
+CH-2 Electron Storm Grenade
+Bug Fix:
+Now properly charges nearby turret beam attacks even if it kills an enemy.
+V7.11
+H-28G Evolution Turret
+Removed:
+Turrets killed increasing the minion killed stat.
+H-28Q Apex Turret
+still increases the creep score.
+V7.10
+Stats
+Base health regeneration reduced to 7 from 11.
+008
+.
+Health regeneration growth reduced to 0.
+55
+from 1.
+75
+.
+Hextech Affinity
+Renamed to
+Hextech Affinity
+from
+Techmaturgical Repair Bots
+.
+New Effect:
+Grants 20%
+bonus
+movement speed while near allied turrets (his
+own
+and the map's) (300 range).
+Removed:
+Heimerdinger
+grants nearby allied champions and his
+turrets
+10 / 15 / 20 / 25 / 30 (based on level)
+health regeneration, persisting for 5 seconds after they move out of range or his death (1000 range).
+H-28G Evolution Turret
+Amount of turrets held increased to 3 at all ranks from 1 / 2 / 2 / 3 / 3.
+Cooldown reduced to 20 seconds at all ranks from 24 / 23 / 22 / 21 / 20.
+Base damage reduced to 6 / 9 / 12 / 15 / 18 from 12 / 18 / 24 / 30 / 36.
+AP ratio increased to
+30% AP
+from
+15% AP
+.
+Beam attack base damage reduced to 40 / 60 / 80 / 100 / 120 from 60 / 80 / 100 / 120 / 140.
+Removed:
+Turrets no longer prioritize nearby enemy champions or champions that attack them.
+Removed:
+Turrets no longer briefly remain active after
+Heimerdinger
+leaves the area.
+Beam attack generation rate per second reduced to 1.
+11
+% from 6.
+25
+%.
+Beam attack charge time increased to 90 seconds from 16.
+Removed:
+Turrets no longer gain 1 / 2 / 3 / 4 / 5% beam charge for each of their basic attacks.
+Removed:
+Turrets no longer spawn with 70% beam charge.
+New Effect:
+The charge bar is now white instead of dark blue.
+Hextech Micro-Rockets
+Mana cost reduced to 50 / 60 / 70 / 80 / 90 from 70 / 80 / 90 / 100 / 120.
+Cooldown reduced to 11 / 10 / 9 / 8 / 7 seconds from 11 at all ranks.
+New Effect:
+Each rocket that hits a champion grants 20% beam charge to all turrets within 1000 range of the damage, up to a maximum of 100% if all five rockets hit.
+CH-2 Electron Storm Grenade
+Cooldown changed to 12 seconds at all ranks from 18 / 16 / 14 / 12 / 10.
+Grenade hitbox increased to 250 from 210.
+Stun hitbox is still 135.
+New Effect:
+If the grenade hits a champion, all turrets within 1000 range of the damage gain 100% beam charge.
+New Effect:
+Heimerdinger
+can now lob the grenade onto himself.
+CH-3X Lightning Grenade
+Base damage increased to 150 / 250 / 350 from 150 / 200 / 250.
+AP ratio increased to
+75% AP
+from
+60% AP
+.
+Trivia
+[
+edit
+|
+edit source
+]
+Heimerdinger is a
+portmanteau
+of
+J. Robert Oppenheimer
+and
+Erwin Schrödinger's
+last names.
+His given name
+Cecil
+comes from
+Caecilius
+, a Roman surname, from
+caecus
+"one-eyed > blind".
+[2]
+His dance references the
+Headspin
+, a
+breakdance move
+.
+A side-by-side comparison can be seen
+here.
+Heimerdinger's alternate/old walk is referred to as
+'derpy'.
+Using any
+Emotes
+, or activating Heimerdinger's passive will make Heimerdinger alternate between his regular walk and his 'derpy' walk.
+While
+UPGRADE!!!
+is active, Heimerdinger gains a cosmetic buff that reads
+'Harder, Better, Faster, Stronger'.
+If Heimerdinger scores a Pentakill, he will gain the cosmetic buff
+Eureka!
+This buff references
+Archimedes
+' sudden revelation, only in Heimerdinger's case his own came after the mass murder of the enemy team.
+Heimerdinger is the sixth champion to have more than four abilities, the others being
+Elise
+,
+Gnar
+,
+Jayce
+,
+Karma
+,
+Lee Sin
+, and
+Nidalee
+.
+The icon for
+Hextech Affinity
+is reused for the
+Teamfight Tactics
+item
+Magnetic Remover
+.
+In the now-removed official League of Legends
+forums
+, the
+original icon of
+UPGRADE!!!
+was used to represent the "Help & Support" section.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Specialist
+Specialists
+are champions that do not fit into the "neat little boxes" of the other classes, and represent Riot's ideal of having a champion roster with a lot of distinctiveness and diversity.
+Examples
+Azir
+Teemo
+Heimerdinger
+Singed
+Gangplank
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+H-28G Evolution Turret
+RECHARGE:
+20
+Active:
+Heimerdinger
+deploys a rapid-fire turret that deals
+magic damage
+to his target, or a nearby enemy. The turret will become dormant while he leaves it alone.
+Heimerdinger
+periodically
+stocks
+a
+Turret Kit
+, up to a maximum of 3.
+The turret has a secondary beam attack that charges up over time, which deals
+magic damage
+to enemies hit.
+H-28Q Apex Turret
+COOLDOWN:
+1
+UPGRADE:
+Heimerdinger
+instead deploys a slow-fire turret that attacks a nearby enemy champion, dealing
+magic damage
+and
+slowing
+nearby enemies.
+The turret has a secondary beam attack that charges up over time and while it fires, which deals
+magic damage
+to enemies hit.
+League of Legends content
+H-28G Evolution Turret
+RECHARGE:
+20
+Active:
+Heimerdinger
+deploys a rapid-fire turret that deals
+magic damage
+to his target, or a nearby enemy. The turret will become dormant while he leaves it alone.
+Heimerdinger
+periodically
+stocks
+a
+Turret Kit
+, up to a maximum of 3.
+The turret has a secondary beam attack that charges up over time, which deals
+magic damage
+to enemies hit.
+H-28Q Apex Turret
+COOLDOWN:
+1
+UPGRADE:
+Heimerdinger
+instead deploys a slow-fire turret that attacks a nearby enemy champion, dealing
+magic damage
+and
+slowing
+nearby enemies.
+The turret has a secondary beam attack that charges up over time and while it fires, which deals
+magic damage
+to enemies hit.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+UPGRADE!!!
+COOLDOWN:
+100 / 85 / 70
+Active:
+Heimerdinger
+can empower his next ability to apply an additional effect. These empowered abilities have the same
+cooldowns
+as their basic forms, deal modified damage, and do not cost mana.
+UPGRADE!!!
+can be recast after a short time, and does so automatically upon casting another ability.
+Recast:
+UPGRADE!!!
+ends and is put on a short
+cooldown
+.
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Cast-inhibiting crowd control
+A unit that is affected by
+cast-inhibiting crowd control
+is unable to cast abilities, activate items, or use summoner spells. The following crowd control effects disable casting of all spells and abilities as well as interrupts all
+channels
+:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Note that
+Disrupt
+is not a status effect and solely interrupts channels, and thus cannot fall under this classification.
+Root
+and
+Ground
+only disable movement spells and abilities.
+Stasis
+and
+Suppression
+are the only crowd control effects that disable all summoner spells from use; all other cast-inhibiting crowd control only disable movement summoner spells.
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Disarm
+A unit that is
+disarmed
+is unable to declare
+basic attack
+commands for the duration.
+Interrupts:
+Interrupts
+basic attack windups
+(excluding
+uncancellable windups
+) and
+Samira's
+Inferno Trigger
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast) and
+Mikael's Blessing
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Cc-Immune
+Crowd control immunity
+prevents
+any
+type of
+crowd control
+from being
+applied
+to the unit. CC which has already been applied will still have an effect on the unit. Epic
+monsters
+(excluding a summoned
+Rift Herald
+) and
+turrets
+are always immune to all crowd control, with the exception of
+stasis
+.
+League of Legends content
+Stasis
+A unit that is in
+stasis
+is unable to control its movement, declare attacks, cast abilities, activate items or use
+any
+summoner spell
+for the duration, while also being
+invulnerable
+and
+untargetable
+.
+Stasis
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), all
+channeled and charged
+abilities and all
+dashes
+and
+displacements
+. Units that are being
+knocked up
+will be placed on the ground, but aren't
+knocked down
+(the
+airborne
+status is not removed in this case).
+Reduction:
+The
+duration
+is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Epic monsters
+and
+turrets
+are special cased to be affected by
+stasis
+despite them being
+crowd control immune
+.
+Removal:
+Cannot be removed by any means (except through
+death
+), and will prevent the activation of abilities that would usually remove
+crowd control
+effects.
+Quicksilver
+will either be placed on a short cooldown, remain usable, or become disabled.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+References
+[
+edit
+|
+edit source
+]
+↑
+Heimerdinger's profile page
+at
+LeagueOfLegends.com
+↑
+DeVaan, >
+Etymological Dictionary of Latin & other Italic languages
+, p. 79

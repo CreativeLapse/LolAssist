@@ -1,0 +1,2891 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Garen
+The Might of Demacia
+Release date
+2010-04-27
+Last changed
+V14.9
+Class(es)
+Juggernaut
+Legacy
+Fighter
+Tank
+Position(s)
+Top
+Resource
+Manaless
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+450
+|
+260
+Crafting
++
+270
+Ratings
+Damage
+2
+Toughness
+3
+Control
+1
+Mobility
+1
+Utility
+1
+Style
+Difficulty
+Garen
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Garen
+Base statistics
+Edit
+Health
+690
++98
+Resource
+N/A
+Health regen. (per 5s)
+8
++0.5
+Resource regen.
+N/A
+Armor
+38
++4.2
+Attack damage
+69
++4.5
+Magic resist.
+32
++1.55
+Crit. damage
+175%
+Move. speed
+340
+Attack range
+175
+Attack speed
+Base AS
+0.625
+Attack windup
+18% (mod. 0.5)
+AS ratio
+N/A
+Bonus AS
++3.65
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+600
+Special statistics
+Damage Dealt
++0%
+Damage Received
+-5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
++10%
+Damage Received
+-10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Perseverance
+Innate:
+Garen
+continually
+regenerates
+a portion of his
+maximum
+health
+. This ability is temporarily disabled if he is attacked by epic
+monsters
+, enemy
+turrets
+, or enemy
+champions
+.
+Innate:
+Garen
+regenerates
+「
+1.
+5
+% − 10.
+1
+% (based on level)
+of his
+maximum
+health
+every 5 seconds. 」
+「
+0.
+15
+% − 1.
+01
+% (based on level)
+of his
+maximum
+health
+every 0.
+5
+seconds. 」
+Perseverance
+is lost for
+8 seconds
+if
+Garen
+takes damage from
+champions
+, epic
+monsters
+, or
+turrets
+, or if he is hit by an enemy
+ability
+or affected by an enemy
+summoner spell
+, refreshing on subsequent damage and hits taken from them.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Perseverance
+does not go on nor refresh its cooldown from damage which was fully prevented by a
+shield
+or
+invulnerability
+.
+Edit
+Decisive Strike
+COOLDOWN
+:
+8
+CAST TIME:
+none
+Active:
+Garen
+gains
+bonus
+movement speed
+and
+cleanses
+from
+slows
+. His next
+basic attack
+will
+lunge
+and deal
+bonus
+physical damage
+,
+silencing
+the target.
+Active:
+Garen
+cleanses
+himself of all
+slows
+and gains
+35%
+bonus
+movement speed
+for a duration.
+Movement Speed Duration:
+1 / 1.
+65
+/ 2.
+3
+/ 2.
+95
+/ 3.
+6
+Additionally,
+Garen
+empowers his next
+basic attack
+within 4.
+5
+seconds to have an
+uncancellable windup
+,
+lunge
+at the target, deal
+bonus
+physical damage
+, and
+silence
+them for 1.
+5
+seconds.
+Bonus Physical Damage:
+30 / 60 / 90 / 120 / 150
+(+ 50% AD)
+Decisive Strike
+resets
+Garen's
+basic attack timer.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Counters
+Spell shield
+See Notes
+Parries
+Blocked
+Knockdown
+Not Interrupted
+The enhanced attack will apply other
+on-hit effects
+and can
+critically strike
+as normal (the bonus damage does not).
+The bonus damage will also apply
+life steal
+.
+The bonus damage is applied to
+structures
+.
+Decisive Strike
+locks
+Garen
+out of using basic attacks for a short period of time. This is shortened with
+attack speed
+.
+The enhanced attack will still complete and hit the target even if they become
+untargetable
+during the
+attack's windup
+.
+Decisive Strike
+will not prevent the reapplication of
+slows
+(e.g. the persistent slow from
+Pillar of Ice
+will be immediately reapplied after removal if
+Garen
+is still within its
+area of effect
+).
+Spell shield
+will only negate the
+silence
+.
+Decisive Strike's
+lunge
+can pass very thin terrain and will otherwise not be able to. In any case,
+Garen
+will still hit his target.
+Map-Specific Differences
+Arena
+differences
+edit
+Silence duration changed to 1 second.
+Edit
+Courage
+COOLDOWN
+:
+23 / 21 / 19 / 17 / 15
+CAST TIME:
+none
+Passive:
+Garen
+permanently gains
+bonus
+armor
+and
+magic resist
+by killing enemies, up to a cap. Upon reaching the cap, he gains another permanent boost to these defenses.
+Active:
+Garen
+reduces incoming damage for a few seconds. He also briefly gains a
+shield
+and increased
+tenacity
+.
+Passive:
+Whenever
+Garen
+kills an enemy, he generates a
+stack
+of
+Courage
+, stacking up to 150 times.
+Courage:
+For each stack,
+Garen
+gains
+0.
+2
+bonus
+armor
+and
+0.
+2
+bonus
+magic resistance
+, up to a maximum of 30
+bonus
+resistances each. After reaching maximum stacks,
+Garen
+gains
+10%
+bonus
+armor
+and
+10%
+bonus
+magic resistance
+.
+Active:
+Garen
+reduces incoming damage by 30% for 4 seconds. For the first 0.
+75
+seconds,
+Garen
+additionally grants himself a
+shield
+and 60%
+tenacity
+.
+Shield Strength:
+65 / 85 / 105 / 125 / 145
+(+ 18%
+bonus
+health)
+Info
+Targeting input
+Auto
+Courage's
+bonus resistances are only gained when it is ranked up at least once, but
+Courage's
+passive is retroactive for units killed before it was learned.
+Courage's
+bonus
+resistances can be obtained by any of
+Garen's
+damage sources (basic attacks, abilities, summoner spells, runes, item actives).
+This does not include
+last hits
+transferred to
+Garen
+artificially.
+The kills on these enemy unit types count towards
+Courage's
+bonus
+resistances:
+Champions
+(Only
+kills
+,
+Assists
+don't grant the
+bonus
+resistances)
+All
+minions
+and
+monsters
+Champion summoned units
+(e.g.
+Noxious Trap
+,
+Powder Keg
+,
+Dark Procession
+)
+All
+pets
+and
+clones
+.
+The bonus is equal for all these units;
+Large
+units do not grant a larger bonus.
+The kills on these enemy unit types do
+not
+count towards
+Courage's
+bonus
+resistances:
+Wards
+.
+Turrets
+(including
+Sun Disk
+) and other
+structures
+Jungle plants
+.
+Units destroyed by 'trampling' such as
+Zyra's
+seeds
+,
+Zac's
+goo
+or
+Rek'Sai's
+tunnels
+.
+Courage
+will only grant bonus resistances from units killed by
+Garen
+himself.
+Eye of the Herald
+does not count.
+The
+Tenacity
+increase
+stacks additively
+with the
+tenacity reduction
+from
+Brittle
+, but multiplicatively with other sources.
+Map-Specific Differences
+Howling Abyss
+differences
+edit
+Bonus resistances on-kill changed to 0.
+5
+.
+Number of enemy kills needed to reach the maximum amount changed to 60.
+Arena
+differences
+edit
+New Effect:
+Gains 18.
+75
+Courage
+stacks per round.
+Damage reduction changed to 20%.
+Damage reduction duration changed to 3 seconds.
+Edit
+Judgment
+COOLDOWN
+:
+9
+CAST TIME:
+none
+EFFECT RADIUS:
+325
+Active:
+Garen
+rapidly spins with his sword for a short time, continually dealing
+physical damage
+to nearby enemies. He spins more based on his
+bonus
+attack speed
+. The nearest enemy is dealt increased damage. Enemy
+champions
+hit by enough spins will have
+reduced armor
+.
+Recast:
+Judgment
+is ended early, with the cooldown
+reduced
+by its remaining duration.
+Active:
+Garen
+rapidly spins his sword around himself 7 (+ 1 per
+25%
+bonus
+attack speed
+) times over 3 seconds, becoming unable to declare basic attacks but gaining
+ghosting
+and dealing
+physical damage
+to nearby enemies
+periodically
+.
+Judgment
+can be recast after 1 second while active, and does so automatically after it ends.
+Physical Damage Per Spin:
+4 / 8 / 12 / 16 / 20 (+
+0 − 8.
+2
+(based on level)
+)
+(+ 36 / 37 / 38 / 39 / 40% AD)
+Enemy champions hit 6 times by
+Judgment
+are inflicted with
+25% armor reduction
+for 6 seconds, with the duration refreshing upon the 7th hit and every 6th hit thereafter.
+Judgment
+deals 25% increased damage against the nearest enemy hit.
+Increased Damage Per Spin:
+5 / 10 / 15 / 20 / 25 (+
+0 − 10.
+25
+(based on level)
+)
+(+ 45 / 46.
+25
+/ 47.
+5
+/ 48.
+75
+/ 50% AD)
+Recast:
+Garen
+ends
+Judgment
+prematurely, reducing its
+cooldown
+by its remaining duration.
+Judgment
+can
+critically strike
+for
+(75% +
+40%
+)
+bonus
+physical damage
+. Additionally,
+Judgment
+deals 150% damage against
+monsters
+.
+Info
+Targeting input
+Auto
+Damage type
+Type
+AOE DOT damage
+Sub-type
+Physical
+The initial casts count as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Deactivating the ability manually does not.
+Each spin triggers a stack of
+Conqueror
+.
+For the purpose of moving closer to an enemy when right clicking them,
+Judgment
+also reduces
+Garen's
+attack range
+「 to 100 」
+「 by 75 」
+for the duration.
+Judgment
+cancels
+Garen's
+last movement command upon ending.
+Each spin deals damage simultaneously to all enemies within its range when the spin is completed.
+The spin animation is capped at once per 0.
+2
+seconds, but the amount of ticks will keep on scaling.
+The armor reduction stacks multiplicatively with other percentage armor penetration effects.
+Attacking
+Disabled
+Abilities
+Decisive Strike
+and
+Courage
+are usable.
+Demacian Justice
+interrupts.
+Movement
+Allowed
+Items
+Usable
+All items are usable
+Disabled
+N/A
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Teleport
+Hexflash
+Disabled
+Recall
+Interrupted by
+N/A
+Interrupted by
+Death
+Map-Specific Differences
+Ultra Rapid Fire
+differences
+edit
+Cannot spin more than once from multiple casts.
+Arena
+differences
+edit
+AD ratio per spin changed to
+33 / 34 / 35 / 36 / 37% AD
+.
+Edit
+Demacian Justice
+COOLDOWN:
+120 / 100 / 80
+CAST TIME:
+0.
+435
+TARGET RANGE:
+400
+Active:
+Garen
+strikes a lethal blow to an enemy champion that deals
+true damage
+based on the
+target's
+missing
+health
+.
+Active:
+Garen
+calls upon the might of
+Demacia
+onto the target enemy
+champion
+, dealing them
+true damage
+as well as
+revealing
+them for 1 second at the start of the cast time.
+True Damage:
+150 / 300 / 450
+(+ 25 / 30 / 35% of target's
+missing
+health)
+"For the cause!"
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+True
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+The target will die if they're at least under
+20 / 23.
+08
+/ 25.
+93
+%
+maximum
+health
++
+120 / 230.
+77
+/ 333.
+33
+flat
+health
+on top of that. This does not count effects that mitigate
+true damage
+, such as
+shields
+.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Garen (Collection)
+.
+Original
+View in 3D
+260
+27.04.2010
+A proud and noble warrior, Garen fights as one of the Dauntless Vanguard. He is popular among his fellows, and respected well enough by his enemies—not least as a scion of the prestigious Crownguard family, entrusted with defending Demacia and its ideals. Clad in magic-resistant armor and bearing a mighty broadsword, Garen stands ready to confront mages and sorcerers on the field of battle, in a veritable whirlwind of righteous steel.
+Jamieson Price
+Alex 'alexplank' Flores
+Loot eligible
+Chromas
+Original Garen Chromas
+Garnet
+Ivory
+Plum
+Sanguine
+View in 3D
+520
+27.04.2010
+Jamieson Price
+Unknown artist
+Legacy
+Loot eligible
+Legacy
+Desert Trooper
+View in 3D
+520
+27.04.2010
+Jamieson Price
+Unknown artist
+Legacy
+Loot eligible
+Legacy
+Commando
+View in 3D
+520
+08.09.2010
+Most commandos excel at amphibious attacks and military paragliding. This one spins very fast toward things while holding a giant sword. It's basically the same.
+Jamieson Price
+Zhang Ji
+Commando
+Loot eligible
+Dreadknight
+View in 3D
+975
+18.01.2011
+Once a valiant hero, Dreadknight Garen fell to the promise of power great enough to save his land. Now, twisted by the corrupting magic of his Master, he commands the frozen legions in their march upon the living. Only desolation remains in his wake.
+Jamieson Price
+Unknown artist
+Dreadknights
+Loot eligible
+Rugged
+View in 3D
+750
+15.08.2011
+Also known as “Handsome Garen,” this wandering warrior and extremely original NPC was created by Braum for his Riftquest game. Garen eventually adopted the character as his own, liking the fantasy of himself, but rugged.
+Jamieson Price
+Mingchen Shen, West Studio
+Rift Quest
+Loot eligible
+Steel Legion
+View in 3D
+1350
+01.02.2013
+Garen is a steam-powered knight serving at the head of the Steel Legion's vanguard, feared by his enemies and respected by his allies in equal measure. His blade is one of a kind: a thaumaturgical innovation of science and magic, overflowing with sparking plasma.
+Jamieson Price
+Christian Fell
+Steel Legion
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Rogue Admiral
+View in 3D
+750
+22.07.2015
+A faded bounty poster from the Demacian naval authorities notes that Admiral Garen is a deadly adversary, and should be engaged with caution, lest he cut off your head and send it back to the capital. Each year, the Demacian naval authorities receive a disconcerting number of human heads.
+Jamieson Price
+Sixmorevodka Studio
+Bilgewater: Burning Tides
+Loot eligible
+Warring Kingdoms
+View in 3D
+1350
+19.01.2017
+Brave guardian of Azir's ancient fortress, Garen is a mighty warrior who charges fearlessly into even the most hopeless battles. He fights for the glory of his ruler and the safety of his people, a powerful, if headstrong, force for justice.
+Jamieson Price
+Jojo So
+Lunar Revel: Warring Kingdoms
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Warring Kingdoms Garen Chromas
+Golden
+God-King
+View in 3D
+1820
+27.06.2018
+God-King Garen stands as the last scion of an ancient divinity, and the final bulwark against the end of all civilization. He rules the vast kingdom of Demacia with an iron fist, jealously protecting his people as a self-styled messiah, while rooting out and destroying all who would oppose him.
+Mick Lauer
+Pan Chengwei
+Battle of the God-Kings
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Demacia Vice
+View in 3D
+1350
+18.07.2019
+As chrome eagles cry and steel panthers growl, lightning hot justice is delivered nightly by Detective Garen Stryker on the neon-drenched streets. A black belt in Ionian martial arts, this katana wielding cop pushes it to the limit with every case... for Demacia!
+Jamieson Price
+Zeen Chin
+Demacia Vice
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Demacia Vice Garen Chromas
+Amethyst
+Catseye
+Neon Noir
+Obsidian
+Pearl
+Ruby
+Sapphire
+Mecha Kingdoms
+View in 3D
+1350
+15.01.2020
+Once a ruthless warlord, Garen led his armies to victory after victory, laying the foundations for the Vercentia Kingdom. When the leviathans appeared out of nowhere, he opted to put aside his dream of uniting all the Great Kingdoms under his rule, and instead to march his newly-fashioned Avalon alongside his former enemies for the sake of humanity.
+Jamieson Price
+Clare Wong, West Studio
+Mecha Kingdoms
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Prestige Mecha Kingdoms
+View in 3D
+Special
+15.01.2020
+Having been elected the leader of the United Great Kingdoms, Garen will stop at nothing until the safety of his people is ensured. Armed with an Avalon upgraded to the teeth, he stands at the forefront of the mightiest warriors from across the land, determined to lead them into battle until the leviathans are no more.
+Jamieson Price
+Sanhua Chen, Kudos Productions
+Mecha Kingdoms
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Mecha Kingdoms
+. Store variants are discounted for multiple purchases.
+Battle Academia
+View in 3D
+1350
+18.03.2021
+'Brother' to Lux, Garen is the only biological child of his family, but was neglected from an early age as his parents spent all their time developing the god-weapon fragment that would one day become their daughter. As he vented his anger in increasingly delinquent ways, Labrys sought him out for enrollment, where he eventually joined the Battle Club.
+Jamieson Price
+Ina Wong, West Studio
+Battle Academia
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Battle Academia Garen Chromas
+Citrine
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Sandstone
+Sapphire
+Turquoise
+Mythmaker
+View in 3D
+1350
+12.01.2023
+As the town's leader in “The Great Beast Galio”, Garen's chief concern is the safety of his people in the face of a fierce enemy. When the story is thrown off, however, Irelia convinces him to help by showing Garen that Galio can be reasoned with, perhaps even stopped entirely if they make a friend out of a foe.
+Jamieson Price
+Silvia Meiliani, Caravan Studio
+Mythmaker
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Mythmaker Garen Chromas
+Amethyst
+Catseye
+Emerald
+Gilded
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Fallen God-King
+View in 3D
+Special
+28.08.2024
+God-King Garen stands as the last scion of an ancient divinity, and the final bulwark against the end of all civilization. He rules the vast kingdom of Demacia with an iron fist, jealously protecting his people as a self-styled messiah, while rooting out and destroying all who would oppose him.
+Mick Lauer
+David Villegas, West Studio
+Battle of the God-Kings
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+God-King
+. Store variants are discounted for multiple purchases.
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.9
+Stats
+Selection radius increased to 120 units from 75.
+V14.2
+Courage
+Damage reduction duration changed to 4 seconds at all ranks from 2 / 2.
+75
+/ 3.
+5
+/ 4.
+25
+/ 5.
+Judgment
+AD ratio per spin increased to
+36 / 37 / 38 / 39 / 40% AD
+from
+32 / 34 / 36 / 38 / 40% AD
+.
+V13.8
+Stats
+Base armor increased to 38 from 36.
+Base attack damage increased to 69 from 66.
+V13.5
+General
+Bug Fix:
+Mythmaker Garen
+now has a separate SFX when attacking turrets.
+V13.4
+General
+New splash artwork for
+Rugged Garen
+.
+V13.3
+General
+Bug Fix:
+Voice line for killing an enemy
+Darius
+now properly triggered again.
+Judgment
+Bug Fix:
+Tooltip for its recast now displays updated information.
+V12.19
+Judgment
+Critical strike damage increased to 175% from 158%.
+V12.10
+Stats
+Base health increased to 690 from 620.
+Health growth increased to 98 from 84.
+Armor growth increased to 4.
+2
+from 3.
+Magic resistance growth increased to 1.
+55
+from 0.
+75
+.
+Courage
+Base shield reduced to 65 / 85 / 105 / 125 / 145 from 70 / 95 / 120 / 145 / 170.
+Shield health ratio reduced to
+18%
+bonus
+health
+from
+20%
+.
+V11.21
+Decisive Strike
+New Effect:
+Now trigger spell effects when dealing damage.
+V11.14
+Decisive Strike
+Bonus movement speed increased to 35% from 30%.
+Demacian Justice
+Target's health ratio increased to
+25 / 30 / 35% of target's
+missing
+health
+from
+20 / 25 / 30%
+.
+V11.9
+Courage
+Maximum stacks increased to 150 from 120.
+Bonus resistances per stack reduced to 0.
+2
+from 0.
+25
+.
+Maximum bonus resistances unchanged.
+V11.6
+Judgment
+Undocumented:
+Global crit damage interpretation reworked,
+Judgment
+crit bonus damage increased to +58% from +33%.
+(note)
+V11.2
+Judgment
+Bug Fix:
+Number of spins now properly accounts for the bonus attack speed gained from
+Trinity Force's
+Mythic passive.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.23
+- November 12th Hotfix
+Judgment
+Bug Fix:
+Fixed a bug where preseason's global crit damage reduction nerfed
+Judgment
+crits from +33% to +8%.
+V10.18
+Courage
+Bug Fix:
+No longer increases his base armor and magic resist.
+V10.7
+Perseverance
+Cooldown increased to 8 seconds from 7.
+Decisive Strike
+Bonus movement speed duration changed to 1 / 1.
+65
+/ 2.
+3
+/ 2.
+95
+/ 3.
+6
+seconds from 1.
+5
+/ 2 / 2.
+5
+/ 3 / 3.
+5
+.
+V10.6
+General
+Recommended items updated.
+Stats
+Magic resistance growth reduced to 0.
+75
+from 1.
+25
+.
+Judgment
+Critical strike damage reduced to 33% from 50%.
+V10.4
+Decisive Strike
+AD ratio increased to
+50% AD
+from
+40% AD
+.
+Courage
+New Effect:
+Now passively gains an additional
+10%
+bonus
+armor
+and
+10%
+bonus
+magic resistance
+after reaching maximum stacks.
+New Effect:
+Now has a base shield strength of 70 / 95 / 120 / 145 / 170.
+Shield health ratio changed to
+20%
+bonus
+health
+from
+10%
+maximum
+health
+.
+Judgment
+New Effect:
+Now deals 150% damage against non-epic monsters.
+V10.3
+Decisive Strike
+Bug Fix:
+Is now an
+unstoppable basic attack
+.
+V10.2
+Decisive Strike
+Bug Fix:
+Is no longer blocked by spell-shielded champions.
+V9.24b
+Judgment
+Base damage per level increased to
+0 − 8.
+2
+(based on level)
+from
+0 − 6.
+6
+(based on level)
+.
+V9.24
+Judgment
+Additional spins per attack speed reduced to 1 spin per
+25%
+bonus
+attack speed
+from 1 spin per
+20%
+bonus
+attack speed
+.
+Base damage per level reduced to
+0 − 6.
+6
+(based on level)
+from
+0 − 8.
+2
+(based on level)
+.
+V9.23
+Decisive Strike
+Bug Fix:
+If the attack is canceled due to losing vision of his target, he's no longer locked out of casting
+Judgment
+until the empowered attack window ends.
+V9.21
+Judgment
+Base damage per spin reduced to 4 / 8 / 12 / 16 / 20 from 8 / 12 / 16 / 20 / 24.
+Bug Fix:
+Fixed a bug where he would sometimes get an extra spin.
+V9.20
+Stats
+Attack speed growth increased to 3.
+65
+% from 2.
+9
+%
+Base health increased to 620 from 616.
+28
+.
+Health growth reduced to 84 from 84.
+25
+.
+Perseverance
+Health regeneration changed to
+1.
+5
+% − 10.
+1
+% (based on level)
+of his
+maximum
+health
+from
+2 / 8% (based on level)
+.
+Removed:
+Regeneration no longer doubles while below
+25 / 50% (based on level)
+of his
+maximum
+health
+.
+Cooldown changed to 7 seconds at all levels from
+9 / 4 (based on level)
+.
+Removed:
+Non-epic monsters no longer interrupt regeneration before level 11.
+Decisive Strike
+New Effect:
+No longer has a static delay of 0.
+5
+seconds. Now scales with his attack speed, behaving more similarly to a basic attack reset.
+Bug Fix:
+Fixed a bug where when he is slowed,
+Decisive Strike's
+lockout time dramatically increased.
+Undocumented:
+No longer triggers
+on-attack
+effects on jump (i.e
+Statikk Shiv
+).
+Undocumented:
+Statikk Shiv
+can now critically strike when used with
+Decisive Strike
+.
+Courage
+Resistances per stack reduced to 0.
+25
+from 0.
+33
+.
+Resistances cap reduced to 30 from 50.
+Minion kills to max stacks reduced to 120 from 150.
+New Active Effect:
+Grants a
+10% of
+maximum
+health
+shield for the first 0.
+75
+seconds.
+Removed:
+No longer reduces damage by 60% for the first 0.
+75
+seconds.
+Judgment
+Number of spins changed to 7 plus 1 per
+20%
+bonus
+attack speed
+from
+5 − 10 (based on level)
+.
+Only counts bonus attack speed from items and levels.
+Base damage per spin reduced to 8 / 12 / 16 / 20 / 24 from 14 / 18 / 22 / 26 / 30.
+New Effect:
+Now has an additional base damage per spin of
+0 − 8.
+2
+(based on level)
+.
+AD ratio per spin reduced to
+32 / 34 / 36 / 38 / 40% AD
+from
+36 / 37 / 38 / 39 / 40% AD
+.
+Removed:
+No longer deals 33%
+bonus
+damage when hitting a single target.
+New Effect:
+Now deals 25%
+bonus
+damage per tick to the nearest enemy.
+Hits needed to shred armor increased to 6 from 4.
+New Effect:
+Now grants stacks of
+Conqueror
+on each spin.
+Demacian Justice
+Removed:
+No longer marks the enemy with the most kills in the last 5 minutes as the
+Villain
+. Basic attacks and
+Judgment
+no longer deal
+1% of the
+Villain's
+maximum
+health
+as bonus true damage.
+Demacian Justice's
+damage is no longer converted to true damage against the
+Villain
+.
+New Effect:
+Now grants
+vision
+of the target for 1 second.
+Damage type changed to true from magic.
+Base damage reduced to 150 / 300 / 450 from 175 / 350 / 525.
+Health ratio reduced to
+20 / 25 / 30% of the target's
+missing
+health
+from
+28.
+6
+/ 34.
+3
+/ 40%
+.
+V9.7
+Courage
+Bonus resistances per kill increased to 0.
+3
+3
+from 0.
+25
+.
+Maximum bonus resistances increased to 50 from 30.
+Total unit kill required increased to 150 from 120.
+Cooldown reduced to 23 / 21 / 19 / 17 / 15 seconds from 24 / 23 / 22 / 21 / 20.
+Active duration reduced to 2 / 2.
+75
+/ 3.
+5
+/ 4.
+25
+/ 5 seconds from 2 / 3 / 4 / 5 / 6.
+V9.1
+Decisive Strike
+New Effect:
+Ability icon border now shows the remaining time for the empowered attack and movement speed.
+V8.17
+Decisive Strike
+Base damage reduced to 30 / 60 / 90 / 120 / 150 from 30 / 65 / 100 / 135 / 170.
+V8.15
+God-King Garen
+Bug Fix:
+Several missing VO lines have been restored.
+V8.13
+General
+Adjusted splash artwork for
+Rogue Admiral Garen
+.
+V8.10
+Decisive Strike
+Bug Fix:
+Now correctly damages
+Teemo's
+mushrooms
+.
+V8.9
+Decisive Strike
+Base damage increased to 30 / 65 / 100 / 135 / 170 from 30 / 55 / 80 / 105 / 130.
+Courage
+Maximum bonus resistances increased to 40 from 30.
+Total unit kill required increased to 160 from 120.
+V8.8
+Steel Legion Garen
+Demacian Justice
+Bug Fix:
+Villain mark is now at the same height when comparing it to enemy and ally perspectives.
+V8.3
+Stats
+Base health regeneration increased to 8 from 7.
+84
+.
+V8.2
+Demacian Justice
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V7.22
+Stats
+Base attack damage increased to 66 from 57.
+88
+.
+Base armor increased to 36 from 27.
+536
+.
+V7.14
+Perseverance
+Health regeneration increased to
+2 / 8 (based on level)
+%
+maximum
+health
+from
+2 / 4 / 10 (based on level)
+%
+maximum
+health
+.
+Out-of-combat timer reduced to
+9 / 4 (based on level)
+seconds from
+9 / 6 / 4 (based on level)
+.
+New Effect:
+Health regeneration doubles to
+4 / 16 (based on level)
+%
+maximum
+health
+while below
+25 / 50 (based on level)
+% of his
+maximum
+health
+.
+Courage
+New Effect:
+Now displays how much damage is mitigated.
+New Effect:
+Damage reduction is doubled to 60% for the first 0.
+75
+seconds.
+Drops to 30% thereafter.
+New Effect:
+Grants 60% Tenacity for the first 0.
+75
+seconds.
+Judgment
+AD ratio increased to
+36 / 37 / 38 / 39 / 40% AD
+from
+34 / 35 / 36 / 37 / 38%
+.
+V6.24
+Judgment
+New Effect:
+Enemy champions hit by 4 spins lose
+25% of their armor
+for 6 seconds. Hits after the 4th refresh the duration.
+V6.20
+Perseverance
+Bug Fix:
+Fixed a bug where
+Rift Herald
+couldn't disable
+Perseverance
+after it 'ranked up' at level 11.
+V6.8
+General
+Splash artwork for
+Commando Garen
+updated to the Chinese art.
+V6.7
+General
+Splash artwork for
+Sanguine Garen
+and
+Desert Trooper Garen
+updated to the Chinese art.
+V5.19
+General
+Adjusted splash artwork for
+Rogue Admiral Garen
+.
+Judgment
+/
+Demacian Justice
+Fixed a bug where Judgment was dealing 1% of Garen's maximum health instead of his
+villainous
+target's maximum health.
+V5.18
+Demacian Justice
+Kills against Garen will no longer be considered for determining the villain.
+Killing champion clones will not longer be considered a kill for determining the villain.
+V5.17
+Stats
+Movement speed reduced to 340 from 345.
+Decisive Strike
+Bonus movement speed reduced to 30% from 35%.
+Fixed a bug where the attack wasn't triggering against structures
+Courage
+(Crystal Scar, Howling Abyss and Twisted Treeline)
+Resists per kill doubled to 0.
+25
+from 0.
+125
+.
+Judgment
+Issuing attack commands while spinning will now make Garen path slightly closer to his target.
+V5.16
+General
+Recommended items updated.
+Stats
+Health growth reduced to 84.
+25
+from 96.
+Attack damage growth increased to 4.
+5
+from 3.
+5
+.
+Armor growth increased to 3 from 2.
+7
+.
+Attack range increased to 175 from 125.
+Decisive Strike
+Silence
+duration reduced to 1.
+5
+seconds at all ranks from 1.
+5
+/ 1.
+75
+/ 2 / 2.
+25
+/ 2.
+5
+.
+Movement speed duration reduced to 1.
+5
+/ 2 / 2.
+5
+/ 3 / 3.
+5
+seconds from 1.
+5
+/ 2.
+25
+/ 3 / 3.
+75
+/ 4.
+5
+.
+If the attack is used on champion, it will have a small dash attached to it, similar to
+Bear Stance
+, moving Garen 50 units closer to his target than his attack range.
+Courage
+Removed:
+Passive bonus 20% of bonus armor and magic resist.
+New Passive:
+Unit kills permanently grant 0.
+25
+armor and magic resist, quadrupled to 1 on large and epic Monsters and champion kills. This bonus is capped at 30.
+Active no longer grants Tenacity.
+Judgment
+New Effect:
+Damage ticks changed to
+5 − 10 (based on level)
+based on level from 6 at all ranks.
+Total duration unchanged.
+Base damage changed to 14 / 18 / 22 / 26 / 30 from 10 / 22.
+5
+/ 35 / 47.
+5
+/ 60.
+Attack damage ratio reduced to
+34 / 35 / 36 / 37 / 38% AD
+from
+35 / 40 / 45 / 50 / 55% AD
+.
+New Effect:
+Judgment deals 33% bonus damage when striking only one target.
+Single target damage: 18.
+67
+/ 24 / 29.
+33
+/ 34.
+67
+/ 40
+(+45.
+33
+/ 46.
+67
+/ 48 / 49.
+33
+/ 50.
+67
+% AD)
+.
+Cooldown reduced to 9 seconds at all ranks from 13 / 12 / 11 / 10 / 9.
+New Effect:
+Cancelling
+Judgment
+early will now refund cooldown equal to the remaining duration.
+Removed:
+25% reduced damage to minions.
+Demacian Justice
+Updated ability icon.
+New Passive:
+The enemy champion with the most recent kills is the
+Villain
+.
+Garen's
+basic attacks and ticks of
+Judgment
+deal
+1% target's maximum health
+as bonus true damage versus
+Villains
+.
+New Effect:
+Demacian Justice's
+Active
+deals true damage versus
+Villains
+.
+V5.7
+Demacian Justice
+Cooldown reduced to 120 / 100 / 80 seconds from 160 / 120 / 80.
+V4.18
+Demacian Justice
+Fixed a bug where Demacian Justice would cancel if Garen lost sight of his target.
+V4.17
+Perseverance
+Cooldown reduced to
+9 / 6 / 4 (based on level)
+seconds from 9 at all levels.
+Health regeneration reduced to
+0.
+4
+/ 0.
+8
+/ 2 (based on level)
+% of max health per second from 0.4% at all levels.
+At level 11, non-epic monsters will no longer interrupt the effect.
+V4.13
+General
+Splash artwork for
+Dreadknight Garen
+updated to the Chinese art.
+V4.12
+Judgment
+Garen can now activate
+Tiamat's
+and
+Ravenous Hydra's
+active effect Crescent while spinning.
+V4.5
+Stats
+Base armor increased to 23 from 19.
+V3.15
+Judgment
+No longer deals reduced damage to monsters (still reduced against minions).
+Fixed a bug where the first tick did not damage units.
+V3.12
+General
+Visual Update.
+New models and textures for all skins.
+New splash artwork for
+Original Garen
+.
+New voice-over.
+V3.03
+Perseverance
+Heal amount reduced to
+0.4% of maximum health
+per second from
+0.5%
+.
+Decisive Strike
+Fixed a bug where the cast time was faster than intended.
+Courage
+Passive changed to increase bonus armor and magic resist (from items, runes, and/or masteries) by 20% instead of total armor and magic resist by 20%.
+Demacian Justice
+Fixed a bug where the cast time was faster than intended.
+V1.0.0.152
+Stats
+Movement speed increased to 345 from 320.
+V1.0.0.145
+Stats
+Base health regen per 5 reduced to 8.25 from 9.85.
+Health regen per 5 per level reduced to 0.75 from 0.85.
+Base attack damage reduced to 56 from 60.1.
+Attack damage per level increased to 3.5 from 3.
+Perseverance
+Delay increased to 9 seconds from 7.
+No longer deactivates when damaged by minions.
+Now displays the health regen gained in the tooltip.
+Decisive Strike
+Cooldown reduced to 8 seconds at all ranks from 12 / 11 / 10 / 9 / 8.
+Movement speed increased to 35% at all ranks from 15 / 20 / 25 / 30 / 35%.
+Movement speed duration adjusted to 1.
+5
+/ 2.
+25
+/ 3 / 3.
+75
+/ 4.
+5
+seconds from 4 at all ranks.
+Base damage increased to 30 / 55 / 80 / 105 / 130 from 30 / 45 / 60 / 75 / 90.
+Silence duration reduced to 1.
+5
+/ 1.
+75
+/ 2 / 2.
+25
+/ 2.
+5
+seconds from 2.5 at all ranks.
+Now removes slows on activation.
+Can now critically strike again.
+Buff duration reduced to 4.5 seconds from 6.
+Fixed: Garen's next basic attack after Decisive Strike no longer occurs unusually quickly.
+Fixed: Decisive Strike is no longer consumed if Garen fails to finish attacking.
+While performing Decisive Strike, Garen now continues to follow his target if they are moving.
+Courage
+Changed to passively increase armor and magic resist by 20% rather than 0 to 25 based on kills.
+Active damage reduction changed to 30% at all ranks from 20 / 24 / 28 / 32 / 36%.
+Active now additionally grants 30% crowd control reduction.
+Duration changed to 2 / 3 / 4 / 5 / 6 seconds from 3 at all ranks.
+Cooldown changed to 24 / 23 / 22 / 21 / 20 seconds from 30 / 27 / 24 / 21 / 18.
+Judgment
+Base damage reduced to 20 / 45 / 70 / 95 / 120 per second from 50 / 90 / 130 / 170 / 210.
+AD scaling changed to
+70 / 80 / 90 / 100 / 110% AD
+per second from
+140% bonus AD
+.
+Damage dealt to minions increased to 75% from 50%.
+No longer removes slows on activation or reduces the duration of incoming slows while active.
+Ignores unit collision during Judgment but takes a 20% movement speed penalty when spinning through minions.
+Fixed: Judgment no longer locks out Garen from taking other actions longer than intended.
+Demacian Justice
+Cooldown changed to 160 / 120 / 80 seconds from 140 / 120 / 100.
+V1.0.0.143
+Perseverance
+Added a buff timer to show when it will reactivate.
+V1.0.0.136
+Demacian Justice
+Fixed a bug where Demacian Justice would not finish casting if Garen lost vision of the target during the cast.
+V1.0.0.125
+Decisive Strike
+Attack damage ratio reduced to
+40% AD
+from
+50% AD
+.
+Judgment
+Base damage reduced to 50 / 90 / 130 / 170 / 210 per second from 60 / 100 / 140 / 180 / 220.
+Bonus attack damage ratio increased to
+140% bonus AD)
+per second from
+120% bonus AD
+.
+V1.0.0.123
+Decisive Strike
+Movement speed boost duration increased to 4 seconds from 3.
+Judgment
+:
+Cooldown reduced to 13 / 12 / 11 / 10 / 9 seconds from 14 / 13 / 12 / 11 / 10.
+Courage
+:
+Maximum armor and magic resistance increased to 25 at all ranks from 5 / 10 / 15 / 20 / 25.
+V1.0.0.120
+Perseverance
+Fixed a bug where
+Perseverance
+could sometimes activate immediately after taking damage.
+Now marks Garen as being in combat even if the damage is shielded.
+Now shows the particle on Garen even if at 100% health.
+V1.0.0.114
+Stats
+Movement speed increased to 320 from 315.
+Courage
+Damage reduction increased to 20 / 24 / 28 / 32 / 36% from 10 / 15 / 20 / 25 / 30%.
+V1.0.0.112
+Decisive Strike
+Attack damage ratio increased to
+50% AD
+from
+20% AD
+.
+Movement speed boost increased to 3 seconds from 2.
+Duration reduced to 6 seconds from 7.
+Judgment
+Cooldown reduced to 14 / 13 / 12 / 11 / 10 seconds from 15 / 14 / 13 / 12 / 11.
+V1.0.0.109
+Judgment
+Bonus attack damage ratio increased to
+120% bonus AD
+per second from
+100% bonus AD
+.
+V1.0.0.108
+Judgment
+Base damage increased to 60 / 100 / 140 / 180 / 220 per second from 60 / 90 / 120 / 150 / 180.
+V1.0.0.107
+Decisive Strike
+Base damage reduced to 30 / 45 / 60 / 75 / 90 from 40 / 60 / 80 / 100 / 120.
+Attack damage ratio increased to
+20% AD
+from
+10% AD
+.
+Judgment
+Damage ticks reduced to one per second from two.
+Total duration unchanged.
+Base damage changed to 60 / 90 / 120 / 150 / 180 per second from 30 / 70 / 110 / 150 / 190.
+Now scales off bonus attack damage rather than 70% of all attack damage.
+V1.0.0.105
+General
+Reduced Garen's selection size.
+V1.0.0.103
+Judgment
+Can no longer damage invisible minions or objects like wards.
+V1.0.0.102
+Stats
+Base movement speed reduced to 315 from 320.
+Courage
+Active damage reduction reduced to 10 / 15 / 20 / 25 / 30% from 30% at all ranks.
+Active duration changed to 3 seconds at all ranks from 2 / 2.
+5
+/ 3 / 3.
+5
+/ 4.
+V1.0.0.101
+Perseverance
+No longer removed by combat dehancing effects such as
+Blood Scent
+.
+Courage
+Damage reduction reduced to 30% from 35%.
+Demacian Justice
+Fixed various bugs that caused Demacian Justice to fizzle sometimes.
+V1.0.0.100
+Courage
+:
+Maximum armor and magic resistance reduced to 5 / 10 / 15 / 20 / 25 from 7 / 14 / 21 / 28 / 35.
+V1.0.0.99
+Judgment
+Now reduces the duration of new slows by 50% rather than granting immunity to slowing effects. Judgment will still completely clear any existing slows when activated.
+V1.0.0.98
+Decisive Strike
+Now resets Garen's auto attack timer on cast.
+V1.0.0.97
+Judgment
+Slightly increased the range of Judgment.
+Garen can now cast all of his spells while using Judgment instead of just
+Courage
+.
+V1.0.0.96
+Decisive Strike
+Fixed a bug with Decisive Strike that would cause the icon cooldown to display improperly.
+V1.0.0.94
+Fixed a bug where Garen will sometimes appear with a different skin after reconnecting.
+V1.0.0.85
+Perseverance
+Fixed the buff tooltip for Perseverance to show the correct value.
+Decisive Strike
+Fixed a bug with Decisive Strike where it was silencing for the incorrect amount of time.
+Fixed a bug with Decisive Strike so that it can no longer crit.
+V1.0.0.83
+Added.
+Perseverance
+(Innate)
+Garen gains a large health regeneration boost when he stays out of combat for a few seconds.
+Decisive Strike
+(Q)
+Garen gains a movement speed boost upon activating this ability, and his next melee attack deals increased damage and silences his opponent.
+Courage
+(W)
+Garen permanently increases his armor and magic resistance every time he kills a minion, and he can activate this ability to take reduced damage from all sources for a few seconds.
+Judgment
+(E)
+Garen spins his sword rapidly around his body and moves with it, dealing large amounts of physical damage to all enemies within its radius.
+Demacian Justice
+(Ultimate)
+Garen executes Demacian Justice upon an opponent, dealing a large amount of damage with bonus damage for health that an opponent is missing.
+Trivia
+[
+edit
+|
+edit source
+]
+Garen, the Might of Demacia
+Garen was featured in
+Battle Training
+before the tutorials' first revamp.
+His dance is a reference to
+Bye Bye Bye
+by
+NSYNC
+.
+A side-by-side comparison can be seen
+here.
+He used to share this dance with
+Tryndamere
+before they both got
+reworked
+.
+Wukong's
+abilities might have been based on Garen's kit. (
+Decisive Strike
+/
+Crushing Blow
+,
+Judgment
+/
+Cyclone
+)
+Garen was the first to have his
+Influence Point
+price reduced twice, others being
+Miss Fortune
+and
+Warwick
+.
+The
+original icon
+of
+Perseverance
+features a silhouette of Garen's pose from his first
+Original splash art
+.
+In the now-removed official League of Legends
+forums
+, the original icon of
+Perseverance
+was used to represent the "
+Public Beta Environment
+" section.
+Garen, the Might of Demacia
+Garen
+Գարեն is an Armenian name, shortened from Old Armenian
+Գարեգին
+Garegin
+;
+Adjarian
+interprets this name as "
+highly valued
+", though
+phonological problems exist
+.
+Interestingly, Garen's and
+Lux's
+parents both bear
+Pre-Greek
+names:
+Pieter
+< Πέτρος "stone" &
+Augatha
+< Ᾰ̓γᾰθή "good, fit, noble".
+[2]
+Garen
+is one of 21 champions without a single
+ability power
+ratio on any ability:
+Aatrox
+,
+Camille
+,
+Darius
+,
+Dr. Mundo
+,
+Draven
+,
+K'Sante
+,
+Kayn
+,
+Kled
+,
+Naafiri
+,
+Nilah
+,
+Olaf
+,
+Pyke
+,
+Riven
+,
+Samira
+,
+Sett
+,
+Talon
+,
+Urgot
+,
+Xayah
+,
+Yone
+, and
+Zed
+.
+Garen -
+Lux
+is one of seven pairs of sibling champions (the others being
+Cassiopeia
+-
+Katarina
+,
+Kayle
+-
+Morgana
+,
+Nasus
+-
+Renekton
+,
+Yasuo
+-
+Yone
+,
+Darius
+-
+Draven
+, and
+Vi
+-
+Jinx
+).
+Though not a pair,
+Anivia
+,
+Ornn
+, and
+Volibear
+are also siblings.
+Garen's dance references
+Johnny Bravo's
+dance
+.
+A side-by-side comparison can be seen
+here.
+Contrary to popular belief, Garen yells
+"Demacia!"
+when using
+Courage
+and not during
+Judgment
+or
+Demacian Justice
+.
+Players using these abilities simultaneously led to this confusion.
+The bright and shimmery tonality on Garen's
+Demacian Justice
+came from a closely mic'd tuning fork and a finger cymbal hitting a broadsword.
+[3]
+"Spin To Win!"
+comes from how easily it was for Garen to get kills while using it.
+It earned meme status when
+animated
+with
+Ievan Polkka
+by
+Loituma
+playing in the background.
+When using
+Judgment
+Garen earns a cosmetic buff that reads
+"Garen is spinning to win"
+.
+The phrase is now associated to every spinning ability (e.g.
+Counter Strike
+,
+Death Lotus
+,
+Powerball
+,
+Spinning Slash
+, and
+Cyclone
+)
+Garen,
+Zed
+,
+Sona
+, and
+Vi
+were 'targeted' by
+Deadeye
+. This is not canon, so much as a teaser for the general theme of
+Jhin
+, as
+Zed
+is the only character with any connection.
+After Garen was
+shot
+, his champion icon on his
+League of Legends
+website
+page
+and
+champion list
+were updated to a
+gif
+with what seems to be shards of some sort floating out.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Juggernaut
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+Juggernauts
+are melee titans who relentlessly march down the opposition and devastate those foolish enough to get within their grasp. They are the only subclass who excel at both dealing and taking significant amounts of damage, but in turn they have a tough time closing in on targets due to their low range and extremely limited mobility.
+Examples
+Dr. Mundo
+Darius
+Mordekaiser
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Manaless
+A
+champion
+that is
+manaless
+does not use nor benefit from
+mana
+or
+mana regeneration
+, and includes the following:
+Energy
+users
+Flow
+users
+Fury
+users
+Heat
+users
+Health
+exclusive users
+Resourceless users
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Invulnerability
+A unit that is
+Invulnerable
+reduces all damage taken to
+0
+and prevents effects that trigger from damage.
+League of Legends content
+Cleanse
+A unit that is
+cleansed
+has all applicable
+crowd control
+status effects removed.
+Due to the nature of the
+cleanse
+interaction, cleansing abilities and effects remain castable in circumstances that would otherwise inhibit casting, unless special-cased.
+"
+Cleanse
+" does not always refer to the act of removing
+all
+crowd control effects, some sources would specify only one or a few types of crowd control.
+A
+cleanse
+does not remove
+Stasis
+, but will remove the disable portion of
+Airborne
+.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Basic attack
+The
+basic attack
+(or
+auto-attack
+) is the most basic means of a unit to deal damage to another unit, usually dealing
+100% AD
+. It has a brief cooldown based on the caster's current
+attack speed
+.
+All
+basic attacks
+are normally unit-targeted with their range limited by the caster's
+attack range
+, and have a brief attack
+windup
+. Damage is then dealt depending on the caster's range type:
+Melee
+and some projectile-less ranged attacks deal damage immediately.
+Ranged
+attacks usually send a projectile that follows the target and deals damage upon striking them. Projectiles can be intercepted by certain
+blocking
+effects.
+The damage event will trigger
+on-hit effects
+from buffs the caster may hold. If damage cannot be dealt, on-hit effects will not be triggered.
+On-attack
+effects will always trigger when the attack's
+windup
+completes.
+League of Legends content
+Lunge
+A
+lunge
+refers to the movement of a champion
+during
+an ability's cast animation (
+such as short-ranged abilities
+) or an empowered attack's animation (
+such as empowerments that grant
+bonus range
+), in order to place the champion in range for a follow-up attack.
+Lunge
+is a movement distinct from
+dashes
+, primarily by not triggering effects that would otherwise interact with dashes, such as
+Poppy's
+Steadfast Presence
+.
+League of Legends content
+Silence
+A unit that is
+silenced
+is unable to cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Interrupts:
+Interrupts all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Yone's
+Soul Unbound
+(recast).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Pillar of Ice
+COOLDOWN:
+24 / 22 / 20 / 18 / 16
+Active:
+Trundle
+erects an ice pillar at the target location that remains for a few seconds, which
+knocks back
+units hit. The pillar acts as
+terrain
+and
+slows
+nearby enemies.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Tenacity
+Tenacity
+(or
+Crowd Control Reduction
+) is a stat that reduces the duration of all incoming
+crowd control
+effects except
+displacements
+,
+drowsy
+,
+nearsight
+,
+stasis
+, and
+suppression
+.
+If
+tenacity
+is reduced below 0, the crowd control duration increases.
+Tenacity
+stacks
+multiplicatively
+or
+additively
+based on the combination of effects.
+The duration of a crowd control debuff is calculated when it is applied, and
+tenacity
+can reduce it to a minimum 0.
+5
+seconds.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Noxious Trap
+RECHARGE:
+35 / 30 / 25
+Active:
+Teemo
+tosses a poisonous mushroom to the target location that becomes
+stealthed
+and lasts for a while. It will bounce forward upon landing on another mushroom.
+Teemo
+periodically
+stocks
+a charge of
+Noxious Trap
+, up to a cap.
+Mushrooms can be destroyed by enemy
+basic attacks
+and will explode upon enemy contact, inflicting
+poison
+to nearby enemies and
+slowing
+them for a few seconds, as well as
+revealing
+them.
+poison
+:
+The target takes
+magic damage
+every second over a few seconds. Subsequent inflictions refresh the duration.
+League of Legends content
+Powder Keg
+RECHARGE:
+17 / 16 / 15 / 14 / 13
+Active:
+Gangplank
+places a
+Powder Keg
+at the target location, which can be basic attacked or
+shot
+to damage it. If an enemy destroys a
+Powder Keg
+, it is safely dismantled.
+If
+Gangplank
+destroys a
+Powder Keg
+, it will explode to deal the
+attack's damage
+to nearby enemies and
+slow
+them. Against an enemy
+champion
+, the explosion additionally deals
+bonus
+physical damage
+and ignores a
+portion of their armor
+.
+The explosion will cause nearby
+Powder Kegs
+to also explode.
+Gangplank
+stocks a
+Powder Keg
+every few seconds, up to a maximum.
+League of Legends content
+Dark Procession
+COOLDOWN:
+20 / 18 / 16 / 14 / 12
+Active:
+Yorick
+summons a destructible ring of spirits at the target location that
+knocks aside
+enemies hit. It remains as
+terrain
+against enemies for a few seconds,
+League of Legends content
+Pet
+A
+pet
+is a
+unit summoned by a champion
+to assist them on the battlefield.
+References
+[
+edit
+|
+edit source
+]
+↑
+Garen's profile page
+at
+LeagueOfLegends.com
+↑
+Beekes, R.S.P.
+Etymological Dictionary of Greek
+, pp. 1182, 7.
+↑
+The Stories Behind League's Sfx

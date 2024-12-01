@@ -1,0 +1,2332 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Cassiopeia
+the Serpent's Embrace
+Release date
+2010-12-14
+Last changed
+V14.16
+Class(es)
+Battlemage
+Legacy
+Mage
+Position(s)
+Middle
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+3
+Toughness
+1
+Control
+3
+Mobility
+1
+Utility
+1
+Style
+Difficulty
+Cassiopeia
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Cassiopeia
+Base statistics
+Edit
+Health
+630
++104
+Mana
+400
++40
+Health regen. (per 5s)
+5.5
++0.5
+Mana regen. (per 5s)
+8
++0.8
+Armor
+18
++4.7
+Attack damage
+53
++3
+Magic resist.
+32
++1.3
+Crit. damage
+175%
+Move. speed
+328
+Attack range
+550
+Attack speed
+Base AS
+0.647
+Attack windup
+19.2%
+AS ratio
+N/A
+Bonus AS
++1.5
+%
+Missile speed
+1500
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+600
+Special statistics
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+Edit
+Serpentine Grace
+Innate:
+Cassiopeia
+gains
+Movement Speed
+per level, but she cannot purchase
+Boots
+items.
+Innate:
+Cassiopeia
+gains
+4 − 72 (based on level)
+bonus
+movement speed
+, but she cannot purchase
+Boots
+.
+Info
+Targeting input
+Passive
+The movement speed from
+Serpentine Grace
+is worth
+48
+per level, up to a maximum of
+864
+at level 18.
+Without other movement speed modifiers taken into account,
+Serpentine Grace
+grants
+Cassiopeia
+a total of
+332 − 400 (based on level)
+movement speed
+.
+As
+Magical Footwear
+grants boots, the rune will be replaced with
+Cash Back
+.
+Map-Specific Differences
+Arena
+differences
+edit
+New Effect:
+Increases the
+Guardian
+item limit to 2.
+Bonus movement speed changed to
+2.
+8
+− 50.
+4
+(based on level)
+.
+Edit
+Noxious Blast
+COST:
+50 / 55 / 60 / 65 / 70 mana
+COOLDOWN:
+3.
+5
+CAST TIME:
+0.
+25
+TARGET RANGE:
+850
+EFFECT RADIUS:
+200
+Active:
+Cassiopeia
+blasts an area with
+Poison
+after a brief delay, dealing
+magic damage
+over time to enemies hit.
+She gains
+bonus
+movement speed
+if she hits an enemy
+champion
+.
+Active:
+Cassiopeia
+creates a blast at the target location that explodes after a 0.
+4
+-second delay. Enemies within the blast are
+poisoned
+for 3 seconds, taking
+magic damage
+every 0.
+429
+seconds over the duration.
+Total Magic Damage:
+75 / 110 / 145 / 180 / 215
+(+ 70% AP)
+Magic Damage Per Tick:
+10.
+71
+/ 15.
+71
+/ 20.
+71
+/ 25.
+71
+/ 30.
+71
+(+ 10% AP)
+If
+Noxious Blast
+hits an enemy
+champion
+,
+Cassiopeia
+gains
+bonus
+movement speed
+that decays over 3 seconds.
+Bonus Movement Speed:
+30 / 35 / 40 / 45 / 50%
+Info
+Targeting input
+Location
+Damage type
+Type
+AOE DOT damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Noxious Blast
+always uses
+quick cast
+, regardless of player settings.
+The damage inflicted by
+Noxious Blast
+is calculated as follows: damage / 7 ticks rounded down to the nearest integer.
+For example: with
+0
+bonus
+AP
+Noxious Blast
+inflicts 75 damages over 7 ticks of damage, so 75/7 (≈10.71) deals first of all 10 damage, then (2 × 75/7)  −  10 (≈11.43) deals in a second time 11 damages, then (3 × 75/7)  −  10  −  11 (≈11.14) deals in a third time 11 damages, and so on.
+The damage displayed for
+Noxious Blast
+DOT (
+Damage_over_time
+) always remains constant and corresponds to the previously mentioned formula: damage / 7 ticks rounded down to the nearest integer. It's important not to confuse the consistent displayed damage with the actual damage, which is updated with each tick, see
+tick and updates
+.
+With the same example as above, the damage displayed is always 10.
+Occasionally,
+Noxious Blast
+may not deal the displayed damage. This discrepancy occurs when the calculated damage falls between 0.5 and 1. In such cases, rounding to the nearest integer, specifically rounding up, creates a 1-point difference. It's important to note that the damage is rounded down to the nearest integer.
+For example: with a
+Blasting Wand's
+,
+Noxious Blast
+shows  so rounded to the nearest integer 116 magic damage, but really deals using the formula above 115 magic damage.
+(bug)
+When
+Cassiopeia
+has precisely
+20
+bonus
+AP
+or
+40
+bonus
+AP
+. In this scenario,
+Noxious Blast
+may inflict 1 less damage than intended. Importantly, this bug occurs independently of rounding considerations.
+PENDING FOR TEST:
+Enemies within the blast of
+Noxious Blast
+are
+poisoned
+for something between 3.
+2
+and 3.
+3
+seconds.
+Video
+Edit
+Miasma
+COST:
+70 / 75 / 80 / 85 / 90 mana
+COOLDOWN:
+24 / 22 / 20 / 18 / 16
+CAST TIME:
+0.
+25
+TARGET RANGE:
+700
+EFFECT RADIUS:
+200
+SPEED:
+3000
+Active:
+Cassiopeia
+spews several clouds of
+Poison
+that linger, continually dealing
+magic damage
+to enemies within. They are also
+slowed
+and
+grounded
+.
+Grounded
+enemies cannot use Movement abilities.
+Active:
+Cassiopeia
+spews forth 8 bolts of venom in an arc at the target location, creating toxic clouds at the area for 5 seconds.
+Enemies within the clouds are
+poisoned
+to take
+magic damage
+every 0.
+263
+seconds and become
+grounded
+and
+slowed
+by an amount that decays over the area's duration.
+Magic Damage Per Second:
+20 / 25 / 30 / 35 / 40
+(+ 15% AP)
+Total Magic Damage:
+100 / 125 / 150 / 175 / 200
+(+ 75% AP)
+Slow:
+40 / 50 / 60 / 70 / 80%
+Miasma will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+AOE DOT damage
+Sub-type
+Magic
+Counters
+Spell shield
+Not Blocked
+Projectile
+Blocked
+Miasma's
+slow
+and
+ground
+debuffs are each marked as non-dispellable, so they are not removed by most
+cleanses
+. Each is however allowed to be removed by cleanses that
+also
+grant immunity to the debuff type, such as
+Olaf's
+Ragnarok
+.
+If a target becomes
+untargetable
+while affected by the
+ground
+, the debuff will refresh to 0.
+25
+seconds.
+Wind Wall
+will block the portion of
+Miasma
+it destroys.
+Miasma
+inflicts
+5 / 6.
+25
+/ 7.
+5
+/ 8.
+75
+/ 10
+(+ 3.75% AP)
+magic damage
+per tick, and in fact because there is 19 ticks and not 20 ticks, the
+total
+magic damage
+is currently not
+100 / 125 / 150 / 175 / 200
+(+ 75% AP)
+but
+95 / 118.
+75
+/ 142.
+5
+/ 166.
+25
+/ 190
+(+ 71.25% AP)
+.
+(bug)
+Sometimes
+Miasma
+randomly inflicts only 18 ticks of damage.
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 28 / 26 / 24 / 22 / 20 seconds.
+Video
+Edit
+Twin Fang
+COST:
+40 mana
+COOLDOWN:
+0.
+75
+CAST TIME:
+0.
+125
+TARGET RANGE:
+700
+SPEED:
+2500
+Active:
+Cassiopeia
+launches an attack at the target enemy that deals
+magic damage
+. If this attack kills the target, the
+mana cost
+is refunded. Against a
+poisoned
+target, the attack deals increased damage and
+heals
+her.
+Active:
+Cassiopeia
+launches her fangs at the target enemy that deal
+52 − 120 (based on level)
+(+ 10% AP)
+magic damage
+. If this kills the target,
+Twin Fang's
+mana cost
+is refunded.
+Against a
+poisoned
+target,
+Twin Fang
+deals
+bonus
+magic damage
+and
+heals
+Cassiopeia
+. The heal is reduced by 75% against
+minions
+and small and medium
+monsters
+.
+Bonus Magic Damage:
+20 / 40 / 60 / 80 / 100
+(+ 55% AP)
+Total Enhanced Damage:
+52 − 120 (based on level)
+(+ 20 / 40 / 60 / 80 / 100)
+(+ 65% AP)
+Heal:
+10 / 11.
+5
+/ 13 / 14.
+5
+/ 16% AP
+Reduced Heal:
+2.
+5
+/ 2.
+875
+/ 3.
+25
+/ 3.
+625
+/ 4% AP
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Upon reaching the target,
+Twin Fang
+will wait for an ongoing
+Noxious Blast
+to explode before dealing its damage.
+Twin Fang's
+damage against poisoned targets:
+When maxed first:
+72 − 220 (based on level)
+(+ 70% AP)
+.
+When maxed second:
+72 − 220 (based on level)
+(+ 70% AP)
+.
+When maxed last:
+72 − 220 (based on level)
+(+ 70% AP)
+.
+Twin Fang's
+cast indicator is incorrectly adding her own radius to the range like an
+edge range
+ability, and is therefore slightly larger than the actual cast range
+Twin Fang
+can cast at.
+Using
+Twin Fang
+on an out-of-range target after completing a movement order causes
+Cassiopeia
+to move back to her original location after casting, if no other order is issued during the entire process.
+(note)
+This may be a consequence of
+Twing Fang
+being a "Walk in range of the target" ability that does not interrupt movement.
+If an out-of-range target becomes invalid,
+Cassiopeia
+continues to walk toward their last known location.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+Map-Specific Differences
+Arena
+differences
+edit
+Poisoned AP ratio changed to
+45% AP
+.
+Video
+Edit
+Petrifying Gaze
+COST:
+100 mana
+COOLDOWN:
+120 / 100 / 80
+CAST TIME:
+0.
+5
+EFFECT RADIUS:
+850
+ANGLE:
+80°
+Active:
+Cassiopeia
+blasts in a cone, dealing
+magic damage
+to enemies hit and
+stunning
+any that are facing her, while
+slowing
+any others with their back turned.
+Active:
+Cassiopeia
+blasts enemies in a cone in the target direction, dealing
+magic damage
+to enemies struck within and
+slowing
+them by 40% for 2 seconds. Enemies with their facing direction towards her are instead
+stunned
+for the same duration.
+Magic Damage:
+150 / 250 / 350
+(+ 50% AP)
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Cassiopeia
+will turn to face the target direction over the cast time.
+This ability will cast from wherever the caster is at the end of the cast time.
+Petrifying Gaze's
+target direction will change if
+Cassiopeia's
+facing direction changes during the cast time (i.e. through
+knockbacks
+).
+The facing direction of champions whose abilities/animations cause them to lock their facing or spin is always the direction they are moving in. For abilities that cause the champion to spin in place (e.g.
+Death Lotus
+,
+Judgment
+) it will factor the direction they were facing on cast.
+Lucian's
+The Culling
+is an exception and his facing direction is actually considered to be the direction he is facing.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 100 / 175 / 250.
+AP ratio changed to
+40% AP
+.
+Video
+Champion skins
+This article section only contains champion skins. For all associated collection items, see
+Cassiopeia (Collection)
+.
+Original
+View in 3D
+880
+14.12.2010
+Cassiopeia is a deadly creature bent on manipulating others to her sinister will. Youngest and most beautiful daughter of the noble Du Couteau family of Noxus, she ventured deep into the crypts beneath Shurima in search of ancient power. There, she was bitten by a gruesome tomb guardian, whose venom transformed her into a viper-like predator. Cunning and agile, Cassiopeia now slithers under the veil of night, petrifying her enemies with her baleful gaze.
+Karen Strassman
+Evan 'Somnicidal' Monteiro
+Loot eligible
+Chromas
+Original Cassiopeia Chromas
+Day
+Dusk
+Night
+Desperada
+View in 3D
+520
+14.12.2010
+Enterprising creatures of the Old West often fall in with more successful bandit clans, serving as nightmarish enforcers, unafraid of a little casual violence. Cassiopeia became infamous as one such outlaw, but following a bloody coup now leads an enclave of her own.
+Karen Strassman
+Unknown artist
+High Noon
+Loot eligible
+Siren
+View in 3D
+520
+14.12.2010
+A humanoid marine serpent known for luring sailors to their deaths, Cassiopeia has a bad reputation and wants to set the record straight. She'd need to stop turning interviewers to stone for that to work, but at least she's trying.
+Karen Strassman
+Unknown artist
+Fables
+Loot eligible
+Mythic
+View in 3D
+975
+18.07.2012
+On a cliff overlooking the sea, the lonely gorgon Cassiopeia has made her home among a garden of statues of her own making. Memories of friends, enemies, and lovers passed, immortalized in stone, many eternally screaming in agony. Whispers from the local villages warn not to enter her domain, but still, visitors keep coming, all to meet the same fate.
+Karen Strassman
+Unknown artist
+Fables
+Loot eligible
+Jade Fang
+View in 3D
+975
+08.02.2013
+An adherent to the teachings of the legendary jade dragon, Cassiopeia keeps its archaic rituals secret and the beast's true nature shrouded in mystery. In recognition she has been granted a fragment of the creature's power, and awaits the day when it will drown the world in evil.
+Karen Strassman
+Joshua 'HUGEnFAST' Brian Smith
+Lunar Revel
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Eternum
+View in 3D
+1350
+20.09.2017
+In a world overrun by alien machines, this one seems especially intrigued by your presence. Its lithe, metal form slides toward you, begging for your attention. You take one look, and—
+Karen Strassman
+Jennifer Wuestling
+Eternum
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Spirit Blossom
+View in 3D
+1350
+06.08.2020
+Rumored to have once been a beautiful princess, legend says Cassiopeia vanished into the mountains when her sister staged a coup, never to return. So great was her beauty, and so renowned her cunning, that a shrine was built to honor this 'spirit of temptation', until her story was accepted into popular folklore.
+Karen Strassman
+Clare Wong, West Studio
+Spirit Blossom
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Spirit Blossom Cassiopeia Chromas
+Citrine
+Night Blossom
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Coven
+View in 3D
+1350
+12.08.2021
+They came to Cassiopeia as a shadow within the fog—the shape of the Silver Cobra, slithering up from the numberless graves of the ancient dead. She now stalks the ruling families of humankind, her sculpture garden full of wayward souls who strayed too far from the safety of castle walls, now eternally frozen in the throes of terror.
+Karen Strassman
+Julia Yurtsev
+Coven
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Coven Cassiopeia Chromas
+Catseye
+Dark Ritual
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Bewitching
+View in 3D
+1350
+20.10.2022
+Cassiopeia found herself on the receiving end of a potion gone wrong when a venomous viper slithered into her bubbling cauldron. No longer able to ride her broom, she skulks about the party, hoping to catch the eyes of unsuspecting socialites. With the tail of a snake came… its appetite.
+Karen Strassman
+Silvia Meiliani, Caravan Studio
+Bewitching
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Bewitching Cassiopeia Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Patch history
+For the expanded patch notes, see
+here
+.
+V14.16
+Twin Fang
+Bug Fix:
+Heal is now properly reduced against monsters.
+V14.15
+Stats
+Base mana increased to 400 from 350.
+Mana growth reduced to 40 from 60.
+Noxious Blast
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 50 / 60 / 70 / 80 / 90.
+AP ratio per tick reduced to
+10% AP
+from
+12.
+857142857143
+% AP
+.
+Total AP ratio reduced to
+70% AP
+from
+90% AP
+.
+Miasma
+Mana cost reduced to 70 / 75 / 80 / 85 / 90 from 70 / 80 / 90 / 100 / 110.
+Twin Fang
+Mana cost reduced to 40 at all ranks from 50 / 48 / 46 / 44 / 42.
+Poison bonus AP ratio reduced to
+55% AP
+from
+60% AP
+.
+V14.10
+General
+Magical Footwear
+is now replaced by
+Cash Back
+instead of
+Triple Tonic
+.
+V13.22
+Stats
+Basic attack missile speed increased to 1500 from 1200.
+V12.23
+General
+Bug Fix:
+Basic attack hit VFX are now properly visible.
+V12.10
+Stats
+Base health increased to 630 from 560.
+Health growth increased to 104 from 90.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Twin Fang
+Heal AP ratio reduced to
+10 / 11.
+5
+/ 13 / 14.
+5
+/ 16% AP
+from
+12 / 14 / 16 / 18 / 20% AP
+.
+V11.15
+Twin Fang
+Bonus base damage increased to 20 / 40 / 60 / 80 / 100 from 10 / 30 / 50 / 70 / 90.
+V11.14
+Miasma
+Undocumented/Bug fix:
+Grounded debuff can once again be cleansed by
+Olaf's
+Ragnarok
+.
+V11.13
+Miasma
+Bug Fix:
+Grounded debuff is now non-dispellable.
+This prevents the debuff from being briefly removed by
+cleanses
+even while the player remains in the AoE.
+Because of this,
+Olaf's
+Ragnarok
+fails to dispell and become immune to the effect for the remaining duration unless he leaves and reenters it.
+(bug)
+V11.8
+Twin Fang
+Mana cost reduced to 50 / 48 / 46 / 44 / 42 from 50 at all ranks.
+V10.23
+Stats
+Mana growth increased to 60 from 40.
+V10.13
+Stats
+Base magic resistance reduced to 32 from 34.
+V10.12
+Stats
+Base health reduced to 560 from 575.
+Base armor reduced to 18 from 20.
+Base magic resistance increased to 34 from 30.
+V10.11
+General
+Updated visual effects.
+Noxious Blast
+Updated the smoke particles on her base skin to more accurately stay within the actual range of the ability.
+Twin Fang
+Enemy champions that are Poisoned will have a fang icon over their head to indicate that they will receive bonus damage from it.
+Petrifying Gaze
+Updated on all skins with a decal at the edge of her hitbox, more clearly showing the area affected.
+V10.9
+General
+New voice lines from Ascension added.
+V10.2
+Twin Fang
+Bug Fix:
+Heals for the proper amount on large monsters.
+V9.14
+- July 18th Hotfix
+Miasma
+Cooldown increased to 24 / 22 / 20 / 18 / 16 seconds from 24 / 21 / 18 / 15 / 12.
+Twin Fang
+Healing reduced to
+12 / 14 / 16 / 18 / 20% AP
+from
+13 / 16 / 19 / 22 / 25% AP
+.
+V9.14
+General
+New Effect:
+Can now buffer her ability casts.
+Stats
+Base health increased to 575 from 537.
+Health growth increased to 90 from 87.
+Base mana reduced to 350 from 418.
+Mana growth increased to 40 from 31.
+5
+.
+Base armor reduced to 20 from 25.
+Miasma
+Removed:
+No longer has minimum cast range of 500.
+Maximum cast range reduced to 700 from 800.
+Cooldown changed to 24 / 21 / 18 / 15 / 12 seconds from 18 / 17.
+5
+/ 17 / 16.
+5
+/ 16.
+Twin Fang
+New Effect:
+Healing is now only 25% effective against minions and small monsters.
+Healing changed to
+13 / 16 / 19 / 22 / 25% AP
+from
+5 − 22 (based on level)
+(+ 10% AP)
+.
+Mana cost changed to 50 at all ranks from 40 / 45 / 50 / 55 / 60.
+V9.8
+Twin Fang
+Mana cost reduced to 40 / 45 / 50 / 55 / 60 from 40 / 50 / 60 / 70 / 80.
+V9.3
+Noxious Blast
+Total damage reduced to 75 / 110 / 145 / 180 / 215 from 75 / 120 / 165 / 210 / 255.
+AP ratio increased to
+90% AP
+from
+80% AP
+.
+Miasma
+Mana cost increased to 70 / 80 / 90 / 100 / 110 from 70 at all ranks.
+Base damage per second reduced to 20 / 25 / 30 / 35 / 40 from 20 / 30 / 40 / 50 / 60.
+V9.2
+Miasma
+Cooldown increased to 18 / 17.
+5
+/ 17 / 16.
+5
+/ 16 seconds from 18 / 17 / 16 / 15 / 14.
+Base damage per second reduced to 20 / 30 / 40 / 50 / 60 from 20 / 35 / 50 / 65 / 80.
+V8.24b
+Noxious Blast
+Mana cost increased to 50 / 60 / 70 / 80 / 90 from 50 / 55 / 60 / 65 / 70.
+Total base damage reduced to 75 / 120 / 165 / 210 / 255 from 75 / 125 / 175 / 225 / 275.
+V8.14
+Noxious Blast
+Base damage increased to 75 / 125 / 175 / 225 / 275 from 75 / 120 / 165 / 210 / 255.
+AP ratio increased to
+80% AP
+from
+70% AP
+.
+V8.9
+Stats
+Base mana increased to 418 from 334.
+Mana growth reduced to 31.
+5
+from 63.
+Base mana regeneration increased to 8 from 6.
+V8.7
+General
+Bug Fix:
+Now correctly plays the on-hit VFX for her basic attacks.
+V8.3
+Stats
+Base health regeneration reduced to 5.
+5
+from 5.
+69
+.
+V8.2
+Twin Fang
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V8.1
+Jade Fang Cassiopeia
+Petrifying Gaze
+Bug Fix:
+Overlay is no longer overwritten by
+Rylai's Crystal Scepter
+.
+V7.24b
+Noxious Blast
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 60 / 65 / 70 / 75 / 80.
+Twin Fang
+AP ratio increased to
+60% AP
+from
+50% AP
+.
+V7.22
+Stats
+Base health increased to 537 from 525.
+Health growth increased to 87 from 75.
+V7.18
+Twin Fang
+Poisoned bonus magic damage reduced to 10 / 30 / 50 / 70 / 90 from 15 / 40 / 65 / 90 / 115.
+Poisoned AP ratio increased to
+50% AP
+from
+40% AP
+.
+V7.17
+General
+Bug Fix:
+Fixed a bug where, when playing with a skin, her portrait would revert to her base portrait while dead.
+V7.16
+Stats
+Base mana reduced to 334 from 375.
+Mana growth increased to 63 from 60.
+Twin Fang
+Base damage against poisoned targets changed to 15 / 40 / 65 / 90 / 115 from 10 / 40 / 70 / 100 / 130.
+AP ratio against poisoned targets increased to
+40% AP
+from
+35% AP
+.
+V7.15
+General
+Bug Fix:
+Now correctly plays her spell effort voiceover.
+V7.10
+General
+New Effect:
+Tail now follows her realistically as she moves and turns.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.5
+Twin Fang
+Bug Fix:
+Casting it now respects stop and hold commands for her movement queueing.
+V7.4
+General
+New Effect:
+Tail now follows her realistically as she moves and turns.
+Petrifying Gaze
+Bug Fix:
+Flashing during
+Petrifying Gaze's
+cast time no longer resets the direction the cone fires in. It now consistently fires in the direction
+Cassiopeia
+faced before Flashing. This addresses a bug that sometimes caused
+Petrifying Gaze's
+visuals to not line up with the actual effect.
+V6.22
+General
+Bug Fix:
+Now properly plays VO lines when placing wards.
+V6.19
+Miasma
+Maximum range reduced to 800 from 900.
+Twin Fang
+Base heal changed to
+5 − 22 (based on level)
+from 5 / 10 / 15 / 20 / 25.
+V6.11
+Noxious Blast
+Bug Fix:
+Range indicator has been extended to match its cast range.
+Miasma
+Bug Fix:
+Champion standing in
+Miasma
+can no longer dash using the second cast of
+Mark / Dash
+.
+V6.10
+Noxious Blast
+Cast range increased to 850 from 750.
+Movement speed bonus takes longer to decay.
+Poisoned
+particle's size has been increased.
+Miasma
+Cooldown reduced to 18 / 17 / 16 / 15 / 14 seconds from 22 / 20 / 18 / 16 / 14.
+Minimum cast range reduced to 500 from 550.
+Maximum cast range increased to 900 from 800.
+New Effect:
+No longer stops on terrain hit.
+Bug Fix:
+Fixed a number of interactions with
+Grounded
+debuff.
+V6.9
+May 9th hotfix
+Twin Fang
+Cooldown reduced to 0.
+75
+seconds from 0.9.
+Mana cost reduced to 40 / 50 / 60 / 70 / 80 from 60 / 65 / 70 / 75 / 80.
+Cast range increased to 700(from Cassiopeia's hitbox center to her opponent's.) from 550(from Cassiopeia's hitbox edge to her opponent's). Overall, slight increase against small targets and slight decrease against large targets.
+V6.9
+General
+New ability icons.
+Stats
+Movement speed reduced to 328 from 335.
+Base health increased to 525 from 506.
+Base mana increased to 375 from 370.
+Base armor increased to 25 from 22.22.
+Armor growth reduced to 3.5 from 4.
+Base mana regen reduced to 8 from 8.
+36
+.
+Mana regen growth increased to 0.
+8
+from 7.
+5
+.
+Base health regen increased to 6 from 5.
+4
+.
+Base attack damage increased to 53 from 52.
+3
+.
+Attack damage growth reduced to 3 from 3.
+2
+.
+Serpentine Grace
+(Innate)
+New Innate:
+Cassiopeia
+cannot purchase
+Boots
+and instead gains 4 Movement speed per level (
+332 − 400 (based on level)
+).
+Noxious Blast
+Base damage increased to 75 / 120 / 165 / 210 / 255 from 75 / 115 / 155 / 195 / 235.
+AP ratio increased to
+70% AP
+from
+45% AP
+.
+Cooldown reduced to 3.
+5
+seconds from 4.
+Mana cost increased to 60 / 65 / 70 / 75 / 80 from 40 / 50 / 60 / 70 / 80.
+Movement speed bonus increased to 30 / 35 / 40 / 45 / 50% from 20% at all ranks.
+New Effect:
+Movement speed now decays over the duration.
+Miasma
+New Active:
+Cassiopeia spits eight bolts of venom forward 550 - 800 units over an arched area, leaving toxic clouds where they hit the ground or terrain for 5 seconds. Enemies within the clouds take 20 / 35 / 50 / 65 / 80
+(+ 15% AP)
+magic damage per second and are afflicted with
+Debilitating Poison
+,
+slowing
+them by 40 / 50 / 60 / 70 / 80% and
+grounding
+them.
+New Effect:
+Slow now decays over time.
+Mana costs: 70 mana
+Cooldown: 22 / 20 / 18 / 16 / 14 seconds
+Twin Fang
+Base damage changed to
+52 − 120 (based on level)
+from 55 / 80 / 105 / 130 / 155.
+AP ratio reduced to
+10% AP
+from
+55% AP
+.
+Cooldown reduced to 0.
+9
+seconds from 5.
+Mana cost changed to 60 / 65 / 70 / 75 / 80 from 50 / 60 / 70 / 80 / 90.
+Mana refund reduced to 60 / 65 / 70 / 75 / 80 from 50 / 60 / 70 / 80 / 90
+(+ 1.
+5
+% maximum mana)
+.
+Removed:
+Cooldown reset versus
+poisoned
+targets.
+New Effect:
+Now deals 10 / 40 / 70 / 100 / 130
+(+ 35% AP)
+bonus damage and restores 5 / 10 / 15 / 20 / 25
+(+ 10% AP)
+health versus
+poisoned
+targets.
+Petrifying Gaze
+Slow
+reduced to 40% from 60%
+Trivia
+Cassiopeia was the last champion released in 2010 as well as the third one to feature an '
+Art Spotlight
+' (hers in particular shows how her taunt was animated).
+Cassiopeia's basic attack particles were snakes at release, as seen in
+her
+Champion Spotlight
+.
+Cassiopeia -
+Katarina
+is one of seven pairs of sibling champions (the others being
+Kayle
+-
+Morgana
+,
+Garen
+-
+Lux
+,
+Nasus
+-
+Renekton
+,
+Yasuo
+-
+Yone
+,
+Darius
+-
+Draven
+, and
+Vi
+-
+Jinx
+).
+Though not a pair,
+Anivia
+,
+Ornn
+, and
+Volibear
+are also siblings.
+Twin Fang
+directly benefits from allied poison abilities in the same fashion
+Last Breath
+does with displacement ones.
+Her name's first element derives from Hebrew קְצִיעָה‏
+qeṣiah
+cassia
+:
+Possibly from Semitic root
+K-S
+"cut", as the barks were scrapped from the tree's trunk;
+Or borrowed from Old Chinese 桂
+*kʷeːs
+(> Mandarin
+guì
+/kʷei̯˥˩/) "
+osmanthus fragrans
+", by spice-merchants who imported the barks;
+the suffix
+-opeia
+is etymologically uncertain.
+The inspiration for Cassiopeia comes from mainly three sources:
+Greek mythology
+She shares names with
+the eponymous constellation
+charted by
+Ptolemy
+as well as
+the eponymous queen
+from
+Greek Mythology
+.
+Miasma
+references
+the eponymous mythical disease
+.
+She resembles a
+Gorgon
+(with
+Petrifying Gaze
+and her death animation referencing
+Medusa
+) as well as a
+Drakaina
+.
+Hellenised Ptolemaic Egypt
+Her seductress background references
+Cleopatra VII
+.
+Hers is the
+the Belly Dance.
+Indian
+Nāgini
+.
+See also
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Battlemage
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Battlemages
+(also known as Warlocks) get into the middle of the fray, seeking to wreak havoc upon the entire enemy team with their overwhelming sustained area damage. Due to their relatively short (but not melee) combat ranges and the need to burn down their opponents over time, Battle Mages have significant defensive capabilities that range from sustaining endlessly to literally defying death for a short period of time.
+Examples
+Rumble
+Swain
+Vladimir
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Poison
+Poison
+is the buff type for few select debuffs.
+Cassiopeia's
+Twin Fang
+has additional effects if it is cast on a
+poisoned
+target.
+The following inflict
+poison
+:
+Cassiopeia's
+Noxious Blast
+and
+Miasma
+Singed's
+Poison Trail
+Teemo's
+Toxic Shot
+and
+Noxious Trap
+Twitch's
+Deadly Venom
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Persistent area damage
+Persistent area damage
+is technically not a separate type of damage, but rather a hybrid classification that is applied to some spells.
+In situations where
+persistent damage
+and
+area damage
+would have conflicting outputs, the conflict is resolved by choosing the weakest possible outcome.
+Physical vamp
+and
+Spell vamp
+(where applicable) heals with one-third effectiveness, as with
+area damage
+.
+Arcane Comet's
+cooldown is reduced by 5%, as with
+persistent damage
+, per target affected.
+Counter Strike
+reduces the damage dealt by 25%, as with
+area damage
+.
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Ground
+A unit that is
+grounded
+is unable to activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Grounded
+units can still be displaced.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Ground
+is the only type of
+crowd control
+that is most commonly found in persistent area of effects, which will reapply the status effect continuously.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Ground
+A unit that is
+grounded
+is unable to activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Grounded
+units can still be displaced.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Ground
+is the only type of
+crowd control
+that is most commonly found in persistent area of effects, which will reapply the status effect continuously.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Cleanse
+A unit that is
+cleansed
+has all applicable
+crowd control
+status effects removed.
+Due to the nature of the
+cleanse
+interaction, cleansing abilities and effects remain castable in circumstances that would otherwise inhibit casting, unless special-cased.
+"
+Cleanse
+" does not always refer to the act of removing
+all
+crowd control effects, some sources would specify only one or a few types of crowd control.
+A
+cleanse
+does not remove
+Stasis
+, but will remove the disable portion of
+Airborne
+.
+League of Legends content
+Ragnarok
+COOLDOWN:
+100 / 90 / 80
+Passive:
+Olaf
+gains
+bonus
+armor
+and
+bonus
+magic resist
+.
+Active:
+Olaf
+becomes enraged for a short time,
+cleansing
+himself and becoming
+cc-immune
+, as well as gaining
+bonus
+attack damage
+and increased
+size
+. For a brief moment, he gains
+bonus
+movement speed
+while facing nearby enemy
+champions
+.
+Ragnarok's
+duration can be extended by hitting
+basic attacks
+and
+Reckless Swing
+against an enemy
+champion
+.
+Cc-immunity
+:
+Crowd control
+cannot be applied during this time.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Wind Wall
+COOLDOWN:
+25 / 23 / 21 / 19 / 17
+Active:
+Yasuo
+raises a wind wall that drifts in the target direction for a few seconds, blocking all enemy
+projectiles
+that hit it.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Noxious Blast
+COOLDOWN:
+3.
+5
+Active:
+Cassiopeia
+blasts an area with
+Poison
+after a brief delay, dealing
+magic damage
+over time to enemies hit.
+She gains
+bonus
+movement speed
+if she hits an enemy
+champion
+.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Death Lotus
+COOLDOWN:
+75 / 60 / 45
+Active:
+Katarina
+channels
+for a short time, rapidly throwing a flurry of daggers to up to 3 of the closest nearby enemy champions.
+Each dagger deals
+physical damage
+and
+magic damage
+, applies
+on-attack
+and
+on-hit
+effects, and inflicts
+Grievous Wounds
+on the target.
+A nearby enemy champion is required to cast this ability.
+League of Legends content
+Judgment
+COOLDOWN:
+9
+Active:
+Garen
+rapidly spins with his sword for a short time, continually dealing
+physical damage
+to nearby enemies. He spins more based on his
+bonus
+attack speed
+.
+The nearest enemy is dealt increased damage. Enemy
+champions
+hit by enough spins will have
+reduced armor
+.
+Recast:
+Judgment
+is ended early, with the cooldown
+reduced
+by its remaining duration.
+League of Legends content
+The Culling
+COOLDOWN:
+110 / 100 / 90
+Active:
+Lucian
+channels
+for a few seconds to rapidly fire a torrent of bullets in the target direction. Each shot deals
+physical damage
+to the first enemy hit.
+The Culling
+can be recast within the duration.
+While channeling,
+Lucian
+is
+ghosted
+and may still move.
+Recast:
+Lucian
+ends
+The Culling
+.
+League of Legends content
+Twin Fang
+COOLDOWN:
+0.
+75
+Active:
+Cassiopeia
+launches an attack at the target enemy that deals
+magic damage
+. If this attack kills the target, the
+mana cost
+is refunded.
+Against a
+poisoned
+target, the attack deals increased damage and
+heals
+her.
+References
+↑
+Cassiopeia's profile page
+at
+LeagueOfLegends.com

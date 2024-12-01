@@ -1,0 +1,2461 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Jarvan IV
+the Exemplar of Demacia
+Release date
+2011-03-01
+Last changed
+V14.18
+Class(es)
+Diver
+Legacy
+Fighter
+Tank
+Position(s)
+Jungle
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+2
+Toughness
+2
+Control
+2
+Mobility
+2
+Utility
+2
+Style
+Difficulty
+Jarvan IV
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+JarvanIV
+Base statistics
+Edit
+Health
+640
++104
+Mana
+300
++55
+Health regen. (per 5s)
+8
++0.7
+Mana regen. (per 5s)
+6.5
++0.45
+Armor
+36
++5.2
+Attack damage
+64
++3
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+340
+Attack range
+175
+Attack speed
+Base AS
+0.658
+Attack windup
+17.544%
+AS ratio
+N/A
+Bonus AS
++2.5
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+125
+Pathing radius
+35
+Acq. radius
+600
+Special statistics
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Martial Cadence
+TARGET IMMUNITY
+:
+6 / 5 / 4 / 3 (based on level)
+Innate:
+Jarvan IV's
+basic attacks deal
+bonus
+physical damage
+equal to a portion of the
+target's
+current
+health
+. This effect cannot occur on the same target more than once every few seconds.
+Innate:
+Jarvan IV's
+basic attacks
+are empowered to deal
+bonus
+physical damage
+equal to
+8% of the target's
+current
+health
+, with a minimum threshold of 20 and capped at 400 against non-
+champion
+targets.
+This effect cannot occur on the same target more than once every few seconds.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+Physical
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Martial Cadence's
+damage is based on the current health of the target before any damage of the attack has been dealt.
+Martial Cadence's
+damage is dealt after the main attack damage.
+If the target dies to the main attack damage, the additional damage will not be dealt.
+The empowered attack will not trigger against
+structures
+.
+Edit
+Dragon Strike
+COST:
+45 / 50 / 55 / 60 / 65 Mana
+COOLDOWN:
+10 / 9 / 8 / 7 / 6
+CAST TIME:
+0.
+4
+RANGE:
+65
+-
+785
+/
+0
+-
+850
+COLLISION RADIUS:
+180
+WIDTH:
+136
+/
+300
+Active:
+Jarvan IV
+extends his lance in the target direction, dealing
+physical damage
+enemies hit and
+reducing their armor
+for a short time. If the lance connects with a deployed
+Demacian Standard
+, he will
+dash
+to its location,
+knocking up
+enemies he passes by.
+Active:
+Jarvan IV
+extends his lance in the target direction, dealing
+physical damage
+to enemies hit and inflicting them with
+armor reduction
+for 3 seconds.
+Physical Damage:
+80 / 120 / 160 / 200 / 240
+(+ 140%
+bonus
+AD)
+Armor Reduction:
+10 / 14 / 18 / 22 / 26% of target's armor
+If the lance connects with a deployed
+Demacian Standard
+,
+Jarvan IV
+dashes
+to its location,
+knocking up
+nearby enemies around him and along his path for 0.
+75
+seconds.
+Jarvan IV
+can cast any of his
+abilities
+during the dash.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Grounded
+Not Disabled
+Knockdown
+Interrupted
+The armor reduction is applied after the damage. The damage dealt does not benefit from it in this case.
+This ability will cast from wherever the caster is at the end of the cast time.
+Dragon Strike
+will still pull
+Jarvan IV
+to
+Demacian Standard
+even if he is
+immobilized
+or
+grounded
+.
+Flash
+will interrupt the
+dash
+to a
+Demacian Standard
+but
+Jarvan IV
+will still
+knock up
+and damage enemies he comes in contact with at the new location.
+Casting
+Flash
+right before the
+dash
+begins will cause
+Jarvan IV
+to be pulled to the flag from the new position.
+Enemies already hit by
+Dragon Strike
+cannot be affected more than once.
+The
+knockup
+also slightly moves the target, landing 50-100 units in a random direction.
+Edit
+Golden Aegis
+COST:
+30 Mana
+COOLDOWN:
+9
+CAST TIME:
+none
+EFFECT RADIUS:
+600
+Active:
+Jarvan IV
+slows
+nearby enemies for a short time. He will also
+shield
+himself for a few seconds, with the strength increased if he hit more enemy
+champions
+.
+Active:
+Jarvan IV
+slows
+all nearby enemies for 2 seconds.
+Slow:
+15 / 20 / 25 / 30 / 35%
+Jarvan IV
+also grants himself a
+shield
+for 4 seconds, increased by
+1.
+3
+% of his
+maximum
+health
+for each enemy
+champion
+hit by
+Golden Aegis
+.
+Shield Strength:
+60 / 80 / 100 / 120 / 140
+(+ 70%
+bonus
+AD)
+Info
+Targeting input
+Auto
+Damage type
+Type
+Counters
+Spell shield
+Blocked
+Golden Aegis'
+detonation triggers in-
+combat
+effects by dealing 0
+proc
+true damage
+, such as drawing turret aggro,
+Sudden Impact
+and applying
+Elixir of Sorcery
+.
+Edit
+Demacian Standard
+COST:
+55 Mana
+COOLDOWN:
+12 / 11.
+5
+/ 11 / 10.
+5
+/ 10
+CAST TIME:
+none
+TARGET RANGE:
+860
+EFFECT RADIUS:
+200
+/
+1000
+/
+700
+Passive:
+Jarvan IV
+gains
+bonus
+attack speed
+.
+Active:
+Jarvan IV
+plants a flag at the target location that deals
+magic damage
+to nearby enemies. The flag lingers for a period, emitting an aura that grants
+bonus
+attack speed
+to
+Jarvan
+and allied champions.
+Passive:
+Jarvan IV
+gains
+bonus
+attack speed
+.
+Bonus Attack Speed:
+20 / 22.
+5
+/ 25 / 27.
+5
+/ 30%
+Active:
+Jarvan IV
+throws a Demacian flag to the target location, dealing
+magic damage
+to enemies within the area.
+Magic Damage:
+80 / 120 / 160 / 200 / 240
+(+ 80% AP)
+The flag then remains for 8 seconds, granting
+sight
+of its surroundings and providing an
+aura
+that grants
+Demacian Standard's
+passive
+bonus
+attack speed
+to all nearby allied champions as well as
+Jarvan IV
+himself
+.
+Demacian Standard will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+The attack speed granted from a deployed
+Demacian Standard
+stacks additively
+with
+Demacian Standard's
+passive permanent bonus attack speed to
+Jarvan
+, but the aura from multiple
+Demacian Standards
+does not stack.
+The flag has a 13.
+6
+pathing radius
+and a 65
+gameplay radius
+.
+The gameplay radius matters to
+Dragon Strike
+.
+Demacian Standard
+can be targeted by allied abilities (
+Teleport
+,
+Safeguard
+). The target type is the same as a
+minion
+.
+Demacian Standard
+is
+untargetable
+to enemies.
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio changed to
+100% AP
+.
+Edit
+Cataclysm
+COST:
+100 Mana
+COOLDOWN
+:
+120 / 105 / 90
+CAST TIME:
+none
+TARGET RANGE:
+650
+EFFECT RADIUS:
+350
+/
+1700
+SPEED:
+Varies
+Impassable perimeter:
+255
+to
+445
+Active:
+Jarvan IV
+leaps
+Unstoppably
+to the target enemy champion's location, dealing
+physical damage
+to nearby enemies upon impact. He then erects a circle of
+terrain
+that lasts for a short time.
+Recast:
+Jarvan IV
+destroys the created terrain.
+Active:
+Jarvan IV
+leaps
+with
+displacement immunity
+to the target enemy champion's location over 0.
+35
+seconds, dealing
+physical damage
+to all nearby enemies upon arrival.
+Physical Damage:
+200 / 325 / 450
+(+ 180%
+bonus
+AD)
+Upon impact, he creates a circle of impassable terrain that
+knocks aside
+enemies within the perimeter over 0.
+15
+seconds, knocking them out of the circle if they are on the outer edge and pulling them in otherwise. The terrain lasts for 3.
+5
+seconds and grants
+sight
+of the area.
+Cataclysm
+can be recast after 0.
+75
+seconds while the terrain is present.
+Recast:
+Jarvan IV
+destroys the terrain created by
+Cataclysm
+.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Not Interrupted
+The initial cast and the manual recast count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+If the ability is not manually recasted, the secondary effect will trigger without being considered as an ability activation.
+Cataclysm
+will not deal damage, generate terrain, nor refund its cooldown if
+Jarvan IV
+is killed while
+leaping
+.
+The perimeter is made up of 24 units with 95
+pathing radius
+, 65
+gameplay radius
+and 1350
+sight
+radius each. Only every other unit is rendered visible.
+Searing Charge
+will not destroy the whole ring but only the part that
+Ornn
+collides with.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Jarvan IV (Collection)
+.
+Original
+View in 3D
+880
+01.03.2011
+Prince Jarvan, scion of the Lightshield dynasty, is heir apparent to the throne of Demacia. Raised to be a paragon of his nation’s greatest virtues, he is forced to balance the heavy expectations placed upon him with his own desire to fight on the front lines. Jarvan inspires his troops with his fearsome courage and selfless determination, raising his family’s colors high and revealing his true strength as a future leader of his people.
+Kyle Hebert
+Jason Chan
+Loot eligible
+Commando
+View in 3D
+520
+01.03.2011
+Yes, those are guns strapped to Jarvan's arms and legs. No, he can't shoot them.
+Kyle Hebert
+Zhang Ji
+Commando
+Loot eligible
+Dragonslayer
+View in 3D
+750
+01.03.2011
+All are accepted into the ranks of the dragonslayers, from the lowliest peasant to the mightiest king, for dragons would devour all equally. Jarvan IV willingly gave up the throne to join his doomed countrymen and stand against the fury of monsters reborn.
+Kyle Hebert
+Unknown artist
+Dragon World
+Loot eligible
+Darkforge
+View in 3D
+975
+26.07.2011
+Kyle Hebert
+Unknown artist
+Legacy
+Loot eligible
+Victorious
+View in 3D
+Special
+14.09.2011
+Victorious Jarvan IV was awarded to players who reached Gold or higher in the 2011 season. As the first Victorious skin ever released, Jarvan shines in silver armor with a flashy gold trim.
+Kyle Hebert
+Andrew 'Silver' Silver
+Victorious
+Loot ineligible
+New SFX/VFX
+Warring Kingdoms
+View in 3D
+1350
+08.02.2013
+A fabled warrior of peerless might, Jarvan IV strides across the Warring Kingdoms seeking only the worthiest opponents. All others careless enough to face him are crushed without mercy, the earth erupting beneath his immeasurable strength.
+Kyle Hebert
+Unknown artist
+Lunar Revel: Warring Kingdoms
+Loot eligible
+Additional/unique quotes
+New SFX/VFX
+Chromas
+Warring Kingdoms Jarvan IV Chromas
+Golden
+Fnatic
+View in 3D
+750
+24.09.2014
+Honoring Cyanide's winning performance as Jarvan IV during the 2011 World Championship.
+Kyle Hebert
+Unknown artist
+World Champions: 2011
+Loot eligible
+Legacy
+Dark Star
+View in 3D
+1350
+01.03.2018
+A mortal emperor unbound by the destruction of his world, Jarvan's essence has since been reforged by the ageless energies of deep space. His humanity and his people now lost forever, he stands ready to welcome the Dark Star incursion, in the final subjugation of all existence.
+Kyle Hebert
+Jojo So
+Dark Star
+Loot eligible
+Voice filter
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dark Star Jarvan IV Chromas
+Antimatter
+SSG
+View in 3D
+1350
+20.07.2018
+Honoring Ambition's winning performance as Jarvan IV during the 2017 World Championship.
+Kyle Hebert
+Rudy Siswanto, Pan Chengwei
+World Champions: 2017
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Hextech
+View in 3D
+Special
+04.04.2019
+The Hextech Renaissance appealed not only to those with backgrounds in science, but also to those looking for an escape from their day-to-day lives. For the young Prince Jarvan, it presented the chance to enhance his martial skill—with technology that would have never been accepted within his father's kingdom.
+Kyle Hebert
+Maki Planas Mata
+Hextech
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Pool Party
+View in 3D
+1350
+02.07.2020
+For Jarvan, there's nothing more relaxing than hanging out at the beach. No kingdoms to run, no thrones to sit on (save for his favorite beach chair), just the sound of the waves and, if he listens closely, the faint whistle of a volleyball being spiked directly at him...
+Kyle Hebert
+West Studio
+Pool Party
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Pool Party Jarvan IV Chromas
+Amethyst
+Aquamarine
+Emerald
+Obsidian
+Pearl
+Peridot
+Rose Quartz
+Ruby
+Lunar Beast
+View in 3D
+1350
+04.02.2021
+Jarvan IV's stubborn refusal to join Ox Clan only relented to his father's stubborn insistence. Though he tries his best to shirk the celebrity status that comes with the role, Jarvan comes from a long line of philanthropists, and has found himself caught up in the thrill of bringing businesslike efficiency to the biggest community event of the year.
+Kyle Hebert
+Ina Wong, West Studio
+Lunar Beast
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Lunar Beast Jarvan IV Chromas
+Amethyst
+Catseye
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Vitality
+Worlds 2021
+View in 3D
+1350
+23.09.2021
+Celebrating Worlds 2021 in Reykjavík.
+Kyle Hebert
+Yan Kyohara, West Studio
+World Championship
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Worlds 2021 Jarvan IV Chromas
+Amethyst
+Aquamarine
+Catseye
+MAKE/BREAK
+Nightbringer
+View in 3D
+1350
+20.04.2023
+Jarvan is the magnetism of chaos made real. Like the eye of a hurricane, his destruction inevitably sweeps up anyone and anything in his path. To him, chaos is the forge from which true gods are made, and only those that survive the war will be worthy to live in the new age of creation that follows.
+Kyle Hebert
+Bo 'chenbowow' Chen
+Nightbringer and Dawnbringer
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Nightbringer Jarvan IV Chromas
+Amethyst
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.18
+Martial Cadence
+Health ratio increased to
+8% of target's
+current
+health
+from
+7%
+.
+V14.10
+Martial Cadence
+Damage cap no longer applies to champions.
+V14.8
+Martial Cadence
+Health ratio increased to
+7% of target's
+current
+health
+from
+6%
+.
+V14.5
+Stats
+Armor growth increased to 5.
+2
+from 4.
+8
+.
+Dragon Strike
+Cooldown reduced to 10 / 9 / 8 / 7 / 6 seconds from 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8.
+V14.1
+Cataclysm
+Minimum recast time reduced to 0.
+75
+seconds from 1.
+V13.23
+Dragon Strike
+Cooldown increased to 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8 seconds from 10 / 9 / 8 / 7 / 6.
+V13.18
+General
+Updated ability icons.
+Martial Cadence
+Health ratio reduced to
+6% of target's
+current
+health
+from
+8%
+.
+Cataclysm
+Bug Fix:
+Summoned terrain now applies
+airborne
+to enemies knocked by being within the parameters.
+V13.10
+Cataclysm
+Bug Fix:
+Casting it on an enemy
+Neeko's
+Clone
+as it finishes its
+Recall
+no longer leaves unrendered minions behind.
+V13.9
+Cataclysm
+Bug Fix:
+No longer plays a voice line for recasting the ability.
+V13.8
+Stats
+Attack damage growth reduced to 3 from 3.
+4
+.
+Dragon Strike
+Base damage reduced to 80 / 120 / 160 / 200 / 240 from 90 / 130 / 170 / 210 / 250.
+Lunar Beast
+Dragon Strike
+Bug Fix:
+Now properly holds the spear during the ability's cast animation.
+Worlds 2021 Jarvan IV
+Dragon Strike
+Bug Fix:
+Now properly holds the spear during the ability's cast animation.
+Bug Fix:
+Left pauldron no longer rotates unnaturally after using the ability.
+Fnatic Jarvan IV
+Demacian Standard
+Bug Fix:
+Animation of flag raising up and falling down has been restored.
+V13.4
+Golden Aegis
+Cooldown increased to 9 seconds from 8.
+Bonus AD ratio reduced to
+70%
+bonus
+AD
+from
+80%
+.
+Bug Fix:
+Shield values in the tooltip now properly take into account the bonus AD scaling.
+V13.3
+Stats
+Base armor increased to 36 from 34.
+Golden Aegis
+Cooldown reduced to 8 seconds from 9.
+Shield duration reduced to 4 seconds from 5.
+New Effect:
+Shield now scales with
+80%
+bonus
+AD
+.
+V12.14
+Dragon Strike
+Bonus AD ratio increased to
+140%
+bonus
+AD
+from
+120%
+.
+Golden Aegis
+Bug Fix:
+Tooltip now displays accurate information.
+Demacian Standard
+Cooldown reduced to 12 / 11.
+5
+/ 11 / 10.
+5
+/ 10 seconds from 12 at all ranks.
+V12.12
+Stats
+Mana growth increased to 55 to 40.
+Martial Cadence
+On-target cooldown reduced to
+6 / 5 / 4 / 3 (based on level)
+seconds from 6 at all levels.
+V12.10
+Stats
+Base health increased to 640 from 570.
+Health growth increased to 104 from 90.
+Armor growth increased to 4.
+8
+from 3.
+6
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Golden Aegis
+Base shield reduced to 60 / 80 / 100 / 120 / 140 from 60 / 85 / 110 / 135 / 160.
+Health ratio per champion hit reduced to
+1.
+3
+%
+maximum
+health
+from
+1.
+5
+%
+.
+V11.20
+Martial Cadence
+Health ratio reduced to
+8% of the target's
+current
+health
+from
+10%
+.
+Worlds 2021 Jarvan IV
+Bug Fix:
+Walls have been fixed to match each of their chromas.
+V11.16
+Martial Cadence
+Health ratio increased to
+10% of the target's
+current
+health
+from
+8%
+.
+Cataclysm
+Bonus AD ratio increased to
+180%
+bonus
+AD
+from
+150%
+.
+V11.12
+Golden Aegis
+Cooldown reduced to 9 seconds from 12.
+V11.8
+Cataclysm
+Bug Fix:
+Fixed a bug where he would be able to leave
+Cataclysm's
+terrain if he activates
+Stridebreaker
+and casts the ability simultaneously.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.18
+Dragon Strike
+Base damage increased to 90 / 130 / 170 / 210 / 250 from 80 / 120 / 160 / 200 / 240.
+V9.13
+- June 27th Hotfix
+Dragon Strike
+Bug Fix:
+Combo with
+Demacian Standard
+now has the proper range.
+V9.13
+- June 26th Hotfix
+Dragon Strike
+Bug Fix:
+Now properly knocks up jungle monsters or minions when he uses his
+Demacian Standard
+and
+Dragon Strike
+combo.
+V9.13
+Dragon Strike
+Combo with
+Demacian Standard
+now more quickly and reliably applies its effects to enemies they hit.
+V9.9
+Stats
+Base health reduced to 570 from 571.
+2
+.
+Base mana reduced to 300 from 302.
+2
+.
+Base mana regeneration reduced to 6.
+5
+from 6.
+756
+.
+Golden Aegis
+Bonus shield per champion reduced to
+1.
+5
+% of his
+Jarvan IV's
+maximum
+health
+at all ranks from
+2 / 2.
+25
+/ 2.
+5
+/ 2.
+75
+/ 3%
+.
+Demacian Standard
+Cooldown increased to 12 seconds from 11.
+V9.7
+Cataclysm
+Bug Fix:
+Cast VO lines no longer plays during its recast.
+V9.2
+Demacian Standard
+Bonus attack speed increased to 20 / 22.
+5
+/ 25 / 27.
+5
+/ 30% from 15 / 17.
+5
+/ 20 / 22.
+5
+/ 25%.
+V9.1
+Martial Cadence
+Bug Fix:
+No longer deals damage through
+Pantheon's
+Aegis Protection
+.
+V8.20
+Martial Cadence
+Bug Fix:
+Fixed a bug where it was dealing less damage than intended when combined with
+Tiamat's
+passive.
+V8.19
+General
+Basic attack and ability visual effects have been updated for base skin and all skins using base VFX.
+Non-VO audio has been updated for base skin and all skins using base SFX.
+Martial Cadence
+New Effect:
+Now has a visual effect indicating its per target cooldown.
+Per-target cooldown reduced to 6 seconds at all levels from
+10 / 8 / 6 (based on level)
+.
+Bug Fix:
+Tiamat
+passive will now consistently work when hitting a target with
+Martial Cadence
+.
+Martial Cadence
+Bug Fix:
+Now properly plays his dunk animation.
+V8.15
+SSG Jarvan IV
+Bug Fix:
+Now properly listed as World Champions: 2017 in the Skins Collections tab.
+V8.14
+General
+Updated mixing and mastering for current SFX.
+V8.13
+Martial Cadence
+New Effect:
+Now does a minimum of 20 damage.
+Demacian Standard
+Cooldown reduced to 11 seconds at all ranks from 13 / 12.
+5
+/ 12 / 11.
+5
+/ 11.
+Base damage increased to 80 / 120 / 160 / 200 / 240 from 60 / 105 / 150 / 195 / 240.
+V8.6
+Dark Star Jarvan IV
+Bug Fix:
+VO processing has been restored.
+V8.5
+Dark Star Jarvan IV
+Bug Fix:
+Recall VFX no longer appear underground when he uses
+Zhonya's Hourglass
+.
+V8.3
+Stats
+Base health regeneration reduced to 8 from 8.
+176
+.
+Base armor reduced to 34 from 38.
+V8.2
+Cataclysm
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V7.24
+Martial Cadence
+Target's current health ratio reduced to
+8% of the target's
+current
+health
+from
+10%
+.
+Dragon Strike
+Base damage reduced to 80 / 120 / 160 / 200 / 240 from 80 / 125 / 170 / 215 / 260.
+V7.22
+Stats
+Base attack damage increased to 64 from 55.
+712
+.
+Base armor increased to 38 from 29.
+Dragon Strike
+Base damage increased to 80 / 125 / 170 / 215 / 260 from 70 / 115 / 160 / 205 / 250.
+V7.19
+Demacian Standard
+Bug Fix:
+Weapon no longer appears beside him when he uses his
+Demacian Standard
+Dragon Strike
+combo.
+V7.18
+Golden Aegis
+Base shield strength reduced to 60 / 85 / 110 / 135 / 160 from 65 / 90 / 115 / 140 / 165.
+Maximum health bonus shield per champion hit reduced to
+2 / 2.
+25
+/ 2.
+5
+/ 2.
+75
+/ 3%
+from
+2 / 2.
+5
+/ 3 / 3.
+5
+/ 4%
+.
+V7.7
+Golden Aegis
+Base shield changed to 65 / 90 / 115 / 140 / 165 from 50 / 80 / 110 / 140 / 170.
+Bonus shield per enemy hit changed to
+2 / 2.
+5
+/ 3 / 3.
+5
+/ 4% of
+Jarvan IV's
+maximum
+health
+from 20 / 40 / 60 / 80 / 100.
+V7.4
+General
+Adjusted splash artwork for
+Fnatic Jarvan IV
+.
+V6.15
+Demacian Standard
+Passive and active attack speed increased to 15 / 17.
+5
+/ 20 / 22.
+5
+/ 25% from 10 / 13 / 16 / 19 / 22%.
+V6.14
+General
+Bug Fix:
+Removed a random pipe that appeared in
+Commando Jarvan IV's
+knee during his walk animation.
+V6.13
+Golden Aegis
+Base shield strength reduced to 50 / 80 / 110 / 140 / 170 from 50 / 90 / 130 / 170 / 210.
+Bonus shield strength increased to 20 / 40 / 60 / 80 / 100 per champion from 20 / 30 / 40 / 50 / 60.
+Radius increased to 600 from 500.
+V6.7
+General
+Splash artwork for
+Dragonslayer Jarvan IV
+updated to the Chinese art.
+V6.5
+Golden Aegis
+Cooldown reduced to 12 seconds at all ranks from 20 / 18 / 16 / 14 / 12.
+Cataclysm
+Mana cost reduced to 100 at all ranks from 100 / 125 / 150.
+New Effect:
+Damage is dealt to both the main target and enemies within the
+Cataclysm
+area.
+Bug Fix:
+Damage from Cataclysm is now properly blocked by spellshields.
+V5.18
+Stats
+Armor increased to 29 from 27.
+Martial Cadence
+Bug Fix:
+Empowered basic attacks sometimes not playing an animation.
+V5.13
+Demacian Standard
+Bug Fix:
+Fixed a bug where the standard could be placed in walls.
+V5.12
+Demacian Standard
+Cooldown reduced to 13 / 12.
+5
+/ 12 / 11.
+5
+/ 11 seconds from 13 at all ranks.
+Removed:
+Obstructing monster unit collision .
+V5.4
+Status
+Base armor increased to 27 from 24.
+Dragon Strike
+Bug Fix:
+Enemies occasionally getting knocked up when walking into Jarvan IV after he finished dashing.
+Demacian Standard
+Removed:
+10 / 13 / 16 / 19 / 22 bonus armor on passive.
+V4.21
+Cataclysm
+Bug Fix:
+Sometimes failed to damage targets if Jarvan IV died even after he landed.
+Killing Jarvan in mid-air still counters the terrain's creation.
+V4.19
+General
+New splash artwork for
+Original Jarvan IV
+.
+V4.15
+Twisted Treeline
+&
+Dominion
+Martial Cadence
+Per-target timer increased to 10 / 9 / 8 seconds from 10 / 8 / 6.
+Dragon Strike
+Armor shred reduced to 10 / 12 / 14 / 16 / 18% from 10 / 14 / 18 / 22 / 26.
+V4.13
+General
+Splash artwork for
+Commando Jarvan IV
+updated to the Chinese art.
+V4.7
+Martial Cadence
+Per-target timer increased to
+10 / 8 / 6 (based on level)
+seconds from 6 at all levels.
+Bonus damage increased to
+10% of target's current health
+at all levels from 6 / 8 / 10%.
+Golden Aegis
+Mana cost reduced to 30 at all ranks from 45 / 50 / 55 / 60 / 65.
+V4.5
+Stats
+Armor increased to 18 from 14.
+Cataclysm
+Wall alignment updated.
+V4.1
+Martial Cadence
+Removed:
+No longer triggers on turrets.
+V3.13
+Dragon Strike
+Knockup
+collision radius reduced to 180 from 260.
+V3.7
+Demacian Standard
+Vision radius reduced to 700 from 850.
+V3.04
+Stats
+Armor per level increased to 3.
+6
+from 3.
+Golden Aegis
+Bonus shield increased to 20 / 30 / 40 / 50 / 60 per champion from 20 / 25 / 30 / 35 / 40.
+Mana cost reduced to 45 / 50 / 55 / 60 / 65 from 65 at all ranks.
+Demacian Standard
+Removed:
+Bonus armor on active.
+V3.02
+Martial Cadence
+Bug Fix:
+Dealing more damage to minions and monsters than intended.
+V1.0.0.152
+Stats
+Movement speed increased to 340 from 315.
+V1.0.0.146
+Demacian Standard
+New Effect:
+When targeting an out-of-range location it will be cast at its maximum range and in said location's direction.
+V1.0.0.139
+General
+Bug Fix:
+Game hitching when using
+Demacian Standard
+for the first time in-game as Commando or Dragonslayer.
+V1.0.0.133
+Cataclysm
+Bug Fix:
+Immediately crumbling when Jarvan IV died.
+V1.0.0.132
+Stats
+Mana per level increased to 40 from 30.
+Golden Aegis
+Mana cost reduced to 65 from 75.
+Demacian Standard
+Mana cost reduced to 55 from 60.
+V1.0.0.130
+Martial Cadence
+Damage type changed to physical from magic.
+Damage changed to
+6 / 8 / 10 (based on level)
+% of target's current health
+from 8% at all levels.
+Removed:
+No longer applies spell effects (
+Rylai's Crystal Scepter
+'s
+Icy
+, spell vamp).
+Demacian Standard
+Hitbox size increased when targeted by
+Dragon Strike
+.
+V1.0.0.125
+General
+Bug Fix:
+Certain skins having inconsistent model sizes.
+Cataclysm
+New Effect:
+Added targeting ring.
+Bug Fix:
+Dealing less damage than intended at Ranks 2 and 3.
+V1.0.0.123
+Dragon Strike
+Bug Fix:
+Fixed a bug where it was reducing target's base armor instead of total armor.
+Cataclysm
+Removed:
+Jarvan will no longer follow the target while he is in the air during the animation.
+New Effect:
+Terrain ring will be created regardless of enemy's targetability.
+New Effect:
+Targets will be slightly more prone to be pushed into the ring when terrain is created, instead of pushed out.
+Bug Fix:
+Being interrupted by displacement abilities (
+Crystallize
+,
+Pillar of Filth
+).
+V1.0.0.121
+Demacian Standard
+Base damage reduced to 60 / 105 / 150 / 195 / 240 from 60 / 110 / 160 / 210 / 260.
+Cooldown increased to 13 seconds from 12.
+Dragon Strike
+Base damage reduced to 70 / 115 / 160 / 205 / 250 from 70 / 120 / 170 / 220 / 270.
+V1.0.0.120
+Martial Cadence
+Bonus damage reduced to
+8% of target's current health
+from 10.
+Demacian Standard
+Bonus armor reduced to 10 / 13 / 16 / 19 / 22 from 10 / 14 / 18 / 22 / 26.
+Bonus attack speed reduced to 10 / 13 / 16 / 19 / 22% from 10 / 14 / 18 / 22 / 26.
+V1.0.0.118
+Dragon Strike
+Cooldown increased to 10 / 9 / 8 / 7 / 6 seconds from 9 / 8 / 7 / 6 / 5.
+Mana cost increased to 45 / 50 / 55 / 60 / 65 from 40 / 45 / 50 / 55 / 60.
+Golden Aegis
+Shield health reduced to 50 / 90 / 130 / 170 / 210 from 50 / 100 / 150 / 200 / 250.
+Cataclysm
+Base damage reduced to 200 / 325 / 450 from 200 / 350 / 500.
+V1.0.0.113
+Golden Aegis
+In-client description updated to clarify it does not trigger automatically.
+V1.0.0.112
+Martial Cadence
+(Innate)
+Jarvan IV exploits his target's opening, dealing 10% of the target's current health as magic damage. This effect cannot occur on the same target for 6 seconds.
+Dragon Strike
+(Q)
+Jarvan IV charges through his opponent, dealing physical damage and lowering their armor by a percentage. This will pull Jarvan IV to a Standard if it encounters one, knocking up all enemies in his path.
+Golden Aegis
+(W)
+Jarvan IV calls upon the ancient kings of Demacia to shield him from harm and slow surrounding enemies.
+Demacian Standard
+(E)
+Passive: Grants Jarvan bonus attack speed and armor.
+Active: Throws a Demacian flag, dealing physical damage and granting passive benefits to nearby allies.
+Cataclysm
+(Ultimate)
+Jarvan IV heroically leaps at his target, dealing physical damage and creating a circle of terrain around them for a few seconds.
+Trivia
+[
+edit
+|
+edit source
+]
+Jarvan IV was first mentioned in
+Urgot's
+lore.
+A tab for Jarvan IV can be faintly seen at the top during
+Maokai's
+Art Spotlight
+.
+In-universe Demacian naming convention does not mirror real-life's European royalty and nobility's naming convention; as the current Jarvan should not have gotten the
+regnal number
+IV
+before his coronation.
+The terrain created by
+Cataclysm
+is made of 24 minions to make sure that no one can squeeze through the wall.
+[2]
+The old visual effects of
+Golden Aegis
+was once made up of little ghosts due being a recolored copy of
+Death's Caress
+.
+[3]
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Diver
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+Divers
+are the more mobile portion of the Fighter class. Divers excel at singling out high-priority targets to blitz toward, immediately forcing those targets (and their teammates) to deal with the diver’s presence. Divers are not as durable as the tanks or juggernauts of the world, but Divers can take their fair share of punishment while bringing enough damage to be a real kill threat if left unchecked.
+Examples
+Hecarim
+Jarvan IV
+Vi
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Demacian Standard
+COOLDOWN:
+12 / 11.
+5
+/ 11 / 10.
+5
+/ 10
+Passive:
+Jarvan IV
+gains
+bonus
+attack speed
+.
+Active:
+Jarvan IV
+plants a flag at the target location that deals
+magic damage
+to nearby enemies.
+The flag lingers for a period, emitting an aura that grants
+bonus
+attack speed
+to
+Jarvan
+and allied champions.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Immobilize
+Immobilized
+units cannot control their movement. The following crowd control effects
+immobilize
+the unit:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Root
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Impaired movement
+is a similar term that, in addition to the above, also refers to units that are
+slowed
+.
+League of Legends content
+Ground
+A unit that is
+grounded
+is unable to activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Grounded
+units can still be displaced.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Ground
+is the only type of
+crowd control
+that is most commonly found in persistent area of effects, which will reapply the status effect continuously.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+True damage
+Applies:
+Corrupting Potion
+Omnivamp
+Mitigated by:
+Damage shields
+Invulnerability
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Stacks additively
+An effect that
+stacks additively
+can be calculated by adding the effects together.
+Most
+champion statistics
+that stack this way are expressed through flat numbers, but the stats can also be percentages. The following stats
+stack additively
+:
+Ability haste
+Ability power
+Armor
+Lethality and flat armor reduction
+Attack damage
+Attack speed
+Critical strike chance
+Critical strike damage
+Heal and shield power
+Health
+Health regeneration
+Life steal
+Magic resistance
+Flat magic penetration and reduction
+Mana
+Mana regeneration
+Omnivamp
+Physical vamp
+League of Legends content
+Dragon Strike
+COOLDOWN:
+10 / 9 / 8 / 7 / 6
+Active:
+Jarvan IV
+extends his lance in the target direction, dealing
+physical damage
+enemies hit and
+reducing their armor
+for a short time.
+If the lance connects with a deployed
+Demacian Standard
+, he will
+dash
+to its location,
+knocking up
+enemies he passes by.
+League of Legends content
+Safeguard
+COOLDOWN:
+12
+Active:
+Lee Sin
+dashes
+to the target allied unit. If the ally is a
+champion
+, both they and
+Lee Sin
+gain a
+shield
+for a short time upon his arrival and
+Safeguard's
+cooldown is
+halved
+.
+Lee Sin
+can
+self-cast
+Safeguard
+to shield himself.
+After
+Safeguard
+is cast,
+Lee Sin
+can cast
+Iron Will
+within a short time.
+Iron Will
+Active:
+Lee Sin
+gains
+life steal
+and
+spell vamp
+for a few seconds.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Displacement immune
+A unit that is
+displacement immune
+is
+immune
+to all
+Airborne
+effects in addition to the following effects:
+Crowd control
+Knockdown
+Suspension
+Kinematics
+Sleep
+Stasis
+Champion abilities
+Ambessa's
+Public Execution
+Mordekaiser's
+Realm of Death
+Skarner's
+Ixtal's Impact
+and
+Impale
+Sett's
+The Show Stopper
+Tahm Kench's
+Devour
+League of Legends content
+Displacement immune
+A unit that is
+displacement immune
+is
+immune
+to all
+Airborne
+effects in addition to the following effects:
+Crowd control
+Knockdown
+Suspension
+Kinematics
+Sleep
+Stasis
+Champion abilities
+Ambessa's
+Public Execution
+Mordekaiser's
+Realm of Death
+Skarner's
+Ixtal's Impact
+and
+Impale
+Sett's
+The Show Stopper
+Tahm Kench's
+Devour
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+References
+[
+edit
+|
+edit source
+]
+↑
+Jarvan IV's profile page
+at
+LeagueOfLegends.com
+↑
+LtRandolph talking about engineering
+↑
+Rabid Llama on J4's Shield

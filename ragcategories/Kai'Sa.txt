@@ -1,0 +1,2712 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Kai'Sa
+Daughter of the Void
+Release date
+2018-03-07
+Last changed
+V14.23
+Class(es)
+Marksman
+Legacy
+Marksman
+Mage
+Position(s)
+Bottom
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+1350
+|
+585
+Crafting
++
+810
+Ratings
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+3
+Utility
+1
+Style
+Difficulty
+Kai'Sa
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Kaisa
+Base statistics
+Edit
+Health
+640
++102
+Mana
+345
++40
+Health regen. (per 5s)
+3.5
++0.55
+Mana regen. (per 5s)
+8.2
++0.7
+Armor
+25
++4.2
+Attack damage
+59
++2.6
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+525
+Attack speed
+Base AS
+0.644
+Attack windup
+16.108%
+AS ratio
+N/A
+Bonus AS
++1.8
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+100
+Pathing radius
+41
+Acq. radius
+800
+Special statistics
+Damage Dealt
++0%
+Damage Received
+-5%
+Total Attack Speed
++2.5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++3%
+Damage Received
++0%
+Damage Dealt
+-10%
+Damage Received
++10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Second Skin
+EFFECT RADIUS:
+2750
+Innate - Living Weapon:
+Kai'Sa
+can permanently evolve each of her basic abilities by obtaining
+attack damage
+,
+ability power
+, and
+attack speed
+, respectively.
+Innate - Plasma:
+Kai'Sa
+applies stacks of
+Plasma
+through basic attacks,
+Void Seeker
+, and allied
+polymorphs
+and
+immobilizing
+effects.
+Innate - Caustic Wounds:
+Applying
+Plasma
+deals an increasing amount of
+magic damage
+. Upon applying the final stack, all stacks are consumed to deal
+additional
+magic damage
+based on the
+target's
+missing
+health
+.
+Innate - Living Weapon:
+Kai'Sa
+can evolve each of her
+basic abilities
+by gaining a set amount of permanent
+stats
+from
+items
+and
+stat growth
+, granting them additional effects. Evolving an ability causes her to enter a 2-second
+cast time
+. The upgrade is lost if the stat requirement is no longer met.
+Innate - Plasma:
+Kai'Sa's
+basic attacks
+on-hit
+and
+Void Seeker
+apply
+stacks
+of
+Plasma
+to enemies for 4 seconds, refreshing on subsequent applications and stacking up to 5 times. Basic attacks each apply 1 stack and
+Void Seeker
+applies 2 stacks, increased to 3 if it is
+evolved
+. Her and nearby allies'
+immobilizing
+effects and
+polymorphs
+against enemy
+champions
+will also apply a stack of
+Plasma
+.
+Innate - Caustic Wounds:
+Plasma
+stacks applied by
+Kai'Sa's
+basic attacks or
+Void Seeker
+deal
+4 − 24 (based on level)
+(+
+1 − 6 (based on level)
+per Plasma stack before application)
+(+
+12% − 24% (based on Plasma stacks before application)
+AP)
+bonus
+magic damage
+. The fifth stack against a target consumes them all to deal
+additional bonus
+magic damage
+equal to
+15%
+(+ 6% per 100 AP)
+of the target's
+missing
+health
+, capped at 400 against
+monsters
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Parries
+Blocked
+Kai'Sa
+receives the evolution even if she dies while in cast time.
+Kai'Sa
+can evolve an ability even if she hasn't learned it yet.
+The bonus missing health damage is evaluated after the initial damage from
+Caustic Wounds
+is evaluated, and after
+Void Seeker's
+damage if triggered by it, but before a triggering basic attack's is.
+This effectively increases the "flat"
+Caustic Wounds
+damage preceding the expunge proc and (if applicable)
+Void Seeker
+damage and any potential preceding on-hit damage (usually not possible to acquire due to buff slot order) by 15%
+(+ 6% per 100 AP)
+divided by (1+
+the target's MR post penetration
+/100).
+Plasma
+stacks that exceed the rupture are reapplied normally.
+Spell shield
+will block the
+Plasma
+application from
+Void Seeker
+only.
+With
+Void Seeker
+, if the stacks detonate
+Plasma
+, any remaining stacks are reapplied afterwards.
+Void Seeker
+also deals
+Caustic Wounds'
+damage based on
+Plasma
+stacks on the target. This damage is calculated as if each stack was applied successively.
+Hitting a target with 0 stack with normal
+Void Seeker
+:
+8 − 48 (based on level)
+(+ 1 − 6 (based on level)
+(+ 27% AP)
+Hitting a target with 3 stacks with normal
+Void Seeker
+:
+8 − 48 (based on level)
+(+ 7 − 42 (based on level)
+(+ 45% AP)
+Hitting a target with 0 stack with evolved
+Void Seeker
+:
+12 − 72 (based on level)
+(+ 3 − 18 (based on level)
+(+ 45% AP)
+Hitting a target with 2 stacks with evolved
+Void Seeker
+:
+12 − 72 (based on level)
+(+ 9 − 54 (based on level)
+(+ 63% AP)
+Map-Specific Differences
+Arena
+differences
+edit
+On-hit damage changed to 50% value.
+Detonation base damage changed to
+10% of target's
+missing
+health
+.
+Edit
+Icathian Rain
+COST:
+55 Mana
+COOLDOWN:
+10 / 9 / 8 / 7 / 6
+CAST TIME:
+none
+TARGET RANGE:
+600
+Active:
+Kai'Sa
+shoots a swarm of missiles that evenly seek out nearby enemies, dealing
+physical damage
+.
+Living Weapon
+Bonus:
+[
+Requires
+attack damage
+]
+Icathian Rain
+fires more missiles.
+Active:
+Kai'Sa
+releases a swarm of 6 missiles that evenly distributes among nearby
+visible
+enemies, each one hitting their target after 0.
+4
+seconds to deal
+physical damage
+.
+Minions
+below
+35% health
+take double damage.
+Physical Damage Per Missile:
+40 / 55 / 70 / 85 / 100
+(+ 55%
+bonus
+AD)
+(+ 20% AP)
+Non-minions take 25% damage from missiles beyond their first.
+Reduced Damage Per Missile:
+10 / 13.
+75
+/ 17.
+5
+/ 21.
+25
+/ 25
+(+ 13.
+75
+%
+bonus
+AD)
+(+ 5% AP)
+Total Single-Target Damage:
+90 / 123.
+75
+/ 157.
+5
+/ 191.
+25
+/ 225
+(+ 123.
+75
+%
+bonus
+AD)
+(+ 45% AP)
+Evolution
+:
+Requires
+「
+100 − 56 (based on level)
+attack damage
+from items 」
+「
+100 attack damage
+from items and stat growth 」
+to upgrade –
+Icathian Rain
+instead fires 12 missiles.
+Total Evolved Single-Target Damage:
+150 / 206.
+25
+/ 262.
+5
+/ 318.
+75
+/ 375
+(+ 206.
+25
+%
+bonus
+AD)
+(+ 75% AP)
+A nearby enemy is required to cast this ability.
+Info
+Targeting input
+Auto
+Damage type
+Type
+See Notes
+Sub-type
+Physical
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+The first missile on a target applies
+area damage
+, while the rest on the same target apply
+persistent area damage
+.
+Spell shields
+only block the damage from a single missile.
+Icathian Rain
+acquires its targets upon cast. Moving will not change its targets.
+Charging
+Supercharge
+will not stop the missiles from firing.
+It takes 1 second for all missiles to fire at a single target.
+Map-Specific Differences
+Arena
+differences
+edit
+Bonus AD ratio per missile changed to
+50%
+bonus
+AD
+.
+AP ratio per missile changed to
+15% AP
+.
+Edit
+Void Seeker
+COST:
+55 / 60 / 65 / 70 / 75 Mana
+COOLDOWN:
+22 / 20 / 18 / 16 / 14
+CAST TIME:
+0.
+4
+TARGET RANGE:
+3000
+WIDTH:
+200
+SPEED:
+1750
+Active:
+Kai'Sa
+fires a void bolt in the target direction that grants
+sight
+around its trajectory as it travels and deals
+magic damage
+to the first enemy hit,
+revealing
+them for a few seconds.
+Living Weapon
+Bonus:
+[
+Requires
+ability power
+]
+Void Seeker
+applies more
+Plasma
+and
+reduces
+the cooldown if it hits an enemy
+champion
+.
+Active:
+Kai'Sa
+fires a void bolt in the target direction that briefly grants
+sight
+around its trajectory as it travels, deals
+magic damage
+to the first enemy hit, applies
+2 Plasma
+, and
+reveals
+them for 4 seconds.
+Magic Damage:
+30 / 55 / 80 / 105 / 130
+(+ 130% AD)
+(+ 45% AP)
+Evolution
+:
+Requires
+100 ability power
+from
+items
+to upgrade –
+Void Seeker
+applies
+3 Plasma
+instead and refunds 75% of its
+cooldown
+if it hits an enemy
+champion
+.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+This ability will cast from wherever the caster is at the end of the cast time.
+Edit
+Supercharge
+COST:
+30 Mana
+COOLDOWN:
+16 / 14.
+5
+/ 13 / 11.
+5
+/ 10
+CAST TIME:
+1.
+2
+− 0.
+6
+(based on
+bonus
+attack speed)
+Active:
+Kai'Sa
+briefly becomes
+ghosted
+and gains
+bonus
+move speed
+during the cast time, then gains
+bonus
+attack speed
+for a few seconds.
+Living Weapon
+Bonus:
+[
+Requires
+attack speed
+]
+Supercharge
+briefly grants
+invisibility
+.
+Active:
+Kai'Sa
+charges up over the cast time, during which she is still able to move, becoming
+ghosted
+and gaining
+bonus
+movement speed
+for the duration, with the effectiveness increased by
+0% − 100% (based on
+bonus
+attack speed)
+.
+Minimum Movement Speed:
+55 / 60 / 65 / 70 / 75%
+Maximum Movement Speed:
+110 / 120 / 130 / 140 / 150%
+After completing the charge, she gains
+bonus
+attack speed
+and reduces her
+basic attack windup
+percentage by 6.
+44
+% for 4 seconds.
+Bonus Attack Speed:
+40 / 50 / 60 / 70 / 80%
+Supercharge's
+current
+cooldown
+is reduced by 0.
+5
+seconds
+on-attack
+.
+Evolution
+:
+Requires
+「
+100% − 70% (based on level)
+attack speed
+from items 」
+「
+100% attack speed
+from items and stat growth 」
+to upgrade –
+Supercharge
+grants
+invisibility
+at the start of the cast time for 0.
+5
+seconds.
+Info
+Targeting input
+Auto
+Her attack commands during this time are switched to movement commands instead. Upon finishing the charge and if an attack command was issued,
+Kai'Sa
+will continue walking toward her target.
+Kai'Sa
+behaves normally if attack move click was issued not on a target during the cast time, stopping at attack range of the closest target and starts attacking when charged up.
+Tips & Tricks
+If
+Supercharge's
+cast time finished while its buff is still active, the movement speed buff lingers briefly longer.
+This is only possible with a significantly high amount of
+ability haste
+and
+attack speed
+.
+Edit
+Killer Instinct
+COST:
+100 Mana
+COOLDOWN:
+130 / 100 / 70
+CAST TIME:
+none
+TARGET RANGE:
+2000 / 2500 / 3000
+EFFECT RADIUS:
+525
+Active:
+Kai'Sa
+briefly
+shields
+herself and
+dashes
+near an enemy champion affected by
+Plasma
+.
+Active:
+Kai'Sa
+grants herself a
+shield
+for 2 seconds and
+dashes
+to a target location near a
+visible
+enemy champion that was
+affected
+by
+Plasma
+within the last 4 seconds. The shield's duration is refreshed when the dash ends.
+Shield Strength:
+70 / 90 / 110
+(+ 90 / 135 / 180% AD)
+(+ 120% AP)
+An enemy champion within range and affected by
+Plasma
+is required to cast this ability. Killer Instinct
+resets
+Kai'Sa's
+basic attack timer.
+Kai'Sa
+can cast any of her
+abilities
+during the dash.
+Info
+Targeting input
+Location
+Counters
+Grounded
+Disabled
+Knockdown
+Interrupted
+Kai'Sa
+will issue a movement command to the targeted location regardless of whether the target location is valid. The dash is not buffered during this movement command.
+Kai'Sa
+will not dash if the targeted location becomes valid by walking in range or a nearby enemy champion becomes affected by
+Plasma
+.
+If the targeted location is not valid, the range indicator will glow.
+The enemy champion recently affected by
+Plasma
+must be in range of
+Kai'Sa
+for the targeted location to be valid, and not the targeted location itself.
+The basic attack reset is not considered one for
+Hail of Blades
+.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Kai'Sa (Collection)
+.
+Original
+View in 3D
+975
+07.03.2018
+Claimed by the Void when she was only a child, Kai’Sa managed to survive through sheer tenacity and strength of will. Her experiences have made her a deadly hunter and, to some, the harbinger of a future they would rather not live to see. Having entered into an uneasy symbiosis with a living Void carapace, the time will soon come when she must decide whether to forgive those mortals who would call her a monster, and defeat the coming darkness together… or simply to forget, as the Void consumes the world that left her behind.
+Natasha Loring
+Pan Chengwei
+Loot eligible
+Transforming
+Bullet Angel
+View in 3D
+1350
+07.03.2018
+A former lieutenant in the Royal Space Military, Kai'Sa was the first sanctioned pilot of the experimental X01-Butterfly. The suit proved far too deadly, however, and after only one mission she fled with the technology—becoming one of the galaxy's deadliest guns for hire.
+Natasha Loring
+Choe HeonHwa
+Steel Valkyries
+Loot eligible
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+Transforming
+Chromas
+Bullet Angel Kai'Sa Chromas
+Amethyst
+Aquamarine
+Catseye
+Granite
+Maverick
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+KDA
+View in 3D
+1350
+03.11.2018
+A talent from abroad, Kai'Sa brings a unique style and sound to the industry. She learned to express herself through her craft, blossoming into one of the most talented dancers in the world—a perfect fit for the misfits of K/DA, where she takes their performances to the next level.
+Natasha Loring
+Alvin Lee, Pan Chengwei, Bo 'chenbowow' Chen
+K/DA
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Prestige KDA
+View in 3D
+Special
+03.11.2018
+Fresh from her appearance at the annual Pop Music Awards, K/DA Kai'Sa is now wearing a prestigious all-gold costume—catching the eye of the entire world.
+Natasha Loring
+Pan Chengwei
+K/DA
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+KDA
+. Store variants are discounted for multiple purchases.
+iG
+View in 3D
+1350
+23.04.2019
+Honoring JackeyLove's winning performance as Kai'Sa during the 2018 World Championship.
+Natasha Loring
+Pan Chengwei
+World Champions: 2018
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+iG Kai'Sa Chromas
+Tenfold Triumph
+Arcade
+View in 3D
+1350
+28.06.2019
+A bounty hunter and ex-soldier hailing from the hellish multidirectional shooter “PixelVoid II,” Kai'Sa was called back to the Arcadian theater after the Battle Bosses infected her game. As she is unmatched at killing screen-covering boss monsters with massive health pools, invading “PixelVoid II” may have been a severe miscalculation.
+Natasha Loring
+Alvin Lee
+Arcade: Heroes
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Arcade Kai'Sa Chromas
+Amethyst
+Aquamarine
+Catseye
+Emerald
+K.O.
+Obsidian
+Rose Quartz
+Ruby
+KDA ALL OUT
+View in 3D
+1350
+29.10.2020
+After showcasing her flawless dance techniques world-wide, Kai'sa is ready to apply her legendary discipline and focus to all aspects of her life as a performing artist. She's still not sure who she'll be when she steps forward to shine as herself, but she's looking forward to the challenge of finding out.
+Natasha Loring
+Bo 'chenbowow' Chen
+K/DA
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+K/DA ALL OUT Kai'Sa Chromas
+BADDEST
+Prestige KDA ALL OUT
+View in 3D
+Special
+29.10.2020
+When Kai'Sa wanted a red carpet outfit to match her growing confidence in her artistry, she sought Evelynn's advice. With sharp tailoring and embellishments that match her excellence in execution, Kai'Sa's ready to shine on and off the stage.
+Natasha Loring
+Bo 'chenbowow' Chen
+K/DA
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+KDA ALL OUT
+. Store variants are discounted for multiple purchases.
+Lagoon Dragon
+View in 3D
+1350
+21.10.2021
+Seeking the power to purify the land of Brand's corruption, Kai'Sa plunged into the depths of the Lagoon Dragon's waters, despite terrifying legends of the endless deep. However, the Dragon recognized her for her courage to face the unknown and blessed her with its gifts. Now, she adventures the world, cleansing the land and protecting those who cannot protect themselves.
+Natasha Loring
+West Studio
+Dragonmancers
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Lagoon Dragon Kai'Sa Chromas
+Citrine
+Emberclaw
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Prestige KDA (2022)
+View in 3D
+Special
+01.04.2022
+Fresh from her appearance at the annual Pop Music Awards, K/DA Kai'Sa is now wearing a prestigious all-gold costume—catching the eye of the entire world.
+Natasha Loring
+Pan Chengwei
+K/DA
+Loot ineligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Prestige KDA
+. Store variants are discounted for multiple purchases.
+Star Guardian
+View in 3D
+1820
+14.07.2022
+A born leader with a head for tactics, Kai'Sa takes her job as captain extremely seriously... perhaps too much for her own good. Still, her squad respects her command and will follow her into even the most dangerous missions, where she'll snipe priority targets and spray the rest with payloads of starlight-powered missiles.
+Natasha Loring
+Jeremy 'Jermu' Anninos
+Star Guardian Season 4
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+Star Guardian Kai'Sa Chromas
+Aquamarine
+Brilliant
+Catseye
+Emerald
+Ruby
+Tanzanite
+Inkshadow
+View in 3D
+1350
+03.05.2023
+A young survivor who lost her father to the Cabal, Kai'Sa fled the city and joined the Uprising. Refusing to allow others to fight a battle on her behalf, she sacrificed her independence for the chance to fight back, receiving a magical, symbiotic tattoo she needs in order to live. Kai'Sa finally has the tools to get revenge. She will see justice done.
+Natasha Loring
+Jennifer Wuestling
+Inkshadow
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Inkshadow Kai'Sa Chromas
+Amethyst
+Catseye
+Emerald
+Inked
+Jasper
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Heavenscale
+View in 3D
+1350
+07.02.2024
+Royal scout and friend to the prince, Kai'Sa is a tenacious dragon who has spent more time beneath the clouds than any of her peers. Though this is the first time she has interacted with humans directly, her observed knowledge and agile grace are sure to be assets while joining them in the New Year's celebration.
+Natasha Loring
+Ina Wong, West Studio
+Heavenscale
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Heavenscale Kai'Sa Chromas
+Amethyst
+Catseye
+Emerald
+Granite
+Lustrous
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Dark Star
+View in 3D
+1350
+23.10.2024
+Kai'Sa is the kind of horror that the spacefaring civilization she was born from once feared. Whatever she destroys, she absorbs, surviving the unforgiving cosmos using power siphoned from the ashes of dead galaxies.
+Natasha Loring
+Pandart Studio
+Dark Star
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dark Star Kai'Sa Chromas
+Amethyst
+Catseye
+Emerald
+Pearl
+Quasar
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.23
+General
+Bug Fix:
+Honeyfruit consumption & kill count VO now properly play.
+V14.21
+Second Skin
+Plasma base damage changed to
+4 − 24 (based on level)
+from
+5 − 23 (based on level)
+.
+Plasma base damage per stack reduced to
+1 − 6 (based on level)
+from
+1 − 12 (based on level)
+.
+Maximum plasma base damage reduced to
+8 − 48 (based on level)
+from
+9 − 71 (based on level)
+.
+Plasma AP ratio reduced to
+12% − 24% (based on Plasma stacks before application)
+AP
+from
+15% − 25%
+AP
+.
+V14.19
+General
+Bug Fix:
+Fixed an issue that caused her VO lines to sometimes be out of sync or not trigger.
+V14.8
+Icathian Rain
+Bonus AD ratio per missile increased to
+55%
+bonus
+AD
+from
+50%
+.
+V14.5
+Killer Instinct
+Bug Fix:
+Cast range indicator increased to match target range.
+V14.4
+Killer Instinct
+Target range increased to 2000 / 2500 / 3000 units from 1500 / 2250 / 3000.
+V14.3
+Second Skin
+Bug Fix:
+Mark's consumption SFX is no longer delayed if she has very high attack speed.
+V13.22
+Second Skin
+Bug Fix:
+No longer overlaps with
+Braum's
+Concussive Blows'
+mark indicator.
+V13.20
+Stats
+Base armor reduced to 25 from 28.
+V13.15
+Stats
+Base health reduced to 640 from 670.
+Icathian Rain
+AP ratio per missile reduced to
+20% AP
+from
+30% AP
+.
+Void Seeker
+Cooldown refund reduced to 75% from 77%.
+V13.12
+Stats
+Attack damage growth increased to 2.
+6
+from 2.
+V13.9
+General
+Bug Fix:
+Several voice lines now play correctly.
+Bug Fix:
+Booster element on
+Bullet Angel Kai'Sa
+no longer clips through her booster while she is slowed.
+Killer Instinct
+Bug Fix:
+Location range indicator on
+Arcade Kai'Sa
+and
+Bullet Angel Kai'Sa
+no longer render under impassable terrain.
+V13.8
+Killer Instinct
+Bug Fix:
+Now properly respects the boundaries of
+Mordekaiser's
+Realm of Death
+.
+V13.6
+General
+Bug Fix:
+First spawn animation now properly displays her shield VFX.
+V13.4
+Supercharge
+Bug Fix:
+Casting the ability after using a basic attack that would consume all of a target's
+Plasma
+stacks now properly does so.
+V13.1b
+Stats
+Base mana reduced to 345 from 348.
+88
+.
+Mana growth increased to 40 from 38.
+Mana regeneration growth increased to 0.
+7
+from 0.
+45
+.
+V12.19
+Second Skin
+Detonation AP ratio increased to
+6% per 100 AP
+from
+5% per 100 AP
+.
+V12.16
+Second Skin
+Plasma base damage increased to
+5 − 23 (based on level)
+from
+4 − 16 (based on level)
+.
+Plasma base damage per stack increased to
+1 − 12 (based on level)
+from
+1 − 8 (based on level)
+.
+Icathian Rain
+AP ratio increased to
+30% AP
+from
+25% AP
+.
+Killer Instinct
+AP ratio increased to
+120% AP
+from
+90% AP
+.
+V12.10
+Stats
+Base health increased to 670 from 600.
+Health growth increased to 102 from 88.
+Armor growth increased to 4.
+2
+from 3.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Killer Instinct
+Base shield reduced to 70 / 90 / 110 from 75 / 100 / 125.
+AD ratio reduced to
+90 / 135 / 180% AD
+from
+100 / 150 / 200% AD
+.
+AP ratio reduced to
+90% AP
+from
+100% AP
+.
+V12.8
+Second Skin
+Detonation AP ratio increased to
+5% per 100 AP
+from
+2.
+5
+% per 100 AP
+.
+Void Seeker
+AP ratio reduced to
+45% AP
+from
+70% AP
+.
+Killer Instinct
+AP ratio increased to
+100% AP
+from
+75% AP
+.
+V12.4
+Living Weapon
+Bug Fix:
+Tooltips and evolution trackers now properly display and account for her current bonus stats.
+V11.24
+- December 15th Hotfix
+Second Skin
+Plasma base damage increased to
+4 − 16 (based on level)
+from
+4 − 10 (based on level)
+.
+Plasma base damage per stack increased to
+1 − 8 (based on level)
+from
+1 − 5 (based on level)
+.
+Plasma AP ratio increased to
+15% − 25% (based on Plasma stacks before application)
+AP
+from
+10% − 20%
+AP
+.
+Icathian Rain
+Bonus AD ratio per missile increased to
+50%
+bonus
+AD
+from
+40%
+.
+Maximum single target bonus AD ratio increased to
+112.
+5
+%
+bonus
+AD
+from
+90%
+bonus
+AD
+.
+Maximum evolved single target bonus AD ratio increased to
+187.
+5
+%
+bonus
+AD
+from
+150%
+bonus
+AD
+.
+Void Seeker
+Cooldown refund increased to 77% from 70%.
+V11.23
+Killer Instinct
+Bug Fix:
+Can now properly be cast even if
+Icathian Rain
+hasn't been learned yet.
+V11.18
+Supercharge
+Cooldown reduced to 16 / 14.
+5
+/ 13 / 11.
+5
+/ 10 seconds from 16 / 15 / 14 / 13 / 12.
+V11.12
+Icathian Rain
+Cooldown increased to 10 / 9 / 8 / 7 / 6 seconds from 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6.
+V11.9
+General
+Bug Fix:
+Now properly has voice lines for eating
+Honeyfruit
+and killing enemies with
+Void Seeker
+.
+Second Skin
+Bug Fix:
+Riftmaker
+and
+Trinity Force
+now grant her the appropriate amount of stats for her Evolutions.
+V11.7
+Void Seeker
+Bug Fix:
+Fixed a bug where
+Seeker's Armguard
+would affect
+Void Seeker's
+AP.
+Killer Instinct
+Cooldown increased to 130 / 100 / 70 seconds from 110 / 90 / 70.
+V11.4
+Icathian Rain
+Base damage per missile reduced 40 / 55 / 70 / 85 / 100 from 45 / 61.
+25
+/ 77.
+5
+/ 93.
+75
+/ 110.
+Maximum single target base damage reduced to 90 / 123.
+75
+/ 157.
+5
+/ 191.
+25
+/ 225 from 101.
+25
+/ 137.
+8125
+/ 174.
+375
+/ 210.
+9375
+/ 247.
+5
+.
+Maximum evolved single target base damage reduced to 150 / 206.
+25
+/ 262.
+5
+/ 318.
+75
+/ 375 from 168 / 229.
+125
+/ 290.
+25
+/ 351.
+375
+/ 412.
+5
+.
+V10.22
+General
+Bug Fix:
+Pinging her abilities when they're evolved will note it in chat.
+V10.17
+Stats
+Attack damage growth increased to 2 from 1.
+7
+.
+Supercharge
+Bonus attack speed increased to 40 / 50 / 60 / 70 / 80% from 40 / 45 / 50 / 55 / 60%.
+V10.13
+Void Seeker
+Bug Fix:
+Now properly applies stacks of
+Second Skin
+on
+Baron Nashor
+regardless of where she casts it from.
+V10.11
+Stats
+Base health increased to 600 from 571.
+Health growth increased to 88 from 86.
+Icathian Rain
+Bonus AD ratio increased to
+40%
+bonus
+AD
+from
+35%
+.
+Killer Instinct
+Range increased to 1500 / 2250 / 3000 from 1500 / 2000 / 2500.
+V10.7
+Supercharge
+Cooldown reduced to 16 / 15 / 14 / 13 / 12 seconds from 16 / 15.
+5
+/ 15 / 14.
+5
+/ 14.
+V10.6
+General
+Recommended items updated.
+V10.5
+Icathian Rain
+AP ratio reduced to
+25% AP
+from
+40% AP
+.
+Upgraded missiles fired increased to 12 from 10.
+Void Seeker
+Base damage increased to 30 / 55 / 80 / 105 / 130 from 20 / 45 / 70 / 95 / 120.
+AD ratio reduced to
+130% AD
+from
+150% AD
+.
+AP ratio increased to
+70% AP
+from
+60% AP
+.
+Upgraded cooldown refund increased to 70% from 50%.
+V9.22
+Icathian Rain
+Non-minion damage from consecutive missiles reduced to 25% from 30%.
+V9.18
+Supercharge
+Bonus attack speed reduced to 40 / 45 / 50 / 55 / 60% from 40 / 50 / 60 / 70 / 80%.
+V9.4
+General
+Recommended items no longer recommend
+Stormrazor
+, but instead
+Infinity Edge
+and
+Runaan's Hurricane
+.
+V9.2
+Killer Instinct
+Bug Fix:
+Can now properly dash to an untargetable enemy.
+V8.24
+Void Seeker
+Bug Fix:
+Corrected interaction when casting
+Flash
+mid-cast. Skillshot now fires toward target position.
+V8.21
+Second Skin
+Consume Plasma damage changed to
+15%
+(+ 2.
+5
+% per 100 AP)
+of the target's
+missing
+health
+from
+15%
+(+ 3.
+75
+% per 100 AP)
+of the target's
+missing
+health
+.
+Killer Instinct
+Shield duration reduced to 2 seconds from 3.
+V8.18
+Second Skin
+Full plasma trigger damage reduced to
+15% of the target's
+missing
+health
+at all levels from
+15% − 20% (based on level)
+.
+V8.11
+- June 1st Hotfix
+Second Skin
+Plasma base damage changed to
+4 − 10 (based on level)
+from
+7 − 12 (based on level)
+.
+Plasma per-stack base damage reduced to
+1 − 5 (based on level)
+from
+1 − 9 (based on level)
+.
+Plasma AP ratio reduced to
+10% − 20% (based on Plasma stacks)
+AP
+from
+20% − 40% (based on Plasma stacks)
+AP
+.
+Void Seeker
+AP ratio increased to
+60% AP
+from
+45% AP
+.
+V8.11
+Stats
+Base health increased to 571 from 554.
+4
+.
+Health growth increased to 86 from 80.
+Base armor reduced to 28 from 33.
+04
+.
+Base health regeneration reduced to 3.
+5
+from 5.
+5
+.
+Base attack damage reduced to 59 from 63.
+Attack damage growth increased to 1.
+7
+from 1.
+V8.9
+Icathian Rain
+Upgraded missiles fired reduced to 10 from 12.
+Missile damage is now flagged as AoE in all cases.
+Supercharge
+Bonus attack speed duration reduced to 4 seconds from 5.
+Runaan's Hurricane
+bolts no longer grant
+Supercharge's
+cooldown reduction.
+V8.8
+Stats
+Base health regeneration reduced to 5.
+5
+from 6.
+2
+.
+Health regeneration growth reduced to 0.
+55
+from 0.
+75
+.
+Icathian Rain
+Bonus AD ratio reduced to
+35%
+bonus
+AD
+from
+40%
+.
+V8.7
+- April 5th Hotfix
+General
+Bug Fix:
+Fixed a bug where she could partially resist displacement by spamming her joke.
+V8.6
+- March 21st Hotfix
+Stats
+Base attack damage reduced to 63 from 65.
+Icathian Rain
+Mana cost increased to 55 from 45.
+V8.6
+Stats
+Base attack range increased to 525 from 500.
+General
+Bug Fix:
+Now correctly swaps out
+Aftershock
+for
+Grasp of the Undying
+if she is equipped with an
+Aftershock
+rune page.
+Second Skin
+AP ratio per stack increased to
+20% − 40% (based on Plasma stacks)
+AP
+from
+10% − 30% (based on Plasma stacks)
+AP
+.
+Plasma detonation AP ratio increased to
+(3.
+75
+% per 100 AP)
+of target's
+missing
+health
+from
+(2.
+5
+% per 100 AP)
+.
+Icathian Rain
+Range increased to 600 from 575.
+AP ratio increased to
+40% AP
+from
+20% AP
+.
+Void Seeker
+AP ratio reduced to
+45% AP
+from
+65% AP
+.
+Supercharge
+Charge duration reduced to
+1.
+2
+− 0.
+6
+(based on
+bonus
+attack speed)
+from
+1.
+5
+− 0.
+75
+(based on
+bonus
+attack speed)
+.
+Minimum movement speed increased to 55 / 60 / 65 / 70 / 75% from 40 / 45 / 50 / 55 / 60%.
+Killer Instinct
+Radius around enemy champions increased to 525 from 500.
+New Effect:
+The shield is now granted on-cast.
+Still lingers for 3 seconds after dash ends.
+V8.5
+- March 8th Hotfix
+Stats
+Base attack damage increased to 65 from 62.
+46
+.
+Icathian Rain
+Cooldown reduced to 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6 seconds from 10 / 9 / 8 / 7 / 6.
+Mana cost reduced to 45 from 55.
+V8.5
+- Added
+Second Skin
+(Innate)
+Innate:
+Kai'Sa's
+basic attacks deal
+7 − 12 (based on level)
+(+
+1 − 9 (based on level)
+per Plasma stack)
+(+
+10% − 30% (based on Plasma stacks)
+AP)
+bonus
+magic damage.
+Caustic Wounds:
+Kai'Sa's
+basic attacks
+,
+Void Seeker
+and nearby allies'
+immobilizing
+effects mark enemies with
+Plasma
+for 4 seconds, stacking up to 4 times. At
+4 Plasma
+,
+Kai'Sa's
+next attack ruptures the target, dealing
+15% − 20% (based on level)
+(+ 2.
+5
+% per 100 AP)
+of target's
+missing
+health
+as
+bonus
+magic damage, capped at 400 against monsters.
+Living Weapon:
+When reaching a certain amount of stat from items and base stats,
+Kai'Sa
+can evolve the related basic ability. This has a channel time of 2 seconds, and the upgrade is canceled if the said amount of stat isn't reached anymore.
+Icathian Rain
+(Q)
+Active:
+Kai'Sa
+releases a swarm of 6 missiles that evenly distributes among nearby enemies, each dealing 45 / 61.
+25
+/ 77.
+5
+/ 93.
+75
+/ 110
+(+ 40%
+bonus
+AD)
+(+ 20% AP)
+physical damage. Non-minions take 30% damage from missiles beyond their first. Minions below
+35% health
+take 100% increased damage.
+Living Weapon
+:
+Requires
+100
+bonus
+attack damage
+to upgrade –
+Icathian Rain
+fires 12 missiles.
+Mana Cost:
+55
+Cooldown:
+10 / 9 / 8 / 7 / 6 seconds
+Void Seeker
+(W)
+Active:
+After a 0.
+5
+-second delay,
+Kai'Sa
+fires a Void blast in the target direction, stopping at the first enemy hit, dealing 20 / 45 / 70 / 95 / 120
+(+ 150% AD)
+(+ 65% AP)
+magic damage,
+revealing
+for 4 seconds and applying
+2 Plasma
+.
+Living Weapon
+:
+Requires
+100 ability power
+to upgrade –
+Void Seeker
+applies
+3 Plasma
+and refunds 50% of the cooldown against enemy champions.
+Target Range:
+3000
+Mana Cost:
+55 / 60 / 65 / 70 / 75
+Cooldown:
+22 / 20 / 18 / 16 / 14 seconds
+Supercharge
+(E)
+Active:
+Kai'Sa
+charges
+for
+1.
+5
+− 0.
+75
+(based on
+bonus
+attack speed)
+seconds, during which gains 40 / 45 / 50 / 55 / 60%
+bonus
+movement speed, increased by
+0% − 100% (based on
+bonus
+attack speed)
+.
+After charging up,
+Kai'Sa
+gains 40 / 50 / 60 / 70 / 80%
+bonus
+attack speed for 5 seconds.
+Kai'Sa's
+basic attacks reduce
+Supercharge's
+cooldown by 0.
+5
+seconds.
+Living Weapon
+:
+Requires
+100%
+bonus
+attack speed
+to upgrade –
+Supercharge
+grants
+invisibility
+for 0.
+5
+seconds.
+Mana Cost:
+30
+Cooldown:
+16 / 15.
+5
+/ 15 / 14.
+5
+/ 14 seconds
+Killer Instinct
+(R)
+Active:
+Kai'Sa
+dashes to a target location near an enemy champion with
+Plasma
+and shields herself for 75 / 100 / 125
+(+ 100 / 150 / 200% AD)
+(+ 75% AP)
+for 3 seconds.
+Target Range:
+1500 / 2000 / 2500
+Mana Cost:
+100
+Cooldown:
+110 / 90 / 70 seconds
+Trivia
+[
+edit
+|
+edit source
+]
+Her name resembles Finnish
+Kaisa
+, which is derived from Pre-Greek Αἰκατερίνη (Aikaterine).
+Her name's current form follows the Ancient Shuriman naming convention for
+Voidborns
+.
+Her accent is Afrikaner.
+She is the first champion to receive
+Chroma
+variants upon release.
+She uses a
+Frog
+in one of her animations, along with
+Bewitching Morgana
+and
+Dark Star Thresh
+.
+Her dance references the
+side-to-side body wave
+.
+A side-by-side comparison can be seen
+here
+.
+In-game, Kai'Sa can toggle her helmet on and off [default: Ctrl + 5].
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Marksman
+Marksmen
+(formerly "Carries") excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger. Although Marksmen have the ability to stay relatively safe by kiting their foes, they are very fragile and are extremely reliant on powerful item purchases to become true damage threats.
+At present, Marksmen do not have any official subclasses. The following have been considered:
+Demolisher
+Scrapper
+Examples
+Ashe
+Ezreal
+Lucian
+Kai'Sa
+Jhin
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Bottom
+Within a
+drafted team
+, the
+Bottom Carry
+is one of the two champions assigned to the bottom lane alongside the
+Support
+. Being the most vulnerable, the
+Bottom Carry
+has to acquire as much gold as possible to purchase key items that will greatly increase their fighting potential.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Bottom Carry
+is expected to fulfill the former designation: the position is made for champions that highly depend on item-based power spikes.
+Marksmen
+are the most likely champions to be selected in the
+Bottom Carry
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Void Seeker
+COOLDOWN:
+22 / 20 / 18 / 16 / 14
+Active:
+Kai'Sa
+fires a void bolt in the target direction that grants
+sight
+around its trajectory as it travels and deals
+magic damage
+to the first enemy hit,
+revealing
+them for a few seconds.
+Living Weapon
+Bonus:
+[
+Requires
+ability power
+]
+Void Seeker
+applies more
+Plasma
+and
+reduces
+the cooldown if it hits an enemy
+champion
+.
+League of Legends content
+Polymorph
+A unit that is
+polymorphed
+is
+silenced
+and turned into a helpless critter.
+A unit that is
+silenced
+is unable to cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Polymorph
+combines
+silence
+with additional effects; it is the signature effect of
+Lulu's
+Whimsy
+, which also
+disarms
+and reduces the target's movement speed for the duration.
+Interrupts:
+Interrupts all
+attack windups
+(including
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Immobilize
+Immobilized
+units cannot control their movement. The following crowd control effects
+immobilize
+the unit:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Root
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Impaired movement
+is a similar term that, in addition to the above, also refers to units that are
+slowed
+.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Void Seeker
+COOLDOWN:
+22 / 20 / 18 / 16 / 14
+Active:
+Kai'Sa
+fires a void bolt in the target direction that grants
+sight
+around its trajectory as it travels and deals
+magic damage
+to the first enemy hit,
+revealing
+them for a few seconds.
+Living Weapon
+Bonus:
+[
+Requires
+ability power
+]
+Void Seeker
+applies more
+Plasma
+and
+reduces
+the cooldown if it hits an enemy
+champion
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Second Skin
+Innate - Living Weapon:
+Kai'Sa
+can permanently evolve each of her basic abilities by obtaining
+attack damage
+,
+ability power
+, and
+attack speed
+, respectively.
+Innate - Plasma:
+Kai'Sa
+applies stacks of
+Plasma
+through basic attacks,
+Void Seeker
+, and allied
+polymorphs
+and
+immobilizing
+effects.
+Innate - Caustic Wounds:
+Applying
+Plasma
+deals an increasing amount of
+magic damage
+. Upon applying the final stack, all stacks are consumed to deal
+additional
+magic damage
+based on the
+target's
+missing
+health
+.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Persistent area damage
+Persistent area damage
+is technically not a separate type of damage, but rather a hybrid classification that is applied to some spells.
+In situations where
+persistent damage
+and
+area damage
+would have conflicting outputs, the conflict is resolved by choosing the weakest possible outcome.
+Physical vamp
+and
+Spell vamp
+(where applicable) heals with one-third effectiveness, as with
+area damage
+.
+Arcane Comet's
+cooldown is reduced by 5%, as with
+persistent damage
+, per target affected.
+Counter Strike
+reduces the damage dealt by 25%, as with
+area damage
+.
+League of Legends content
+Supercharge
+COOLDOWN:
+16 / 14.
+5
+/ 13 / 11.
+5
+/ 10
+Active:
+Kai'Sa
+briefly becomes
+ghosted
+and gains
+bonus
+move speed
+during the cast time, then gains
+bonus
+attack speed
+for a few seconds.
+Living Weapon
+Bonus:
+[
+Requires
+attack speed
+]
+Supercharge
+briefly grants
+invisibility
+.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+True sight
+True Sight
+reveals units through
+fog of war
+,
+brush
+, and
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Invisibility
+Invisibility
+is a form of stealth that renders a unit hidden from enemy
+vision
+for a
+short
+period of time. It can be utilized to sneak in on opponents as well as the ability to reposition in-combat or simply to flee from a skirmish. It also grants
+ghosting
+.
+Invisible
+units can
+only
+be revealed by
+True Sight
+.
+Stealthed
+units shimmer their character model for 0.
+6
+seconds whenever they take damage.
+A unit will shimmer for every instance of damage they take, and shimmering does not make the unit targetable nor remove the
+stealth
+effect, but grants positional information to the enemy.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Kai'Sa's profile page
+at
+LeagueOfLegends.com

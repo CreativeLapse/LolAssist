@@ -1,0 +1,2247 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Lissandra
+the Ice Witch
+Release date
+2013-04-30
+Last changed
+V14.18
+Class(es)
+Burst
+Legacy
+Mage
+Position(s)
+Middle
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+3
+Toughness
+1
+Control
+3
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Lissandra
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Lissandra
+Base statistics
+Edit
+Health
+620
++110
+Mana
+475
++30
+Health regen. (per 5s)
+7
++0.55
+Mana regen. (per 5s)
+8
++0.4
+Armor
+22
++4.9
+Attack damage
+55
++2.7
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+325
+Attack range
+550
+Attack speed
+Base AS
+0.656
+Attack windup
+18.75%
+AS ratio
+0.625
+Bonus AS
++1.5
+%
+Missile speed
+2200
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+600
+Special statistics
+Damage Dealt
+-5%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Iceborn Subjugation
+EFFECT RADIUS:
+1350
+/
+450
+Innate:
+Whenever an enemy champion dies while
+Lissandra
+is nearby, she spawns a
+Frozen Thrall
+from their corpse.
+Frozen Thralls
+are
+invulnerable
+and
+untargetable
+ice spirits that
+slow
+nearby enemies and gain increasing
+movement speed
+over their lifespan. They will chase nearby enemies for a few seconds before exploding, dealing
+magic damage
+in an area.
+Innate:
+Whenever a nearby enemy champion dies,
+Lissandra
+spawns a
+Frozen Thrall
+from their corpse.
+Frozen Thralls
+are ice spirits that have
+33.
+48
+− 325 (based on seconds)
+movement speed
+and
+slow
+nearby enemies by 25%. They will chase nearby
+visible
+enemies for 4 seconds, prioritizing
+champions
+, after which they shatter to deal
+120 − 520 (based on level)
+(+ 50% AP)
+magic damage
+to nearby enemies.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Thralls
+are units that are considered champions (they are
+clones
+) and they take the form of the champion they arise from.
+Additionally, near the end of their life span, they will cue that champion's
+basic attack
+animation.
+They cannot be teleported by an allied
+Realm Warp
+.
+Thralls
+are
+untargetable
+and
+invulnerable
+.
+Thralls
+are revealed to enemies through the fog of war.
+Thralls
+will continue to chase their target even if they enter a
+brush
+.
+Iceborn Subjugation
+will not summon a
+Thrall
+against enemy champions that enter a
+zombie state
+, and will instead summon one after they've left the state.
+Edit
+Ice Shard
+COST:
+55 / 60 / 65 / 70 / 75 Mana
+COOLDOWN:
+8 / 7 / 6 / 5 / 4
+CAST TIME:
+0.
+25
+RANGE:
+825
+/
+950
+WIDTH:
+150
+/
+180
+SPEED:
+2200
+Active:
+Lissandra
+throws a spear of ice in the target direction that
+slows
+the first target hit and deals
+magic damage
+to all enemies it passes through. If
+Ice Shard
+hits an enemy, it will shatter, increasing its width and maximum range.
+Active:
+Lissandra
+launches a shard of ice in the target direction that deals
+magic damage
+and
+slows
+enemies hit for 1.
+5
+seconds.
+Magic Damage:
+80 / 115 / 150 / 185 / 220
+(+ 75% AP)
+Slow:
+20 / 24 / 28 / 32 / 36%
+If
+Ice Shard
+hits an enemy, it will shatter, increasing its width and maximum range.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+This ability will cast from wherever the caster is at the end of the cast time.
+Ice Shard
+picks a location 950 units away in the direction of the cast for the shattered missile to end up at.
+The initial
+Ice Shard
+missile has a range of 700 units which it arrives at after
+0.
+33
+seconds
+. If it hasn't collided with an enemy in this path when it does, it checks for enemies in a
+100 radius around the point 25 units in front of it.
+Colliding or hitting an enemy in either fashion creates a new "shattered" missile with the same speed but greater width that continues to travel along the same line to the designated point 950 units from the cast's original position, originating at the location at which the initial missile collided at.
+Spell shield
+will block the damage and the slow but will not stop the projectile from shattering.
+Edit
+Ring of Frost
+COST:
+40 Mana
+COOLDOWN:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8
+CAST TIME:
+none
+EFFECT RADIUS:
+450
+Active:
+Lissandra
+freezes nearby enemies, dealing
+magic damage
+and briefly
+rooting
+them.
+Active:
+Lissandra
+freezes nearby enemies, dealing
+magic damage
+and
+rooting
+them for a duration.
+Magic Damage:
+70 / 105 / 140 / 175 / 210
+(+ 70% AP)
+Root Duration:
+1.
+25
+/ 1.
+35
+/ 1.
+45
+/ 1.
+55
+/ 1.
+65
+seconds
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+No additional information.
+Edit
+Glacial Path
+COST:
+80 / 85 / 90 / 95 / 100 Mana
+COOLDOWN:
+24 / 21 / 18 / 15 / 12
+CAST TIME:
+0.
+25
+RANGE:
+1025
+WIDTH:
+250
+SPEED:
+1200
+/
+640
+Active:
+Lissandra
+sends a claw of ice in the target direction that deals
+magic damage
+to enemies it passes through.
+Glacial Path
+can be recast while the claw is active.
+Recast:
+Lissandra
+blinks
+to the claw.
+Active:
+Lissandra
+sends a claw of ice in the target direction that deals
+magic damage
+to enemies it passes through, decelerating over 1.
+25
+seconds.
+Glacial Path
+can be recast after 0.
+5
+seconds while the claw is active.
+Magic Damage:
+70 / 105 / 140 / 175 / 210
+(+ 60% AP)
+Recast:
+Lissandra
+consumes the claw and
+blinks
+to its current location.
+Info
+Targeting input
+Direction
+/
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Grounded
+See Notes
+Both casts count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Lissandra
+can reactivate
+Glacial Path
+for the duration (plus another 0.
+2
+-0.
+3
+seconds after the claw 'sinks' into the ground).
+The Claw can also hit enemies near the end point at this time, shortly after the missile has reached its maximum range.
+Glacial Path
+allows
+Lissandra
+to surpass through every single wall in all maps, so long as the claw is at least halfway through them.
+Glacial Path
+cannot be recast while
+grounded
+or
+rooted
+.
+Glacial Path's
+endpoint shows through terrain,
+fog of war
+and
+brush
+to enemies within 600 range of it.
+Edit
+Frozen Tomb
+COST:
+100 Mana
+COOLDOWN:
+120 / 100 / 80
+CAST TIME:
+0.
+375
+/
+None
+TARGET RANGE:
+550
+EFFECT RADIUS:
+550
+Active:
+Lissandra
+can cast
+Frozen Tomb
+on herself or an enemy champion.
+Enemy Cast:
+Lissandra
+briefly freezes the target enemy champion,
+knocking them down
+and
+stunning
+them.
+Self Cast:
+Lissandra
+instantly entombs herself in ice, entering
+stasis
+for 2.
+5
+seconds and
+healing
+herself over the duration based on
+her
+missing
+health
+.
+Frozen Tomb:
+Frozen Tomb
+creates a field of ice that deals
+magic damage
+to enemies and briefly
+slows
+them.
+Active:
+Lissandra
+can cast
+Frozen Tomb
+on herself or an enemy champion.
+Enemy Cast:
+Lissandra
+freezes the target enemy champion,
+knocking them down
+and
+stunning
+them for 1.
+5
+seconds.
+Self Cast:
+Lissandra
+instantly entombs herself in ice, entering
+stasis
+for 2.
+5
+seconds and
+healing
+herself every 0.
+25
+seconds over the duration. The healing is increased by
+0% − 100% (based on
+missing
+health at the time of cast)
+.
+Minimum Heal per Tick:
+10 / 15 / 20
+(+ 5.
+5
+% AP)
+Maximum Heal per Tick:
+20 / 30 / 40
+(+ 11 AP)
+Minimum Total Heal:
+100 / 150 / 200
+(+ 55% AP)
+Maximum Total Heal:
+200 / 300 / 400
+(+ 110% AP)
+Frozen Tomb
+creates a field of ice that spreads out from the target over 1.
+5
+seconds and covers the surrounding area for 3 seconds, dealing
+magic damage
+to enemies and
+slowing
+them for 0.
+5
+seconds, refreshing every 0.
+25
+seconds while they remain.
+Magic Damage:
+150 / 250 / 350
+(+ 75% AP)
+Slow:
+45 / 60 / 75%
+"Entomb!"
+Info
+Targeting input
+Unit
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+See Notes
+Enemies can only be damaged by the field of ice once every 4 seconds.
+Under normal circumstances, this means once per cast of
+Frozen Tomb
+.
+Enemies who come in contact with
+Frozen Tomb's
+slow field will be damaged and a small visual and sound effect will play.
+Spell shield
+will block the single-targeted portion and the radiating ice damage, but will not stop it from spreading.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost.
+This only applies to the enemy cast.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Lissandra (Collection)
+.
+Original
+View in 3D
+880
+29.04.2013
+As the reclusive leader of the Frostguard, many believe Lissandra is a living saint whose followers bring healing and wisdom to the tribes of the Freljord. The truth is perhaps more sinister, as she uses her elemental magic to twist the power of True Ice into something dark and terrible, entombing or impaling any who would reveal her deepest secrets. Indeed, the legacy of her past may yet be the beginning of the end for Runeterra.
+Tess Masters
+Alex 'alexplank' Flores
+Loot eligible
+Bloodstone
+View in 3D
+975
+29.04.2013
+Once a powerful sorceress who sought absolute control over her followers, Lissandra transformed into something altogether different when she finally found the hallowed Bloodstone. The magic she drew from it drove her to slay those who once tended to her every whim. To this day she wanders in search of more mortals to sacrifice to her newfound source of power.
+Tess Masters
+Michelle Hoefener
+Bloodstone
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Blade Queen
+View in 3D
+1350
+26.05.2014
+Ruler of a once mighty city, Lissandra was seduced by the promises of a monstrous shadow, whispering of esoteric power and eternal life. For this, she betrayed her people and gave them to darkness, so that in the shadow's womb she would be reborn an ageless monster.
+Tess Masters
+Christian Fell
+Omen of the Dark
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Program
+View in 3D
+1350
+06.04.2016
+Built as an all-seeing security bot, Program Lissandra rose above her initial code to become a self-generating artificial intelligence. She manipulates the technology of augmented humans with her own mimetic commands, so that all will fall before her.
+Tess Masters
+Esben Lash Rasmussen
+Program
+Loot eligible
+Voice filter
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+Coven
+View in 3D
+1350
+27.11.2018
+They came to Lissandra as if in some waking dream—visions of the Ivory Stag, and the old magics long lost to antiquity. Even now, the ageless witch resides among those twisted shadows of the old growth, awaiting the day her dead gods spill forth from their rotten and accursed graves.
+Tess Masters
+Kelly Aleshire
+Coven
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Coven Lissandra Chromas
+Aquamarine
+Dark Ritual
+Meteorite
+Obsidian
+Rose Quartz
+Ruby
+Sandstone
+Tanzanite
+Dark Cosmic
+View in 3D
+1350
+24.11.2020
+Once a cosmic entity charged with identifying future threats to the cosmos, her hunger for ever greater knowledge drew her into conflict with the Dark Star, which consumed her. Transformed into a mad doomsayer who sees a “true” universe in the ashes of this one, she has become the very end she once feared.
+Tess Masters
+Lucas Parolin, West Studio
+Dark Star
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dark Cosmic Lissandra Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Porcelain
+View in 3D
+1350
+26.01.2022
+Long ago, the sorceress Lissandra stole the Snake Relic from the ancient Protectors in a bid to gain immortality. Cast down and sealed away for her crimes, Lissandra spent centuries of solitude scheming a way to take all twelve Zodiac Relics for herself, waiting for the perfect time to strike... And now Ezreal has given her the chance.
+Tess Masters
+Jiunn Kuo, West Studio
+Porcelain
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Porcelain Lissandra Chromas
+Amethyst
+Aquamarine
+Catseye
+Emerald
+Golden Tiger
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Prestige Porcelain
+View in 3D
+Special
+26.01.2023
+What is fashion, if not sculpture? Is it not beauty and elegance in physical form? The portrait of glamor in white, blue, and gold, Lissandra is a work of art, on and off the runway.
+Tess Masters
+Ina Wong, West Studio
+Porcelain
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Porcelain
+. Store variants are discounted for multiple purchases.
+Space Groove
+View in 3D
+1350
+17.11.2022
+Brutal alien leader of the Harsh Vibes, Lissandra subjugates planets rich in The Groove for her own nefarious purposes—banning disco and steeping the entire galaxy in Muzak. She and her army of roller-skating derby goons will stop at nothing to eliminate disco forever. But for her latest scheme to work, she's going to need an invite to the disco to end all discos: The Jam.
+Tess Masters
+Jeremy Chong, West Studio
+Space Groove
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Space Groove Lissandra Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.18
+Ice Shard
+AP ratio reduced to
+75% AP
+from
+85% AP
+.
+V14.17
+Ice Shard
+Base damage increased to 80 / 115 / 150 / 185 / 220 from 80 / 110 / 140 / 170 / 200.
+Frozen Tomb
+Slow increased to 45 / 60 / 75% from 30 / 45 / 75%.
+V14.14
+Frozen Tomb
+Bug Fix:
+No longer triggers
+Malignance's
+Hatefog when being blocked by a spell shield.
+V14.13
+Ice Shard
+AP ratio increased to
+85% AP
+from
+80% AP
+.
+Ring of Frost
+Cooldown reduced to 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8 seconds from 12 / 11 / 10 / 9 / 8.
+V14.9
+Stats
+Selection radius increased to 120 units from 88.
+8889007568359
+.
+V13.22
+Stats
+Attack speed growth increased to 1.
+5
+% from 1.
+36
+%.
+V13.19
+Ring of Frost
+Root duration increased to 1.
+25
+/ 1.
+35
+/ 1.
+45
+/ 1.
+55
+/ 1.
+65
+seconds from 1.
+1
+/ 1.
+2
+/ 1.
+3
+/ 1.
+4
+/ 1.
+5
+.
+V13.17
+Ice Shard
+Bug Fix:
+Cast of the missile is no longer incorrectly cancelled by crowd control.
+V13.14
+Iceborn Subjugation
+Removed:
+Frozen Thralls no longer stop moving to detonate.
+New Effect:
+Frozen Thralls are now revealed.
+New Effect:
+Frozen Thralls will now follow targets into brush.
+Ice Shard
+New Effect:
+Now slows all targets in a radius instead of just the first target hit.
+New Effect:
+Missile now casts from the position of post-cast instead of pre-cast.
+Frozen Tomb
+Tick interval reduced to 0.25 seconds per tick from 0.5 seconds per tick.
+Bonus heal increased to
+0% − 100% (based on
+missing
+health at the time of cast)
+from
+0% − 100%
+.
+Formula change.
+Minimum base heal increased to 100 / 150 / 200 from 90 / 140 / 190.
+Minimum heal AP ratio increased to
+55% AP
+from
+25% AP
+.
+Updated logic slightly around stopping dashes.
+V13.7
+Iceborn Subjugation
+Bug Fix:
+Frozen Thralls
+of
+Pyke
+no longer display his health bar.
+V13.4
+General
+Bug Fix:
+Prestige Porcelain Lissandra
+visibility of fog around the model is no longer affected by the screen camera zoom.
+V13.1
+Stats
+Health growth increased to 110 from 104.
+Ice Shard
+Slow increased to 20 / 24 / 28 / 32 / 36% from 16 / 19 / 22 / 25 / 28%.
+Ring of Frost
+Cooldown reduced to 12 / 11 / 10 / 9 / 8 seconds from 14 / 13 / 12 / 11 / 10.
+V12.10
+Stats
+Base health increased to 620 from 550.
+Health growth increased to 104 from 90.
+Armor growth increased to 4.
+9
+from 3.
+7
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Frozen Tomb
+Minimum base heal reduced to 90 / 140 / 190 from 100 / 150 / 200.
+Minimum heal AP ratio reduced to
+25% AP
+from
+30% AP
+.
+V11.17
+Stats
+Base attack damage increased to 55 from 53.
+Ice Shard
+Mana cost reduced to 55 / 60 / 65 / 70 / 75 from 60 / 65 / 70 / 75 / 80.
+V11.7
+Ice Shard
+Base damage increased to 80 / 110 / 140 / 170 / 200 from 70 / 100 / 130 / 160 / 190.
+V11.2
+Frozen Tomb
+Bug Fix:
+No longer applies
+Horizon Focus'
+Hypershot to all enemy champions damaged within the area of effect; now properly applies the debuff to only the stunned target.
+V10.24
+Frozen Tomb
+Bug Fix:
+No longer gains an increased amount of healing if cast after using
+Hextech Rocketbelt
+.
+V10.18
+Ice Shard
+Bug Fix:
+Fixed a bug where the second/unique hit SFX was not working.
+V10.11
+Iceborn Subjugation
+Bug Fix:
+Frozen Thralls will no longer count as allies and take a portion of her Turret Plating gold if they are nearby.
+V10.10
+- May 14th Hotfix
+Iceborn Subjugation
+Bug Fix:
+No longer spawns a
+Thrall
+when a
+clone
+dies.
+V10.10
+Iceborn Subjugation
+Bug Fix:
+Now properly creates a Frozen Thrall of
+Master Yi
+when he is killed during
+Alpha Strike
+.
+Undocumented:
+Now spawns a
+Thrall
+when a
+clone
+dies, with a 4 seconds delay.
+V10.9
+Ice Shard
+Cooldown reduced to 8 / 7 / 6 / 5 / 4 seconds from 10 / 8.
+5
+/ 7 / 5.
+5
+/ 4.
+V10.8
+Iceborn Subjugation
+Bug Fix:
+Thrall now properly appears whenever an enemy champion dies nearby her, regardless of whether or not she's attacked them.
+V10.5
+Ice Shard
+AP ratio increased to
+80% AP
+from
+70% AP
+.
+V9.20
+Stats
+Base armor increased to 22 from 20.
+216
+.
+Iceborn Subjugation
+AP ratio increased to
+50% AP
+from
+30% AP
+.
+Ring of Frost
+AP ratio increased to
+70% AP
+from
+50% AP
+.
+V9.15
+Stats
+Base health increased to 550 from 518.
+Health growth increased to 90 from 87.
+Frozen Tomb
+Damage AP ratio increased to
+75% AP
+from
+60% AP
+.
+V9.11
+Iceborn Subjugation
+Bug Fix:
+Frozen Thralls can no longer take
+Eye of the Herald
+when her team steals the
+Rift Herald
+.
+V9.9
+Ring of Frost
+Base damage increased to 70 / 105 / 140 / 175 / 210 from 70 / 100 / 130 / 160 / 190.
+AP ratio increased to
+50% AP
+from
+30% AP
+.
+V9.7
+Ice Shard
+Cooldown increased to 10 / 8.
+5
+/ 7 / 5.
+5
+/ 4 seconds from 6 / 5.
+25
+/ 4.
+5
+/ 3.
+75
+/ 3.
+V9.3
+Ice Shard
+Mana cost increased to 60 / 65 / 70 / 75 / 80 from 60 / 63 / 66 / 69 / 72.
+Glacial Path
+Base damage reduced to 70 / 105 / 140 / 175 / 210 from 70 / 115 / 160 / 205 / 250.
+New Effect:
+Glacial Path's
+endpoint now shows through terrain, fog of war, and brush to enemies within 600 range of it.
+V9.2
+Iceborn Subjugation
+Bug Fix:
+When moused over,
+Iceborn Subjugation
+now properly shows the range within which slain enemies will become Frozen Thralls.
+V8.23
+General
+Animations adjusted to better match missile timing.
+Basic attack missile speed increased to 2200 from 2000.
+Stats
+New:
+Now has 5%
+bonus
+attack speed at level 1.
+Iceborn Subjugation
+(New Innate)
+Whenever an enemy champion dies while
+Lissandra
+is near, she spawns a
+Frozen Thrall
+from their corpse.
+Frozen Thralls
+chase nearby enemies, prioritizing champions,
+slowing
+nearby enemies by 25% and shattering after 4 seconds, dealing
+120 − 520 (based on level)
+(+ 30% AP)
+magic damage.
+Frozen Thralls
+initially have X movement speed, which increases to Y over the duration.
+Ice Shard
+Mana cost reduced to 60 / 63 / 66 / 69 / 72 from 75 at all ranks.
+Ring of Frost
+Mana cost reduced to 40 from 50.
+Base damage reduced to 70 / 100 / 130 / 160 / 190 from 70 / 110 / 150 / 190 / 230.
+AP ratio reduced to
+30% AP
+from
+40% AP
+.
+Glacial Path
+Missile speed starts at 1200 and decelerates to 640 from 850 all the time.
+Time to reach maximum distance is still 1.
+25
+seconds.
+Frozen Tomb
+Damage AP ratio reduced to
+60% AP
+from
+70% AP
+.
+V8.9
+Stats
+Base mana increased to 475 from 304.
+Mana growth reduced to 30 from 60.
+Base mana regeneration increased to 8 from 5.
+672
+.
+V8.8
+Ice Shard
+Mana cost reduced to 75 from 85.
+Frozen Tomb
+Cooldown reduced to 120 / 100 / 80 seconds from 130 / 105 / 80.
+V8.3
+Stats
+Base health regeneration increased to 7 from 6.
+924
+.
+V8.2
+Frozen Tomb
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V7.23
+Program Lissandra
+Ring of Frost
+Bug Fix:
+No longer breaks when used on a dashing champion.
+V7.22
+Stats
+Base health increased to 518 from 506.
+12
+.
+Health growth increased to 87 from 75.
+V7.15
+Stats
+Base damage increased to 53 from 50.
+536
+.
+Mana growth increased to 60 from 50.
+V7.12
+Frozen Tomb
+Bug Fix:
+No longer fizzles if a spellshield affecting her (ex.
+Banshee's Veil
+) is broken within 0.
+25
+seconds of cast start.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.8
+Iceborn
+Cooldown reduced to
+18 / 15 / 12 / 9 (based on level)
+seconds from 18 at all levels.
+Bug Fix:
+Fixed a bug that caused its cooldown to not be reduced when
+Ring of Frost
+killed a unit.
+Ice Shard
+AP ratio increased to
+70% AP
+from
+65% AP
+.
+V6.23
+General
+Bug Fix:
+Bloodstone Lissandra's
+Recall
+sound effects now cut off if
+Recall
+is interrupted.
+V6.18
+Stats
+Health growth reduced to 75 from 84.
+V5.16
+Frozen Tomb
+New Effect:
+Self-casting now heals for 100 / 150 / 200
+(+ 30% AP)
+, increased by 1% for every
+1% missing health
+.
+V5.5
+Ice Shard
+Base damage reduced to 70 / 100 / 130 / 160 / 190 from 75 / 110 / 145 / 180 / 215.
+V5.4
+Glacial Path
+Bug Fix:
+End marker being hidden under terrain even when it was supposed to be visible.
+V4.13
+Ice Shard
+Cooldown reduced to 6 / 5.
+25
+/ 4.
+5
+/ 3.
+75
+/ 3 seconds from 6 / 5.
+5
+/ 5 / 4.
+5
+/ 4 seconds.
+Ring of Frost
+AP ratio reduced to
+40% AP
+from
+60% AP
+.
+Frozen Tomb
+Slow increased to 30 / 45 / 75% from 20 / 30 / 40%.
+V4.7
+Frozen Tomb
+New Effect:
+Target enemy movement (including dashes and blinks) is immediately interrupted on-cast.
+Cooldown updated to start on a successful cast.
+V4.5
+Stats
+Base armor increased to 14 from 10.
+V3.15
+Frozen Tomb
+Bug Fix:
+Slow sometimes not reapplying correctly.
+V3.8
+Ring of Frost
+Cooldown reduced to 14 / 13 / 12 / 11 / 10 seconds from 18 / 16 / 14 / 12 / 10.
+Mana cost reduced to 50 from 70.
+Bug Fix:
+Root not applying if Lissandra dies.
+Glacial Path
+Cooldown start changed to on-cast from reactivation/projectile travel end.
+Frozen Tomb
+Self-cast duration increased to 2.
+5
+seconds from 1.
+5
+.
+Slow increased to 20 / 30 / 40% from 20% at all ranks.
+Base damage reduced to 150 / 250 / 350 from 150 / 300 / 450.
+V3.6
+Iceborn
+(Innate)
+After a brief cooldown, Lissandra's next ability costs no mana. Hitting an enemy with movement impairing abilities reduces Iceborn's cooldown.
+Ice Shard
+(Q)
+Lissandra throws a spear of ice that shatters on contact with the first enemy struck, dealing damage and slowing their movement speed for a short duration. Enemies behind the struck target also take damage.
+Ring of Frost
+(W)
+Lissandra freezes the area around her, dealing damage to nearby enemies and rooting them for a short duration.
+Glacial Path
+(E)
+Lissandra casts a slow-moving, long-range ice claw in a line, dealing damage to all enemies in its path. Re-activating Glacial Path teleports Lissandra to the claw's current location.
+Frozen Tomb
+(R)
+On enemy cast: Lissandra freezes an enemy champion, damaging and stunning them briefly. Dark Ice emanates from the target, dealing damage and slowing nearby enemies.
+On self-cast: Lissandra encases herself in ice, rooting herself in place briefly and becoming untargetable and invulnerable. Dark Ice emanates from Lissandra, dealing damage and slowing nearby enemies.
+Trivia
+[
+edit
+|
+edit source
+]
+Lissandra first appeared in the
+Journal of Justice
+,
+Issue 2
+, several years before her announcement as a champion. Like now, she was portrayed as the leader of one of the three tribes of the Freljord, but her portrayal was originally vastly different, as a mortal princess allied with
+Ashe
+'s tribe.
+This was later revealed to be her alter ego, and most people are not aware of her being the Ice Witch herself.
+If Ashe, Lissandra, and/or
+Sejuani
+are played on opposing teams,
+Battle for Freljord
+will trigger. This in-game quest consists in one killing the other to earn the title of 'Queen of Freljord' (complete with a floating ice crown floating above their heads) referencing the civil war taking place there, between the three tribes each lead.
+Lissandra is the only champion to possess a single-targeted ability (
+Frozen Tomb
+) that can be used on herself but not on allies.
+Lissandra,
+Elise
+, and
+Lucian
+are the only champions to feature a monologue on their login screens.
+Lissandra
+may be the feminine form of Greek name Λύσανδρος (Lysander or "liberator").
+Her champion theme is the same as the pick music of
+ARAM
+and is titled "Freljord".
+Lissandra,
+Blitzcrank
+,
+Caitlyn
+,
+Rumble
+,
+Sion
+,
+Varus
+,
+Vi
+,
+Viego
+,
+Xerath
+, and
+Ziggs
+are the only champions who can apply
+crowd control
+on themselves.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Burst
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Burst Mages
+aim to single out vulnerable targets by locking them down and following up with a devastating barrage of damage from range. They are strongest when using their full suite of spells executed perfectly to maximum effect, and most vulnerable when they cannot deliver.
+Examples
+Annie
+Syndra
+Veigar
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Invulnerability
+A unit that is
+Invulnerable
+reduces all damage taken to
+0
+and prevents effects that trigger from damage.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Clone
+A
+clone
+or
+decoy
+is a specific type of
+pet
+that attempts to imitate a
+champion
+, copying their current vitality, stats, items, level, and most status effects upon creation. They are considered champions against many effects that do not strictly require
+player
+champions, else they are considered
+minions
+either small or large among certain cases.
+The
+damage
+they deal is attributed to them alone, but they transfer last hit and kill credit. Killing a
+clone
+awards
+25
+and
+44
+.
+League of Legends content
+Realm Warp
+COOLDOWN:
+180 / 160 / 140
+Passive:
+Overload's
+Flux
+empowered damage is increased.
+Active:
+Ryze
+channels
+for a short time to open a portal beneath him.
+Ryze
+can act during the channel, but the portal will cancel if he is
+interrupted
+.
+Upon completion, allies within the portal will
+blink
+to the target location.
+League of Legends content
+Brush
+Brush
+is a common terrain feature that obstructs
+sight
+for any unit outside of it.
+League of Legends content
+Zombie state
+A buff that allows a player to keep controlling their
+champion
+after
+Death
+always flags the champion to be in a
+zombie state
+. It prevents enemies from gaining full kill credit or triggering most on-kill effects from the champion a second time, and some abilities (e.g.
+You and Me!
+) interact differently with champions in this state.
+Renata Glasc's
+Bailout
+and
+Resurrection
+will always take precedence over
+zombie state
+effects.
+The following effects trigger a champion to enter a
+zombie state
+:
+Karthus'
+Death Defied
+Kog'Maw's
+Icathian Surprise
+Sion's
+Glory in Death
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Root
+A unit that is
+rooted
+is unable to control its movement or activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Rooted
+units can still be displaced.
+Root
+is an
+immobilizing
+effect
+.
+Moving
+includes movement commands.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Blink
+A
+blink
+refers to a form of movement whereby a unit displaces from point A to B without traversing the space between.
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Ground
+A unit that is
+grounded
+is unable to activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Grounded
+units can still be displaced.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Ground
+is the only type of
+crowd control
+that is most commonly found in persistent area of effects, which will reapply the status effect continuously.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Knockdown
+Knockdown
+only affects units that are performing a
+dash
+or being displaced by an
+airborne
+effect. A unit that is
+knocked down
+has its
+dash
+or
+displacement
+interrupted and is placed on the ground instantly.
+Knockdown
+is not a
+status effect
+.
+Interrupts:
+Interrupts all
+dashes
+and
+airborne effects
+(displacement
+and
+status effects).
+Knock ups
+will not have their
+airborne
+status removed if there is no sourced debuff, but their displacement still ends.
+Reduction:
+The effect is instantaneous.
+There is nothing to reduce.
+Resist:
+Resisted by
+crowd control immunity
+and
+displacement immunity
+.
+Removal:
+The effect is instantaneous.
+There is nothing to remove.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Stasis (buff)
+A unit that enters
+stasis
+becomes
+invulnerable
+and
+untargetable
+, but also unable to control its movement, declare basic attacks, cast abilities, use summoner spells, or activate items.
+Bard's
+Tempered Fate
+and
+Syndra's
+Force of Will
+are the only
+stasis
+effects that are considered
+crowd control
+against enemies. Some effects treat friendly (self/ally applied) and hostile (enemy applied)
+stasis
+the same.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Ice Shard
+COOLDOWN:
+8 / 7 / 6 / 5 / 4
+Active:
+Lissandra
+throws a spear of ice in the target direction that
+slows
+the first target hit and deals
+magic damage
+to all enemies it passes through.
+If
+Ice Shard
+hits an enemy, it will shatter, increasing its width and maximum range.
+League of Legends content
+Frozen Tomb
+COOLDOWN:
+120 / 100 / 80
+Active:
+Lissandra
+can cast
+Frozen Tomb
+on herself or an enemy champion.
+Enemy Cast:
+Lissandra
+briefly freezes the target enemy champion,
+knocking them down
+and
+stunning
+them.
+Self Cast:
+Lissandra
+instantly entombs herself in ice, entering
+stasis
+for 2.
+5
+seconds and
+healing
+herself over the duration based on
+her
+missing
+health
+.
+Frozen Tomb:
+Frozen Tomb
+creates a field of ice that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Ring of Frost
+COOLDOWN:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8
+Active:
+Lissandra
+freezes nearby enemies, dealing
+magic damage
+and briefly
+rooting
+them.
+References
+[
+edit
+|
+edit source
+]
+↑
+Lissandra's profile page
+at
+LeagueOfLegends.com

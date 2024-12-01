@@ -1,0 +1,2726 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Jhin
+the Virtuoso
+Release date
+2016-02-01
+Last changed
+V14.20
+Class(es)
+Marksman
+Catcher
+Legacy
+Marksman
+Mage
+Position(s)
+Bottom
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Store price
+4444
+|
+880
+Crafting
++
+Ratings
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+1
+Utility
+1
+Style
+Difficulty
+Jhin
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Jhin
+Base statistics
+Edit
+Health
+655
++107
+Mana
+300
++50
+Health regen. (per 5s)
+3.75
++0.55
+Mana regen. (per 5s)
+6
++0.8
+Armor
+24
++4.7
+Attack damage
+59
++4.4
+Magic resist.
+30
++1.3
+Crit. damage
+175% ( ×  0.86)
+Move. speed
+330
+Attack range
+550
+Attack speed
+Base AS
+0.625
++3
+Attack windup
+15.625%
+AS ratio
+0
+Bonus AS
+0%
+Missile speed
+2600
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+800
+Special statistics
+Damage Dealt
+-10%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Basic Attack
+ATTACK RANGE:
+550
+ACQUISITION RANGE:
+800
+SPEED:
+2600
+/
+3000
+Basic Attack:
+Jhin
+fires at the target with
+Whisper
+, dealing
+100% AD
+physical damage
+and applying
+on-hit
+and
+on-attack
+effects.
+Jhin's
+basic attacks can
+critically strike
+. These attacks have slightly increased missile speed, but deal only
+「
+(150.
+5
+% +
+34.
+4
+%
+) AD
+physical damage
+. 」
+「 86% of the
+critical damage
+champions usually have. 」
+Jhin's
+attack speed
+cannot be improved at all except through
+growth
+.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Basic damage
+Sub-type
+Physical
+Counters
+Parries
+Blocked
+Projectile
+Blocked
+The 3000 missile speed for critical strikes also applies to
+Whisper's
+4th shot, which is a guaranteed critical strike.
+Edit
+Whisper
+Innate - Death in 4 Acts:
+Jhin's
+gun may fire up to 4 times before needing to reload. The final round will
+critically strike
+, dealing
+bonus
+physical damage
+based on the
+target's
+missing
+health
+.
+Innate - Every Moment Matters:
+Jhin
+gains
+bonus
+attack damage
+, increased by his
+critical strike chance
+and
+bonus
+attack speed
+. Whenever he
+critically strikes
+, he gains a burst of
+movement speed
+based on his
+bonus
+attack speed
+.
+Jhin's
+attack speed
+cannot increase except by
+leveling
+up, and he deals reduced
+critical strike damage
+.
+Innate - Death In 4 Acts:
+Jhin's
+basic attacks
+consume
+ammunition
+within 4 rounds. He will
+reload
+over 2.
+5
+seconds immediately after expending all rounds or withholding leftover rounds after 10 seconds of being
+out of combat
+and not being affected by
+crowd control
+. The latter reload can be interrupted by declaring an attack or casting an ability.
+Jhin's
+final round attack has an
+uncancellable windup
+, always
+critically strikes
+, including against
+structures
+, and deals
+bonus
+physical damage
+equal to
+15 / 20 / 25% (based on level)
+of the target's
+missing
+health
+.
+Innate - Every Moment Matters:
+Jhin
+gains
+bonus
+attack damage
+equal to
+4% − 44% (based on level)
+「
+(+ 0.
+3
+% per 1% critical strike chance)
+(+ 0.
+25
+% per 1%
+bonus
+attack speed)
+」
+「
+(+ 30% critical strike chance)
+(+ 25%
+bonus
+attack speed)
+」
+AD
+.
+Additionally,
+critical strikes
+against enemies grant
+Jhin
+14%
+(+ 0.
+4
+% per 1%
+bonus
+attack speed)
+bonus
+movement speed
+for 2 seconds.
+"One, two, three, four, two, two, three, four."
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+Physical
+Counters
+Parries
+Blocked
+The penalty to
+Jhin's
+critical damage
+also reduces the base damage ((100 + 75) × 0.86 rather than 100 + (75 × 0.86) and stacks with other sources (i.e
+Infinity Edge
+) ((100 + 75 + 35) × 0.86).
+This penalty does not affect
+Curtain Call
+.
+The
+missing
+health
+damage benefits from
+life steal
+.
+The 4th attack cannot be canceled by
+Jhin
+himself.
+The 4th attack versus a structure is classified as a critical strike.
+The attack damage multiplier stacks additively with
+Dragon Slayer's
+.
+Every Moment Matters'
+bonus
+AD
+will benefit from any amount of
+bonus
+attack speed
+, even in excess of an amount that would usually reach the attacks per second cap (2.
+5
+).
+The maximum modifier without attack speed is 74%.
+44% base modifier at level 18.
+30% from critical strike chance on account of the 100% cap.
+Attack speed slows
+will not affect
+Jhin's
+bonus attack damage from his passive and will ignore his attack speed as it is fixed.
+Attack damage reductions apply before the multiplier causing them to be stronger against
+Jhin
+than advertised or versus other champions.
+The bonus damage based on the target's missing health does not affect structures.
+Map-Specific Differences
+Arena
+differences
+edit
+Critical strike bonus movement speed per
+1%
+bonus
+attack speed
+changed to 0.
+6
+%.
+Edit
+Dancing Grenade
+COST:
+40 / 45 / 50 / 55 / 60 Mana
+COOLDOWN:
+7 / 6.
+5
+/ 6 / 5.
+5
+/ 5
+CAST TIME:
+0.
+25
+TARGET RANGE:
+550
+EFFECT RADIUS:
+450
+SPEED:
+1800
+/
+600
+Jhin
+throws a grenade at the target enemy that can bounce to up to three additional nearby enemies, dealing
+physical damage
+. The grenade's damage increases any time an enemy dies by any means after being hit by the grenade before it strikes its next target.
+Active:
+Jhin
+throws a grenade at the target enemy that deals
+physical damage
+and can bounce to up to three additional nearby enemies, prioritizing the closest enemy that has not been hit.
+Physical Damage:
+44 / 69 / 94 / 119 / 144
+(+ 44 / 51.
+5
+/ 59 / 66.
+5
+/ 74% AD)
+(+ 60% AP)
+The grenade's damage is increased by 35% any time an enemy dies by any means after being hit by the grenade before it strikes its next target.
+Bonus Damage per Target Death:
+15.
+4
+/ 24.
+15
+/ 32.
+9
+/ 41.
+65
+/ 50.
+4
+(+ 15.
+4
+/ 18.
+025
+/ 20.
+65
+/ 23.
+275
+/ 25.
+9
+% AD)
+(+ 21% AP)
+Maximum Total Physical Damage:
+90.
+2
+/ 141.
+45
+/ 192.
+7
+/ 243.
+95
+/ 295.
+2
+(+ 90.
+2
+/ 105.
+575
+/ 120.
+95
+/ 136.
+325
+/ 151.
+7
+% AD)
+(+ 123% AP)
+Info
+Targeting input
+Unit
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Spell shield
+will not prevent the canister from bouncing.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 65 / 110 / 155 / 200 / 245.
+AD ratio changed to
+70 / 80 / 90 / 100 / 110% AD
+.
+Edit
+Deadly Flourish
+COST:
+50 / 55 / 60 / 65 / 70 Mana
+COOLDOWN:
+12
+CAST TIME:
+0.
+75
+RANGE:
+2520
+/
+-20
+WIDTH:
+90
+Passive:
+Enemy champions that trigger a
+Lotus Trap
+or damaged by
+Jhin
+and his allies are marked with
+Caught Out
+for a few seconds.
+Active:
+Jhin
+fires a shot in the target direction that deals
+physical damage
+to all enemies in a line until colliding with an enemy
+champion
+. Hitting a marked
+Caught Out
+champion
+roots
+them for a duration and grants
+Jhin
+Every Moment Matters'
+bonus
+movement speed
+.
+Passive:
+Enemy
+champions
+that trigger a
+Lotus Trap
+to bloom or are damaged by
+Jhin
+or allied champions are
+marked
+for 4 seconds.
+Active:
+Jhin
+fires a shot in the target direction that deals
+physical damage
+to all enemies in a line until colliding with an enemy champion, reduced by 25% against
+minions
+.
+Physical Damage:
+60 / 95 / 130 / 165 / 200
+(+ 50% AD)
+Minion Damage:
+45 / 71.
+25
+/ 97.
+5
+/ 123.
+75
+/ 150
+(+ 37.
+5
+% AD)
+Hitting a
+marked
+champion
+roots
+them for a duration and grants
+Jhin
+Every Moment Matters'
+bonus
+movement speed
+.
+Root Duration:
+1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 / 2.
+25
+seconds
+Info
+Targeting input
+Direction
+Damage type
+Type
+See Notes
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+See Notes
+Applies
+spell damage
+to the enemy champion and
+area damage
+to all other enemy units.
+The
+Caught Out
+mark only appears if
+Deadly Flourish
+can potentially
+root
+the target, and will not if the ability's cooldown is longer than 4 seconds or isn't ranked up.
+This ability will cast from wherever the caster is at the start of the cast time.
+Deadly Flourish
+is blocked by
+Wind Wall
+but not
+Blade Whirl
+.
+Deadly Flourish
+is special cased to be intercepted by the former because it looks like a blockable missile, even though it isn't functionally a missile.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 70 / 115 / 160 / 205 / 250.
+Root duration changed to 1.
+75
+/ 2.
+125
+/ 2.
+5
+/ 2.
+875
+/ 3.
+25
+seconds.
+Edit
+Captive Audience
+COST:
+30 Mana + 1 Charge
+COOLDOWN:
+2
+CAST TIME:
+0.
+25
+RECHARGE:
+24 / 21.
+5
+/ 19 / 16.
+5
+/ 14
+TARGET RANGE:
+750
+COLLISION RADIUS:
+160
+EFFECT RADIUS:
+260
+/
+260
+Passive - Beauty in Death:
+Killing an enemy champion summons a free
+Blooming Lotus Trap
+under them.
+Active:
+Jhin
+places a
+stealthed
+Lotus Trap
+at the target location. When an enemy crosses, it will
+bloom
+,
+slowing
+and
+revealing
+them. The trap detonates shortly after, dealing
+magic damage
+to enemies.
+Jhin
+stocks a
+Lotus Trap
+every few seconds, holding up to two.
+Passive - Beauty in Death:
+Whenever
+Jhin
+kills an enemy champion, he summons a
+Blooming Lotus Trap
+on their corpse.
+Active:
+Jhin
+places a
+Lotus Trap
+at the target location which, upon landing, becomes
+stealthed
+after arming over 1 second, lasting for up to 180 seconds and granting
+sight
+within its radius. The
+Lotus Trap blooms
+upon enemy contact, with enemies in the area at the time of its trigger becoming
+revealed
+for 4 seconds.
+Jhin
+periodically
+stocks
+a
+Lotus Trap
+charge, up to a maximum of 2.
+Blooming Lotus Traps
+slow
+enemies within the area by 35% for 2 seconds before exploding, dealing
+magic damage
+to enemies.
+Lotus Traps
+deal 65% damage against
+minions
+as well as against
+champions
+and
+monsters
+who have been struck by another
+Lotus Trap
+in the last 1 second.
+Magic Damage:
+20 / 80 / 140 / 200 / 260
+(+ 120% AD)
+(+ 100% AP)
+Reduced Damage:
+13 / 52 / 91 / 130 / 169
+(+ 78% AD)
+(+ 65% AP)
+See
+Pets
+for more details about Lotus Traps.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+See Notes
+Beauty in Death
+does not consume
+Lotus Trap
+charges.
+The
+Lotus Trap
+will stop upon encountering a
+Wind Wall
+or
+Unbreakable
+.
+Beauty in Death
+does not trigger after killing a
+clone
+.
+The reveal debuff is named
+Caught Out
+.
+This debuff is shared between
+Captive Audience
+and
+Curtain Call
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Slow strength changed to 50%.
+Edit
+Curtain Call
+COST:
+100 Mana
+COOLDOWN
+:
+120 / 105 / 90
+CAST TIME:
+1
+/
+0.
+25
+RANGE:
+3500
+WIDTH:
+160
+ANGLE:
+60°
+SPEED:
+5000
+Active:
+Jhin
+channels
+up to a period, being able to fire up to four shots in a large cone in front of him.
+Recast:
+Jhin
+fires a round in the target direction that deals
+physical damage
+to enemies hit based on
+their
+missing
+health
+. It stops upon hitting an enemy
+champion
+,
+slowing
+and
+revealing
+them for a short time. The fourth shot
+critically strikes
+for
+bonus
+physical damage
+.
+Curtain Call
+plays music globally when first activated and its range is always
+visible
+.
+Active:
+Jhin
+channels
+for up to 10 seconds, transforming his weapon into a cannon and gaining the ability to recast
+Curtain Call
+4 times within the duration.
+Recast:
+After 0.
+2
+seconds into the cast time,
+Jhin
+fires a round in the target direction that grants
+sight
+around its trajectory for 0.
+5
+seconds and deals
+physical damage
+to enemies hit, increased by
+0% − 300% (based on target's
+missing
+health)
+. The bullet stops upon hitting an enemy champion,
+slowing
+them by 80% for 0.
+5
+seconds and
+revealing
+them for 2 seconds. Each cast has a
+static cooldown
+of 1 second.
+Minimum Physical Damage per Bullet:
+64 / 128 / 192
+(+ 25% AD)
+Maximum Physical Damage per Bullet:
+256 / 512 / 768
+(+ 100% AD)
+The fourth shot
+critically strikes
+for
+(100% +
+40%
+)
+bonus
+physical damage
+.
+Minimum Fourth Shot Damage:
+128 / 256 / 384
+(+ 50% AD)
+Maximum Fourth Shot Damage:
+512 / 1024 / 1536
+(+ 200% AD)
+"Prepare... for your finale."
+Info
+Targeting input
+Direction
+Damage type
+Type
+See Notes
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Disruption
+Interrupted
+Applies
+spell damage
+to enemy champions and
+area damage
+to other enemy units.
+Each cast counts as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Curtain Call's
+shooting range is fixed in front of
+Jhin
+.
+The opening sound effect and area of range are audible and visible to both teams.
+Leveling up the ability while channeling will change the final cooldown.
+Jhin
+will turn to face in the target direction whenever he uses a recast.
+Jhin
+gains a wider field of view during
+Curtain Call
+.
+The reveal debuff is named
+Caught Out
+.
+This debuff is shared between
+Captive Audience
+and
+Curtain Call
+.
+This ability will cast from wherever the caster is at the end of the cast time.
+The following table refers for interactions while
+Jhin
+is
+channeling
+:
+Type
+Channel
+Attacking
+Interrupts
+Abilities
+Interrupts
+Movement
+Interrupts
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+Hextech Rocketbelt
+Interrupted by
+All item-actives not specified above interrupt
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Hexflash
+Interrupted by
+Teleport
+Recall
+Interrupted by
+Death
+Cast-inhibiting effects
+Type
+Cast time
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 144 / 294 / 444.
+AD ratio changed to
+44% AD
+.
+Cooldown changed to 45 / 30 / 15 seconds.
+Traps
+[
+edit
+|
+edit source
+]
+Lotus Trap
+Bounty
+Gold
+10
+Exp
+0
+Statistics
+Health
+3
+Range
+260
+Incoming damage modifier
+1 from
+ranged
+and
+melee
+champion basic attacks
+Control type
+Autonomous (static)
+Target type
+Ward
+Spell effects
+A
+Lotus Trap's
+explosion applies
+spell effects
+as
+area damage
+.
+Protection
+Lotus Traps
+deal
+「 65% damage 」
+「
+13 / 52 / 91 / 130 / 169
+(+ 78% AD)
+(+ 65% AP)
+magic damage
+」
+to
+minions
+, as well as to champions recently damaged by another
+Lotus Trap
+.
+Abilities
+Stealth Trap
+The
+Lotus Trap
+stealths
+and becomes
+untargetable
+after 1 second, remaining vulnerable to trap-revealing effects at all times.
+Bloom
+If an enemy walks over the
+Lotus Trap
+, it begins to
+bloom
+,
+revealing
+all enemies on top of it for 4 seconds and winding down over 2 seconds, during which it
+slows
+all enemies within by 35%, before exploding, dealing
+20 / 80 / 140 / 200 / 260
+(+ 120% AD)
+(+ 100% AP)
+magic damage
+to all enemies hit.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Jhin (Collection)
+.
+Original
+View in 3D
+880
+01.02.2016
+Jhin is a meticulous criminal psychopath who believes murder is art. Once an Ionian prisoner, but freed by shadowy elements within Ionia’s ruling council, the serial killer now works as their cabal's assassin. Using his gun as his paintbrush, Jhin creates works of artistic brutality, horrifying victims and onlookers. He gains a cruel pleasure from putting on his gruesome theater, making him the ideal choice to send the most powerful of messages: terror.
+Quinton Flynn
+Evan 'Somnicidal' Monteiro
+Loot eligible
+High Noon
+View in 3D
+1350
+01.02.2016
+Need a man dead? Hire any sun-baked lunatic looking to make a name for themselves in the Old West. Need to set an example? Then you should seek out the mechanical assassin known as Jhin—and no one will ever forget what happens at the crossroads of murder and art.
+Quinton Flynn
+Alvin Lee
+High Noon
+Loot eligible
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+Chromas
+High Noon Jhin Chromas
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Blood Moon
+View in 3D
+1350
+09.02.2017
+Ink-mage, trained assassin, master of ceremonies: Jhin is all this and more, a grandiose figure whose encyclopedic knowledge of centuries-old rituals fuels the Blood Moon's hellish summoning rites. He knows the name of every demon, and how to direct them into a still-living vessel.
+Quinton Flynn
+Esben Lash Rasmussen
+Blood Moon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+SKT T1
+View in 3D
+1350
+27.06.2017
+Honoring Bang's winning performance as Jhin during the 2016 World Championship. This is Bang's second World Champion skin, following his win with SKT at the 2015 World Championship.
+Quinton Flynn
+Alvin Lee
+World Champions: 2016
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+PROJECT
+View in 3D
+1350
+22.11.2017
+After a botched surgery, Jhin went from being a black-market augment hacker to a notorious mechanized killer for hire. Still programmed with a taste for high-clearance upgrades, the tech Jhin takes from his victims has left him with a severe personality fragmentation, and a dark vision for the future of PROJECT... and humanity.
+Quinton Flynn
+Alex 'alexplank' Flores
+PROJECT
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Dark Cosmic
+View in 3D
+1820
+13.06.2019
+Jhin was an interstellar entity, consumed by the Dark Star and given new purpose. Now his ageless mind is infected by visions of omnipotence, and consumed by an insatiable hunger. He scours entire regions of space seemingly on a whim, using the remnants to create bizarre, silent objets d'art.
+Quinton Flynn
+Bo 'chenbowow' Chen
+Dark Star
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Transforming
+Shan Hai Scrolls
+View in 3D
+1350
+28.01.2021
+A mad god who resides within a mysterious painting older than creation, Jhin has grown bored of the canvas in which he dwells and wishes to bring his art to new, fresh eyes. He has begun weaving the edges of the painting into the fabric of the multiverse, hoping to escape his confinement.
+Quinton Flynn
+Lucas Parolin, West Studio
+Shan Hai Scrolls
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Shan Hai Scrolls Jhin Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+DWG
+View in 3D
+1350
+29.04.2021
+Honoring Ghost's winning performance as Jhin during the 2020 World Championship.
+Quinton Flynn
+Jennifer Wuestling
+World Champions: 2020
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+DWG Jhin Chromas
+Elite
+Empyrean
+View in 3D
+1350
+03.11.2022
+Jhin woke as an Empyrean with a sensation he'd never known before: true warmth. Exhilarated by the power, he set innocents ablaze with a flick of his hand. Finally, a muse worthy of him! The realization that “she” is slowly killing him only charms him more. Now if only he could find her source…
+Quinton Flynn
+Augusto Quirino, West Studio
+Empyrean
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Empyrean Jhin Chromas
+Aquamarine
+Catseye
+Emerald
+Neon Flare
+Pearl
+Rainbow
+Rose Quartz
+Ruby
+Tanzanite
+Soul Fighter
+View in 3D
+1350
+03.08.2023
+Don't ask him how, but this twisted mentor can unlock ANY person's soul power under the right conditions! Just be prepared, because his trials are deadly! He's ready to put his art on full display on the world's biggest stage and maybe even get some revenge on a bounty hunter along the way! Let's give it up for… Jhin!
+Quinton Flynn
+Eric Xie, West Studio
+Soul Fighter
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Soul Fighter Jhin Chromas
+Amethyst
+Catseye
+Emerald
+Limitless
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Dark Cosmic Erasure
+View in 3D
+Special
+30.08.2023
+Jhin was an interstellar entity, consumed by the Dark Star and given new purpose. Now his ageless mind is infected by visions of omnipotence, and consumed by an insatiable hunger. He scours entire regions of space seemingly on a whim, using the remnants to create bizarre, silent objets d'art.
+Quinton Flynn
+Marie Magny, West Studio
+Dark Star
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Transforming
+This skin is a variant of
+Dark Cosmic
+. Store variants are discounted for multiple purchases.
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.20
+Stats
+Attack damage growth reduced to 4.
+4
+from 4.
+7
+.
+Curtain Call
+Minimum base damage reduced to 64 / 128 / 192 from 64 / 154 / 244.
+Maximum base damage reduced to 256 / 512 / 768 from 256 / 616 / 976.
+V14.19
+Captive Audience
+Bug Fix:
+Fixed an issue that caused it to reveal their ward if it was placed directly on a friendly ward and then triggered by an enemy.
+V14.8
+Whisper
+Base bonus movement speed increased to 14% from 10%.
+Dancing Grenade
+Minimum base damage reduced to 44 / 69 / 94 / 119 / 144 from 45 / 70 / 95 / 120 / 145.
+Minimum AD ratio increased to
+44 / 51.
+5
+/ 59 / 66.
+5
+/ 74% AD
+from
+35 / 42.
+5
+/ 50 / 57.
+5
+/ 65% AD
+.
+V14.2
+Whisper
+Bug Fix:
+Fourth shot no longer fails if it is fired right before it expires.
+Undocumented / New Effect:
+Fourth shot now has an uncancellable windup against all targets instead of against champions only.
+V13.19
+General
+Bug Fix:
+Now plays the correct animation for his running instead of using the one for homeguard.
+Curtain Call
+Minimum base damage increased to 64 / 154 / 244 from 50 / 125 / 200.
+V13.17
+Shan Hai Scrolls Jhin
+Bug Fix:
+Now properly has a pulsating overlay.
+Dark Cosmic Jhin
+Whisper
+and
+Curtain Call
+Bug Fix:
+Voiceover playback for ability casts have been corrected.
+V13.14
+Deadly Flourish
+Bug Fix:
+VFX now appears correctly if the target was displaced after being rooted.
+V13.7
+Dancing Grenade
+Bug Fix:
+VFX for
+Shan Hai Scrolls Jhin
+no longer becomes bigger after bouncing from the first target.
+V13.1b
+Deadly Flourish
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 50 / 60 / 70 / 80 / 90.
+Captive Audience
+Mana cost reduced to 30 at all ranks from 30 / 35 / 40 / 45 / 50.
+V12.10
+Stats
+Base health increased to 655 from 585.
+Health growth increased to 107 from 93.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V12.8
+Deadly Flourish
+Root duration increased to 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 / 2.
+25
+seconds from 1 / 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2.
+Damage against monsters increased to 100% from 75%.
+Captive Audience
+Recharge timer reduced to 24 / 21.
+5
+/ 19 / 16.
+5
+/ 14 seconds from 26 / 23.
+5
+/ 21 / 18.
+5
+/ 16.
+Damage against monsters increased to 100% from 65%.
+V11.16
+Deadly Flourish
+Base damage increased to 60 / 95 / 130 / 165 / 200 from 50 / 85 / 120 / 155 / 190.
+Non-champion base damage increased to 45 / 71.
+25
+/ 97.
+5
+/ 123.
+75
+/ 150 from 37.
+5
+/ 63.
+75
+/ 90 / 116.
+25
+/ 142.
+5
+.
+Curtain Call
+Minimum AD ratio increased to
+25% AD
+from
+20% AD
+.
+Maximum AD ratio increased to
+100% AD
+from
+80% AD
+.
+V10.25
+Whisper
+Bug Fix:
+When equipped with
+Guinsoo's Rageblade
+and
+Runaan's Hurricane
+, the bolts from his fourth shot will now properly deal normal damage.
+Dancing Grenade
+Minimum AD ratio reduced to
+35 / 42.
+5
+/ 50 / 57.
+5
+/ 65% AD
+from
+45 / 52.
+5
+/ 60 / 67.
+5
+/ 75% AD
+.
+Maximum AD ratio reduced to
+71.
+75
+/ 87.
+125
+/ 102.
+5
+/ 117.
+875
+/ 133.
+25
+% AD
+from
+92.
+25
+/ 107.
+625
+/ 123 / 138.
+375
+/ 153.
+75
+% AD
+.
+V10.23
+Whisper
+Critical strike damage reduction reduced to 14% from 25%.
+Critical strike damage increased to 150.
+5
+% from 150%.
+Bonus attack damage per critical strike chance reduced to
+0.
+3
+% per 1% critical strike chance
+from
+0.
+4
+% per 1% critical strike chance
+.
+Curtain Call
+Fourth shot critical strike damage unchanged at 200%.
+V10.16
+Whisper
+Final shot against structures now uses Jhin's basic attack
+critical strike
+modifier instead of a static 60% modifier, increasing the damage to
+150% AD
+from
+120% AD
+.
+V10.15
+Whisper
+Bug Fix:
+Now properly respawns with full ammunition.
+V10.14
+Captive Audience
+Bug Fix:
+No longer deploys a
+Captive Audience
+trap instead of a
+Whisper
+fourth shot in certain scenarios.
+V10.11
+Stats
+Base health increased to 585 from 556.
+Health growth increased to 93 from 91.
+Whisper
+Bug Fix:
+Fourth shot can no longer be cancelled against minions and monsters.
+Bug Fix:
+No longer auto-targets enemies and monsters with his fourth shot when idle.
+V10.9
+Whisper
+Undocumented:
+The fourth attack can now be cancelled against minions and monsters.
+V10.2
+- February 2nd Hotfix
+Dancing Grenade
+Undocumented:
+The grenade's damage is now properly increased if
+Jhin
+kills the target the grenade last bounced off.
+V10.2
+- January 30th Hotfix
+Dancing Grenade
+Undocumented:
+The grenade's damage is no longer increased if
+Jhin
+kills the target the grenade last bounced off.
+Captive Audience
+Bug Fix:
+Basic attacks no longer change into
+Captive Audience
+after he's hit by
+Sett's
+The Show Stopper
+.
+V9.18
+Stats
+Base attack damage increased to 59 from 57.
+V9.14
+Deadly Flourish
+Cooldown reduced to 12 seconds from 14.
+Root duration increased to 1 / 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 seconds from 0.
+75
+/ 1 / 1.
+25
+/ 1.
+5
+/ 1.
+75
+.
+V9.12
+Dancing Grenade
+Bug Fix:
+Now properly bounces to other targets even after its damage is consumed by
+Sivir's
+Spell Shield
+.
+V9.8
+Deadly Flourish
+Bug Fix:
+Range/cast indicator now appears correctly.
+Captive Audience
+Trap duration increased to 180 seconds from 120.
+Recharge time to reduced to 28 / 25 / 22 / 19 / 16 seconds from 28 / 27 / 26 / 25 / 24.
+Curtain Call
+Damage multiplier increased to
+0% − 300% (based on target's
+missing
+health)
+from
+0% − 250% (based on target's
+missing
+health)
+.
+Bug Fix:
+Fixed a bug where the level-up tooltip was displaying incorrect values.
+V9.5
+Dancing Grenade
+Minimum AD ratio increased to
+45 / 52.
+5
+/ 60 / 67.
+5
+/ 75% AD
+from
+40 / 47.
+5
+/ 55 / 62.
+5
+/ 70% AD
+.
+V9.1
+Deadly Flourish
+New Effect:
+Can now ping whether the ability is within range or not.
+Curtain Call
+New Effect:
+Can now ping whether the ability is within range or not.
+V8.22
+Whisper
+Bug Fix:
+Movement speed bonus on crit is now determined based on his attack speed when the basic attack fires, rather than when it hits.
+Bug Fix:
+If he crits multiple times in a row, his movement speed bonus is now recalculated for each crit, rather than each crit refreshing the duration of the first crit's bonus.
+Bug Fix:
+Fixed a bug where he was getting an empowered haste off his first
+Hail of Blades
+attack (the one that triggers it).
+Bug Fix:
+Fixed a bug where he was
+not
+getting an empowered haste off his third
+Hail of Blades
+attack.
+V8.13
+Captive Audience
+Bug Fix:
+No longer fails to play sound and animation if the trap is triggered in brush.
+V8.12
+Whisper
+Bug Fix
+The fourth shot now overrides
+Stormrazor's
+guaranteed-crit damage modifier.
+V8.11
+Stats
+Base health increased to 556 from 540.
+Health growth increased to 91 from 85.
+Base armor reduced to 24 from 29.
+Base health regeneration reduced to 3.
+75
+from 6.
+Base attack damage reduced to 57 from 61.
+Attack damage growth increased to 4.
+7
+from 4.
+V8.9
+Whisper
+Bug Fix:
+Fixed a bug where it interacted recursively with
+Guinsoo's Rageblade's
+bonus attack damage-granting effect to grant more attack damage than intended. Now it stacks multiplicatively.
+Captive Audience
+Bug Fix:
+Fixed a bug where they would trigger repeatedly against intro bots.
+V8.6
+PROJECT: Jhin
+Bug Fix:
+Music once again plays at the beginning of the game upon first move.
+V8.5
+Whisper
+Passive attack damage increased to
+4% − 44% (based on level)
+from
+2% − 40% (based on level)
+.
+Dancing Grenade
+AD ratio increased to
+40 / 47.
+5
+/ 55 / 62.
+5
+/ 70% AD
+from
+40 / 45 / 50 / 55 / 60% AD
+.
+Deadly Flourish
+New Effect:
+Any of
+Jhin's
+damage now marks enemy champions with
+Caught Out
+, allowing the
+root
+with
+Deadly Flourish
+.
+V8.3
+Curtain Call
+Base damage increased to 50 / 125 / 200 from 50 / 115 / 180.
+V8.2
+Dancing Grenade
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V7.22
+Stats
+Base attack damage increased to 61 from 53.
+Base armor increased to 29 from 20.
+V7.19
+High Noon Jhin
+Curtain Call
+Bug Fix:
+Model no longer stretches when shooting during
+Curtain Call
+.
+Blood Moon Jhin
+Bug Fix:
+Shields now follow the model during his recall animation.
+V7.17
+Blood Moon Jhin
+Curtain Call
+Bug Fix:
+Now has enemy and ally indicators.
+V7.12
+Dancing Grenade
+Base damage reduced to 45 / 70 / 95 / 120 / 145 from 50 / 75 / 100 / 125 / 150.
+AD ratio increased to
+40 / 45 / 50 / 55 / 60% AD
+from
+30 / 35 / 40 / 45 / 50% AD
+.
+Curtain Call
+Base damage increased to 50 / 115 / 180 from 40 / 100 / 160.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.7
+Captive Audience
+Bug Fix:
+Lifesteal no longer applies when hitting traps.
+V7.6
+Blood Moon Jhin
+Bug Fix:
+No longer uses
+Classic Jhin's
+critical strike VFX.
+V7.5
+High Noon Jhin
+Curtain Call
+Bug Fix:
+Fixed a bug where the range indicator was too large.
+Dancing Grenade
+Bug Fix:
+Fixed a bug where casting it from fog of war / brush would not reveal
+Jhin
+to enemy champions.
+V7.4
+Captive Audience
+New Effect:
+Targetable hitbox increased to 125 units from 50.
+Curtain Call
+Slow duration reduced to 0.
+5
+seconds from 0.
+75
+.
+V6.24
+Deadly Flourish
+Bug Fix:
+No longer plays
+Jayce's
+Shock Blast
+audio on cast if both champions are in the same game.
+V6.17
+Deadly Flourish
+AD ratio reduced to
+50% AD
+from
+70% AD
+.
+Damage modifier versus minions and monsters increased to 75% from 65%.
+Curtain Call
+Base damage reduced to 40 / 100 / 160 from 50 / 125 / 200.
+Bonus damage per
+1% of enemy's missing health
+increased to 2.
+5
+% from 2%.
+Removed:
+Cooldown refund.
+Clarity:
+Enemies now have an indicator for the max range of
+Curtain Call
+.
+V6.7
+General
+Bug Fix:
+Restored High Noon's harmonica sound effect when his fourth shot is ready.
+Dancing Grenade
+Mana cost increased to 40 / 45 / 50 / 55 / 60 from 30 / 35 / 40 / 45 / 50.
+Base damage reduced to 50 / 75 / 100 / 125 / 150 from 60 / 85 / 110 / 135 / 160.
+Maximum damage reduced to 123.
+01
+/ 184.
+52
+/ 246.
+03
+/ 307.
+54
+/ 369.
+05
+from 147.
+62
+/ 209.
+13
+/ 270.
+64
+/ 332.
+15
+/ 393.
+66
+.
+Captive Audience
+Mana cost reduced to 30 / 35 / 40 / 45 / 50 from 40 / 45 / 50 / 55 / 60.
+V6.4
+Stats
+Base health regen increased to 6 from 5.
+5
+.
+Health regen growth increased to 0.
+55
+from 0.
+5
+Movement speed increased to 330 from 325.
+Whisper
+Bug Fix:
+Rapid Firecannon
+'s buff would consume itself if Jhin reloaded.
+New Effect:
+Death In 4 Acts' final shot's critical strike applies against structures.
+Clarity:
+The bonus physical damage isn't applied.
+New Effect:
+Every Moment Matters' critical damage reduction is increased to 44%.
+New Effect:
+All bonus attack speed is affected by attack speed slows affecting Every Moment Matters' bonus attack damage.
+Deadly Flourish
+New Effect:
+The Caught Out mark cannot fall off during the cast animation.
+New Effect:
+Applies spell effects as a single-target ability versus champions.
+Captive Audience
+New Effect:
+Constantly applies the Caught Out mark rather than just to the enemies inside upon activating and/or detonating.
+Curtain Call
+New Effect:
+Applies spell effects as a single-target ability versus champions.
+Bug Fix:
+Enemies will no longer 'stutter' on the edge of Jhin's screen while ulting.
+V6.3
+Curtain Call
+Animations improved for players with high-resolution screens.
+V6.2
+Added
+Trivia
+[
+edit
+|
+edit source
+]
+Jhin's Deutsch/German title,
+Der Virtuose
+, is the masculine form of
+Sona's
+title,
+Die Virtuosin
+.
+His dance references the
+Lezginka
+dance
+.
+A side-by-side comparison can be seen
+here
+.
+Jhin is the first champion who does not actually appear in his own Splash Art.
+Jhin is the second champion to have a Loading screen and Portrait icon not focus the actual champion, in his case, focus on the mirror image. The first one is
+LeBlanc
+.
+Jhin is the first champion to feature a takedown animation on his Classic skin, via
+Beauty in Death
+. It should be noted however that the passive effect is not solely for cosmetic purposes.
+Despite being the only one seen in-game, the rose is just one of the many things he sees when killing someone.
+[2]
+Occasionally when playing as Jhin, at the start of the game (between your team spawning at the fountain and then minions doing so at nexus) the player can hear a version of the map's theme that fits the style of Jhin's own.
+As Jhin, triggering
+The Collector
+Death and Taxes
+will cause the damage indicator to display as "4444" instead of "999". This change was added on
+V12.19
+.
+If Jhin loses the Golden Ratio quest to
+Hwei
+, he gains the
+"A Mask Exposed" buff whose icon is a reference to the
+Masked Crying Wojak
+meme.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Marksman
+Marksmen
+(formerly "Carries") excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger. Although Marksmen have the ability to stay relatively safe by kiting their foes, they are very fragile and are extremely reliant on powerful item purchases to become true damage threats.
+At present, Marksmen do not have any official subclasses. The following have been considered:
+Demolisher
+Scrapper
+Examples
+Ashe
+Ezreal
+Lucian
+Kai'Sa
+Jhin
+League of Legends content
+Catcher
+Controllers
+are defensive casters that oversee the battlefield by protecting and opening up opportunities for their allies.
+Catchers
+specialize in locking down opponents or, in some cases, entire battlefields by creating intense zones of threat that only foolish enemies would dare wade through. Although not as reliant on their friends as Enchanters, the fragile Catchers greatly benefit from allied presence - both to deter incoming danger and to help capitalize on targets they've locked down.
+Examples
+Blitzcrank
+Morgana
+Zyra
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Bottom
+Within a
+drafted team
+, the
+Bottom Carry
+is one of the two champions assigned to the bottom lane alongside the
+Support
+. Being the most vulnerable, the
+Bottom Carry
+has to acquire as much gold as possible to purchase key items that will greatly increase their fighting potential.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Bottom Carry
+is expected to fulfill the former designation: the position is made for champions that highly depend on item-based power spikes.
+Marksmen
+are the most likely champions to be selected in the
+Bottom Carry
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Whisper
+Innate - Death in 4 Acts:
+Jhin's
+gun may fire up to 4 times before needing to reload. The final round will
+critically strike
+, dealing
+bonus
+physical damage
+based on the
+target's
+missing
+health
+.
+Innate - Every Moment Matters:
+Jhin
+gains
+bonus
+attack damage
+, increased by his
+critical strike chance
+and
+bonus
+attack speed
+. Whenever he
+critically strikes
+, he gains a burst of
+movement speed
+based on his
+bonus
+attack speed
+.
+Jhin's
+attack speed
+cannot increase except by
+leveling
+up, and he deals reduced
+critical strike damage
+.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Crowd control
+A unit that is
+disabled
+is affected by a status effect that prevents certain actions – such as movement, attacking, casting and/or seeing–blocked, reduced or controlled.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Curtain Call
+COOLDOWN:
+120 / 105 / 90
+Active:
+Jhin
+channels
+up to a period, being able to fire up to four shots in a large cone in front of him.
+Recast:
+Jhin
+fires a round in the target direction that deals
+physical damage
+to enemies hit based on
+their
+missing
+health
+. It stops upon hitting an enemy
+champion
+,
+slowing
+and
+revealing
+them for a short time.
+The fourth shot
+critically strikes
+for
+bonus
+physical damage
+.
+Curtain Call
+plays music globally when first activated and its range is always
+visible
+.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Captive Audience
+RECHARGE:
+24 / 21.
+5
+/ 19 / 16.
+5
+/ 14
+Passive - Beauty in Death:
+Killing an enemy champion summons a free
+Blooming Lotus Trap
+under them.
+Active:
+Jhin
+places a
+stealthed
+Lotus Trap
+at the target location. When an enemy crosses, it will
+bloom
+,
+slowing
+and
+revealing
+them. The trap detonates shortly after, dealing
+magic damage
+to enemies.
+Jhin
+stocks a
+Lotus Trap
+every few seconds, holding up to two.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Root
+A unit that is
+rooted
+is unable to control its movement or activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Rooted
+units can still be displaced.
+Root
+is an
+immobilizing
+effect
+.
+Moving
+includes movement commands.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Wind Wall
+COOLDOWN:
+25 / 23 / 21 / 19 / 17
+Active:
+Yasuo
+raises a wind wall that drifts in the target direction for a few seconds, blocking all enemy
+projectiles
+that hit it.
+References
+[
+edit
+|
+edit source
+]
+↑
+Jhin's profile page
+at
+LeagueOfLegends.com
+↑
+Jhin Q&A

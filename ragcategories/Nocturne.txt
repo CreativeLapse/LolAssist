@@ -1,0 +1,2317 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Nocturne
+the Eternal Nightmare
+Release date
+2011-03-15
+Last changed
+V14.9
+Class(es)
+Assassin
+Legacy
+Fighter
+Assassin
+Position(s)
+Jungle
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+2
+Utility
+2
+Style
+Difficulty
+Nocturne
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Nocturne
+Base statistics
+Edit
+Health
+655
++109
+Mana
+275
++35
+Health regen. (per 5s)
+7
++0.75
+Mana regen. (per 5s)
+7
++0.45
+Armor
+38
++4.7
+Attack damage
+62
++2.6
+Magic resist.
+32
++1.55
+Crit. damage
+175%
+Move. speed
+345
+Attack range
+125
+Attack speed
+Base AS
+0.721
+Attack windup
+20.053%
+AS ratio
+N/A
+Bonus AS
++2.7
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+600
+Special statistics
+Damage Dealt
++10%
+Damage Received
+-10%
+Healing
++20%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Umbra Blades
+STATIC COOLDOWN
+:
+13
+EFFECT RADIUS:
+360
+Innate:
+Periodically,
+Nocturne's
+next basic attack causes him to slash in a circle that deals
+increased
+physical damage
+to the target and nearby enemies,
+healing
+him for each enemy hit. Basic attacks
+reduce
+Umbra Blade's
+cooldown, increased against
+monsters
+and
+champions
+.
+Innate:
+Periodically,
+Nocturne
+empowers his next
+basic attack
+to slash in a circle, dealing
+120% AD
+physical damage
+to the target and nearby enemies and
+healing
+himself for
+13 − 30 (based on level)
+(+ 30% AP)
+per enemy hit. Against
+minions
+,
+Umbra Blade's
+damage to secondary targets and healing are reduced by 50% and it applies
+on-hit
+effects
+(note)
+to all targets at 100% effectiveness.
+Umbra Blades
+can
+critically strike
+against the primary target, modifying the
+physical damage
+dealt to
+「
+(192.
+5
+% +
+44%
+) AD
+. 」
+「 110% of the
+critical damage
+of his basic attacks. 」
+Basic attacks reduce
+Umbra Blades'
+cooldown
+by 1 second, increased to 3 against enemy
+champions
+and
+monsters
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+See Notes
+Sub-type
+Physical
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+The primary target of the enhanced attack takes
+basic damage
+while the secondary targets of the slash are dealt
+default damage
+.
+The enhanced attack will apply other
+on-hit effects
+(only to main target) and can
+critically strike
+as normal.
+The critical strike damage of the attack is notably unusual.
+(note)
+It stems from a time where critical strikes by default did
+200% AD
+damage, which meant that 110% of it equaled
+220% AD
+, equal to a more standard
+Umbral Blades'
+bonus damage of
+20% AD
+added to the critical damage. This also causes bonus critial damage such as
+Infinity Edge's
+passive to be 10% stronger on the attack.
+Now, the formula reduces the expected critical damage slightly by
+-2.
+5
+% AD
+, which is 10% of the reduction in base critical damage from
+Pre-Season 11
+.
+The empowered attack will not trigger against
+structures
+nor
+wards
+.
+Basic attacks against them will still grant the cooldown reduction.
+Parry effects will only block the damage dealt to the primary target.
+Edit
+Duskbringer
+COST:
+60 / 65 / 70 / 75 / 80 Mana
+COOLDOWN:
+8
+CAST TIME:
+0.
+25
+RANGE:
+1200
+EFFECT RADIUS:
+150
+WIDTH:
+120
+SPEED:
+1600
+Active:
+Nocturne
+casts out a shadow blade in the target direction that leaves a
+Dusk Trail
+in its wake, dealing
+physical damage
+to enemies hit. Enemy
+champions
+hit will leave a
+Dusk Trail
+in their wake for a few seconds. While on the
+Dusk Trail
+, Nocturne is
+ghosted
+and gains
+bonus
+movement speed
+and
+bonus
+attack damage
+.
+Active:
+Nocturne
+casts out a shadow blade in the target direction that leaves a
+Dusk Trail
+in its wake, dealing
+physical damage
+to enemies hit. Enemy
+champions
+and large
+monsters
+hit will leave a
+Dusk Trail
+behind while moving.
+Dusk Trails
+last 5 seconds and will slowly disappear afterwards.
+Physical damage:
+65 / 110 / 155 / 200 / 245
+(+ 85%
+bonus
+AD)
+While on the
+Dusk Trail
+,
+Nocturne
+is
+ghosted
+and gains
+bonus
+attack damage
+and
+bonus total
+movement speed
+.
+Bonus Attack Damage:
+20 / 30 / 40 / 50 / 60
+Bonus Movement Speed:
+15 / 20 / 25 / 30 / 35%
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Duskbringer
+checks for and hits targets 25 units outside of the missile's maximum range.
+Duskbringer's
+damage is not increased by the
+bonus
+AD
+gained from its trail, meaning that casting it again while on the trail from the last cast will not result in higher damage.
+It is observed from seasons ago that this is intentionally hard-coded into the ability to avoid the projectile increasing its own damage. This feature is somewhat deprecated as it also limits chain-casting
+Duskbringer
+.
+Duskbringer's Dusk Trail
+will expose the path of affected units until its duration ends. It is a form of
+obscured vision
+; the trail indirectly reveals the location of enemy units even in the fog of war, including those shrouded by
+stealth
+.
+Spell shield
+will block the damage and also prevents the
+Dusk Trail
+from following the target.
+The formed
+Dusk Trail
+does not disappear if
+Duskbringer
+is intercepted by
+Wind Wall
+or
+Unbreakable
+.
+This ability will cast from wherever the caster is at the start of the cast time.
+The
+bonus
+movement speed
+stacks multiplicatively
+with other sources of movement speed boosts.
+Edit
+Shroud of Darkness
+COST:
+50 Mana
+COOLDOWN:
+20 / 18 / 16 / 14 / 12
+CAST TIME:
+none
+Passive:
+Nocturne
+gains
+bonus
+attack speed
+.
+Active:
+Nocturne
+gains a brief
+spell shield
+. If it blocks an ability, the
+bonus
+attack speed
+is doubled for a few seconds.
+Passive:
+Nocturne
+gains
+bonus
+attack speed
+.
+Bonus Attack Speed:
+30 / 35 / 40 / 45 / 50%
+Enhanced Bonus Attack Speed:
+60 / 70 / 80 / 90 / 100%
+Active:
+Nocturne
+gains a
+spell shield
+for 1.
+5
+seconds. Upon successfully blocking a hostile effect,
+Shroud of Darkness'
+bonus
+attack speed
+is doubled for 5 seconds.
+Info
+Targeting input
+Auto
+If
+Shroud of Darkness
+is active when
+Nocturne
+re-casts
+Paranoia
+to dash to a target, its duration is refreshed every 0.
+25
+seconds during the dash.
+Edit
+Unspeakable Horror
+COST:
+60 / 65 / 70 / 75 / 80 mana
+COOLDOWN:
+15 / 14 / 13 / 12 / 11
+CAST TIME:
+none
+TARGET RANGE:
+425
+EFFECT RADIUS:
+1000
+TETHER RADIUS:
+465
+Passive:
+Nocturne
+gains
+bonus
+movement speed
+while moving towards
+feared
+targets.
+Active:
+Nocturne
+torments the target, forming a
+tether
+that continually deals
+magic damage
+. If the tether is not broken after a short time, the target is briefly
+feared
+and
+slowed
+.
+Passive:
+Nocturne
+gains
+90%
+bonus
+movement speed
+while facing nearby
+feared
+targets.
+Active:
+Nocturne
+torments the target, forming a
+tether
+between himself and the target for 2 seconds, during which the target takes
+magic damage
+every 0.
+5
+seconds over the duration.
+Total Magic Damage:
+80 / 125 / 170 / 215 / 260
+(+ 100% AP)
+Magic Damage per Tick:
+20 / 31.
+25
+/ 42.
+5
+/ 53.
+75
+/ 65
+(+ 25% AP)
+If the tether is not broken by the end of its duration, the target is
+feared
+for a duration while being
+slowed
+by 90%.
+Disable Duration:
+1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 / 2.
+25
+seconds
+Info
+Targeting input
+Unit
+Damage type
+Type
+DOT damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+See Notes
+Projectile
+Not Blocked
+Feared enemies in a
+180° total angle within
+Nocturne's
+facing direction will trigger
+Unspeakable Horror's
+passive.
+The movement speed buff is granted even while
+Nocturne
+is standing still.
+Nocturne
+does not need to have sight of fleeing targets to gain movement speed towards them.
+Spell shield
+will block the tether's application but not the damage and aftereffects of one already applied.
+Edit
+Paranoia
+COST:
+100 Mana
+COOLDOWN
+:
+140 / 115 / 90
+CAST TIME:
+none
+TARGET RANGE:
+2500 / 3250 / 4000
+EFFECT RADIUS:
+Global
+SPEED:
+1800
+Sight Reduction:
+300
+Active:
+Nocturne
+terrorizes all enemy champions,
+nearsighting
+them for a few seconds. He can recast
+Paranoia
+during this time.
+Recast:
+Nocturne
+dashes
+with
+displacement immunity
+to the target enemy champion, dealing
+physical damage
+upon arrival.
+displacement immunity
+:
+The dash cannot be deterred by
+crowd control
+.
+Active:
+Nocturne
+terrorizes all enemy champions,
+nearsighting
+them for 6 seconds. He can recast
+Paranoia
+for the same duration after 0.
+25
+seconds.
+Recast:
+Nocturne
+dashes
+with
+displacement immunity
+to the target enemy champion, dealing
+physical damage
+upon arrival.
+Physical Damage:
+150 / 275 / 400
+(+ 120%
+bonus
+AD)
+Nocturne
+can cast any of his
+abilities
+during the dash.
+"Darkness... "
+Activation alert.
+Info
+Targeting input
+Auto
+/
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Grounded
+See Notes
+Knockdown
+Not Interrupted
+Nocturne
+will track the target if they change locations.
+He will dash to the target's previous location without dealing damage if the target is too far away or moves beyond 3500 / 4250 / 5000 (based on
+Paranoia's
+rank) units.
+Enemy players affected by
+Paranoia's
+nearsight
+cannot interact with the allied portrait icons on the HUD.
+Paranoia's
+nearsight
+will apply to enemy champions that are
+untargetable
+or are dead, and will persist through
+death
+.
+Nocturne
+can cast any of his
+abilities
+,
+summoner spells
+(excluding
+Hexflash
+), or
+item actives
+during flight.
+Using a
+dash
+or
+blink
+ability will interrupt the flight.
+The flight will also be interrupted if
+Nocturne
+is affected by a
+Blast Cone
+triggered by an allied champion.
+(bug)
+Paranoia
+cannot be recast while
+grounded
+or
+rooted
+.
+Paranoia's
+nearsight
+does not apply to
+clones
+.
+Players'
+screens will turn a different color when
+Paranoia
+is cast, based on their perspective: blue for allies and red for enemies.
+A
+spell indicator
+telegraphed to
+Nocturne
+and his allies will be placed on all enemy
+champions
+within range of
+Paranoia's
+recast while the ability is active.
+The following images display the indicator for the default
+skin
+:
+A glowing
+red silhouette
+of
+Nocturne's
+blades indicates an enemy champion can be targeted by
+Paranoia's
+recast.
+A glowing
+green silhouette
+of
+Nocturne's
+blades signifies an enemy champion has been targeted by
+Paranoia's
+recast.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Nocturne (Collection)
+.
+Original
+View in 3D
+880
+15.03.2011
+A demonic amalgamation drawn from the nightmares that haunt every sentient mind, the thing known as Nocturne has become a primordial force of pure evil. It is liquidly chaotic in aspect, a faceless shadow with cold eyes and armed with wicked-looking blades. After freeing itself from the spirit realm, Nocturne descended upon the waking world, to feed upon the kind of terror that can only thrive in true darkness.
+Jason Wishnov
+Alex 'alexplank' Flores
+Loot eligible
+Frozen Terror
+View in 3D
+975
+15.03.2011
+Somewhere, hidden beneath the enormous ice caps, lurks a demon fueled by the terror of those foolish enough to enter his domain.
+Jason Wishnov
+Unknown artist
+Glacial
+Loot eligible
+New SFX/VFX
+Void
+View in 3D
+520
+15.03.2011
+Jason Wishnov
+Unknown artist
+Curse of the Void
+Loot eligible
+Legacy
+New SFX/VFX
+Ravager
+View in 3D
+520
+13.07.2011
+Jason Wishnov
+Zhuore Zhi Hen
+Silver Age
+Loot eligible
+Haunting
+View in 3D
+975
+19.10.2011
+Haunting Nocturne would be a lot less haunting without those huge knife arms.
+Jason Wishnov
+Unknown artist
+Trick-or-Treat
+Loot eligible
+Legacy
+New SFX/VFX
+Eternum
+View in 3D
+1820
+05.12.2012
+Your worst nightmare, embodied in the form of organic metal—it lingers, watching and waiting for the right moment to shroud all of existence in eternal darkness.
+Jason Wishnov
+Michal Ivan, Puppetworks Animation Studio
+Eternum
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Cursed Revenant
+View in 3D
+750
+04.05.2016
+In her dreams, the queen was approached by a great shadow whispering of power and infamy beyond the grasp of mortals. Upon the shadow's third visit, she released it into the waking world—and sure enough, it would come to keep its terrible promises.
+Jason Wishnov
+Pan Chengwei
+Omen of the Dark
+Loot eligible
+Old God
+View in 3D
+1350
+29.08.2019
+The great corpses of the Old Gods fed the land, and in time even the Elderwood would come to grow over their putrid rot–hiding it, perhaps, for a time. But the Gods never truly died and, with the resurgence of the Coven, one has risen again–Nocturne, the Eternal Nightmare.
+Jason Wishnov
+Choe HeonHwa
+Coven
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Old God Nocturne Chromas
+Aquamarine
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Hextech
+View in 3D
+Special
+11.06.2020
+Not every part of the Hextech renaissance led to bright innovations. A clandestine experiment to fuse Hextech with demonic energies wrought a living nightmare, a predator rumored to stalk the streets and back alleyways of the city. Authorities report that any such creation would have been terminated along with any such project, and that any missing persons reports are, of course, completely unrelated.
+Jason Wishnov
+Francis Tneh, West Studio
+Hextech
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Broken Covenant
+View in 3D
+1350
+09.03.2023
+As the oldest member of the Aspirants, Nocturne is content to lead from the shadows, having long ago exchanged their physical form for pure Aspira. Within the catacombs, they jealously guard the vast well of Aspira the congregation has filled over the centuries, toiling away at the unholy weapon that will destroy the Neverghaast once and for all.
+Jason Wishnov
+Su Fu, Kudos Productions
+Broken Covenant
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Broken Covenant Nocturne Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Empyrean
+View in 3D
+1350
+01.05.2024
+A nightmarish dimensional parasite, Nocturne was drawn to the Foreglow and—as it burrowed its way to the power's raw form—inadvertently created the first dimensional collapse and the first Empyrean, Pyke. With the Foreglow corrupting its original appearance, Nocturne seeks to experiment further with the Foreglow and find new ways to feed its hunger.
+Jason Wishnov
+Eric Xie, West Studio
+Empyrean
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Empyrean Nocturne Chromas
+Catseye
+Emerald
+Neon Facade
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.9
+Umbra Blades
+Bug Fix:
+The VFX that indicates it is active no longer persists through use if the ability's cooldown ended while under the effects of polymorph.
+V14.4
+Unspeakable Horror
+Tether now innately checks every 0.
+05
+seconds for valid range conditions, and no longer waits for every 8th server tick.
+V14.2
+Duskbringer
+New Effect:
+Now checks for and hits targets 25 units outside of the missile's maximum range.
+New Effect:
+Large monsters hit now leave behind a
+Dusk Trail
+when they move.
+V13.15
+Paranoia
+Bug Fix:
+No longer applies the nearsight debuff to
+Neeko
+while she is disguised as a non-champion with
+Inherent Glamour
+.
+V12.18
+Stats
+Attack damage growth reduced to 2.
+6
+from 3.
+1
+.
+V12.17
+Stats
+Attack speed ratio increased to 0.
+721
+from 0.
+668
+.
+Umbra Blades
+Cooldown reduced to 13 seconds from 14.
+V12.14
+Umbra Blades
+Removed:
+No longer deals 50% reduced damage against minions that are the primary target.
+V12.10
+Stats
+Base health increased to 655 from 585.
+Health growth increased to 109 from 95.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 1.
+55
+from 0.
+75
+.
+Umbra Blades
+Base heal reduced to
+13 − 30 (based on level)
+from
+15 − 40 (based on level)
+.
+Heal AP ratio increased to
+30% AP
+from
+15% AP
+.
+V12.9
+Paranoia
+Bug Fix:
+Voice line that plays to all players is no longer louder than intended if they had visibility of more than 1 champion affected by the nearsight debuff.
+V12.8
+Paranoia
+Bug Fix:
+Voice line that is played to all players when the ability is activated is no longer louder than intended.
+V12.2
+Stats
+Health growth increased to 95 from 85.
+Duskbringer
+Bonus AD ratio increased to
+85%
+bonus
+AD
+from
+75%
+.
+V11.16
+Old God Nocturne
+Renamed to
+Old God Nocturne
+from
+Elderwood Nocturne
+.
+V11.15
+Umbra Blades
+Bug Fix:
+Now correctly heals for the full amount against pets.
+V11.14
+Umbra Blades
+New Effect:
+Damage and healing are now reduced by 50% against minions.
+V11.2
+Duskbringer
+Cooldown reduced to 8 seconds from 10.
+Paranoia
+Cooldown reduced to 140 / 115 / 90 from 150 / 125 / 100.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.18
+General
+Updated visual effects.
+New basic attacks swipes and target effects.
+Umbra Blades
+New effect to clearly show the area of effect. His blades now glow when his passive is ready.
+Duskbringer
+Updated missile effects and rebalanced darkness trail.
+Shroud of Darkness
+More thematic spell shield and new attack speed buff effect.
+Unspeakable Horror
+Updated beam and shadow effects to show the timing more clearly.
+Paranoia
+New dash effect when Nocturne casts the ability. Updated trail and impact effects. Enemies affected by the spell get a shadowy screen space effect.
+Frozen Terror Nocturne
+All VFX updated with a winter thematic.
+Haunting Nocturne
+All VFX updated with a spooky thematic.
+Eternum Nocturne
+All VFX updated with a sci-fi thematic.
+V10.16
+Umbra Blades
+Cooldown increased to 14 seconds from 10.
+Cooldown reduction against champions and monsters increased to 3 seconds from 2.
+V10.13
+- June 24th Hotfix
+Duskbringer
+Bug Fix:
+Fixed a bug where
+Dusk Trail
+would display incorrectly after he died, showing up two steps ahead of
+Nocturne
+and not buff him appropriately for the rest of the game.
+Shroud of Darkness
+Bug Fix:
+Fixed a bug that made
+Nocturne
+unable to gain attack speed from his passive for the rest of the game.
+V10.13
+Umbra Blades
+New Effect:
+Cooldown reduction is now doubled against monsters.
+Bug Fix:
+Fixed a bug where the cooldown would always refund 1 second, instead of 1 or 2 seconds based on the target.
+V10.8
+Paranoia
+Indicator added to show recast ability timer.
+V10.7
+Stats
+Base health regeneration reduced to 7 from 8.
+5
+.
+Magic resistance growth reduced to 0.
+75
+from 1.
+25
+.
+V9.16
+Stats
+Base armor increased to 38 from 36.
+Base health increased to 585 from 582.
+8
+.
+Base mana increased to 275 from 273.
+8
+.
+Base mana regeneration increased to 7 from 6.
+756
+.
+Shroud of Darkness
+Bonus attack speed increased to 30 / 35 / 40 / 45 / 50% from 20 / 25 / 30 / 35 / 40%.
+Increased bonus attack speed increased to 60 / 70 / 80 / 90 / 100% from 40 / 50 / 60 / 70 / 80%.
+V9.5
+General
+Adjusted splash artwork for
+Cursed Revenant Nocturne
+.
+V9.1
+Paranoia
+New Effect:
+Can now ping whether the ability is within range or not.
+V8.15
+Unspeakable Horror
+Bug Fix:
+Fearing a champion with
+Unspeakable Horror
+no longer interrupts his attacks.
+V8.13
+- July 3rd Hotfix
+Stats
+Base attack reduced to 62 from 65.
+Paranoia
+Bonus AD ratio reduced to
+120%
+bonus
+AD
+from
+150%
+.
+V8.11
+Stats
+Base attack damage reduced to 65 from 67.
+21
+.
+New:
+Now has 8%
+bonus
+attack speed at level 1.
+V8.7
+Duskbringer
+Trail bonus attack damage increased to 20 / 30 / 40 / 50 / 60 from 15 / 25 / 35 / 45 / 55.
+V8.6
+Shroud of Darkness
+New Effect:
+Tooltip now mentions that it remains active during
+Paranoia's
+flight.
+Paranoia
+Base damage increased to 150 / 275 / 400 from 150 / 250 / 350.
+Bonus AD ratio increased to
+150%
+bonus
+AD
+from
+120%
+.
+V8.5
+Umbra Blades
+Base heal changed to
+15 − 40 (based on level)
+from
+10 / 18 / 26 (based on level)
+.
+New Effect:
+Basic attacks against enemy champion now instead reduces the cooldown by 2 seconds per hit.
+Duskbringer
+Missile speed increased to 1600 from 1400.
+Shroud of Darkness
+New Effect:
+If
+Shroud of Darkness
+is active when
+Nocturne
+re-casts
+Paranoia
+to dash to a target, it'll stay active until
+Nocturne
+reaches his target.
+Paranoia
+Enemy
+nearsight
+and recast duration increased to 6 seconds from 4.
+V8.3
+Stats
+Base health regeneration increased to 8.
+5
+from 8.
+26
+.
+V8.2
+Unspeakable Horror
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+Paranoia
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V7.22
+Stats
+Base attack damage increased to 67 from 59.
+208
+.
+Base armor increased to 36 from 26.
+88
+.
+Duskbringer
+Base damage increased to 65 / 110 / 155 / 200 / 245 from 60 / 105 / 150 / 195 / 240.
+V7.19
+Shroud of Darkness
+Now block only the first ability that hits, rather than every ability that hits at the same time the shield is broken.
+V7.6
+Paranoia
+Bug Fix:
+If a teammate becomes invisible or camouflaged while hidden from you by
+Paranoia
+, you now still properly gain vision of them if they enter your reduced vision radius before
+Paranoia
+ends.
+V7.5
+Unspeakable Horror
+New Effect:
+Added indicator (visible to
+Nocturne
+only) to show tether range.
+Paranoia
+New Effect:
+Added pre and on-hit animations which sync with
+Paranoia's
+damage.
+V6.21
+Shroud of Darkness
+Void Nocturne
+and
+Frozen Nocturne
+now use the base skin's particle for their spell shields.
+V6.18
+Unspeakable Horror
+Fear duration increased to 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 / 2.
+25
+seconds from 1 / 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2.
+V6.10
+Umbra Blades
+New Effect:
+Per-target heal has a
+(+ 15% AP)
+ratio.
+V6.7
+General
+Splash artwork for
+Frozen Terror Nocturne
+updated to the Chinese art.
+V5.17
+Paranoia
+Range increased to 2500 / 3250 / 4000 from 2000 / 2750 / 3500.
+V5.9
+Unspeakable Horror
+Base damage increased to 80 / 120 / 160 / 200 / 260 from 50 / 100 / 150 / 200 / 250.
+Bug Fix:
+Passive bonus movement speed interaction with allied fears.
+V5.6
+Paranoia
+Cooldown reduced to 150 / 125 / 100 seconds from 180 / 140 / 100.
+V4.21
+Unspeakable Horror
+New Effect:
+Nocturne passively gains bonus movement speed while moving toward feared enemies.
+V4.18
+General
+Texture update to Classic, Frozen, Haunting, Ravager, and Void.
+V4.15
+Duskbringer
+Removed:
+Dusk Trail visually obscuring other particle effects.
+V4.13
+General
+Splash artwork for
+Ravager Nocturne
+updated to the Chinese art.
+V4.5
+Stats
+Armor increased to 21 from 17.
+V4.3
+- February 28th Hotfix
+Unspeakable Horror
+Movement speed reduction increased.
+V4.3
+Unspeakable Horror
+Removed:
+Feared targets run around randomly.
+New Effect:
+Feared targets flee away from
+Nocturne
+at reduced movement speed.
+V3.14
+Duskbringer
+Bug Fix:
+Trail bonus applying inconsistently.
+V3.13
+General
+New splash artwork for
+Original Nocturne
+.
+V3.02
+Paranoia
+Bug Fix:
+Nocturne not automatically chasing target.
+V1.0.0.152
+Stats
+Movement speed increased to 345 from 320.
+V1.0.0.143
+Umbra Blades
+Tooltip updated.
+Shroud of Darkness
+Shield duration reduced to 1.
+5
+seconds from 2.
+Paranoia
+Cooldown increased to 180 / 140 / 100 seconds from 160 / 130 / 100.
+V1.0.0.140b
+Umbra Blades
+Per-target heal changed to 10 / 18 / 26 from 15 / 20 / 25.
+V1.0.0.139
+Ravager Nocturne
+Unspeakable Horror
+Bug Fix:
+Tether visual not displaying.
+V1.0.0.135
+Umbra Blades
+New Effect:
+Cooldown timer.
+V1.0.0.129
+Unspeakable Horror
+Cast range reduced to 425 from 475.
+Tether range reduced to 465 from 525.
+V1.0.0.125
+Unspeakable Horror
+Tether range reduced to 525 from 550.
+V1.0.0.123
+Paranoia
+New Effect:
+Nocturne will attempt to attack the target he dashes to.
+Removed:
+Scoring assists for reducing enemy sight.
+V1.0.0.121
+Paranoia
+New Effect:
+Minimap range indicator.
+V1.0.0.118
+Duskbringer
+Base damage reduced to 60 / 105 / 150 / 195 / 240 from 60 / 110 / 160 / 210 / 260.
+Paranoia
+Base damage reduced to 150 / 250 / 350 from 150 / 300 / 450.
+Bug Fix:
+First use in-game causing a glitch.
+V1.0.0.116
+Paranoia
+Bug Fix:
+Following targets over variable distances depending on rank.
+V1.0.0.115
+Duskbringer
+Bonus attack damage reduced to 15 / 25 / 35 / 45 / 55 from 20 / 30 / 40 / 50 / 60.
+Unspeakable Horror
+Cast range reduced to 475 from 500.
+Tether range reduced to 550 from 600.
+Bug Fix:
+Target still being feared when tether is broken near the duration's end.
+Bug Fix:
+Fear being blocked by
+spell shields
+coming off cooldown while tether is active.
+Paranoia
+Dash range reduced to 2000 / 2750 / 3500 from 2500 / 3250 / 4000.
+V1.0.0.114
+Shroud of Darkness
+Shield visual updated to be brighter and easier to see.
+V1.0.0.113
+Added
+Trivia
+[
+edit
+|
+edit source
+]
+Nocturne
+comes from the French
+nocturne
+, which is derived from the Latin
+nocturnus
+"of the night".
+Umbra Blades
+is named after Latin
+umbra
+for shade or shadow.
+Nocturne was the first champion to be previewed at a major event prior to release (
+PAX
+East 2011).
+He was also previewed in
+IGN
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Assassin
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Assassins
+specialize in infiltrating enemy lines with their unrivaled mobility to quickly dispatch high-priority targets. Due to their mostly melee nature, Assassins must put themselves into dangerous positions in order to execute their targets. Luckily, they often have defensive tricks up their sleeves that, if used cleverly, allow them to effectively avoid incoming damage.
+Examples
+Akali
+Evelynn
+Zed
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Default damage
+Default damage
+is dealt by effects that are not otherwise classified, or are deliberately left unclassified. This most common source of
+default damage
+is splash damage from basic attacks.
+Default damage
+does not interact with most other effects, such as
+Conqueror
+stacking,
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of the damage's non-reactive nature (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Obscured vision
+An
+obscured
+target only has their position revealed to the enemy—such as through a silhouette or movement pattern as a visual effect—but their unit remains an un-rendered target for selection (i.e. they cannot be selected for
+unit-targeted
+attacks, draw
+monster
+aggro). The revealed silhouettes' color is different among
+champions
+, wards, and all other non-champion units (default:
+red
+,
+blue
+, and
+purple
+; respectively).
+This is distinct from being
+untargetable
+, as an
+obscured unit
+is still vulnerable to
+auras
+,
+direction-targeted
+and
+ground-targeted
+effects, and
+auto-targeted
+effects that do not require
+sight
+of targets.
+Obscured vision
+is not concealed by
+nearsight
+.
+League of Legends content
+Stealth
+Stealth
+renders a unit invisible to enemies and grants
+ghosting
+, allowing a unit to tread without being
+visible
+to enemies.
+Stealthed
+units within sight will briefly shimmer their silhouette upon taking damage, exposing their current position.
+Stealth
+is split into three categories:
+Invisibility
+: The unit
+can
+only
+be
+revealed by
+True Sight
+.
+Camouflage
+: The unit
+can
+only
+be
+revealed by
+True Sight
+, being within a certain detection radius of enemy
+champions
+, and nearby
+Control Wards
+.
+Stealthed trap
+: The unit
+can
+only
+be
+revealed by
+True Sight
+,
+Control Wards
+,
+Oracle Lens
+, and
+A Harmless Scarecrow
+.
+Unit-targeted
+effects cannot be cast upon stealthed units as the caster is unable to select the target without seeing them.
+Stealth
+is not a form of
+untargetability
+; units can still be hit by effects that do not require vision of targets, such as skill-shots,
+auto-targeted
+, and
+location-targeted
+effects.
+Certain actions break
+stealth
+. This can include, but is not limited to:
+basic attacking
+, casting an
+ability
+, activating an
+item
+, using a
+summoner spell
+, and taking damage. The interaction can vary among certain cases.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Wind Wall
+COOLDOWN:
+25 / 23 / 21 / 19 / 17
+Active:
+Yasuo
+raises a wind wall that drifts in the target direction for a few seconds, blocking all enemy
+projectiles
+that hit it.
+League of Legends content
+Unbreakable
+COOLDOWN:
+16 / 14 / 12 / 10 / 8
+Active:
+Braum
+sets his shield in a direction for a few seconds, intercepting any enemy
+projectiles
+to hit him and be destroyed.
+He gains damage reduction and negates the first instance of damage dealt by a champion completely from this direction.
+League of Legends content
+Stacks multiplicatively
+An effect that
+stacks multiplicatively
+can be calculated by multiplying the effects together.
+Most
+champion statistics
+that stack this way are expressed through percentages.
+
+The following stats
+stack multiplicatively
+:
+Attack speed reduction
+Damage modifiers
+Percent armor penetration and reduction
+Percent magic penetration and reduction
+Slow potency reduction
+League of Legends content
+Paranoia
+COOLDOWN:
+140 / 115 / 90
+Active:
+Nocturne
+terrorizes all enemy champions,
+nearsighting
+them for a few seconds. He can recast
+Paranoia
+during this time.
+Recast:
+Nocturne
+dashes
+with
+displacement immunity
+to the target enemy champion, dealing
+physical damage
+upon arrival.
+displacement immunity
+:
+The dash cannot be deterred by
+crowd control
+.
+League of Legends content
+Flee
+A unit that is
+fleeing
+or
+feared
+is forced to move directly away from the
+Source
+(the
+unit
+that casted the
+Fear
+spell) for the duration, during which they're unable to perform issued movement commands, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+. All
+fears
+also apply a
+slow
+.
+Flee
+is an
+immobilizing
+effect
+.
+Forced action effects
+cannot
+force the unit to perform an action that is disabled.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities, as well as overrides previous
+Forced Action
+effects.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+or when the
+Source
+dies.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Tether
+A
+tether
+is an effect that applies a
+bind
+buff on both the source and the target(s), which then creates the actual tether that requires both to remain in close proximity so any accompanying effects (
+damage
+,
+crowd control
+,
+heals
+,
+buffs
+, etc) can apply.
+The tether breaks if it exceeds maximum range, or either conduit is removed (e.g.
+Death
+). The tether will also break from a transition into the
+zombie state
+due to the target already dying.
+Generally, a
+bind
+with an enemy will break along with the tether, whereas a bind with an ally will last indefinitely and automatically reapply the tether when within range.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Persistent damage
+Persistent damage
+is the damage type dealt primarily by damage over time (DoT) abilities. Most sources of
+persistent damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+persistent damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 5% whenever you deal an instance of
+persistent damage
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Nearsight
+A unit that is
+nearsighted
+has their
+sight
+radius reduced and
+cannot
+see beyond their sight radius.
+While nearsighted, units cannot reveal
+stealthed
+wards
+or
+traps
+. Nearsighted units lose vision of all their allies as well as all external sources of vision (including from wards or abilities). This prevents
+unit-targeted
+effects, including
+basic attacks
+, from being used outside of the unit's reduced sight radius.
+True sight
+and
+unobstructed vision
+do
+not
+bypass the vision blocked by
+nearsight
+.
+Sources of
+nearsight
+do
+not
+stack with each other; only the application with the greatest sight reduction will take effect.
+Interrupts:
+Interrupts target commands if the
+nearsighted
+unit's target is outside of their new vision area and prevents
+automated target acquisition
+.
+Reduction:
+The
+duration
+is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+with the exceptions of
+Fiora's
+Riposte
+and
+Morgana's
+Black Shield
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast),
+Cleanse
+, and
+Mikael's Blessing
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+References
+[
+edit
+|
+edit source
+]
+↑
+Nocturne's profile page
+at
+LeagueOfLegends.com

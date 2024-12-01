@@ -1,0 +1,2420 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Miss Fortune
+the Bounty Hunter
+Release date
+2010-09-08
+Last changed
+V14.23
+Class(es)
+Marksman
+Legacy
+Marksman
+Mage
+Position(s)
+Bottom
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Store price
+450
+|
+260
+Crafting
++
+270
+Ratings
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+1
+Utility
+1
+Style
+Difficulty
+Miss Fortune
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+MissFortune
+Base statistics
+Edit
+Health
+640
++103
+Mana
+300
++40
+Health regen. (per 5s)
+3.75
++0.65
+Mana regen. (per 5s)
+8
++0.8
+Armor
+28
++4.2
+Attack damage
+53
++2.4
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+325
+Attack range
+550
+Attack speed
+Base AS
+0.656
+Attack windup
+14.801%
+AS ratio
+N/A
+Bonus AS
++3
+%
+Missile speed
+2000
+Unit radius
+Gameplay radius
+65
+Selection radius
+100
+Pathing radius
+35
+Acq. radius
+800
+Special statistics
+Damage Dealt
+-10%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++5%
+Damage Received
+-5%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Love Tap
+Innate:
+Miss Fortune's
+basic attacks apply a mark that expires when attacking a new enemy. If the enemy was unmarked, this also deals
+bonus
+physical damage
+.
+Innate:
+Miss Fortune's
+basic attacks
+are empowered to apply a mark that expires upon attacking a new enemy. If the enemy was unmarked, this also deals
+50% − 100% (based on level)
+AD
+bonus
+physical damage
+, halved to
+25% − 50% (based on level)
+AD
+against
+minions
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+Physical
+Counters
+Parries
+Blocked
+With
+Runaan's Hurricane
+,
+Love Tap
+only applies to the primary target.
+The bonus damage applies
+life steal
+.
+The empowered attack will not trigger against
+buildings
+.
+Edit
+Double Up
+COST:
+40 Mana
+COOLDOWN:
+7 / 6 / 5 / 4 / 3
+CAST TIME:
+Basic Attack Timer
+TARGET RANGE:
+Miss Fortune's
+attack range
+EFFECT RADIUS:
+500
+ANGLE:
+160°
+SPEED:
+1400
+Active:
+Miss Fortune
+fires a shot at the target enemy that deals
+physical damage
+, which then bounces to hit another enemy behind them. This applies
+on-hit
+effects to both enemies hit.
+Double Up's
+bounce can
+critically strike
+, and does so if
+Double Up
+kills the primary target.
+Active:
+Miss Fortune
+fires a shot at the target enemy that deals
+physical damage
+, which then bounces to hit another enemy behind them. This applies
+on-attack
+effects to the first enemy hit, and
+on-hit
+effects to both enemies hit.
+Physical Damage:
+20 / 45 / 70 / 95 / 120
+(+ 100% AD)
+(+ 35% AP)
+Double Up's
+bounce is affected by
+critical strike
+modifiers. If
+Double Up
+kills the primary target, the bounce will
+critically strike
+.
+The bounce prioritizes units directly behind the primary target. A target does not have to be
+visible
+be hit by the bounce.
+Info
+Targeting input
+Unit
+Damage type
+Type
+See Notes
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+See Notes
+Parries
+Blocked
+Projectile
+Blocked
+Double Up
+deals
+basic damage
+to both targets, but also triggers spell effects by dealing an additional 0
+spell damage
+.
+Spell shields
+can be used by either target. If it is on the primary target, the spell shield will not prevent the shot from bouncing.
+Neutral units count as valid targets to bounce.
+The bounce follows a priority order on targets behind in a certain angle:
+500 units in 20º.
+500 units in 40º.
+500 units in 110º.
+150 units
+in 160º.
+Double Up's
+cast range adjusts based on
+Miss Fortune's
+attack range
+, which can be increased by items such as
+Rapid Firecannon
+.
+The damage of a
+critically striking
+shot is 35 / 70 / 105 / 140 / 175
+(+ 175% AD)
+(+ 61.25% AP)
+physical damage
+, increased to 42 / 84 / 126 / 168 / 210
+(+ 210% AD)
+(+ 73.5% AP)
+physical damage
+by
+Infinity Edge's
+bonus critical damage.
+If there is no secondary target, the shot will not bounce and the dud will instead fall to the ground.
+The dud lands on the ground 176 units behind the primary target and has a missile speed of 400 on its way there.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio changed to
+55% AP
+.
+Edit
+Strut
+COST:
+45 Mana
+COOLDOWN:
+12
+CAST TIME:
+none
+Passive:
+Miss Fortune
+gains
+bonus
+movement speed
+after a few seconds without being attacked. This bonus is increased after another few seconds, and is granted instantly whenever
+Strut
+is cast. Marking a new target with
+Love Tap
+reduces
+Strut's
+cooldown.
+Active:
+Miss Fortune
+gains
+bonus
+attack speed
+for a few seconds.
+Passive:
+Miss Fortune
+gains
+bonus
+movement speed
+after 4 seconds without taking non-
+persistent
+damage. This bonus is increased after another 3 seconds, and is granted instantly whenever
+Strut
+is cast or upon
+respawning
+.
+Bonus Movement Speed:
+30 / 35 / 40 / 45 / 50
+Increased Bonus Movement Speed:
+60 / 70 / 80 / 90 / 100
+Active:
+Miss Fortune
+gains
+bonus
+attack speed
+for 4 seconds.
+Bonus Attack Speed:
+40 / 55 / 70 / 85 / 100%
+Marking a new target with
+Love Tap
+reduces
+Strut's
+current
+cooldown
+by
+2 seconds
+.
+Info
+Targeting input
+Auto
+No additional notes.
+Edit
+Make It Rain
+COST:
+80 Mana
+COOLDOWN:
+18 / 17 / 16 / 15 / 14
+CAST TIME:
+0.
+25
+TARGET RANGE:
+1000
+EFFECT RADIUS:
+200
+Active:
+Miss Fortune
+casts a storm of bullets at the target location for a short time, which continually deals
+magic damage
+and
+slows
+enemies within.
+Active:
+Miss Fortune
+casts a storm of bullets at the target location for 2 seconds, granting
+sight
+of the area, dealing
+magic damage
+every 0.
+25
+seconds to enemies within, and
+slowing
+them by 40%
+(+ 6% per 100 AP)
+.
+Magic Damage Per Tick:
+8.
+75
+/ 12.
+5
+/ 16.
+25
+/ 20 / 23.
+75
+(+ 15% AP)
+Total Magic Damage:
+70 / 100 / 130 / 160 / 190
+(+ 120% AP)
+Make It Rain will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+AOE DOT damage
+Sub-type
+Magic
+Counters
+Spell shield
+Not Blocked
+Make It Rain's
+slow
+cannot be
+cleansed
+.
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio per second changed to
+90% AP
+.
+Edit
+Bullet Time
+COST:
+100 Mana
+COOLDOWN
+:
+120 / 110 / 100
+CAST TIME:
+none
+EFFECT RADIUS:
+1450
+WIDTH:
+40
+ANGLE:
+30°
+SPEED:
+2000
+Active:
+Miss Fortune
+channels
+for a short time, firing several waves of bullets in the target direction that deal
+physical damage
+to enemies hit. Each wave can
+critically strike
+.
+Active:
+Miss Fortune
+channels
+for up to 3 seconds, firing a number of waves of bullets in the target direction. Each wave is in a spread of 6 projectiles that deals
+75% AD
+(+ 25% AP)
+physical damage
+to enemies hit.
+Total Waves:
+14 / 16 / 18
+Maximum Total Physical Damage:
+1050 / 1200 / 1350% AD
+(+ 350 / 400 / 450% AP)
+Wave Interval Time:
+0.
+2036
+/ 0.
+1781
+/ 0.
+1583
+seconds
+Each of the waves can
+critically strike
+for
+(20% +
+8%
+)
+bonus
+physical damage
+.
+Info
+Targeting input
+Direction
+Damage type
+Type
+AOE DOT damage
+Sub-type
+Physical
+Counters
+Spell shield
+Not Blocked
+Projectile
+Blocked
+Disruption
+Interrupted
+The damage dealt by each wave of
+Bullet Time
+is calculated when the wave reaches the target.
+Miss Fortune
+reveals
+herself for 4.
+5
+seconds if there is an enemy champion within the area.
+Targets cannot be damaged by more than one projectile per wave.
+The bullet streams that each fire 1 projectile per wave are spead by 6° between one another, aiming towards the angles +-3/9/15° from
+Miss Fortune's
+facing direction.
+Bullet time
+picks 6 locations on the ground 500 units from
+Miss Fortune
+(with the aforementioned angles) and fires a bullet stream towards each.
+If
+Miss Fortune
+is moved to a new location, these locations
+will
+update (since patch
+V13.3
+); the cone will fire towards her new facing direction.
+Bullet time
+fires the first wave at
+0.
+066
+seconds
+, and the last at
+2.
+904
+seconds
+. Times between waves are equally spread between these values.
+Miss Fortune
+may cancel the last ~0.
+1
+seconds of channel time at no loss of effect.
+The following table refers for interactions while
+Miss Fortune
+is
+channeling
+:
+Type
+Channel
+Attacking
+Interrupts
+Abilities
+Interrupts
+Movement
+Interrupts
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+Hextech Rocketbelt
+Interrupted by
+All item-actives not specified above interrupt
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+N/A
+Interrupted by
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+Death
+Cast-inhibiting effects
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio per wave changed to
+35% AP
+.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Miss Fortune (Collection)
+.
+Original
+View in 3D
+790
+08.09.2010
+A Bilgewater captain famed for her looks but feared for her ruthlessness, Sarah Fortune paints a stark figure among the hardened criminals of the port city. As a child, she witnessed the reaver king Gangplank murder her family—an act she brutally avenged years later, blowing up his flagship while he was still aboard. Those who underestimate her will face a beguiling and unpredictable opponent… and, likely, a bullet or two in their guts.
+Unknown voice actor
+Jason Chan
+Loot eligible
+Cowgirl
+View in 3D
+750
+08.09.2010
+No bounty hunter on the prairie is as skilled as Sarah Fortune, but she doesn't work for anything less than top dollar. Cause enough trouble on the high frontier and, sure enough, she'll come calling—with two gleaming pistols, and a bullet with your name on it.
+Unknown voice actor
+Jessica 'OwleyCat' Oyhenart
+High Noon
+Loot eligible
+New SFX/VFX
+Waterloo
+View in 3D
+520
+08.09.2010
+Unknown voice actor
+Jennifer Wuestling
+Legacy
+Loot eligible
+Secret Agent
+View in 3D
+975
+16.11.2010
+Unknown voice actor
+Choe HeonHwa
+Cops and Robbers
+Loot eligible
+Legacy
+New SFX/VFX
+Candy Cane
+View in 3D
+975
+14.12.2010
+Miss Fortune isn't interested in who's been nice—the naughty are out in droves for Snowdown, and that means big business for bounty hunters. Packing heat, and ready to take in marks dead or alive, this is one present you really don't want to unwrap.
+Unknown voice actor
+Andrew Theophilopoulos
+Snowdown Showdown
+Loot eligible
+Legacy
+New SFX/VFX
+Road Warrior
+View in 3D
+520
+24.05.2011
+A lone rider whose home is the open road, Miss Fortune takes the wasteland's problems into her own hands before moving on—always another job, always another town. Lately, she's been butting heads with the Vandal gang, a group of famed ruffians she's excited to finally put down.
+Unknown voice actor
+Jana Schirmer
+Road Warrior
+Loot eligible
+Legacy
+Crime City
+View in 3D
+975
+01.11.2011
+A former gun for hire, Miss Sarah Fortune has recently spun up her own criminal cartel, with a hand in everything from arms smuggling to protection rackets. Having destabilized the relationship between Twitch and Graves, she now seeks to cement her empire before they get wise to her ambitions.
+Unknown voice actor
+Atey Ghailan
+Crime City
+Loot eligible
+New SFX/VFX
+Arcade
+View in 3D
+1350
+12.08.2014
+Miss Fortune (Sarah to her friends) is better known in the real world for holding the top scores in every shoot-em-up game ever created. In Arcade World, she's famed for earning those scores through whatever means necessary, willing to bring in any target for the right amount of points.
+Unknown voice actor
+Michelle Hoefener
+Arcade: Heroes
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Arcade Miss Fortune Chromas
+Amethyst
+Aquamarine
+Citrine
+K.O.
+Peridot
+Ruby
+Captain Fortune
+View in 3D
+975
+30.07.2015
+In another life, Sarah Fortune would have been a respected ship captain, supported by the love of her mother and the admiration of her city. But the things Bilgewater takes, you can't always get back, and that particular dream died a long time ago.
+Unknown voice actor
+Jason Chan
+Bilgewater: Burning Tides
+Loot eligible
+New Animations/Recall
+Pool Party
+View in 3D
+1350
+13.07.2016
+The group's appointed selfie queen, and dual-wielding master of the water pistol, Sarah Fortune can destroy all comers in a splash fight, and look good while doing it. The photo she'll post later will look even better. It's actually kind of upsetting.
+Unknown voice actor
+Alvin Lee
+Pool Party
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Star Guardian
+View in 3D
+1350
+06.09.2017
+Second in command to Ahri, Miss Fortune is a hot-headed Star Guardian gunslinger from the galactic rim. She is the first to charge into battle with her twin pistols, often ignoring her own safety as long as she can take down every enemy in sight.
+Unknown voice actor
+Alvin Lee, Alex 'alexplank' Flores, Esben Lash Rasmussen, Pan Chengwei, Jean 'Curing' Go
+Star Guardian Season 2
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Pajama Guardian
+. Store variants are discounted for multiple purchases.
+Gun Goddess
+View in 3D
+2775
+22.03.2018
+Sarah Fortune is a living weapon of mass destruction; a legendary bounty hunter seeking revenge among a galaxy of thieves. Shot and left for dead, she now pilots the deadliest combat exo-suit in known space—and she'll stop at nothing to bring violent justice to her would-be killers.
+Rachel Kimsey, Joe Zieja
+Pan Chengwei
+Steel Valkyries
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Transforming
+Includes Extras
+Chromas
+Gun Goddess Miss Fortune forms
+Royal Arms
+Starswarm
+Zero Hour
+Pajama Guardian
+View in 3D
+1350
+21.11.2018
+Sarah Fortune does not usually attend slumber parties. Nor wear fluffy pajamas. Nor play Truth or Dare. But Lulu insisted, and Lux asked so nicely, so somehow Sarah found herself doing all three. At least her pajamas came with holsters—juuust in case some cosmic enemies show up. You never know. It could happen.
+Unknown voice actor
+Sangsoo Jeong
+Star Guardian Season 2
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Star Guardian
+. Store variants are discounted for multiple purchases.
+Bewitching
+View in 3D
+1350
+24.10.2019
+A powerful witch with a flair for the dramatic, and a soft spot for misguided monsters, Miss Fortune has resurfaced for an evening of adventure with her spooky sistren.
+Unknown voice actor
+Maki Planas Mata
+Bewitching
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Prestige Bewitching
+View in 3D
+Special
+24.10.2019
+Having wrestled control of the lion's share of sweets from ghastly spirits and unruly children alike, Miss Fortune now rules over the night. Her reign is one filled with revelry and mischief.
+Unknown voice actor
+Sanhua Chen, Kudos Productions
+Bewitching
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Bewitching
+. Store variants are discounted for multiple purchases.
+Ruined
+View in 3D
+1350
+22.07.2021
+Miss Fortune thought that being the Pirate Queen of Bilgewater would be enough. Even with her revenge complete, Sarah now faced a new chaos with Bilgewater's factions vying for control. Viego's arrival offered her an opportunity to seize the strength needed to crush anyone beneath her heel, even if it came at a price.
+Unknown voice actor
+Jeremy 'Jermu' Anninos
+Ruined
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Ruined Miss Fortune Chromas
+Amethyst
+Catseye
+Cursed
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Battle Bunny
+View in 3D
+1820
+31.03.2022
+Sarah Fortune is the second to take on the title of Anima Squad Commander, after her predecessor Riven's mysterious disappearance. They're big leporine shoes to fill, considering Riven's status as a war hero, but Sarah is smart, skilled, and courageous enough to forge her own legend in the fight for humanity.
+Laura Bailey
+Pan Chengwei
+Anima Squad
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+Battle Bunny Miss Fortune Chromas
+Catseye
+Nightwire
+Obsidian
+Peridot
+Rose Quartz
+Ruby
+Admiral Battle Bunny
+View in 3D
+Special
+17.07.2024
+Sarah Fortune is the second to take on the title of Anima Squad Commander, after her predecessor Riven's mysterious disappearance. They're big leporine shoes to fill, considering Riven's status as a war hero, but Sarah is smart, skilled, and courageous enough to forge her own legend in the fight for humanity.
+Laura Bailey
+Pandart Studio
+Anima Squad
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Battle Bunny
+. Store variants are discounted for multiple purchases.
+Prestige Bewitching (2022)
+View in 3D
+Special
+01.04.2022
+Having wrestled control of the lion's share of sweets from ghastly spirits and unruly children alike, Miss Fortune now rules over the night. Her reign is one filled with revelry and mischief.
+Unknown voice actor
+Sanhua Chen, Kudos Productions
+Bewitching
+Loot ineligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Prestige Bewitching
+. Store variants are discounted for multiple purchases.
+Broken Covenant
+View in 3D
+1350
+09.03.2023
+A devout Aspirant, Miss Fortune is the public face of the congregation. She has a single-minded focus on revenge against the Neverghaast, not just for murdering her parents, but for also corrupting Riven. Sarah can't believe her best friend helped the enemy and doesn't regret shooting her, because as long as the Neverghaast live, evil will fester.
+Unknown voice actor
+Jennifer Wuestling
+Broken Covenant
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Broken Covenant Miss Fortune Chromas
+Catseye
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Prestige Broken Covenant
+View in 3D
+Special
+09.03.2023
+Every year, thousands make the pilgrimage to the Gala, hoping to catch a glimpse of Miss Fortune's latest look. Never keen on shunning her faithful, she always treats each devotee as if they were a fellow family member. Even so, her rivals know to not cross her, lest they feel her wrath.
+Unknown voice actor
+Terence 'Terrylefruit' Cantal
+Broken Covenant
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Broken Covenant
+. Store variants are discounted for multiple purchases.
+Porcelain
+View in 3D
+1350
+22.02.2024
+Through the centuries, humans have tried to replicate the power of dragon's breath. With gunpowder came the cannon, which was finessed into smaller and more refined variants until it was ultimately perfected by Sarah Fortune's mother. Her dual dragon-pistols carry on the legacy of not only her own family, but of the creatures of myth themselves.
+Unknown voice actor
+Augusto Quirino, West Studio
+Porcelain
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Porcelain Miss Fortune Chromas
+Catseye
+Obsidian
+Opulent
+Pearl
+Peridot
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+Battle Queen
+View in 3D
+1350
+28.08.2024
+Queen Katarina's decree rang throughout Elysia: the Grand Coronation ordains honorable battle among nations, army versus army. Miss Fortune of Cyrenia welcomed this change, commanding her sky-fleet in an explosive display of wealth and munitions. While allied to the secluded Aurai, Miss Fortune's crowning proves the ruthlessness of the brigades above.
+Unknown voice actor
+Bo 'chenbowow' Chen
+Battle Queens
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Battle Queen Miss Fortune Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.23
+Double Up
+Mana cost reduced to 40 at all ranks from 43 / 46 / 49 / 52 / 55.
+V14.19
+Bullet Time
+Bug Fix:
+Fixed a network issue that occurred when 5
+Miss Fortunes
+use R at the same time.
+V14.18
+Stats
+Base attack damage reduced to 53 from 55.
+V14.17
+General
+Updated ability visual effects.
+The following skins are affected:
+Original Miss Fortune
+,
+Cowgirl Miss Fortune
+,
+Waterloo Miss Fortune
+,
+Secret Agent Miss Fortune
+,
+Candy Cane Miss Fortune
+,
+Road Warrior Miss Fortune
+,
+Crime City Miss Fortune
+,
+Captain Fortune
+,
+Pool Party Miss Fortune
+.
+V14.13
+Stats
+Base attack damage increased to 55 from 52.
+Strut
+Bonus movement speed increased to 30 / 35 / 40 / 45 / 50 from 25 at all ranks.
+Increased bonus movement speed increased to 60 / 70 / 80 / 90 / 100 from 55 / 65 / 75 / 85 / 95.
+Out-of-combat timer reduced to 4 seconds from 5.
+Increased movement speed delay reduced to 3 seconds from 5.
+V14.7
+Love Tap
+Bug Fix:
+Now properly grants a
+Conqueror
+stack when a basic attack applies the mark.
+V14.5
+Double Up
+Bug Fix:
+No longer improperly cancels her current attack windup upon hitting the primary target if there was no secondary target to bounce towards.
+Gun Goddess Miss Fortune
+Bug Fix:
+Right arm can no longer twist unnaturally during her Joke (Ctrl+1).
+V13.3
+Bullet Time
+Bug Fix:
+The shape of the area of effect no longer changes if the caster is moved during the channel.
+Missile stream anchor points are no longer static and move corresponding to Miss Fortune's location and facing direction.
+Missile waves will now always shoot in the direction
+Miss Fortune
+is facing towards if her facing direction changes during the channel, and with the proper angles between each stream.
+V13.1b
+Stats
+Mana growth increased to 40 from 35.
+Base mana regeneration reduced to 8 from 8.
+05
+.
+Mana regeneration growth increased to 0.
+8
+from 0.
+65
+.
+V12.22
+Stats
+Base mana regeneration increased to 8.
+05
+from 8.
+04
+.
+V12.21
+Make It Rain
+Damage AP ratio increased to
+120% AP
+from
+100% AP
+.
+Base slow reduced to 40% from 50%.
+Slow AP ratio increased to
+6% per 100 AP
+from
+4% per 100 AP
+.
+Bullet Time
+AP ratio per wave increased to
+25% AP
+from
+20% AP
+.
+V12.18
+Stats
+Attack damage growth reduced to 2.
+4
+from 2.
+7
+.
+Health growth reduced to 103 to 107.
+Double Up
+Winddown time reduced to 0 seconds from 1.
+V12.17
+- September 8th Hotfix
+Strut
+Mana cost increased to 45 from 35.
+Bonus attack speed reduced to 40 / 55 / 70 / 85 / 100% from 50 / 65 / 80 / 95 / 110%.
+V12.17
+Double Up
+Base damage increased to 20 / 45 / 70 / 95 / 120 from 20 / 40 / 60 / 80 / 100.
+New Effect:
+Cast time now matches basic attack time instead of being flat 0.
+25
+seconds.
+Strut
+Mana cost reduced to 35 from 45.
+Bonus attack speed increased to 50 / 65 / 80 / 95 / 110% from 40 / 55 / 70 / 85 / 100%.
+Make It Rain
+Cooldown increased to 18 / 17 / 16 / 15 / 14 seconds from 18 / 16 / 14 / 12 / 10.
+Base damage reduced to 70 / 100 / 130 / 160 / 190 from 80 / 115 / 150 / 185 / 220.
+Damage AP ratio increased to
+100% AP
+from
+80% AP
+.
+Slow changed to 50% at all ranks from 40 / 45 / 50 / 55 / 60%.
+New Effect:
+Slow now scales with
+4% per 100 AP
+.
+V12.10
+Stats
+Base health increased to 640 from 570.
+Health growth increased to 107 from 93.
+Armor growth increased to 4.
+2
+from 3.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V12.5
+Strut
+New Effect:
+Now gains the increased bonus movement speed upon respawning.
+V11.22
+General
+Base voice lines have been remastered to sound clearer, cleaner, and smoother.
+V11.21
+Stats
+Base mana reduced to 300 from 325.
+84
+.
+Strut
+Mana cost increased to 45 from 30.
+V11.20
+Love Tap
+Bug Fix:
+Tooltip now includes the reduction on bonus damage against minions.
+V11.18
+Bullet Time
+Number of waves increased to 14 / 16 / 18 from 12 / 14 / 16.
+V10.25
+- December 15th Hotfix
+Strut
+Bug Fix:
+Fixed a bug where the bonus attack speed would not scale with rank.
+Gun Goddess Miss Fortune
+Bug Fix:
+Guns and visual effects are no longer missing before selecting a form.
+V10.24
+Make It Rain
+Bug Fix:
+No longer slows more then intended if she has
+Serylda's Grudge
+or
+Everfrost
+.
+V10.18
+Stats
+Attack speed growth increased to 3% from 2.
+25
+%.
+Strut
+Maximum bonus movement speed increased to 55 / 65 / 75 / 85 / 95 from 50 / 60 / 70 / 80 / 90.
+V10.16
+Stats
+Base attack damage increased to 52 from 50.
+V10.13
+Double Up
+Bug Fix:
+Now properly applies all on-hit effects like
+Press the Attack
+.
+Bug Fix:
+Now properly grants 2 stacks of
+Conqueror
+for her primary target and none for the secondary target regardless of whether
+Love Tap
+is applied or not.
+Crime City Miss Fortune
+Skin renamed
+Crime City Miss Fortune
+from
+Mafia Miss Fortune
+.
+V10.11
+Stats
+Base health increased to 570 from 541.
+Health growth increased to 93 from 91.
+V10.10
+Strut
+Maximum bonus movement speed reduced to 50 / 60 / 70 / 80 / 90 from 60 / 70 / 80 / 90 / 100.
+V10.9
+Love Tap
+Bug Fix:
+Empowered basic attacks now properly stack
+Conqueror
+.
+V10.7
+Strut
+Bug Fix:
+No longer cancels basic attack animation.
+Make It Rain
+Bug Fix:
+Damage ring indicator is now properly visible in Howling Abyss.
+V10.6
+General
+Recommended items updated.
+Make It Rain
+Bug Fix:
+When attempting to cast it outside of its maximum range immediately after
+Flashing
+, the ability's position will now properly update and cast at its post-Flash max range.
+V10.5
+Make It Rain
+Now casts at maximum range instead of casting in the targeted area.
+V10.3
+Stats
+Attack speed growth reduced to 2.
+25
+% from 3%.
+Double Up
+Now correctly applies
+on-attack
+effects when the shot hits the first enemy unit.
+V10.2
+Love Tap
+Bug Fix:
+Basic attacks no longer continues to apply bonus damage from
+Nami's
+Tidecaller's Blessing
+after consuming three stacks of
+Love Tap
+.
+V9.18
+Make It Rain
+Slow increased to 40 / 45 / 50 / 55 / 60% from 28 / 31 / 34 / 37 / 40%.
+V9.15
+Love Tap
+Bug Fix:
+No longer grants an additional stack of
+Electrocute
+.
+V9.13
+General
+Updated store assets for
+Arcade Miss Fortune's
+chroma set.
+V9.8
+Double Up
+Bug Fix:
+Range/cast indicator now appears correctly.
+V9.6
+Bullet Time
+New Effect:
+Now triggers effects that are triggered by DoT AoE abilities.
+V9.4
+Gun Goddess Miss Fortune
+Bug Fix:
+Restored SFX on her death, homeguard, and recall animations.
+V9.1
+Strut
+New Effect:
+Ability icon HUD now shows the remaining duration of the ability.
+V8.13
+Gun Goddess Miss Fortune
+Bug Fix:
+Hand VFX glow now shows appropriately on her hand, as opposed to on the ground below her.
+V8.11
+Stats
+Base health increased to 541 from 530.
+Health growth increased to 91 from 85.
+Base armor reduced to 28 from 33.
+Base health regeneration reduced to 3.
+75
+from 6.
+Base attack damage reduced to 50 from 54.
+Attack damage growth increased to 2.
+7
+from 2.
+V8.9
+Captain Fortune
+Bug Fix:
+Shoulders no longer clip through her coat during her recall animation.
+V8.8
+Arcade Miss Fortune
+Bug Fix:
+Seams have been minimized on her chromas when on lower graphics settings.
+V8.7
+Gun Goddess Miss Fortune
+Bug Fix:
+Leg no longer stretches during several animations.
+Bug Fix:
+Arms are no longer weighted improperly during her dance animation.
+V8.6
+Stats
+Attack damage growth increased to 2 from 1.
+V8.3
+Stats
+Base health regeneration reduced to 6 from 6.
+192
+.
+V8.2
+General
+New splash artwork for
+Cowgirl Miss Fortune
+,
+Waterloo Miss Fortune
+,
+Secret Agent Miss Fortune
+,
+Candy Cane Miss Fortune
+,
+Road Warrior Miss Fortune
+, and
+Crime City Miss Fortune
+.
+Star Guardian Miss Fortune
+Bug Fix:
+Beam VFX have been restored during her
+Recall
+animation.
+V7.24b
+Make It Rain
+Cooldown increased to 18 / 16 / 14 / 12 / 10 seconds from 14 / 13 / 12 / 11 / 10.
+V7.22
+Stats
+Base attack damage increased to 54 from 46.
+Base armor increased to 33 from 24.
+04
+.
+Arcade Miss Fortune
+Bug Fix:
+Chromas no longer have parent skin textures on her guns during death animation.
+V7.21
+Star Guardian Miss Fortune
+Bug Fix:
+No longer misses a light beam particle during her recall.
+V7.20
+Arcade Miss Fortune
+Love Tap
+Bug Fix:
+Crit SFX no longer uses her base skin's crit SFX.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.7
+Arcade Miss Fortune
+Bug Fix:
+Fixed a bug where she was playing the wrong critical strike hit sound-effect.
+V7.6
+Double Up
+Base damage increased to 20 / 40 / 60 / 80 / 100 from 20 / 35 / 50 / 65 / 80.
+AD ratio increased to
+100% AD
+from
+85% AD
+.
+New Effect:
+Cast range now adjusts based on
+Miss Fortune's
+attack range (ex.
+Rapid Firecannon
+).
+New Effect:
+No longer briefly pauses after casting
+Double Up
+.
+Make It Rain
+New Effect:
+No longer briefly pauses after casting
+Make it Rain
+.
+V7.5
+Double Up
+Second shot base damage reduced to 20 / 35 / 50 / 65 / 80 from 40 / 70 / 100 / 130 / 160.
+Second shot AD ratio reduced to
+85% AD
+from
+100% AD
+.
+Second shot AP ratio reduced to
+35% AP
+from
+50% AP
+.
+Removed:
+Second shot dealing 50% increased damage if the first one kills its target.
+New Effect:
+The second shot can now
+critically strike
+, dealing 100% increased damage, based on
+critical strike chance
+.
+New Effect:
+If the second shot is a
+critical strike
+, its bonus damage scales with
+bonus
+critical damage
+.
+New Effect:
+The second shot, after the first successfully kills its target, is a guaranteed
+critical strike
+.
+V6.18
+Love Tap
+Removed:
+Reduced damage to turrets.
+Bug Fix:
+Fixed a bug where
+Miss Fortune's
+next basic attack would sometimes not activate
+Love Tap
+after casting
+Double Up
+(particularly at higher attack speeds).
+V6.16
+Make It Rain
+Bug Fix:
+Pool Party Miss Fortune's
+Make It Rain
+no longer causes coconuts to visually hit people from weird directions in certain situations.
+V6.15
+General
+Bug Fix:
+Pool Party Miss Fortune's
+level number no longer drifts out of the side of her health bar.
+V6.13
+Love Tap
+Bug Fix:
+Applying extra
+The Black Cleaver
+armor shred stacks.
+V6.8
+Strut
+Bonus attack speed duration increased to 4 seconds from 3.
+Cooldown increased to 12 seconds from 8
+Cooldown timer changed to on-cast from on buff expiration.
+Removed:
+Love Tap
+extending the duration.
+New Effect:
+While on cooldown applying
+Love Tap
+reduces the timer by
+2 - 1.
+1
+seconds.
+V6.7
+General
+Splash artwork for
+Cowgirl Miss Fortune
+,
+Waterloo Miss Fortune
+,
+Secret Agent Miss Fortune
+and
+Road Warrior Miss Fortune
+updated to the Chinese art.
+V6.1
+Love Tap
+Bonus damage reduced to
+50 - 100% AD
+from
+60 - 100% AD
+.
+Make It Rain
+Base damage reduced to 80 / 115 / 150 / 185 / 220 from 90 / 145 / 200 / 255 / 310.
+V5.24
+Strut
+Bonus attack speed reduced to 40 / 55 / 70 / 85 / 100% from 60 / 70 / 80 / 90 / 100.
+Make It Rain
+Slow reduced to 28 / 36 / 44 / 52 / 60% from 40 / 45 / 50 / 55 / 60.
+V5.23
+Stats
+Health reduced to 530 from 577.
+8
+.
+Strut
+Bonus attack speed reduced to 60 / 70 / 80 / 90 / 100% from 60 / 75 / 90 / 105 / 120.
+V5.22
+Stats
+Attack damage reduced to 46 from 49.
+54
+.
+Attack damage growth reduced to 1 from 3.
+Attack speed growth reduced to 3% from 3.
+1
+.
+Mana increased to 325.
+84
+from 275.
+84
+.
+Mana growth reduced to 35 from 38.
+Love Tap
+-
+New I
+Miss Fortune's basic attacks deal
+60 - 100% AD
+(based on level, up to 11) bonus damage (50% versus minions and structures) and mark her target. Marked targets are immune to the bonus damage but hitting a new target will transfer the mark. Switching between two targets will allow to continually trigger the bonus damage on each.
+Double Up
+will also apply the mark (
+Runaan's Hurricane
+'s
+Wind's Fury
+will not).
+The bonus damage applies life steal.
+Double Up
+Removed:
+On-kill bonus bounce damage being classified as a critical strike
+On-kill bonus bounce damage reduced to 50% from 150.
+Secondary target selection priority updated to accommodate
+Impure Shots
+'s removal (second shot will bounce to targets marked with
+Love Tap
+).
+Strut
+-
+New W
+Removed:
+Stacking bonus movement speed over time.
+New Effect:
+After 5 seconds of not taking damage Miss Fortune passively gains 25 bonus movement speed, increased to 60 / 70 / 80 / 90 / 100 after another 5 seconds.
+New Effect:
+Upon activation Miss Fortune gains 60 / 75 / 90 / 105 / 120% bonus attack speed for 3 seconds and triggers
+Strut
+fully-charged.
+The bonus attack speed's duration is increased by 1 second for each
+Love Tap
+mark applied (doubled for marked champions) but the remaining duration cannot exceed 3 seconds.
+Cost: 30.
+Cooldown: 8.
+Make It Rain
+Range increased to 1000 from 800.
+Damage application changed to instant from after a 0.
+5
+seconds delay.
+Bullet Time
+Maximum duration increased to 3 seconds from 2.
+Waves increased to 12 / 14 / 16 from 8 at all ranks.
+Damage changed to
+75% Total AD
+(+ 20% AP)
+from 50 / 75 / 125
+(+ 10 / 17.
+5
+/ 25%
+bonus
+AD)
+(+ 20% AP)
+.
+Maximum damage changed to
+900 / 1050 / 1200% Total AD
+(+ 240 / 280 / 320% AP)
+from 400 / 600 / 1000
+(+ 80 / 140 / 200% Bonus AD)
+(+ 160% AP)
+.
+New Effect:
+Each wave can critically strike for
+「 20% bonus damage 」
+「
+90% Total AD
+(+ 24% AP)
+」
+for a maximum
+1080 / 1260 / 1440% Total AD
+(+ 288 / 336 / 384% AP)
+potential damage.
+Trivia
+[
+edit
+|
+edit source
+]
+Miss Fortune's name is a play on the word "misfortune".
+Miss Fortune's twin pistols (
+'Shock' and 'Awe'
+) are named after
+the eponymous military tactic
+.
+They can be seen in the game's Mac version launch trailer, together with a poster of Miss Fortune herself.
+Bullet Time
+is named after
+the eponymous motion picture effect
+and references
+Max Payne
+.
+Miss Fortune is the third champion to have her
+Influence Point
+price reduced twice (the others being
+Garen
+and
+Warwick
+) and the second to include a joke animation on release (the other being
+Kog'Maw
+).
+Miss Fortune is one of the first champions to have 12 skins.
+She and
+Ezreal
+got their twelfth skin at the same time. The skins are in the
+Star Guardian
+Pajama skin set.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Marksman
+Marksmen
+(formerly "Carries") excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger. Although Marksmen have the ability to stay relatively safe by kiting their foes, they are very fragile and are extremely reliant on powerful item purchases to become true damage threats.
+At present, Marksmen do not have any official subclasses. The following have been considered:
+Demolisher
+Scrapper
+Examples
+Ashe
+Ezreal
+Lucian
+Kai'Sa
+Jhin
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Bottom
+Within a
+drafted team
+, the
+Bottom Carry
+is one of the two champions assigned to the bottom lane alongside the
+Support
+. Being the most vulnerable, the
+Bottom Carry
+has to acquire as much gold as possible to purchase key items that will greatly increase their fighting potential.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Bottom Carry
+is expected to fulfill the former designation: the position is made for champions that highly depend on item-based power spikes.
+Marksmen
+are the most likely champions to be selected in the
+Bottom Carry
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Love Tap
+Innate:
+Miss Fortune's
+basic attacks apply a mark that expires when attacking a new enemy. If the enemy was unmarked, this also deals
+bonus
+physical damage
+.
+League of Legends content
+Persistent damage
+Persistent damage
+is the damage type dealt primarily by damage over time (DoT) abilities. Most sources of
+persistent damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+persistent damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 5% whenever you deal an instance of
+persistent damage
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Persistent area damage
+Persistent area damage
+is technically not a separate type of damage, but rather a hybrid classification that is applied to some spells.
+In situations where
+persistent damage
+and
+area damage
+would have conflicting outputs, the conflict is resolved by choosing the weakest possible outcome.
+Physical vamp
+and
+Spell vamp
+(where applicable) heals with one-third effectiveness, as with
+area damage
+.
+Arcane Comet's
+cooldown is reduced by 5%, as with
+persistent damage
+, per target affected.
+Counter Strike
+reduces the damage dealt by 25%, as with
+area damage
+.
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Cleanse
+A unit that is
+cleansed
+has all applicable
+crowd control
+status effects removed.
+Due to the nature of the
+cleanse
+interaction, cleansing abilities and effects remain castable in circumstances that would otherwise inhibit casting, unless special-cased.
+"
+Cleanse
+" does not always refer to the act of removing
+all
+crowd control effects, some sources would specify only one or a few types of crowd control.
+A
+cleanse
+does not remove
+Stasis
+, but will remove the disable portion of
+Airborne
+.
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Double Up
+COOLDOWN:
+7 / 6 / 5 / 4 / 3
+Active:
+Miss Fortune
+fires a shot at the target enemy that deals
+physical damage
+, which then bounces to hit another enemy behind them. This applies
+on-hit
+effects to both enemies hit.
+Double Up's
+bounce can
+critically strike
+, and does so if
+Double Up
+kills the primary target.
+League of Legends content
+Bullet Time
+COOLDOWN:
+120 / 110 / 100
+Active:
+Miss Fortune
+channels
+for a short time, firing several waves of bullets in the target direction that deal
+physical damage
+to enemies hit. Each wave can
+critically strike
+.
+League of Legends content
+Strut
+COOLDOWN:
+12
+Passive:
+Miss Fortune
+gains
+bonus
+movement speed
+after a few seconds without being attacked. This bonus is increased after another few seconds, and is granted instantly whenever
+Strut
+is cast.
+Marking a new target with
+Love Tap
+reduces
+Strut's
+cooldown.
+Active:
+Miss Fortune
+gains
+bonus
+attack speed
+for a few seconds.
+League of Legends content
+Make It Rain
+COOLDOWN:
+18 / 17 / 16 / 15 / 14
+Active:
+Miss Fortune
+casts a storm of bullets at the target location for a short time, which continually deals
+magic damage
+and
+slows
+enemies within.
+League of Legends content
+Tidecaller's Blessing
+COOLDOWN:
+11
+Active:
+Nami
+blesses herself or an allied champion for a few seconds, empowering their next three basic attacks or abilities to deal
+bonus
+magic damage
+and briefly
+slow
+enemies.
+League of Legends content
+Strut
+COOLDOWN:
+12
+Passive:
+Miss Fortune
+gains
+bonus
+movement speed
+after a few seconds without being attacked. This bonus is increased after another few seconds, and is granted instantly whenever
+Strut
+is cast.
+Marking a new target with
+Love Tap
+reduces
+Strut's
+cooldown.
+Active:
+Miss Fortune
+gains
+bonus
+attack speed
+for a few seconds.
+References
+[
+edit
+|
+edit source
+]
+↑
+Miss Fortune's profile page
+at
+LeagueOfLegends.com

@@ -1,0 +1,3945 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+K'Sante
+the Pride of Nazumah
+Release date
+2022-11-02
+Last changed
+V14.23
+Class(es)
+Warden
+Skirmisher
+Legacy
+Tank
+Fighter
+Position(s)
+Top
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+2
+Toughness
+3
+Control
+3
+Mobility
+2
+Utility
+2
+Style
+Difficulty
+K'Sante
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+KSante
+Base statistics
+Edit
+Health
+625
++120
+Mana
+320
++60
+Health regen. (per 5s)
+9.5
++1
+Mana regen. (per 5s)
+7
++1
+Armor
+36
++5.2
+Attack damage
+64
++3.5
+Magic resist.
+30
++2.1
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+150
+Attack speed
+Base AS
+0.688
+Attack windup
+19.531%
+AS ratio
+0.625
+Bonus AS
++2.5
+%
+Unit radius
+Gameplay radius
+80
+Selection radius
+140
+Pathing radius
+50
+Acq. radius
+400
+Special statistics
+Damage Dealt
++5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Dauntless Instinct
+Innate:
+K'Sante's
+abilities mark enemies hit for a short time. His basic attacks consume the mark to deal
+bonus
+physical damage
+based on the
+target's
+maximum
+health
+.
+All Out
+Bonus:
+The damage dealt upon consuming a mark is increased based on
+K'Sante's
+bonus
+armor
+and
+magic resist
+. The mark damage is converted to
+true damage
+.
+Innate:
+K'Sante's
+abilities
+mark enemies hit for 4 seconds. His
+basic attacks
+against marked enemies are empowered to consume the mark
+on-hit
+, dealing
+20
+(+
+1% − 2% (based on level)
+of target's
+maximum
+health)
+bonus
+physical damage
+. The health-based portion deals a minimum of
+15 − 100 (based on level)
+damage against
+minions
+and
+20 − 105 (based on level)
+against
+monsters
+.
+All Out
+Bonus:
+K'Sante's
+basic attacks and
+ability damage
+, as well as
+Dauntless Instinct's
+mark consumption, are empowered to deal
+bonus
+physical damage
+equal to
+1%
+(+ 1% per 100
+bonus
+armor)
+(+ 1% per 100
+bonus
+magic resistance)
+of the target's
+maximum
+health
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+Physical
+Counters
+Spell shield
+See Notes
+Parries
+See Notes
+Spell shield
+will block the mark's application, but not the mark's consumption from an attack.
+The empowered attack can be
+dodged
+,
+blocked
+, and missed while
+blinded
+but the mark will not be consumed.
+Starting the empowered attack while the mark is about to time out will not extend the mark duration, but still complete the attack and apply the bonus damage.
+All Out's bonus damage on abilities only applies to the first target hit when damaging multiple enemies (including minions and monsters).
+(bug)
+For most of
+K'Sante's
+spells and item effects, in the case of multiple targets being stuck on the same game tick, this refers to the closest target. For non-missile
+Ntofo Strikes
+, it instead depends on the order in which the target units were spawned into the match.
+(bug)
+Map-Specific Differences
+Ultra Rapid Fire
+differences
+edit
+Health ratio changed to
+1% − 2.
+66
+% (based on level)
+maximum
+health
+.
+All Out
+health ratio changed to
+1.
+8
+/ 2.
+24
+/ 2.
+7
+/ 3.
+15
+/ 3.
+59
+% (based on level)
+maximum
+health
+.
+Edit
+Ntofo Strikes
+COST:
+20 Mana
+CAST TIME:
+0.
+45
+− 0.
+35
+(based on
+bonus
+resistances)
+STATIC COOLDOWN
+:
+3.
+5
+− 2 (based on
+bonus
+resistances)
+RANGE:
+465
+/
+930
+WIDTH:
+100
+/
+100
+Active:
+K'Sante
+slams his ntofo down in the target direction that deals
+physical damage
+and briefly
+slows
+enemies hit. If this hits at least one enemy, he generates a
+stack
+for a few seconds. At 2 stacks, the next
+Ntofo Strikes
+consumes them all to become empowered with a new effect.
+Empowered Active:
+K'Sante
+fires a shockwave that deals
+physical damage
+and
+pulls
+enemies hit toward him.
+All Out
+Bonus:
+Ntofo Strikes's
+cooldown
+is reduced, but it no longer slows enemies hit.
+Active:
+K'Sante
+slams his ntofo down in the target direction that deals
+physical damage
+to enemies hit and
+slows
+them by 80% for 0.
+5
+seconds.
+Physical Damage:
+70 / 100 / 130 / 160 / 190
+(+ 40%
+bonus
+armor)
+(+ 40%
+bonus
+magic resistance)
+If this hits at least one enemy,
+K'Sante
+generates a
+stack
+for 6 seconds, stacking up to 2 times and refreshing on subsequent hits. At 2 stacks, the next
+Ntofo Strikes
+consumes them all to become empowered with a new effect.
+Empowered Active:
+K'Sante
+fires a shockwave in the target direction that applies the same effects to enemies hit, but also
+pulls
+them towards him over 0.
+65
+seconds and
+stuns
+them for 0.
+8
+seconds.
+All Out
+Bonus:
+Ntofo Strikes'
+cooldown
+is reduced by 33%, with a minimum total cooldown of 1.
+33
+seconds. Upon entering
+All Out
+,
+Ntofo Strikes'
+stacks are reset.
+Ntofo Strikes
+resets
+K'Sante's
+basic attack timer.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+See Notes
+This ability will cast from wherever the caster is at the end of the cast time.
+If
+Ntofo Strikes
+hits no more than one enemy champion,
+K'Sante
+will be ordered an attack command against them.
+The basic attack reset is not considered one for
+Hail of Blades
+.
+Temporary increases/decreases in bonus resistances will count for reducing/increasing
+Ntofo Strikes'
+cooldown.
+Only the empowered active is a
+projectile
+.
+The following table refers for interactions while
+K'Sante
+is in the cast time of the third cast:
+Type
+Cast time
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Tips & Tricks
+Using
+Footwork
+on top of an enemy immediately followed by an empowered
+Ntofo Strikes
+allows
+K'Sante
+to fling enemies behind him, including through walls.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 40 / 80 / 120 / 160 / 200.
+Base cooldown changed to 2.
+75
+seconds.
+Edit
+Path Maker
+COST:
+40 / 45 / 50 / 55 / 60 Mana
+COOLDOWN
+:
+14 / 13 / 12 / 11 / 10
+CAST TIME:
+none
+RANGE:
+450
+SPEED:
+1300
+/
+1500
+/
+1800
+K'Sante
+begins to
+charge
+, during which he gains damage reduction. After a brief delay,
+Path Maker
+can be recast within the remaining charge duration, and does so automatically afterwards. The charge cannot be
+interrupted
+.
+Recast:
+K'Sante
+dashes
+in the target direction, dealing
+physical damage
+to enemies hit,
+knocking them back
+and
+stunning
+all targets.
+All Out
+Bonus:
+Upon entering
+All Out
+,
+Path Maker's
+cooldown
+is refreshed.
+Path Maker's
+damage, dash speed, and damage reduction are increased, but it will no longer stun or knock back targets.
+Active:
+K'Sante
+prepares to
+dash
+in the target direction,
+charging
+for a minimum of 0.
+4
+seconds and up to 1 second. During this time, he gains
+displacement immunity
+and 30% damage reduction; additionally,
+Path Maker's
+range,
+stun
+duration, and
+All Out
+bonus
+true damage
+modifier increase over the first 0.
+9
+seconds of the channel.
+Path Maker
+can be recast within the duration, and does so automatically afterwards.
+Path Maker's
+charge cannot be
+interrupted
+by
+crowd control
+.
+Recast:
+K'Sante
+dashes
+in the direction he targeted at the time of cast, though not through terrain, dealing
+physical damage
+to enemies he passes through,
+carrying
+them alongside him, and
+stunning
+them for
+0.
+5
+− 1.
+75
+(based on channel time)
+seconds. This damage is capped against
+monsters
+.
+Physical Damage:
+40 / 60 / 80 / 100 / 120
+(+ 8%
+(+ 2% per 100
+bonus
+armor)
+(+ 2% per 100
+bonus
+magic resistance)
+of target's
+maximum
+health)
+Monster Damage Cap:
+180 / 260 / 340 / 420 / 500
+All Out
+Bonus:
+Path Maker
+no longer applies its
+knock back
+and
+stun
+, but its damage reduction is increased to 75%, the dash deals
+10% − 100% (based on channel time)
+bonus
+true damage
+, and the dash speed is increased by 20%. Upon entering
+All Out
+,
+Path Maker's
+cooldown
+is refreshed.
+Minimum Bonus True Damage:
+4 / 6 / 8 / 10 / 12
+(+ 0.
+8
+%
+(+ 0.
+2
+% per 100
+bonus
+armor)
+(+ 0.
+2
+% per 100
+bonus
+magic resistance)
+of target's
+maximum
+health)
+Maximum Bonus True Damage:
+40 / 60 / 80 / 100 / 120
+(+ 8%
+(+ 2% per 100
+bonus
+armor)
+(+ 2% per 100
+bonus
+magic resistance)
+of target's
+maximum
+health)
+Total Maximum Mixed Damage:
+80 / 120 / 160 / 200 / 240
+(+ 16%
+(+ 4% per 100
+bonus
+armor)
+(+ 4% per 100
+bonus
+magic resistance)
+of target's
+maximum
+health)
+Ntofo Strikes
+and
+All Out
+can be cast during the dash. Path Maker's recast can be used while affected by
+cast-inhibiting crowd control
+.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Grounded
+See Notes
+Knockdown
+Interrupted
+Disruption
+Not Interrupted
+All Out's
+duration is increased by 2 seconds if it were to expire during
+Path Maker's
+charge.
+Path Maker
+cancels any existing movement or attack commands. However, new inputs given during the charge will be retained once the dash ends, except when the dash hits only one enemy champion. If
+Path Maker
+hits only one enemy champion
+K'Sante
+will be ordered to basic attack them afterwards.
+K'Sante
+cannot use
+Flash
+during
+Path Maker's
+dash.
+Path Maker's
+damage is not capped against monsters while empowered by
+All Out
+.
+(bug)
+Path Maker's
+recast can be used even while
+grounded
+or
+rooted
+, but the initial cast cannot.
+Path Maker
+can be recast by issuing an attack move command (or
+LMB
+) but not a targeted attack command.
+The following table refers for interactions while
+K'Sante
+is
+channeling
+:
+If the charge is cancelled, he will not automatically use the recast.
+Type
+Charge channel
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled, but allows trinkets
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Interrupted by
+Hexflash
+(Recasts)
+Interrupted by
+Death
+Edit
+Footwork
+COST:
+45 / 50 / 55 / 60 / 65 Mana
+COOLDOWN:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8
+CAST TIME:
+none
+RANGE:
+250
+/
+550
+SPEED:
+500
+/
+1250
+/
+1100
+/
+1400
+Active:
+K'Sante
+dashes
+, granting himself a
+shield
+. If cast toward an ally,
+Footwork
+has increased range and can dash through terrain. If the ally is a
+champion
+, they also receive the shield.
+All Out
+Bonus:
+Footwork's
+dash speed and location range are increased, and it can dash through terrain.
+Active:
+K'Sante
+dashes
+to the target location, though not through terrain, and grants himself a
+shield
+for 2 seconds.
+Shield Strength:
+80 / 120 / 160 / 200 / 240
+(+ 15%
+bonus
+health)
+Footwork
+can also be cast on allies with increased range and speed, and the ability to
+dash
+through terrain. If the target ally is a
+champion
+, they receive the
+shield
+as well.
+All Out
+Bonus:
+Footwork's
+dash speed is increased, and its cooldown is reduced by 50%.
+Footwork's dash speed scales with
+K'Sante's
+total
+movement speed
+.
+K'Sante
+can cast any of his abilities during the dash. Footwork will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+/
+Unit
+Counters
+Grounded
+Disabled
+Knockdown
+Interrupted
+Dashing to the side or behind will cancel current move or attack orders. Exception when attack order was given at melee range from target.
+The shield is granted instantly on cast for both
+K'Sante
+and the potential allied champion.
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 9 / 8.
+5
+/ 8 / 7.
+5
+/ 7 seconds.
+Edit
+All Out
+COST:
+100 Mana
+COOLDOWN
+:
+120 / 100 / 80
+CAST TIME:
+0.
+4
+TARGET RANGE:
+300
+EFFECT RADIUS:
+350
+/
+5000
+/
+Global
+SPEED:
+2000
+Active:
+K'Sante
+roots
+an enemy and then shatters his tonfas,
+knocking them back
+,
+blinking
+behind them, and dealing
+physical damage
+. If the enemy is pushed into terrain, they will be knocked over it and take additional
+physical damage
+. The target is
+stunned
+at the end of the push, and also
+knocked up
+again if they were pushed through terrain. At the end,
+K'Sante
+goes
+All Out
+for some time.
+All Out:
+K'Sante
+loses a large portion of his
+health
+,
+base
+armor
+and
+magic resist
+, but gains
+bonus
+AD
+and
+omnivamp
+. His basic abilities are empowered and they have no
+mana
+cost.
+K'Sante
+can recast this ability to end
+All Out
+early. After
+All Out
+ends,
+K'Sante
+restores his mana, but his health is
+not restored
+.
+Active:
+K'Sante
+roots
+the target enemy
+champion
+for
+0.
+5
+seconds
+and gains
+displacement immunity
+over the cast time. He then shatters his ntofos,
+pulling
+the target to a location that is 300 units in the cast direction from their location at the time of cast, during which they are
+revealed
+, and
+blinking
+175 units
+behind that location. The target is dealt
+physical damage
+near the end of the displacement and is
+stunned
+for 0.
+3
+seconds once it ends.
+Physical Damage:
+80 / 115 / 150
+If there is
+valid terrain
+350 units in the cast direction from the target's location at the time of cast, the target is instead
+pulled
+to a location that is directly 450 units away from the edge of the other side of the terrain and
+K'Sante
+blinks
+100 units behind that location, dealing them the
+physical damage
+near their emergence from the terrain. At the end of the displacement, they remain
+airborne
+for
+0.
+264
+seconds
+, after which they are
+stunned
+for 0.
+5
+seconds.
+K'Sante
+strikes them after
+0.
+132
+seconds
+into the airborne duration to deal
+physical damage
+.
+Strike Physical Damage:
+80 / 115 / 150
+(+ 5% of his
+bonus
+health)
+Total Physical Damage:
+160 / 230 / 300
+(+ 5% of his
+bonus
+health)
+After
+K'Sante
+blinks
+, he enters
+All Out
+for 15 seconds.
+All Out:
+K'Sante
+gains a
+health threshold
+equal to
+65%
+maximum
+health
+which cannot be
+modified
+nor
+exceeded
+by any means. Upon entering
+All Out
+, his
+current
+health
+is reduced to this threshold if it is above it. Additionally, his
+base
+armor
+and
+base
+magic resistance
+are reduced by
+85%
+bonus
+armor
+and
+85%
+bonus
+magic resistance
+, respectively. In return, he gains
+bonus
+attack speed
+,
+50%
+bonus
+-armor penetration
+, and
+20% omnivamp
+, and modifies his basic abilities which can be cast at no cost.
+Upon entering
+All Out
+,
+K'Sante
+is restored to
+100%
+maximum
+mana
+. His
+mana
+then decays to
+0
+over the duration of the buff, after which the
+amount of
+mana
+he had
+prior to entering
+All Out
+is restored.
+Bonus Attack Speed:
+40 / 60 / 80%
+K'Sante
+retains his
+maximum
+health
+and
+bonus
+resistances during All Out. Health lost from gaining the health threshold is
+not
+restored after the effect ends. If the target is pulled over terrain that is longer than
+2000
+units,
+K'Sante
+will
+vanish
+during their displacement and reappear near the end of it.
+"I will not yield!"
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+If the terrain behind the target is invalid by not having an opposite side,
+All Out
+will not trigger its additional effects from pulling the target over terrain.
+The pull destination in this case would be inside terrain and thus the displacement would stop at the boundary.
+K'Sante
+will restore the exact amount of
+mana
+he had before going
+All Out
+after the buff expires.
+The amount does not change even if his
+maximum
+mana
+changes during the effect.
+While the target is being
+pulled
+over terrain, they are additionally
+attached
+to a missile that travels in the same trajectory as the displacement, becoming detached afterwards.
+Removing the
+airborne
+debuff will not cause the target to detach from the missile.
+K'Sante
+will blink 175 units beyond the target's hitbox's edge at the end location.
+If the target resists the
+pull
+by having a
+spell shield
+or being
+immune to crowd control
+or
+displacement immune
+,
+K'Sante
+will still blink beyond the pull's end location as if the target were displaced.
+All Out's
+remaining duration is tracked in his secondary resource bar.
+All Out
+does not interact with
+player-generated terrain
+.
+K'Sante's
+strike at the end of the displacement when the target is pulled over terrain does not apply
+Dauntless Instinct's
+mark.
+Going
+All Out
+does not override
+K'Sante's
+attack or movement commands if the target does not collide with terrain.
+If the target is however pulled through terrain then
+K'Sante
+will be ordered to basic attack the target afterwards.
+The percentage bonus armor penetration stacks additively with other sources of percentage armor penetration.
+(note)
+Since
+K'Sante
+retains the stats he "lost", any effects that scale based on those stats will calculate based on the value prior to him going
+All Out
+.
+His
+base
+resistances can be reduced below 0 by his
+bonus
+resistances.
+All Out
+will not take into account resistances gained through % bonuses (eg.
+Conditioning
+,
+Mountainous Vigor
+, etc) when reducing
+K'Sante's base
+resistances.
+(bug)
+Jak'Sho, The Protean's
+Voidborn Resilience
+specifically is taken into account.
+Gaining
+bonus
+health during
+All Out
+causes the health threshold to be briefly increased then reset back to its original value.
+The
+bonus
+health is still applied to his
+current
+health.
+All Out's
+granted
+untargetability
+from the
+vanish
+during the target's pull of over 2000 units does not
+destroy
+in-flight
+projectiles
+.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+The following table refers for interactions while
+K'Sante
+is in cast time:
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+The following table refers for interactions while
+K'Sante
+is performing
+All Out's
+cast:
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death
+Map-Specific Differences
+Arena
+differences
+edit
+Maximum knock back distance changed to 2000.
+Cooldown changed to 90 / 75 / 60 seconds.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+K'Sante (Collection)
+.
+Original
+View in 3D
+975
+03.11.2022
+Defiant and courageous, K'Sante battles colossal beasts and ruthless Ascended to protect his home of Nazumah, a coveted oasis amid the sands of Shurima. But after a falling-out with his former partner, K'Sante realizes that in order to become a warrior worthy of leading his city, he must temper his single-minded drive for success. Only then can he avoid falling prey to his own pride and find the wisdom he needs to defeat the vicious monsters threatening his people.
+DeObia Oparei
+Bo 'chenbowow' Chen
+Loot eligible
+Empyrean
+View in 3D
+1350
+03.11.2022
+K'Sante prides himself on leading under adversity, but this is a challenge unlike any other. His realm is gone, he's living on borrowed time, and the other Empyreans don't realize that something released the Foreglow. Something bad. He knows only they can fix it, but they need their eyes opened. They need a leader.
+DeObia Oparei
+Francis Tneh, West Studio
+Empyrean
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Empyrean K'Sante Chromas
+Emerald
+Neon Flare
+Pearl
+Ruby
+Turquoise
+Prestige Empyrean
+View in 3D
+Special
+03.11.2022
+K'Sante's always been a trailblazer on the fashion circuit, and this year he definitely wants to make the audience sweat. With his crystal-laden drip and flawless makeup, he's about to light a fire under this Gala.
+DeObia Oparei
+Julia Yurtsev
+Empyrean
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Empyrean
+. Store variants are discounted for multiple purchases.
+HEARTSTEEL
+View in 3D
+1350
+08.11.2023
+An awe-inspiring presence—physically, emotionally, vocally—K'Sante is always focused on the bigger picture, determined for HEARTSTEEL to make its mark on the music industry. Though in his solo career his ambition often outpaced what one man can do alone, now that he's found friends and collaborators he believes in, K'Sante knows nothing can stop them.
+DeObia Oparei
+Bo 'chenbowow' Chen, Julia Yurtsev, Jennifer Wuestling
+HEARTSTEEL
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+HEARTSTEEL K'Sante Chromas
+Citrine
+Emerald
+Pearl
+Rockstar
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.23
+Footwork
+Bug Fix:
+Buffering
+Footwork's
+cast on an ally target no longer improperly triggers on-cast effects (e.g. activating Spellblade).
+V14.22
+Ntofo Strikes
+Base damage reduced to 70 / 100 / 130 / 160 / 190 from 80 / 110 / 140 / 170 / 200.
+Footwork
+Location dash speed while
+All Out
+increased to 1250 from 950.
+V14.21
+Footwork
+Bug Fix:
+Granting an ally
+Moonstone Renewer's
+Starlit Grace's
+shield via
+Footwork
+no longer allows the shield to last indefinitely.
+V14.19
+- September 26th Hotfix
+Stats
+Undocumented:
+Base attack speed increased to 0.
+688
+from 0.
+625
+.
+Base armor increased to 36 from 33.
+Ntofo Strikes
+Base damage increased to 80 / 110 / 140 / 170 / 200 from 70 / 100 / 130 / 160 / 190.
+Damage armor ratio increased to
+40%
+bonus
+armor
+from
+35%
+.
+Damage magic resistance ratio increased to
+40%
+bonus
+magic resistance
+from
+35%
+.
+Path Maker
+Stun duration increased to
+0.
+5
+− 1.
+75
+(based on channel time)
+seconds from
+0.
+5
+− 1.
+5
+(based on channel time)
+.
+Footwork
+Base shield changed to 80 / 120 / 160 / 200 / 240 from 50 / 100 / 150 / 200 / 250.
+Shield health ratio increased to
+15%
+bonus
+health
+from
+10%
+.
+V14.19
+- Gameplay Update
+Stats
+Attack range reduced to 150 from 175.
+Dauntless Instinct
+Base damage increased to 20 at all levels from
+5 − 20 (based on level)
+.
+Health ratio changed to
+1% − 2% (based on level)
+of target's
+maximum
+health
+from
+1 / 1.
+33
+/ 1.
+66
+/ 2% (based on level)
+.
+Removed:
+No longer grants
+25
+bonus
+attack range
+against a marked target.
+Removed:
+Damage is no longer converted to
+true damage
+while
+All Out
+.
+Removed:
+Damage is no longer increased by
+30% − 78% (based on level)
+while
+All Out
+.
+New Effect:
+While
+All Out
+,
+K'Sante's
+basic attacks and abilities now deal
+bonus
+physical damage
+equal to
+1%
+(+ 1% per 100
+bonus
+armor)
+(+ 1% per 100
+bonus
+magic resistance)
+of the target's
+maximum
+health
+.
+Ntofo Strikes
+Width reduced to 100 units from 150.
+Base damage increased to 70 / 100 / 130 / 160 / 190 from 30 / 55 / 80 / 105 / 130.
+Damage armor ratio increased to
+35%
+bonus
+armor
+from
+30%
+.
+Damage magic resistance ratio increased to
+35%
+bonus
+magic resistance
+from
+30%
+.
+Removed:
+Damage no longer scales with
+40% AD
+.
+Cast time increased to
+0.
+45
+− 0.
+35
+(based on
+bonus
+resistances)
+from
+0.
+45
+− 0.
+25
+(based on
+bonus
+health)
+.
+Removed:
+Cast time is no longer reduced by 0.
+08
+seconds while
+All Out
+.
+Cooldown increased to
+3.
+5
+− 2 (based on
+bonus
+resistances)
+from
+3.
+5
+− 1.
+75
+(based on
+bonus
+resistances)
+.
+All Out
+cooldown reduction increased to 33% from 25%.
+Removed:
+First cast no longer has a hitbox of 100 units around
+K'Sante
+.
+Removed:
+No longer refreshes the cooldown of the ability upon entering
+All Out
+.
+New Effect:
+Now
+slows
+enemies while
+All Out
+.
+Path Maker
+Minimum charge time reduced to 0.
+4
+seconds from 0.
+66
+.
+Maximum range charge duration increased to 0.
+9
+seconds from 0.
+66
+.
+Base damage increased to 40 / 60 / 80 / 100 / 120 from 20 / 40 / 60 / 80 / 100.
+Cooldown reduced to 14 / 13 / 12 / 11 / 10 seconds from 24 / 22 / 20 / 18 / 16.
+Removed:
+Damage no longer scales with
+50% AD
+,
+30%
+bonus
+armor
+, and
+30%
+bonus
+magic resistance
+.
+Damage health ratio changed to
+8% of target's
+maximum
+health
+at all ranks from
+6 / 7 / 8 / 9 / 10%
+.
+New Effect:
+Health ratio now scales with
+2% per 100
+bonus
+armor
+and
+2% per 100
+bonus
+magic resistance
+.
+Stun duration changed to
+0.
+5
+− 1.
+5
+(based on channel time)
+seconds from 1.
+25
+at all times.
+New Effect:
+Now deals
+10% − 100% (based on channel time)
+of
+Path Maker's
+damage as
+bonus
+true damage
+during
+All Out
+.
+Removed:
+K'Sante
+can no longer change the charging direction of the recast during the initial cast's channel.
+Recast now always dashes in the direction he targeted at the time of the initial cast.
+All Out
+damage reduction increased to 75% from 60%.
+Monster damage cap changed to 180 / 260 / 340 / 420 / 500 from
+50 − 475 (based on level)
+.
+Footwork
+Location dash speed reduced to 500 from 900.
+All Out
+location dash speed reduced to 950 from 1450.
+New Effect:
+Location dash speed, including while
+All Out
+, is now increased by
+100% movement speed
+.
+New Effect:
+While
+All Out
+, the base dash speed to allies is now increased to 1400.
+Cooldown reduced to 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8 seconds from 10.
+5
+/ 10 / 9.
+5
+/ 9 / 8.
+5
+.
+New Effect:
+Cooldown is now reduced by 50% during
+All Out
+.
+Removed:
+Location dash can no longer cross terrain during
+All Out
+.
+All Out
+ally dash unchanged.
+Removed:
+Location dash range is no longer increased to 400 while
+All Out
+.
+Removed:
+Cast no longer resets his basic attack timer.
+Bug Fix:
+Fixed an animation error upon cast.
+All Out
+Damage type changed to physical from magic.
+Base damage increased to 80 / 115 / 150 from 70 / 110 / 150.
+Maximum base damage increased to 160 / 230 / 300 from 140 / 220 / 300.
+Removed:
+Damage no longer scales with
+65% AP
+.
+New Effect:
+Strike damage after pulling a target through a wall now scales with
+5% of his
+bonus
+health
+.
+Buff duration reduced to 15 seconds from 20.
+Removed:
+Can no longer be recast to end the effects of
+All Out
+early.
+Removed:
+No longer grants
+10 / 25 / 40
+(+ 25%
+bonus
+armor)
+(+ 25%
+bonus
+magic resistance)
+bonus
+attack damage
+.
+Bonus attack speed increased to 40 / 60 / 80% from 25 / 35 / 45%.
+Removed:
+No longer heals
+K'Sante
+for 15 / 20 / 25% of damage dealt to champions for the duration.
+New Effect:
+Now grants
+20% omnivamp
+for the duration.
+New Effect:
+Now grants
+50%
+bonus
+-armor penetration
+for the duration.
+Bug Fix:
+Now properly reduces the bonus resistances granted by
+Jak'Sho, The Protean's
+Voidborn Resilience.
+V14.17
+Ntofo Strikes
+Bug Fix:
+Using
+Ntofo Strikes
+after dashing or blinking and without inputting a new command while clamp casting is enabled no longer causes it to target the mouse position prior to their movement and thus cast in a wrong direction.
+V14.15
+All Out
+Bug Fix:
+Root is no longer affected by tenacity.
+V14.11
+Ntofo Strikes
+Mana cost reduced to 20 at all ranks from 28 / 26 / 24 / 22 / 20.
+Path Maker
+Maximum charge time reduced to 1 second from 1.
+5
+seconds.
+Damage reduction reduced to 30% at all levels from
+40% − 60% (based on level)
+.
+All Out
+damage reduction changed to 60% at all levels from
+50% − 75% (based on level)
+.
+All Out
+Healing increased to 15 / 20 / 25% of damage dealt from 10 / 15 / 20%.
+V14.10
+Stats
+Health growth increased to 120 from 115.
+Health regeneration growth increased to 1 from 0.
+85
+.
+Footwork
+Base shield increased to 50 / 100 / 150 / 200 / 250 from 50 / 90 / 130 / 170 / 210.
+V14.9
+Stats
+Gameplay radius increased to 80 units from 65.
+Pathing radius increased to 50 units from 35.
+Selection radius increased to 140 units from 102.
+77780151367188
+.
+V14.4
+Stats
+Base health increased to 625 from 570.
+Base mana increased to 320 from 290.
+Ntofo Strikes
+Removed:
+No longer
+slows
+enemies while
+All Out
+.
+Path Maker
+Bonus armor ratio increased to
+85%
+bonus
+armor
+from
+50%
+.
+Bonus magic resistance ratio increased to
+85%
+bonus
+magic resistance
+from
+50%
+.
+Removed:
+Cooldown is no longer reduced to 18 / 16.
+5
+/ 15 / 13.
+5
+/ 12 seconds during
+All Out
+.
+Removed:
+All Out
+no longer reduces the minimum channel to 0.
+5
+seconds.
+Footwork
+Location-targeted dash speed reduced to 900 from 1700.
+Ally-targeted dash speed reduced to 1100 from 1800.
+New Effect:
+Ally-targeted dash speed now scales with
+100% movement speed
+.
+All Out
+dash speed reduced to 1450 from 2100.
+V13.24
+Path Maker
+Mana cost reduced to 40 / 45 / 50 / 55 / 60 from 60 / 65 / 70 / 75 / 80.
+Armor ratio increased to
+50%
+bonus
+armor
+from
+30%
+.
+Magic resistance ratio increased to
+50%
+bonus
+magic resistance
+from
+30%
+.
+V13.23
+Dauntless Instinct
+All Out
+bonus mark damage changed to
+30% − 78% (based on level)
+from
+45 / 60 / 75% (based on level)
+.
+Ntofo Strikes
+Base damage reduced to 30 / 55 / 80 / 105 / 130 from 30 / 60 / 90 / 120 / 150.
+Mana cost increased to 28 / 26 / 24 / 22 / 20 from 15 at all ranks.
+Path Maker
+Maximum range charge duration reduced to 0.
+66
+seconds from 0.
+75
+.
+All Out
+maximum range charge duration reduced to 0.
+45
+seconds from 0.
+5
+.
+Removed:
+No longer automatically recasts the ability if the charge is cancelled.
+Bug Fix:
+Charge is no longer cancelled if the recast was used at the same time as
+Hexflash
+.
+Footwork
+Base shield increased to 50 / 90 / 130 / 170 / 210 from 45 / 65 / 85 / 105 / 125.
+Shield health ratio reduced to
+10%
+bonus
+health
+from
+15%
+.
+All Out
+Bonus attack damage reduced to 10 / 25 / 40 from 15 / 30 / 45.
+Bug Fix:
+No longer appears to behave improperly after performing certain ability combos during the buff.
+V13.21
+- October 26th Hotfix
+Ntofo Strikes
+Cast time increased to
+0.
+45
+− 0.
+25
+(based on
+bonus
+health)
+from
+0.
+45
+− 0.
+25
+(based on
+bonus
+health)
+.
+Formula changed.
+V13.21
+Dauntless Instinct
+All Out
+bonus mark damage increased to
+45 / 60 / 75% (based on level)
+from 35% all levels.
+Ntofo Strikes
+Cast time reduced to
+0.
+45
+− 0.
+25
+(based on
+bonus
+health)
+from
+0.
+45
+− 0.
+25
+(based on
+bonus
+health)
+.
+Formula changed.
+Tooltip now always shows resists and health needed for cooldown and cast time reductions.
+All Out
+tooltip has been simplified and updated.
+Bug Fix:
+Flash
+is now properly locked out during the third cast at all times.
+Path Maker
+Maximum channel duration increased to 1.
+5
+seconds from 1.
+All Out
+tooltip has been simplified and updated.
+Bug Fix:
+No longer interrupts
+Footwork's
+dash upon cast.
+Bug Fix:
+Forced action effects no longer improperly interrupt the channel.
+Bug Fix:
+Channel during
+All Out
+is no longer cancelable by left click.
+Bug Fix:
+Can no longer be cast twice under certain conditions.
+All Out
+New Effect:
+Healing based on damage to champions now affects magic damage dealt.
+New Effect:
+Now resets his basic attack timer instantly after
+Ntofo Strikes
+or
+Footwork
+is cast instead of only after 0.
+1
+seconds.
+Bug Fix:
+Attack damage and resistances scaling now properly update dynamically during the buff.
+Bug Fix:
+Healing based on damage dealt now properly applies even if the damage was mitigated by shields.
+V13.20
+Stats
+Base health reduced to 570 from 610.
+Health growth increased to 115 from 108.
+Armor growth increased to 5.
+2
+from 4.
+7
+.
+Dauntless Instinct
+Removed:
+Mark damage during
+All Out
+is no longer increased by
+20% per 100
+bonus
+armor
+and
+20% per 100
+bonus
+magic resistance
+.
+Ntofo Strikes
+Base damage reduced to 30 / 60 / 90 / 120 / 150 from 50 / 75 / 100 / 125 / 150.
+New Effect:
+Extended tooltip now shows its current and maximum cast time and cooldown.
+New Effect:
+Now also applies its
+slow
+during
+All Out
+.
+New Effect:
+Stacks are now reset after
+All Out
+is cast.
+New Effect:
+Cooldown is now refreshed after
+All Out
+is cast if he had two stacks.
+Removed:
+Can no longer cast
+Flash
+during the cast time of the third cast.
+Removed:
+Casting it during
+All Out
+no longer fully resets the basic attack timer.
+Undocumented:
+Cooldown reduction during
+All Out
+changed to 25% from 1 second.
+Undocumented:
+Cast time is now reduced by 0.
+08
+seconds during
+All Out
+.
+Path Maker
+Damage health ratio increased to
+6 / 7 / 8 / 9 / 10% of target's
+maximum
+health
+from
+2 / 2.
+25
+/ 2.
+5
+/ 2.
+75
+/ 3%
+.
+Damage reduction increased to
+40% − 65% (based on level)
+from 25% at all levels.
+All Out
+damage reduction increased to
+50% − 75% (based on level)
+from 30% at all levels.
+Stun duration increased to 1.
+25
+seconds at all ranks from 0.
+3
+/ 0.
+35
+/ 0.
+4
+/ 0.
+45
+/ 0.
+5
+.
+Charge time for maximum dash range reduced to 0.
+65
+seconds from 0.
+85
+seconds.
+Charge time for maximum dash range during
+All Out
+increased to 0.
+5
+seconds from 0.
+425
+seconds.
+Mana cost reduced to 60 / 65 / 70 / 75 / 80 from 75 / 80 / 85 / 90 / 95.
+New Effect:
+Now has a base damage of 20 / 40 / 60 / 80 / 100.
+New Effect:
+Damage now scales with
+50% AD
+,
+30%
+bonus
+armor
+, and
+30%
+bonus
+magic resistance
+.
+New Effect:
+Channel now has a minimum charge time of 0.
+65
+seconds, reduced to 0.
+5
+seconds during
+All Out
+.
+New Effect:
+All Out
+now reduces the total cooldown of the ability to 18 / 16.
+5
+/ 15 / 13.
+5
+/ 12 seconds from 24 / 22 / 20 / 18 / 16 at all times.
+Removed:
+Damage health ratio no longer increases to up to
+7 / 7.
+25
+/ 7.
+5
+/ 7.
+75
+/ 8% of the target's
+maximum
+health
+based on charge time.
+Removed:
+No longer deals 25 / 35 / 45 / 55 / 65
+(+ 50% AD)
+to 110 / 170 / 230 / 290 / 350
+(+ 50% AD)
+bonus damage based on charge time during
+All Out
+.
+Removed:
+Damage reduction no longer scales with
+10% per 100
+bonus
+armor
+,
+10% per 100
+bonus
+magic resistance
+, and
+1% per 100
+bonus
+health
+, increased to
+12% per 100
+bonus
+armor
+,
+12% per 100
+bonus
+magic resistance
+, and
+1.
+2
+% per 100
+bonus
+health
+during
+All Out
+.
+Removed:
+Stun duration no longer increases to up to 0.
+85
+/ 0.
+95
+/ 1.
+05
+/ 1.
+15
+/ 1.
+25
+seconds based on charge time.
+Footwork
+Removed:
+Casting it during
+All Out
+no longer fully resets the basic attack timer.
+All Out
+Damage type changed to magic from physical.
+Base damage increased to 70 / 110 / 150 from 35 / 70 / 105.
+Wall base damage reduced to 70 / 110 / 150 from 150 / 250 / 350.
+Total base damage reduced to 140 / 220 / 300 from 185 / 320 / 455.
+Health threshold increased to
+65%
+maximum
+health
+from
+55%
+.
+Bonus attack damage increased to 15 / 30 / 45 from 5 at all ranks.
+Bonus attack damage armor ratio reduced to 25% from 32.
+5
+%.
+Bonus attack damage magic resistance ratio reduced to 25% from 32.
+5
+%.
+Minimum knock back distance reduced to 300 units from 350.
+New Effect:
+Initial damage and wall damage now scale with
+65% AP
+.
+New Effect:
+Now grants
+25 / 35 / 45%
+bonus
+attack speed
+throughout its duration.
+New Effect:
+Now grants healing based on 10 / 15 / 20% of damage dealt to enemy champions during the effect.
+Removed:
+Initial damage and wall damage no longer scale with
+20% AD
+.
+Removed:
+No longer grants 10%
+(+ 0.
+75
+% per 100
+bonus
+health)
+omnivamp.
+V13.19
+All Out
+Bug Fix:
+No longer locks the player's camera in place if the target became invalid during the cast time.
+V13.18
+All Out
+Bug Fix:
+Now properly converts percent bonus resistances into bonus attack damage.
+V13.12
+Footwork
+Cooldown increased to 10.
+5
+/ 10 / 9.
+5
+/ 9 / 8.
+5
+seconds from 9 / 8.
+5
+/ 8 / 7.
+5
+/ 7.
+V13.6
+Ntofo Strikes
+Bug Fix:
+No longer incorrectly grants the next basic attack after using an empowered cast the effects of
+Dauntless Instinct's
+attack without his target being marked by
+Dauntless Instinct
+.
+Path Maker
+Bug Fix:
+Now is properly disabled during
+Dash
+.
+V13.5
+All Out
+Bug Fix:
+No longer goes on cooldown if the target dies at the exact same time as the cast time ended.
+V13.4
+Path Maker
+Bug Fix:
+Dash no longer travels at full distance if
+Recall
+was cast during it.
+Bug Fix:
+Can no longer be cast during
+Stopwatch's
+/
+Zhonya's Hourglass'
+Stasis.
+V13.3
+Ntofo Strikes
+Knock up duration reduced to 0.
+65
+seconds from 1.
+Stun duration reduced to 1 second from varying between 1 to 1.
+25
+.
+Path Maker
+Minimum stun duration reduced to 0.
+3
+/ 0.
+35
+/ 0.
+4
+/ 0.
+45
+/ 0.
+5
+seconds from 0.
+35
+/ 0.
+45
+/ 0.
+55
+/ 0.
+65
+/ 0.
+75
+.
+All Out
+Resistance reduction increased to 85% bonus resistances from 65%.
+V13.1
+Stats
+Base movement speed reduced to 330 from 335.
+Dauntless Instinct
+Base damage reduced to
+5 − 20 (based on level)
+from
+10 − 25 (based on level)
+.
+Path Maker
+Minimum damage health ratio reduced to
+2 / 2.
+25
+/ 2.
+5
+/ 2.
+75
+/ 3%
+maximum
+health
+from
+4.
+25
+/ 4.
+5
+/ 4.
+75
+/ 5 / 5.
+25
+%
+.
+Maximum damage health ratio reduced to
+7 / 7.
+25
+/ 7.
+5
+/ 7.
+75
+/ 8%
+maximum
+health
+from
+8.
+25
+/ 8.
+5
+/ 8.
+75
+/ 9 / 9.
+25
+%
+.
+All Out
+Bug Fix:
+Animations are now properly played when cast against a champion performing
+Cease and Desist
+.
+Bug Fix:
+Target player's screen after being zoomed out now properly zooms back in after being knocked through terrain at a very long distance.
+V12.23
+Stats
+Base health regeneration increased to 9.
+5
+from 8.
+5
+.
+Health growth increased to 108 from 104.
+Ntofo Strikes
+Bug Fix:
+Cooldown now properly scales down by the increased resistances from sources such as
+Hullbreaker's
+Boarding Party.
+Footwork
+New Effect:
+Now partially resets basic attacks in base form, and will be a full attack reset while in his
+All Out
+form.
+Adjusted so that if he is very close to dashing through a wall he will now go through the wall.
+All Out
+Bug Fix:
+Can no longer be used to knock back targets outside of the boundaries of
+Mordekaiser's
+Realm of Death
+.
+Bug Fix:
+Casting it no longer causes the increased resistances from
+Hullbreaker's
+Boarding Party to be temporarily lost.
+V12.22
+Path Maker
+Removed:
+K'Sante
+can no longer use
+Flash
+during the dash.
+Footwork
+Dash speed towards allies increased to 1800 from 1600.
+Bug Fix:
+Casting it now properly cancels the channel for
+Recall
+.
+Bug Fix:
+Casting it now properly triggers Sheen items.
+All Out
+Bug Fix:
+Bonus attack damage now properly scales with temporary armor and magic resistance bonuses from items and runes.
+Bug Fix:
+Gaining bonus health within the duration no longer increases the health threshold.
+Bug Fix:
+Now properly removes the immunity of
+Dr. Mundo's
+Goes Where He Pleases
+after being resisted by it.
+V12.21
+- Added
+Dauntless Instinct
+(Innate)
+Innate:
+K'Sante's
+abilities mark enemies hit for 4 seconds. His
+basic attacks
+against marked enemies are empowered to consume the mark to gain
+25
+bonus
+range
+and deal
+10 − 25 (based on level)
+(+
+1 / 1.
+33
+/ 1.
+66
+/ 2% (based on level)
+of target's
+maximum
+health)
+bonus
+physical damage
+.
+All Out
+Bonus:
+Bonus
+damage dealt by consuming a mark is converted to
+true damage
+. Both the
+attack's damage
+and the mark damage are increased by 35%
+(+ 20% per 100
+bonus
+armor)
+(+ 20% per 100
+bonus
+magic resistance)
+.
+Ntofo Strikes
+(Q)
+Active:
+K'Sante
+slams his tonfa down in the target direction that deals 50 / 75 / 100 / 125 / 150
+(+ 40% AD)
+(+ 30%
+bonus
+armor)
+(+ 30%
+bonus
+magic resistance)
+physical damage
+to enemies hit and
+slows
+them by 80% for 0.
+5
+seconds.
+If this hits at least one enemy,
+K'Sante
+generates a stack for 6 seconds, stacking up to 2 times and refreshing on subsequent hits. At 2 stacks, the next
+Ntofo Strikes
+consumes them all to become empowered with a new effect.
+Empowered Active:
+K'Sante
+fires a shockwave in the target direction that applies the same effects to enemies hit, but also
+pulls
+them towards him over 1 second and
+stuns
+them for the same duration.
+All Out
+Bonus:
+Ntofo Strikes's
+cooldown
+is
+reduced
+by 1 second and it no longer
+slows
+targets hit.
+Ntofo Strikes partially
+resets
+K'Sante's
+basic attack timer. While
+All Out
+, it fully resets the timer.
+Mana Cost:
+15.
+Static Cooldown:
+3.
+5
+− 1.
+75
+(based on
+bonus
+resistances)
+seconds.
+Cast Time:
+0.
+45
+− 0.
+25
+(based on
+bonus
+health)
+seconds,
+Range:
+465
+,
+Width:
+150
+/
+140
+.
+Path Maker
+(W)
+Active:
+K'Sante
+charges
+for up to 1 second, during which he increases
+Path Maker's
+range, damage, and
+stun
+duration over the first 0.
+85
+seconds of the channel and gains
+displacement immunity
+and 25%
+(+ 10% per 100
+bonus
+armor)
+(+ 10% per 100
+bonus
+magic resistance)
+(+ 1% per 100
+bonus
+health)
+damage reduction.
+Path Maker
+can be recast within the duration, and does so automatically afterwards.
+Path Maker's
+charge cannot be
+interrupted
+by
+crowd control
+.
+Recast:
+K'Sante
+dashes
+in the target direction, though not through terrain, dealing
+4.
+25
+/ 4.
+5
+/ 4.
+75
+/ 5 / 5.
+25
+% of target's
+maximum
+health
+physical damage
+to enemies he passes through,
+carrying
+them alongside him, and
+stunning
+them for 0.
+35
+/ 0.
+45
+/ 0.
+55
+/ 0.
+65
+/ 0.
+75
+seconds. When charged, the damage goes up to
+8.
+25
+/ 8.
+5
+/ 8.
+75
+/ 9 / 9.
+25
+% of target's
+maximum
+health
+and the stun goes up to 0.
+85
+/ 0.
+95
+/ 1.
+05
+/ 1.
+15
+/ 1.
+25
+seconds. This damage is capped at
+50 − 475 (based on level)
+against
+monsters
+.
+All Out
+Bonus:
+Path Maker
+no longer applies its
+knock back
+and
+stun
+, but it deals 25 / 35 / 45 / 55 / 65
+(+ 50% AD)
+bonus
+physical damage
+and its damage reduction is increased to 30%
+(+ 12% per 100
+bonus
+armor)
+(+ 12% per 100
+bonus
+magic resistance)
+(+ 1.
+2
+% per 100
+bonus
+health)
+, as well as has doubled charge duration and dash speed. Upon going
+All Out
+,
+Path Maker's
+cooldown is refreshed. When charged, this bonus damage goes up to 110 / 170 / 230 / 290 / 350
+(+ 50% AD)
+.
+Ntofo Strikes
+and
+All Out
+can be cast during the dash. Path Maker's recast can be used while affected by
+cast-inhibiting crowd control
+.
+Mana Cost:
+75 / 80 / 85 / 90 / 95.
+Cooldown:
+24 / 22 / 20 / 18 / 16
+seconds.
+Cast Time:
+None,
+Range:
+100
+/
+450
+,
+Speed:
+800
+/
+1000
+/
+1800
+.
+Footwork
+(E)
+Active:
+K'Sante
+dashes
+to the target location, though not through terrain, and grants himself a
+shield
+for 45 / 65 / 85 / 105 / 125
+(+ 15%
+bonus
+health)
+for 2 seconds.
+Footwork
+can be cast on allies to dash to them at an increased range. If the ally is a
+champion
+upon arrival, they receive the
+shield
+as well.
+All Out
+Bonus:
+Footwork's
+dash speed and location range are increased, and it can dash through terrain.
+K'Sante
+can cast any of his abilities during the dash. Footwork will cast at max range if cast beyond that.
+Mana Cost:
+45 / 50 / 55 / 60 / 65.
+Cooldown:
+9 / 8.
+5
+/ 8 / 7.
+5
+/ 7 seconds.
+Cast Time:
+None,
+Range:
+250
+/
+400
+/
+550
+,
+Speed:
+1500
+/
+2100
+.
+All Out
+(R)
+Active:
+K'Sante
+roots
+the target enemy
+champion
+for 0.
+5
+seconds and gains
+displacement immunity
+over the cast time, then shatters his tonfas to
+knock them back
+and
+blink
+175 units beyond their hitbox's edge at the end location. The target is dealt 35 / 70 / 105
+(+ 20% AD)
+physical damage
+near the end of the displacement and is
+stunned
+for 0.
+25
+seconds afterwards.
+If the target collides with terrain during the displacement, they are knocked back through the terrain and are dealt the
+physical damage
+once they have gone past it. At the end of the displacement,
+K'Sante
+strikes the target to deal 150 / 200 / 250 / 300 / 350
+(+ 20% AD)
+additional
+physical damage
+and they remain
+airborne
+for 0.
+5
+seconds, after which they are
+stunned
+for 0.
+25
+seconds.
+After
+K'Sante
+blinks
+, he goes
+All Out
+for 20 seconds, and the ability can be recast after
+1.
+5
+seconds
+within the duration.
+All Out:
+K'Sante's
+current
+health
+is
+reduced
+to
+55%
+maximum
+health
+and he cannot exceed this threshold through
+healing
+nor
+health regeneration
+. Additionally, his
+base
+armor
+and
+base
+magic resistance
+are reduced by
+65%
+bonus
+armor
+and
+65%
+bonus
+magic resistance
+, respectively. In return, he gains
+5
+(+ 32.
+5
+%
+bonus
+armor)
+(+ 32.
+5
+%
+bonus
+magic resistance)
+bonus
+attack damage
+and
+10%
+(+ 0.
+75
+% per 100
+bonus
+health)
+omnivamp
+and empowers his basic abilities, which can be cast at no cost.
+Recast:
+K'Sante
+ends
+All Out
+early.
+K'Sante
+retains his
+maximum
+health
+and
+bonus
+resistances during All Out. Health lost from All Out is
+not
+restored after the effect ends. Upon going All Out,
+K'Sante
+is restored to
+100%
+maximum
+mana
+which rapidly decays over the duration. His
+mana
+percentage prior to All Out is preserved and is gained back after the effect ends. If the target is knocked over terrain that is longer than
+2000
+units,
+K'Sante
+will
+vanish
+during their displacement and reappear near the end of it.
+Mana Cost:
+100.
+Cooldown:
+120 / 100 / 80
+seconds.
+Cast Time:
+0.
+4
+seconds,
+Target Range:
+350,
+Effect Radius:
+5000
+,
+Speed:
+2000
+.
+Trivia
+[
+edit
+|
+edit source
+]
+K'sante
+is one of 21 champions without a single
+ability power
+ratio on any ability:
+Aatrox
+,
+Camille
+,
+Darius
+,
+Dr. Mundo
+,
+Draven
+,
+Garen
+,
+Kayn
+,
+Kled
+,
+Naafiri
+,
+Nilah
+,
+Olaf
+,
+Pyke
+,
+Riven
+,
+Samira
+,
+Sett
+,
+Talon
+,
+Urgot
+,
+Xayah
+,
+Yone
+, and
+Zed
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Warden
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+Wardens
+are defensive tanks. Wardens stand steadfast, seeking to hold the line by persistently locking down any on-comers who try to pass them. Wardens keep their allies out of harm’s way and allow them to safely deal with enemies caught in the fray.
+Examples
+Braum
+Shen
+Tahm Kench
+League of Legends content
+Skirmisher
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Skirmishers
+(also known as Duelists) aim to shred through any nearby enemy that approaches. Because Skirmishers lack high-end burst damage or reliable ways of closing in on high-priority targets, they are instead armed with situationally powerful defensive tools to survive in the fray, along with extreme sustained damage to cut down even the most durable targets.
+Examples
+Fiora
+Jax
+Yasuo
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+All Out
+COOLDOWN:
+120 / 100 / 80
+Active:
+K'Sante
+roots
+an enemy and then shatters his tonfas,
+knocking them back
+,
+blinking
+behind them, and dealing
+physical damage
+. If the enemy is pushed into terrain, they will be knocked over it and take additional
+physical damage
+.
+The target is
+stunned
+at the end of the push, and also
+knocked up
+again if they were pushed through terrain. At the end,
+K'Sante
+goes
+All Out
+for some time.
+All Out:
+K'Sante
+loses a large portion of his
+health
+,
+base
+armor
+and
+magic resist
+, but gains
+bonus
+AD
+and
+omnivamp
+. His basic abilities are empowered and they have no
+mana
+cost.
+K'Sante
+can recast this ability to end
+All Out
+early.
+After
+All Out
+ends,
+K'Sante
+restores his mana, but his health is
+not restored
+.
+League of Legends content
+Basic attack
+The
+basic attack
+(or
+auto-attack
+) is the most basic means of a unit to deal damage to another unit, usually dealing
+100% AD
+. It has a brief cooldown based on the caster's current
+attack speed
+.
+All
+basic attacks
+are normally unit-targeted with their range limited by the caster's
+attack range
+, and have a brief attack
+windup
+. Damage is then dealt depending on the caster's range type:
+Melee
+and some projectile-less ranged attacks deal damage immediately.
+Ranged
+attacks usually send a projectile that follows the target and deals damage upon striking them. Projectiles can be intercepted by certain
+blocking
+effects.
+The damage event will trigger
+on-hit effects
+from buffs the caster may hold. If damage cannot be dealt, on-hit effects will not be triggered.
+On-attack
+effects will always trigger when the attack's
+windup
+completes.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Ntofo Strikes
+STATIC CD:
+3.
+5
+− 2 (based on
+bonus
+resistances)
+Active:
+K'Sante
+slams his ntofo down in the target direction that deals
+physical damage
+and briefly
+slows
+enemies hit.
+If this hits at least one enemy, he generates a
+stack
+for a few seconds. At 2 stacks, the next
+Ntofo Strikes
+consumes them all to become empowered with a new effect.
+Empowered Active:
+K'Sante
+fires a shockwave that deals
+physical damage
+and
+pulls
+enemies hit toward him.
+All Out
+Bonus:
+Ntofo Strikes's
+cooldown
+is reduced, but it no longer slows enemies hit.
+League of Legends content
+Ultra Rapid Fire (U.R.F.)
+Ultra Rapid Fire
+is a
+Featured Game Mode
+that takes place on
+Summoner's Rift
+with the same objective as
+Classic 5v5
+, except all
+champions
+benefit from the
+Awesome Buff of Awesomely Awesome Buffing
+that grants excessive  ability haste and removes ability costs. The gameplay is
+explosive
+. The game mode can be played as
+All Random
+or
+Blind pick
+depending on the year.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Projectile
+A
+projectile
+or
+missile
+is any entity not classified as a unit (
+champion
+,
+minion
+,
+monster
+, etc.
+) that travels at any given velocity.
+Moving units are
+not
+considered projectiles under any circumstance (
+including
+dashing
+units,
+airborne
+units, or units thrown by some abilities such as
+Force of Will
+or
+Roar of the Slayer
+.
+).
+Braum's
+Unbreakable
+,
+Samira's
+Blade Whirl
+, and
+Yasuo's
+Wind Wall
+can block, destroy and / or stop projectiles.
+Some
+ranged
+basic attacks (
+including
+turrets
+) and abilities don't use projectiles and will bypass projectile-blocking effects.
+Some abilities will
+destroy
+all currently incoming homing projectiles.
+League of Legends content
+Resurrection
+A unit that is protected by
+Resurrection
+will enter a revival state and dispel most debuffs upon taking
+fatal damage
+. After the state completes, the unit is revived.
+Resurrection
+effects do not count for kills or assists.
+Resurrection
+sources have a hierarchy, and will trigger in the following order:
+Zilean's
+Chronoshift
+Guardian Angel
+Anivia's
+Rebirth
+and
+Zac's
+Cell Division
+Resurrection
+will always take precedence over
+zombie state
+effects. Entering
+resurrection
+does not cancel cast times.
+Renata Glasc's
+Bailout
+always takes priority over
+resurrection
+.
+League of Legends content
+Footwork
+COOLDOWN:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8
+Active:
+K'Sante
+dashes
+, granting himself a
+shield
+.
+If cast toward an ally,
+Footwork
+has increased range and can dash through terrain. If the ally is a
+champion
+, they also receive the shield.
+All Out
+Bonus:
+Footwork's
+dash speed and location range are increased, and it can dash through terrain.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Interrupt
+Interrupt
+is a quality of crowd control that
+interrupts
+an in-progress effect, preventing its completion or causing the effect to go off at an
+interrupted
+state.
+The following crowd control effects
+interrupt
+channeled and charged
+abilities (unless otherwise noted by the ability):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+The following crowd control effects
+interrupt
+dashes
+:
+Airborne
+Knockdown
+Stasis
+Basic attack windups
+are
+interrupted
+by all forms of crowd control that inhibit attacking.
+Ground
+and
+Root
+only
+interrupt
+channeled and charged movement abilities.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Displacement immune
+A unit that is
+displacement immune
+is
+immune
+to all
+Airborne
+effects in addition to the following effects:
+Crowd control
+Knockdown
+Suspension
+Kinematics
+Sleep
+Stasis
+Champion abilities
+Ambessa's
+Public Execution
+Mordekaiser's
+Realm of Death
+Skarner's
+Ixtal's Impact
+and
+Impale
+Sett's
+The Show Stopper
+Tahm Kench's
+Devour
+League of Legends content
+Crowd control
+A unit that is
+disabled
+is affected by a status effect that prevents certain actions – such as movement, attacking, casting and/or seeing–blocked, reduced or controlled.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+References
+[
+edit
+|
+edit source
+]
+↑
+K'Sante's profile page
+at
+LeagueOfLegends.com

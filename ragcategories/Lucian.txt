@@ -1,0 +1,2603 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Lucian
+the Purifier
+Release date
+2013-08-22
+Last changed
+V14.16
+Class(es)
+Marksman
+Legacy
+Marksman
+Assassin
+Position(s)
+Bottom
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Store price
+1350
+|
+585
+Crafting
++
+810
+Ratings
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+3
+Utility
+1
+Style
+Difficulty
+Lucian
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Lucian
+Base statistics
+Edit
+Health
+641
++100
+Mana
+320
++43
+Health regen. (per 5s)
+3.75
++0.65
+Mana regen. (per 5s)
+7
++0.8
+Armor
+28
++4.2
+Attack damage
+60
++2.9
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+500
+Attack speed
+Base AS
+0.638
+Attack windup
+15%
+AS ratio
+N/A
+Bonus AS
++3.3
+%
+Missile speed
+2800
+Unit radius
+Gameplay radius
+65
+Selection radius
+100
+Pathing radius
+41
+Acq. radius
+800
+Special statistics
+Damage Dealt
++5%
+Damage Received
+-5%
+Ability Haste
++10
+Tenacity & Slow Resist
++20%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Lightslinger
+Innate:
+After casting an ability,
+Lucian's
+next
+basic attack
+within a few seconds fires a second attack that deals
+reduced
+physical damage
+.
+Innate - Vigilance:
+Whenever
+Lucian
+is
+healed
+or
+shielded
+, or when a nearby enemy is
+immobilized
+, his next two shots within a few seconds are empowered to deal
+bonus
+magic damage
+. The shots can stack up to a cap.
+Innate:
+After casting an
+ability
+,
+Lucian's
+next
+basic attack
+within 3.
+5
+seconds fires an additional shot
+on-attack
+after 0.
+25
+seconds, which deals
+50 / 55 / 60% (based on level)
+AD
+physical damage
+, increased to
+100% AD
+against
+minions
+. He will shoot the same target, else another target in range.
+The second shot applies
+on-hit
+and
+on-attack
+effects at 100% effectiveness and is affected by
+critical strike
+modifiers.
+Innate - Vigilance:
+Whenever
+Lucian
+is
+healed
+or
+shielded
+by an ally, or an enemy champion within 1000 units is
+immobilized
+, his next two shots within 6 seconds are empowered to deal
+15
+(+ 20% AD)
+bonus
+magic damage
+on-hit
+. He can store up to 4 empowered shots at a time.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Basic damage
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Parries
+Blocked
+Lightslinger
+is triggered and consumed by the first attack, even if no target can be found upon firing the second attack.
+The second attack, if the initial target was killed, will prioritize enemy champions regardless of having
+sight
+of them or not and enemy
+minions
+with
+low health
+.
+Lucian
+can perform actions freely while firing
+Lightslinger
+since the second attack is integrated into the first one.
+The second attack has special movement animations depending on the direction
+Lucian
+is moving while firing.
+The second attack counts as a separate hit for effects such as
+Electrocute
+,
+Muramana's
+Shock
+, and
+Eclipse's
+Ever Rising Moon
+.
+The second attack separately rolls
+critical strike
+.
+The empowered shots will apply against structures.
+Edit
+Piercing Light
+COST:
+48 / 56 / 64 / 72 / 80 Mana
+COOLDOWN:
+9 / 8 / 7 / 6 / 5
+CAST TIME:
+0.
+4
+− 0.
+25
+(based on level)
+TARGET RANGE:
+500
+RANGE:
+1000
+WIDTH:
+120
+Active:
+Lucian
+fires a laser in a line in the direction of the target enemy, dealing
+physical damage
+to enemies hit.
+Active:
+Lucian
+fires a laser in a line in the direction of the target enemy that deals
+physical damage
+to enemies hit.
+Physical Damage:
+85 / 115 / 145 / 175 / 205
+(+ 60 / 75 / 90 / 105 / 120%
+bonus
+AD)
+Piercing Light's cast time ends prematurely if the initial target dies, allowing
+Lucian
+to attack and move freely, or to immediately begin casting either
+Ardent Blaze
+or
+The Culling
+.
+(note)
+Info
+Targeting input
+Unit
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Piercing Light
+will attempt to lead the target if it is moving but does not adjust further during the cast time (enemies can dodge the laser if they change their position by a sufficient amount during the cast time).
+Lucian
+can buffer
+Ardent Blaze
+or
+The Culling
+during the cast time.
+Relentless Pursuit
+is locked out.
+This is why
+Lucian
+can use them early if the cast time prematurely ends.
+Edit
+Ardent Blaze
+COST:
+60 Mana
+COOLDOWN:
+14 / 13 / 12 / 11 / 10
+CAST TIME:
+0.
+25
+RANGE:
+900
+WIDTH:
+110
+SPEED:
+1600
+Active:
+Lucian
+fires a missile in the target direction that explodes in a cross pattern upon hitting an enemy or maximum range, dealing
+magic damage
+and marking enemies hit.
+Lucian
+briefly gains
+bonus
+movement speed
+when he or allied champions damage a marked target. Allied champions triggering this effect grant
+Lucian
+Vigilance
+.
+Active:
+Lucian
+fires a missile in the target direction that explodes in a cross pattern upon hitting an enemy or reaching maximum range, dealing
+magic damage
+to enemies hit and granting
+sight
+of the area for 1 second.
+Magic Damage:
+75 / 110 / 145 / 180 / 215
+(+ 90% AP)
+Enemies hit are marked for 6 seconds.
+Lucian
+gains
+bonus
+movement speed
+for 1 second when he or allied champions damage a marked target. Allied champions triggering this effect grant
+Lucian
+Vigilance
+.
+Bonus Movement Speed:
+60 / 65 / 70 / 75 / 80
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Parries
+See Notes
+Projectile
+Blocked
+This ability will cast from wherever the caster is at the end of the cast time.
+Like most
+missiles
+, it will not collide with enemies whose center is beyond the maximum range (not behind
+Lucian
+), but this determines only the center and timing of the explosion.
+Ardent Blaze
+will cast from wherever
+Lucian
+is at the end of the cast time.
+Lucian
+will not gain
+Ardent Blaze's
+bonus movement speed if attacks on
+marked
+targets are
+dodged
+,
+blocked
+, or if missed while the attacker is
+blinded
+.
+DoTs
+will proc
+Ardent Blaze
+only once.
+Spell shield
+will not prevent the mark.
+Edit
+Relentless Pursuit
+COST:
+40 / 30 / 20 / 10 / 0 Mana
+COOLDOWN:
+19 / 17.
+75
+/ 16.
+5
+/ 15.
+25
+/ 14
+CAST TIME:
+none
+TARGET RANGE:
+200
+/
+425
+SPEED:
+1350
+Passive:
+Relentless Pursuit's
+cooldown is
+reduced
+for each
+Lightslinger
+shot hit, doubled against enemy
+champions
+.
+Active:
+Lucian
+dashes
+in the target direction.
+Passive:
+Relentless Pursuit's
+current
+cooldown
+is reduced by 1 second for each
+Lightslinger
+shot hit, doubled to 2 seconds against enemy
+champions
+.
+Active:
+Lucian
+dashes
+in the target direction.
+Relentless Pursuit
+resets
+Lucian's
+basic attack timer.
+Lucian
+can cast any of his
+abilities
+during the dash. Relentless Pursuit can be cast during
+Ardent Blaze's
+cast time and during
+The Culling's
+channel. Relentless Pursuit will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Counters
+Grounded
+Disabled
+Knockdown
+Interrupted
+Additional on-hits during
+Lightslinger
+are not considered for the cooldown reduction (i.e
+Runaan's Hurricane
+,
+Guinsoo's Rageblade
+).
+Unlike some dashes,
+Lucian's
+dash speed does
+not
+scale with his
+movement speed
+.
+Relentless Pursuit's
+dash can go through terrain, but will not be extended further if the target location is within terrain, unlike other dashes, like
+Ekko
+'s
+Phase Dive
+.
+Casting
+Relentless Pursuit
+directly after attacking with
+Lightslinger
+will reduce Relentless Pursuit's cooldown when the projectiles hit the target.
+Relentless Pursuit
+can be cast during
+Recall's
+cast time.
+If
+Relentless Pursuit
+is cast just as the cast time ends,
+Lucian
+will not perform his Recall animation, instead staying idle. This allows
+Lucian
+to use his
+emotes
+during his Recall.
+Edit
+The Culling
+COST:
+100 Mana
+COOLDOWN
+:
+110 / 100 / 90
+CAST TIME:
+none
+RANGE:
+1200
+/
+1140 (plus offset)
+WIDTH:
+220
+(plus offset)
+Active:
+Lucian
+channels
+for a few seconds to rapidly fire a torrent of bullets in the target direction. Each shot deals
+physical damage
+to the first enemy hit.
+The Culling
+can be recast within the duration. While channeling,
+Lucian
+is
+ghosted
+and may still move.
+Recast:
+Lucian
+ends
+The Culling
+.
+Active:
+Lucian
+channels
+for up to 3 seconds, rapidly firing up to 22
+(+ 1 per 4% critical strike chance)
+shots in the target direction. Each shot deals
+physical damage
+to the first enemy hit, doubled against
+minions
+.
+The Culling
+can be recast after 0.
+75
+seconds during the channel, and does so automatically when the channel ends.
+Physical Damage Per Shot:
+15 / 30 / 45
+(+ 25% AD)
+(+ 15% AP)
+Additional Damage per 20% Crit Chance:
+75 / 150 / 225
+(+ 125% AD)
+(+ 75% AP)
+Total Physical Damage:
+330 / 660 / 990
+(+ 550% AD)
+(+ 330% AP)
++ 15 / 30 / 45
+(+ 25% AD)
+(+ 15% AP)
+per
+4% critical strike chance
+Minion Damage Per Shot:
+30 / 60 / 90
+(+ 50% AD)
+(+ 30% AP)
+Additional Minion Damage per 20% Crit Chance:
+150 / 300 / 450
+(+ 250% AD)
+(+ 150% AP)
+Total Minion Damage:
+660 / 1320 / 1980
+(+ 1100% AD)
+(+ 660% AP)
++ 30 / 60 / 90
+(+ 50% AD)
+(+ 30% AP)
+per
+4% critical strike chance
+While channeling,
+Lucian
+is
+ghosted
+and may still move.
+Recast:
+Lucian
+ends
+The Culling
+.
+"For
+Senna
+!"
+Info
+Targeting input
+Direction
+/
+Auto
+Damage type
+Type
+AOE DOT damage
+Sub-type
+Physical
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Disruption
+Interrupted
+At
+100% critical strike chance
+,
+The Culling
+fires up to 25 additional shots, for a total of 47 shots.
+The
+total
+damage at the maximum number of shots (at
+100% critical strike chance
+) is
+705 / 1410 / 2115
+(+ 1175% AD)
+(+ 705% AP)
+physical damage
+.
+Against minions, this is increased to
+1410 / 2820 / 4230
+(+ 2350% AD)
+(+ 1410% AP)
+.
+The fire rate increases with the number of shots.
+During
+The Culling
+,
+Lucian's
+facing direction is in the direction that he is firing.
+Lucian
+can interact with
+Dark Passage
+or allied
+Devour
+without
+interrupting
+The Culling
+.
+The Culling
+creates the shots at an offset of 35 units to the front plus 35 units towards each side of
+Lucian
+(sides alternating, first shot fired from
+Lucian's
+right gun), unlike the missiles of most abilities.
+The damage dealt by each bullet of
+The Culling
+is calculated when the bullet reaches a target, just like single missile abilities.
+Spell shield
+only blocks one instance of damage.
+The following table refers for interactions while
+Lucian
+is
+channeling
+:
+Type
+Channel
+Attacking
+Disabled
+Abilities
+Relentless Pursuit
+is usable.
+Piercing Light
+and
+Ardent Blaze
+are disabled. This ability recasts to end channel.
+Movement
+Allowed
+Items
+Usable
+All the other item-actives are usable
+Disabled
+N/A
+Interrupted by
+Zhonya's Hourglass
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Teleport
+Disabled
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death
+Cast-inhibiting effects
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Lucian (Collection)
+.
+Original
+View in 3D
+975
+21.08.2013
+Lucian, a Sentinel of Light, is a grim hunter of undying spirits, pursuing them relentlessly and annihilating them with his twin relic pistols. After the wraith Thresh slew his wife, Lucian embarked on the path of vengeance… but even with her return to life, his rage is undiminished. Merciless and single-minded, Lucian will stop at nothing to protect the living from the long-dead horrors of the Black Mist.
+TJ Storm
+Andrew 'Silver' Silver, Alex 'alexplank' Flores
+Loot eligible
+Chromas
+Original Lucian Chromas
+Blue
+Red
+Yellow
+Hired Gun
+View in 3D
+975
+21.08.2013
+TJ Storm
+Alex 'alexplank' Flores
+Legacy
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Striker
+View in 3D
+750
+18.06.2014
+Order United's designated striker, Lucian, is an inhuman blur of grass clippings and finely honed muscle movements. He cuts through the other team like a hot knife through butter, securing goal after goal to the adoration of fans the world over.
+TJ Storm
+Unknown artist
+Soccer Cup
+Loot eligible
+Legacy
+PROJECT
+View in 3D
+1350
+07.09.2015
+Once a sentinel within the Command Line, Lucian has seen PROJECT for what they truly are. His dual ion-core Lightcaster pistols now serve G/NETIC and the human rebellion, bringing down their technological oppressors with brutal efficiency.
+TJ Storm
+Joshua 'HUGEnFAST' Brian Smith
+PROJECT
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+PROJECT: Lucian Chromas
+Reckoning
+Heartseeker
+View in 3D
+1350
+02.02.2017
+Behind curtain one: a dashing man with an adventurous plan. It seems he'll only agree to dinner by lantern light, but you can bet his intentions are pure… it's Lucian, here to sweep you off your feet and into the daring life of a Heartseeker.
+TJ Storm
+Christian Fell
+Heartbreakers
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+High Noon
+View in 3D
+1820
+30.08.2018
+A former federal marshal and gunslinger for hire, Lucian's soul was corrupted when he made a deal with the devil in order to spare the life of his one true love. Double-crossed, and cursed with the powers of hell, he now hunts this devil across the high frontier, seeking revenge.
+TJ Storm
+Kelly Aleshire
+High Noon
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+High Noon Lucian Chromas
+Emerald
+Mythic
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tenfold Triumph
+Demacia Vice
+View in 3D
+1350
+18.07.2019
+Half man, half machine, and all justice, Detective Lucian Phoenix fights crime under the pastel palm trees of Demacia. Rebuilt out of polished chrome and gilded Piltovan carbon fiber following a fatal gunfight, this technological marvel dispenses vaporwave vengeance as a neon beacon of law and order.
+TJ Storm
+Kelly Aleshire
+Demacia Vice
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Demacia Vice Lucian Chromas
+Amethyst
+Catseye
+Neon Noir
+Obsidian
+Ruby
+Sapphire
+Turquoise
+Pulsefire
+View in 3D
+1350
+14.05.2020
+A dedicated chrono-enforcer, Lucian joined the Remembrancers when he lost his wife, Senna, in an errant Praetorian attack. Now, he searches for her while bringing justice to the reckless time travelers who would cavalierly tear holes in space-time.
+TJ Storm
+Xuning Cui, Kudos Productions
+Pulsefire
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Prestige Pulsefire
+View in 3D
+Special
+14.05.2020
+Through his work in bringing their opponents to justice, Lucian earned the personal attention and gratitude of Thresh, leader of the Remembrancers. Armed with special modifications to his Pulsefire suit, Lucian embarks on his relentless pursuit across timelines. Through it all, however, he can't shake the feeling that this upgrade isn't all it seems...
+TJ Storm
+Malex Zhang, Kudos Productions
+Pulsefire
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Pulsefire
+. Store variants are discounted for multiple purchases.
+Victorious
+View in 3D
+Special
+11.11.2020
+Victorious Lucian was awarded to players who reached Gold or higher in the 2020 season. By the time Lucian was finished firing, the relic stones were fused into solid crystal by the heat of his righteousness, and the last dredge of mist was evaporating into the morning light.
+TJ Storm
+Francis Tneh, West Studio
+Victorious
+Loot ineligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Victorious Lucian Chromas
+Amethyst
+Aquamarine
+Emerald
+Ruby
+Sapphire
+Arcana
+View in 3D
+1350
+13.05.2021
+Lucian believes in balance: that no one Archetype should have excessive influence on the world. With one gun amplifying patterns and the other canceling them out, Lucian maintains the world's fragile order within the new power vacuum—even as the likes of Tahm Kench move to fill it.
+TJ Storm
+Esben Lash Rasmussen
+Arcana
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Arcana Lucian Chromas
+Amethyst
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Turquoise
+Strike Paladin
+View in 3D
+1350
+25.08.2022
+Lucian is the ace pilot of the Z01-Orion, assigned to the inaugural mission of Strike Team Hyperion: reclaiming the experimental X01-Butterfly from its turncoat thief, Kai'Sa. He may not always agree with Commander Camille's methods, or her morality, but they both know that rogue exosuits in the wrong hands would spell disaster for the galaxy.
+TJ Storm
+David Villegas, West Studio
+Steel Valkyries
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Strike Paladin Lucian Chromas
+Ace
+Amethyst
+Citrine
+Obsidian
+Rose Quartz
+Ruby
+Sandstone
+Tanzanite
+Turquoise
+Winterblessed
+View in 3D
+1350
+06.12.2023
+Lucian, Senna's forgotten love, had tracked her down. He threw himself at Thresh, sacrificing himself to destroy the usurper and return the Aurora's power. As he lay dying, memories of their love washed over Senna. She stayed with him until he passed and, to remind herself of their undying bond, turned his soul into the Southern Star. Love would endure.
+TJ Storm
+Huyy Nguyen, West Studio
+Winterblessed
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Winterblessed Lucian Chromas
+Aquamarine
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Wreathguard
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.16
+Lightslinger
+Vigilance AD ratio increased to
+20% AD
+from
+15% AD
+.
+Piercing Light
+Base damage reduced to 85 / 115 / 145 / 175 / 205 from 95 / 125 / 155 / 185 / 215.
+V14.2
+Lightslinger
+Bug Fix:
+VFX is no longer played at unnecessary times.
+V13.24
+Relentless Pursuit
+Cooldown reduced to 19 / 17.
+75
+/ 16.
+5
+/ 15.
+25
+/ 14 seconds from 22 / 20 / 18 / 16 / 14.
+V13.18
+The Culling
+Bug Fix:
+Now properly triggers
+Ardent Blaze's
+bonus movement speed again.
+V13.17
+Lightslinger
+Bug Fix:
+Now is properly triggered by
+Font of Life
+.
+V13.16
+Lightslinger
+Vigilance base damage increased to 15 from 10.
+V13.13
+Lightslinger
+Bug Fix:
+Vigilance no longer sometimes repeats its VFX on the target.
+Ardent Blaze
+Bug Fix:
+Mark now gets properly triggered from
+Lucian's
+own attacks to grant him movement speed.
+V13.12
+Lightslinger
+Vigilance base damage reduced to 10 from 14.
+Vigilance AD ratio reduced to
+15% AD
+from
+20% AD
+.
+Removed:
+No longer gains Vigilance when granted a non-shield buff by an ally.
+New Effect:
+Now also gains Vigilance when an enemy champion within 1000 units is
+immobilized
+.
+V13.6
+Ardent Blaze
+Bug Fix:
+Hit VFX now properly plays.
+The Culling
+Bug Fix:
+Hit VFX now properly plays.
+V13.1b
+Stats
+Base mana reduced to 320 from 349.
+Mana growth increased to 43 from 38.
+Base mana regeneration reduced to 7 from 8.
+18
+.
+Mana regeneration growth increased to 0.
+8
+from 0.
+7
+.
+V12.22
+Stats
+Base mana increased to 349 from 348.
+88
+.
+V12.12
+Stats
+Base attack damage reduced to 60 from 62.
+Piercing Light
+Base damage reduced to 95 / 125 / 155 / 185 / 215 from 95 / 130 / 165 / 200 / 235.
+V12.10
+Stats
+Base health increased to 641 from 571.
+Health growth increased to 100 from 86.
+Armor growth increased to 4.
+2
+from 3.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V12.5
+- March 9th Hotfix
+Stats
+Attack damage growth increased to 2.
+9
+from 2.
+3
+.
+Lightslinger
+Vigilance AD ratio increased to
+20% AD
+from
+10% AD
+.
+V12.4
+Piercing Light
+Mana cost reduced to 48 / 56 / 64 / 72 / 80 from 50 / 60 / 70 / 80 / 90.
+V12.1
+Lightslinger
+Bug Fix:
+Fixed a bug where, if he was silenced, his basic attacks would not have
+Lightslinger
+effects.
+V11.22
+Lightslinger
+Bug Fix:
+Vigilance is no longer granted from triggering
+Font of Life
+with a second shot.
+V11.18
+The Culling
+Bug Fix:
+Fixed the tooltip so that it no longer states dealing bonus damage to monsters.
+V11.17
+- August 26th Hotfix
+Lightslinger
+Bug Fix:
+Fixed a bug where
+Vigilance
+did not consume a charge or deal damage during
+Lightslinger's
+second shot.
+V11.17
+Stats
+Base attack damage reduced to 62 from 64.
+Lightslinger
+New Innate - Vigilance:
+Ally buffs empower
+Lucian's
+next 2 basic attacks to deal
+14
+(+ 10% AD)
+magic damage
+on-hit
+, stacks up 4 attacks.
+Ardent Blaze
+Mana cost reduced to 60 from 70.
+New Effect:
+Ally mark triggers now apply
+Vigilance
+to
+Lucian
+.
+The Culling
+Base damage per shot reduced to 15 / 30 / 45 from 20 / 40 / 60.
+AP ratio per shot increased to
+15% AP
+from
+10% AP
+.
+Number of shots reduced to 22 at all ranks from 22 / 28 / 34.
+New Effect:
+Number of shots is now increased by
+1 per 4% critical strike chance
+.
+V11.14
+General
+Updated visual effects.
+V11.6
+Lightslinger
+Bug Fix:
+Each instance of damage dealt now properly counts as a separate hit for effects such as
+Manamune
+stacking,
+Muramana
+on-hit,
+Runaan's Hurricane
+,
+Ravenous Hydra
+,
+Electrocute
+and
+Eclipse
+.
+V10.24
+Lightslinger
+Bug Fix:
+Now properly triggers
+Muramana's
+bonus damage.
+V10.19
+Stats
+Attack damage growth reduced to 2.
+3
+from 2.
+75
+.
+V10.16
+Piercing Light
+Base damage increased to 95 / 130 / 165 / 200 / 235 from 85 / 120 / 155 / 190 / 225.
+The Culling
+Shots fired increased to 22 / 28 / 34 from 20 / 25 / 30.
+V10.13
+Piercing Light
+Effect radius increased to 1000 units from 900.
+V10.11
+Lightslinger
+Non-minion second shot critical strike bonus damage increased to (100% +
+25%
+) from (75% +
+18.
+75
+%
+).
+Bug Fix:
+Fixed a bug where
+Lightslinger's
+basic attacks would not fire if the target became out of range.
+V10.6
+General
+Recommended items updated.
+V10.3
+Lightslinger
+Bug Fix:
+Second shot
+critical strike
+bonus
+damage against non-minions decreased to (75% +
+18.
+75
+%
+) from (100% +
+18.
+75
+%
+).
+Now correctly triggers
+on-attack
+effects.
+Relentless Pursuit
+Undocumented:
+SFX upon casting it has been restored.
+V9.22
+General
+New voice over.
+V9.17
+Stats
+Base attack damage increased to 64 from 61.
+V9.15
+The Culling
+Base damage per shot increased to 20 / 40 / 60 from 20 / 35 / 50.
+V9.14
+Lightslinger
+Undocumented:
+Second shot
+critical strike
+bonus
+damage against non-minions increased to (100% +
+18.
+75
+%
+) from (75% +
+18.
+75
+%
+).
+The Culling
+Bug Fix:
+Can no longer be interrupted by CC effects while under the effects of
+Edge of Night
+,
+Banshee's Veil
+, or
+Morgana's
+Black Shield
+.
+V9.13
+The Culling
+Bug Fix:
+Now properly activates the movement speed bonus from hitting targets with
+Ardent Blaze
+.
+V9.8
+Piercing Light
+Bug Fix:
+Range/cast indicator now appears correctly.
+V9.6
+Ardent Blaze
+Bug Fix:
+Fixed the tooltip to mention that marked targets are briefly revealed.
+The Culling
+New Effect:
+Now triggers effects that are triggered by DoT AoE abilities.
+V9.5
+General
+Clearer hit audio on basic attacks.
+Lightslinger
+Clearer hit audio.
+Ardent Blaze
+All skins except
+High Noon Lucian
+have cast audio shimmerier, deep tones on travel audio reduced, and target hit sound added.
+Heartseeker Lucian
+on-hit sound is unchanged.
+Relentless Pursuit
+Dash audio brightened.
+The Culling
+Clearer hit audio.
+Striker Lucian
+Clearer hit audio on basic attacks.
+Lightslinger
+Clearer hit audio.
+Relentless Pursuit
+Dash audio brightened.
+The Culling
+Clearer hit audio.
+V9.4
+Ardent Blaze
+Mana cost increased to 70 from 50.
+Base damage reduced to 75 / 110 / 145 / 180 / 215 from 85 / 125 / 165 / 205 / 245.
+V8.18
+Piercing Light
+Bonus AD ratio increased to
+60 / 75 / 90 / 105 / 120%
+bonus
+AD
+from
+60 / 70 / 80 / 90 / 100%
+.
+V8.13
+Stats
+Attack damage growth reduced to 2.
+75
+from 3.
+11
+.
+The Culling
+Minion damage reduced to 200% from 400%.
+V8.11
+Stats
+Base health increased to 571 from 554.
+4
+.
+Health growth increased to 86 from 80.
+Base armor reduced to 28 from 33.
+Base health regeneration reduced to 3.
+75
+from 6.
+Base attack damage reduced to 61 from 65.
+Attack damage growth increased to 3.
+11
+from 2.
+41
+.
+V8.10
+Lightslinger
+Bug Fix:
+Infinity Edge
+now correctly increases second shot's
+critical strike
+damage to (75% +
+37.
+5
+%
+) from (75% +
+25%
+).
+V8.6
+Ardent Blaze
+Base damage increased to 85 / 125 / 165 / 205 / 245 from 60 / 100 / 140 / 180 / 220.
+The Culling
+AD ratio per bullet increased to
+25% AD
+from
+20% AD
+.
+V8.3
+Stats
+Base health regeneration reduced to 6 from 6.
+192
+.
+Lightslinger
+Second shot AD ratio increased to
+50 / 55 / 60 (based on level)
+% AD
+from
+40 / 50 / 60 (based on level)
+% AD
+.
+Second shot critical strike damage increased to 75% from 50%.
+V7.22
+Stats
+Base attack damage increased to 65 from 57.
+46
+.
+Base armor increased to 33 from 24.
+04
+.
+Piercing Light
+Base damage increased to 85 / 120 / 155 / 190 / 225 from 80 / 115 / 150 / 185 / 220.
+V7.18
+Relentless Pursuit
+Cooldown increased to 22 / 20 / 18 / 16 / 14 seconds from 18 / 17 / 16 / 15 / 14.
+V7.14
+Piercing Light
+Bug Fix:
+Cast range indicator has been reduced to match the actual range.
+V7.11
+Piercing Light
+Mana cost increased to 50 / 60 / 70 / 80 / 90 from 50 / 55 / 60 / 65 / 70.
+V7.10
+Piercing Light
+Bug Fix:
+Fixed a visual bug causing it to not display its cooldown after firing if the initial target became untargetable or invulnerable during the cast animation.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.8
+Piercing Light
+Bug Fix:
+Now costs the correct amount of mana.
+V7.7
+The Culling
+Bug Fix:
+Fixed a bug where he was able to basic attack during
+The Culling
+if he fired an energized attack immediately before casting
+The Culling
+.
+V7.5
+- March 10th Hotfix
+Piercing Light
+Bug Fix:
+Fixed a bug causing the cooldown to be refunded if its primary target died during the cast time.
+V7.5
+Piercing Light
+Cast time changed to
+0.
+4
+− 0.
+25
+(based on level)
+seconds from 0.
+35
+.
+Bug Fix:
+More reliably responds to commands issued immediately after
+Piercing Light's
+cast time.
+Ardent Blaze
+Cast time reduced to 0.
+25
+seconds from 0.
+3
+.
+Bug Fix:
+More reliably responds to commands issued immediately after
+Ardent Blaze's
+cast time.
+V7.2
+Lightslinger
+Bug Fix:
+Now correctly fires a second shot if it kills a champion on the first attack.
+Ardent Blaze
+Bug Fix:
+No longer fails to hit enemies in brush or Fog of War.
+V7.1
+Lightslinger
+Second shot AD ratio increased to
+40 / 50 / 60 (based on level)
+% AD
+from
+30 / 40 / 50 / 60 (based on level)
+% AD
+.
+Piercing Light
+Base damage increased to to 80 / 115 / 150 / 185 / 220 from 80 / 110 / 140 / 170 / 200.
+V6.22
+Ardent Blaze
+Bug Fix:
+No longer auto-fires in the same direction as
+Lightslinger's
+second shot if cast between
+Lightslinger's
+shots.
+V6.11
+Lightslinger
+Removed:
+The second shot no longer procs
+Runaan's Hurricane
+or
+Guinsoo's Rageblade
+, since it's not a basic attack.
+Piercing Light
+Bonus AD ratio reduced to
+60 / 70 / 80 / 90 / 100% bonus AD
+from
+60 / 75 / 90 / 105 / 120% bonus AD
+.
+Total range reduced to 900 from 1100.
+Visuals updated to match laser size.
+Ardent Blaze
+Range reduced to 900 from 1000.
+V6.7
+The Culling
+Bug Fix:
+Fixed a bug where Lucian could be interrupted through a spell shield.
+V6.4
+The Culling
+Range reduced to 1200 from 1400.
+V5.23
+Stats
+Base attack damage reduced to 57.
+46
+from 59.
+46
+The Culling
+Base damage changed to 20 / 35 / 50 per shot from 40 / 50 / 60.
+AD ratio changed to
+20% total AD
+per shot from
+25% bonus AD
+.
+V5.22
+Stats
+Attack damage increased to 59.
+46
+from 52.
+04
+Attack damage growth reduced to 2.
+41
+% from 3
+Mana increased to 348.
+88
+from 298.
+88
+Mana growth reduced to 38 from 41
+The Culling
+Base number of shots increased to 20 / 25 / 30 from 7.
+5
+at all ranks.
+Removed:
+Number of shots no longer scales with
+7.
+5
+/ 9 / 10.
+5
+per 100%
+total
+attack speed
+.
+V5.16
+Lightslinger
+Second shot damage increased to
+30 / 40 / 50 / 60 (based on level)
+% AD
+from
+30 / 40 / 50 (based on level)
+% AD
+.
+Damage against minion increase to
+100% AD
+from
+60 / 80 / 100 (based on level)
+% AD
+Ardent Blaze
+New Effect:
+Allies can trigger the bonus movement speed
+for Lucian
+.
+Movement speed increased to 60 / 65 / 70 / 75 / 80 from 40 / 45 / 50 / 55 / 60.
+Movement speed duration reduced to 1 second from 2.
+Mana cost reduced to 50 from 60.
+V4.21
+Lightslinger
+Second shot damage reduced to
+30 / 40 / 50 (based on level)
+% AD
+against champions from
+50% AD
+at all levels.
+Buff duration reduced to 3 seconds from 6.
+V4.19
+Ardent Blaze
+Bonus movement speed increased to 40 / 45 / 50 / 55 / 60 from 40 at all ranks.
+Removed:
+AD ratio.
+The Culling
+Cooldown increased to 110 / 100 / 90 seconds from 100 / 75 / 50.
+V4.18
+Relentless Pursuit
+Mana cost increased to 40 / 30 / 20 / 10 / 0 from 0 at all ranks.
+V4.13
+Relentless Pursuit
+Removed:
+No longer removes slows.
+Cooldown increased to 18 / 17 / 16 / 15 / 14 seconds from 14 / 13 / 12 / 11 / 10.
+V4.12
+Stats
+Attack range reduced to 500 from 550.
+Movement speed increased to 335 from 330.
+Base health increased to 500 from 470.
+Base attack damage increased to 52 from 49.
+Lightslinger
+Bug Fix:
+Fixed a bug where the first shot would incorrectly assume the killing blow on a champion and cause the second shot to fire at another target. Both shots will now always land on an enemy champion if they are near death.
+Piercing Light
+Damage to minions increased to 100% from 75%.
+Cast range reduced to 500 from 550.
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 60 / 65 / 70 / 75 / 80.
+Relentless Pursuit
+New Effect:
+Cooldown is reduced by 1 second (2 against enemy champions) per
+Lightslinger
+hit.
+Mana cost reduced to 0 at all ranks from 60 / 45 / 30 / 15 / 0
+New Effect:
+Now resets Lucian's basic attack timer on cast.
+Cooldown reduced to 14 / 13 / 12 / 11 / 10 seconds from 18 / 16 / 14 / 12 / 10.
+Removed:
+Cooldown no longer refreshes upon killing an enemy during
+The Culling
+.
+V4.10
+Ardent Blaze
+AD ratio reduced to
+(+ 30%
+bonus
+AD)
+from
+(+ 60%
+bonus
+AD)
+.
+V4.5
+Stats
+Base armor increased to 19 from 15.
+V3.15
+Piercing Light
+Base damage reduced to 80 / 110 / 140 / 170 / 200 from 80 / 120 / 160 / 200 / 240.
+Range reduced to 550 from 570.
+V3.12
+Stats
+Base mana regeneration increased to 7 from 6.
+Mana regeneration gained per level increased to 0.
+7
+from 0.
+65
+.
+Lightslinger
+When Lightslinger's target dies before the second shot hits, the second shot will now always attempt to find another target.
+Piercing Light
+Laser hit box width reduced to 100 units from 120.
+Piercing Light now leads its target by 80 units when cast on an enemy champion.
+V3.10a
+Added
+Trivia
+[
+edit
+|
+edit source
+]
+Lucian's is the first login screen to start with an animated sequence (his shows his wife Senna's soul being dragged into
+Thresh's
+lantern
+).
+The Culling
+used to be the first ability in the game to directly scale with attack speed (until
+V5.22
+) and is the first that allows firing backwards while moving.
+Lucian's
+recalling
+references
+Equilibrium
+.
+A side by side comparison can be seen
+here.
+The sloped front of Lucian's guns is also very reminiscent of the weapons wielded by the Clerics in Equilibrium.
+Lucian's dance references
+Revolver Ocelot's
+gun spinning
+from
+Metal Gear
+.
+A side by side comparison can be seen
+here.
+Lucian was the first champion to ever get a Chroma Pack for his Classic skin.
+Of Lucian's guns the less ornate one is his (an L is engraved on its side) and the more intricate one was Senna's (an S instead);
+[2]
+the letters were at first thought to mean
+Light
+and
+Shadow
+.
+People in Lucian's social circle possess light-theme names:
+Lucian
+derives from Latin praenomen
+Lucius
+, from
+lux
+(cognate with English
+light
+), sharing one same
+PIE
+root
+*leuk-
+as
+Luxanna
+.
+Senna
+from Arabic سناء
+Sanāʼ
+"brightness, sublimity",
+[3]
+from root
+s-n-y
+(>
+Sin
+"moon" &
+seneh
+"
+burning bush
+").
+[4]
+Lucian's father's name
+Urias
+Ουριας is the Greek rendition of Hebrew אוריה
+Uriah
+"my light
+[5]
+is
+Yah
+".
+Lucian and
+Zed
+perform the
+'Naruto run'
+when having very high movement speed.
+If
+Senna
+and
+Thresh
+are played on opposing teams, a
+quest
+will trigger for Lucian as well. This in-game quest consists of a battle of himself vs Thresh to earn the opposing champion's stack of souls, Lucian's death will grant Senna's stacks to Thresh.
+[6]
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Marksman
+Marksmen
+(formerly "Carries") excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger. Although Marksmen have the ability to stay relatively safe by kiting their foes, they are very fragile and are extremely reliant on powerful item purchases to become true damage threats.
+At present, Marksmen do not have any official subclasses. The following have been considered:
+Demolisher
+Scrapper
+Examples
+Ashe
+Ezreal
+Lucian
+Kai'Sa
+Jhin
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Bottom
+Within a
+drafted team
+, the
+Bottom Carry
+is one of the two champions assigned to the bottom lane alongside the
+Support
+. Being the most vulnerable, the
+Bottom Carry
+has to acquire as much gold as possible to purchase key items that will greatly increase their fighting potential.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Bottom Carry
+is expected to fulfill the former designation: the position is made for champions that highly depend on item-based power spikes.
+Marksmen
+are the most likely champions to be selected in the
+Bottom Carry
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Immobilize
+Immobilized
+units cannot control their movement. The following crowd control effects
+immobilize
+the unit:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Root
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Impaired movement
+is a similar term that, in addition to the above, also refers to units that are
+slowed
+.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+Wild Rift content
+Critical strike
+Certain effects can
+critically strike
+in specific circumstances, dealing increased damage.
+Basic attacks
+can critically strike based on
+critical rate
+, dealing a default of
+175% damage
+.
+Critical strikes usually cannot occur against
+structures
+such as
+turrets
+and
+wards
+.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Ardent Blaze
+COOLDOWN:
+14 / 13 / 12 / 11 / 10
+Active:
+Lucian
+fires a missile in the target direction that explodes in a cross pattern upon hitting an enemy or maximum range, dealing
+magic damage
+and marking enemies hit.
+Lucian
+briefly gains
+bonus
+movement speed
+when he or allied champions damage a marked target. Allied champions triggering this effect grant
+Lucian
+Vigilance
+.
+League of Legends content
+The Culling
+COOLDOWN:
+110 / 100 / 90
+Active:
+Lucian
+channels
+for a few seconds to rapidly fire a torrent of bullets in the target direction. Each shot deals
+physical damage
+to the first enemy hit.
+The Culling
+can be recast within the duration.
+While channeling,
+Lucian
+is
+ghosted
+and may still move.
+Recast:
+Lucian
+ends
+The Culling
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Relentless Pursuit
+COOLDOWN:
+19 / 17.
+75
+/ 16.
+5
+/ 15.
+25
+/ 14
+Passive:
+Relentless Pursuit's
+cooldown is
+reduced
+for each
+Lightslinger
+shot hit, doubled against enemy
+champions
+.
+Active:
+Lucian
+dashes
+in the target direction.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Lightslinger
+Innate:
+After casting an ability,
+Lucian's
+next
+basic attack
+within a few seconds fires a second attack that deals
+reduced
+physical damage
+.
+Innate - Vigilance:
+Whenever
+Lucian
+is
+healed
+or
+shielded
+, or when a nearby enemy is
+immobilized
+, his next two shots within a few seconds are empowered to deal
+bonus
+magic damage
+. The shots can stack up to a cap.
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Persistent damage
+Persistent damage
+is the damage type dealt primarily by damage over time (DoT) abilities. Most sources of
+persistent damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+persistent damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 5% whenever you deal an instance of
+persistent damage
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Phase Dive
+COOLDOWN:
+9 / 8.
+5
+/ 8 / 7.
+5
+/ 7
+Active:
+Ekko
+rolls
+in the target direction, gaining
+bonus
+attack range
+.
+His next
+basic attack
+blinks
+him to the target and deals
+bonus
+magic damage
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Lucian's profile page
+at
+LeagueOfLegends.com
+↑
+Lucian & Senna's guns
+↑
+https://www.almaany.com/en/dict/ar-en/%D8%B3%D9%86%D8%A7%D8%A1/
+↑
+Theological Dictionary of the Old Testament, Volume 15
+, ed. Botterweck, Ringgren, & Fabry, p. 318
+↑
+Semitic root
+ʔ-w-r
+↑
+August on Senna Quest

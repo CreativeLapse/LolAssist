@@ -1,0 +1,2370 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Brand
+the Burning Vengeance
+Release date
+2011-04-12
+Last changed
+V14.21
+Class(es)
+Burst
+Legacy
+Mage
+Support
+Position(s)
+Jungle
+Support
+Middle
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+450
+|
+260
+Crafting
++
+270
+Ratings
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+1
+Utility
+1
+Style
+Difficulty
+Brand
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Brand
+Base statistics
+Edit
+Health
+570
++105
+Mana
+469
++21
+Health regen. (per 5s)
+5.5
++0.55
+Mana regen. (per 5s)
+9
++0.6
+Armor
+27
++4.2
+Attack damage
+57
++3
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+340
+Attack range
+550
+Attack speed
+Base AS
+0.681
+Attack windup
+18.75%
+AS ratio
+0.625
+Bonus AS
++2
+%
+Missile speed
+2000
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+600
+Special statistics
+Damage Dealt
+-5%
+Damage Received
++10%
+Ability Haste
+-10
+Damage Dealt
+-10%
+Damage Received
++8%
+Damage Dealt
++0%
+Damage Received
++3%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Blaze
+EFFECT RADIUS:
+475
+Innate:
+Brand's
+abilities apply a stack of
+Ablaze
+to enemies hit. Subsequent abilities used against a target with
+Ablaze
+are empowered. Killing an enemy afflicted with
+Ablaze
+or with an ability restores
+mana
+. At three stacks,
+champions
+and large
+monsters
+become unstable and explode, dealing
+magic damage
+to nearby enemies and applying a stack of
+Ablaze
+.
+Ablaze
+cannot stack more than once on enemies who have recently exploded.
+Ablaze:
+While afflicted with
+Ablaze
+, the target is continually dealt
+magic damage
+equal to a portion of
+their
+maximum
+health
+.
+Innate:
+Brand's
+abilities
+apply a
+stack
+of
+Ablaze
+to enemies hit for 4 seconds, stacking up to 3 times and refreshing the duration of all stacks with each application. Subsequent abilities used against a target with
+Ablaze
+are empowered. Killing an enemy afflicted with
+Ablaze
+or any enemy with an ability restores
+20 − 40 (based on level)
+mana
+.
+Ablaze:
+While afflicted with
+Ablaze
+, the target is dealt
+magic damage
+equal to
+「
+2% of their
+maximum
+health
+over 4 seconds. 」
+「
+0.
+167
+% of their
+maximum
+health
+every 0.
+25
+seconds over 4 seconds. 」
+Each stack of
+Ablaze
+deals damage to the target individually and applies their damage ticks dependent on the time they were applied, even if the duration of all the stacks are refreshed.
+Ablaze
+deals 215% damage per tick to
+monsters
+; this damage is capped at
+「
+7.
+5
+/ 15 / 22.
+5
+(based on
+Ablaze
+stacks)
+per tick against non-epic monsters and
+20 / 40 / 60 (based on
+Ablaze
+stacks)
+per tick against epic monsters. 」
+「 a total of
+120 / 240 / 360 (based on
+Ablaze
+stacks)
+against non-epic monsters and
+320 / 640 / 960 (based on
+Ablaze
+stacks)
+against epic monsters. 」
+Upon applying 3 stacks of
+Ablaze
+to a large
+monster
+or enemy
+champion
+, the fire becomes unstable, forming an area around the target that grants
+sight
+and explodes after 2 seconds, consuming all of their stacks. All enemies within the detonation are dealt
+magic damage
+equal to
+8% − 12% (based on level)
+of their
+maximum
+health
+(+ 2% per 100 AP)
+, capped at
+250 / 325 / 400 / 475 (based on level)
+against
+monsters
+, and applied a stack of
+Ablaze
+.
+The explosion will still occur if the target dies to the ability applying the third stack or during the delay.
+Brand
+cannot stack
+Ablaze
+more than once on enemies who have exploded in the last 4 seconds.
+Info
+Targeting input
+Passive
+Damage type
+Type
+See Notes
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Ablaze
+is a
+debuff
+that persists through
+death
+.
+Ablaze's
+damage cap against a
+monster
+is applied after the increased monster damage.
+The explosion is not considered a
+tether
+effect and will not affect
+untargetable
+targets, even if the explosion originated from them.
+Given the behavior of the stacking mechanic, the damage over time will deal varying amounts of damage based on the time the stacks were applied:
+At sub-optimal applied times, 2 stacks will deal a minimum of
+6%
+maximum
+health
+damage over 4 seconds, but will deal
+7%
+maximum
+health
+at optimal applied times.
+Against small-medium units 3 stacks will deal a minimum of
+9%
+maximum
+health
+at sub-optimal times, but
+11%
+maximum
+health
+at optimal times. If these stacks are further
+refreshed
+at optimal times they can deal up to
+12%
+maximum
+health
+over 4 seconds.
+The burn is
+persistent damage
+and the explosion is
+area damage
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Total damage over time changed to
+1.
+5
+% of target's
+maximum
+health
+.
+Video
+Edit
+Sear
+COST:
+70 mana
+COOLDOWN:
+8 / 7.
+5
+/ 7 / 6.
+5
+/ 6
+CAST TIME:
+0.
+25
+RANGE:
+1100 /
+1040
+WIDTH:
+120
+SPEED:
+1600
+Active:
+Brand
+launches a fireball in the target direction that deals
+magic damage
+to the first enemy hit.
+Ablaze
+Bonus:
+An
+Ablaze
+target hit will also be briefly
+stunned
+.
+Active:
+Brand
+launches a fireball in the target direction that deals
+magic damage
+to the first enemy hit.
+Magic Damage:
+70 / 100 / 130 / 160 / 190
+(+ 65% AP)
+Ablaze
+Bonus:
+The target is
+stunned
+for 1.
+5
+seconds.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+With an ability haste value of 81 / 70 / 58 / 47 / 36 to 162 / 145 / 129 / 113 / 96 based on the ranges of applications from the target, it is possible to apply the stun without having to use other abilities.
+Sear
+will apply before the duration of the pre-applied
+Blaze
+times out.
+The needed ability haste value if you remained at the same range from the target for both casts would be 114 / 100 / 87 / 74 / 60.
+This ability will cast from wherever the caster is at the end of the cast time.
+Map-Specific Differences
+Ultra Rapid Fire
+differences
+edit
+Stun duration changed to 1 second.
+Video
+Edit
+Pillar of Flame
+COST:
+60 / 70 / 80 / 90 / 100 mana
+COOLDOWN:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8
+CAST TIME:
+0.
+25
+TARGET RANGE:
+900
+EFFECT RADIUS:
+260
+Active:
+After a brief delay,
+Brand
+erupts a pillar of flame at the target location that deals
+magic damage
+to enemies hit.
+Ablaze
+Bonus:
+An
+Ablaze
+target hit will take bonus damage.
+Active:
+After a
+0.
+627
+seconds
+delay,
+Brand
+erupts a pillar of flame at the target location that deals
+magic damage
+to enemies hit.
+Magic Damage:
+75 / 120 / 165 / 210 / 255
+(+ 60% AP)
+Ablaze
+Bonus:
+The target takes 25% increased damage.
+Increased Damage:
+93.
+75
+/ 150 / 206.
+25
+/ 262.
+5
+/ 318.
+75
+(+ 75% AP)
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+The delay before the eruption does not include the cast time. The delay would be a total of
+0.
+891
+seconds
+if it included the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 70 / 110 / 150 / 190 / 230.
+AP ratio changed to
+50% AP
+.
+Video
+Edit
+Conflagration
+COST:
+70 / 75 / 80 / 85 / 90 mana
+COOLDOWN:
+13 / 12 / 11 / 10 / 9
+CAST TIME:
+0.
+25
+TARGET RANGE:
+675
+EFFECT RADIUS:
+300
+/
+600
+Active:
+Brand
+sets the target enemy aflame, which creates a blast that deals
+magic damage
+to them and nearby enemies.
+Ablaze
+Bonus:
+The blast spreads twice as far on an
+Ablaze
+target.
+Active:
+Brand
+sets the target enemy aflame, which creates a blast that deals
+magic damage
+to them and causes the flame to spread from the target to nearby enemies, dealing them the same damage.
+Magic Damage:
+55 / 80 / 105 / 130 / 155
+(+ 60% AP)
+Ablaze
+Bonus:
+Conflagration's
+spread range is doubled.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+The flame spreads to enemies near the primary target at the time of cast.
+Enemies that move out of range after the fact will still be hit, as the flame is spread as homing missiles to each of its targets.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio changed to
+45% AP
+.
+Video
+Edit
+Pyroclasm
+COST:
+100 mana
+COOLDOWN:
+110 / 100 / 90
+CAST TIME:
+0.
+25
+TARGET RANGE:
+750
+EFFECT RADIUS:
+600
+SPEED:
+750 - 3000
+Active:
+Brand
+unleashes a devastating torrent of fire that bounces to nearby enemies, dealing
+magic damage
+each time it bounces.
+Ablaze
+Bonus:
+An
+Ablaze
+target will also be briefly
+slowed
+when hit.
+Active:
+Brand
+launches a fireball at the target enemy that bounces between nearby enemies and
+Brand
+up to four times, dealing
+magic damage
+to enemies each time.
+Magic Damage:
+100 / 175 / 250
+(+ 25% AP)
+Total Single-Target Damage:
+300 / 525 / 750
+(+ 75% AP)
+Pyroclasm
+prioritizes
+ablazed
+enemy champions, then other enemy champions, then any valid bounce target, then
+Brand
+.
+Ablaze
+Bonus:
+The target is
+slowed
+for 0.
+25
+seconds. This can affect the same enemy more than once.
+Slow:
+30 / 45 / 60%
+The target does not have to be
+visible
+for the fireball to bounce to them.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Minion Aggro
+Not Drawn
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+If
+Pyroclasm's
+current target becomes invalid, it selects a new target at its remaining bounces.
+The fireball will bounce to
+Brand
+even if he becomes an invalid target while it is currently on a target or is in flight towards him.
+The fireball acquires a new target as soon as it hits its current target.
+If the new target becomes invalid, the fireball will fizzle.
+The fireball may only bounce to valid targets, including
+Brand
+.
+If the initial cast target uses
+spell shield
+,
+Pyroclasm
+will not bounce. If the bounce is blocked by an enemy's
+spell shield
+it will not deal any damage, but it will keep on bouncing.
+Pyroclasm's
+damage against enemy champions will not aggro nearby enemy minions.
+(bug)
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 100 / 150 / 200.
+AP ratio changed to
+20% AP
+.
+Video
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Brand (Collection)
+.
+Original
+View in 3D
+880
+12.04.2011
+Once a tribesman of the icy Freljord named Kegan Rodhe, the creature known as Brand is a lesson in the temptation of greater power. Seeking one of the legendary World Runes, Kegan betrayed his companions and seized it for himself—and, in an instant, the man was no more. His soul burned away, his body a vessel of living flame, Brand now roams Valoran in search of other Runes, swearing revenge for wrongs he could not have suffered in a dozen mortal lifetimes.
+Unknown voice actor
+Michal Ivan, Puppetworks Animation Studio
+Loot eligible
+Apocalyptic
+View in 3D
+750
+12.04.2011
+Before the devastation of Runeterra, Kegan Rodhe was a search-and-rescue specialist deployed to active wildfire zones. When the bombs went off, the world vanished in the blink of an eye—and Rodhe along with it. All that was left was the empty wasteland… and a monstrous creature of living flame, calling itself Brand.
+Unknown voice actor
+Unknown artist
+Road Warrior
+Loot eligible
+Vandal
+View in 3D
+520
+12.04.2011
+The wasteland is full of problems, and there's no better problem solver than Brand. Sure, his prices are a little high for a glorified thug, but nothing sends a hard message like a fistful of supernatural fire.
+Unknown voice actor
+Kelly Aleshire
+Vandal
+Loot eligible
+Legacy
+Cryocore
+View in 3D
+975
+05.10.2011
+An elite soldier of a military wetworks unit, Kegan Rodhe was left behind enemy lines deep in the frozen arctic! But instead of dying, Rodhe found himself captured by a cabal of evil scientists, whose brutal experiments transformed him into the diabolical villain Cryocore!
+Unknown voice actor
+Unknown artist
+Silver Age
+Loot eligible
+New SFX/VFX
+Zombie
+View in 3D
+1820
+26.10.2012
+Before the mutagenic outbreak, Brand was a leading military scientist, responsible for the development of a powerful virus deep within a government compound. But the same government who elevated him among his peers suddenly cut his funding, forcing Brand to test the mutagen on himself… with disastrous results.
+Unknown voice actor
+Unknown artist
+Zombies VS Slayers
+Loot eligible
+Legacy
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Spirit Fire
+View in 3D
+1350
+21.10.2015
+Unknown voice actor
+Kelly Aleshire
+Worldbreaker
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Battle Boss
+View in 3D
+1350
+08.08.2017
+The fire boss from a bestselling action game, Brand has no intention of returning to his original machine. He'd rather see all of Arcade World burn to the ground, to be rebuilt in the image of the villains who rule it.
+Unknown voice actor
+Rudy Siswanto
+Arcade: Battle Bosses
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Arclight
+View in 3D
+1350
+07.03.2019
+In the early days of civilization, Vel'Koz chose a man named Kegan Rodhe to take up the mantle of the first Arclight, gifting him with vast divine powers. But millenia have passed since then, and though Rodhe is gone, his body is still animated by the light, filled with nothing but pain and rage.
+Unknown voice actor
+Alvin Lee
+Arclight
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Arclight Brand Chromas
+Aquamarine
+Obsidian
+Pearl
+Ruby
+Eternal Dragon
+View in 3D
+1350
+01.10.2020
+Intoxicated by the power over life and death he received from the Eternal Dragon, Brand now spreads death and decay across the land. Now that his dragon benefactor has retreated from the affairs of mortals, only other dragon-blessed can fight against the rot Brand leaves in his wake as he asserts his prowess.
+Unknown voice actor
+Terence 'Terrylefruit' Cantal, West Studio
+Dragonmancers
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Eternal Dragon Brand Chromas
+Amethyst
+Catseye
+Emberclaw
+Jadeclaw
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Debonair
+View in 3D
+1350
+09.12.2021
+Longtime rival to Master Yi, Brand owns a competing chain of high end hotels and can be seen verbally sparring with his enemy at any gala that will tolerate them. Their battles are legendary… though the property damage alone skyrockets into the tens of millions.
+Unknown voice actor
+West Studio
+Debonair
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Debonair Brand Chromas
+Amethyst
+Catseye
+Cerulean Club
+Emerald
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Prestige Debonair
+View in 3D
+Special
+09.12.2021
+With a blisteringly fashionable custom suit, the plans for which he burned, Brand stands on the precipice of something he has long thought beyond his reach: defeating his rivals and standing atop the greatest aristocrats in the world.
+Unknown voice actor
+West Studio
+Debonair
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Debonair
+. Store variants are discounted for multiple purchases.
+Street Demons
+View in 3D
+1350
+13.09.2023
+A will-o'-wisp with bombastic style, Brand's art is all about embracing your inner power and letting it EXPLODE! (His work features lots of exclamation points.) He's famous for using destruction as an unconventional tool to create beautiful images: acid washes, cracked concrete, and, of course, burning.
+Unknown voice actor
+Pandart Studio
+Street Demons
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Street Demons Brand Chromas
+Amethyst
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Empyrean
+View in 3D
+1350
+01.05.2024
+If the destruction of Brand's realm bent his mind, becoming an Empyrean broke it. To him, the randomness of being his realm's lone survivor and gaining the powers of a god prove that nothing truly matters. He could set fire to an entire planet or kill every version of his father. Everything is anarchy, and Brand is only too glad to spread it.
+Unknown voice actor
+Roanna Peroz, Kudos Productions
+Empyrean
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Empyrean Brand Chromas
+Catseye
+Emerald
+Neon Facade
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.21
+Stats
+Base mana regeneration reduced to 9 from 10.
+65
+.
+Blaze
+Explosion base damage reduced to
+8% − 12% (based on level)
+of target's
+maximum
+health
+from
+9% − 13% (based on level)
+.
+Sear
+Mana cost increased to 70 from 50.
+V14.17
+Blaze
+New Effect:
+Ablaze damage per second against non-epic monsters is now capped at 30.
+Ablaze damage cap against epic monsters unchanged.
+New Effect:
+Explosion now deals a maximum of
+250 / 325 / 400 / 475 (based on level)
+damage to monsters.
+Removed:
+Explosion no longer deals 50% damage to epic monsters.
+V14.14
+Conflagration
+Base damage reduced to 55 / 80 / 105 / 130 / 155 from 60 / 85 / 110 / 135 / 160.
+Cooldown increased to 13 / 12 / 11 / 10 / 9 seconds from 12 / 11 / 10 / 9 / 8.
+V14.13
+Blaze
+Mana restore reduced to
+20 − 40 (based on level)
+from
+30 − 50 (based on level)
+.
+Conflagration
+Base damage reduced to 60 / 85 / 110 / 135 / 160 from 60 / 90 / 120 / 150 / 180.
+V14.9
+Stats
+Selection radius increased to 120 units from 88.
+8889007568359
+.
+Arclight Brand
+Blaze
+Bug Fix:
+VFX no longer renders over terrain.
+Apocalyptic Brand
+,
+Arclight Brand
+,
+Eternal Dragon Brand
+,
+Vandal Brand
+Blaze
+Bug Fix:
+Targets' outline when hovered over using the cursor is no longer pixelated.
+V14.8
+Blaze
+Bug Fix:
+Can now once again trigger
+Dark Harvest
+.
+V14.5
+Blaze
+Monster damage increased to 215% from 200%.
+Pyroclasm
+Cooldown increased to 110 / 100 / 90 seconds from 105 / 90 / 75.
+Base damage reduced to 100 / 175 / 250 from 100 / 200 / 300.
+V14.4
+Pillar of Flame
+Bug Fix:
+Border ring VFX now properly displays on lower graphic settings when using specific skins.
+V14.3
+Blaze
+Monster damage reduced to 200% from 220%.
+Bug Fix:
+No longer deals one more tick of damage than intended with a single application of the burn.
+Sear
+Base damage reduced to 70 / 100 / 130 / 160 / 190 from 80 / 110 / 140 / 170 / 200.
+V14.2
+- January 24th Hotfix
+Blaze
+Damage over time reduced to
+2% of target's
+maximum
+health
+from
+2.
+5
+%
+.
+Monster damage reduced to 220% from 230%.
+V14.2
+General
+Updated visual effects.
+The following skins are affected:
+Original Brand
+,
+Cryocore Brand
+,
+Zombie Brand
+,
+Spirit Fire Brand
+, and
+Battle Boss Brand
+.
+Blaze
+Damage over time tick rate reduced to 0.
+25
+seconds from 1.
+08
+3
+seconds.
+Damage per tick changed to
+0.
+19
+% of target's
+maximum
+health
+from
+0.
+8
+3
+%
+.
+V13.22
+Blaze
+Monster damage increased to 230% from 220%.
+Conflagration
+Base damage changed to 60 / 90 / 120 / 150 / 180 from 65 / 90 / 115 / 140 / 165.
+AP ratio increased to
+60% AP
+from
+50% AP
+.
+V13.21
+Stats
+Base health reduced to 570 from 590.
+Health growth increased to 105 from 102.
+Base armor increased to 27 from 22.
+Armor growth reduced to 4.
+2
+from 4.
+7
+.
+Base attack speed increased to 0.
+681
+from 0.
+625
+.
+Attack speed growth increased to 2% from 1.
+36
+%.
+Blaze
+Monster damage increased to 220% from 120%.
+Conflagration
+Base damage reduced to 65 / 90 / 115 / 140 / 165 from 70 / 95 / 120 / 145 / 170.
+AP ratio reduced to
+50% AP
+from
+55% AP
+.
+V13.16
+Blaze
+Mana restored increased to
+30 − 50 (based on level)
+from
+20 − 40 (based on level)
+.
+Sear
+AP ratio increased to
+65% AP
+from
+55% AP
+.
+Conflagration
+AP ratio increased to
+55% AP
+from
+45% AP
+.
+V12.22
+Stats
+Base mana regeneration reduced to 10.
+65
+from 10.
+67
+.
+V12.11
+Blaze
+Damage over time reduced to
+2.
+5
+% of target's
+maximum
+health
+from
+3%
+.
+Explosion base damage reduced to
+9% − 13% (based on level)
+maximum
+health
+from
+10% − 14% (based on level)
+.
+V12.10
+Stats
+Base health increased to 590 from 520.
+Health growth increased to 102 from 88.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V12.3
+Blaze
+New Effect:
+Mana restore now occurs if the ability kills the target.
+Pyroclasm
+Now prioritizes bouncing to nearby targets before bouncing to
+Brand
+.
+V11.7
+Blaze
+Bug Fix:
+Fixed a bug where it would not trigger
+Spellthief's Edge's
+Tribute.
+V11.1
+Stats
+Base health increased to 520 from 519.
+68
+.
+Base attack damage reduced to 57 from 57.
+04
+.
+Base armor increased to 22 from 21.
+88
+.
+Conflagration
+Bug Fix:
+Now properly cancels when the target dies during the cast time.
+V10.23
+Blaze
+Explosion base damage reduced to
+10% − 14% (based on level)
+maximum
+health
+from
+10% − 14% (based on level)
+.
+Conflagration
+Cooldown increased to 12 / 11 / 10 / 9 / 8 seconds from 10 / 9 / 8 / 7 / 6.
+V10.22
+Blaze
+Explosion base damage reduced to
+10% − 14% (based on level)
+maximum
+health
+from
+12% − 16% (based on level)
+.
+Explosion AP ratio increased to
+2% per 100 AP
+from
+1.
+5
+% per 100 AP
+.
+Conflagration
+New Effect:
+Conflagration
+now always spreads to nearby targets.
+Spread radius reduced to 300 units from 375.
+New Effect:
+Blaze
+now increases
+Conflagration's
+spread radius to 600 units.
+New Effect:
+Now displays a brief indicator for the spread range.
+Pyroclasm
+New Effect:
+Can now bounce back to
+Brand
+. Bounces off
+Brand
+"sticks" to him slightly longer to temper 0-distance instant bursts.
+Bounce priority is now enemy champions, then
+Brand
+, then any valid bounce target.
+V10.12
+Blaze
+Mana restoration increased to
+20 − 40 (based on level)
+from
+6 − 18 (based on level)
+.
+V10.6
+Blaze
+New Effect:
+Ablaze now deals 120% damage against monsters.
+V9.10
+Conflagration
+Base damage increased to 70 / 95 / 120 / 145 / 170 from 70 / 90 / 110 / 130 / 150.
+AP ratio increased to
+45% AP
+from
+35% AP
+.
+V9.7
+Zombie Brand
+Bug Fix:
+Buffs aura now properly follow the model during certain animations.
+V9.5
+Zombie Brand
+Bug Fix:
+VO no longer plays globally when
+Brand
+is in vision.
+V9.2
+General
+Recommended items updated.
+Blaze
+Damage over time reduced to
+3% of target's
+maximum
+health
+from
+4%
+.
+V9.1
+Zombie Brand
+Bug Fix:
+VO lines no longer overlap.
+V8.9
+Stats
+Base mana increased to 469 from 375.
+6
+.
+Mana growth reduced to 21 from 42.
+Base mana regeneration increased to 10.
+665
+from 8.
+008
+.
+V8.3
+Stats
+Base health regeneration increased to 5.
+5
+from 5.
+424
+.
+V8.2
+Conflagration
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+Pyroclasm
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V8.1
+Blaze
+Damage per stack increased to
+4% of target's
+maximum
+health
+from
+2%
+.
+V7.22
+Stats
+Base health increased to 520 from 507.
+68
+.
+Health growth increased to 88 from 76.
+V7.20
+Blaze
+New Effect:
+Whenever
+Brand
+kills an
+Ablaze
+unit, he restores
+6 − 18 (based on level)
+mana
+.
+V7.18
+General
+Bug Fix:
+Now correctly has recommended item pages for both mid and support.
+V7.15
+Spirit Fire Brand
+Blaze
+Bug Fix:
+No longer have higher volume levels compared to his classic skin.
+Conflagration
+Bug Fix:
+No longer have higher volume levels compared to his classic skin.
+Pyroclasm
+Bug Fix:
+No longer have higher volume levels compared to his classic skin.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.5
+Zombie Brand
+Bug Fix:
+Fixed a bug where moving the camera away and back during his death animation would make his gravestone and earth particles to disappear.
+V6.24
+Conflagration
+Bug Fix:
+When spreading to nearby enemies after hitting an
+ablaze
+target, the spread damage no longer counts as a single-target spell.
+V6.9
+General
+New ability icons
+Blaze
+Damage per second reduced to 0.
+5
+% of target's maximum health from 2%.
+New Effect:
+Stacks up to 3 times (1.
+5
+% of target's maximum health per second)
+New Effect:
+At 3 stacks, an area around the target is
+highlighted
+. After 2 seconds, all targets within the area take magic damage equal to
+12 − 16 (based on level)
+%
+(+ 1% per 60 AP)
+of their maximum health.
+The damage from this detonation will apply Blaze to secondary targets and refresh the current timer on the target.
+Once a target has detonated, they will not generate Blaze stacks again for 4 seconds (until their current buff times out)
+Sear
+Base damage reduced to 80 / 110 / 140 / 170 / 200 from 80 / 120 / 160 / 200 / 240.
+AP ratio reduced to
+(+ 55% AP)
+from
+(+ 65% AP)
+Stun duration reduced to 1.
+5
+seconds from 2.
+Pillar of Flame
+Cooldown reduced to 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8 from 10 at all ranks.
+Mana cost reduced to 60 / 70 / 80 / 90 / 100 from 70 / 80 / 90 / 100 / 110.
+Conflagration
+Base damage reduced to 70 / 90 / 110 / 130 / 150 from 70 / 105 / 140 / 175 / 210.
+AP ratio reduced to
+(+ 35% AP)
+from
+(+ 65% AP)
+Cooldown reduced to 10 / 9 / 8 / 7 / 6 seconds from 12 / 11 / 10 / 9 / 8.
+Pyroclasm
+Base damage reduced to 100 / 200 / 300 from 150 / 250 / 350.
+AP ratio reduced to
+(+ 25% AP)
+from
+(+ 50% AP)
+New Effect:
+Now prioritizes giving enemies 3 stacks of
+Blaze
+.
+Champions with 2 stacks of Blaze.
+Champions with 1 stacks of Blaze.
+Champions with no Blaze.
+Champions immune to Blaze.
+Other targets.
+New Effect:
+If the target hit is
+ablaze
+they are briefly slowed by 30 / 45 / 60%.
+V6.3
+Pyroclasm
+Bug Fix:
+Didn't bounce to minions if cast on an
+ablaze
+champion when there were no other enemy champions around.
+V6.1
+Pyroclasm
+Bug Fix:
+Almost always prioritizing champions unless it killed its target.
+V5.24
+Pillar of Flame
+Mana cost increased to 70 / 80 / 90 / 100 / 110 from 70 / 75 / 80 / 85 / 90.
+V5.22
+Stats
+Base mana increased to 375.
+6
+from 325.
+6
+.
+Mana growth reduced to 42 from 45.
+V5.20
+General
+New splash artwork for
+Vandal Brand
+.
+V5.11
+Pyroclasm
+New Effect:
+If Brand's initial target becomes untargetable while the inferno is in flight, the projectile will select a new target instead of fizzling.
+V4.18
+General
+Texture update to Classic, Apocalyptic, Cryocore, and Vandal.
+V4.16
+Pyroclasm
+Now has a secondary targeting indicator that shows bounce radius.
+V4.5
+Stats
+Base armor increased to 16 from 12.
+V3.15
+Conflagration
+Fixed a bug where the cast range was longer than intended.
+Range reduced to 625 from 650.
+V3.9
+Pillar of Flame
+Mana cost reduced to 70 / 75 / 80 / 85 / 90 from 70 / 80 / 90 / 100 / 110
+Conflagration
+Mana cost increased to 70 / 75 / 80 / 85 / 90 from 60 / 65 / 70 / 75 / 80.
+Pyroclasm
+Mana cost reduced to 100 at all ranks from 100 / 150 / 200.
+V3.6
+Pyroclasm
+Now properly bounces to other targets after hitting an
+ablaze
+enemy.
+V1.0.0.152
+General
+New splash artwork for
+Original Brand
+.
+Stats
+Movement speed increased to 340 from 315.
+V1.0.0.151
+Pyroclasm
+Maximum bounces reduced to 5.
+V1.0.0.144
+Pyroclasm
+Removed:
+Increased missile speed when hitting
+ablaze
+targets.
+New Effect:
+If it strikes an
+ablaze
+target the next bounce will prioritize champions.
+Missile speed increased to 1000 from 800.
+V1.0.0.125
+Conflagration
+Range reduced to 625 from 675.
+Pillar of Flame
+Base damage reduced to 75 / 120 / 165 / 210 / 255 from 80 / 125 / 170 / 215 / 260.
+V1.0.0.123
+Pyroclasm
+Fixed a bug where it would sometimes disappear if Brand died.
+V1.0.0.121
+Pyroclasm
+Fixed a bug where it could instantly kill enemies under some circumstances.
+V1.0.0.116
+Pyroclasm
+It is no longer consumed by spell shields for the purposes of consistency with other chain missiles.
+Fixed a bug where it could sometimes fizzle if there was a stealthed enemy nearby.
+V1.0.0.115
+Added
+Blaze
+-
+I
+Brand's spells light his targets ablaze, dealing 2% of their maximum health in magic damage over 4 seconds.
+Sear
+-
+Q
+Brand launches a fireball forward dealing magic damage. If the target is
+ablaze
+, they will be stunned for 2 seconds.
+Pillar of Flame
+-
+W
+After a short delay, Brand creates a pillar of flame at a target area dealing magic damage to enemy units within. Units that are
+ablaze
+take an additional 25% damage.
+Conflagration
+-
+E
+Brand conjures a powerful blast at his target dealing them magic damage. If the target is
+ablaze
+, the conflagration spreads to nearby enemies.
+Pyroclasm
+-
+R
+Brand unleashes a devastating inferno dealing damage each bounce. If a target is
+ablaze
+, the inferno's speed increases.
+Trivia
+[
+edit
+|
+edit source
+]
+Brand is the second fire-themed champion, the first being
+Annie
+.
+Sear's
+animation resembles
+Annie's
+basic attack one.
+Brand's autoattack particle is the same as
+Morgana's
+but orange instead of purple.
+Brand
+comes from Proto-Germanic
+*brandaz
+, meaning "fire, torch, sword".
+His host's given name
+Kegan
+is likely based on Gaelic patronymic
+Mac
+Aodhagáin
+, "son of
+fire
+" by coincidence;
+[2]
+His surname
+Rodhe
+possibly from Old Norse
+hróðr
+"praise, renown".
+[3]
+Pyroclasm
+derives from
+pyroclastic
+, a term used to describe fast-moving volcanic material, from Greek πῦρ "fire" & κλαστός "broken
+Brand musical reference comes from the hip-hop group called
+Brand Nubian
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Burst
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Burst Mages
+aim to single out vulnerable targets by locking them down and following up with a devastating barrage of damage from range. They are strongest when using their full suite of spells executed perfectly to maximum effect, and most vulnerable when they cannot deliver.
+Examples
+Annie
+Syndra
+Veigar
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Debuff
+A
+debuff
+is any
+status effect
+given to a unit that negatively impacts their combat performance in some way.
+League of Legends content
+Tether
+A
+tether
+is an effect that applies a
+bind
+buff on both the source and the target(s), which then creates the actual tether that requires both to remain in close proximity so any accompanying effects (
+damage
+,
+crowd control
+,
+heals
+,
+buffs
+, etc) can apply.
+The tether breaks if it exceeds maximum range, or either conduit is removed (e.g.
+Death
+). The tether will also break from a transition into the
+zombie state
+due to the target already dying.
+Generally, a
+bind
+with an enemy will break along with the tether, whereas a bind with an ally will last indefinitely and automatically reapply the tether when within range.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Persistent damage
+Persistent damage
+is the damage type dealt primarily by damage over time (DoT) abilities. Most sources of
+persistent damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+persistent damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 5% whenever you deal an instance of
+persistent damage
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Blaze
+Innate:
+Brand's
+abilities apply a stack of
+Ablaze
+to enemies hit. Subsequent abilities used against a target with
+Ablaze
+are empowered. Killing an enemy afflicted with
+Ablaze
+or with an ability restores
+mana
+.
+At three stacks,
+champions
+and large
+monsters
+become unstable and explode, dealing
+magic damage
+to nearby enemies and applying a stack of
+Ablaze
+.
+Ablaze
+cannot stack more than once on enemies who have recently exploded.
+Ablaze:
+While afflicted with
+Ablaze
+, the target is continually dealt
+magic damage
+equal to a portion of
+their
+maximum
+health
+.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Ultra Rapid Fire (U.R.F.)
+Ultra Rapid Fire
+is a
+Featured Game Mode
+that takes place on
+Summoner's Rift
+with the same objective as
+Classic 5v5
+, except all
+champions
+benefit from the
+Awesome Buff of Awesomely Awesome Buffing
+that grants excessive  ability haste and removes ability costs. The gameplay is
+explosive
+. The game mode can be played as
+All Random
+or
+Blind pick
+depending on the year.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Sear
+COOLDOWN:
+8 / 7.
+5
+/ 7 / 6.
+5
+/ 6
+Active:
+Brand
+launches a fireball in the target direction that deals
+magic damage
+to the first enemy hit.
+Ablaze
+Bonus:
+An
+Ablaze
+target hit will also be briefly
+stunned
+.
+League of Legends content
+Conflagration
+COOLDOWN:
+13 / 12 / 11 / 10 / 9
+Active:
+Brand
+sets the target enemy aflame, which creates a blast that deals
+magic damage
+to them and nearby enemies.
+Ablaze
+Bonus:
+The blast spreads twice as far on an
+Ablaze
+target.
+League of Legends content
+Pyroclasm
+COOLDOWN:
+110 / 100 / 90
+Active:
+Brand
+unleashes a devastating torrent of fire that bounces to nearby enemies, dealing
+magic damage
+each time it bounces.
+Ablaze
+Bonus:
+An
+Ablaze
+target will also be briefly
+slowed
+when hit.
+League of Legends content
+Pillar of Flame
+COOLDOWN:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8
+Active:
+After a brief delay,
+Brand
+erupts a pillar of flame at the target location that deals
+magic damage
+to enemies hit.
+Ablaze
+Bonus:
+An
+Ablaze
+target hit will take bonus damage.
+League of Legends content
+Blaze
+Innate:
+Brand's
+abilities apply a stack of
+Ablaze
+to enemies hit. Subsequent abilities used against a target with
+Ablaze
+are empowered. Killing an enemy afflicted with
+Ablaze
+or with an ability restores
+mana
+.
+At three stacks,
+champions
+and large
+monsters
+become unstable and explode, dealing
+magic damage
+to nearby enemies and applying a stack of
+Ablaze
+.
+Ablaze
+cannot stack more than once on enemies who have recently exploded.
+Ablaze:
+While afflicted with
+Ablaze
+, the target is continually dealt
+magic damage
+equal to a portion of
+their
+maximum
+health
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Brand's profile page
+at
+LeagueOfLegends.com
+↑
+Matasović, R.
+Etymological Dictionary of Proto-Celtic
+, p. 51, 254-255
+↑
+Kroonen, G.
+Etymological Dictionary of Proto-Germanic
+, p. 249

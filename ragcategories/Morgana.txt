@@ -1,0 +1,2691 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Morgana
+the Fallen
+Release date
+2009-02-21
+Last changed
+V14.20
+Class(es)
+Catcher
+Legacy
+Mage
+Support
+Position(s)
+Support
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+1350
+|
+585
+Crafting
++
+810
+Ratings
+Damage
+2
+Toughness
+1
+Control
+3
+Mobility
+1
+Utility
+2
+Style
+Difficulty
+Morgana
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Morgana
+Base statistics
+Edit
+Health
+630
++104
+Mana
+340
++60
+Health regen. (per 5s)
+5.5
++0.4
+Mana regen. (per 5s)
+11
++0.4
+Armor
+25
++5
+Attack damage
+56
++3.5
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+450
+Attack speed
+Base AS
+0.625
+Attack windup
+14%
+AS ratio
+N/A
+Bonus AS
++1.53
+%
+Missile speed
+1600
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+600
+Special statistics
+Damage Dealt
+-5%
+Damage Received
++10%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-10%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Soul Siphon
+Innate:
+Morgana
+heals
+herself for a portion of the damage dealt by her abilities against
+champions
+, large
+minions
+, and medium and large
+monsters
+.
+Innate:
+Morgana
+heals
+herself for 18% of the
+post-mitigation damage
+dealt by her
+abilities
+against
+champions
+, large
+minions
+, and medium and large
+monsters
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+No additional details.
+Edit
+Dark Binding
+COST:
+50 / 55 / 60 / 65 / 70 Mana
+COOLDOWN:
+10
+CAST TIME:
+0.
+25
+RANGE:
+1300
+WIDTH:
+140
+SPEED:
+1200
+Active:
+Morgana
+throws a sphere of dark magic in the target direction that deals
+magic damage
+to the first enemy hit and
+roots
+them for a "short time".
+Active:
+Morgana
+throws a sphere of dark magic in the target direction that deals
+magic damage
+to the first enemy hit and
+roots
+them for a duration.
+Magic Damage:
+80 / 135 / 190 / 245 / 300
+(+ 90% AP)
+Root Duration:
+2 / 2.
+25
+/ 2.
+5
+/ 2.
+75
+/ 3 seconds
+Info
+Targeting input
+Direction
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+This ability will cast from wherever the caster is at the start of the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 12 seconds.
+Edit
+Tormented Shadow
+COST:
+70 / 85 / 100 / 115 / 130 Mana
+COOLDOWN:
+12
+CAST TIME:
+0.
+25
+TARGET RANGE:
+900
+EFFECT RADIUS:
+280
+Passive:
+Tormented Shadow's
+current
+cooldown is
+reduced
+whenever
+Soul Siphon
+triggers.
+Active:
+Morgana
+desecrates the target area for a few seconds, which continually deals
+magic damage
+to enemies based on
+their
+missing
+health
+.
+Passive:
+Tormented Shadow's
+current
+cooldown
+is reduced by 5% of its
+total
+cooldown whenever
+Soul Siphon
+triggers. Simultaneous triggers from multiple targets will stack the cooldown reduction.
+Active:
+Morgana
+torments the soil at the target location, causing the area to become desecrated for 5 seconds. Enemies within take
+magic damage
+on-cast and every 0.
+5
+seconds, increased by
+0% − 170% (based on target's
+missing
+health)
+.
+Tormented Shadow
+deals 170% damage against
+monsters
+.
+Minimum Damage Per Tick:
+6 / 11.
+5
+/ 17 / 22.
+5
+/ 28
+(+ 8.
+5
+% AP)
+Maximum Damage Per Tick:
+16.
+2
+/ 31.
+05
+/ 45.
+9
+/ 60.
+75
+/ 75.
+6
+(+ 22.
+95
+% AP)
+Minimum Total Damage:
+60 / 115 / 170 / 225 / 280
+(+ 85% AP)
+Maximum Total Damage:
+162 / 310.
+5
+/ 459 / 607.
+5
+/ 756
+(+ 229.
+5
+% AP)
+Info
+Targeting input
+Location
+Damage type
+Type
+AOE DOT damage
+Sub-type
+Magic
+Counters
+Spell shield
+Not Blocked
+Damage from multiple
+Tormented Shadows
+does not stack.
+Tips & Tricks
+The interaction with
+Soul Siphon
+does not exclude
+Tormented Shadow's
+damage, which means it can effectively reduce its own cooldown.
+Edit
+Black Shield
+COST:
+80 mana
+COOLDOWN:
+26 / 23.
+5
+/ 21 / 18.
+5
+/ 16
+CAST TIME:
+none
+TARGET RANGE:
+800
+Active:
+Morgana
+shields
+the target allied champion or herself for a few seconds, which absorbs
+magic damage
+and grants
+crowd control immunity
+while the shield holds.
+Active:
+Morgana
+grants a
+shield
+to the target allied
+champion
+or herself for 5 seconds, which absorbs incoming
+magic damage
+and grants
+crowd control immunity
+while it holds.
+Magic Shield Strength:
+80 / 135 / 190 / 245 / 300
+(+ 70% AP)
+Info
+Targeting input
+Unit
+Damage type
+Type
+Black Shield
+will not resist self nor allied
+crowd control
+(including e.g. an allied
+Tempered Fate
+).
+Black Shield
+will not resist
+nearsight
+.
+Black Shield
+negates
+crowd control
+effects before any magic damage is absorbed; even if the shield is broken by an enemy dealing enough damage, its associated disables will not apply.
+Shield-destroying effects
+bypass this however, since they destroy the shield before applying their effects.
+Black Shield
+will not prevent effects other than
+crowd control
+from triggering (e.g.
+Malzahar's
+Nether Grasp
+will not
+suppress
+a target protected by
+Black Shield
+but the
+tether
+still applies).
+Although not considered a
+crowd control
+effect,
+Black Shield
+is special-cased to block
+Illaoi's
+Test of Spirit's
+spirit pull.
+Black Shield
+takes priority over other sources of
+crowd control immunity
+and those that grant immunity to specific types of crowd control (
+displacement immunity
+and
+slow immunity
+).
+Spell shield
+will take priority over
+Black Shield
+.
+Black Shield
+will always take priority over regular
+shields
+. If used in conjunction with
+Lifeline
+, the most recently-applied one will have priority however.
+Black Shield
+has a
+forgiveness radius
+of 175 units.
+Edit
+Soul Shackles
+COST:
+100 Mana
+COOLDOWN:
+120 / 110 / 100
+CAST TIME:
+0.
+35
+EFFECT RADIUS:
+575
+/
+625
+TETHER RADIUS:
+625
+Active:
+Morgana
+latches chains of energy onto nearby enemy champions, dealing
+magic damage
+and forming a
+tether
+between herself and each target for a short time, during which the targets are
+revealed
+and
+slowed
+, and
+Morgana
+gains
+bonus
+movement speed
+. If a target maintains the tether after its duration, they are dealt the same
+magic damage
+and become briefly
+revealed
+and
+stunned
+.
+Active:
+Morgana
+latches chains of energy onto nearby enemy champions over the cast time, dealing
+magic damage
+and forming a
+tether
+between herself and each target for 3 seconds, during which she gains
+bonus
+movement speed
+and the targets are
+revealed
+and
+slowed
+by 20%.
+Magic Damage:
+175 / 250 / 325
+(+ 80% AP)
+Total Magic Damage:
+350 / 500 / 650
+(+ 160% AP)
+Bonus Movement Speed:
+10 / 35 / 60%
+If a target does not break their tether by the end of its duration, they are dealt the same
+magic damage
+again and become
+stunned
+for a duration, during which they are
+revealed
+.
+Stun Duration:
+1.
+5
+/ 1.
+75
+/ 2 seconds
+A nearby enemy champion is required to cast this ability. The target does not have to be
+visible
+to be tethered by this ability.
+"I will take on everything!"
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+Not Blocked
+Spell shield
+will block the tether's application and initial damage but not the aftereffects of one already applied.
+Morgana
+will turn to face southeast upon casting
+Soul Shackles
+.
+A circle indicator for
+Soul Shackles'
+maximum tether range is visible to
+Morgana
+and her tethered targets only.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Morgana (Collection)
+.
+Original
+View in 3D
+585
+21.02.2009
+Conflicted between her celestial and mortal natures, Morgana bound her wings to embrace humanity, and inflicts her pain and bitterness upon the dishonest and the corrupt. She rejects laws and traditions she believes are unjust, and fights for truth from the shadows of Demacia—even as others seek to repress it—by casting shields and chains of dark fire. More than anything else, Morgana truly believes that even the banished and outcast may one day rise again.
+Erica Lindbeck
+Jessica 'OwleyCat' Oyhenart, Victor '3rdColossus' Maury, Jennifer Wuestling
+Loot eligible
+Chromas
+Original Morgana Chromas
+Ebony
+Pale
+Toxic
+Exiled
+View in 3D
+975
+01.06.2010
+A battle spirit exiled from her tribe in a past age, Morgana has silently plotted revenge on her betrayers and their descendants for hundreds of years. Each passing winter she comes closer to her goal—a climactic battle in which the tribe falls, and Kayle with it.
+Erica Lindbeck
+Bo 'chenbowow' Chen
+Woad
+Loot eligible
+Legacy
+New SFX/VFX
+Sinful Succulence
+View in 3D
+975
+02.09.2010
+She's the original sugary sin, the dark diva of confectionary cunning, the fallen angel of fantastic flavor. Her terrifying treats will trap you in your seat. Let's give a Culinary Masters welcome to Morgana!
+Erica Lindbeck
+Jennifer Wuestling
+Culinary Masters
+Loot eligible
+Legacy
+Blade Mistress
+View in 3D
+750
+01.12.2010
+Morgana is a deadly combatant and former pilot of the X09-Xibalba combat exosuit, as well as one of the last half-aliens alive in the galaxy. She has surgically hidden her suit's forbidden, lost technologies beneath her skin—her goal being to evade her sister, the mad military justicar, Kayle.
+Erica Lindbeck
+Kelly Aleshire
+Steel Valkyries
+Loot eligible
+Blackthorn
+View in 3D
+1350
+23.05.2012
+The Dark Forest Elves are the shattered remnants of the great elven empires, jealously guarding evil power that some once considered the cornerstone of their magical supremacy. Morgana has hidden this magic deep within her body, chaining it to her soul so that only she might wield it.
+Erica Lindbeck
+Zeen Chin
+Albion
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Blackthorn Morgana Chromas
+Aquamarine
+Citrine
+Obsidian
+Pearl
+Tanzanite
+Ghost Bride
+View in 3D
+975
+13.06.2013
+Legends speak of the weeping bride who searches for her lost husband along the river bank, and takes revenge upon the living for their happiness. Parents sternly warn their children to beware this 'ghost bride,' for those who go with her are never seen again.
+Erica Lindbeck
+Michelle Hoefener
+Fables
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Victorious
+View in 3D
+Special
+11.11.2014
+Victorious Morgana was awarded to players who reached Gold or higher in the 2014 season. A queen of shadows, Victorious Morgana glides through Summoner's Rift in deep blue armor, with a flashy recall.
+Erica Lindbeck
+Unknown artist
+Victorious
+Loot ineligible
+New SFX/VFX
+New Animations/Recall
+Lunar Wraith
+View in 3D
+975
+27.01.2016
+Morgana is a dark spirit who appears during Lunar Revel—a famed seducer of mortals, monsters, and gods alike. Legend says she ensnares the hearts and minds of her victims before dragging their souls away to an unspeakable purgatory, never to be heard from again.
+Erica Lindbeck
+Unknown artist
+Lunar Revel
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Bewitching
+View in 3D
+975
+19.10.2016
+Ultimately, trick-or-treating is less about dark magic and occult superstition, and more about finding a witch costume that actually fits. Have you seen these sizes? Who is this stuff even made for…?!
+Erica Lindbeck
+Alex 'alexplank' Flores
+Bewitching
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Bewitching Morgana Chromas
+Citrine
+Meteorite
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Majestic Empress
+View in 3D
+1350
+26.09.2019
+A feared sorceress queen from the heavenly kingdoms, Morgana looked on with disdain as Irelia sealed away the power of a dragon. Crushing her in combat, Morgana soon realized the young demigoddess had hidden that power away, and now ruthlessly searches for a way to return it to its rightful owner.
+Erica Lindbeck
+Clare Wong, West Studio
+Immortal Journey
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Majestic Empress Morgana Chromas
+Catseye
+Heavenly Crane
+Meteorite
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Coven
+View in 3D
+1820
+16.04.2020
+Queen of the coven, and patron of that called Ashen Owl. Morgana worshipped the Old Gods, and wept when they were slain -- betrayed when her sister murdered the primordial sun and delivered its power to an army of witch-knights. Now Morgana has returned to end the reign of mankind, returning the world's true lords to their rightful, mouldering thrones.
+Erica Lindbeck
+Alex 'alexplank' Flores
+Coven
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Transforming
+Chromas
+Coven Morgana Chromas
+Dark Ritual
+Obsidian
+Pearl
+Ruby
+Tanzanite
+Dawnbringer
+View in 3D
+1350
+23.09.2021
+Determined to see order triumph over chaos, Morgana has sacrificed much to tip the scales in favor of light. If dawn emerges victorious, she is certain that they can avoid the gods' destruction and usher in a new age, one free from the corruption of chaos… Perhaps then Yone will see balance for the delusion that it is.
+Erica Lindbeck
+Pan Chengwei
+Nightbringer and Dawnbringer
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dawnbringer Morgana Chromas
+Amethyst
+Catseye
+Emerald
+Lifebringer
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Prestige Bewitching
+View in 3D
+Special
+07.10.2021
+Literal magic wasn't necessary for Morgana to nab top prize in the holiday costume contest. But that didn't stop her from casting a figurative spell on the judges with her enchanting ensemble. This is a party they won't soon forget!
+Erica Lindbeck
+West Studio
+Bewitching
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Bewitching
+. Store variants are discounted for multiple purchases.
+Star Nemesis
+View in 3D
+1350
+28.07.2022
+A villainess of mysterious origins, Morgana believes that concepts like justice and order are holding the universe back... and she's willing to do anything to return it to a state of entropy. Targeting the Star Guardians for destruction, she torments them relentlessly before dealing the final, crushing blow.
+Erica Lindbeck
+Horace 'Hozure' Hsu
+Star Guardian Season 4
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Star Nemesis Morgana Chromas
+Amethyst
+Catseye
+Emerald
+Peridot
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Wicked
+Snow Moon
+View in 3D
+1350
+18.05.2023
+As a priestess and chief exorcist of the Snow Moon, Morgana's magic has been used to bind and destroy corruption wherever it is found. Once disciples complete their trials and offer their memories and emotions to Ahri, it is Morgana's duty to chain their souls to the Snow Moon, completing their initiation into the Order.
+Erica Lindbeck
+Marie Magny, West Studio
+Snow Moon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Snow Moon Morgana Chromas
+Citrine
+Emerald
+Obsidian
+Rainbow
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+Porcelain
+View in 3D
+1350
+22.02.2024
+There is no one who comprehends the power of the sorceress Lissandra more than Morgana. The magic that bound Lissandra to her relic came at a cost: the protector who uttered the words would be trapped as well. Morgana made this sacrifice, the wings of her Rooster Relic wrapping her in a porcelain cocoon for millennia. Awake once more, she seeks revenge.
+Erica Lindbeck
+Marie Magny, West Studio
+Porcelain
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Porcelain Morgana Chromas
+Catseye
+Emerald
+Obsidian
+Opulent
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.20
+Black Shield
+New Effect:
+Cast now has a forgiveness radius of 175 units.
+V14.18
+General
+Bug Fix:
+First encounter voice lines are no longer audible to enemies.
+V14.15
+General
+Bug Fix:
+Restored first encounter with
+Jarvan IV
+VO.
+V14.12
+General
+Bug Fix:
+"Loves me" and "Loves me not" voice-overs are no longer incorrectly swapped in her Joke.
+V14.4
+Soul Shackles
+Tether now innately checks every 0.
+05
+seconds for valid range conditions, and no longer waits for every 8th server tick.
+Dawnbringer Morgana
+Black Shield
+Bug Fix:
+VFX now disappears smoothly when destroyed.
+V13.24
+Tormented Shadow
+Bug Fix:
+Pool VFX is now visible over terrain.
+V13.21
+Tormented Shadow
+Minimum base damage per tick increased to 6 / 11.
+5
+/ 17 / 22.
+5
+/ 28 from 6 / 11 / 16 / 21 / 26.
+Monster damage increased to 170% from 165%.
+V13.20
+Tormented Shadow
+Minimum AP ratio per tick increased to
+8.
+5
+% AP
+from
+7% AP
+.
+Maximum AP ratio per tick increased to
+22.
+95
+% AP
+from
+18.
+9
+% AP
+.
+Minimum total AP ratio increased to
+85% AP
+from
+70% AP
+.
+Maximum total AP ratio increased to
+229.
+5
+% AP
+from
+189% AP
+.
+Monster damage increased to 165% from 155%.
+Black Shield
+Cooldown increased to 26 / 23.
+5
+/ 21 / 18.
+5
+/ 16 seconds from 24 / 22 / 20 / 18 / 16.
+Soul Shackles
+Base damage increased to 175 / 250 / 325 from 150 / 225 / 300.
+Total base damage increased to 350 / 500 / 650 from 300 / 450 / 600.
+AP ratio increased to
+80% AP
+from
+70% AP
+.
+Total AP ratio increased to
+160% AP
+from
+140% AP
+.
+Bonus movement speed increased to 10 / 35 / 60% from 5 / 30 / 55%.
+New Effect:
+Now gains the bonus movement speed regardless of if she is facing enemy champions or not.
+Stun duration increased to 1.
+5
+/ 1.
+75
+/ 2 seconds from 1.
+5
+at all ranks.
+V13.10
+General
+Bug Fix:
+Coven Morgana
+is no longer missing an animation transition when issuing a movement command after attacking with her left hand.
+V12.10
+Stats
+Base health increased to 630 from 560.
+Health growth increased to 104 from 90.
+Armor growth increased to 5 from 3.
+8
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Soul Siphon
+Healing reduced to 18% from 20%.
+Black Shield
+Bug Fix:
+Crowd control immunity is no longer consumed by
+Blast Cones
+triggered by allies.
+V11.18
+Black Shield
+Cooldown reduced to 24 / 22 / 20 / 18 / 16 seconds from 26 / 24 / 22 / 20 / 18.
+V11.11
+Tormented Shadow
+Damage against monsters reduced to 155% from 185%.
+V11.9
+Tormented Shadow
+Damage against non-epic monsters reduced to 185% from 200%.
+V11.8
+Soul Siphon
+Undocumented:
+Now also heals from medium monsters (
+Krugs
+).
+Tormented Shadow
+Damage against non-epic monsters increased to 200% from 150%.
+V11.7
+Soul Siphon
+Bug Fix:
+Tooltip now more clearly states that the effect only applies to large monsters.
+V11.1
+Tormented Shadow
+Bug Fix:
+Now properly deals additional damage to small jungle monsters.
+V10.25
+Tormented Shadow
+Base damage per second reduced to 12 / 22 / 32 / 42 / 52 from 12 / 24 / 36 / 48 / 60.
+V10.16
+Dark Binding
+Cooldown reduced to 10 seconds from 11.
+V10.6
+General
+Recommended items updated.
+Stats
+Base movement speed increased to 335 from 330.
+Tormented Shadow
+New Effect:
+Now deals 150% damage against non-epic monsters.
+Black Shield
+Base shield increased to 80 / 135 / 190 / 245 / 300 from 60 / 120 / 180 / 240 / 300.
+V10.1
+Black Shield
+Bug Fix:
+Now blocks
+Illaoi's
+Test of Spirit
+, spirit pull.
+V9.17
+General
+Adjusted splash artwork for
+Original Morgana
+.
+V9.14
+Soul Shackles
+New Effect:
+Now grants true sight for the duration of the
+stun
+.
+V9.13
+General
+Bug Fix:
+Ability VO lines will play less frequently.
+V9.9
+Black Shield
+Cooldown increased to 26 / 24 / 22 / 20 / 18 seconds from 23 / 21 / 19 / 17 / 15.
+Base shield strength reduced to 60 / 120 / 180 / 240 / 300 from 70 / 140 / 210 / 280 / 350.
+V9.7
+Stats
+Health regeneration growth reduced to 0.
+4
+from 0.
+6
+.
+Tormented Shadow
+Minimum AP ratio per second reduced to
+14% AP
+from
+16% AP
+.
+Soul Shackles
+Bug Fix:
+No longer hits targets if the effect ends prematurely by her death.
+V9.6
+Tormented Shadow
+New Effect:
+Now triggers effects that are triggered by DoT AoE abilities.
+Soul Shackles
+Bug Fix:
+The tether no longer persists after
+Morgana's
+death if the target negates
+Soul Shackles
+' slow.
+V9.5
+- Visual Update
+General
+Title changed to
+the Fallen
+from
+Fallen Angel
+.
+Complete visual upgrade across all skins.
+New artwork for
+Original Morgana
+,
+Blackthorn Morgana
+,
+Exiled Morgana
+,
+Blade Mistress Morgana
+, and
+Sinful Succulence Morgana
+.
+Tweaked artwork for
+Ghost Bride Morgana
+,
+Lunar Wraith Morgana
+,
+Bewitching Morgana
+, and
+Victorious Morgana
+.
+New voice over.
+New lore.
+Stats
+Base attack damage increased to 56 from 55.
+46
+.
+Base armor reduced to 25 from 25.
+384
+.
+Base health increased to 560 from 559.
+48
+.
+Base mana reduced to 340 from 340.
+8
+.
+Base movement speed reduced to 330 from 335.
+Tormented Shadow
+Renamed to
+Tormented Shadow
+from
+Tormented Soil
+.
+Minimum base damage reduced to 12 / 24 / 36 / 48 / 60 from 16 / 32 / 48 / 64 / 80.
+Minimum AP ratio reduced to
+16% AP
+from
+22% AP
+.
+Bonus damage increased to
+0% − 170% (based on target's
+missing
+health)
+from
+0% − 50% (based on target's
+missing
+health)
+.
+Maximum base damage increased to 32.
+4
+/ 64.
+8
+/ 97.
+2
+/ 129.
+6
+/ 162 from 24 / 48 / 72 / 96 / 120.
+Maximum AP ratio increased to
+43% AP
+from
+33% AP
+.
+Black Shield
+Undocumented:
+No longer blocks
+Illaoi's
+Test of Spirit
+from grabbing the spirit.
+Undocumented:
+Now blocks
+sleep
+if the shield was placed on a
+drowsy
+target.
+Soul Shackles
+New Effect:
+Now grants 5 / 30 / 55%
+bonus
+movement speed towards enemies that are shackled.
+New ability icon.
+V8.15
+Stats
+Base mana regeneration reduced to 11 from 15.
+Black Shield
+Mana cost increased to 80 from 55.
+V8.9
+Stats
+Base mana regeneration increased to 15 from 11.
+5
+.
+V8.3
+Stats
+Base health regeneration reduced to 5.
+5
+from 5.
+708
+.
+V7.24 - December 7th Hotfix
+Stats
+Health growth reduced to 90 from 98.
+Soul Siphon
+Healing changed to 20% at all levels from
+15 − 40 (based on level)
+%.
+Tormented Soil
+Cooldown increased to 12 seconds from 10.
+V7.24
+Stats
+Base mana regeneration increased to 11.
+5
+from 8.
+5
+.
+Mana regeneration growth reduced to 0.
+4
+from 0.
+8
+.
+Soul Siphon
+Removed:
+10 / 15 / 20 (based on level)
+% spell vamp.
+New Effect:
+Morgana
+restores health equal to
+15 − 40 (based on level)
+% of ability damage dealt to champions, large minions and large monsters.
+Tormented Soil
+New Effect:
+Tormented Soil's
+cooldown is now reduced by 5% whenever
+Soul Siphon
+triggers.
+V7.22
+Stats
+Base health increased to 559 from 547.
+48
+.
+Health growth increased to 98 from 86.
+V7.9
+May 4th Hotfix
+General
+New Effect:
+Attack animations have received non-gameplay impacting adjustments.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V6.17
+General
+Bug Fix:
+Morgana's knees popping through her dress during her running animation.
+Black Shield
+Range increased to 800 from 750.
+V6.8
+General
+New splash artwork for
+Blade Mistress Morgana
+.
+V6.7
+General
+Splash artwork for
+Exiled Morgana
+and
+Sinful Succulence Morgana
+updated to the Chinese art.
+V5.22
+Stats
+Mana regen increased to 8.
+5
+from 6.
+V5.18
+Dark Binding
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 50 / 60 / 70 / 80 / 90.
+V5.9
+Tormented Soil
+Per-tick damage changed to 8 / 16 / 24 / 32 / 40 from 12 / 19 / 26 / 33 / 40.
+V4.14
+Black Shield
+Shield reduced to 70 / 140 / 210 / 280 / 350 from 95 / 160 / 225 / 290 / 355.
+Soul Shackles
+Initial damage reduced to 150 / 225 / 300 from 175 / 250 / 325.
+Secondary damage reduced to 150 / 225 / 300 from 175 / 250 / 325.
+V4.5
+Stats
+Armor increased to 19 from 15.
+V3.14
+Soul Shackles
+New Effect:
+Tether radius is visible to both Morgana and targets affected for the duration.
+V3.13
+General
+Basic attack updated to be more responsive.
+Stats
+Attack range increased to 450 from 425.
+Attack speed increased to 0.
+625
+from 0.
+579
+.
+Tormented Soil
+Tick rate increased to every 0.
+5
+seconds from every 1.
+Per-second damage reduced to 24 / 38 / 52 / 66 / 80 from 25 / 40 / 55 / 70 / 85.
+Per-second AP ratio increased to
+(+ 22% AP)
+from
+(+ 20% AP)
+.
+Removed:
+Magic resistance reduction.
+New Effect:
+Damage is modified for every
+1% of target's missing health
+for a maximum 50% modifier and 36 / 57 / 78 / 99 / 120
+(+ 33% AP)
+maximum damage per second.
+V3.5 (Balance update)
+Dark Binding
+Mana cost reduced to 50 / 60 / 70 / 80 / 90 from 60 / 75 / 90 / 105 / 120.
+Soul Shackles
+Mana cost reduced to 100 at all ranks from 100 / 150 / 200.
+V3.02
+Soul Shackles
+Bug Fix:
+Effects playing even when targets aren't stunned.
+V1.0.0.152
+Stats
+Movement speed increased to 335 from 310.
+V1.0.0.147
+General
+New splash artwork for
+Original Morgana
+.
+V1.0.0.143
+Black Shield
+Cooldown increased at to 23 / 21 / 19 / 17 / 15 seconds from 15 at all ranks.
+Cast range increased to 750 from 600.
+Soul Shackles
+Tether range updated for accuracy.
+Tether range update rate increased to every 0.
+25
+seconds from 0.
+5
+.
+V1.0.0.142
+Tormented Soil
+New Effect:
+Continues damaging targets insides the area of effect even if Morgana dies.
+V1.0.0.140
+Soul Siphon
+Spell vamp reduced to 10 / 15 / 20% from 10 / 20 / 30.
+V1.0.0.133
+Soul Shackles
+AP ratio reduced to
+(+ 70% AP)
+from
+(+ 80% AP)
+.
+Bug Fix:
+Sometimes fizzling.
+V1.0.0.126
+Soul Siphon
+Spell Vamp reduced to 10 / 20 / 30% from 15 / 25 / 35.
+Black Shield
+AP ratio reduced to
+(+ 70% AP)
+from
+(+ 80% AP)
+.
+V1.0.0.123
+General
+Basic attack updated to be more responsive.
+Basic attack projectile speed increased.
+Stats
+Movement speed increased to 310 from 300.
+Dark Binding
+Cooldown reduced to 11 seconds from 12.
+Tormented Soil
+Mana cost reduced to 70 / 85 / 100 / 115 / 130 from 70 / 90 / 110 / 130 / 150.
+Soul Shackles
+Stun delay reduced to 3 seconds from 4.
+Stun duration changed to 1.
+5
+seconds at all ranks from 1 / 1.
+5
+/ 2.
+Cooldown reduced to 120 / 110 / 100 seconds from 120 at all ranks.
+V1.0.0.120
+General
+New splash artwork for
+Original Morgana
+.
+Black Shield
+Shield changed to 95 / 160 / 225 / 290 / 355 from 100 / 150 / 200 / 250 / 300.
+V1.0.0.118
+Stats
+Attack range increased to 425 from 400.
+Basic attack projectile speed increased to 1200 from 1100.
+Dark Binding
+Bug Fix:
+Offset linear targeting display.
+V1.0.0.106
+Black Shield
+Duration changed to 5 seconds at all ranks from 4 / 5 / 6 / 7 / 8.
+Soul Shackles
+Stun duration reduced to 1 / 1.
+5
+/ 2 seconds from 1.
+5
+/ 2 / 2.
+5
+.
+AP ratio reduced to
+(+ 80% AP)
+from
+(+ 90% AP)
+.
+Cooldown increased to 120 seconds from 100.
+V1.0.0.105
+Black Shield
+Removed:
+Blocking non-disabling debuffs (magic damage absorption unchanged).
+V1.0.0.103
+Dark Binding
+Hitbox size reduced.
+Black Shield
+AP ratio reduced to
+(+ 80% AP)
+from
+(+ 100% AP)
+.
+Soul Shackles
+Base damage reduced to 175 / 250 / 325 from 175 / 250 / 350.
+Initial damage AP ratio reduced to
+(+ 90% AP)
+from
+(+ 100% AP)
+.
+Secondary damage AP ratio reduced to
+(+ 90% AP)
+from
+(+ 100% AP)
+.
+V1.0.0.94
+Dark Binding
+Damage changed to instant from over-time.
+Base damage reduced to 80 / 135 / 190 / 245 / 300 from 125 / 200 / 275 / 350 / 425.
+AP ratio reduced to
+(+ 90% AP)
+from
+(+ 100% AP)
+.
+Soul Shackles
+Initial damage AP ratio increased to
+(+ 100% AP)
+from
+(+ 50% AP)
+.
+Secondary damage AP ratio reduced to
+(+ 100% AP)
+from
+(+ 150% AP)
+.
+Total AP ratio unchanged.
+V1.0.0.87
+Exiled Morgana
+Saturation reduced.
+Golden details updated.
+Particle effects updated.
+V1.0.0.86
+Soul Siphon
+Removed:
+Healing Morgana for 5 / 7.
+5
+/ 10% of magic damage dealt.
+New Effect:
+Morgana permanently has 15 / 25 / 35% Spell Vamp.
+Removed:
+Morgana healing from non-spell damage (
+Sunfire Cape
+,
+Thornmail
+).
+V1.0.0.85
+Black Shield
+Bug Fix:
+General.
+V1.0.0.83
+Stats
+Attack range increased to 400 from 350.
+Attack damage per level increased to 3.
+5
+from 2.
+8
+.
+Attack speed per level increased to 1.
+4
+% from 1.
+25
+.
+Dark Binding
+Base damage reduced to 80 / 130 / 180 / 240 / 300 from 90 / 150 / 245 / 315 / 440.
+Root duration reduced to 2 / 2.
+25
+/ 2.
+5
+/ 2.
+75
+/ 3 seconds from 2.
+5
+/ 2.
+75
+/ 3 / 3.
+25
+/ 3.
+5
+.
+Mana cost reduced to 60 / 75 / 90 / 105 / 120 from 80 / 100 / 120 / 140 / 160.
+Cooldown reduced to 12 seconds from 15.
+Bug Fix:
+AP ratio applying incorrectly across all ranks.
+Tormented Soil
+New Effect:
+Enemies standing in the area of effect have lose 4 / 5 / 6 / 7 / 8 magic resistance reduced for 2 seconds, stacking up to 5 times.
+Total damage reduced to 125 / 200 / 275 / 350 / 425 from 150 / 225 / 300 / 375 / 425.
+Mana cost reduced to 70 / 90 / 110 / 130 / 150 from 80 / 100 / 120 / 140 / 160.
+Soul Shackles
+Initial damage AP ratio reduced to
+(+ 50% AP)
+from
+(+ 100% AP)
+.
+Secondary damage AP ratio increased to
+(+ 150% AP)
+from
+(+ 100% AP)
+.
+V1.0.0.82
+Dark Binding
+Tooltip updated.
+V1.0.0.79
+Tormented Soil
+Cooldown reduced to 10 seconds from 12.
+V1.0.0.72
+Dark Binding
+Bug Fix:
+Not triggering
+Rylai's Crystal Scepter
+'s
+Icy
+.
+V1.0.0.70
+Stats
+Base health increased to 403 from 387.
+Health per level increased to 86 from 83.
+Base attack damage increased to 50 from 39.
+5
+.
+Attack damage per level increased to 2.
+8
+from 2.
+625
+.
+Armor increased to 15 from 11.
+35
+.
+Soul Shackles
+Bug Fix:
+Not working on targets who purchased
+Mercury's Treads
+.
+V1.0.0.63
+Tormented Soil
+Bug Fix:
+Being visible in fog of war.
+V1.0.0.61
+Dark Binding
+New Effect:
+Will fire directionally even if targeting outside cast range.
+Soul Shackles
+Removed:
+Stunning if slow is cleansed.
+Stun duration reduced to 1.
+5
+/ 2 / 2.
+5
+seconds from 2 / 2.
+5
+/ 3.
+Cooldown increased to 100 seconds from 90.
+V1.0.0.52
+Black Shield
+Removed:
+Cleansing already-applied debuffs on-cast.
+Cooldown increased to 17 seconds from 15.
+V0.9.25.24
+Dark Binding
+Root duration to reduced to 2.
+5
+/ 2.
+75
+/ 3 / 3.
+25
+/ 3.
+5
+seconds from 3 / 3.
+25
+/ 3.
+5
+/ 3.
+75
+/ 4.
+Range reduced to 1300 from 1400.
+Tormented Soil
+Cooldown reduced to 12 seconds from 14.
+Black Shield
+Shield reduced to 100 / 150 / 200 / 250 / 300 from 100 / 200 / 300 / 400 / 500.
+Cooldown increased to 15 seconds from 14.
+V0.9.25.21
+Dark Binding
+Projectile width reduced to 80 from 100.
+V0.9.22.16
+Soul Siphon
+Bug Fix:
+General.
+Black Shield
+Removed:
+Cleansing
+Chronoshift
+.
+Soul Shackles
+Cooldown increased to 90 seconds from 80.
+V0.9.22.15
+Dark Binding
+Damage changed to 90 / 150 / 245 / 315 / 440 from 66 / 132 / 231 / 308 / 440.
+Tormented Soil
+Base damage increased to 30 / 45 / 60 / 75 / 90 from 25 / 40 / 55 / 70 / 85.
+Black Shield
+Duration reduced to 4 / 5 / 6 / 7 / 8 seconds from 4 / 6 / 8 / 10 / 12.
+Cooldown reduced to 14 seconds from 16.
+June 6, 2009 Patch
+General
+Named changed to
+Morgana Hex
+from
+Morgana Le
+.
+Soul Siphon
+Renamed from
+Empathize
+.
+May 29, 2009 Patch
+Dark Binding
+Projectile speed increased to 1200 from 1000.
+May 23, 2009 Patch
+Dark Binding
+Base damage increased to 66 / 132 / 231 / 308 / 440 from 60 / 120 / 210 / 280 / 400.
+May 15, 2009 Patch
+General
+Recommended items updated.
+Dark Binding
+Base damage reduced to 60 / 120 / 210 / 280 / 400 from 80 / 160 / 240 / 320 / 400.
+Root duration reduced to 3 / 3.
+25
+/ 3.
+5
+/ 3.
+75
+/ 4 seconds from 4 at all ranks.
+Bug Fix:
+Dealing double base damage.
+Removed:
+Rooting targets in melee range for half the duration.
+Tooltip updated.
+Tormented Soil
+Per-second AP ratio reduced to
+(+ 20% AP)
+from
+(+ 30% AP)
+.
+Black Shield
+Duration reduced to 4 / 6 / 8 / 10 / 12 seconds from 6 / 8 / 10 / 12 / 14.
+Cooldown increased to 16 seconds from 14.
+May 9, 2009 Patch
+Gameplay Update
+Empathize
+Removed:
+Bonus health regen.
+New Effect:
+Morgana heals for 5 / 7.
+5
+/ 10% of magic damage dealt.
+Dark Binding
+Targeting changed to linear, collision skillshot.
+New Effect:
+Target hit is rooted for 4 seconds and takes damage over the duration.
+Tormented Soil
+Duration reduced to 5 seconds from 7.
+Per-second damage increased to 25 / 40 / 55 / 70 / 85 from 20 / 30 / 40 / 50 / 60.
+Per-second AP ratio increased to
+(+ 30% AP)
+from
+(+ 20% AP)
+.
+Cooldown reduced to 14 seconds from 18.
+Black Shield
+Shield changed to absorb 100 / 200 / 300 / 400 / 500
+(+ 100% AP)
+magic damage as well as make target ally immune to crowd control for the duration or until shield is destroyed.
+Soul Shackles
+Removed:
+Initial stun (final one unchanged).
+New Effect:
+Morgana slows targets in range on-cast and over the duration.
+Initial damage changed to 175 / 250 / 350 from 150 / 250 / 350.
+Total damage changed to 350 / 500 / 700 from 300 / 500 / 700.
+April 25, 2009 Patch
+General
+Recommended items updated.
+Black Shield
+Removed:
+Cast time.
+Duration reduced to 2 / 4 / 6 / 8 / 10 seconds from 4 / 6 / 8 / 10 / 12.
+April 18, 2009 Patch
+Dark Binding
+Animation updated to be more responsive.
+Tormented Soil
+Per-second AP ratio increased to
+(+ 30% AP)
+from
+(+ 20% AP)
+.
+April 11, 2009 Patch
+Empathize
+Health regen increased to 2 / 3 / 5 / 8 / 12 from 1 / 2 / 4 / 6 / 9 / 12.
+Dark Binding
+Bug Fix:
+Lua
+error.
+Tormented Soil
+Range increased to 280 from 265 (to match area indicator).
+Tooltip updated to display correct damage values.
+Removed:
+Granting Morgana bonus armor.
+Black Shield
+Bug Fix:
+Cooldown.
+Soul Shackles
+Trigger changed to Morgana staying in target's range for the duration from moving out of it.
+Range increased to 550 from 485.
+Base damage increased to 150 / 250 / 350 from 100 / 175 / 250.
+AP ratio increased to
+(+ 100% AP)
+from
+(+ 50% AP)
+.
+Initial stun duration increased to 1 seconds from 0.
+5
+.
+Alpha Week 7
+Dark Binding
+Damage per second increased to 30 / 50 / 70 / 90 / 110 from 30 / 45 / 60 / 75 / 90.
+AP ratio increased to
+(+ 60% AP)
+from
+(+ 40% AP)
+.
+Trivia
+[
+edit
+|
+edit source
+]
+Dark Binding's
+debuff
+reads:
+“This unit is unable to move. Lasts for roughly 3 years.”
+Morgana, the Fallen
+Morgana and
+Coven Morgana
+are
+voiced
+by
+Erica Lindbeck
+, who also voices
+Taliyah
+and
+Zoe
+.
+Her dance is a reference to
+Exid - Up & Down
+.
+A side-by-side comparison can be seen
+here
+.
+Morgana, Fallen Angel
+Morgana was
+voiced
+by
+Rebecca Schweitzer
+, who also voices Pre-
+rework
+Sivir
+.
+Her dance is a reference to the
+whirling practices
+of the
+Mevlevi Order
+.
+A side-by-side comparison can be seen
+here
+.
+Morgana -
+Kayle
+is one of seven pairs of sibling champions (the others being
+Cassiopeia
+-
+Katarina
+,
+Garen
+-
+Lux
+,
+Nasus
+-
+Renekton
+,
+Yasuo
+-
+Yone
+,
+Darius
+-
+Draven
+, and
+Vi
+-
+Jinx
+).
+Though not a pair,
+Anivia
+,
+Ornn
+, and
+Volibear
+are also siblings.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Catcher
+Controllers
+are defensive casters that oversee the battlefield by protecting and opening up opportunities for their allies.
+Catchers
+specialize in locking down opponents or, in some cases, entire battlefields by creating intense zones of threat that only foolish enemies would dare wade through. Although not as reliant on their friends as Enchanters, the fragile Catchers greatly benefit from allied presence - both to deter incoming danger and to help capitalize on targets they've locked down.
+Examples
+Blitzcrank
+Morgana
+Zyra
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Root
+A unit that is
+rooted
+is unable to control its movement or activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Rooted
+units can still be displaced.
+Root
+is an
+immobilizing
+effect
+.
+Moving
+includes movement commands.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Soul Siphon
+Innate:
+Morgana
+heals
+herself for a portion of the damage dealt by her abilities against
+champions
+, large
+minions
+, and medium and large
+monsters
+.
+League of Legends content
+Persistent area damage
+Persistent area damage
+is technically not a separate type of damage, but rather a hybrid classification that is applied to some spells.
+In situations where
+persistent damage
+and
+area damage
+would have conflicting outputs, the conflict is resolved by choosing the weakest possible outcome.
+Physical vamp
+and
+Spell vamp
+(where applicable) heals with one-third effectiveness, as with
+area damage
+.
+Arcane Comet's
+cooldown is reduced by 5%, as with
+persistent damage
+, per target affected.
+Counter Strike
+reduces the damage dealt by 25%, as with
+area damage
+.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Cc-Immune
+Crowd control immunity
+prevents
+any
+type of
+crowd control
+from being
+applied
+to the unit. CC which has already been applied will still have an effect on the unit. Epic
+monsters
+(excluding a summoned
+Rift Herald
+) and
+turrets
+are always immune to all crowd control, with the exception of
+stasis
+.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Crowd control
+A unit that is
+disabled
+is affected by a status effect that prevents certain actions – such as movement, attacking, casting and/or seeing–blocked, reduced or controlled.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Tempered Fate
+COOLDOWN:
+110 / 95 / 80
+Active:
+Bard
+sends spirit energy arcing to a location, putting all
+champions
+,
+minions
+,
+monsters
+, and
+turrets
+hit into
+stasis
+for a short time.
+League of Legends content
+Nearsight
+A unit that is
+nearsighted
+has their
+sight
+radius reduced and
+cannot
+see beyond their sight radius.
+While nearsighted, units cannot reveal
+stealthed
+wards
+or
+traps
+. Nearsighted units lose vision of all their allies as well as all external sources of vision (including from wards or abilities). This prevents
+unit-targeted
+effects, including
+basic attacks
+, from being used outside of the unit's reduced sight radius.
+True sight
+and
+unobstructed vision
+do
+not
+bypass the vision blocked by
+nearsight
+.
+Sources of
+nearsight
+do
+not
+stack with each other; only the application with the greatest sight reduction will take effect.
+Interrupts:
+Interrupts target commands if the
+nearsighted
+unit's target is outside of their new vision area and prevents
+automated target acquisition
+.
+Reduction:
+The
+duration
+is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+with the exceptions of
+Fiora's
+Riposte
+and
+Morgana's
+Black Shield
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast),
+Cleanse
+, and
+Mikael's Blessing
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Nether Grasp
+COOLDOWN:
+140 / 110 / 80
+Active:
+Malzahar
+tethers
+to the target enemy champion,
+knocking them down
+. The tether lasts a short time, during which he
+channels
+to
+suppress
+and
+reveal
+the target, continually dealing them
+magic damage
+.
+Additionally, a
+Null Zone
+is opened beneath the target's location for a few seconds, which continually deals
+magic damage
+to enemies within.
+League of Legends content
+Suppression
+A unit that is
+suppressed
+is unable to control its movement, declare attacks, cast abilities, activate items or use
+any
+summoner spell
+for the duration.
+Suppression
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Cleanse
+and
+Mikael's Blessing
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Tether
+A
+tether
+is an effect that applies a
+bind
+buff on both the source and the target(s), which then creates the actual tether that requires both to remain in close proximity so any accompanying effects (
+damage
+,
+crowd control
+,
+heals
+,
+buffs
+, etc) can apply.
+The tether breaks if it exceeds maximum range, or either conduit is removed (e.g.
+Death
+). The tether will also break from a transition into the
+zombie state
+due to the target already dying.
+Generally, a
+bind
+with an enemy will break along with the tether, whereas a bind with an ally will last indefinitely and automatically reapply the tether when within range.
+League of Legends content
+Test of Spirit
+COOLDOWN:
+16 / 15 / 14 / 13 / 12
+Active:
+Illaoi
+reaches with a tendril in the target direction that stops upon the first enemy hit. If the target is a
+champion
+, she rips their
+Spirit
+out from them to stand before her.
+The
+Spirit
+tethers
+to the target for a duration, dealing a portion of any damage it takes. If the
+Spirit
+is killed or the target leaves its range, the target will be
+slowed
+and marked as a
+Vessel
+for a duration or until they
+takedown
+Illaoi
+, spawning
+Tentacles
+while marked.
+Tentacles
+will autonomously attack the nearest
+Spirit
+or
+Vessel
+.
+League of Legends content
+Displacement immune
+A unit that is
+displacement immune
+is
+immune
+to all
+Airborne
+effects in addition to the following effects:
+Crowd control
+Knockdown
+Suspension
+Kinematics
+Sleep
+Stasis
+Champion abilities
+Ambessa's
+Public Execution
+Mordekaiser's
+Realm of Death
+Skarner's
+Ixtal's Impact
+and
+Impale
+Sett's
+The Show Stopper
+Tahm Kench's
+Devour
+League of Legends content
+Slow-immune
+Slow immunity
+is a status effect that prevents the application of
+slows
+.
+The following prevent the application of
+slows
+:
+Aphelios'
+Sentry
+Heimerdinger's
+H-28G Evolution Turret
+Master Yi's
+Highlander
+Nunu's
+Biggest Snowball Ever!
+Sejuani's
+Fury of the North
+Skarner's
+Ixtal's Impact
+Total
+crowd control immunity
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Targeting forgiveness
+Certain unit-targeted abilities present an accuracy-grace system called
+targeting forgiveness
+.
+When no valid target is
+directly selected
+upon using the ability, it will automatically search for one within a certain
+center-to-center
+forgiveness radius
+. If a valid target is found within the forgiveness radius, the ability will automatically acquire them and cast on them. If multiple targets are found, the nearest one to the forgiveness radius' center is chosen.
+Only ally-targeted abilities may utilize this system. Not to be confused with a different, priority-based system that a few other spells (e.g.
+Smite
+) use.
+League of Legends content
+True sight
+True Sight
+reveals units through
+fog of war
+,
+brush
+, and
+stealth
+. It does not bypass
+nearsight
+effects.
+References
+[
+edit
+|
+edit source
+]
+↑
+Morgana's profile page
+at
+LeagueOfLegends.com

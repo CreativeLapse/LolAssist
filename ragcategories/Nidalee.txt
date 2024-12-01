@@ -1,0 +1,3030 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Nidalee
+the Bestial Huntress
+Release date
+2009-12-17
+Last changed
+V14.14
+Class(es)
+Specialist
+Legacy
+Assassin
+Mage
+Position(s)
+Jungle
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+3
+Utility
+2
+Style
+Difficulty
+Nidalee
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Nidalee
+Base statistics
+Edit
+Health
+610
++109
+Mana
+295
++45
+Health regen. (per 5s)
+6
++0.6
+Mana regen. (per 5s)
+6
++0.8
+Armor
+32
++5
+Attack damage
+58
++3.5
+Magic resist.
+30
++1.45
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+525
+Attack speed
+Base AS
+0.638
+Attack windup
+15%
+AS ratio
+N/A
+Bonus AS
++3.22
+%
+Missile speed
+2500
+Unit radius
+Gameplay radius
+65
+Selection radius
+110
+Pathing radius
+35
+Acq. radius
+750
+Special statistics
+Damage Dealt
++10%
+Damage Received
++0%
+Damage Dealt
++5%
+Damage Received
+-10%
+Healing
++10%
+Shielding
++10%
+Damage Dealt
++7%
+Damage Received
+-5%
+Damage Dealt
++5%
+Damage Received
+-5%
+Damage Dealt
++5%
+Damage Received
+-5%
+Healing
++20%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Prowl
+Innate - Prowl:
+While in
+brush
+,
+Nidalee
+gains
+bonus
+movement speed
+for a short time, increased when facing a nearby enemy
+champion
+.
+Innate - Hunt:
+Hitting nearby
+monsters
+or enemy champions with
+Javelin Toss
+or
+Bushwhack
+will apply a
+Hunted
+mark and
+reveal
+them for a few seconds. During this time,
+Nidalee
+gains
+bonus
+movement speed
+, increased when facing a
+Hunted
+target.
+Nidalee's
+first use of
+Takedown
+and
+Pounce
+against
+Hunted
+targets are empowered.
+Innate - Prowl:
+While in
+brush
+,
+Nidalee
+gains
+10%
+bonus
+movement speed
+, increased to
+30%
+when facing a
+nearby
+visible
+enemy
+champion
+, and persisting for 2 seconds after leaving brush.
+Innate - Hunt:
+Hitting
+monsters
+or enemy champions with
+Javelin Toss
+, or
+Bushwhack
+while they are
+nearby
+, applies a
+Hunted
+mark and
+reveals
+them for 4 seconds. During this time,
+Nidalee
+gains
+10%
+bonus
+movement speed
+, increased to
+30%
+when facing a
+nearby
+Hunted
+target.  Additionally,
+Nidalee's
+first use of
+Takedown
+and
+Pounce
+against
+Hunted
+targets are empowered.
+The
+bonus
+movement speed
+from
+Prowl
+and
+Hunt
+can stack, but cannot exceed
+30%
+.
+Info
+Targeting input
+Passive
+Bushwhack
+reveals
+the target for 4 seconds even while
+Nidalee
+is not nearby.
+Map-Specific Differences
+Arena
+differences
+edit
+Bonus movement speed changed to 20%.
+Edit
+Javelin Toss
+COST:
+50 / 55 / 60 / 65 / 70 Mana
+COOLDOWN:
+6
+CAST TIME:
+0.
+25
+RANGE:
+1500
+WIDTH:
+80
+SPEED:
+1300
+Active:
+Nidalee
+hurls a javelin in the target direction that deals
+magic damage
+to the first enemy hit based on distance travelled.
+Active:
+Nidalee
+hurls a javelin in the target direction that deals
+magic damage
+to the first enemy hit, increased by
+0% − 200% (based on distance traveled)
+.
+Minimum Magic Damage:
+70 / 90 / 110 / 130 / 150
+(+ 50% AP)
+Maximum Magic Damage:
+210 / 270 / 330 / 390 / 450
+(+ 150% AP)
+Info
+Targeting input
+Direction
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+This ability will cast from wherever the caster is at the start of the cast time.
+The damage amplification is based on the distance from
+Nidalee's
+location at the
+end
+of the cast time to the struck target's center at the time of collision.
+The damage increase is very slightly higher than the spear's travel distance due to edge range behaviour of collisions and the distance being measured as the radius from the picked "origin" location at the end of the cast time, rather than just along the vector of the cast.
+The damage increase does not have distinct thresholds based on the distance the spear travelled.
+Picking Nidalee's location at the end of the cast time as the "origin" for the damage calculation may be unintended.
+(note)
+Map-Specific Differences
+Arena
+differences
+edit
+Javelin Toss
+AD ratio changed to
+120% AD
+.
+Takedown
+minimum AP ratio changed to
+80% AP
+.
+Edit
+Bushwhack
+COST:
+30 / 35 / 40 / 45 / 50 Mana
+COOLDOWN:
+13 / 12 / 11 / 10 / 9
+CAST TIME:
+0.
+25
+TARGET RANGE:
+900
+COLLISION RADIUS:
+150
+Active:
+Nidalee
+lays a
+stealthed
+that will spring upon contact with an enemy, continually dealing
+magic damage
+over a few seconds.
+Active:
+Nidalee
+lays a trap at the target location that becomes
+stealthed
+after arming over 1.
+5
+seconds, lasting for up to 120 seconds and granting
+sight
+within its radius. The trap will spring upon contact with an enemy, dealing
+magic damage
+every second over 4 seconds.
+Magic Damage Per Tick:
+10 / 20 / 30 / 40 / 50
+(+ 5% AP)
+Total Magic Damage:
+40 / 80 / 120 / 160 / 200
+(+ 20% AP)
+Traps have
+6
+maximum
+health
+and can only be damaged by champion
+basic attacks
+(2 hit points from
+ranged
+and 3 hit points from
+melee
+). Up to a maximum of
+4 / 6 / 8 / 10 (based on level)
+traps may be active at once.
+See
+Pets
+for more details about traps.
+Info
+Targeting input
+Location
+Damage type
+Type
+DOT damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+No additional notes.
+Map-Specific Differences
+Arena
+differences
+edit
+Maximum traps changed to
+94 / 96 / 98 / 100 (based on level)
+.
+Edit
+Primal Surge
+COST:
+50 / 55 / 60 / 65 / 70 Mana
+COOLDOWN:
+12
+CAST TIME:
+0.
+25
+TARGET RANGE:
+900
+Active:
+Nidalee
+revitalizes herself or the target allied champion, granting
+bonus
+attack speed
+for a few seconds and
+healing
+the target based on
+their
+missing
+health
+.
+Active:
+Nidalee
+revitalizes herself or the target allied champion, granting the target
+bonus
+attack speed
+for 7 seconds and
+healing
+them for an amount that is increased by
+0% − 100% (based on target's
+missing
+health)
+.
+Bonus Attack Speed:
+30 / 40 / 50 / 60 / 70%
+Minimum Heal:
+50 / 75 / 100 / 125 / 150
+(+ 35% AP)
+Maximum Heal:
+100 / 150 / 200 / 250 / 300
+(+ 70% AP)
+Info
+Targeting input
+Unit
+Damage type
+Type
+The
+bonus
+attack speed
+will persist through
+Cougar Form
+if
+Nidalee
+uses
+Primal Surge
+on herself.
+Map-Specific Differences
+Arena
+differences
+edit
+Primal Surge
+base heal changed to 60 / 90 / 120 / 150 / 180.
+Swipe
+bonus AD ratio changed to
+100%
+bonus
+AD
+.
+Edit
+Takedown
+COOLDOWN
+:
+6
+CAST TIME:
+none
+Active:
+Nidalee's
+next basic attack within some time will gain
+bonus
+range
+and deal
+magic damage
+based on the
+target's
+missing
+health
+.
+Hunted
+Bonus:
+A
+Hunted
+target hit will take
+increased damage
+.
+Active:
+Nidalee
+empowers her next
+basic attack
+within 10 seconds to have an
+uncancellable windup
+, gain
+75
+bonus
+range
+and deal
+modified
+magic damage
+that is increased by an amount for every
+1% of the target's
+missing
+health
+.
+Takedown
+scales with
+Aspect of the Cougar's
+rank
+Minimum Magic Damage:
+5 / 30 / 55 / 80
+(+ 75% AD)
+(+ 40% AP)
+Maximum Magic Damage:
+10 / 67.
+5
+/ 137.
+5
+/ 220
+(+ 150 / 168.
+75
+/ 187.
+5
+/ 206.
+25
+% AD)
+(+ 80 / 90 / 100 / 110% AP)
+Increased Damage Modifier:
+1 / 1.
+25
+/ 1.
+5
+/ 1.
+75
+%
+Maximum Increased Damage:
+100 / 125 / 150 / 175%
+Hunt
+Bonus:
+Hitting a
+Hunted
+target
+increases
+Takedown's
+damage by 30%.
+Prowl
+-Enhanced Minimum Damage:
+6.
+5
+/ 39 / 71.
+5
+/ 104
+(+ 97.
+5
+% AD)
+(+ 52% AP)
+Prowl
+-Enhanced Maximum Damage:
+13 / 87.
+75
+/ 178.
+75
+/ 286
+(+ 195 / 219.
+375
+/ 243.
+75
+/ 268.
+125
+% AD)
+(+ 104 / 117 / 130 / 143% AP)
+Takedown
+resets
+Nidalee's
+basic attack timer. Other damage converted to
+magic damage
+by Takedown are not increased by Takedown's respective effects.
+Nidalee
+loses Takedown's empowered attack immediately when she switches to
+Human Form
+.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Basic damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Parries
+Missing
+Takedown's
+attack deals
+basic damage
+, but also triggers spell effects by also being tagged as
+spell damage
+.
+Increased damage to
+Hunted
+targets is displayed as a
+cosmetic critical strike
+: Unless
+Nidalee
+has critical strike chance and the attack rolled a
+critical strike
+naturally, it is unaffected by critical damage modifiers.
+Basic attacks
+enhanced by
+Takedown
+convert
+Spellblade
+damage from physical to magic, if it was not already magic. Their damage is however not increased by
+Takedown
+.
+Takedown's
+damage will apply
+life steal
+.
+Structures
+always take
+Takedown's
+minimum damage.
+PENDING FOR TEST:
+- Parry interactions (
+dodge
+,
+block
+and
+blind
+).
+Map-Specific Differences
+Arena
+differences
+edit
+Javelin Toss
+AD ratio changed to
+120% AD
+.
+Takedown
+minimum AP ratio changed to
+80% AP
+.
+Edit
+Pounce
+COOLDOWN:
+6
+CAST TIME:
+none
+TARGET RANGE:
+375
+/
+750
+EFFECT RADIUS:
+200 / 250
+Passive:
+Killing an enemy or using
+Pounce's
+Hunted
+bonus will
+reduce
+Pounce's
+cooldown.
+Active:
+Nidalee
+dashes in the target direction, dealing
+magic damage
+to nearby enemies upon arrival.
+Hunted
+Bonus:
+Pounce
+has increased range when cast near
+Hunted
+targets.
+Passive:
+Killing an enemy while in
+Cougar Form
+or using
+Pounce's Hunt
+bonus reduces
+Pounce's
+current
+cooldown
+to a minimum value.
+Pounce
+scales with
+Aspect of the Cougar's
+rank
+Reduced Cooldown:
+3 / 2.
+5
+/ 2 / 1.
+5
+seconds
+Active:
+Nidalee
+leaps
+a fixed distance in the target direction. Upon arrival, she deals
+magic damage
+to nearby enemies.
+Magic Damage:
+55 / 100 / 145 / 190
+(+ 50%
+bonus
+AD)
+(+ 30% AP)
+Hunted
+Bonus:
+Nidalee
+can perform
+Pounce
+from an increased range on a
+Hunted
+enemy closest to the cursor. She can
+Pounce
+to a target location near a
+Hunted
+enemy if she is close to them.
+Takedown
+and
+Aspect of the Cougar
+can be cast during the dash. Pounce will cast at max range if cast beyond that.
+Info
+Targeting input
+Direction
+/
+Location
+/
+Unit
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Pounce
+will not receive the reduced cooldown if the target becomes
+Hunted
+mid-air.
+Pounce
+without a
+Hunted
+target will have a fixed distance and use
+direction-targeting
+.
+Pounce
+in the direction of a
+Hunted
+target that is inside of normal ability range will use
+location-targeting
+and place
+Nidalee
+at the target location.
+Pounce
+on a
+Hunted
+target that is out of normal ability range will use
+unit-targeting
+and place
+Nidalee
+on the side of the target that the target is facing.
+Pounce
+on a
+Hunted
+target will extend the remaining duration of the
+Hunted
+debuff on the target by 1.
+5
+seconds.
+Map-Specific Differences
+Arena
+differences
+edit
+Maximum traps changed to
+94 / 96 / 98 / 100 (based on level)
+.
+Edit
+Swipe
+COOLDOWN:
+6
+CAST TIME:
+0.
+25
+EFFECT RADIUS:
+310
+ANGLE:
+180°
+Active:
+Nidalee
+slashes in an arc in the target direction, dealing
+magic damage
+to enemies hit.
+Active:
+Nidalee
+slashes in an arc in the target direction, dealing
+magic damage
+to enemies hit.
+Swipe
+scales with
+Aspect of the Cougar's
+rank
+Magic Damage:
+70 / 130 / 190 / 250
+(+ 70%
+bonus
+AD)
+(+ 40% AP)
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+This ability will cast from wherever the caster is at the start of the cast time.
+The visual effects will be seen from her position if she moves however.
+(bug)
+Map-Specific Differences
+Arena
+differences
+edit
+Primal Surge
+base heal changed to 60 / 90 / 120 / 150 / 180.
+Swipe
+bonus AD ratio changed to
+100%
+bonus
+AD
+.
+Edit
+Aspect of the Cougar
+COOLDOWN:
+3
+CAST TIME:
+none
+Active:
+Nidalee
+switches between her
+Human Form
+and
+Cougar Form
+.
+Cougar Form:
+Nidalee
+transforms into a cougar, gaining
+melee
+attacks and access to her cougar abilities.
+Human Form:
+Nidalee
+transforms into a human, gaining
+ranged
+attacks and access to her human abilities. While in
+Human Form
+, applying a
+Hunted
+mark will
+reset
+Aspect of the Cougar's
+cooldown.
+Nidalee
+begins with one rank in
+Aspect of the Cougar
+.
+Cougar Form's
+abilities scale based on
+Aspect of the Cougar's
+rank.
+Active:
+Nidalee
+switches between her
+Human Form
+and
+Cougar Form
+.
+Cougar Form:
+Nidalee
+transforms into a cougar, gaining
+melee
+attacks with
+125 range
+and access to her cougar abilities.
+Human Form:
+Nidalee
+transforms into a human, gaining
+ranged
+attacks with
+525 range
+and access to her human abilities. While in this form, applying a
+Hunted
+mark will reset
+Aspect of the Cougar's
+cooldown
+.
+Nidalee
+begins with one rank in
+Aspect of the Cougar
+and can increase it at levels 6, 11, and 16.
+Cougar Form's
+abilities scale based on
+Aspect of the Cougar's
+rank.
+Info
+Targeting input
+Auto
+Transformations do not count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Traps
+[
+edit
+|
+edit source
+]
+Spring Trap
+Statistics
+Health
+6
+Incoming damage modifier
+2 from
+ranged
+and 3 from
+melee
+champion basic attacks
+Control type
+Autonomous (static)
+Target type
+Ward
+Spell effects
+A trap's debuff applies
+spell effects
+as
+persistent damage
+.
+Abilities
+Stealth Trap
+The trap
+stealths
+and becomes
+untargetable
+after 1.
+5
+seconds, remaining vulnerable to trap-revealing effects at all times.
+Trap Limitation
+Only up to
+4 / 6 / 8 / 10 (based on level)
+traps may be active at once.
+Toxin
+If an enemy walks over the spring trap, they are inflicted with a toxin that deals them
+40 / 80 / 120 / 160 / 200
+(+ 20% AP)
+total
+magic damage
+over 4 seconds. Additionally, they become marked as
+Hunted
+for the same duration if they were a monster or champion and
+Nidalee
+was nearby.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Nidalee (Collection)
+.
+Original
+View in 3D
+790
+17.12.2009
+Raised in the deepest jungle, Nidalee is a master tracker who can shapeshift into a ferocious cougar at will. Neither wholly woman nor beast, she viciously defends her territory from any and all trespassers, with carefully placed traps and deft spear throws. She cripples her quarry before pouncing on them in feline form—the lucky few who survive tell tales of a wild woman with razor-sharp instincts, and even sharper claws...
+Roxana Ortega
+Unknown artist
+Loot eligible
+Snow Bunny
+View in 3D
+520
+17.12.2009
+A fierce warrior who makes her home in the winter forest, Nidalee has little interest in Snowdown parties. Instead, she prefers to spend her time protecting cheerful woodland creatures from trappers and intruders, giving her furry friends a reason for the season.
+Roxana Ortega
+Jem Flores
+Snowdown Showdown
+Loot eligible
+Legacy
+Leopard
+View in 3D
+520
+24.02.2010
+Nidalee roams the tall grasses and bubbling tar pits of her home, a prehistoric savannah teeming with natural magic. She protects her leap of leopards by taking the appearance of their hunters, deceiving and disarming human threats with her wild skill.
+Roxana Ortega
+Jon 'DrPh8' Buran, Jessica 'OwleyCat' Oyhenart
+Legacy
+Loot eligible
+Legacy
+French Maid
+View in 3D
+520
+24.06.2010
+Armed with a diverting maid outfit, a sunny disposition, and a vast knowledge of cleaning techniques, Nidalee catburgles her wealthy customers without them being any the wiser. She does it all for her kitties, who have grown used to some very high quality scratching posts.
+Roxana Ortega
+Even Mehl Amundsen
+Day Job
+Loot eligible
+Pharaoh
+View in 3D
+520
+10.01.2011
+Worshiped as a god-queen of the Great Desert, Nidalee is the avatar of the glorious cat-god, Sypakaa. As war tears through the land, Nidalee will do whatever it takes to protect her city and her temple from those who would dare threaten them.
+Roxana Ortega
+Unknown artist
+Pharaoh
+Loot eligible
+Bewitching
+View in 3D
+975
+19.10.2011
+She is a cat. That is a hat. Legally, we're not allowed to put those two thoughts together.
+Roxana Ortega
+Yan Li
+Bewitching
+Loot eligible
+Legacy
+New SFX/VFX
+Headhunter
+View in 3D
+975
+20.03.2013
+There are those who still ask: between man and beast, who is the better hunter? With her alien biology allowing her to embody both, Nidalee of the Headhunters answers that question with, “I am.”
+Roxana Ortega
+Christian Fell
+Headhunter
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Warring Kingdoms
+View in 3D
+975
+10.02.2015
+Of the legends surrounding Nidalee, it is difficult to know what is true and what is mere myth. Some within the Warring Kingdoms say she fights with the wild ferocity of a white tiger, that the tiger's spirit dwells within her heart. Others believe she is the white tiger, that she can become the beast itself.
+Roxana Ortega
+Jean 'Curing' Go
+Lunar Revel: Warring Kingdoms
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Challenger
+View in 3D
+975
+14.01.2016
+Commemorating the 2016 season start.
+Roxana Ortega
+Sixmorevodka Studio
+Challenger
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Challenger Nidalee Chromas
+Golden
+Super Galaxy
+View in 3D
+1350
+16.10.2017
+Of the new class of Super Galaxy cadets, Nidalee—with her exceptional skill for throwing projectiles through zero-gravity—shows the most promise. As the Spider Queen continues her reign of terror, the team will need Nidalee's cunning tactics and keen hunting instincts if they want to save the galaxy.
+Roxana Ortega
+Jennifer Wuestling
+Super Galaxy
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Dawnbringer
+View in 3D
+1350
+12.12.2019
+Both a celestial beast and a dawn-walking primordial, Nidalee rules over the restorative calm of the natural world. She guards the land's remaining peaceful places, bringing light and order to the mortal creatures under her care.
+Roxana Ortega
+West Studio
+Nightbringer and Dawnbringer
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dawnbringer Nidalee Chromas
+Amethyst
+Paragon
+Pearl
+Peridot
+Rose Quartz
+Ruby
+Cosmic Huntress
+View in 3D
+1350
+24.11.2020
+A cosmic tracker and ferocious hunter, Nidalee travels the galaxy in an eternal hunt, shifting her shape to hide among the sky's wandering stars. Tasked with finding and caring for newborn stars, she is dedicated to defending them from the ever hungry Dark Star corruptants.
+Roxana Ortega
+Francis Tneh, West Studio
+Cosmic
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Cosmic Huntress Nidalee Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+DWG
+View in 3D
+1350
+29.04.2021
+Honoring Canyon's winning performance as Nidalee during the 2020 World Championship.
+Roxana Ortega
+Jennifer Wuestling
+World Champions: 2020
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+DWG Nidalee Chromas
+Elite
+Ocean Song
+View in 3D
+1350
+09.06.2022
+The Ocean Song Festival is lucky to have Nidalee as its performer stylist, with her fashion guides selling almost as much as her albums, but in reality she's here as a featured part of Yone's show. She was the first person he showed his lyrics to, and it's her honor to lend them her voice.
+Roxana Ortega
+Jeremy 'Jermu' Anninos
+Ocean Song
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Ocean Song Nidalee Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Kittalee
+View in 3D
+1350
+06.04.2023
+Adorable squeaky toy or deadly weapon? In Nidalee's claws, a Friendly Fish (TM) can be both!
+Roxana Ortega
+Ina Wong, West Studio
+Cats Versus Dogs
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Kittalee Chromas
+Amethyst
+Aquamarine
+Citrine
+Obsidian
+Pearl
+Peridot
+Rose Quartz
+Ruby
+La Ilusión
+View in 3D
+1350
+27.09.2023
+A jaguar leader of her own pack, Nidalee was both feared and respected by her neighboring humans. When she fell to a group of hunters for protecting her family, the shared love not just from her pack, but from her neighbors, reincarnated Nidalee as an Eidola Vida. With the power to assume both jaguar and human form now, she watches over her kin from afar.
+Roxana Ortega
+Huyy Nguyen, West Studio
+La Ilusión
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+La Ilusión Nidalee Chromas
+Citrine
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Vivida
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.14
+Pounce
+Base damage reduced to 55 / 100 / 145 / 190 from 60 / 110 / 160 / 210.
+New Effect:
+Damage now scales with
+50%
+bonus
+AD
+.
+Swipe
+Base damage reduced to 70 / 130 / 190 / 250 from 80 / 140 / 200 / 260.
+Bonus AD ratio increased to
+70%
+bonus
+AD
+from
+40%
+bonus
+AD
+.
+AP ratio reduced to
+40% AP
+from
+45% AP
+.
+V14.10
+General
+Updated visual effects.
+Javelin Toss
+Added particles and coloring that increase in intensity by the missile's traveled distance.
+Pounce
+Added ground VFX for the damage area of effect.
+V14.5
+Stats
+Base movement speed reduced to 335 from 340.
+Takedown
+Hunted
+bonus damage reduced to 30% from 40%.
+V14.3
+Stats
+Magic resistance growth increased to 1.
+45
+from 1.
+3
+.
+Primal Surge
+Minimum base heal increased to 50 / 75 / 100 / 125 / 150 from 35 / 50 / 65 / 80 / 95.
+Minimum heal AP ratio increased to
+35% AP
+from
+27.
+5
+% AP
+.
+Bonus attack speed increased to 30 / 40 / 50 / 60 / 70% from 20 / 30 / 40 / 50 / 60%.
+V14.2
+General
+Updated recommended items in shop.
+V13.16
+General
+Bug Fix:
+Several issues with voice line playback have been resolved.
+Swipe
+New Effect:
+Now scales with
+40%
+bonus
+AD
+.
+V13.13
+Stats
+Base movement speed increased to 340 from 335.
+V13.8
+Stats
+Base armor increased to 32 from 28.
+Armor growth increased to 5 from 4.
+7
+.
+V13.7
+General
+Bug Fix:
+Restored animation transition between run and idle for
+Dawnbringer Nidalee
+,
+Cosmic Huntress Nidalee
+,
+DWG Nidalee
+, and
+Ocean Song Nidalee
+.
+Pounce
+Bug Fix:
+Restored trail VFX towards marked targets for
+Headhunter Nidalee
+.
+V13.5
+General
+Updated voice over.
+V13.3
+Aspect of the Cougar
+Bug Fix:
+Radiant Virtue's
+Guiding Light is no longer unable to trigger if the item was bought while in
+Cougar
+form.
+V12.12
+General
+Adjusted splash artwork for
+Ocean Song Nidalee
+.
+V12.11
+Primal Surge
+Bug Fix:
+Once again grants attack speed to allied targets.
+V12.10
+Stats
+Base health increased to 610 from 540.
+Health growth increased to 109 from 95.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Primal Surge
+Minimum base heal reduced to 35 / 50 / 65 / 80 / 95 from 35 / 55 / 75 / 95 / 115.
+Minimum heal AP ratio reduced to
+27.
+5
+% AP
+from
+32.
+5
+% AP
+.
+V12.9
+Stats
+Base health reduced to 540 from 570.
+V12.6
+Bushwhack
+Mana cost reduced to 30 / 35 / 40 / 45 / 50 from 40 / 45 / 50 / 55 / 60.
+Pounce
+Base cast effect radius increased to 200 units from 175.
+Empowered cast effect radius increased to 250 units from 225.
+Primal Surge
+Target range increased to 900 units from 600.
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 50 / 60 / 70 / 80 / 90.
+V11.15
+Stats
+Base health increased to 570 from 545.
+Health growth increased to 95 from 85.
+V10.25
+Javelin Toss
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 50 / 60 / 70 / 80 / 90.
+Minimum base damage increased to 70 / 90 / 110 / 130 / 150 from 70 / 85 / 100 / 115 / 130.
+Maximum base damage increased to 210 / 270 / 330 / 390 / 450 from 210 / 255 / 300 / 345 / 390.
+Primal Surge
+Mana cost reduced to 50 / 60 / 70 / 80 / 90 from 60 / 75 / 90 / 105 / 120.
+V10.23
+Stats
+Base mana reduced 295 from 295.
+6
+.
+V10.21
+Stats
+Base attack damage reduced to 58 from 61.
+V10.18
+Super Galaxy Nidalee
+Pounce
+Bug Fix:
+Reset SFX restored.
+V10.16
+Dawnbringer Nidalee
+Prowl
+Bug Fix:
+Reset SFX has been restored.
+V10.15
+Prowl
+Bug Fix:
+Loop SFX is now restored to base and all skins.
+Aspect of the Cougar
+Bug Fix:
+Vocalization when transforming from Cougar to Human is now restored.
+Dawnbringer Nidalee
+Javelin Toss
+Bug Fix:
+Recall
+no longer plays
+Javelin Toss
+hit sound during the ground hit moment.
+Swipe
+Bug Fix:
+In Cougar,
+Swipe
+vocalization now properly plays.
+V10.12
+Javelin Toss
+Bug Fix:
+Now properly triggers
+Prowl
+when cast on
+Baron Nashor
+at any range.
+V10.10
+Javelin Toss
+Minimum AP ratio increased to
+50% AP
+from
+40% AP
+.
+Maximum AP ratio increased to
+150% AP
+from
+120% AP
+.
+V10.3
+General
+Undocumented:
+No longer swaps out
+Ultimate Hunter
+with
+Relentless Hunter
+.
+V10.2
+General
+Undocumented:
+Now swaps out
+Ultimate Hunter
+with
+Relentless Hunter
+.
+V9.22
+Takedown
+Bug Fix:
+Empowered basic attacks now properly deals damage to traps.
+V9.14
+Swipe
+Base damage increased to 80 / 140 / 200 / 260 from 70 / 130 / 190 / 250.
+V9.12
+Headhunter Nidalee
+Javelin Toss
+Bug Fix:
+Javelins have been adjusted for colorblind players to better see them.
+V9.2
+Prowl
+Bug Fix:
+Basic attack no longer cancels if a
+Hunt
+activates mid-attack animation.
+V8.3
+Stats
+Base health regeneration reduced to 6 from 6.
+008
+.
+V8.1
+Takedown
+Bug Fix:
+No longer damages enemies if its empowered attack is dodged.
+Bewitching Nidalee
+Takedown
+Bug Fix:
+Bat VFX have been restored when jumping towards hunted targets.
+V7.23
+Warring Kingdoms Nidalee
+Javelin Toss
+Bug Fix:
+Moving the camera away from her and back onto her during
+Javelin Toss
+no longer causes the javelin to disappear.
+V7.22
+Stats
+Base attack damage increased to 61 from 53.
+Base armor increased to 28 from 22.
+88
+.
+Base health increased to 545 from 540.
+Health growth increased to 85 from 80.
+Snow Bunny Nidalee
+Bug Fix:
+Legacy border has been restored.
+V7.18
+Primal Surge
+Minimum heal AP ratio increased to
+32.
+5
+% AP
+from
+27.
+5
+% AP
+.
+Maximum heal AP ratio increased to
+65% AP
+from
+55% AP
+.
+V7.17
+Bushwhack
+Bug Fix:
+Is no longer considered a valid unit for
+Bard's
+Cosmic Binding
+to stun against.
+V7.11
+Bewitching Nidalee
+Bug Fix:
+Restored her Vintage loading screen border for original owners.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.7
+Bushwhack
+Bug Fix:
+Lifesteal no longer applies when hitting traps.
+V7.4
+Bushwhack
+New Effect:
+Targetable hitbox increased to 50 units from 25.
+V7.2
+Stats
+Base health increased to 540 from 511.
+2
+.
+Bushwhack
+New Effect:
+Traps are now
+invisible
+, they can be revealed and destroyed.
+Traps have
+6 health
+and receive modified damage.
+Melee hits do
+3 damage
+, and ranged do
+2 damage
+.
+Traps grants
+10
+to its killer.
+New Effect:
+Now only
+4 / 6 / 8 / 10 (based on level)
+traps may be active at once.
+Removed:
+True Sight
+.
+Primal Surge
+Base heal increased to 35 / 55 / 75 / 95 / 115 from 25 / 45 / 65 / 85 / 105.
+Maximum base heal increased to 70 / 110 / 150 / 190 / 230 from 50 / 90 / 130 / 170 / 210.
+Prowl
+New Effect:
+Now grants
+True Sight
+for the duration.
+V7.1
+Bushwhack
+New Effect:
+grants
+True Sight
+(previously only revealed).
+V6.24
+Stats
+Base attack damage increased to 53 from 47.
+88
+.
+V6.21
+Takedown
+Cooldown increased to 6 seconds at all ranks from 5.
+Pounce
+Cooldown increased to 6 seconds at all ranks from 5.
+Primal Surge
+Heal reduced to 25 / 45 / 65 / 85 / 105
+(+ 27.
+5
+% AP)
+from 45 / 85 / 125 / 165 / 205
+(+ 50% AP)
+.
+New Effect:
+Increases heal by 1% for
+1% of the target's missing health
+, for a maximum of 50 / 90 / 130 / 170 / 210
+(+ 55% AP)
+.
+Swipe
+Cooldown increased to 6 seconds at all ranks from 5.
+V6.15
+Warring Kingdoms Nidalee
+Bug Fix:
+Some skins stealing cougar
+Recall
+visual effects when in the same game together.
+Javelin Toss
+Minimum damage increased to 70 / 85 / 100 / 115 / 130 from 60 / 77.
+5
+/ 95 / 112.
+5
+/ 130.
+Maximum damage increased to 210 / 255 / 300 / 345 / 390 from 180 / 232.
+5
+/ 285 / 337.
+5
+/ 390.
+Takedown
+Minimum damage changed to 5 / 30 / 55 / 80 from 4 / 20 / 50 / 90.
+Maximum damage changed to 10 / 67.
+5
+/ 137.
+5
+/ 220 from 8 / 45 / 125 / 248.
+AP ratio increased to
+(+ 40% AP)
+from
+(+ 36% AP)
+.
+Bonus damage against
+Hunted
+targets increased to 40% from 33.
+Pounce
+Removed:
+Minimap intercepting cursor when casting.
+Bug Fix:
+Nidalee dashing in a random direction if cursor is hovering over minimap.
+Aspect of the Cougar
+Removed:
+Resetting basic attack timer on-cast.
+V6.13
+Challenger Nidalee
+A few visual effects' colors updated to be more readable.
+V6.11
+General
+New splash artwork for
+Snow Bunny Nidalee
+,
+Leopard Nidalee
+,
+French Maid Nidalee
+,
+Pharaoh Nidalee
+and
+Bewitching Nidalee
+.
+Prowl
+Enhanced bonus movement speed range reduced to 1400 from 5500.
+Pounce
+Cooldown refund reduced to 40 / 50 / 60 / 70% from 70 at all ranks.
+V6.9
+Takedown
+Bonus damage per
+1% of target's missing health
+changed to 1 / 1.
+25
+/ 1.
+5
+/ 1.
+75
+% from 1.
+5
+at all ranks.
+Maximum damage changed to to 8 / 45 / 125 / 247.
+5
+from 10 / 50 / 125 / 225.
+Maximum AD ratio changed to
+(+ 150 / 168.
+75
+/ 187.
+5
+/ 206.
+25
+% AD)
+from
+(+ 187.5% AD)
+at all ranks.
+Maximum AP ratio changed to
+(+ 72 / 81 / 90 / 99% AP)
+from
+(+ 90% AP)
+at all ranks.
+V6.7
+Pounce
+Base damage changed to 60 / 110 / 160 / 210 from 65 / 110 / 155 / 200.
+V6.6
+Prowl
+Removed:
+Rooting Hunted neutral monsters.
+Pounce
+Base damage increased to 65 / 110 / 155 / 200 from 50 / 100 / 150 / 200.
+Removed:
+Resetting basic attack timer on-cast.
+V6.4
+Challenger Nidalee
+Bug Fix:
+Framerate drop when becoming visible in a champion's sight range.
+V5.24
+Javelin Toss
+Base damage increased to 60 / 77.
+5
+/ 95 / 112.
+5
+/ 130 from 50 / 70 / 90 / 110 / 130.
+Maximum damage increased to 180 / 232.
+5
+/ 285 / 337.
+5
+/ 390 from 150 / 210 / 270 / 330 / 390.
+V5.15
+Javelin Toss
+Cast time increased to 0.
+25
+seconds from 0.
+125
+.
+Minimum damage reduced to 50 / 70 / 90 / 110 / 130 from 50 / 75 / 100 / 125 / 150.
+Maximum damage reduced to 150 / 210 / 270 / 330 / 390 from 150 / 225 / 300 / 375 / 450.
+Bushwhack
+On-cast sight radius reduced to 400 from 1200.
+V5.7
+General
+Base health reduced to 511 from 541.
+Health growth reduced to 80 from 90.
+V5.5
+Bushwhack
+Damage changed to 40 / 80 / 120 / 160 / 200
+(+ 20% AP)
+from 20 / 40 / 60 / 80 / 100
+(+ 10 / 12 / 14 / 16 / 18%
+(+ 2% per 100 AP)
+of target's current health)
+.
+V5.3
+Aspect of the Cougar
+Bug Fix:
+Ability cooldowns incorrectly set when switching from human form to cougar one.
+V5.2
+General
+Attack frame sped up slightly.
+Prowl
+New Effect:
+Can mark neutral monsters as Hunted, rooting them for 2 seconds.
+V4.17
+General
+Attack damage reduced to 44 from 49.
+Attack speed reduced to 0.
+638
+from 0.
+670
+.
+Takedown
+Minimum AD ratio reduced to
+(+ 75% AD)
+from
+(+ 100% AD)
+.
+Maximum AD ratio reduced to
+(+ 187.
+5
+% AD)
+from
+(+ 250% AD)
+.
+Hunt
+Maximum AD ratio reduced to
+(+ 250% AD)
+from
+(+ 333% AD)
+.
+Minimum AP ratio increased to
+(+ 36% AP)
+from
+(+ 24% AP)
+.
+Maximum AP ratio increased to
+(+ 90% AP)
+from
+(+ 60% AP)
+.
+Hunt
+Maximum AP ratio increased to
+(+ 120% AP)
+from
+(+ 80% AP)
+.
+Pounce
+On-kill cooldown reduction increased to 1.
+5
+seconds (affected by cooldown reduction) from 1 (static).
+New Effect:
+Hitting
+Hunted
+targets reduces current cooldown to 1.
+5
+seconds (affected by cooldown reduction) if higher than that when doing so.
+Swipe
+Removed:
+Reducing
+Pounce
+'s cooldown when hitting a
+Hunted
+target.
+V4.13
+General
+Splash artwork for
+Snow Bunny Nidalee
+and
+Leopard Nidalee
+updated to the Chinese art.
+V4.11
+General
+Health increased to 390 from 370.
+Armor increased to 17 from 15.
+Prowl
+New Effect:
+Active Hunted targets grant Nidalee 10% bonus movement speed when moving in all directions, increased to 30 when moving towards them.
+New Effect:
+Combined bonus movement speed from in-brush and Hunt cannot exceed 30%.
+Javelin Toss
+Projectile width increased to 40 from 30.
+Bushwhack
+Health ratio reduced to
+(+ 10 / 12 / 14 / 16 / 18% of target's current health)
+from 12 / 14 / 16 / 18 / 20.
+Cooldown reduced to 13 / 12 / 11 / 10 / 9 seconds from 17 / 15 / 13 / 11 / 9.
+Primal Surge
+Mana cost reduced to 60 / 75 / 90 / 105 / 120 from 60 / 80 / 100 / 120 / 140.
+Pounce
+Hunted Pounce
+activation range increased to 750 from 700.
+Hunted Pounce
+landing changed to 75 units in the direction target is facing from 150 units opposite target's side.
+Aspect of the Cougar
+New Effect:
+Marking an enemy as
+Hunted
+while in human form instantly resets cooldown.
+V4.10
+Gameplay Update
+General
+Basic attack timing updated.
+New ability icons.
+New Effect:
+Death Recap differentiates between human and cougar abilities.
+Prowl
+In-brush bonus movement speed reduced to 10% from 15.
+New Effect:
+In-brush bonus movement speed increases to 30% while moving toward a visible enemy champion within 5500 range.
+New Effect - Hunt:
+Damaging enemy champions with
+Javelin Toss
+and
+Bushwhack
+marks them as Hunted for 4 seconds, granting Nidalee sight of them. Nidalee ignores unit collision and gains 30% bonus movement speed while moving toward marked targets, and her next cougar ability against them consumes the mark for an enhanced effect.
+New Hunted particle.
+Javelin Toss
+Visuals updated to be more readable (lowered height on Z-Axis).
+Removed:
+Visually extending way far beyond actual hit range.
+Maximum bonus damage range reduced to 1300 from 1500 (maximum travel distance unchanged).
+Minimum damage reduced to 50 / 75 / 100 / 125 / 150
+(+ 40% AP)
+from 55 / 95 / 140 / 185 / 230
+(+ 65% AP)
+.
+Maximum damage
+「 increased to 300% from 250 」
+「 changed to 150 / 225 / 300 / 375 / 450
+(+ 120% AP)
+from 137 / 237 / 350 / 462 / 575
+(+ 162.
+5
+% AP)
+」
+.
+Projectile width reduced to 30 from 60.
+Bushwhack
+New Effect:
+Team color indicators.
+Ground visual indicator updated to be more noticeable.
+Trap targeting changed to single from area-of-effect.
+Damage changed to 20 / 40 / 60 / 80 / 100
+(+ 12 / 14 / 16 / 18 / 20%
+(+ 2% per 100 AP)
+of target's current health)
+from 80 / 125 / 170 / 215 / 260
+(+ 40% AP)
+.
+Damage over time duration increased to 4 seconds from 2.
+Duration reduced to 2 minutes from 4.
+Mana cost reduced to 40 / 45 / 50 / 55 / 60 from 60 / 75 / 90 / 105 / 120.
+Cooldown reduced to 17 / 15 / 13 / 11 / 9 seconds from 18 at all ranks.
+Sight duration reduced to 4 seconds from 8.
+Removed:
+Reducing target's resistances.
+Removed:
+Revealing stealthed units.
+Primal Surge
+Heal changed to 45 / 85 / 125 / 165 / 205
+(+ 50% AP)
+from 50 / 85 / 120 / 155 / 190
+(+ 70% AP)
+.
+Mana cost reduced to 60 / 75 / 90 / 105 / 120 from 60 / 80 / 100 / 120 / 140.
+Cooldown increased to 12 seconds from 10.
+Takedown
+Enhanced attack damage changed to magic from physical.
+New Effect:
+Enhanced attack gains 75 bonus range.
+New Effect:
+Hunted
+targets take 33% bonus damage.
+Minimum damage changed to 4 / 20 / 50 / 90
+(+ 100% AD)
+(+ 24% AP)
+from 40 / 70 / 100
+(+ 100% AD)
+.
+Maximum damage
+「 reduced to 250% from 300 」
+「 changed to 10 / 50 / 125 / 225
+(+ 250% AD)
+(+ 60% AP)
+from 120 / 210 / 300
+(+ 300% AD)
+」
+.
+Pounce
+Targeting changed to cursor direction from where Nidalee is facing.
+New Effect:
+Targeting changes to single if cursor is near a
+Hunted
+target within 700 range.
+New Effect:
+Visual and audio cues when
+Hunted Pounce
+is available on a target.
+New Effect:
+Killing a unit in cougar form reduces current cooldown to 1 second if higher than that when unit dies.
+Damage changed to 50 / 100 / 150 / 200
+(+ 30% AP)
+from 125 / 175 / 225
+(+ 40% AP)
+.
+Swipe
+Targeting changed to cursor direction from where Nidalee is facing.
+New Effect:
+Hitting
+Hunted
+targets reduces
+Pounce
+'s current cooldown to 1 second if higher than that when doing so.
+Damage changed to 70 / 130 / 190 / 250
+(+ 45% AP)
+from 150 / 225 / 300
+(+ 60% AP)
+.
+Cooldown reduced to 5 seconds from 6.
+Aspect of the Cougar
+New Effect:
+Available at level 1 (can be ranked up 3 times).
+New Effect:
+Cougar abilities scale with rank-up.
+New Effect:
+Vision is granted as standard.
+Removed:
+Granting 20 bonus movement speed while in cougar form.
+Cooldown reduced to 3 seconds at all ranks from 4.
+V4.5
+Stats
+Armor increased to 15 from 11.
+V4.1
+Bushwhack
+New Effect:
+Casting inside walls will place the traps in the nearest available ground.
+V3.14
+Javelin Toss
+Bonus damage calculation start changed to projectile's cast point from Nidalee's location when target is hit.
+Bonus damage gain start changed to after exceeding Nidalee's human form basic attack range from Nidalee herself (maximum damage unchanged).
+Bushwhack
+Sight duration reduced to 8 seconds from 12.
+Resistances reductions duration reduced to 8 seconds from 12.
+V3.12
+Takedown
+Bug Fix:
+Sometimes becoming a ranged ability.
+V3.11
+Twisted Treeline
+Bushwhack
+Duration reduced to 2 minutes from 4.
+Sight duration reduced to 6 seconds from 12.
+Resistances reductions duration reduced to 6 seconds from 12.
+Dominion
+Bushwhack
+Duration reduced to 2 minutes from 4.
+Sight duration reduced to 6 seconds from 12.
+Resistances reductions duration reduced to 6 seconds from 12.
+V3.03
+Stats
+Magic resistance per level reduced to 0 from 0.
+75
+.
+Swipe
+AP ratio increased to
+(+ 60% AP)
+from
+(+ 40% AP)
+.
+Aspect of the Cougar
+Removed:
+Granting 10 / 20 / 30 bonus resistances while in cougar form.
+V1.0.0.153
+Visual Update
+New models and textures for all skins,
+New splash artwork for
+Original Nidalee
+.
+V1.0.0.152
+Stats
+Movement speed increased to 335 from 310.
+V1.0.0.147b
+Aspect of the Cougar
+Cougar form attack range increased to 125 from 100.
+V1.0.0.141
+Pounce
+New Effect:
+Movement commands issued within dash distance are canceled.
+Removed:
+Nidalee walking backwards after dashing.
+V1.0.0.130
+Bushwhack
+Bug Fix:
+Not damaging targets.
+Bug Fix:
+Not revealing targets.
+New Effect:
+Reveals stealthed units.
+Bug Fix:
+Reducing resistances from units not meant to be affected by the traps.
+V1.0.0.125
+Bushwhack
+New Effect:
+Shows triggering area of effect when cast.
+Pounce
+Cooldown reduced to 3.
+5
+seconds from 4.
+Aspect of the Cougar
+.
+Bonus resistances increased to 10 / 20 / 30 from 10 / 15 / 20.
+V1.0.0.124
+General
+Ability tooltips updated.
+Javelin Toss
+Cooldown reduced to 6 seconds from 7.
+Mana cost reduced to 50 / 60 / 70 / 80 / 90 from 60 / 75 / 90 / 105 / 120.
+Takedown
+Maximum bonus damage increased to 300% from 200.
+Pounce
+Cooldown increased to 4 seconds from 3.
+New Effect:
+Is affected by cooldown reduction.
+Primal Surge
+Mana cost increased to 60 / 80 / 100 / 120 / 140 from 65 / 70 / 75 / 80 / 85.
+Heal changed to 50 / 85 / 120 / 155 / 190 from 60 / 90 / 120 / 150 / 180.
+AP ratio reduced to
+(+ 70% AP)
+from
+(+ 125% AP)
+.
+Swipe
+AP ratio increased to
+(+ 40% AP)
+from
+(+ 20% AP)
+.
+Aspect of the Cougar
+Removed:
+Granting 10% bonus dodge chance while in cougar form.
+New Effect:
+Grants 10 / 15 / 20 bonus resistances while in cougar form.
+V1.0.0.123
+Bushwhack
+Reveal particle effect updated.
+Bug Fix:
+Reducing target's base resistances instead of the intended total ones.
+V1.0.0.120
+Javelin Toss
+Bug Fix:
+Not targeting specified location when cast immediately after swapping to human form.
+Bushwhack
+Bug Fix:
+Not targeting specified location when cast immediately after swapping to human form.
+V1.0.0.107
+General
+Bug Fix:
+Cougar form having lower attack damage than human one.
+V1.0.0.106
+Pounce
+Removed:
+Dealing damage when dash is interrupted by displacements.
+V1.0.0.105
+Javelin Toss
+New Effect:
+Projectile travels in target direction if targeting outside maximum cast range.
+Bug Fix:
+Not hitting stealthed champions.
+V1.0.0.103
+Stats
+Attack damage increased to 49 from 46.
+V1.0.0.100
+Takedown
+Bug Fix:
+Death Recap display.
+Pounce
+Removed:
+Casting while rooted.
+Aspect of the Cougar
+Tooltip updated.
+V1.0.0.99
+Javelin Toss
+Tooltip updated.
+V1.0.0.98
+Swipe
+Bug Fix:
+Damage calculation occasionally not including AP ratio.
+Takedown
+Removed:
+Interaction with dodge chance.
+New Effect:
+Resets Nidalee's basic attack timer on-cast.
+V1.0.0.87
+Javelin Toss
+AP ratio increased to
+(+ 65% AP)
+from
+(+ 55% AP)
+.
+Primal Surge
+Heal reduced to 60 / 90 / 120 / 150 / 180 from 75 / 120 / 165 / 210 / 255.
+AP ratio increased to
+(+ 125% AP)
+from
+(+ 80% AP)
+.
+V1.0.0.85
+Pounce
+Removed:
+Interaction with cooldown reduction.
+Cooldown changed to static (3 seconds).
+V1.0.0.79
+Prowl
+Bonus movement speed reduced to 15% from 25.
+Javelin Toss
+AP ratio increased to
+(+ 55% AP)
+from
+(+ 40% AP)
+.
+Primal Surge
+Mana cost increased to 55 / 60 / 65 / 70 / 75 from 50 at all ranks.
+V1.0.0.75
+Pounce
+Bug Fix:
+Casting while rooted.
+V1.0.0.74
+Bushwhack
+Bug Fix:
+Units hit flickering if they are stealthed.
+V1.0.0.72
+Javelin Toss
+Projectile speed increased.
+Pounce
+New animation.
+V1.0.0.63
+Added
+Trivia
+[
+edit
+|
+edit source
+]
+Nidalee is the first champion to have more than 4 active
+abilities
+.
+Nidalee,
+Elise
+,
+Gnar
+,
+Jayce
+, and
+Kayle
+are the only champions to be conditionally considered both
+ranged
+and
+melee
+.
+Nidalee was the first champion to feature a transformation ability (e.g.
+Elise
+,
+Gnar
+Shyvana
+,
+Swain
+).
+Nidalee has four different running animations (human run, human
+brush
+sprint, cougar run, cougar brush sprint).
+Pounce
+was the first ability to feature a static cooldown (was removed in
+V1.0.0.124
+).
+Nidalee used to have a
+hidden passive
+where nearby allied champions gain
+5
+bonus
+experience
+every 5 seconds
+if Nidalee is
+higher-leveled
+(a double-entendre).
+In older versions of the game,
+Javelin Toss
+was the highest-damage single-hit spell in the game.
+Nidalee was deemed overpowered in the
+Ultra Rapid Fire
+game mode (2014 edition) and was ultimately disabled in non-custom games.
+After her visual rework, her feline forms received morphological features from cougars'
+bigger relatives
+, like mane, higher shoulders than haunches, long skull & jaws, & occasionally long fangs of
+sabre-toothed cats
+and other
+cat-like
+relatives
+.
+Nidalee is one of the first champions to have one skin for each of the three big annual events of the year:
+Lunar Revel
+,
+Harrowing
+,
+Snowdown Showdown
+. She received her
+Warring Kingdoms
+skin alongside
+Katarina's
+in
+Warring Kingdoms 2015
+.
+Given that she is a
+wild child
+, it is unknown how Nidalee could have learnt to speak languages fluently; since in the real world, feral humans who learn their first language
+late in life
+never master the linguistic aspects of phonology, morphology, and syntax.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Specialist
+Specialists
+are champions that do not fit into the "neat little boxes" of the other classes, and represent Riot's ideal of having a champion roster with a lot of distinctiveness and diversity.
+Examples
+Azir
+Teemo
+Heimerdinger
+Singed
+Gangplank
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Brush
+Brush
+is a common terrain feature that obstructs
+sight
+for any unit outside of it.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Javelin Toss
+COOLDOWN:
+6
+Active:
+Nidalee
+hurls a javelin in the target direction that deals
+magic damage
+to the first enemy hit based on distance travelled.
+League of Legends content
+Bushwhack
+COOLDOWN:
+13 / 12 / 11 / 10 / 9
+Active:
+Nidalee
+lays a
+stealthed
+that will spring upon contact with an enemy, continually dealing
+magic damage
+over a few seconds.
+League of Legends content
+True sight
+True Sight
+reveals units through
+fog of war
+,
+brush
+, and
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Takedown
+COOLDOWN:
+6
+Active:
+Nidalee's
+next basic attack within some time will gain
+bonus
+range
+and deal
+magic damage
+based on the
+target's
+missing
+health
+.
+Hunted
+Bonus:
+A
+Hunted
+target hit will take
+increased damage
+.
+League of Legends content
+Pounce
+COOLDOWN:
+6
+Passive:
+Killing an enemy or using
+Pounce's
+Hunted
+bonus will
+reduce
+Pounce's
+cooldown.
+Active:
+Nidalee
+dashes in the target direction, dealing
+magic damage
+to nearby enemies upon arrival.
+Hunted
+Bonus:
+Pounce
+has increased range when cast near
+Hunted
+targets.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Stealthed trap
+Stealthed traps
+are
+units
+that are hidden from enemy
+vision
+for a set duration until triggered by an enemy. They can only be revealed by
+True Sight
+,
+Control Wards
+,
+Oracle Lens
+, and
+A Harmless Scarecrow
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Persistent damage
+Persistent damage
+is the damage type dealt primarily by damage over time (DoT) abilities. Most sources of
+persistent damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+persistent damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 5% whenever you deal an instance of
+persistent damage
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Aspect of the Cougar
+COOLDOWN:
+3
+Active:
+Nidalee
+switches between her
+Human Form
+and
+Cougar Form
+.
+Cougar Form:
+Nidalee
+transforms into a cougar, gaining
+melee
+attacks and access to her cougar abilities.
+Human Form:
+Nidalee
+transforms into a human, gaining
+ranged
+attacks and access to her human abilities. While in
+Human Form
+, applying a
+Hunted
+mark will
+reset
+Aspect of the Cougar's
+cooldown.
+Nidalee
+begins with one rank in
+Aspect of the Cougar
+.
+Cougar Form's
+abilities scale based on
+Aspect of the Cougar's
+rank.
+League of Legends content
+Primal Surge
+COOLDOWN:
+12
+Active:
+Nidalee
+revitalizes herself or the target allied champion, granting
+bonus
+attack speed
+for a few seconds and
+healing
+the target based on
+their
+missing
+health
+.
+League of Legends content
+Swipe
+COOLDOWN:
+6
+Active:
+Nidalee
+slashes in an arc in the target direction, dealing
+magic damage
+to enemies hit.
+League of Legends content
+Prowl
+Innate - Prowl:
+While in
+brush
+,
+Nidalee
+gains
+bonus
+movement speed
+for a short time, increased when facing a nearby enemy
+champion
+.
+Innate - Hunt:
+Hitting nearby
+monsters
+or enemy champions with
+Javelin Toss
+or
+Bushwhack
+will apply a
+Hunted
+mark and
+reveal
+them for a few seconds. During this time,
+Nidalee
+gains
+bonus
+movement speed
+, increased when facing a
+Hunted
+target.
+Nidalee's
+first use of
+Takedown
+and
+Pounce
+against
+Hunted
+targets are empowered.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Aspect of the Cougar
+COOLDOWN:
+3
+Active:
+Nidalee
+switches between her
+Human Form
+and
+Cougar Form
+.
+Cougar Form:
+Nidalee
+transforms into a cougar, gaining
+melee
+attacks and access to her cougar abilities.
+Human Form:
+Nidalee
+transforms into a human, gaining
+ranged
+attacks and access to her human abilities. While in
+Human Form
+, applying a
+Hunted
+mark will
+reset
+Aspect of the Cougar's
+cooldown.
+Nidalee
+begins with one rank in
+Aspect of the Cougar
+.
+Cougar Form's
+abilities scale based on
+Aspect of the Cougar's
+rank.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+References
+[
+edit
+|
+edit source
+]
+↑
+Nidalee's profile page
+at
+LeagueOfLegends.com

@@ -1,0 +1,2714 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Annie
+the Dark Child
+Release date
+2009-02-21
+Last changed
+V14.20
+Class(es)
+Burst
+Legacy
+Mage
+Support
+Position(s)
+Middle
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+450
+|
+260
+Crafting
++
+270
+Ratings
+Damage
+3
+Toughness
+1
+Control
+3
+Mobility
+1
+Utility
+2
+Style
+Difficulty
+Annie
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Annie
+Base statistics
+Edit
+Health
+560
++102
+Mana
+418
++25
+Health regen. (per 5s)
+5.5
++0.55
+Mana regen. (per 5s)
+8
++0.8
+Armor
+19
++4.7
+Attack damage
+50
++2.65
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+625
+Attack speed
+Base AS
+0.61
+Attack windup
+19.579%
+AS ratio
+0.625
+Bonus AS
++1.36
+%
+Missile speed
+1500
+Unit radius
+Gameplay radius
+55
+Selection radius
+100
+Pathing radius
+30
+Acq. radius
+625
+Special statistics
+Damage Dealt
+-5%
+Damage Received
++5%
+Shielding
+-10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-10%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Pyromania
+Innate:
+Annie's
+spell-casts generate stacks. At maximum stacks, her next offensive spell will consume them to
+stun
+the target.
+Innate - Pyromania:
+Annie
+generates a
+stack
+of
+Pyromania
+whenever she hits an enemy with
+Disintegrate
+or casts her other
+abilities
+, stacking up to 4 times, at which she gains
+Energized
+.
+Energized:
+Annie
+empowers her next cast of
+Disintegrate
+,
+Incinerate
+, or
+Summon: Tibbers
+to consume all
+Pyromania
+stacks to
+stun
+enemies hit for
+1.
+25
+/ 1.
+5
+/ 1.
+75
+(based on level)
+seconds.
+Annie
+gains maximum stacks of
+Pyromania
+when the game starts and upon
+respawning
+. She will lose
+Energized
+and all
+Pyromania
+stacks upon
+death
+.
+Info
+Targeting input
+Passive
+Counters
+Spell shield
+Blocked
+Annie
+does not lose any stacks upon entering or exiting
+resurrection
+.
+Stacks are gained even if the ability is blocked by
+spell shield
+.
+Pyromania's
+current stacks are represented by a counter under
+Annie's
+health bar
+, visible to all players. It lights up when the empowered effect is available.
+Tips & Tricks
+The stun applies to the first ability that lands when the stun is available. If you cast
+Disintegrate
+followed by
+Incinerate
+while the stun is available and
+Incinerate
+lands first, the stun will be applied through
+Incinerate
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Stun duration changed to
+1 / 1.
+25
+/ 1.
+5
+(based on level)
+seconds.
+Video
+Edit
+Disintegrate
+COST:
+60 / 65 / 70 / 75 / 80 mana
+COOLDOWN:
+4
+CAST TIME:
+0.
+25
+TARGET RANGE:
+625
+Active:
+Annie
+hurls a fireball at the target enemy that deals
+magic damage
+. If this kills the target, the
+cooldown
+is reduced and the
+mana cost
+is refunded.
+Active:
+Annie
+hurls a fireball at the target enemy that deals
+magic damage
+.
+Magic Damage:
+70 / 105 / 140 / 175 / 210
+(+ 75% AP)
+If this kills the target, 50% of the
+cooldown
+is reduced and the
+mana cost
+is refunded.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 60 / 95 / 130 / 165 / 200.
+AP ratio changed to
+65% AP
+.
+Video
+Edit
+Incinerate
+COST:
+90 / 95 / 100 / 105 / 110 mana
+COOLDOWN:
+8
+CAST TIME:
+0.
+25
+EFFECT RADIUS:
+600
+ANGLE:
+49.
+52
+°
+Active:
+Annie
+casts a blazing cone of fire, dealing
+magic damage
+to enemies hit.
+Active:
+Annie
+releases fire in a cone in the target direction, dealing
+magic damage
+to enemies hit.
+Magic Damage:
+70 / 115 / 160 / 205 / 250
+(+ 85% AP)
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Incinerate
+can hit targets behind
+Annie
+, provided their radius intersects with the cone hitbox.
+This ability will cast from wherever the caster is at the end of the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 60 / 100 / 140 / 180 / 220.
+AP ratio changed to
+75% AP
+.
+Video
+Edit
+Molten Shield
+COST:
+60 / 65 / 70 / 75 / 80 mana
+COOLDOWN:
+12 / 11.
+5
+/ 11 / 10.
+5
+/ 10
+CAST TIME:
+none
+TARGET RANGE:
+800
+Active:
+Annie
+grants herself or an allied champion—and
+Tibbers
+—a
+shield
+with a burst of
+move speed
+. While the shield holds, enemies who
+basic attack
+it take
+magic damage
+.
+Active:
+Annie
+grants herself or the target allied
+champion
+and
+Tibbers
+a
+shield
+for 3 seconds and
+20% − 50% (based on level)
+bonus
+movement speed
+that decays over 1.
+5
+seconds.
+Shield Strength:
+60 / 95 / 130 / 165 / 200
+(+ 40% AP)
+While
+Molten Shield
+is active, enemies that deal damage to it take
+magic damage
+. This may only occur once per enemy per cast for each active
+Molten Shield
+.
+Magic Damage:
+25 / 35 / 45 / 55 / 65
+(+ 40% AP)
+Info
+Targeting input
+Unit
+/
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Molten Shield
+casts on ally if targeted or if very close to targeting them (within a range of 225); otherwise self casts.
+Molten Shield
+does not deal damage to
+turrets
+when attacked by them.
+Molten Shield
+has a
+forgiveness radius
+of 175 units.
+Attacks that are
+dodged
+or
+miss
+against the shielded target will not cause the shield to deal damage, while
+blocked
+attacks still deal damage to the attacker.
+The reaction damage does not trigger from
+Teemo's
+Noxious Trap
+and
+Shaco's
+Jack in the Box
+.
+(bug)
+Video
+Edit
+Summon: Tibbers
+COST:
+100 Mana
+COOLDOWN
+:
+130 / 115 / 100
+CAST TIME:
+0.
+25
+TARGET RANGE:
+600
+EFFECT RADIUS:
+250
+/
+350
+Active:
+Annie
+summons her bear
+Tibbers
+, dealing
+magic damage
+to enemies in the area.
+Tibbers
+deals
+magic damage
+with his attacks and also burns nearby enemies. Re-cast to direct him.
+Active:
+Annie
+summons
+Tibbers
+to the target location in a burst of flame, dealing
+magic damage
+to enemies near him.
+Summon: Tibbers
+can be recast at any time while
+Tibbers
+is alive.
+Initial Magic Damage:
+150 / 275 / 400
+(+ 75% AP)
+Tibbers
+then remains on the field as a controllable
+pet
+for up to 45 seconds.
+Recast:
+Annie
+directs
+Tibbers
+to the target location.
+Summon: Tibber's recast can be used while affected by
+cast-inhibiting crowd control
+. See
+Pets
+for more details about
+Tibbers
+.
+"Get 'em, Tibbers!"
+Info
+Targeting input
+Location
+Damage type
+Type
+See Notes
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Burst of flame deals
+area damage
+and
+Tibbers'
+basic attacks apply
+pet damage
+.
+Tibbers will
+blink
+back next to
+Annie
+if he gets too far away.
+Map-Specific Differences
+Arena
+differences
+edit
+Tibbers base health changed to 50% value.
+Initial base damage changed to 125 / 225 / 325.
+Tibbers base attack damage changed to 25 / 50 / 75.
+Tibbers attack damage AP ratio changed to
+10% AP
+.
+Tibbers aura base damage changed to 15 / 20 / 25.
+Video
+Pets
+[
+edit
+|
+edit source
+]
+Tibbers
+Bounty
+Gold
+50
+Exp
+0
+Statistics
+Health
+1150 − 3500 (based on level)
+(+ 50% AP)
+Magic damage
+50 / 75 / 100
+(+ 15% AP)
+Attack speed
+0.
+625
+Range
+150
+Armor
+30 − 90 (based on level)
+Magic resist
+30 − 90 (based on level)
+Move speed
+350 / 375 / 400
+Control type
+R
+or
+Alt + Right-Click
+Target type
+Minion
+On-hit effects
+Tibbers'
+attacks are mitigated by
+block
+,
+dodge
+, and
+blind
+, as well as stopped by
+Disarm
+.
+Spell effects
+Tibbers'
+basic attacks apply
+spell effects
+as
+pet damage
+but his flaming aura applies spell effects as
+persistent area damage
+.
+Abilities
+Flame Aura
+Tibbers
+deals
+5 / 7.
+5
+/ 10
+(+ 3% AP)
+magic damage
+to all enemies within a 350 unit radius every 0.
+25
+seconds.
+Recovery
+While out of combat for at least 5 seconds
+Tibbers
+heals
+himself for
+6%
+maximum
+health
+per second and gains
+250
+bonus
+movement speed
+when moving towards
+Annie's
+location from further than 600 units away, decreased to
+100
+bonus
+movement speed
+from further than 150 units.
+Enrage
+Tibbers
+enrages for 3 seconds on summon and when
+Pyromania
+stuns
+an enemy
+champion
+. During this time,
+Tibbers
+becomes
+ghosted
+and gains
+100%
+bonus
+movement speed
+, which decays over the duration. His
+base
+attack speed
+is also increased to
+1.
+736
+for his next 5 attacks while enraged, but decreasing with each attack until returning at his normal attack speed.
+There can be two formulas that can display
+Tibbers'
+attack speed with approximated values:
+「
+1.
+736
+/ 1.
+536
+/ 1.
+307
+/ 1.
+043
+/ 0.
+739
+(based on Attacks Consumed)
+」
+「
+1.
+736
+/ 1.
+536
+/ 1.
+307
+/ 1.
+043
+/ 0.
+739
+(based on Attacks Consumed)
+」
+.
+Revenge
+If
+Annie
+dies while
+Tibbers
+is active, he instantly heals himself for
+50% of his
+missing
+health
+, becomes
+enraged
+for 10 seconds, and will target
+Annie's
+killer. His
+health
+will rapidly decay over time and if
+Annie's
+killer is too far away, he'll target the nearest lowest-health enemy
+champion
+instead.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Annie (Collection)
+.
+Original
+View in 3D
+260
+21.02.2009
+Dangerous, yet disarmingly precocious, Annie is a child mage with immense pyromantic power. Even in the shadows of the mountains north of Noxus, she is a magical outlier. Her natural affinity for fire manifested early in life through unpredictable, emotional outbursts, though she eventually learned to control these 'playful tricks.' Her favorite includes the summoning of her beloved teddy bear, Tibbers, as a fiery protector. Lost in the perpetual innocence of childhood, Annie wanders the dark forests, always looking for someone to play with.
+Cristina Milizia
+Michal Ivan, Puppetworks Animation Studio
+Loot eligible
+Goth
+View in 3D
+Special
+27.10.2009
+Her mother is dead. Her father is dead. But Annie remains, seeing beauty in the dark.
+Cristina Milizia
+Julia Yurtsev
+Goth
+Loot ineligible
+New SFX/VFX
+Red Riding
+View in 3D
+520
+27.04.2010
+Over the river and through the woods, to grandmother's house Annie went—not once suspecting that Warwick the Wolf was waiting for her. Of course, Warwick didn't know Annie could shoot balls of magic flame or summon a fiery bear, so really this was a larger issue with communication.
+Cristina Milizia
+Unknown artist
+Storybook
+Loot eligible
+Legacy
+Annie in Wonderland
+View in 3D
+1820
+16.08.2010
+Down the rabbit hole Annie went, following the White Tibbers she had spied at the riverbank, until she emerged in a world much more curious than the one she had left. “Perhaps I shall stay,” she said to herself—and so she did.
+Cristina Milizia
+Unknown artist
+Storybook
+Loot eligible
+Legacy
+New SFX/VFX
+Prom Queen
+View in 3D
+520
+07.02.2011
+Cristina Milizia
+Unknown artist
+Day Job
+Loot eligible
+Legacy
+Frostfire
+View in 3D
+975
+24.05.2011
+Annie is a Winterlands prodigy—a child born with both innate magic and a spirit guardian, the first of her kind in many generations. Though still young, she has already become a joyous fixture in the halls of the Poro King.
+Cristina Milizia
+Unknown artist
+Winter Wonder
+Loot eligible
+New SFX/VFX
+Reverse
+View in 3D
+975
+06.09.2011
+Cristina Milizia
+Kienan 'Knockwurst' Lafferty
+Legacy
+Loot eligible
+FrankenTibbers
+View in 3D
+975
+19.10.2011
+He's a towering abomination of science and magic. She's an eight year old with a beehive hairdo, and undiagnosed pyromania. Name a more iconic duo. I'll wait.
+Cristina Milizia
+Kienan 'Knockwurst' Lafferty
+Trick-or-Treat
+Loot eligible
+Legacy
+New SFX/VFX
+Panda
+View in 3D
+975
+08.02.2013
+Annie is a big part of Lunar Revel festivities, using her pyromancy to set off scores of high powered fireworks. Her panda bear Tibbers hauls the rockets for her, mauling anyone who tries to make off with even the smallest sparkler.
+Cristina Milizia
+Michelle Hoefener
+Lunar Revel: Firecracker
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Sweetheart
+View in 3D
+750
+13.02.2015
+Sugar, spice, and everything nice: that's what Sweetheart Annie is made of! Tibbers is made of fire-resistant cotton blend and the insatiable hunger of a shadow bear, but he's still good for a hug or two. Probably just one, actually.
+Cristina Milizia
+Suke 'hugehugesword' Su
+Heartbreakers
+Loot eligible
+Legacy
+Hextech
+View in 3D
+Special
+15.03.2016
+A scientific prodigy even among the intellectuals of the Hextech renaissance, Annie's beautiful, living warbears are among the most prized innovations of the era. Her most mysterious creation, Tibbers, is always close at hand—her confidant, friend, and monstrous bodyguard.
+Cristina Milizia
+Christian Fell
+Hextech
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Super Galaxy
+View in 3D
+1350
+16.10.2017
+The youngest human ever to be named a Super Galaxy cadet, Annie proved her mettle the day she turned her teddy bear into a self-piloting mech. Despite serious concerns over her highly combustible designs and volatile programming, Annie's Mecha-Tibbers went into full production. Desperate times call for destructive measures.
+Cristina Milizia
+Mist XG
+Super Galaxy
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Annie-Versary
+View in 3D
+Special
+27.10.2019
+Ten years of epic outplays, last second turnarounds, and brutal throws - and we couldn't have done it without each and every one of you. Annie is ready to usher in the festivities, and Teemo… has been lifting, I see. Happy 10!
+Cristina Milizia
+Horace 'Hozure' Hsu
+Surprise Party
+Loot ineligible
+New SFX/VFX
+New Animations/Recall
+Lunar Beast
+View in 3D
+1350
+04.02.2021
+Everyone was shocked when Annie was chosen as Ox Clan's tech operative. A precocious prodigy, Annie serves as the team's recon strategist, making sure the parade route is clear of civilians.
+Cristina Milizia
+Sangsoo Jeong
+Lunar Beast
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Lunar Beast Annie Chromas
+Amethyst
+Citrine
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Vitality
+Cafe Cuties
+View in 3D
+1350
+02.12.2021
+Daughter of the cafe's owner and an accomplished pastry mage wunderkind, Annie has a sweet tooth to be reckoned with. Though her occasional hangry tantrums send her enchanted gummy bear scouring the cafe for any morsel of food fit for his master, with a full belly Annie is as sweet as sugar!
+Cristina Milizia
+Sora Kim, West Studio
+Cafe Cuties
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Cafe Cuties Annie Chromas
+Aquamarine
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Fright Night
+View in 3D
+1350
+22.09.2022
+Awful Orphan Annie comes home from school each day
+A lonely little lady with whom no one will play
+Now all her family's fled (or dead or gone away)
+She can depend on Mr. Tibbers to make her new friends stay!
+Cristina Milizia
+Julia Yurtsev
+Fright Night
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Fright Night Annie Chromas
+Aquamarine
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Winterblessed
+View in 3D
+1350
+06.12.2023
+Senna set off to search for the Aurora, only to encounter the child, Annie, outside her estate. Her most cherished friend was her family's pet bear, who recently died. Annie wished for Polaris to bring him back to life, but Senna refused, and instead presented the bear in toy form. "Loss is a part of life, but his memories will live inside this gift.
+Cristina Milizia
+Exia Xiaotong, West Studio
+Winterblessed
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Winterblessed Annie Chromas
+Aquamarine
+Catseye
+Emerald
+Obsidian
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Wreathguard
+Battle Princess
+View in 3D
+1350
+28.08.2024
+Annie revealed her magical talents before Telum's royal court, transforming her dear teddy bear into a knight of steel and flame. Though a near-fatal display for many aristocrats, Queen Fiora embraced the child's potential and named her successor. Annie trains to triumph in a future Coronation… and causes a fair amount of mischief for her regal mentor.
+Cristina Milizia
+Roanna Peroz, Kudos Productions
+Battle Queens
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Battle Princess Annie Chromas
+Citrine
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.20
+Molten Shield
+Targeting forgiveness is now handled at the engine-level rather than the script-level.
+Forgiveness radius reduced to 175 units from 225.
+V14.4
+Molten Shield
+Bug Fix:
+No longer reflects the damage to an allied
+Nami
+that casted
+Tidecaller's Blessing
+on her right before
+Tibbers
+despawned.
+V13.24
+Hextech Annie
+Bug Fix:
+Fire VFX in her idle animation no longer disappears momentarily.
+V13.22
+Stats
+Base attack speed increased to 0.
+61
+from 0.
+579
+.
+Attack speed ratio increased to 0.
+625
+from 0.
+579
+.
+Basic attack missile speed increased to 1500 from 1200.
+V13.15
+Summon: Tibbers
+Tibbers base resistances changed to
+30 − 90 (based on level)
+from 30 / 60 / 90.
+Removed:
+Tibbers' resistances no longer scale with
+5% AP
+.
+Tibbers base health changed to
+1150 − 3500 (based on level)
+from 1300 / 2200 / 3100.
+Tibbers health AP ratio reduced to
+50% AP
+from
+75% AP
+.
+Bug Fix:
+Pet can now consistently be commanded to attack inhibitors and the Nexus via their controller spells or automatic attack priorities.
+This was fixed but not documented in
+V13.14
+.
+V13.14
+Summon: Tibbers
+Undocumented/Bug Fix:
+Pet can now consistently be commanded to attack inhibitors and the Nexus via their controller spells or automatic attack priorities.
+This fix was later documented in
+V13.15
+.
+V13.13
+Disintegrate
+Base damage reduced to 70 / 105 / 140 / 175 / 210 from 80 / 115 / 150 / 185 / 220.
+AP ratio reduced to
+75% AP
+from
+80% AP
+.
+V13.7
+Molten Shield
+Cooldown increased to 12 / 11.
+5
+/ 11 / 10.
+5
+/ 10 seconds from 12 / 11 / 10 / 9 / 8.
+Base shield reduced to 60 / 95 / 130 / 165 / 200 from 60 / 100 / 140 / 180 / 220.
+Summon: Tibbers
+Bug Fix:
+Tibbers'
+enraged buff no longer returns to its original state if
+Incinerate
+was used to stun two or more enemies while he was being summoned.
+V13.5
+Molten Shield
+Bug Fix:
+Reflect damage now properly triggers
+Spellthief's Edge's
+Tribute.
+V13.4
+Stats
+Base health reduced to 560 from 594.
+Molten Shield
+Base reflect damage reduced to 25 / 35 / 45 / 55 / 65 from 30 / 45 / 60 / 75 / 90.
+Summon: Tibbers
+Cooldown increased to 130 / 115 / 100 seconds from 120 / 100 / 80.
+V13.3
+- February 10th Hotfix
+Stats
+Armor growth reduced to 4.
+7
+from 5.
+2
+.
+Molten Shield
+Mana cost increased to 60 / 65 / 70 / 75 / 80 from 40 at all ranks.
+Shield AP ratio reduced to
+40% AP
+from
+55% AP
+.
+V13.3
+Pyromania
+New Effect:
+Now gains maximum stacks upon game start and respawn.
+Molten Shield
+Cooldown reduced to 12 / 11 / 10 / 9 / 8 seconds from 14 / 13 / 12 / 11 / 10.
+New Effect:
+Now damages targets once per shield.
+Tibbers'
+shield is counted separately.
+New Effect:
+Now damages targets from all damage sources, instead of only basic attacks.
+Base shield increased to 60 / 100 / 140 / 180 / 220 from 40 / 85 / 130 / 175 / 220.
+Shield AP ratio increased to
+55% AP
+from
+35% AP
+.
+Base damage increased to 30 / 45 / 60 / 75 / 90 from 20 / 30 / 40 / 50 / 60.
+Damage AP ratio increased to
+40% AP
+from
+25% AP
+.
+Summon: Tibbers
+New Effect:
+Tibbers' health now scales with
+75% AP
+.
+New Effect:
+Tibbers' resistances now scales with
+5% AP
+.
+Tibbers movement speed increased to 350 / 375 / 400 from 350 at all ranks.
+V12.22
+Stats
+Attack damage growth increased to 2.
+65
+from 2.
+63
+.
+V12.14
+General
+Bug Fix:
+Knocked up/stunned animation is now correctly played.
+V12.12
+Disintegrate
+AP ratio increased to
+80% AP
+from
+75% AP
+.
+Summon: Tibbers
+Tibbers base health increased to 1300 / 2200 / 3100 from 1200 / 2100 / 3000.
+Tibbers resistances increased to 30 / 60 / 90 from 30 / 50 / 70.
+V12.10
+Stats
+Base health increased to 594 from 524.
+Health growth increased to 102 from 88.
+Armor growth increased to 5.
+2
+from 4.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Molten Shield
+Base shield reduced to 40 / 85 / 130 / 175 / 220 from 40 / 90 / 140 / 190 / 240.
+Shield AP ratio reduced to
+35% AP
+from
+40% AP
+.
+V12.7
+Summon: Tibbers
+Bug Fix:
+Tibbers
+no longer behaves improperly when hit by effects that reduce resistances.
+V12.1
+General
+New splash artwork for
+Goth Annie
+.
+V11.15
+Disintegrate
+AP ratio reduced to
+75% AP
+from
+80% AP
+.
+V11.8
+Incinerate
+Mana cost increased to 90 / 95 / 100 / 105 / 110 from 70 / 80 / 90 / 100 / 110.
+V11.1
+Stats
+Base attack damage reduced to 50 from 50.
+41
+.
+Attack damage growth increased to 2.
+63
+from 2.
+625
+.
+Base armor reduced to 19 from 19.
+22
+.
+V10.25
+Molten Shield
+Bonus movement speed reduced to
+20% − 50% (based on level)
+from
+30% − 60% (based on level)
+.
+V10.23
+Molten Shield
+Bug Fix:
+No longer castable on allies beyond its maximum range.
+V10.22
+Molten Shield
+Mana cost increased to 40 from 20.
+New Active:
+Annie
+grants herself or an ally within 800 units, and
+Tibbers
+a shield for 40 / 90 / 140 / 190 / 240
+(+ 40% AP)
+for 3 seconds and
+30% − 60% (based on level)
+bonus
+movement speed that decays over 1.
+5
+seconds. While the shield is active, enemies who basic attack it take 20 / 30 / 40 / 50 / 60
+(+ 20% AP)
+magic damage
+.
+Casts on ally if targeted or if very close to targeting them (within a range of 225); otherwise self casts.
+Old Active:
+Annie
+wraps herself and
+Tibbers
+in a fiery aura, gaining
+30% − 60% (based on level)
+bonus
+movement speed that decays over 1.
+5
+seconds, and reducing damage taken by 13 / 17 / 21 / 25 / 29% for 3 seconds. Enemies that damage
+Annie
+or
+Tibbers
+with basic attacks during this time are dealt 20 / 30 / 40 / 50 / 60
+(+ 20% AP)
+magic damage
+.
+Summon: Tibbers
+New Effect:
+New range indicator for Tibbers that snap back when exceeding its range. The indicator is centered around Tibbers and only appears when he is within 500 range of the teleport leash.
+V10.15
+Pyromania
+Bug Fix:
+No longer loses stacks upon revival if she's at full stacks.
+V10.10
+Molten Shield
+Damage reduction increased to 13 / 17 / 21 / 25 / 29% from 10 / 13 / 16 / 19 / 22%.
+Summon: Tibbers
+Tibbers base aura damage increased 20 / 30 / 40 from 10 / 15 / 20.
+Tibbers aura AP ratio increased to
+12% AP
+from
+10% AP
+.
+Undocumented:
+Tooltip now properly mentions a summon AP ratio of
+75% AP
+instead of
+65% AP
+.
+V10.8
+Incinerate
+Bug Fix:
+Can no longer be seen in Fog of War by enemies.
+V10.3
+General
+New visual effects.
+Basic attack new missiles and hits.
+Modernized idle fire effect.
+All skins cleaned up and matched for base changes.
+Pyromania
+Cleaned up indicator and added a hit overlay on those stunned.
+Disintegrate
+New missiles and hits
+Now has a small cast effect.
+Incinerate
+Updated cone AoE and made it match the actual hitbox.
+Added a hit effect.
+Made a new UI QuickCast indicator.
+Molten Shield
+Added and modernized the ripple effect often used in damage reduction shields.
+Summon: Tibbers
+New cast effect with better hitbox representation.
+New idle effects on Tibbers.
+Now has a fire effect all around Tibbers to indicate AoE damage range.
+Goth Annie
+Recolored from base.
+Annie in Wonderland
+Added additional VFXs to her kit, dance, and recall.
+Frostfire Annie
+Recolored from base.
+FrankenTibbers Annie
+Added recolored VFXs to match the skin.
+Panda Annie
+Cleaned up and matched for base changes.
+Hextech Annie
+Cleaned up and matched for base changes.
+Incinerate
+Hitbox adjusted.
+Super Galaxy Annie
+Cleaned up and matched for base changes.
+Annie-Versary
+Matched for base changes.
+V9.19
+Molten Shield
+Bonus movement speed increased to
+30% − 60% (based on level)
+from
+25% − 50.
+5
+% (based on level)
+.
+Cooldown reduced to 14 / 13 / 12 / 11 / 10 seconds from 15 at all ranks.
+Summon: Tibbers
+Bug Fix:
+Tibbers' aura will properly draw turret aggro onto
+Annie
+if it damages enemy champions.
+V9.18
+Molten Shield
+New Effect:
+Now grants
+25% − 50.
+5
+% (based on level)
+bonus
+movement speed that decays over 1.
+5
+seconds.
+Damage reduction reduced to 10 / 13 / 16 / 19 / 22% from 16 / 22 / 28 / 34 / 40%.
+Cooldown increased to 15 seconds from 10.
+Summon: Tibbers
+Undocumented:
+Summon AP ratio increased to
+75% AP
+from
+65% AP
+.
+V9.6
+Tibbers
+New Effect:
+Now triggers effects that are triggered by pets (i.e. on-ability-hit effects).
+It is also classified as basic attacks. The fire aura is classified as an ability hit and an AoE effect.
+V8.17
+Stats
+Base attack range increased to 625 from 575.
+V8.9
+Stats
+Base mana increased to 418 from 334.
+Mana growth reduced to 25 from 50.
+Base mana regeneration increased to 8 from 6.
+V8.3
+Stats
+Base health regeneration increased to 5.
+5
+from 5.
+424
+.
+V8.2
+Disintegrate
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V7.22
+Stats
+Base health increased to 524 from 511.
+68
+.
+Health growth increased to 88 from 76.
+V7.15
+Red Riding Annie
+and
+Sweetheart Annie
+Summon: Tibbers
+Bug Fix:
+Now use appropriate fire SFX when spawned.
+V7.9
+May 4th Hotfix
+General
+New Effect:
+Attack animations have received non-gameplay impacting adjustments.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V6.17
+Summon: Tibbers
+Tibbers' bonus movement and attack speed after
+Annie's
+death decays 20% faster.
+V6.16
+Summon: Tibbers
+Bug Fix:
+Fixed a bug where
+Tibbers
+would repeatedly cancel his bear slaps when you ordered him to attack a unit he was already attacking.
+V6.15
+Incinerate
+Bug Fix:
+Now properly stun (but don't damage) invulnerable targets when proccing
+Pyromania
+.
+Summon: Tibbers
+Bug Fix:
+Now properly stun (but don't damage) invulnerable targets when proccing
+Pyromania
+.
+V6.14
+Summon: Tibbers
+If Tibbers' target enters Fog of War, Tibbers now continues pathing to the target's last known location, rather than stopping in his tracks.
+Tibbers no longer forgets how to attack his target if crowd controlled.
+Bug Fix:
+Fixed a bug where Tibbers couldn't be ordered to attack Inhibitors or the Nexus, though he sometimes decided to do so on his own.
+Bug Fix:
+Fixed a bug where Tibbers could fail to go berserk if
+Annie
+gave him a command at the moment she died.
+V6.10
+Summon: Tibbers
+Bug Fix:
+Cooldown no longer resets to full if Tibbers lives past the end of the ability's cooldown.
+V6.9
+Pyromania
+The current stacks are displayed beneath Annie's overhead health bar, similar to
+Jhin's
+ammunition.
+Incinerate
+Bug Fix:
+Annie should no longer damage enemies who escape the area during the cast time.
+Note that if you escape the area in the same instant the ability resolves - it will still damage you, as with all other abilities.
+Range increased to 625 from 560.
+Molten Shield
+Duration reduced to 2.
+5
+seconds from 5.
+Damage return on being attacked increased to 30 / 45 / 60 / 75 / 90 from 20 / 30 / 40 / 50 / 60.
+Damage return ratio increased to
+(+ 30% AP)
+from
+(+ 20% AP)
+.
+Removed:
+Movement speed on Tibbers.
+Removed:
+Armor and Magic resistance.
+New Effect:
+Now grants 16 / 22 / 28 / 34 / 40% damage reduction.
+Summon: Tibbers
+Initial damage reduced to 150 / 275 / 400 from 175 / 300 / 425.
+Initial damage AP ratio reduced to
+65% AP
+from
+80% AP
+.
+Burn damage reduced to 10 / 15 / 20 from 20 / 30 / 40.
+Burn damage AP ratio reduced to
+10% AP
+from
+20% AP
+.
+Tibbers'
+on-hit damage reduced to 50 / 75 / 100 from 80 / 105 / 130.
+Tibbers'
+on-hit damage now scales with
+15% AP
+.
+Tibbers'
+attack range increased to 150 from 125.
+New Effect - Enrage:
+Tibbers gains 275% attack speed and 100% movement speed that decays over 3 seconds, as well as the ability to ignore unit collision, upon being summoned, when Annie dies and when she stuns a champion with
+Pyromania
+.
+New Effect:
+Tibbers will now persist after Annie's death. Tibbers must remain within 1200 units of Annie's body and will first prioritize her killer, then low health enemies (champions over minions).
+New Effect:
+Tibbers will now regenerate
+10% of his maximum health
+every second if he's been out of combat for at least 5 seconds.
+New Effect:
+Tibbers restores
+50% of his missing health
+when Annie dies, but then loses health periodically.
+New Effect:
+Tibbers now utilizes the large monster health bar instead of a minion health bar.
+AI improvements:
+Target reacquisition after being disabled.
+Target prioritization
+Longer leash range
+Annie can target herself to have him return to following her.
+V6.8
+General
+Splash artwork for
+Frostfire Annie
+updated to the Chinese art.
+Adjusted splash artwork for
+Goth Annie
+.
+V6.7
+General
+Splash artwork for
+Annie in Wonderland
+and
+Prom Queen Annie
+updated to the Chinese art.
+V5.21
+Summon: Tibbers
+/
+Molten Shield
+Fixed a bug where the reflected damage from Tibbers' Molten Shield wasn't triggering spell effects.
+V5.9
+General
+Attack range reduced to 575 from 625.
+V5.6
+Summon: Tibbers
+Tibbers aura base damage changed to 20 / 30 / 40 from 35 at all ranks.
+V5.2
+Molten Shield
+Armor and Magic Resist Bonus reduced to 10 / 20 / 30 / 40 / 50 from 20 / 30 / 40 / 50 / 60.
+Summon: Tibbers
+When Annie casts Molten Shield, Tibbers gains +300 bonus movement speed, decaying over 0.
+75
+seconds.
+Tibbers now also receives Molten Shield's Armor and Magic Resist if cast while he is summoned.
+Tibbers collision radius reduced.
+V4.13
+General
+Splash artwork for
+Red Riding Annie
+updated to the Chinese art.
+V4.5
+Stats
+Base armor increased to 12.5 from 8.5.
+V4.4
+Disintegrate
+Base damage reduced to 80 / 115 / 150 / 185 / 220 from 85 / 125 / 165 / 205 / 245.
+Ability power scaling increased to
+(+ 80% AP)
+from
+(+ 70% AP)
+.
+If Disintegrate kills its target, the cooldown is reduced by half (in addition to refunding the mana).
+Incinerate
+Base damage decreased to 70 / 115 / 160 / 205 / 250 from 80 / 130 / 180 / 230 / 280.
+Ability power ratio increased to
+(+ 85% AP)
+from
+(+ 75% AP)
+.
+Summon: Tibbers
+Base damage decreased to 175 / 300 / 425 from 200 / 325 / 450.
+Ability power ratio increased to
+(+ 80% AP)
+from
+(+ 70% AP)
+.
+V4.1
+Pyromania
+Stun duration reduced to
+1.
+25
+/ 1.
+5
+/ 1.
+75
+(based on level)
+seconds from 1.
+75
+at all levels.
+Summon: Tibbers
+Cooldown reduced to 120 / 100 / 80 seconds from 120.
+V3.8
+Summon: Tibbers
+Tibbers' health increased to 1200 / 2100 / 3000 from 1200 / 1600 / 2000.
+Tibbers' magic resist increased to 30 / 50 / 70 from 25 / 45 / 65.
+Mana cost reduced to 100 at all ranks from 125 / 175 / 225.
+V3.01
+General
+Visual update.
+New splash artwork for
+Original Annie
+and
+Goth Annie
+.
+V1.0.0.154
+Disintegrate
+Mana cost reduced to 60 / 65 / 70 / 75 / 80 from 60 / 70 / 80 / 90 / 100.
+Incinerate
+Targeting cone is now attached to Annie.
+Molten Shield
+Cooldown reduced to 10 seconds from 16.
+Duration reduced to 5 seconds from 8.
+V1.0.0.152
+Stats
+Movement speed increased to 335 from 310.
+V1.0.0.141
+Summon: Tibbers
+Reactivating the ability while
+Tibbers
+is active now allows you to control your pet, similar to Alt+Right Clicking.
+You will also see a self-only targeting particle when using this ability, depicting what command your pet is following.
+V1.0.0.139
+Stats
+Base health increased to 460 from 424.
+Incinerate
+Mana cost reduced to 70 / 80 / 90 / 100 / 110 from 80 / 95 / 110 / 125 / 140.
+Molten Shield
+Fixed a bug where it was returning damage to turrets.
+Duration reduced to 8 seconds from 15.
+Cooldown reduced to 16 seconds from 30.
+Mana cost reduced to 20 from 25.
+Armor and magic resist bonus increased to 20 / 30 / 40 / 50 / 60 from 10 / 20 / 30 / 40 / 50.
+V1.0.0.138
+Pyromania
+Now works like other charged passives; activating a spell with the stun no longer builds a charge, but the number of charges required to energize reduced to 4 from 5.
+V1.0.0.122
+Disintegrate
+Base damage reduced to 85 / 125 / 165 / 205 / 245 from 90 / 130 / 170 / 210 / 250.
+Ability power ratio reduced to
+(+ 70% AP)
+from
+(+ 75% AP)
+Incinerate
+Base damage reduced to 80 / 130 / 180 / 230 / 280 from 85 / 135 / 185 / 235 / 285.
+Ability power ratio reduced to
+(+ 75% AP)
+from
+(+ 80% AP)
+.
+V1.0.0.120
+Fixed a bug where
+Molten Shield
+damage wouldn't trigger if the damage done to Annie was absorbed by other shields.
+V1.0.0.118b
+General
+Reverted last patch's walking animation update.
+Disintegrate
+Base damage changed to 90 / 130 / 170 / 210 / 250 from 80 / 125 / 170 / 215 / 260.
+Ability power ratio increased to
+(+ 75% AP)
+from
+(+ 60% AP)
+.
+Mana cost reduced to 60 / 70 / 80 / 90 / 100 from 60 / 75 / 90 / 105 / 120.
+Incinerate
+Ability power ratio increased to
+(+ 80% AP)
+from
+(+ 60% AP)
+.
+Base damage reduced to 85 / 135 / 185 / 235 / 285 from 85 / 145 / 205 / 265 / 325.
+Mana cost reduced to 80 / 95 / 110 / 125 / 140 from 80 / 100 / 120 / 140 / 160.
+Summon: Tibbers
+Mana cost reduced to 125 / 175 / 225 from 150 / 200 / 250.
+No longer gives experience on death.
+Gold bounty increased to 50 from 15.
+Tibber's health increased to 1200 / 1600 / 2000 from 1200 at all ranks.
+Now gains armor per rank: 30 / 50 / 70.
+Now gains magic resist per rank: 25 / 45 / 65.
+Reduced the duration to 45 seconds from 60 seconds.
+Area-of-effect burn damage is now 35 at all ranks from 40 / 60 / 80, but now has a
+(+20% AP)
+ability power ratio.
+V1.0.0.118
+General
+Walking animation updated.
+Pyromania
+Added a gray version of the charging icon.
+V1.0.0.112
+General
+New splash artwork for
+Original Annie
+.
+V1.0.0.111
+General
+Updated tooltips.
+V1.0.0.105
+Summon: Tibbers
+Tooltip cleaned up for clarity and included the damage values for Tibbers' area of effect damage.
+V1.0.0.100
+Corrected the buff tooltip on
+Molten Shield
+so it correctly states that all attackers receive magic damage.
+V1.0.0.99
+Molten Shield
+Now reflects damage to all normal attacks instead of just melee attacks.
+V1.0.0.86
+Fixed a bug where using
+Molten Shield
+after respawning would not trigger the
+Pyromania
+counter.
+V1.0.0.79
+Disintegrate
+Missile speed increased.
+V1.0.0.75
+Pyromania
+Fixed a bug that allowed Annie to double stun.
+V1.0.0.63
+Stats
+Basic attack projectile speed increased to 1200 from 780.
+V0.9.25.34
+Summon: Tibbers
+If Tibbers kills a sigil monster, Annie will now receive the sigil.
+Disintegrate
+Spell projectile changed back to previous look.
+V0.9.25.24
+Incinerate
+Ability power ratio increased to
+(+ 60% AP)
+from
+(+ 50% AP)
+.
+Summon: Tibbers
+Ability power ratio increased to
+(+ 70% AP)
+from
+(+ 60% AP)
+.
+V0.9.25.21
+Summon: Tibbers
+AI improved to function better.
+V0.9.22.16
+Summon: Tibbers
+Renamed from
+Infernal Guardian
+.
+V0.9.22.15
+Infernal Guardian
+Area of effect on Tibbers' burning aura reduced to 350 from 400.
+Disintegrate
+Base damage increased to 90 / 130 / 170 / 215 / 260 from 80 / 125 / 170 / 215 / 260.
+V0.9.22.7
+Infernal Guardian
+Cast range reduced from 650 to 600.
+V0.8.22.115
+Infernal Guardian
+Tibbers now dies after 60 seconds or when Annie dies.
+July 10, 2009 Patch
+Stats
+Attack speed reduced to be in line with other casters.
+Infernal Guardian
+Base damage reduced to 200 / 325 / 450 from 250 / 375 / 500.
+June 26, 2009 Patch
+Stats
+Attack speed reduced to be in line with other casters.
+Pyromania
+: stun duration modified to 1.
+75
+from 1 / 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 / 2.
+25
+sec.
+June 19, 2009 Patch
+Infernal Guardian
+Cast range reduced to 700 from 800.
+June 12, 2009 Patch
+Stats
+Base damage increased to 49 from 40.
+May 15, 2009 Patch
+Made new recommended items.
+April 25, 2009 Patch
+Updated recommended items.
+Alpha Week 7
+General
+Ability power per level reduced to 0 from 6.
+Fixed tooltip errors.
+Incinerate
+Base damage increased to 85 / 145 / 205 / 265 / 325 from 80 / 135 / 190 / 245 / 300.
+Infernal Guardian
+Base damage increased to 250 / 375 / 500 from 200 / 325 / 450
+Alpha Week 4
+Molten Shield
+Ability power ratio increased to
+(+ 20% AP)
+from
+(+ 15% AP)
+.
+Damage to attacker increased to 20 / 30 / 40 / 50 / 60 from 10 / 20 / 30 / 40 / 50.
+Alpha Week 3
+Pyromania
+Stun duration increased to 5 seconds from 4.
+Disintegrate
+Base damage reduced to 80 / 125 / 170 / 215 / 260 from 80 / 130 / 180 / 230 / 280.
+Ability power ratio reduced to
+(+ 60% AP)
+from
+(+ 75% AP)
+.
+Alpha Week 2
+General
+Fixed bug with Annie's attack timing.
+Fixed a bug with Annie's Pyromania which caused her passive to not activate with some spells.
+Fixed tooltip typos for
+Disintegrate
+,
+Incinerate
+,
+Infernal Guardian
+.
+Fixed tooltip functionality for
+Molten Shield
+.
+Infernal Guardian
+Reduced Tibbers' attack damage and armor.
+Trivia
+[
+edit
+|
+edit source
+]
+Annie was one of the first six champions designed (the others being
+Lee Sin
+,
+Singed
+,
+Sion
+,
+Sivir
+, and
+Twisted Fate
+).
+[2]
+[3]
+Annie was the first champion to have 12 skins including Classic.
+Annie is the second champion to have her ability icons remade with a Visual Update (the first being
+Katarina
+).
+Summon Tibbers
+currently has the highest
+AP
+ratio in the game (
+515%
+with initial cast as well as all 45 ticks from
+Tibbers'
+aura
+).
+Annie is the first fire-themed champion (the second being
+Brand
+).
+In the now-removed official League of Legends
+forums
+, the
+original icon of
+Molten Shield
+was used to represent the "PVP.net Discussion" section.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Burst
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Burst Mages
+aim to single out vulnerable targets by locking them down and following up with a devastating barrage of damage from range. They are strongest when using their full suite of spells executed perfectly to maximum effect, and most vulnerable when they cannot deliver.
+Examples
+Annie
+Syndra
+Veigar
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Disintegrate
+COOLDOWN:
+4
+Active:
+Annie
+hurls a fireball at the target enemy that deals
+magic damage
+.
+If this kills the target, the
+cooldown
+is reduced and the
+mana cost
+is refunded.
+League of Legends content
+Incinerate
+COOLDOWN:
+8
+Active:
+Annie
+casts a blazing cone of fire, dealing
+magic damage
+to enemies hit.
+League of Legends content
+Summon: Tibbers
+COOLDOWN:
+130 / 115 / 100
+Active:
+Annie
+summons her bear
+Tibbers
+, dealing
+magic damage
+to enemies in the area.
+Tibbers
+deals
+magic damage
+with his attacks and also burns nearby enemies. Re-cast to direct him.
+League of Legends content
+Resurrection
+A unit that is protected by
+Resurrection
+will enter a revival state and dispel most debuffs upon taking
+fatal damage
+. After the state completes, the unit is revived.
+Resurrection
+effects do not count for kills or assists.
+Resurrection
+sources have a hierarchy, and will trigger in the following order:
+Zilean's
+Chronoshift
+Guardian Angel
+Anivia's
+Rebirth
+and
+Zac's
+Cell Division
+Resurrection
+will always take precedence over
+zombie state
+effects. Entering
+resurrection
+does not cancel cast times.
+Renata Glasc's
+Bailout
+always takes priority over
+resurrection
+.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Basic attack
+The
+basic attack
+(or
+auto-attack
+) is the most basic means of a unit to deal damage to another unit, usually dealing
+100% AD
+. It has a brief cooldown based on the caster's current
+attack speed
+.
+All
+basic attacks
+are normally unit-targeted with their range limited by the caster's
+attack range
+, and have a brief attack
+windup
+. Damage is then dealt depending on the caster's range type:
+Melee
+and some projectile-less ranged attacks deal damage immediately.
+Ranged
+attacks usually send a projectile that follows the target and deals damage upon striking them. Projectiles can be intercepted by certain
+blocking
+effects.
+The damage event will trigger
+on-hit effects
+from buffs the caster may hold. If damage cannot be dealt, on-hit effects will not be triggered.
+On-attack
+effects will always trigger when the attack's
+windup
+completes.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Targeting forgiveness
+Certain unit-targeted abilities present an accuracy-grace system called
+targeting forgiveness
+.
+When no valid target is
+directly selected
+upon using the ability, it will automatically search for one within a certain
+center-to-center
+forgiveness radius
+. If a valid target is found within the forgiveness radius, the ability will automatically acquire them and cast on them. If multiple targets are found, the nearest one to the forgiveness radius' center is chosen.
+Only ally-targeted abilities may utilize this system. Not to be confused with a different, priority-based system that a few other spells (e.g.
+Smite
+) use.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Noxious Trap
+RECHARGE:
+35 / 30 / 25
+Active:
+Teemo
+tosses a poisonous mushroom to the target location that becomes
+stealthed
+and lasts for a while. It will bounce forward upon landing on another mushroom.
+Teemo
+periodically
+stocks
+a charge of
+Noxious Trap
+, up to a cap.
+Mushrooms can be destroyed by enemy
+basic attacks
+and will explode upon enemy contact, inflicting
+poison
+to nearby enemies and
+slowing
+them for a few seconds, as well as
+revealing
+them.
+poison
+:
+The target takes
+magic damage
+every second over a few seconds. Subsequent inflictions refresh the duration.
+League of Legends content
+Jack in the Box
+COOLDOWN:
+15
+Active:
+Shaco
+summons a
+box
+at the target location that becomes
+stealthed
+after a short time.
+The
+box
+will spring out upon enemy contact,
+fearing
+nearby enemies for a short time. Enemy
+champions
+hit are also briefly
+rooted
+.
+The
+box
+will remain for a few seconds to automatically fire at nearby enemies, dealing
+magic damage
+that is increased when attacking only one enemy.
+League of Legends content
+Pet
+A
+pet
+is a
+unit summoned by a champion
+to assist them on the battlefield.
+League of Legends content
+Cast-inhibiting crowd control
+A unit that is affected by
+cast-inhibiting crowd control
+is unable to cast abilities, activate items, or use summoner spells. The following crowd control effects disable casting of all spells and abilities as well as interrupts all
+channels
+:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Note that
+Disrupt
+is not a status effect and solely interrupts channels, and thus cannot fall under this classification.
+Root
+and
+Ground
+only disable movement spells and abilities.
+Stasis
+and
+Suppression
+are the only crowd control effects that disable all summoner spells from use; all other cast-inhibiting crowd control only disable movement summoner spells.
+League of Legends content
+Pet damage
+Pet damage
+is the damage type dealt primarily by the basic attacks of
+champion summoned units
+, although the majority of damage sourced from pets is otherwise classified (e.g.
+spell damage
+,
+area damage
+, or
+persistent damage
+).
+Pet damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. Some examples that are triggered include:
+Rylai's Crystal Scepter
+will trigger whenever you deal an instance of
+pet damage
+.
+Physical vamp
+(where applicable) and
+omnivamp
+heals for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of the damage's non-reactive nature (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+References
+[
+edit
+|
+edit source
+]
+↑
+Annie's profile page
+at
+LeagueOfLegends.com
+↑
+@Riot, the first champion EVER made
+↑
+Guinsoo expanding first roster to six champions

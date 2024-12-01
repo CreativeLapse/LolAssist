@@ -1,0 +1,2762 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Janna
+the Storm's Fury
+Release date
+2009-09-02
+Last changed
+V14.20
+Class(es)
+Enchanter
+Legacy
+Support
+Mage
+Position(s)
+Support
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+1350
+|
+585
+Crafting
++
+810
+Ratings
+Damage
+1
+Toughness
+1
+Control
+3
+Mobility
+1
+Utility
+3
+Style
+Difficulty
+Janna
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Janna
+Base statistics
+Edit
+Health
+570
++90
+Mana
+360
++50
+Health regen. (per 5s)
+5.5
++0.55
+Mana regen. (per 5s)
+11.5
++0.4
+Armor
+28
++4.5
+Attack damage
+47
++2.5
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+325
+Attack range
+550
+Attack speed
+Base AS
+0.625
+Attack windup
+20%
+AS ratio
+N/A
+Bonus AS
++3
+%
+Missile speed
+1800
+Unit radius
+Gameplay radius
+65
+Selection radius
+125
+Pathing radius
+35
+Acq. radius
+550
+Special statistics
+Damage Dealt
+-5%
+Damage Received
++5%
+Healing
+-10%
+Shielding
+-5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++3%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Tailwind
+EFFECT RADIUS:
+1200
+Innate:
+Nearby allied champions gain
+bonus
+movement speed
+while moving toward
+Janna
+. Her basic attacks and
+Zephyr
+deal
+bonus
+magic damage
+equal to a portion of her
+bonus
+movement speed
+.
+Innate:
+Janna
+grants
+6%
+bonus
+movement speed
+to nearby allied
+champions
+that are facing in the direction of her location.
+Janna's
+basic attacks
+on-hit
+and
+Zephyr
+deal
+bonus
+magic damage
+equal to
+30% of her
+bonus
+movement speed
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+No additional notes.
+Edit
+Howling Gale
+COST:
+90 / 95 / 100 / 105 / 110 mana
+COOLDOWN
+:
+14
+CAST TIME:
+none
+RANGE:
+1100 − 1760 (based on seconds charged)
+WIDTH:
+240
+SPEED:
+880 − 1408 (based on seconds charged)
+Active:
+Janna
+summons a whirlwind at her current location that matures over a short time, increasing its range, speed, damage, and knock up duration.
+Howling Gale
+can be recast at any time within the duration, and does so automatically after the duration.
+Recast:
+The whirlwind flies in the target direction over a short time, dealing
+magic damage
+and
+knocking up
+enemies hit. The effects are increased based on maturity.
+Active:
+Janna
+summons a whirlwind at her current location that charges up over 3 seconds, increasing its range, speed, damage, and
+knock up
+duration every second over the duration.
+Howling Gale's
+direction is determined by this cast.
+Minimum Magic Damage:
+55 / 90 / 125 / 160 / 195
+(+ 50% AP)
+Bonus Damage Per Second:
+10 / 15 / 20 / 25 / 30
+(+ 10% AP)
+Maximum Magic Damage:
+85 / 135 / 185 / 235 / 285
+(+ 80% AP)
+Howling Gale
+can be recast at any time within the duration, and does so automatically after the duration.
+Recast:
+Janna
+launches the whirlwind in the direction she targeted over 1.
+25
+seconds, dealing
+magic damage
+to enemies hit and
+knocking them up
+for
+0.
+5
+− 1.
+25
+(based on seconds charged)
+seconds.
+Info
+Targeting input
+Direction
+/
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+The initial cast and the manual recast count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+The storm does not interact with enemy units that stand on top of it while it is charging.
+Map-Specific Differences
+Howling Abyss
+differences
+edit
+Cooldown changed to 16 seconds.
+Edit
+Zephyr
+COST:
+50 / 55 / 60 / 65 / 70 mana
+COOLDOWN:
+8 / 7.
+5
+/ 7 / 6.
+5
+/ 6
+CAST TIME:
+0.
+245
+TARGET RANGE:
+550
+SPEED:
+1600
+Passive:
+Janna
+gains
+bonus
+movement speed.
+and ignores unit collision.
+Active:
+Janna
+sends an air elemental to the target enemy, dealing
+magic damage
+and
+slowing
+them.
+Passive:
+Janna
+is
+ghosted
+and gains
+bonus
+movement speed
+.
+Bonus Movement Speed:
+6 / 7 / 8 / 9 / 10%
+(+ 2% per 100 AP)
+Active:
+Janna
+sends an air elemental at the target enemy that deals
+magic damage
+and
+slows
+them for 2 seconds, capped at 99%.
+Magic Damage:
+55 / 85 / 115 / 145 / 175
+(+ 50% AP)
+(+ 30%
+bonus
+movement speed)
+Slow:
+20 / 24 / 28 / 32 / 36%
+(+ 6% per 100 AP)
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+The maximum slow (99%) is reached with 1316.
+67
+/ 1250 / 1183.
+33
+/ 1116.
+67
+/ 1050 ability power.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+Edit
+Eye of the Storm
+COST:
+70 / 75 / 80 / 85 / 90 mana
+COOLDOWN:
+16 / 15 / 14 / 13 / 12
+CAST TIME:
+none
+TARGET RANGE:
+800
+Whenever
+Janna's
+abilities
+slow
+or
+knock up
+at least one enemy
+champion
+, she refunds a portion of
+Eye of the Storm's
+cooldown.
+Active:
+Janna
+can target an allied champion,
+turret
+, or herself to place a
+shield
+that decays over a short time. While the shield holds, the target gains
+bonus
+attack damage
+.
+Passive:
+Whenever
+Janna's
+abilities
+slow
+or
+knock up
+at least one enemy
+champion
+, 20% of
+Eye of the Storm's
+cooldown is refunded. This may occur once per spell cast.
+Active:
+Janna
+grants the target allied champion or
+turret
+, or herself, a
+shield
+for 4 seconds.
+Shield Strength:
+80 / 120 / 160 / 200 / 240
+(+ 55% AP)
+While the shield holds, the target gains
+bonus
+attack damage
+.
+Bonus Attack Damage:
+10 / 15 / 20 / 25 / 30
+(+ 10% AP)
+Info
+Targeting input
+Unit
+Damage type
+Type
+Eye of the Storm
+has a
+forgiveness radius
+of 175 units.
+Attack speed slows
+applied to enemy champions by
+Janna
+(e.g.
+Frozen Heart
+) also trigger the passive.
+(note)
+Janna
+receives kill credit on enemy champions that are killed by turrets shielded by
+Eye of the Storm
+.
+Allied turrets will benefit from the bonus attack damage when targeted by
+Eye of the Storm
+.
+Edit
+Monsoon
+COST:
+100 mana
+COOLDOWN
+:
+130 / 115 / 100
+CAST TIME:
+none
+EFFECT RADIUS:
+700
+Active:
+Janna
+unleashes a blast that
+knocks back
+nearby enemies, though not through terrain. She also
+channels
+the winds for a short time, continually
+healing
+nearby allies.
+Active:
+Janna
+unleashes a blast that
+knocks back
+all nearby enemies to up to 875 units over 0.
+5
+seconds based on their proximity, though not through terrain.
+Janna
+also
+channels
+for up to 3 seconds,
+healing
+herself and nearby allies every 0.
+25
+seconds.
+Heal Per Tick:
+25 / 37.
+5
+/ 50
+(+ 12.
+5
+% AP)
+Total Heal:
+300 / 450 / 600
+(+ 150% AP)
+Info
+Targeting input
+Auto
+Counters
+Spell shield
+Blocked
+Disruption
+Interrupted
+The following table refers for interactions while
+Janna
+is
+channeling
+:
+Type
+Channel
+Attacking
+Interrupts
+Abilities
+Interrupts
+Movement
+Interrupts
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+Hextech Rocketbelt
+Interrupted by
+All item-actives not specified above interrupt
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+N/A
+Interrupted by
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+Death
+Cast-inhibiting effects
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Janna (Collection)
+.
+Original
+View in 3D
+585
+01.09.2009
+Armed with the power of Runeterra’s gales, Janna is a mysterious, elemental wind spirit who protects the dispossessed of Zaun. Some believe she was brought into existence by the pleas of Runeterra’s sailors who prayed for fair winds as they navigated treacherous waters and braved rough tempests. Her favor and protection has since been called into the depths of Zaun, where Janna has become a beacon of hope to those in need. No one knows where or when she will appear, but more often than not, she’s come to help.
+Erin Fitzgerald
+Jason Chan
+Loot eligible
+Tempest
+View in 3D
+520
+13.07.2010
+Erin Fitzgerald
+Unknown artist
+Legacy
+Loot eligible
+Legacy
+Hextech
+View in 3D
+975
+08.11.2010
+Practitioners of Hextech science have historically benefited from the core crystalline matrix's more esoteric properties. Janna's long exposure to such raw materials famously granted her the power of limited flight, and the ability to control the wind.
+Erin Fitzgerald
+Unknown artist
+Hextech
+Loot eligible
+Legacy
+New SFX/VFX
+Frost Queen
+View in 3D
+975
+05.12.2011
+Erin Fitzgerald
+Unknown artist
+Freljord
+Loot eligible
+New SFX/VFX
+Victorious
+View in 3D
+Special
+06.11.2012
+Victorious Janna was awarded to players who reached Gold or higher in the 2012 season. Armed with a crystalline staff and the best Demacian armor, Victorious Janna unleashes epic gales to blow her enemies away.
+Erin Fitzgerald
+Unknown artist
+Victorious
+Loot ineligible
+New SFX/VFX
+New Animations/Recall
+Forecast
+View in 3D
+1820
+04.09.2013
+Janna has survived the market downswing in televised news for at least the last decade, but even in her relatively cushy position, the viewers are getting older and the weather is getting freakier. Might be time to put her meteorology degree to good use, and… fight the sky!
+Unknown voice actor
+Katie 'TeaTime' De Sousa
+Day Job
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Fnatic
+View in 3D
+750
+24.09.2014
+Honoring Mellisan's winning performance as Janna during the 2011 World Championship.
+Erin Fitzgerald
+Unknown artist
+World Champions: 2011
+Loot eligible
+Legacy
+New SFX/VFX
+Star Guardian
+View in 3D
+1350
+05.10.2016
+Soft-spoken and sometimes distant, Janna serves as mentor to her younger team and gently guides them towards a true understanding of their destiny. While she rarely offers information about her mysterious past, her poise and quiet strength are deeply admired by her Star Guardian teammates.
+Erin Fitzgerald
+Esben Lash Rasmussen
+Star Guardian Season 1
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Sacred Sword
+View in 3D
+1350
+27.09.2017
+Janna is the guardian of an ancient sword made of the purest jade, hidden at the bottom of a silent lake. Those who wield this weapon are granted immortality, and so she must remain steadfast in order to protect it.
+Erin Fitzgerald
+Pan Chengwei
+Immortal Journey
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Sacred Sword Janna Chromas
+Aquamarine
+Peridot
+Rose Quartz
+Sapphire
+Bewitching
+View in 3D
+1350
+24.10.2018
+It's Janna's favorite season once again—when dark spirits rise from the earth, and hidden troves of candy are enjoyed by all. Don your best disguise and ride into the night, for the witching hour is upon us!
+Erin Fitzgerald
+Alex 'alexplank' Flores
+Bewitching
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Bewitching Janna Chromas
+Citrine
+Emerald
+Golden
+Rainbow
+Rose Quartz
+Ruby
+Guardian of the Sands
+View in 3D
+1350
+22.01.2020
+Janna, the desert gale—ancient guardian of the sands, we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest your sandstorms consume them whole.
+Erin Fitzgerald
+David Villegas, West Studio
+Guardian of the Sands
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Guardian of the Sands Janna Chromas
+Catseye
+Peridot
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Battle Queen
+View in 3D
+1350
+10.12.2020
+Hailing from Aurai, floating high above the Tournament, Queen Janna quite literally looks down on the whole affair. But without a champion in the Coronation, the magic that brings long-life to Aurai's reclusive population will fail, and so Janna descends for yet another showcase exhibition of her power. Anything to protect her people.
+Erin Fitzgerald
+West Studio
+Battle Queens
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Battle Queen Janna Chromas
+Amethyst
+Aquamarine
+Catseye
+Coronation
+Obsidian
+Pearl
+Peridot
+Ruby
+Crystal Rose
+View in 3D
+1350
+10.02.2022
+The desire for peace brought about more than just a yearly festival. Born from this universal wish was Janna, a spirit whose magic hangs like a wreath over the night. Though she's regarded by most as a legend, guests sometimes say they see a beautiful woman float by. Maybe it's a trick of the crystal rose's light...
+Erin Fitzgerald
+West Studio
+Crystal Rose
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Crystal Rose Janna Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Cyber Halo
+View in 3D
+1350
+25.08.2022
+An experiment from RSM's R&D division, Janna is the only successful use of an android to pilot an exosuit in history. Perhaps it's because she looks so human that most forget the gusts of “wind“ she commands are actually a fleet of nanobots connected directly to both the X09-Zephyr as well as her central processing core.
+Erin Fitzgerald
+Jack Hsu, West Studio
+Steel Valkyries
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Cyber Halo Janna Chromas
+Ace
+Aquamarine
+Catseye
+Pearl
+Peridot
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+Prestige Cyber Halo
+View in 3D
+Special
+25.08.2022
+Always a breath of fresh air in the fashion world, Janna took a risk working with a new designer for her high-tech red carpet look. That risk was well worth it: the future of fashion is here, and it's looking bright.
+Erin Fitzgerald
+Huyy Nguyen, West Studio
+Steel Valkyries
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Cyber Halo
+. Store variants are discounted for multiple purchases.
+Heavenscale
+View in 3D
+1350
+07.02.2024
+Janna is the most skilled dragon in the kingdom at sorcery (save for the king himself, perhaps), whipping up winds and steering the clouds. The prince asked if she might take him on as a pupil, and Janna happily accepted; but she is looking forward to showing him more whimsical uses of their power. After all, they have a festival to attend.
+Erin Fitzgerald
+Julia Yurtsev
+Heavenscale
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Heavenscale Janna Chromas
+Amethyst
+Catseye
+Emerald
+Lustrous
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.20
+Eye of the Storm
+New Effect:
+Cast now has a forgiveness radius of 175 units.
+Bug Fix:
+Cooldown is no longer illegally reduced via attacks that apply the slow from
+Crest of Cinders
+.
+V14.9
+Zephyr
+Base damage reduced to 55 / 85 / 115 / 145 / 175 from 55 / 90 / 125 / 160 / 195.
+AP ratio reduced to
+50% AP
+from
+60% AP
+.
+Eye of the Storm
+Base shield increased to 80 / 120 / 160 / 200 / 240 from 80 / 115 / 150 / 185 / 220.
+V14.1
+Tailwind
+Bug Fix:
+Allies can no longer receive the bonus movement speed while she is dead.
+V13.23
+Tailwind
+Damage bonus movement speed ratio changed to 30% at all levels from
+20 / 25 / 30 / 35% (based on level)
+.
+Zephyr
+Cooldown reduced to 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6 seconds from 9 / 8.
+5
+/ 8 / 7.
+5
+/ 7.
+Cast range reduced to 550 units from 675.
+Cast range type changed to center from edge.
+Monsoon
+Cooldown reduced to 130 / 115 / 100 seconds from 150 / 135 / 120.
+V13.22
+Stats
+Health growth increased to 90 from 84.
+Base mana increased to 360 from 350.
+Mana growth reduced to 50 from 64.
+Base attack damage reduced to 47 from 52.
+Attack damage growth reduced to 2.
+5
+from 3.
+Armor growth reduced to 4.
+5
+from 5.
+Attack range increased to 550 units from 500.
+Attack windup reduced to 20% from 22%.
+Tailwind
+Removed:
+Janna
+no longer gains 6%
+bonus
+movement while moving towards allies.
+Allied bonus movement speed unchanged.
+New Effect:
+Her basic attacks and
+Zephyr
+now deal
+bonus
+magic damage
+equal to
+20 / 25 / 30 / 35% (based on level)
+of her
+bonus
+movement speed
+.
+Howling Gale
+Minimum base damage changed to 55 / 90 / 125 / 160 / 195 from 60 / 85 / 110 / 135 / 160.
+Base damage per second reduced to 10 / 15 / 20 / 25 / 30 from 15 / 20 / 25 / 30 / 35.
+Minimum AP ratio increased to
+50% AP
+from
+35% AP
+.
+Cooldown increased to 14 seconds from 12.
+Mana cost increased to 90 / 95 / 100 / 105 / 110 from 60 / 70 / 80 / 90 / 100.
+New Effect:
+Minimum range of the missile is now shown in the indicator.
+Zephyr
+Removed:
+Bonus movement speed is no longer lost while the ability is on cooldown.
+Base damage reduced to 55 / 90 / 125 / 160 / 195 from 80 / 110 / 140 / 170 / 200.
+Cooldown reduced to 9 / 8.
+5
+/ 8 / 7.
+5
+/ 7 seconds from 12 at all ranks.
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 50 / 60 / 70 / 80 / 90.
+Slow duration reduced to 2 seconds from 3.
+Bug Fix:
+Tooltip no longer displays incorrect information.
+Eye of the Storm
+Removed:
+Slowing
+or
+knocking up
+an enemy champion with an ability no longer grants her 15% heal and shield power for 4 seconds.
+New Effect:
+Slowing
+or
+knocking up
+an enemy champion with an ability now refunds 20% of
+Eye of the Storm's
+cooldown. This can only trigger once per cast.
+Base shield increased to 80 / 115 / 150 / 185 / 220 from 75 / 100 / 125 / 150 / 175.
+Shield duration reduced to 4 seconds from 5.
+Removed:
+Shield strength no longer decays after 2.
+5
+seconds.
+Cooldown increased to 16 / 15 / 14 / 13 / 12 seconds from 15 / 13.
+5
+/ 12 / 10.
+5
+/ 9.
+Mana cost reduced to 70 / 75 / 80 / 85 / 90 from 70 / 80 / 90 / 100 / 110.
+V13.18
+General
+Updated ability icons.
+V13.12
+Tailwind
+Bug Fix:
+Movement speed buff is no longer kept after teleporting far away (e.g.
+Recalling
+) while facing an allied champion.
+V13.8
+Zephyr
+Base damage increased to 80 / 110 / 140 / 170 / 200 from 70 / 100 / 130 / 160 / 190.
+Damage AP ratio increased to
+60% AP
+from
+50% AP
+.
+Eye of the Storm
+Decay delay increased to 2.
+5
+seconds from 1.
+25
+.
+V13.4
+Zephyr
+Bug Fix:
+Restored VFX overlay on enemy hit for
+Star Guardian Janna
+.
+V12.23
+- December 14th Hotfix
+Tailwind
+Bonus movement speed reduced to 6% from 8%.
+Eye of the Storm
+Base bonus attack damage reduced to 10 / 15 / 20 / 25 / 30 from 10 / 17.
+5
+/ 25 / 32.
+5
+/ 40.
+V12.19
+General
+Updated visual effects
+Original Janna
+Complete overhaul.
+Tempest Janna
+Same as new base.
+Hextech Janna
+Complete overhaul.
+Frost Queen Janna
+Complete overhaul.
+Victorious Janna
+Complete overhaul.
+Forecast Janna
+Complete overhaul.
+Fnatic Janna
+Same as new base, but with new effects for
+Zephyr
+.
+Star Guardian Janna
+,
+Sacred Sword Janna
+,
+Bewitching Janna
+,
+Guardian of the Sands Janna
+,
+Battle Queen Janna
+,
+Crystal Rose Janna
+,
+Cyber Halo Janna
+,
+Prestige Cyber Halo Janna
+New impact effect for
+Howling Gale
+and healing effect for
+Monsoon
+.
+V12.14
+Eye of the Storm
+Base shield increased to 75 / 100 / 125 / 150 / 175 from 65 / 90 / 115 / 140 / 165.
+Heal and shield power reduced to 15% from 20%.
+Monsoon
+Base heal per tick increased to 25 / 37.
+5
+/ 50 from 22.
+5
+/ 36.
+25
+/ 50.
+Total heal increased to 300 / 450 / 600 from 270 / 435 / 600.
+Heal AP ratio per tick increased to
+12.
+5
+% AP
+from
+11.
+25
+% AP
+.
+Total heal AP ratio increased to
+150% AP
+from
+135% AP
+.
+V12.12
+Zephyr
+Base bonus movement speed reduced to 6 / 7 / 8 / 9 / 10% from 6 / 7.
+5
+/ 9 / 10.
+5
+/ 12%.
+Base slow reduced to 20 / 24 / 28 / 32 / 36% from 24 / 28 / 32 / 36 / 40%.
+Eye of the Storm
+Base shield reduced to 65 / 90 / 115 / 140 / 165 from 75 / 100 / 125 / 150 / 175.
+Shield AP ratio reduced to
+55% AP
+from
+60% AP
+.
+V12.10
+Stats
+Base health increased to 570 from 500.
+Health growth increased to 84 from 70.
+Armor growth increased to 5 from 3.
+8
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Eye of the Storm
+Base shield reduced to 75 / 100 / 125 / 150 / 175 from 80 / 110 / 140 / 170 / 200.
+Shield AP ratio reduced to
+60% AP
+from
+65% AP
+.
+Monsoon
+Base heal per second reduced to 90 / 145 / 200 from 100 / 150 / 200.
+Heal AP ratio per second reduced to
+45% AP
+from
+50% AP
+.
+V12.9
+Howling Gale
+Bug Fix:
+Base AP ratio has been restored, restoring the total AP ratio to
+35% − 65% (based on seconds charged)
+from
+0% − 30% (based on seconds charged)
+.
+V12.6
+Zephyr
+Bug Fix:
+Cast type restored to
+centered range
+from
+edge range
+.
+Bug Fix:
+Range indicator now displays the correct radius.
+V12.4
+Eye of the Storm
+Bug Fix:
+Heal and shield power bonus is no longer gained from knocking up or slowing enemy champions while the ability hasn't even been learned yet.
+V12.3
+- February 4th Hotfix
+Stats
+Base movement speed reduced to 325 from 330.
+Zephyr
+Bonus movement speed reduced to 6 / 7.
+5
+/ 9 / 10.
+5
+/ 12% from 8 / 9 / 10 / 11 / 12%.
+Eye of the Storm
+Heal and shield power duration reduced to 4 seconds from 5.
+V12.2
+- January 26th Hotfix
+Monsoon
+Bug Fix:
+Glacial Augment's
+slow no longer lingers longer than intended.
+V12.2
+- Gameplay Update
+Stats
+Base movement speed increased to 330 from 315.
+Base attack damage increased to 52 from 46.
+Attack damage growth increased to 3 from 1.
+5
+.
+Attack speed growth increased to 3% from 2.
+95
+%.
+Base attack range reduced to 500 from 550.
+Tailwind
+New Effect:
+While moving towards allied
+champions
+,
+Janna
+gains
+8%
+bonus
+movement speed
+.
+Nearby allied champions moving towards her gain
+8%
+bonus
+movement speed
+.
+Old Effect:
+Janna
+gains
+8%
+bonus
+movement speed
+and grants the same amount to nearby allied
+champions
+moving towards her.
+Janna's
+basic attacks
+on-hit
+and
+Zephyr
+deal
+bonus
+magic damage
+equal to
+25 / 35% (based on level)
+of her
+bonus
+movement speed
+.
+Howling Gale
+Mana cost reduced to 60 / 70 / 80 / 90 / 100 from 60 / 80 / 100 / 120 / 140.
+Minimum range increased to 1100 units from 1000.
+Maximum range increased to 1760 units from 1750.
+Travel time reduced to 1.
+25
+seconds from 1.
+5
+.
+Zephyr
+Cast range increased to 650 units from 550.
+Targeting changed to center to center from edge to edge.
+Slow duration increased to 3 seconds from 2.
+Cooldown increased to 12 seconds at all ranks from 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6.
+Base damage increased to 70 / 100 / 130 / 160 / 190 from 55 / 85 / 115 / 145 / 175.
+Base bonus movement speed increased to 8 / 9 / 10 / 11 / 12% from 6 / 7 / 8 / 9 / 10%.
+Eye of the Storm
+Cooldown reduced to 15 / 13.
+5
+/ 12 / 10.
+5
+/ 9 seconds from 16 / 15 / 14 / 13 / 12.
+Shield decay delay increased to 1.
+25
+seconds from 0.
+75
+.
+Base shield reduced to 80 / 110 / 140 / 170 / 200 from 80 / 115 / 150 / 185 / 220.
+Shield AP ratio reduced to
+65% AP
+from
+70% AP
+.
+Removed:
+Whenever
+Janna's
+abilities
+slow
+or
+knock up
+at least one enemy champion,
+Eye of the Storm's
+cooldown is no longer reduced by 20%. This could occur only once per cast.
+New Effect:
+Whenever
+Janna's
+abilities
+slow
+or
+knock up
+at least one enemy champion, gain 20% heal and shield power for 5 seconds.
+Monsoon
+Heal tick interval reduced to 0.
+25
+seconds per tick from 0.
+5
+seconds per tick.
+Total healing unchanged.
+V11.18
+- September 9th Hotfix
+Zephyr
+Bug Fix:
+Fixed a bug where her passive would not return to her after casting twice.
+V10.11
+Zephyr
+Base damage reduced to 55 / 85 / 115 / 145 / 175 from 55 / 90 / 125 / 160 / 195.
+V10.8
+Howling Gale
+Indicator added to show recast ability timer.
+V9.11
+Zephyr
+Cooldown reduced to 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6 seconds from 8 at all ranks.
+Base damage reduced to 55 / 90 / 125 / 160 / 195 from 55 / 100 / 145 / 190 / 235.
+Eye of the Storm
+New Effect:
+Each ability that
+slows
+or
+knocks
+an enemy champion airborne reduces
+Eye of the Storm's
+cooldown by 20%, up to once per ability cast.
+Cooldown changed to 16 / 15 / 14 / 13 / 12 seconds from 18 / 16 / 14 / 12 / 10.
+Base shield strength increased to 80 / 115 / 150 / 185 / 220 from 70 / 105 / 140 / 175 / 210.
+V8.19
+Tailwind
+Bonus movement speed ratio increased to
+25% / 35% (based on level)
+from
+15% / 25% / 35% (based on level)
+.
+V8.12
+Eye of the Storm
+New Effect:
+After 0.
+75
+seconds, the shield now decays over its remaining duration.
+V8.9
+Forecast Janna
+Bug Fix:
+Umbrella no longer gets burnt before the lightning strikes her during her joke animation.
+V8.8
+Stats
+Base movement speed reduced to 315 from 320.
+Zephyr
+Base damage reduced to 55 / 100 / 145 / 190 / 235 from 60 / 105 / 150 / 195 / 240.
+V8.5
+Forecast Janna
+Bug Fix:
+"I'm live at the scene and it's just... cats and dogs here"
+VO line once again plays at the beginning of the match if conditions are met.
+V8.3
+Stats
+Base health regeneration increased to 5.
+5
+from 5.
+424
+.
+V8.2
+Zephyr
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+Monsoon
+Bug Fix:
+No longer incorrectly knocks back champions who are protected by spell shields.
+V7.22
+Stats
+Base armor increased to 28 from 19.
+384
+.
+V7.19
+September 28th Hotfix
+Tailwind
+Bonus movement speed dealt as magic damage reduced to
+15% / 25% / 35% (based on level)
+from 35%.
+Eye of the Storm
+Base shield strength reduced to 70 / 105 / 140 / 175 / 210 from 80 / 120 / 160 / 200 / 240.
+V7.19
+September 27th Hotfix
+Stats
+Base movement speed reduced to 320 from 335.
+Base health reduced to 500 from 525.
+Base mana reduced to 350 from 409.
+52
+.
+Zephyr
+Mana cost increased to 50 / 60 / 70 / 80 / 90 from 40 / 50 / 60 / 70 / 80.
+V7.19
+Stats
+Base attack range increased to 550 from 475.
+Base attack damage reduced to 46 from 51.
+956
+.
+Attack damage growth reduced to 1.
+5
+from 2.
+95
+.
+Attack speed growth increased to 2.
+95
+% from 2.
+61
+%.
+Basic attack missile speed increased to 1600 from 1200.
+Base health increased to 525 from 487.
+04
+.
+Health growth reduced to 70 from 78.
+Attack delay reduced to 0.
+08
+from 0.
+1
+.
+Tailwind
+New Effect:
+Janna
+also benefits from
+Tailwind
+.
+New Effect:
+Janna's
+basic attacks and single target spells deal
+bonus
+magic damage equal to 35% of her
+bonus
+movement speed.
+Howling Gale
+Mana cost reduced to 60 / 80 / 100 / 120 / 140 from 90 / 105 / 120 / 135 / 150.
+Cooldown changed to 12 seconds at all ranks from 14 / 13 / 12 / 11 / 10.
+Minimum range increased to 1000 from 850.
+Maximum range increased to 1750 from 1742.
+5
+.
+New Effect:
+Howling Gale
+now always reaches its destination in 1.
+5
+seconds.
+Zephyr
+Cooldown reduced to 8 seconds at all ranks from 12.
+Slow duration reduced to 2 seconds from 3.
+Bonus movement speed reduced to 6 / 7 / 8 / 9 / 10% from 9 / 11 / 13 / 15 / 17%.
+Range changed to 550
+er
+from 600
+cr
+.
+Eye of the Storm
+Cooldown increased to 18 / 16 / 14 / 12 / 10 seconds from 10 at all ranks.
+V7.11
+Forecast Janna
+Bug Fix:
+Basic attacks have been touched up to match the changes to her other skins in patch
+V7.9
+.
+V7.9
+May 4th Hotfix
+General
+New Effect:
+Attack animations have received non-gameplay impacting adjustments.
+New Effect:
+Basic attack visual and sound effects have been adjusted.
+Eye of the Storm
+New Effect:
+Janna
+now uses crit animation while under the effect of
+Eye of the Storm
+.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.4
+General
+Adjusted splash artwork for
+Fnatic Janna
+.
+V6.23
+General
+Bug Fix:
+Forecast Janna
+no longer sometimes plays her joke VO and base
+Janna's
+joke VO on top of each other.
+V6.22
+Eye of the Storm
+Bug Fix:
+When cast on a turret,
+Star Guardian Janna's
+Eye of the Storm
+visuals now properly disappear if the shield is broken.
+V6.21
+Howling Gale
+Bug Fix:
+Fixed a bug causing
+Forecast Janna's
+Howling Gale
+to not play audio if released after reaching max charge.
+V6.7
+General
+Splash artwork for
+Tempest Janna
+and
+Hextech Janna
+updated to the Chinese art.
+V6.6
+Eye of the Storm
+Bonus AD reduced to 10 / 17.
+5
+/ 25 / 32.
+5
+/ 40 from 14 / 23 / 32 / 41 / 50.
+Monsoon
+Knockback's stun duration reduced to 0.
+5
+seconds from 0.
+75
+.
+V5.22
+Stats
+Mana regen increased to 11.
+5
+from 9.
+V5.17
+Tailwind
+Refresh rate increased.
+Allies moving into or out of the area will now gain/lose the effects more abruptly.
+Howling Gale
+Range reduced to 850 from 1100.
+Bonus range per second increased to 35% from 20.
+Maximum range remains roughly the same.
+Monsoon
+Heal per second AP ratio reduced to
+50% AP
+from
+60% AP
+.
+Total AP ratio reduced to
+150% AP
+from
+180% AP
+.
+V5.4
+Tailwind
+Allied movement speed bonus changed to while moving towards Janna from being in her range.
+Bonus movemement speed increased to 8% from 5.
+Range increased to 1250 from 1000.
+Zephyr
+Passive movement speed increased to 9 / 11 / 13 / 15 / 17% from 4 / 6 / 8 / 10 / 12%.
+V5.1
+Howling Gale
+Projectile width reduced to 120 from 150.
+V4.19
+General
+New splash artwork for
+Original Janna
+.
+Howling Gale
+Fixed a bug where casting wouldn't go in the cursor's direction when not in cast range.
+Zephyr
+Cooldown increased to 12 seconds at all ranks from 12 / 11 / 10 / 9 / 8.
+V4.13
+Tailwind
+Range increased to 1000 from 800.
+Howling Gale
+Tooltip updated.
+Maximum knockup duration increased to 1.
+25
+seconds from 1.
+Cooldown now begins on first cast.
+V4.5
+Stats
+Base armor increased to 13 from 9.
+V4.1
+Monsoon
+Removed:
+0.
+25
+seconds delay before channel start.
+Total duration reduced to 3 seconds from 4.
+Base heal increased to 100 / 150 / 200 per second from 70 / 110 / 150.
+Heal AP scaling increased to
+60% AP
+per second from
+35% AP
+.
+Total heal increased to 300 / 450 / 600
+180% AP)
+from 280 / 440 / 600
+140% AP
+V3.15
+Monsoon
+Mana cost reduced to 100 at all ranks from 100 / 150 / 200.
+V3.14
+Tailwind
+Range reduced to 800 from global.
+Bonus movement speed increased to 5% from 3%.
+Howling Gale
+AP ratio reduced to
+(+35% AP)
+from
+(+75% AP)
+Charge damage reduced to 15 / 20 / 25 / 30 / 35
+(+10% AP)
+from 25 / 30 / 40 / 50 / 60.
+Zephyr
+Base passive bonus movement speed increased to 4 / 6 / 8 / 10 / 12% from 4 / 7 / 10 / 13 / 16%.
+New Effect:
+Bonus movement speed increases at
+2% per 100 AP
+Base slow amount reduced to 24 / 28 / 32 / 36 / 40% from 24 / 30 / 36 / 42 / 48%.
+New Effect:
+Slow has a
+6% per 100 AP
+ratio capped at 80% total slow.
+AP ratio reduced to
+50% AP
+from
+60% AP
+.
+Eye of the Storm
+New Effect:
+Bonus AD has a
+10% AP
+ratio.
+Shield AP ratio reduced to
+70% AP
+from
+90% AP
+.
+V3.04
+Howling Gale
+Fixed a bug where the knockup duration was not increasing based on charge time.
+Fully charged knockup duration increased to 1 second from 0.
+75
+V3.03
+Monsoon
+Mana cost reduced to 100 / 150 / 200 from 150 / 225 / 300.
+V3.02
+General
+Basic attack is now more responsive.
+V1.0.0.152
+Stats
+Movement speed increased to 335 from 310.
+V1.0.0.144
+Zephyr
+AP ratio reduced to
+(+60% AP)
+from
+(+80% AP)
+Fixed a bug where even on cooldown Janna would sometimes retain the passive movement speed.
+V1.0.0.142
+General
+Ability tooltips updated
+Zephyr
+Passive movement speed reduced to 4 / 7 / 10 / 13 / 16% from 8 / 10 / 12 / 14 / 16%.
+Slow duration reduced to 3 seconds from 4.
+Monsoon
+Cooldown increased to 150 / 135 / 120 seconds from 120 at all ranks.
+V1.0.0.138
+Howling Gale
+Knockup distance increased to (80 + 10 per second channeling) from 100.
+Monsoon
+Mana cost reduced to 150 / 225 / 300 from 200 / 275 / 350.
+Knockback distance reduced to 875 from 1000.
+V1.0.0.136
+Eye of the Storm
+Removed:
+Cyclone Strike remaining after shield's breaking.
+V1.0.0.123
+General
+New splash artwork for
+Original Janna
+.
+V1.0.0.122
+General
+New models and textures for Janna and Tempest Janna.
+New animations for all skins.
+V1.0.0.120
+Tailwind
+Removed:
+Allies retaining the bonus movement speed while Janna is dead.
+V1.0.0.112
+Monsoon
+No longer slows enemies who reenter the storm.
+V1.0.0.106
+Tailwind
+New Effect:
+Allies retain the bonus movement speed while Janna is dead.
+Eye of the Storm
+Shield duration reduced to 5 seconds from 10.
+Monsoon
+Heal per second reduced to 70 / 110 / 150 from 90 / 130 / 170.
+Slow reduced to 30% from 40%.
+V1.0.0.102
+General
+New voiceover.
+V1.0.0.94(b)
+Howling Gale
+Cooldown increased to 14 / 13 / 12 / 11 / 10 seconds from 10 at all ranks.
+V1.0.0.94
+Howling Gale
+Knockup time reduced by 33%.
+Eye of the Storm
+Fixed a bug where the particle would linger after the shield effect had been removed.
+V1.0.0.87
+Howling Gale
+Mana cost increased to 90 / 105 / 120 / 135 / 150 from 80 / 95 / 110 / 125 / 140.
+Zephyr
+Tooltip updated to indicate that, while on cooldown, the passive movement speed is lost.
+Fixed a bug where rank up would only grant the additional movement speed after Janna refreshed the buff.
+Eye of the Storm
+Mana cost increased to 70 / 80 / 90 / 100 / 110 from 60 / 70 / 80 / 90 / 100.
+V1.0.0.86
+Stats
+Base attack damage increased to 49 from 46.
+Howling Gale
+Fixed a bug that was causing inconsistent damage.
+Collision width reduced.
+Eye of the Storm
+Base shield reduced to 80 / 120 / 160 / 200 / 240 from 100 / 150 / 200 / 250 / 300.
+AP ratio increased to
+90% AP
+from
+80% AP
+.
+Bonus AD changed to 14 / 23 / 32 / 41 / 50 from 24 / 30 / 36 / 42 / 48.
+V1.0.0.83
+Howling Gale
+No longer sends
+H-28G Evolution Turret
+airborne.
+V1.0.0.82
+Stats
+Mana per level reduced to 64 from 78.
+Base armor increased to 9 from 7.
+4
+.
+Howling Gale
+Mana cost reduced to 80 / 95 / 110 / 125 / 140 from 80 / 100 / 120 / 140 / 160.
+Cooldown reduced to 10 seconds at all ranks from 11.
+Damage per second scaling increased to 20 / 30 / 40 / 50 / 60 from 20 / 25 / 30 / 35 / 40.
+Zephyr
+Cooldown reduced to 12 / 11 / 10 / 9 / 8 seconds from 13 / 12 / 11 / 10 / 9.
+Eye of the Storm
+Mana cost reduced to 60 / 70 / 80 / 90 / 100 from 70 / 85 / 100 / 115 / 130.
+Shield duration reduced to 10.
+5
+seconds from 12.
+Cooldown reduced to 10.
+5
+seconds from 12.
+New Effect:
+Cyclone Strike
+Bonus AD remains after the shield's breaking.
+Monsoon
+Now slows enemy units for 40% that re-enter the storm after being pushed out.
+V1.0.0.79
+Eye of the Storm
+Fixed a bug where it was not adding the correct ability power ratio.
+V1.0.0.70
+Eye of the Storm
+Removed:
+Cast time.
+V1.0.0.63
+Howling Gale
+Mana cost reduced to 80 / 100 / 120 / 140 / 160 from 110 / 130 / 150 / 170 / 190.
+Cooldown reduced to 11 seconds from 12.
+Zephyr
+Cooldown reduced to 13 / 12 / 11 / 10 / 9 seconds from 14 / 13 / 12 / 11 / 10.
+Monsoon
+Knockback effect cleaned up to hit the correct area, increased knockback distance, and more consistent knockbacks.
+Duration reduced to 4 seconds from 6.
+Heal per tick increased to 90 / 150 / 210 from 60 / 100 / 140.
+AP ratio increased to
+(+35% AP)
+from
+(+25% AP)
+V1.0.0.52
+General
+Selection radius adjusted to match her size.
+Eye of the Storm
+Mana cost reduced to 70 / 85 / 100 / 115 / 130 from 70 / 90 / 110 / 130 / 150.
+V0.9.25.24
+General
+Changed title to the Storm's Fury from the Avatar of Air.
+Zephyr
+Cast speed increased,
+Now properly labeled as a slow.
+V0.9.25.21
+General
+Ability order rearranged.
+Stats
+Added missing health regen per level.
+Added missing mana regen per level.
+Howling Gale
+Base damage increased to 60 / 85 / 110 / 135 / 160 from 50 / 70 / 90 / 110 / 130.
+Maximum charge duration reduced to 3 seconds from 4.
+Bonus damage increased to 20 / 25 / 30 / 35 / 40 per second charged from 15 / 20 / 25 / 30 / 35.
+AP ratio increased to
+75% AP
+from
+65% AP
+.
+Eye of the Storm
+AP ratio reduced to
+80% AP
+from
+100% AP
+Shield duration increased to 12 seconds from 8.
+Zephyr
+AP ratio reduced to
+80% AP
+from
+100% AP
+.
+V0.9.22.16
+Tailwind
+(Innate)
+Janna increases the movement speed of herself and allies by 3%.
+Howling Gale
+(Q)
+Janna creates a small storm that grows in size with time. On release, this storm will fly towards the direction it was cast in, dealing damage and knocking away any enemies in its path.
+Zephyr
+(W)
+Janna summons an air elemental that passively increases her movement speed and enables her to pass through units. She may also activate this ability to deal damage and slow an enemy's movement speed.
+Eye of the Storm
+(E)
+Janna conjures a defensive gale that shields her target from incoming damage while increasing their physical damage.
+Monsoon
+(Ultimate)
+Janna surrounds herself in a magical storm throwing enemies back. After the storm has settled, soothing winds heal nearby allies while the ability is active.
+Trivia
+[
+edit
+|
+edit source
+]
+Janna is
+voiced
+by
+Erin Fitzgerald
+.
+[2]
+Sona
+,
+DJ Sona
+and
+PsyOps Sona
+are also voiced by the same voice actress.
+During development she was called
+AirAvatar
+, which then turned into her title 'The Avatar of Air' before getting changed to 'The Storm's Fury'.
+Some localizations retain it (French:
+L'avatar De L'air
+).
+Janna's original lore might have been inspired by
+Storm
+from
+X-Men
+.
+She herself might have been based on
+Barbariccia
+from
+Final Fantasy IV
+.
+Janna is the only champion able to shield turrets (
+Eye of the Storm
+).
+Turrets can help her score
+kills
+indirectly by doing this.
+Janna's dance references
+DanceStudio's Jazz-Funk choreography.
+A side-by-side comparison can be seen
+here.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Enchanter
+Controllers
+are defensive casters that oversee the battlefield by protecting and opening up opportunities for their allies.
+Enchanters
+focus on amplifying their allies' effectiveness by directly augmenting them and defending them from incoming threats. Enchanters themselves are often quite fragile and bring relatively low damage to the table, meaning they really only shine when grouped together with others.
+Examples
+Janna
+Sona
+Soraka
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Zephyr
+COOLDOWN:
+8 / 7.
+5
+/ 7 / 6.
+5
+/ 6
+Passive:
+Janna
+gains
+bonus
+movement speed.
+and ignores unit collision.
+Active:
+Janna
+sends an air elemental to the target enemy, dealing
+magic damage
+and
+slowing
+them.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Howling Abyss
+The Howling Abyss is a bottomless crevasse located in the coldest, cruelest, part of the
+Freljord
+. Legends say that, long ago, a great battle took place here on the narrow bridge spanning this chasm. No one remembers who fought here, or why, but it is said that if you listen carefully to the wind you can still hear the cries of the vanquished tossed howling into the Abyss.
+Regular Modes
+Classic 5v5
+(
+All random
+)
+Custom
+Featured Game Modes
+Legend of the Poro King
+One For All
+One For All: Mirror Mode
+Snowdown Showdown
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Eye of the Storm
+COOLDOWN:
+16 / 15 / 14 / 13 / 12
+Whenever
+Janna's
+abilities
+slow
+or
+knock up
+at least one enemy
+champion
+, she refunds a portion of
+Eye of the Storm's
+cooldown.
+Active:
+Janna
+can target an allied champion,
+turret
+, or herself to place a
+shield
+that decays over a short time.
+While the shield holds, the target gains
+bonus
+attack damage
+.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Targeting forgiveness
+Certain unit-targeted abilities present an accuracy-grace system called
+targeting forgiveness
+.
+When no valid target is
+directly selected
+upon using the ability, it will automatically search for one within a certain
+center-to-center
+forgiveness radius
+. If a valid target is found within the forgiveness radius, the ability will automatically acquire them and cast on them. If multiple targets are found, the nearest one to the forgiveness radius' center is chosen.
+Only ally-targeted abilities may utilize this system. Not to be confused with a different, priority-based system that a few other spells (e.g.
+Smite
+) use.
+League of Legends content
+Cripple
+A unit that is
+crippled
+has reduced
+total
+attack speed
+for the duration.
+Sources of
+cripple
+stack multiplicatively with each other.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+cripple immunity
+.
+Removal:
+Removed by
+Cleanses
+and specifically
+Master Yi's
+Highlander
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Tailwind
+Innate:
+Nearby allied champions gain
+bonus
+movement speed
+while moving toward
+Janna
+.
+Her basic attacks and
+Zephyr
+deal
+bonus
+magic damage
+equal to a portion of her
+bonus
+movement speed
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Janna's profile page
+at
+LeagueOfLegends.com
+↑
+Janna's voice actress

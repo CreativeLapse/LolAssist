@@ -1,0 +1,2217 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Diana
+Scorn of the Moon
+Release date
+2012-08-07
+Last changed
+V14.9
+Class(es)
+Assassin
+Diver
+Legacy
+Fighter
+Assassin
+Position(s)
+Jungle
+Middle
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Magic
+Store price
+450
+|
+260
+Crafting
++
+270
+Ratings
+Damage
+3
+Toughness
+2
+Control
+2
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Diana
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Diana
+Base statistics
+Edit
+Health
+640
++109
+Mana
+375
++25
+Health regen. (per 5s)
+6.5
++0.85
+Mana regen. (per 5s)
+8
++0.8
+Armor
+31
++4.3
+Attack damage
+57
++3
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+345
+Attack range
+150
+Attack speed
+Base AS
+0.625
+Attack windup
+20.833%
+AS ratio
+0.694
+Bonus AS
++2
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+600
+Special statistics
+Damage Dealt
++2%
+Damage Received
+-2%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Moonsilver Blade
+EFFECT RADIUS:
+175
+Innate:
+Diana
+gains
+attack speed
+, increased shortly after casting an ability. Every third basic attack in quick succession will cleave nearby enemies, dealing
+magic damage
+.
+Innate:
+Diana
+gains
+15% − 35% (based on level)
+bonus
+attack speed
+. After casting an
+ability
+, this bonus is tripled to
+45% − 105% (based on level)
+for 5 seconds.
+Innate - Moonsilver Blade:
+Diana's
+basic attacks
+generate a
+stack
+of
+Moonsilver Blade
+for 5 seconds, refreshing on subsequent attacks and stacking up to 2 times. At 2 stacks,
+Diana
+empowers her next basic attack to consume the stacks
+on-hit
+to additionally cleave nearby enemies, dealing them
+20 − 220 (based on level)
+(+ 50% AP)
+magic damage
+.
+Moonsilver Blade
+deals 300% damage against
+monsters
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Parries
+Blocked
+Moonsilver Blade
+will affect
+structures
+.
+Each attack has a distinct animation and she will glow when the empowered attack is ready.
+Sometimes, the empowered basic attack will not consume the stacks.
+(bug)
+In this case, the attack will also not deal its damage.
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio changed to
+85% AP
+.
+Video
+Edit
+Crescent Strike
+COST:
+50 mana
+COOLDOWN:
+8 / 7.
+5
+/ 7 / 6.
+5
+/ 6
+CAST TIME:
+0.
+25
+TARGET RANGE:
+900
+SPEED:
+1900
+/
+2100
+Active:
+Diana
+unleashes a bolt of lunar energy that deals
+magic damage
+to enemies hit in an arc before exploding at the target location. Enemies hit are marked with
+Moonlight
+,
+revealing
+them.
+Active:
+Diana
+unleashes a bolt of lunar energy that travels in a counter-clockwise arc before exploding at the target location, granting
+sight
+of the area for 0.
+5
+seconds and dealing
+magic damage
+to enemies hit and afflicting them with
+Moonlight
+for 3 seconds, during which they are
+revealed
+.
+Magic Damage:
+60 / 95 / 130 / 165 / 200
+(+ 70% AP)
+Lunar Rush
+interacts with
+Moonlight
+.
+Crescent Strike will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Even if the target
+spell shields
+the bolt, they may still be damaged by the explosion.
+Moonlight
+is not applied to the protected target if blocked.
+This ability will cast from wherever the caster is at the end of the cast time.
+If the ability is cast at max range and she is moved backwards while casting, the bolt will travel to the target location with increased distance.
+(bug)
+Video
+Edit
+Pale Cascade
+COST:
+40 / 45 / 50 / 55 / 60 mana
+COOLDOWN
+:
+15 / 13.
+5
+/ 12 / 10.
+5
+/ 9
+CAST TIME:
+none
+EFFECT RADIUS:
+200
+Active:
+Diana
+shields
+herself, creating three orbiting spheres that detonate on contact with enemies to deal
+magic damage
+in an area. If all the spheres detonate, she gains more
+shield
+.
+Active:
+Diana
+grants herself a
+shield
+for up to 5 seconds and creates three spheres that orbit her counterclockwise for the same duration, detonating upon contact with an enemy to deal
+magic damage
+to nearby enemies.
+Shield Strength:
+45 / 60 / 75 / 90 / 105
+(+ 30% AP)
+(+ 9%
+bonus
+health)
+Magic Damage per Orb:
+18 / 30 / 42 / 54 / 66
+(+ 18% AP)
+Total Magic Damage:
+54 / 90 / 126 / 162 / 198
+(+ 54% AP)
+If all three spheres detonate,
+Pale Cascade's
+shield is reapplied, stacking with its original shield and refreshing the duration.
+Maximum Shield Strength:
+90 / 120 / 150 / 180 / 210
+(+ 60% AP)
+(+ 18%
+bonus
+health)
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+On the second application of
+Pale Cascade's
+shield,
+Shield Power
+will apply to both the new shield amount and the shield amount remaining from the first shield, which has already benefited from
+shield power
+.
+Because of this,
+shield power
+effectively applies to the second shield twice, but with reduced efficiency, for up to an increase of 50% of
+shield power
+(maximum benefit if no damage was mitigated by the first shield). With 10%
+shield power
+, the second shield's total amount will be increased by up to an additional 5%, for a total of
+15.
+5
+%
+bonus
+shield.
+The formula for the total amount of shield
+Diana
+will receive from both shield applications is:
+Total Shield = (((Shield Amount × (1 + Shield Power)) - Damage Blocked by Shield) + Shield Amount) × (1 + Shield Power)
+Map-Specific Differences
+Arena
+differences
+edit
+Base shield changed to 60 / 85 / 110 / 135 / 160.
+Video
+Edit
+Lunar Rush
+COST:
+40 / 45 / 50 / 55 / 60 mana
+COOLDOWN:
+22 / 20 / 18 / 16 / 14
+CAST TIME:
+none
+TARGET RANGE:
+825
+Active:
+Diana
+dashes
+to an enemy and deals
+magic damage
+. If used on a target afflicted with
+Moonlight
+, the cooldown is massively
+reduced
+.
+Active:
+Diana
+dashes
+to the target enemy's location, and upon completion, she deals them
+magic damage
+and consumes
+Moonlight
+from all enemies. If the target is within 400 range,
+Diana
+will dash through their location.
+Magic Damage:
+50 / 70 / 90 / 110 / 130
+(+ 60% AP)
+If
+Moonlight
+is consumed from the target,
+Lunar Rush's
+current
+cooldown
+is reduced to 0.
+25
+seconds.
+Diana
+can cast any of her abilities during the dash.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Diana
+will attempt to basic attack the target. This will not grant a stack of
+Conqueror
+,
+Electrocute
+, or
+Phase Rush
+.
+Lunar Rush's
+cooldown will also be reset if the target dies during the dash while being affected by
+Moonlight
+.
+Lunar Rush
+consumes
+Moonlight
+upon ending the dash (even if
+interrupted
+).
+Lunar Rush
+will still deal damage even if the target is
+untargetable
+by the end of the dash.
+If
+Lunar Rush
+is blocked by
+spell shield
+the
+Moonlight
+debuff is still consumed but
+Lunar Rush's
+cooldown is not reset.
+Tips & Tricks
+Since
+Moonlight
+is consumed upon ending the dash, a
+Crescent Strike
+cast mid-dash can still cause a reset.
+Lunar Rush
+only consumes present
+Moonlight
+from the enemies. Because of this, it is possible for
+Lunar Rush
+to be reset multiple times during the same
+Crescent Strike
+cast, until it finishes its trajectory.
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 20 / 18 / 16 / 14 / 12 seconds.
+Video
+Edit
+Moonfall
+COST:
+100 mana
+COOLDOWN:
+100 / 90 / 80
+CAST TIME:
+0.
+25
+EFFECT RADIUS:
+475
+/
+225
+Active:
+Diana
+draws
+in and
+slows
+nearby enemies. If she pulls an enemy
+champion
+, she calls down a beam of moonlight to strike upon the area after a delay, dealing
+magic damage
+, increased if she pulled more champions.
+Active:
+Diana
+pulls
+in all nearby enemies, during which they are
+revealed
+, then
+slows
+them for 2 seconds.
+Slow:
+40 / 50 / 60%
+If an enemy
+champion
+is pulled in, she calls down a beam of moonlight to strike upon the area around her after 1 second, dealing
+magic damage
+to all nearby enemies, increased for each champion pulled beyond the first.
+Magic Damage:
+200 / 300 / 400
+(+ 60% AP)
+Bonus Damage Per Champion:
+35 / 60 / 85
+(+ 15% AP)
+Total Damage Vs. 5 Champions:
+340 / 540 / 740
+(+ 120% AP)
+"Night approaches!"
+Info
+Targeting input
+Auto
+Invalid target override
+The ability will cast with no valid targets.
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Enemies stay in the area for a maximum of approximately 0.
+5
+seconds while being pulled.
+Crowd control immunity
+and
+displacement immunity
+still count as being "pulled in" by the ability.
+Clones
+count as champions for increasing this ability's damage.
+Moonfall's
+additional damage is not capped at 4 champions.
+The beam of moonlight does not crash down if champions hit blocked the initial effect with
+spell shield
+.
+Enemy champions protected by
+spell shield
+do not count towards the damage increase.
+This ability will cast from wherever the caster is at the end of the cast time.
+A lunar phase of the moon will appear above
+Diana
+while she is casting
+Moonfall
+, each phase is based on the number of enemy
+champions
+pulled:
+New Moon:
+1
+Enemy Champion Pulled
+Waning Crescent:
+2
+Enemy Champions Pulled
+Third Quarter:
+3
+Enemy Champions Pulled
+Waning Gibbous:
+4
+Enemy Champions Pulled
+Full Moon:
+5
+Enemy Champions Pulled
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 350 / 550 / 750.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Diana (Collection)
+.
+Original
+View in 3D
+880
+07.08.2012
+Bearing her crescent moonblade, Diana fights as a warrior of the Lunari—a faith all but quashed in the lands around Mount Targon. Clad in shimmering armor the color of winter snow at night, she is a living embodiment of the silver moon’s power. Imbued with the essence of an Aspect from beyond Targon’s towering summit, Diana is no longer wholly human, and struggles to understand her power and purpose in this world.
+Nicole Oliver
+Kienan 'Knockwurst' Lafferty
+Loot eligible
+Dark Valkyrie
+View in 3D
+975
+07.08.2012
+Occasionally, a valkyrie will be seduced by the comforts of mortal life, and be cast out from the halls of Valhalla. Understandably, this makes them pretty upset with Valhalla's whole management style.
+Nicole Oliver
+Pan Chengwei
+Fables
+Loot eligible
+New SFX/VFX
+Lunar Goddess
+View in 3D
+975
+28.01.2014
+Nicole Oliver
+Michal Ivan, Puppetworks Animation Studio
+Lunar Revel
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Lunar Goddess Diana Chromas
+Amethyst
+Aquamarine
+Obsidian
+Pearl
+Peridot
+Ruby
+Turquoise
+Infernal
+View in 3D
+1350
+20.04.2016
+Chief among the lesser Infernals is Diana, a blistering elemental terror sent ahead of the main invasion forces to assassinate key officials and set cities ablaze. Even her kin regard her methods as extreme, and she has been rightly elevated for it.
+Nicole Oliver
+Yan Li
+Infernal
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Blood Moon
+View in 3D
+1350
+09.02.2017
+A child chosen by the Blood Moon itself, Diana's mind has been opened to the lost ways of the cult—unknown to its leaders, and even the slavering demons beyond. Hers is a truth no one can know, and a fated metamorphosis beyond men and the gods.
+Nicole Oliver
+Pan Chengwei
+Blood Moon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Dark Waters
+View in 3D
+1350
+31.05.2018
+Diana was once an extremist within the Order of the Mother Serpent, but now spends her days murdering her employer's enemies by the light of the moon. In Bilgewater it's less about who you were, and more about the message you send.
+Nicole Oliver
+Xu 'Crow God' Cheng
+Bilgewater: Curse of the Drowned
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dark Waters Diana Chromas
+Obsidian
+Pearl
+Ruby
+Sapphire
+Turquoise
+Dragonslayer
+View in 3D
+1350
+30.01.2020
+Legends tell of a special breed of dragons ravaging the countryside who can hide under the veil of nightshade. While other dragonslayers may think twice about challenging such dangerous foes, Diana dives in head first—her blade and armor forged from the very remains of these ghastly draconic beasts.
+Nicole Oliver
+Xiao Guang Sun, West Studio
+Dragon World
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dragonslayer Diana Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Ruby
+Sapphire
+Battle Queen
+View in 3D
+1350
+10.12.2020
+Exiled for heresy, Diana has assented to return to her queendom to save her people—nothing else. She intends to use the Coronation to prove her worth and force Eos' elders to admit the truth of her beliefs: that the Crest answers to the will of the nation, not its leaders.
+Nicole Oliver
+Francis Tneh, West Studio
+Battle Queens
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Prestige Battle Queen
+View in 3D
+Special
+10.12.2020
+After revealing the truth at her nomination ceremony, Diana will let nothing stand in her way. Clad in new armor as steely as her resolve, Diana intends to subdue the Tournament's monsters—and the power-hungry religious order that has stifled Eosia.
+Nicole Oliver
+Sanhua Chen, Kudos Productions
+Battle Queens
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Battle Queen
+. Store variants are discounted for multiple purchases.
+Sentinel
+View in 3D
+1350
+08.07.2021
+The Ruination of Targon and the loss of the Aspect of War devastated the Rakkor tribes. But the only way to fight an Aspect's power is with another Aspect—and so Diana takes up her blade as a member of the Sentinels, knowing that Viego would destroy everything the moonlight touches.
+Nicole Oliver
+Alex 'alexplank' Flores
+Sentinels of Light
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Sentinel Diana Chromas
+Citrine
+Emerald
+Pearl
+Resolute
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Firecracker
+View in 3D
+1350
+26.01.2022
+Market stalls offer the Lady of the Moon their wares freely, in hope of receiving a blessing for the New Year. Diana is happy to oblige, even if it means getting stopped every few feet by another well-wisher… Luckily, Diana's festival buddies are patient.
+Nicole Oliver
+West Studio
+Lunar Revel: Firecracker
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Firecracker Diana Chromas
+Catseye
+Emerald
+Golden Tiger
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Winterblessed
+View in 3D
+1820
+08.12.2022
+One can learn many lessons from the tales of Polaris, the living embodiment of the Aurora. Each year brings a new Polaris and a new chance to receive the Aurora's blessings—or its punishments. This incarnation of Polaris, Diana, arrived to find three local leaders waiting for her, eager for blessings: the Hunter Swain, Sage Zilean, and Warden Zoe.
+Nicole Oliver
+Bo 'chenbowow' Chen
+Winterblessed
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Transforming
+Chromas
+Winterblessed Diana Chromas
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Turquoise
+Wreathguard
+Heavenscale
+View in 3D
+1350
+07.02.2024
+The library of the Kingdom of Dragons is an illustrious archive of wisdom from ages past: a collection kept by Diana, scholar of the court. A fierce academic as well as a fighter, she accompanies the prince on his journey to document this historical first encounter between dragons and humans.
+Nicole Oliver
+Terence 'Terrylefruit' Cantal
+Heavenscale
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Heavenscale Diana Chromas
+Aquamarine
+Citrine
+Emerald
+Lustrous
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Dark Cosmic
+View in 3D
+1350
+23.10.2024
+Diana was once a favorite of Cosmic Queen Ashe, but was labeled a heretic and banished for trying to understand the Dark Star's power with a little too much interest for the Court's comfort. Left adrift in the bleak nothingness of space, she had no choice but to embrace the chaos that had fascinated her for so long.
+Nicole Oliver
+Su Fu, Kudos Productions
+Dark Star
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dark Cosmic Diana Chromas
+Catseye
+Emerald
+Pearl
+Quasar
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Prestige Dark Cosmic
+View in 3D
+Special
+23.10.2024
+Diana has always been lightyears ahead of the fashion world, unafraid to be avant-garde when others shy away. This Gala, she was inspired by event horizons and waves of energy bending and twisting across space and time, lending darkly cosmic shapes to her striking, out-of-this-world look.
+Nicole Oliver
+Ina Wong, West Studio
+Dark Star
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Dark Cosmic
+. Store variants are discounted for multiple purchases.
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.9
+Stats
+Selection radius increased to 120 units from 75.
+V14.7
+Moonsilver Blade
+Bug Fix:
+Tooltip now notes the correct duration of the buff due to 14.6 changes.
+V14.6
+Stats
+Attack speed ratio increased to 0.
+694
+from 0.
+625
+.
+Attack speed growth reduced to 2% from 2.
+25
+%.
+Moonsilver Blade
+Bonus attack speed reduced to
+15% − 35% (based on level)
+from
+15% − 40% (based on level)
+.
+Empowered bonus attack speed reduced to
+45% − 105% (based on level)
+from
+45% − 120% (based on level)
+.
+Empowered bonus attack speed duration increased to 5 seconds from 3.
+Pale Cascade
+Bug Fix:
+The initial shield no longer lasts 1 second shorter than intended.
+Lunar Rush
+Bug Fix:
+The cooldown reset now properly takes place upon colliding with the target.
+V14.5
+Moonsilver Blade
+Bug Fix:
+Buff no longer desyncs to trigger the empowered attack every 2 or 4 basic attacks, instead of the intended 3.
+Lunar Rush
+Cooldown reset upon consuming
+Moonlight
+reduced to 0.
+25
+seconds from 0.
+5
+.
+Bug Fix:
+Cooldown is no longer sometimes reset a second time after only consuming
+Moonlight
+once.
+V14.4
+Winterblessed Diana
+Bug Fix:
+Pentakill VFX on the river terrain in Summoner's Rift is now properly rendered and no longer renders slightly higher than intended on normal elevated terrain.
+V13.14
+Pale Cascade
+Base shield increased to 45 / 60 / 75 / 90 / 105 from 40 / 55 / 70 / 85 / 100.
+Shield AP ratio increased to
+30% AP
+from
+25% AP
+.
+Damage AP ratio per orb increased
+18% AP
+from
+15% AP
+.
+Lunar Rush
+AP ratio increased to
+60% AP
+from
+50% AP
+.
+V13.8
+Crescent Strike
+Bug Fix:
+Missile range is no longer shorter or longer than intended if
+Flash
+is used during the cast time.
+V12.16
+Moonsilver Blade
+Base damage reduced to
+20 − 220 (based on level)
+from
+20 − 250 (based on level)
+.
+Lunar Rush
+AP ratio increased to
+50% AP
+from
+45% AP
+.
+V12.10
+- May 25th Hotfix
+Pale Cascade
+Base shield increased to 40 / 55 / 70 / 85 / 100 from 25 / 40 / 55 / 70 / 85.
+Lunar Rush
+Base damage increased to 50 / 70 / 90 / 110 / 130 from 40 / 60 / 80 / 100 / 120.
+AP ratio increased to
+45% AP
+from
+40% AP
+.
+V12.10
+Stats
+Base health increased to 640 from 570.
+Health growth increased to 109 from 95.
+Armor growth increased to 4.
+3
+from 3.
+1
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Pale Cascade
+Base shield reduced to 25 / 40 / 55 / 70 / 85 from 30 / 45 / 60 / 75 / 90.
+Shield AP ratio reduced to
+25% AP
+from
+30% AP
+.
+Shield health ratio reduced to
+9%
+bonus
+health
+from
+10%
+.
+V12.1
+Moonsilver Blade
+Cleave AP ratio increased to
+50% AP
+from
+40% AP
+.
+Damage against monsters increased to 300% from 250%.
+V11.16
+Moonsilver Blade
+Damage against monsters reduced to 250% from 300%.
+V11.10
+Moonsilver Blade
+Bug Fix:
+Muramana's
+Shock now triggers on secondary targets properly.
+V11.9
+Stats
+Armor growth reduced to 3.
+1
+from 3.
+6
+.
+Base health regeneration reduced to 6.
+5
+from 7.
+5
+.
+Moonsilver Blade
+Bonus attack speed reduced to
+15% − 40% (based on level)
+from
+20% − 40% (based on level)
+.
+Maximum bonus attack speed reduced to
+45% − 120% (based on level)
+from
+60% − 120% (based on level)
+.
+V11.8
+Moonsilver Blade
+Damage against monsters increased to 300% from 150%.
+Bonus attack speed increased to
+20% − 40% (based on level)
+from
+10% − 40% (based on level)
+.
+Maximum bonus attack speed increased to
+60% − 120% (based on level)
+from
+30% − 120% (based on level)
+.
+Dark Waters Diana
+Crescent Strike
+Bug Fix:
+VO now properly plays.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.14
+Crescent Strike
+Bug Fix:
+Moonlight no longer applies to champions who've blocked it via a spell shield.
+Lunar Rush
+Bug Fix:
+Cooldown no longer resets when the Moonlight from
+Crescent Strike
+is blocked by spell shields.
+V10.10
+Stats
+Base health reduced to 570 from 594.
+Base attack damage reduced to 57 from 57.
+04
+.
+V10.4
+Moonsilver Blade
+New Effect:
+Now deals 150% damage against non-epic monsters.
+V10.3
+Stats
+Base mana reduced to 375 from 420.
+Pale Cascade
+Base damage reduced to 18 / 30 / 42 / 54 / 66 from 22 / 34 / 46 / 58 / 70.
+V9.24
+- December 17th Hotfix
+Lunar Rush
+Bug Fix:
+The basic attack after dashing now correctly stacks
+Conqueror
+.
+V9.24
+- Gameplay Update
+General
+New visual and sound effects.
+Touched up the VFX of all her abilities, including a brand new VFX for her ultimate and better visuals on her passive.
+Touched up all the SFX of all her abilities, most notably the shield and her dashes, as well as brand new SFX for her ultimate and passive.
+Stats
+Base mana increased to 420 from 372.
+Mana growth increased to 25 from 20.
+Base attack damage increased to 57.
+04
+from 53.
+04
+.
+Moonsilver Blade
+New ability icon.
+New Innate:
+Diana
+permanently has
+10% − 40% (based on level)
+bonus
+attack speed
+. After casting an ability, this bonus is tripled to
+30% − 120% (based on level)
+for 3 seconds.
+Diana
+is granted one
+Moonsilver Blade
+stack for every basic attack on-hit within 3.
+5
+seconds of each other, up to a maximum of two. At two stacks,
+Diana's
+next basic attack on-hit consumes the stacks to cleave nearby enemies for
+20 − 250 (based on level)
+(+ 40% AP)
+magic damage.
+Applies spell effects.
+Crescent Strike
+New ability icon.
+Mana cost reduced to 50 from 55.
+Undocumented:
+The ability now applies
+Moonlight
+even if the target dies from
+Crescent Strike
+.
+Pale Cascade
+New ability icon.
+Cooldown changed to 15 / 13.
+5
+/ 12 / 10.
+5
+/ 9 seconds from 10 at all ranks.
+Undocumented:
+Mana cost reduced to 40 / 45 / 50 / 55 / 60 from 40 / 55 / 70 / 85 / 100.
+Base shield strength reduced to 30 / 45 / 60 / 75 / 90 from 40 / 55 / 70 / 85 / 100.
+AP ratio per orb reduced to
+15% AP
+from
+20% AP
+.
+Total damage AP ratio reduced to
+45% AP
+from
+60% AP
+.
+New Effect:
+Shield now scales with
+10%
+bonus
+health
+.
+Lunar Rush
+(Reworked E)
+Swapped with
+Moonfall
+.
+New ability icon.
+Active:
+Diana
+dashes to an enemy dealing 40 / 60 / 80 / 100 / 120
+(+ 40% AP)
+magic damage, resetting its cooldown if enemies are affect by
+Moonlight
+.
+Cooldown:
+22 / 20 / 18 / 16 / 14 seconds.
+Mana Cost:
+40 / 45 / 50 / 55 / 60.
+Range:
+825 units.
+Undocumented:
+Consuming one
+Moonlight
+from a
+Crescent Strike
+cast no longer disables successive
+Moonlight
+applications from the same cast.
+Undocumented:
+No longer gains a stack of
+Conqueror
+from the basic attack issued automatically after dashing to a target with
+Lunar Rush
+.
+Moonfall
+(Reworked R)
+Swapped with
+Lunar Rush
+.
+New ability icon.
+Active:
+Reveals
+,
+draws in
+, and
+slows
+all nearby enemies for 40 / 50 / 60% for 2 seconds. If
+Diana
+pulls in one or more enemy champions, the moonlight crashes down onto her after 1 second, dealing 200 / 300 / 400
+(+ 60% AP)
+magic damage in an area around her, increased by 35 / 60 / 85
+(+ 15% AP)
+for each champion pulled beyond the first.
+Cooldown:
+100 / 90 / 80 seconds.
+Mana Cost:
+100.
+Pull Distance:
+225 units.
+Effect Radius:
+475 units.
+Trivia
+[
+edit
+|
+edit source
+]
+Diana
+derives from
+PIE
+root
+*dyew-
+"to shine".
+She shares her name with
+Diana
+. Roman goddess of the Moon.
+[2]
+Diana's concept artist
+Michael 'IronStylus' Maurino
+has confirmed that Diana was intended to be lesbian when she was first created.
+[3]
+Her forbidden relationship with
+Leona
+was later canonized in the short story
+"Rise with Me"
+.
+Diana is the first champion to feature animations for when affected by both
+crowd control
+and
+movement speed
+buffs
+.
+Moonfall's
+indicator above Diana references the
+Lunar phase
+.
+[4]
+1 enemy: New moon
+2 enemies: Waning crescent
+3 enemies: Last quarter
+4 enemies: Waning gibbous
+5 enemies: Full moon
+A functional replica of
+Crescent Moonblade
+was crafted in an episode of YouTube series
+Man At Arms: Reforged
+.
+There are also videos where the following are crafted:
+Katarina's
+Daggers
+(
+functional
+)
+Leona's
+Zenith Blade
+(
+functional
+)
+Master Yi's
+'Highlander' Ring Sword
+(
+functional
+)
+Poppy's
+Hammer of Orlon
+(
+functional
+)
+Yasuo's
+'Last Breath' Sword
+(
+functional
+)
+Ziggs'
+Hexplosive Bomb
+(
+prop
+)
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Assassin
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Assassins
+specialize in infiltrating enemy lines with their unrivaled mobility to quickly dispatch high-priority targets. Due to their mostly melee nature, Assassins must put themselves into dangerous positions in order to execute their targets. Luckily, they often have defensive tricks up their sleeves that, if used cleverly, allow them to effectively avoid incoming damage.
+Examples
+Akali
+Evelynn
+Zed
+League of Legends content
+Diver
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+Divers
+are the more mobile portion of the Fighter class. Divers excel at singling out high-priority targets to blitz toward, immediately forcing those targets (and their teammates) to deal with the diver’s presence. Divers are not as durable as the tanks or juggernauts of the world, but Divers can take their fair share of punishment while bringing enough damage to be a real kill threat if left unchecked.
+Examples
+Hecarim
+Jarvan IV
+Vi
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Standard sight
+Standard sight
+reveals units through
+fog of war
+and
+brush
+, but
+not
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Lunar Rush
+COOLDOWN:
+22 / 20 / 18 / 16 / 14
+Active:
+Diana
+dashes
+to an enemy and deals
+magic damage
+.
+If used on a target afflicted with
+Moonlight
+, the cooldown is massively
+reduced
+.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Crescent Strike
+COOLDOWN:
+8 / 7.
+5
+/ 7 / 6.
+5
+/ 6
+Active:
+Diana
+unleashes a bolt of lunar energy that deals
+magic damage
+to enemies hit in an arc before exploding at the target location.
+Enemies hit are marked with
+Moonlight
+,
+revealing
+them.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Interrupt
+Interrupt
+is a quality of crowd control that
+interrupts
+an in-progress effect, preventing its completion or causing the effect to go off at an
+interrupted
+state.
+The following crowd control effects
+interrupt
+channeled and charged
+abilities (unless otherwise noted by the ability):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+The following crowd control effects
+interrupt
+dashes
+:
+Airborne
+Knockdown
+Stasis
+Basic attack windups
+are
+interrupted
+by all forms of crowd control that inhibit attacking.
+Ground
+and
+Root
+only
+interrupt
+channeled and charged movement abilities.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Cc-Immune
+Crowd control immunity
+prevents
+any
+type of
+crowd control
+from being
+applied
+to the unit. CC which has already been applied will still have an effect on the unit. Epic
+monsters
+(excluding a summoned
+Rift Herald
+) and
+turrets
+are always immune to all crowd control, with the exception of
+stasis
+.
+League of Legends content
+Displacement immune
+A unit that is
+displacement immune
+is
+immune
+to all
+Airborne
+effects in addition to the following effects:
+Crowd control
+Knockdown
+Suspension
+Kinematics
+Sleep
+Stasis
+Champion abilities
+Ambessa's
+Public Execution
+Mordekaiser's
+Realm of Death
+Skarner's
+Ixtal's Impact
+and
+Impale
+Sett's
+The Show Stopper
+Tahm Kench's
+Devour
+League of Legends content
+Clone
+A
+clone
+or
+decoy
+is a specific type of
+pet
+that attempts to imitate a
+champion
+, copying their current vitality, stats, items, level, and most status effects upon creation. They are considered champions against many effects that do not strictly require
+player
+champions, else they are considered
+minions
+either small or large among certain cases.
+The
+damage
+they deal is attributed to them alone, but they transfer last hit and kill credit. Killing a
+clone
+awards
+25
+and
+44
+.
+League of Legends content
+Moonsilver Blade
+Innate:
+Diana
+gains
+attack speed
+, increased shortly after casting an ability.
+Every third basic attack in quick succession will cleave nearby enemies, dealing
+magic damage
+.
+League of Legends content
+Pale Cascade
+COOLDOWN:
+15 / 13.
+5
+/ 12 / 10.
+5
+/ 9
+Active:
+Diana
+shields
+herself, creating three orbiting spheres that detonate on contact with enemies to deal
+magic damage
+in an area.
+If all the spheres detonate, she gains more
+shield
+.
+League of Legends content
+Moonfall
+COOLDOWN:
+100 / 90 / 80
+Active:
+Diana
+draws
+in and
+slows
+nearby enemies.
+If she pulls an enemy
+champion
+, she calls down a beam of moonlight to strike upon the area after a delay, dealing
+magic damage
+, increased if she pulled more champions.
+League of Legends content
+Preparation
+COOLDOWN:
+15 / 14 / 13 / 12 / 11
+Active:
+Katarina
+gains a burst of
+movement speed
+, tossing a
+Dagger
+into the air directly above herself.
+References
+[
+edit
+|
+edit source
+]
+↑
+Diana's profile page
+at
+LeagueOfLegends.com
+↑
+IronStylus on champion names
+↑
+IronStylus on Diana's sexuality
+↑
+Moonfall indicator

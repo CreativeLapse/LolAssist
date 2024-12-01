@@ -1,0 +1,2662 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Darius
+the Hand of Noxus
+Release date
+2012-05-23
+Last changed
+V14.9
+Class(es)
+Juggernaut
+Legacy
+Fighter
+Tank
+Position(s)
+Top
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+450
+|
+260
+Crafting
++
+270
+Ratings
+Damage
+3
+Toughness
+2
+Control
+2
+Mobility
+1
+Utility
+1
+Style
+Difficulty
+Darius
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Darius
+Base statistics
+Edit
+Health
+652
++114
+Mana
+263
++58
+Health regen. (per 5s)
+10
++0.95
+Mana regen. (per 5s)
+6.6
++0.35
+Armor
+39
++5.2
+Attack damage
+64
++5
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+340
+Attack range
+175
+Attack speed
+Base AS
+0.625
+Attack windup
+20% (mod. 0.5)
+AS ratio
+N/A
+Bonus AS
++1
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+26
+Acq. radius
+400
+Special statistics
+Damage Dealt
++5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-10%
+Damage Received
++5%
+Damage Dealt
++5%
+Damage Received
+-15%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Hemorrhage
+Innate:
+Darius'
+basic attacks and damaging abilities apply a stack of
+Hemorrhage
+, stacking up to a cap.
+Darius
+becomes empowered with
+Noxian Might
+for a few seconds whenever he kills an enemy with
+Noxian Guillotine
+or applies maximum stacks to an enemy
+champion
+.
+Hemorrhage:
+Deal
+physical damage
+to the target over a few seconds. For each stack, this damage is increased.
+Noxian Might:
+Darius
+gains
+attack damage
+and always applies the maximum stacks of
+Hemorrhage
+.
+Innate:
+Darius'
+damaging
+basic attacks
+and
+abilities
+apply a
+stack
+of
+Hemorrhage
+to enemies for 5 seconds, refreshing on subsequent applications and stacking up to 5 times.
+Hemorrhage:
+For each stack, the target is dealt
+「
+13 − 30 (based on level)
+(+ 30%
+bonus
+AD)
+total
+physical damage
+over the duration, 」
+「
+3.
+25
+− 7.
+5
+(based on level)
+(+ 7.
+5
+%
+bonus
+AD)
+physical damage
+every 1.
+25
+seconds over the duration, 」
+up to a maximum of
+「
+65 − 150 (based on level)
+(+ 150%
+bonus
+AD)
+total
+physical damage
+over the duration. 」
+「
+16.
+25
+− 37.
+5
+(based on level)
+(+ 37.
+5
+%
+bonus
+AD)
+physical damage
+with each tick. 」
+Hemorrhage
+deals 300% damage against
+monsters
+.
+When
+Darius
+kills a champion with
+Noxian Guillotine
+, or applies 5 stacks on an enemy
+champion
+, he becomes empowered with
+Noxian Might
+for 5 seconds.
+Noxian Might:
+Darius
+gains
+30 − 230 (based on level)
+bonus
+attack damage
+and instantly applies 5
+Hemorrhage
+stacks through his usual means.
+"Witness true strength
+"
+Info
+Targeting input
+Passive
+Damage type
+Type
+Default damage
+Sub-type
+Physical
+Counters
+Spell shield
+See Notes
+Parries
+Blocked
+If Hemorrhage's
+total
+post-mitigation
+damage is higher than the
+target's
+current
+health
+, a small area of
+sight
+is granted around the target for the duration of Hemorrhage and for another 2 seconds after it ends.
+Hemorrhage
+does not apply to
+structures
+nor
+wards
+.
+Darius'
+attacks and abilities have to deal damage to apply
+Hemorrhage
+.
+Hemorrhage
+cannot be applied to/refreshed against
+invulnerable
+targets.
+Hemorrhage
+can
+be applied to and refreshed against
+shielded
+targets.
+Hemorrhage
+can also be applied
+on-hit
+, but will specifically not do so if the target is invulnerable.
+Spell shield
+prevents
+Hemorrhage's
+application from abilities only.
+Video
+Edit
+Decimate
+COST:
+25 / 30 / 35 / 40 / 45 mana
+COOLDOWN
+:
+9 / 8 / 7 / 6 / 5
+CAST TIME:
+none
+EFFECT RADIUS:
+240
+/
+460
+Active:
+Darius
+briefly winds up to spin his axe in a circle, dealing
+physical damage
+to enemies hit. When
+Darius
+hits a
+champion
+with the blade, he applies a
+Hemorrhage
+stack and
+heals
+based on
+his
+missing
+health
+, multiplied by the number of champions hit up to 3. Enemies hit by the handle receive reduced damage and do not gain a
+Hemorrhage
+stack.
+Active:
+Darius
+hefts his axe for 0.
+75
+seconds, and then swings it around himself, dealing
+physical damage
+to nearby enemies, reduced to 35% against enemies hit by the inner radius.
+Physical Damage:
+50 / 80 / 110 / 140 / 170
+(+ 100 / 110 / 120 / 130 / 140% AD)
+Reduced Damage:
+17.
+5
+/ 28 / 38.
+5
+/ 49 / 59.
+5
+(+ 35 / 38.
+5
+/ 42 / 45.
+5
+/ 49% AD)
+Against champions and large monsters hit,
+Darius
+heals
+for
+15% − 45% (based on number of targets hit by the outer radius)
+of his
+missing
+health
+. Enemies hit by the inner radius do not refresh the duration of or gain a new stack of
+Hemorrhage
+.
+Darius
+is unable to declare basic attacks or cast
+Apprehend
+or
+Noxian Guillotine
+during Decimate.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Decimate
+will cancel if
+Darius
+enters
+stasis
+or uses
+Dash
+during the delay.
+After the delay,
+Decimate
+will be placed on a 1-second cooldown.
+Map-Specific Differences
+Arena
+differences
+edit
+AD ratio changed to
+80 / 90 / 100 / 110 / 120% AD
+.
+Heal per champion hit changed to
+10% of his
+missing
+health
+.
+Cooldown changed to 10 / 9 / 8 / 7 / 6 seconds.
+Video
+Edit
+Crippling Strike
+COST:
+40 mana
+COOLDOWN
+:
+5
+CAST TIME:
+none
+Active:
+Darius'
+next basic attack within a few seconds deals increased
+physical damage
+and
+slows
+the target. If the empowered attack kills the target, the cooldown is
+reduced
+and the
+mana cost
+is refunded.
+Active:
+Darius
+empowers his next basic attack within 4 seconds to have an
+uncancellable windup
+, gain
+25
+bonus
+range
+, deal
+bonus
+physical damage
+and
+slow
+the target by 90% for 1 second. This damage is affected by
+critical strike
+modifiers.
+Bonus Physical Damage:
+40 / 45 / 50 / 55 / 60% AD
+If this attack kills the target, half of
+Crippling Strike's
+cooldown
+is reduced and its
+mana cost
+is refunded.
+Crippling Strike
+resets
+Darius'
+basic attack timer.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Counters
+Spell shield
+See Notes
+Parries
+Blocked
+Spell shield
+will not block the damage.
+The attack's animation can be cancelled by casting
+Decimate
+, but the attack will still land.
+Crippling Strike
+will trigger
+Manaflow Band
+,
+Tear of the Goddess'
+Mana Charge
+and
+spell effects
+.
+Despite its name,
+Crippling Strike
+does not
+cripple
+anymore
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 7 seconds.
+Video
+Edit
+Apprehend
+COST:
+70 / 60 / 50 / 40 / 30 mana
+COOLDOWN:
+24 / 21.
+5
+/ 19 / 16.
+5
+/ 14
+CAST TIME:
+0.
+25
+EFFECT RADIUS:
+535
+ANGLE:
+50°
+Passive:
+Darius
+gains
+armor penetration
+.
+Active:
+Darius
+sweeps in a cone in the target direction,
+slowing
+and
+pulling
+enemies hit towards him.
+Passive:
+Darius
+gains
+armor penetration
+.
+Armor Penetration:
+20 / 25 / 30 / 35 / 40%
+Active:
+Darius
+sweeps his axe in a cone in the target direction, granting
+sight
+of the area for 1 second while
+pulling
+enemies hit towards him. Upon arrival, they rebound
+150
+units off of him, remaining
+airborne
+and becoming
+slowed
+by 40% for 1 second.
+Darius
+is unable to move or cast
+Decimate
+or
+Noxian Guillotine
+for 0.
+4
+seconds after Apprehend's cast time.
+Info
+Targeting input
+Direction
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Enemies hit by
+Apprehend
+will quickly be dragged to
+Darius
+before rebounding over a longer period.
+The
+slow
+duration starts as soon as the target rebounds off of
+Darius
+.
+PENDING FOR TEST:
+: The rebound location is determined when the target reaches
+Darius'
+location.
+The rebound's forced movement's duration is roughly 0.
+5
+seconds, finishing before the
+airborne
+duration ends.
+PENDING FOR TEST:
+: There is no
+stun
+applied for the same duration of the
+airborne
+, meaning
+brittle
+cannot extend the disable duration. It will not increase the
+slow
+duration in most situations because of the negative tenacity falling off before the slow is applied.
+After the pull,
+Darius
+will attempt to basic attack the closest pulled target, prioritizing enemy champions.
+The armor penetration
+stacks multiplicatively
+with other forms of
+percentage armor penetration
+.
+This ability will cast from wherever the caster is at the end of the cast time.
+Type
+Cast time
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Video
+Edit
+Noxian Guillotine
+COST:
+100 / 100 / 0 mana
+COOLDOWN
+:
+120 / 100 / 80
+CAST TIME:
+0.
+3667
+TARGET RANGE:
+475
+Active:
+Darius
+leaps
+to an enemy champion and strikes a lethal blow, dealing
+true damage
+based on the target's current
+Hemorrhage
+stacks. If the target dies very briefly afterwards,
+Noxian Guillotine's
+cooldown is temporarily
+reset
+, and nearby
+minions
+and
+monsters
+are
+feared
+and
+slowed
+.  At max rank,
+Noxian Guillotine
+permanently resets its cooldown if the target dies very briefly afterwards.
+Active:
+Darius
+attempts to execute the target enemy
+champion
+,
+leaping
+towards them to deal
+true damage
+, increased by
+0% − 100% (based on target's
+Hemorrhage stacks)
+, and granting
+sight
+of the area around them for 2.
+5
+seconds from the start of the cast time.
+True Damage:
+125 / 250 / 375
+(+ 75%
+bonus
+AD)
+Bonus Damage Per Stack:
+25 / 50 / 75
+(+ 15%
+bonus
+AD)
+Maximum True Damage:
+250 / 500 / 750
+(+ 150%
+bonus
+AD)
+If the target dies within 0.
+15
+seconds after being hit by
+Noxian Guillotine
+,
+Darius
+fears
+nearby
+minions
+and
+monsters
+for 3 seconds, during which they are gradually
+slowed
+by up to 99% over the duration. He can also recast the ability within 20 seconds at no cost, which refreshes on further executions.
+At rank 3,
+Noxian Guillotine
+has no
+mana cost
+and recast timer.
+Darius
+is unable to cast
+Decimate
+or
+Apprehend
+for 0.
+25
+seconds after Noxian Guillotine's cast time.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+True
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Not Interrupted
+Noxian Guillotine's
+cooldown after the recast or recast window is calculated by taking the values at the end, and using this formula: (
+Noxian Guillotine's
+Cooldown - time since first cast) × 100 ÷ (100 +
+AH
+).
+Noxian Guillotine
+applies
+Hemorrhage
+after the damage.
+Darius
+will only leap towards the target if it is at range, or leap backwards if it is very close.
+This leap can pass very thin terrain and will otherwise not be able to. In any case,
+Darius
+will still hit the target.
+The ability is disabled while
+grounded
+or
+rooted
+even if
+Darius
+is in the range in which he does not leap.
+Noxian Guillotine
+will not reset nor trigger
+Noxian Might
+if used to kill a
+clone
+or a target protected by
+resurrection
+.
+Noxian Guillotine
+will reset but not trigger
+Noxian Might
+if it finishes off a target that is in a
+zombie state
+.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+Video
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Darius (Collection)
+.
+Original
+View in 3D
+880
+22.05.2012
+There is no greater symbol of Noxian might than Darius, the nation’s most feared and battle-hardened leader. Rising from humble origins to become the Hand of Noxus, he cleaves through the empire’s enemies—many of them Noxians themselves. Knowing that he never doubts his cause is just, and never hesitates once his axe is raised, those who stand against the commander of the Trifarian Legion can expect no mercy.
+Chuck Kourouklis
+Michal Ivan, Sixmorevodka Studio
+Loot eligible
+Chromas
+Original Darius Chromas
+Black Iron
+Bronze
+Copper
+Lord
+View in 3D
+975
+22.05.2012
+Chuck Kourouklis
+Unknown artist
+Rift Quest
+Loot eligible
+Bioforge
+View in 3D
+975
+13.11.2012
+To save his own life after being exposed to a cloud of radioactive space gas, investment banker Donald D. Darius was forced to build a suit containing the strange mixture. But the chemicals from beyond the stars warped his weakened mind, twisting him into the brutal villain known as Bioforge!
+Chuck Kourouklis
+Unknown artist
+Silver Age
+Loot eligible
+New SFX/VFX
+Woad King
+View in 3D
+975
+16.06.2013
+For a Woad tribesman to be named king, they must venture alone into the den of a glacial hydra and return with one of its heads. Darius, it is said, came back with all nine.
+Chuck Kourouklis
+Joshua 'HUGEnFAST' Brian Smith
+Woad
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Dunkmaster
+View in 3D
+1820
+12.10.2014
+Sporting over a hundred different endorsement deals and tens of millions of fans the world over, Darius has transformed himself from a showy basketball prodigy to the world's leading authority on dunking. He has recently perfected the Dunktown Express, where he dunks so hard that all public transit on the planet simultaneously explodes.
+Chuck Kourouklis
+Joshua 'HUGEnFAST' Brian Smith
+Dunkmaster
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dunkmaster Darius Chromas
+Amethyst
+Aquamarine
+Catseye
+Citrine
+Emerald
+Mythic
+Academy
+View in 3D
+750
+26.08.2015
+NOTICE FROM THE DEAN: Darius is henceforth suspended from Academy grounds for behavior including (but not limited to) stuffing students into lockers, possession of dangerous weapons on school property, brawling, fighting, scuffling, fisticuffing, and dunking on fellow classmates during gym class.
+Chuck Kourouklis
+Sixmorevodka Studio
+Academy
+Loot eligible
+Dreadnova
+View in 3D
+Special
+12.04.2017
+Formerly a frontline general in the now-disbanded Confederate Alliance, Darius once scoured the surfaces of entire planets in bitter campaigns against the RSM. Left devoid of purpose at the close of the war, the Dreadnova Corps offered him a chance to lead—and fight—again.
+Chuck Kourouklis
+Jojo So
+Dreadnova
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+God-King
+View in 3D
+1820
+27.06.2018
+God-King Darius is a bringer of true carnage—the descendant of primordial deities long forgotten in the shadow of Demacia. Slaughtering monarchs and gods alike, he seeks to end the false world of unity and peace, ushering in an age of endless war where only the strongest will survive.
+Chuck Kourouklis
+Alex 'alexplank' Flores
+Battle of the God-Kings
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+High Noon
+View in 3D
+1350
+10.10.2019
+The once-human Darius was a terrifying manhunter, feared throughout the West for his cunning and brutality. Famously defeated by his brother in a widely publicized duel, his wounded pride eventually twisted into obsession, leading him to strike a deal with the devil Hecarim...
+Chuck Kourouklis
+Ayran Oberto, West Studio
+High Noon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+High Noon Darius Chromas
+Emerald
+Nomad
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Lunar Beast
+View in 3D
+1350
+04.02.2021
+Darius' imposing presence and determination to lead by example cause occasional tension between him and Alistar, the actual leader of the squad. Despite how overbearing he can be, Darius is a strong and steadfast friend to his teammates and a rock for the whole Clan.
+Chuck Kourouklis
+Forrest Imel, West Studio
+Lunar Beast
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Lunar Beast Darius Chromas
+Catseye
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Vitality
+Crime City Nightmare
+View in 3D
+1350
+26.08.2021
+All Darius wanted was to secure a place for himself at the top of the underworld. Becoming Miss Fortune's personal bodyguard was the first step, but the second was embracing the power of the Mysterious Gentleman: welcoming forces from beyond space and time that have molded him into something far more powerful than he could ever have imagined.
+Chuck Kourouklis
+Forrest Imel, West Studio
+Crime City Nightmare
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Crime City Nightmare Darius Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Underground
+Spirit Blossom
+View in 3D
+1350
+06.10.2022
+Darius' body fell to the dirt, yet another soldier's sacrifice. But his soul would not rest. Picking up his axe just as soon as it was knocked from his mortal hand, the Spirit of War arose. A calamity motivated only towards bloodshed, Darius stalks the mortal world, searching for the thrill of battle.
+Chuck Kourouklis
+Eric Xie, West Studio
+Spirit Blossom
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Spirit Blossom Darius Chromas
+Catseye
+Emerald
+Night Blossom
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Porcelain
+View in 3D
+1350
+22.02.2024
+Darius has watched the modern-day protector of the Tiger Relic from afar, silently judging his descendant. Back when he was protector, the Tiger was a symbol of pride... Now it seems the Zodiac will hand off the duty to anyone with a minor in archeology. Returned to physical form, Darius believes he can show this kid a thing or two.
+Chuck Kourouklis
+Huyy Nguyen, West Studio
+Porcelain
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Porcelain Darius Chromas
+Catseye
+Emerald
+Obsidian
+Opulent
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+Divine God-King
+View in 3D
+Special
+28.08.2024
+God-King Darius is a bringer of true carnage—the descendant of primordial deities long forgotten in the shadow of Demacia. Slaughtering monarchs and gods alike, he seeks to end the false world of unity and peace, ushering in an age of endless war where only the strongest will survive.
+Chuck Kourouklis
+David Villegas, West Studio
+Battle of the God-Kings
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+God-King
+. Store variants are discounted for multiple purchases.
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.9
+Stats
+Gameplay radius reduced to 65 units from 80.
+Selection radius reduced to 120 units from 125.
+V14.7
+God-King Darius
+Noxian Guillotine
+Bug Fix:
+No longer incorrectly abruptly finishes its effects before the cast time if Darius is stunned before the ability's animation plays (and after the player uses it).
+V14.4
+Dunkmaster Darius
+Bug Fix:
+First encounter VO is now properly playing as intended for
+Amumu
+,
+Maokai
+, and
+Sona
+.
+Spirit Blossom Darius
+Crippling Strike
+Bug Fix:
+VFX no longer renders over impassable terrain.
+V14.2
+Decimate
+Mana cost reduced to 25 / 30 / 35 / 40 / 45 from 30 / 35 / 40 / 45 / 50.
+Heal increased to
+15% − 45% (based on enemies hit by the
+blade
+)
+missing
+health
+from
+13% − 39%
+.
+Apprehend
+Armor penetration increased to 20 / 25 / 30 / 35 / 40% from 15 / 20 / 25 / 30 / 35%.
+V13.14
+Dunkmaster Darius
+Bug Fix:
+Basic attack animation now uses the VFX for this skin rather than the classic one.
+V13.7
+Crippling Strike
+Bug Fix:
+Empowered attack no longer fails if the attack expires during its windup.
+V13.3
+General
+Adjusted splash artwork for
+Academy Darius
+.
+V12.22
+Stats
+Mana growth increased to 58 from 57.
+5
+.
+V12.21
+Noxian Guillotine
+Bug Fix:
+Now properly resets its cooldown if a target died a moment before taking damage.
+V12.10
+Stats
+Base health increased to 652 from 582.
+Health growth increased to 114 from 100.
+Armor growth increased to 5.
+2
+from 4.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Decimate
+Heal reduced to
+13% − 39% (based on enemies hit by the
+blade
+)
+missing
+health
+from
+15% − 45% (based on enemies hit by the
+blade
+)
+.
+V12.6
+Noxian Guillotine
+Base damage increased to 125 / 250 / 375 from 100 / 200 / 300.
+V12.3
+General
+Base voice lines have been remastered to sound clearer, cleaner, and smoother.
+V11.21
+Crippling Strike
+New Effect:
+Now trigger spell effects when dealing damage.
+V11.20
+Crippling Strike
+Cooldown reduced to 5 seconds at all ranks from 7 / 6.
+5
+/ 6 / 5.
+5
+/ 5.
+V11.18
+Crime City Nightmare Darius
+Heavier sound effects for
+Hemorrhage
+and
+Noxian Guillotine
+.
+V11.14
+Hemorrhage
+Bonus attack damage increased to
+30 − 230 (based on level)
+from
+20 − 205 (based on level)
+.
+Apprehend
+Cooldown reduced to 24 / 21.
+5
+/ 19 / 16.
+5
+/ 14 seconds from 26 / 24 / 22 / 20 / 18.
+V11.10
+Apprehend
+Cooldown increased to 26 / 24 / 22 / 20 / 18 seconds from 24 / 21 / 18 / 15 / 12.
+V11.8
+Hemorrhage
+Damage against monsters increased to 300% from 175%.
+V11.7
+Noxian Guillotine
+Undocumented/Bug Fix:
+Darius
+can no longer gain
+Noxian Might
+upon killing a unit other than his primary target during the 0.
+15
+second reset window.
+V11.2
+Hemorrhage
+Bonus attack damage reduced to
+20 − 205 (based on level)
+from
+30 − 230 (based on level)
+.
+V11.1
+Stats
+Base health reduced to 582 from 582.
+24
+.
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.23
+Stats
+Mana growth increased to 57.
+5
+from 37.
+5
+.
+V10.16
+Crippling Strike
+Bug Fix:
+Now properly deals damage to a target with
+spell shield
+.
+V10.6
+Crippling Strike
+AD ratio reduced to
+40 / 45 / 50 / 55 / 60% AD
+from
+50 / 55 / 60 / 65 / 70% AD
+.
+Mana cost increased to 40 from 30.
+Apprehend
+Mana cost changed to 70 / 60 / 50 / 40 / 30 from 45 at all ranks.
+V10.5
+Hemorrhage
+Damage against monsters increased to 175% from 120%.
+V10.4
+Hemorrhage
+New Effect:
+Bleed now deals 120% damage against monsters.
+Decimate
+New Effect:
+Now also heals off of large monsters hit.
+V10.2
+Noxian Guillotine
+Bug Fix:
+Maximum damage always factors in
+Noxian Might
+, not only when the latter is active.
+V9.24
+Decimate
+Bug Fix:
+Now does not heal from
+Decimate
+when hitting spell-shielded enemies with his axe's handle.
+V9.23
+Crippling Strike
+Bug Fix:
+Attack no longer hits through
+Teemo's
+Blinding Dart
+when it critically strikes.
+V9.16
+Hemorrhage
+Bug Fix:
+No longer incorrectly displays a ranged indicator.
+V9.9
+Decimate
+Healing increased to
+15% − 45% (based on enemy champions hit by the
+blade
+)
+missing
+health
+from
+12% − 36% (based on enemy champions hit by the
+blade
+)
+.
+Blade base damage increased to 50 / 80 / 110 / 140 / 170 from 40 / 70 / 100 / 130 / 160.
+V9.5
+Apprehend
+Bug Fix:
+Base skin no longer plays
+God-King Darius
+Apprehend
+quotes.
+V8.19
+Crippling Strike
+AD ratio increased to
+50 / 55 / 60 / 65 / 70% AD
+from
+40 / 45 / 50 / 55 / 60% AD
+.
+Apprehend
+Armor penetration increased to 15 / 20 / 25 / 30 / 35% from 10 / 15 / 20 / 25 / 30%.
+V8.15
+God-King Darius
+Bug Fix:
+Several missing VO lines have been restored.
+V8.14
+God-King Darius
+Noxian Guillotine
+Bug Fix:
+Certain shield particles from items and champion abilities no longer render through terrain during the animation of
+Noxian Guillotine
+.
+V8.8
+General
+Bug Fix:
+Texture compression is now more consistent across his chroma pack.
+Dreadnova Darius
+Bug Fix:
+Idle VFX have been restored.
+Woad King Darius
+and
+Dunkmaster Darius
+Bug Fix:
+Particles during critical attacks are no longer misplaced.
+V8.7
+Dreadnova Darius
+Bug Fix:
+Recall VFX have been restored.
+Lord Darius
+Bug Fix:
+Loincloth texture is now more consistent across various graphics settings.
+V8.4
+Crippling Strike
+Cooldown reduced to 7 / 6.
+5
+/ 6 / 5.
+5
+/ 5 seconds from 9 / 8 / 7 / 6 / 5.
+AD ratio increased to
+40 / 45 / 50 / 55 / 60% AD
+from
+40% AD
+at all ranks.
+Bug Fix:
+Fixed a bug where it sometimes failed to damage certain units (e.g
+Yorick's
+Dark Procession
+).
+Apprehend
+Armor penetration increased to 10 / 15 / 20 / 25 / 30% from 5 / 10 / 15 / 20 / 25%.
+V8.3
+General
+New lore.
+Stats
+Base health regeneration increased to 10 from 9.
+846
+.
+V8.2
+Noxian Guillotine
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V7.24
+Hemorrhage
+Bleed damage increased to
+13 − 30 (based on level)
+from
+10 − 27 (based on level)
+.
+Noxian Might bonus AD increased to
+30 − 230 (based on level)
+from
+30 − 200 (based on level)
+.
+V7.22
+Stats
+Base attack damage increased to 64 from 56.
+Base armor increased to 39 from 30.
+V7.14
+Apprehend
+Changed several interactions where it overwrites any spell queuing commands, instead forcing the caster to immediately begin basic-attacking once the ability completed.
+V7.11
+Decimate
+Bug Fix:
+When triggering
+Noxian Might
+by applying a fifth stack via
+Decimate
+,
+Decimate
+now properly only applies one stack of
+Hemorrhage
+to other units hit.
+V7.7
+Dunkmaster Darius
+Bug Fix:
+Fixed a bug where moving the camera away from him as he was recalling would desync the sound of it.
+V7.2
+Hemorrhage
+Bonus AD reduced to
+30 − 200 (based on level)
+from
+40 − 200 (based on level)
+.
+Decimate
+Handle hit damage reduced to 35% from 50%.
+Handle hit damage reduced to 14 / 24.
+5
+/ 35 / 45.
+5
+/ 56
+(+ 35 / 38.
+5
+/ 42 / 45.
+5
+/ 49% AD)
+from 20 / 35 / 50 / 65 / 80
+(+ 50 / 55 / 60 / 65 / 70% AD)
+.
+V7.1
+Apprehend
+Bug Fix:
+Fixed a bug where, briefly after hitting a target with
+Apprehend
+,
+Darius
+automatically tried to attack the target, overriding any commands issued after
+Apprehend
+was cast.
+V6.23
+Crippling Strike
+Bug Fix:
+Dunkmaster Darius's
+Crippling Strike
+backboard flames are no longer offset from the backboard.
+Noxian Guillotine
+Bug Fix:
+Dunkmaster Darius's
+Noxian Guillotine
+no longer makes an orange blob on the ground when cast on a target with five stacks of
+Hemorrhage
+.
+V6.15
+General
+Bug Fix:
+Dunkmaster Darius's
+health bar no longer overlaps with his head.
+V6.14
+Apprehend
+Bug Fix:
+When pulling enemies over walls, no longer chest-bumps them back to the side they were on to begin with.
+V6.11
+Apprehend
+Bug Fix:
+Fixed a bug where
+Apprehend
+wasn't properly pulling in enemies that were mid-dash during its cast.
+V6.8
+General
+New splash artwork for
+Original Darius
+.
+V5.21
+Noxian Guillotine
+Tooltip updated and corrected
+V5.20
+Decimate
+Blade width reduced to 220 from 270.
+Apprehend
+Slow reduced to 40% from 90%.
+V5.18
+Hemorrhage
+Fixed a bug where Darius would gain Noxian Might even if the target blocked the 5th stack (Spellshield)
+Decimate
+Healing reduced to
+12% missing health
+from 15.
+Maximum healing increased to
+36% missing health
+from 30.
+Mana cost increased to 30 / 35 / 40 / 45 / 50 from 30 at all ranks.
+V5.17
+Hemorrhage
+Renamed to
+Noxian Might
+from
+Blood Rage
+,
+Decimate
+Fixed a bug where Summoner Spells were disabled during the windup.
+Crippling Strike
+New Effect:
+If the empowered attack scores a kill Darius refunds
+30 mana
+and 50% of the cooldown.
+V5.16
+General
+Recommended items updated,
+Stats
+Attack range increased to 175 from 125.
+Attack damage growth increased to 5 from 3.
+5
+.
+Health growth increased to 100 from 93.
+Armor growth increased to 4 from 3.
+5
+.
+Attack speed reduced to 0.
+625
+from 0.
+679
+.
+Attack speed growth reduced to 1% from 2.
+65
+.
+Hemorrhage
+New ability icon
+Now deals
+Physical damage
+from Magic.
+Per stack damage reduced to
+「 9 + (1 per level) 」
+「
+10 − 27 (based on level)
+」
+from
+12 − 36 (based on level)
+.
+Bonus AD ratio unchanged
+Total damage reduced to
+「 45 + (5 per level) 」
+「
+50 − 135 (based on level)
+」
+from
+60 − 180 (based on level)
+Removed:
+Bonus movement speed per Bleeding champion.
+New Effect:
+Whenever an enemy champion reaches maximum Hemorrhage stacks or dies to
+Noxian Guillotine
+, Darius enters a Blood Rage for 5 seconds gaining
+「 40 - 200 」
+「
+40 − 200 (based on level)
+」
+bonus attack damage and applying maximum Hemorrhage stacks on hit.
+Decimate
+New Effect:
+Has a 0.
+75
+seconds time delay and displays its effective radius ( including Blade and Handle areas)
+Darius can move during cast time.
+Blade damage changed to 40 / 70 / 100 / 130 / 160
+(+ 100 / 110 / 120 / 130 / 140% AD)
+from 105 / 157.
+5
+/ 210 / 262.
+5
+/ 315
+(+ 105% Bonus AD)
+.
+New Effect:
+Darius heals for
+15% of his missing health
+for every enemy champion hit by the Blade, up to 30.
+Handle damage changed to 20 / 35 / 50 / 65 / 80
+(+ 50 / 55 / 60 / 65 / 70% AD)
+from 70 / 105 / 140 / 175 / 210
+(+ 70% Bonus AD)
+.
+Removed:
+Handle applying
+Hemorrhage
+.
+Mana cost reduced to 30 from 40.
+Crippling Strike
+AD ratio changed to
+(+ 40% AD)
+at all ranks from
+(+ 20 / 40 / 60 / 80 / 100% AD)
+.
+Slow increased 90% at all ranks from 20 / 25 / 30 / 35 / 40.
+Slow duration reduced to 1 second from 2.
+Cooldown changed to 9 / 8 / 7 / 6 / 5 seconds from 8 seconds at all ranks.
+Mana cost reduced to 30 at all ranks from 30 / 35 / 40 / 45 / 50.
+Removed:
+Attack speed reduction.
+Removed:
+Cooldown reduction per
+Hemorrhage
+stack on target.
+Apprehend
+Cast time reduced to 0.
+25
+seconds from 0.
+32
+.
+New Effect:
+Slows enemies pulled by 90% for 1 second.
+Bug Fix:
+Enemies would be pulled in if they escaped the area during cast time.
+Noxian Guillotine
+Base damage reduced to 100 / 200 / 300 from 160 / 250 / 340.
+New Effect:
+Subsequent casts are for free.
+New Effect:
+Upon executing an enemy champion all nearby non-champions become terrified for 3 seconds.
+New Effect:
+Mana cost removed at Rank 3.
+Removed:
+Mana refund on cast.
+V5.14
+Apprehend
+New Effect:
+Briefly grants vision over the target area.
+V5.7
+Noxian Guillotine
+New Effect:
+Will refund
+25 / 50 / 100 man
+a on-kill.
+New Effect:
+At maximum rank the cooldown is fully reset on kill.
+V4.5
+Stats
+Base armor increased to 24 from 20.
+V4.1
+Noxian Guillotine
+Recast time increased to 20 seconds from 12.
+V3.8
+Apprehend
+Animation is slower and has a wind-up (undocumented)
+Range reduced to 540 from 550.
+V3.03
+Noxian Guillotine
+New Effect:
+When Noxian Guillotine kills the target, it can be recast within the next 12 seconds.
+This can occur multiple times in succession.
+Cooldown changed to 120 / 100 / 80 seconds from 100 at all ranks.
+V1.0.0.152
+Stats
+Movement speed increased to 340 from 315.
+V1.0.0.142
+Noxian Guillotine
+No longer refreshes upon killing champion clones (
+Hallucinate
+)
+V1.0.0.140b
+Hemorrhage
+:
+AD ratio reduced to
+(+ 30% Bonus AD)
+from
+(+ 40% Bonus AD)
+Fixed a bug where it was applying
+Rylai's Crystal Scepter
+'s
+Icy
+and Spell Vamp effects.
+Apprehend
+Pre-pull animation modified to be more readable for enemy champions.
+Noxian Guillotine
+Cooldown now only refreshes when it deals the killing blow.
+V1.0.0.140
+Added
+Hemorrhage
+-
+I
+Darius aims his attacks strategically, causing his target to bleed. This effect stacks up to 5 times.
+Decimate
+-
+Q
+Darius swings his axe in a wide circle. Enemies struck by the blade take more damage than those struck by the shaft.
+Crippling Strike
+-
+W
+Darius' next attack severs a crucial artery. As the target bleeds out, their movement and attack speeds are slowed. Crippling Strike's cooldown is lower the more
+bloodied
+the target.
+Apprehend
+-
+E
+Darius hones his axe, granting him passive armor penetration. When activated, Darius sweeps up his enemies with his axe's hook and pulls them to him.
+Noxian Guillotine
+-
+R
+Darius leaps to an enemy champion and strikes a lethal blow, dealing true damage. This damage increases for each stack of
+Hemorrhage
+on the target. If Noxian Guillotine's is a killing blow, its cooldown is refreshed.
+Trivia
+[
+edit
+|
+edit source
+]
+Darius
+is one of 21 champions without a single
+ability power
+ratio on any ability:
+Aatrox
+,
+Camille
+,
+Dr. Mundo
+,
+Draven
+,
+Garen
+,
+K'Sante
+,
+Kayn
+,
+Kled
+,
+Naafiri
+,
+Nilah
+,
+Olaf
+,
+Pyke
+,
+Riven
+,
+Samira
+,
+Sett
+,
+Talon
+,
+Urgot
+,
+Xayah
+,
+Yone
+, and
+Zed
+.
+Darius -
+Draven
+is one of seven pairs of sibling champions (the others being
+Cassiopeia
+-
+Katarina
+,
+Kayle
+-
+Morgana
+,
+Garen
+-
+Lux
+,
+Nasus
+-
+Renekton
+,
+Yasuo
+-
+Yone
+, and
+Vi
+-
+Jinx
+).
+Though not a pair,
+Anivia
+,
+Ornn
+, and
+Volibear
+are also siblings.
+Darius is 6 feet 5 inches (1.96 meters) tall and weighs 266 lbs (121 kilograms).
+[2]
+Darius was the first champion to have an autonomous
+Recall
+/
+Teleport
+animation.
+He and his brother
+Draven
+are the first related champions to be released back to back.
+Darius was the first champion to receive
+Chroma
+packs for 2 of his skins, namely
+Classic
+and
+Dunkmaster
+.
+Tahm Kench
+says Darius' strength is 'waning' and that he could 'help him slow time's regress'.
+This and the strands of gray hair on his head suggest Darius either is of advanced age or ages prematurely after years of exertion & combat stress.
+Darius
+is Latin transliteration, through Greek Δαρεῖος, of Old Persian
+Dāray
+auš
+"Upholder of Good".
+[3]
+[4]
+His new background references
+Darius I
+.
+[5]
+By coincidence,
+Dar
+ius
+shares
+PIE
+root
+*dʰer-
+with
+Dar
+ha
+, the birth name of
+Karma
+in her updated lore.
+[6]
+Darius' abilities had different names during development:
+Hemorrhage
+used to have a movement speed buff called
+Aggression
+.
+It read:
+"The carnage of war enlivens Darius, increasing his movement speed."
+Hamstring / Noxian Tactics
+Sudden Death
+Noxian Might
+was originally called
+Blood Rage
+but was renamed by player request to better reflect his personality.
+[7]
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Juggernaut
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+Juggernauts
+are melee titans who relentlessly march down the opposition and devastate those foolish enough to get within their grasp. They are the only subclass who excel at both dealing and taking significant amounts of damage, but in turn they have a tough time closing in on targets due to their low range and extremely limited mobility.
+Examples
+Dr. Mundo
+Darius
+Mordekaiser
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Hemorrhage
+Innate:
+Darius'
+basic attacks and damaging abilities apply a stack of
+Hemorrhage
+, stacking up to a cap.
+Darius
+becomes empowered with
+Noxian Might
+for a few seconds whenever he kills an enemy with
+Noxian Guillotine
+or applies maximum stacks to an enemy
+champion
+.
+Hemorrhage:
+Deal
+physical damage
+to the target over a few seconds. For each stack, this damage is increased.
+Noxian Might:
+Darius
+gains
+attack damage
+and always applies the maximum stacks of
+Hemorrhage
+.
+League of Legends content
+Noxian Guillotine
+COOLDOWN:
+120 / 100 / 80
+Active:
+Darius
+leaps
+to an enemy champion and strikes a lethal blow, dealing
+true damage
+based on the target's current
+Hemorrhage
+stacks.
+If the target dies very briefly afterwards,
+Noxian Guillotine's
+cooldown is temporarily
+reset
+, and nearby
+minions
+and
+monsters
+are
+feared
+and
+slowed
+.
+At max rank,
+Noxian Guillotine
+permanently resets its cooldown if the target dies very briefly afterwards.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Default damage
+Default damage
+is dealt by effects that are not otherwise classified, or are deliberately left unclassified. This most common source of
+default damage
+is splash damage from basic attacks.
+Default damage
+does not interact with most other effects, such as
+Conqueror
+stacking,
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of the damage's non-reactive nature (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Ward
+Wards
+are deployable units that that grant
+sight
+over the surrounding area. They can only be destroyed by
+basic attacks
+, granting
+gold
+and
+experience
+.
+There are three kinds of deployable
+wards
+available for purchase:
+Control Ward
+,
+Warding Totem
+, and
+Farsight Alteration
+. Other types of wards, such as
+Zombie Ward
+, are usable through various means.
+League of Legends content
+Invulnerability
+A unit that is
+Invulnerable
+reduces all damage taken to
+0
+and prevents effects that trigger from damage.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Hemorrhage
+Innate:
+Darius'
+basic attacks and damaging abilities apply a stack of
+Hemorrhage
+, stacking up to a cap.
+Darius
+becomes empowered with
+Noxian Might
+for a few seconds whenever he kills an enemy with
+Noxian Guillotine
+or applies maximum stacks to an enemy
+champion
+.
+Hemorrhage:
+Deal
+physical damage
+to the target over a few seconds. For each stack, this damage is increased.
+Noxian Might:
+Darius
+gains
+attack damage
+and always applies the maximum stacks of
+Hemorrhage
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Apprehend
+COOLDOWN:
+24 / 21.
+5
+/ 19 / 16.
+5
+/ 14
+Passive:
+Darius
+gains
+armor penetration
+.
+Active:
+Darius
+sweeps in a cone in the target direction,
+slowing
+and
+pulling
+enemies hit towards him.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Stasis (buff)
+A unit that enters
+stasis
+becomes
+invulnerable
+and
+untargetable
+, but also unable to control its movement, declare basic attacks, cast abilities, use summoner spells, or activate items.
+Bard's
+Tempered Fate
+and
+Syndra's
+Force of Will
+are the only
+stasis
+effects that are considered
+crowd control
+against enemies. Some effects treat friendly (self/ally applied) and hostile (enemy applied)
+stasis
+the same.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Decimate
+COOLDOWN:
+9 / 8 / 7 / 6 / 5
+Active:
+Darius
+briefly winds up to spin his axe in a circle, dealing
+physical damage
+to enemies hit.
+When
+Darius
+hits a
+champion
+with the blade, he applies a
+Hemorrhage
+stack and
+heals
+based on
+his
+missing
+health
+, multiplied by the number of champions hit up to 3.
+Enemies hit by the handle receive reduced damage and do not gain a
+Hemorrhage
+stack.
+League of Legends content
+Cripple
+A unit that is
+crippled
+has reduced
+total
+attack speed
+for the duration.
+Sources of
+cripple
+stack multiplicatively with each other.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+cripple immunity
+.
+Removal:
+Removed by
+Cleanses
+and specifically
+Master Yi's
+Highlander
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+References
+[
+edit
+|
+edit source
+]
+↑
+Darius's profile page
+at
+LeagueOfLegends.com
+↑
+Dunkmaster Darius | Skins Trailer - League of Legends
+↑
+Pokorny's Indo-European Etymological Dictionary
+↑
+Pokorny's Indo-European Etymological Dictionary
+↑
+Encyclopaedia Iranica
+↑
+Pokorny's Indo-European Etymological Dictionary
+↑
+Rename Darius' Bloodrage to Noxian Might

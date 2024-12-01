@@ -1,0 +1,3261 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Master Yi
+the Wuju Bladesman
+Release date
+2009-02-21
+Last changed
+V14.23
+Class(es)
+Skirmisher
+Legacy
+Assassin
+Fighter
+Position(s)
+Jungle
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+450
+|
+260
+Crafting
++
+270
+Ratings
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Master Yi
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+MasterYi
+Base statistics
+Edit
+Health
+669
++105
+Mana
+251
++42
+Health regen. (per 5s)
+7.5
++0.65
+Mana regen. (per 5s)
+7.25
++0.45
+Armor
+33
++4.7
+Attack damage
+65
++2.5
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+355
+Attack range
+175
+Attack speed
+Base AS
+0.679
+Attack windup
+24.375%
+AS ratio
+N/A
+Bonus AS
++2.5
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+125
+Pathing radius
+35
+Acq. radius
+600
+Special statistics
+Damage Dealt
++0%
+Damage Received
+-3%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-10%
+Damage Received
++0%
+Healing
+-20%
+Damage Dealt
++0%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Double Strike
+Innate:
+Master Yi's
+basic attacks generate a stack of
+Double Strike
+for a few seconds. At 3 stacks, his next basic attack will consume them to make a second attack that deals
+reduced
+physical damage
+.
+Innate:
+Master Yi's
+basic attacks
+on-hit
+generate a
+stack
+of
+Double Strike
+for 4 seconds, refreshing on subsequent hits and stacking up to 3 times. At 3 stacks,
+Master Yi's
+next basic attack
+on-attack
+is empowered to consume the stacks
+on-hit
+and strike twice, the second strike dealing
+50% AD
+physical damage
+.
+The second strike applies
+on-hit
+and
+on-attack
+effects at 100% effectiveness and is affected by
+critical strike
+modifiers.
+If
+Master Yi's
+primary target is killed before the second strike, he automatically attacks another enemy within 300 range.
+The second strike can
+critically strike
+against
+structures
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Basic damage
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Parries
+See Notes
+Since
+Double Strike
+resets the counter with the first strike, and the second strike applies on-hit effects, the second strike is able to add a stack for the next
+Double Strike
+activation.
+If
+Double Strike's
+target becomes
+untargetable
+shortly after the triggering attack, it will still occur and deal its effects as usual.
+Basic attacks that are
+dodged
+,
+blocked
+, or missed while
+Master Yi
+is
+blinded
+will not generate any stacks of
+Double Strike
+nor refresh the duration of active stacks.
+Double Strike's
+interaction with parry effects at 3 stacks (the damage of the strikes is negated in all cases):
+If the triggering basic attack is
+dodged
+,
+Master Yi
+will not perform the second strike nor consume the stacks.
+If the triggering basic attack is
+blocked
+,
+Master Yi
+will perform the second strike but not consume the stacks.
+If the triggering basic attack misses while
+Master Yi
+is
+blinded
+, he will consume the stacks.
+The second strike will fail to hit the target at all if the triggering attack misses.
+On-attack
+effects do not occur, despite the attack animation playing.
+(bug)
+Edit
+Alpha Strike
+COST:
+50 / 55 / 60 / 65 / 70 Mana
+COOLDOWN
+:
+20 / 19.
+5
+/ 19 / 18.
+5
+/ 18
+CAST TIME:
+none
+TARGET RANGE:
+600
+EFFECT RADIUS:
+600
+Active:
+Master Yi
+briefly
+vanishes
+and marks the target enemy, then rapidly marks up to 3 other nearby enemies. If there are no other eligible targets before then,
+Master Yi
+can mark the same enemies again. Upon finishing marking, he
+reappears
+and detonates the marks, dealing
+physical damage
+and applying
+on-hit
+effects. Subsequent marks on a target have less effect. Basic attacks
+reduce
+Alpha Strike's
+cooldown.
+Active:
+Master Yi
+vanishes
+and becomes
+unable to act
+. After
+0.
+231
+seconds
+, he marks the target enemy and then proceeds to mark the nearest
+visible
+un-marked enemy within 600 units, recurring every
+0.
+231
+seconds
+「 up to 3 times. 」
+「 for a total of 4 marks. 」
+If there are no other un-marked targets before then,
+Master Yi
+can mark the same enemies again. During
+Alpha Strike
+,
+Master Yi
+can select a direction from the primary target.
+Upon finishing marking,
+Master Yi
+reappears
+75 units in the targeted direction, or in front of the target otherwise, and then becomes able to act again
+「 after
+0.
+165
+seconds
+. 」
+「
+1.
+087
+seconds total
+after the start of the cast with 4 bounces. 」
+If the primary target
+dies
+or is too far away during the delay,
+Master Yi
+will reappear at the initial cast location instead.
+Master Yi
+then detonates the marks, dealing
+physical damage
+and applying
+on-hit
+effects at 75% effectiveness. Marks after the first on the same target instantly detonate to deal 25% damage and apply
+on-hit
+effects at 18.
+75
+% effectiveness.
+Alpha Strike
+deals
+bonus
+physical damage
+to
+monsters
+per hit.
+Physical Damage:
+30 / 60 / 90 / 120 / 150
+(+ 50% AD)
+Reduced Damage per hit:
+7.
+5
+/ 15 / 22.
+5
+/ 30 / 37.
+5
+(+ 12.
+5
+% AD)
+Maximum Single-Target Damage:
+52.
+5
+/ 105 / 157.
+5
+/ 210 / 262.
+5
+(+ 87.
+5
+% AD)
+Monster Bonus Damage:
+65 / 90 / 115 / 140 / 165
+Monster Total Damage:
+95 / 150 / 205 / 260 / 315
+(+ 50% AD)
+Reduced Monster Damage per hit:
+23.
+75
+/ 37.
+5
+/ 51.
+25
+/ 65 / 78.
+75
+(+ 12.
+5
+% AD)
+Max Monster Single-Target Damage:
+166.
+25
+/ 262.
+5
+/ 358.
+75
+/ 455 / 551.
+25
+(+ 87.
+5
+% AD)
+Alpha Strike's
+primary and lesser damage can
+critically strike
+for
+bonus
+physical damage
+equal to
+(17.
+5
+% +
+7%
+) AD
+and
+(4.
+375
+% +
+1.
+75
+%
+) AD
+respectively.
+Basic attacks
+on-hit
+reduce
+Alpha Strike's
+current
+cooldown
+by
+1 second
+.
+Wuju Style
+and
+Highlander
+can be cast during Alpha Strike. Each time Alpha Strike hits a target, the durations of
+Wuju Style
+and
+Highlander
+are refreshed by their
+current
+duration. Alpha Strike does not trigger its cooldown reduction nor grant a stack of
+Double Strike
+when applying on-hit effects.
+"Many foes, one strike!"
+Info
+Targeting input
+Unit
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+See Notes
+Parries
+See Notes
+Grounded
+Disabled
+Alpha Strike's
+primary damage applies after
+Master Yi
+reappears.
+Alpha Strike's
+cooldown reduction
+applies on
+structures
+.
+When
+Master Yi
+bounces from a unit it will grant
+vision
+in a 600 radius around it for up-to
+0.
+627
+seconds
+after
+Alpha Strike
+ends, including across terrain, though not into
+brushes
+.
+It will always grant vision around the primary target, even if he doesn't bounce off it.
+Alpha Strike's
+damage is calculated at the moment that each mark is placed. Because of this, it is possible to inflict differing amounts of damage if
+Master Yi's
+AD
+changes between marks.
+Master Yi
+will follow all his primary target's movements.
+Alpha Strike
+can only follow up-to
+2000
+units; If the target teleports a very long distance, it will not be followed.
+While vanished, the initial cast location of
+Alpha Strike
+counts as
+Master Yi's
+position, which is considered for effects such as
+tethers
+.
+If the primary target becomes
+untargetable
+and there are no other nearby valid targets,
+Alpha Strike
+will end prematurely and will not deal the damage occurring after
+Master Yi's
+reappearance.
+The choice of exit direction occurs through an indicator anchored to the target during the time that
+Master Yi
+is vanished. You are unable to choose the exit direction after the third mark.
+(bug)
+Selection commands (default: MB1/left click) and movement commands (default: MB2/right click) are both valid.
+Multiple commands can be issued, but only the
+final
+command before exiting will determine the direction.
+If the primary target is a champion,
+Master Yi
+will be automatically ordered to basic attack them after
+Alpha Strike
+ends.
+Master Yi
+will not be able to buffer other abilities.
+(bug)
+Only the first instance of damage counts as a hit for effects such as
+Conqueror
+,
+Electrocute
+and
+Eclipse's
+Ever Rising Moon
+.
+Alpha Strike
+does not interact with
+Press the Attack
+or
+Kraken Slayer's
+Bring It Down
+.
+Spell shield
+will only block a single instance of damage.
+On-hit damage applied by
+Alpha Strike
+will be negated by
+dodge
+and
+block
+, but not while
+Master Yi
+is
+blinded
+.
+Alpha Strike's
+own damage will not be negated.
+If
+Master Yi
+dies
+during
+Alpha Strike
+and he is only focusing one target, the ability will only deal the reduced damage strikes and not the final tick of damage from reappearing.
+If he is striking multiple targets the damage will be dealt immediately when
+dying
+, and if he
+dies
+before the bounce from the last target,
+Alpha Strike
+will deal reduced damage only to all units he already bounced from.
+(bug)
+If
+Master Yi
+enters
+resurrection
+during
+Alpha Strike
+and he is only focusing one target, the ability will deal the reduced damage strikes as normal and the final tick of damage after being
+resurrected
+.
+If he is striking multiple targets,
+Alpha Strike
+will
+sometimes
+deal the reduced damage from repeated bounces and the main damage after being
+resurrected
+, and
+sometimes
+only the reduced damage, unrelated to the number of targets available.
+(bug)
+The following table refers for interactions while
+Master Yi
+is performing
+Alpha Strike
+:
+Attacking
+Disabled
+Abilities
+Wuju Style
+and
+Highlander
+are usable.
+Meditate
+is disabled.
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death
+Map-Specific Differences
+Ultra Rapid Fire
+differences
+edit
+Cooldown begins after the blink.
+Arena
+differences
+edit
+Base damage changed to 20 / 45 / 70 / 95 / 120.
+AD ratio changed to
+40% AD
+.
+Edit
+Meditate
+COST:
+40 mana +
+6%
+maximum
+mana
+per second
+COOLDOWN
+:
+10
+CAST TIME:
+none
+Active:
+Master Yi
+channels
+for a few seconds, rapidly
+healing
+himself based on
+his
+missing
+health
+. While channeling,
+Master Yi
+gains damage reduction, pauses
+Wuju Style's
+and
+Highlander's
+duration, and gains one stack of
+Double Strike
+per second.
+Active:
+Master Yi
+channels
+for up to 4 seconds,
+healing
+himself every 0.
+5
+seconds, increased by
+0% − 100% (based on
+missing
+health)
+.
+Minimum Heal Per Tick:
+15 / 25 / 35 / 45 / 55
+(+ 12.
+5
+% AP)
+Maximum Heal Per Tick:
+30 / 50 / 70 / 90 / 110
+(+ 25% AP)
+Minimum Total Heal:
+120 / 200 / 280 / 360 / 440
+(+ 100% AP)
+Maximum Total Heal:
+240 / 400 / 560 / 720 / 880
+(+ 200% AP)
+While channeling,
+Master Yi
+gains 70% damage reduction for the first 0.
+5
+seconds, which is then modified to a reduced amount for the remaining duration of the channel.
+Meditate's
+damage reduction is halved against
+turrets
+and lingers for 0.
+5
+seconds after the channel ends.
+Modified Damage Reduction:
+45 / 47.
+5
+/ 50 / 52.
+5
+/ 55%
+Turret Modified Damage Reduction:
+22.
+5
+/ 23.
+75
+/ 25 / 26.
+25
+/ 27.
+5
+%
+Meditate
+resets
+Master Yi's
+basic attack timer, pauses
+Wuju Style's
+and
+Highlander's
+duration, and grants one stack of
+Double Strike
+per second during the channel.
+"Mind and body."
+Info
+Targeting input
+Auto
+Counters
+Disruption
+Interrupted
+Meditate's
+healing amount updates dynamically as he heals himself, making
+Master Yi
+heal for less as his
+current
+health increases.
+The first tick of healing may occur at any moment on the first 0.
+5
+seconds of the channel. This means immediately canceling the channel for the attack reset does not guarantee one tick of healing, though it may occur with some chance.
+The following table refers for interactions while
+Master Yi
+is
+channeling
+:
+Type
+Channel
+Attacking
+Interrupts
+Abilities
+Interrupts
+Movement
+Interrupts
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+Hextech Rocketbelt
+Interrupted by
+All item-actives not specified above interrupt
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+N/A
+Interrupted by
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+Death
+Cast-inhibiting effects
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 12 seconds.
+Edit
+Wuju Style
+COOLDOWN
+:
+14
+CAST TIME:
+none
+Active:
+Master Yi
+empowers his sword, causing his basic attacks to deal
+bonus
+true damage
+on-hit
+for a few seconds.
+Active:
+Master Yi
+empowers his basic attacks within the next 5 seconds to deal
+bonus
+true damage
+on-hit
+.
+Bonus True Damage:
+20 / 25 / 30 / 35 / 40
+(+ 30%
+bonus
+AD)
+Info
+Targeting input
+Auto
+Damage type
+Type
+Proc damage
+Sub-type
+True
+Counters
+Parries
+See Notes
+Wuju Style
+can be cast during
+Alpha Strike
+.
+Wuju Style
+can't be cast while it is already active.
+Wuju Style's
+bonus true damage does not interact with
+critical strikes
+.
+Wuju Style's
+bonus true damage cannot be
+blocked
+but can be
+dodged
+and/or missed if
+Master Yi
+is
+blinded
+.
+The attacks do not deal the
+bonus
+damage against
+structures
+.
+While
+Wuju Style
+is active, the damage will dynamically update its calculations.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 15 / 20 / 25 / 30 / 35.
+Bonus AD ratio changed to
+20%
+bonus
+AD
+.
+Edit
+Highlander
+COST:
+100 Mana
+COOLDOWN
+:
+85
+CAST TIME:
+none
+Passive:
+Scoring a champion
+takedown
+massively
+reduces
+the
+current
+cooldowns of
+Master Yi's
+basic abilities.
+Active:
+Master Yi
+cleanses
+himself from all
+slows
+and
+cripples
+and gains
+ghosting
+,
+bonus
+attack speed
+,
+bonus
+movement speed
+,
+slow immunity
+, and
+cripple immunity
+all for the next few seconds. While active, scoring a champion
+takedown
+extends
+Highlander's
+duration by a few seconds.
+Passive:
+Scoring a champion
+takedown
+reduces the
+current
+cooldowns
+of
+Master Yi's
+basic
+abilities
+by 70%.
+Active:
+Master Yi
+cleanses
+himself from all
+slows
+and
+cripples
+. For the next 7 seconds, he gains
+ghosting
+,
+bonus
+attack speed
+,
+bonus
+movement speed
+,
+slow immunity
+, and
+cripple immunity
+.
+Bonus Attack Speed:
+25 / 45 / 65%
+Bonus Movement Speed:
+35 / 45 / 55%
+While active, scoring a champion
+takedown
+extends
+Highlander's
+duration by 7 seconds.
+"Speed of thought!"
+Info
+Targeting input
+Auto
+Highlander
+can be cast during
+Alpha Strike
+.
+There are two situations that can happen if
+Master Yi
+uses
+Highlander
+while
+Highlander's
+buff is active.
+If the buff's duration is under 7 seconds, the buff refreshes to 7 seconds.
+If the buff's duration is above 7 seconds, nothing happens.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Master Yi (Collection)
+.
+Original
+View in 3D
+260
+21.02.2009
+Master Yi has tempered his body and sharpened his mind, so that thought and action have become almost as one. Though he chooses to enter into violence only as a last resort, the grace and speed of his blade ensures resolution is always swift. As one of the last living practitioners of the Ionian art of Wuju, Yi has devoted his life to continuing the legacy of his people—scrutinizing potential new disciples with the Seven Lenses of Insight to identify the most worthy among them.
+Micha Berman
+Michal Ivan, Puppetworks Animation Studio
+Loot eligible
+Assassin
+View in 3D
+390
+17.12.2009
+Ever since Yi gave up the ideals of Wuju style, he's been a terror to Noxian forces. A blade in the night, he strikes at the foes of Ionia with deadly precision. With every whisper of the leaves they shudder, expecting the next moment to be their last.
+Micha Berman
+Kelly Aleshire
+Legacy
+Loot eligible
+Chosen
+View in 3D
+520
+03.06.2010
+Micha Berman
+Unknown artist
+Legacy
+Loot eligible
+Ionia
+View in 3D
+975
+12.09.2010
+Micha Berman
+Unknown artist
+Legacy
+Loot eligible
+Samurai Yi
+View in 3D
+520
+07.03.2011
+Micha Berman
+Unknown artist
+Legacy
+Loot eligible
+Headhunter
+View in 3D
+975
+08.02.2012
+Hunters use many tools: the bowgun, the rifle, the knife, the mind. Master Yi's tool of choice is a five foot long serrated blade forged from meteoric alloy.
+Micha Berman
+Unknown artist
+Headhunter
+Loot eligible
+Chromas
+Headhunter Master Yi Chromas
+Aqua
+Crimson
+Gold
+PROJECT Yi
+View in 3D
+1820
+07.09.2015
+One of the first concepts, Yi was held by PROJECT for extensive experimentation, and then finally freed by the G/NETIC rebels. His psyche may still contain some glitches, but his experimental hyperlight “alpha” blade serves the resistance with its precision balance.
+Greg Chun
+Pan Chengwei
+PROJECT
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Cosmic Blade
+View in 3D
+1350
+26.04.2017
+Gliding effortlessly from star to star, Yi flashes through the night sky with celestial grace, his blade arcing with crystalline precision through the fabric of the universe itself.
+Micha Berman
+Jean 'Curing' Go
+Cosmic
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Eternal Sword Yi
+View in 3D
+1350
+27.09.2017
+A pupil of a famous martial arts school, Yi has dedicated his life to the purity and art of combat. And yet, in his heart, he knows he is worthy of the fabled sword of jade, and a power beyond mere mortality…
+Micha Berman
+Kelly Aleshire
+Immortal Journey
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Eternal Sword Yi Chromas
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Turquoise
+Snow Man Yi
+View in 3D
+1350
+06.12.2018
+A humble snowman brought to life by the magic of the Poro King, Yi strives to become the most gallant knight in all the land… and with the imminent invasion of Ice King Twitch, he might just get his chance.
+Micha Berman
+Rudy Siswanto
+Winter Wonder
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Snow Man Yi Chromas
+Amethyst
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Blood Moon
+View in 3D
+1350
+20.02.2020
+The cultists of the Blood Moon have begun a dread metamorphosis, as the boundary between the demon realm and the human world is rapidly erased. Yi is among those first blessed by this new darkness, the demon within his blade arm driving him to ever greater spectacles of violence.
+Micha Berman
+Xiao Guang Sun, West Studio
+Blood Moon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Blood Moon Master Yi Chromas
+Amethyst
+Aquamarine
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+PsyOps
+View in 3D
+1350
+03.09.2020
+A legendary psychic swordsman and elite leader of the PsyOps unit. Yi is calm, professional, and always gets the job done, making him a terrifying bogeyman among rogue militaries, and a target for those harboring resentment towards the global war machine.
+Micha Berman
+Lucas Parolin, West Studio
+PsyOps
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+PsyOps Master Yi Chromas
+Emerald
+Hunter
+Rose Quartz
+Ruby
+Sandstone
+Sapphire
+Tanzanite
+Turquoise
+Debonair
+View in 3D
+1350
+09.12.2021
+A powerful businessman of few words, often seen staring down on “his” strip from the comfort of his posh presidential suite. Despite his cold demeanor, Yi enjoys the finer things in life, and demands only the finest fits for his world-famous evening attire.
+Micha Berman
+West Studio
+Debonair
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Debonair Master Yi Chromas
+Amethyst
+Catseye
+Cerulean Club
+Emerald
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Spirit Blossom
+View in 3D
+1350
+06.10.2022
+Legends speak of Master Yi, a swordsman who took but one student in his lifetime. After an unceremonious betrayal, Yi perished—not from a blade, but from a broken heart. Now the Spirit of Legacy roams the spirit world, searching for a pupil. He is lost, anyone that joins him destined to face the same fate.
+Micha Berman
+Alsie Lau, West Studio
+Spirit Blossom
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Spirit Blossom Master Yi Chromas
+Catseye
+Emerald
+Night Blossom
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Prestige Spirit Blossom
+View in 3D
+Special
+06.10.2022
+Yi arrives at the Spirit Blossom Fashion Festival, donning tinted shades and the finest fabrics. While others prefer to celebrate with close family and friends, Yi revels in the attention his outfit brings, intent to cement his style "legacy".
+Micha Berman
+Jennifer Wuestling
+Spirit Blossom
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Spirit Blossom
+. Store variants are discounted for multiple purchases.
+Inkshadow
+View in 3D
+1820
+03.05.2023
+Master Yi's family refused Cabal control, fleeing Rabadon City—only to be snuffed out. To fight back, he became one of the first Inkshadow Warriors, sacrificing his lifespan for a magical tattoo that grants him the power to raise his sword against the Cabal. He doesn't know how long he has left to live; still, he will save his city… and get his revenge.
+Greg Chun
+West Studio
+Inkshadow
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+Inkshadow Master Yi Chromas
+Catseye
+Inked
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+Heavenscale
+View in 3D
+1350
+07.02.2024
+A prince requires a master of the highest caliber to teach him martial arts, and there is no dragon of greater skill than Master Yi. A true master must be both warrior and poet, champion and artist—and in the spirit of learning, must always be ready for anything.
+Micha Berman
+Pandart Studio
+Heavenscale
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Heavenscale Master Yi Chromas
+Amethyst
+Citrine
+Emerald
+Lustrous
+Meteorite
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.23
+Highlander
+Attack speed increased to 25 / 45 / 65% from 25 / 35 / 45%.
+V14.12
+Alpha Strike
+Bonus monster damage reduced to 65 / 90 / 115 / 140 / 165 from 75 / 100 / 125 / 150 / 175.
+Meditate
+Cooldown increased to 10 seconds from 9.
+Initial damage reduction reduced to 70% from 90%.
+V14.11
+Stats
+Health growth increased to 105 from 100.
+Attack speed growth increased to 2.
+5
+% from 2%.
+Attack damage growth increased to 2.
+5
+from 2.
+2
+.
+Armor growth increased to 4.
+7
+from 4.
+2
+.
+V14.9
+Double Strike
+Bug Fix:
+The double strike attack no longer incorrectly consumes an additional
+Hail of Blades
+stack.
+Wuju Style
+Base damage reduced to 20 / 25 / 30 / 35 / 40 from 30 / 35 / 40 / 45 / 50.
+V14.2
+Highlander
+Bug Fix:
+Now properly resists the slow application from
+Ahri's
+Charm
+.
+V13.21
+Wuju Style
+Cooldown reduced to 14 seconds from 18.
+V13.10
+Highlander
+Bug Fix:
+Passive cooldown refund SFX on
+Inkshadow Master Yi
+is no longer audible in the fog of war.
+Bug Fix:
+Casting
+Alpha Strike
+after activating the ability on
+Inkshadow Master Yi
+no longer leaves behind a champion after-image VFX.
+V13.9
+Wuju Style
+Bug Fix:
+Chosen Master Yi's
+light saber no longer disappears after casting it and dying then respawning prior to the ability's cooldown ending.
+Highlander
+Bug Fix:
+Chosen Master Yi's
+sword VFX no longer disappears during the effect.
+V12.22
+Stats
+Base mana regeneration reduced to 7.
+25
+from 7.
+26
+.
+Alpha Strike
+Bug Fix:
+No longer sometimes causes monsters to attack him but deal no damage.
+V12.19
+Stats
+Attack damage growth reduced to 2.
+2
+from 2.
+5
+.
+Wuju Style
+Bonus AD ratio reduced to
+30%
+bonus
+AD
+from
+35%
+.
+V12.15
+Wuju Style
+Cooldown increased to 18 seconds at all ranks from 18 / 17 / 16 / 15 / 14.
+V12.13
+- July 13th Hotfix
+Stats
+Base attack damage reduced to 65 from 66.
+Attack damage growth reduced to 2.
+5
+from 3.
+Alpha Strike
+Cooldown increased to 20 / 19.
+5
+/ 19 / 18.
+5
+/ 18 seconds from 18 / 17.
+5
+/ 17 / 16.
+5
+/ 16.
+Meditate
+Damage reduction reduced to 45 / 47.
+5
+/ 50 / 52.
+5
+/ 55% from 60 / 62.
+5
+/ 65 / 67.
+5
+/ 70%.
+V12.13
+Stats
+Attack range increased to 175 units from 125.
+Alpha Strike
+New Effect:
+Can now choose where to reposition near the initial target after the effect ends by choosing a direction around them, by default he will be placed in front of them.
+Meditate
+Cooldown reduced to 9 seconds from 28.
+Mana cost reduced to 40 from 50.
+New Effect:
+Now costs
+6%
+maximum
+mana
+per second while channeling.
+New Effect:
+Damage reduction is now increased to 90% for the first 0.
+5
+seconds of the channel.
+Damage reduction linger increased to 0.
+5
+seconds from 0.
+25
+.
+Bug Fix/Undocumented:
+Damage reduction now also lingers when the channel's duration ends, rather than only when the channel is cancelled.
+Bug Fix/Undocumented:
+Damage reduction during the linger no longer has greater effectiveness against turrets and lesser effectiveness against other units.
+V12.11
+Stats
+Health growth reduced to 100 from 106.
+Wuju Style
+Base bonus true damage reduced to 30 / 35 / 40 / 45 / 50 from 30 / 38 / 46 / 54 / 62.
+V12.10
+Stats
+Base health increased to 669 from 599.
+Health growth increased to 106 from 92.
+Armor growth increased to 4.
+2
+from 3.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+V12.9
+Alpha Strike
+Bug Fix:
+SFX is no longer sometimes audible to enemies from the fog of war.
+Highlander
+Bonus attack speed reduced to 25 / 35 / 45% from 25 / 45 / 65%.
+V12.5
+- March 9th Hotfix
+Stats
+Base health increased to 599 from 550.
+Wuju Style
+Base bonus true damage increased to 30 / 38 / 46 / 54 / 62 from 30 / 37 / 44 / 51 / 58.
+Highlander
+Cooldown changed to 85 seconds at all ranks from 100 / 90 / 80.
+V12.5
+- March 4th Hotfix
+Stats
+Base health reduced to 550 from 599.
+Alpha Strike
+AD ratio reduced to
+50% AD
+from
+60% AD
+.
+Critical strike bonus damage AD ratio reduced to
+(17.
+5
+% +
+6.
+125
+%
+) AD
+from
+(30% +
+10.
+5
+%
+) AD
+.
+Subsequent hits critical strike bonus damage AD ratio reduced to
+(4.
+375
+% +
+1.
+53125
+%
+) AD
+from
+(7.
+5
+% +
+2.
+625
+%
+) AD
+.
+On-hit modifier reduced to 75% from 100%.
+Subsequent hit on-hit modifier reduced to 18.
+75
+% from 25%.
+Wuju Style
+Base bonus true damage reduced to 30 / 37 / 44 / 51 / 58 from 30 / 38 / 46 / 54 / 62.
+Highlander
+Cooldown changed to 100 / 90 / 80 seconds from 85 at all ranks.
+V12.5
+Alpha Strike
+Base damage changed to 30 / 60 / 90 / 120 / 150 from 25 / 60 / 95 / 130 / 165.
+AD ratio reduced to
+60% AD
+from
+90% AD
+.
+Critical strike bonus damage AD ratio reduced to
+(30% +
+10.
+5
+%
+) AD
+from
+(54% +
+18.
+9
+%
+) AD
+.
+Subsequent hits critical strike bonus damage AD ratio reduced to
+(7.
+5
+% +
+2.
+625
+%
+) AD
+from
+(13.
+5
+% +
+4.
+725
+%
+) AD
+.
+New Effect:
+Cooldown reduction per basic attack now scales down with ability haste.
+New Effect:
+Now applies on-hit effects, reduced to 25% for subsequent hits.
+Does not apply
+Alpha Strike's
+cooldown reduction or stack
+Double Strike
+.
+Wuju Style
+Base bonus true damage reduced to 30 / 38 / 46 / 54 / 62 from 30 / 40 / 50 / 60 / 70.
+New Effect:
+Duration is now paused during
+Alpha Strike
+.
+New Effect:
+Can now be cast during
+Alpha Strike
+.
+Highlander
+New Effect:
+Duration is now paused during
+Alpha Strike
+.
+New Effect:
+Can now be cast during
+Alpha Strike
+.
+V11.11
+Alpha Strike
+AD ratio reduced to
+90% AD
+from
+100% AD
+.
+Critical strike bonus damage AD ratio reduced to
+54% AD
+from
+60% AD
+.
+Wuju Style
+Base bonus true damage increased to 30 / 40 / 50 / 60 / 70 from 20 / 30 / 40 / 50 / 60.
+V11.5
+Wuju Style
+Base bonus true damage increased to 20 / 30 / 40 / 50 / 60 from 18 / 26 / 34 / 42 / 50.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+Base health increased to 599 from 598.
+56
+.
+Alpha Strike
+Cooldown increased to 18 / 17.
+5
+/ 17 / 16.
+5
+/ 16 seconds from 18 / 17 / 16 / 15 / 14.
+V10.8
+Highlander
+Bonus attack speed reduced to 25 / 45 / 65% from 30 / 55 / 80%.
+V10.7
+Highlander
+Bug Fix:
+No longer cancels basic attack animation.
+V10.6
+General
+Recommended items updated.
+V10.3
+Double Strike
+Undocumented:
+No longer consumes a stack of
+Hail of Blades
+on-hit
+.
+V9.21
+Double Strike
+Bug Fix:
+Double Strike
+now properly triggers
+on-attack
+effects.
+V9.16
+Alpha Strike
+Bug Fix:
+Basic attack immediately following his
+Alpha Strike
+now properly grants an additional stack of
+Conqueror
+or
+Electrocute
+.
+V9.15
+Double Strike
+Undocumented:
+Can now
+critically strike
+structures
+.
+V9.12
+Double Strike
+Bug Fix:
+Fixed a bug where stacks were lasting 3 seconds instead of 4.
+V9.11
+- May 30th Hotfix
+Alpha Strike
+Repeated strike damage increased to 25% from 15%.
+V9.11
+Stats
+No longer has 0.
+054
+additional attack speed at level one.
+Alpha Strike
+Repeated strike damage reduced to 15% from 25%.
+V9.10
+Alpha Strike
+Removed:
+No longer has a 0.
+1
+-second cast time.
+New Effect:
+If
+Master Yi
+has struck less then the maximum amount of targets and there are no eligible targets nearby, he strikes the same target for 25% damage before checking again. These minor strikes deal damage instantly.
+New Effect:
+Duration is now always 0.
+8
+seconds, rather than depending on the number of targets.
+Meditate
+Removed
+No longer has a 0.
+05
+-second cast time.
+Wuju Style
+Removed:
+No longer gains
+10%
+bonus
+AD
+while off cooldown.
+Highlander
+Bonus movement speed changed to 35 / 45 / 55%
+bonus
+movement speed from 25 / 35 / 45%
+multiplicative
+movement speed.
+V9.8
+Highlander
+New Effect:
+While active,
+Master Yi
+is now
+ghosted
+.
+V9.1
+Highlander
+New Effect:
+Ability icon HUD now shows the remaining duration of the ability.
+V8.24
+Double Strike
+Bug Fix:
+Basic attack no longer cancels if
+Double Strike's
+stack counter expires mid-attack.
+V8.17
+Meditate
+Cooldown reduced to 28 seconds from 35.
+Damage reduction increased to 60 / 62.
+5
+/ 65 / 67.
+5
+/ 70% from 50 / 55 / 60 / 65 / 70%.
+Turret damage reduction increased to 30 / 31.
+25
+/ 32.
+5
+/ 33.
+75
+/ 35% from 25 / 27.
+5
+/ 30 / 32.
+5
+/ 35%.
+V8.13
+Alpha Strike
+Removed:
+No longer deals 75 / 100 / 125 / 150 / 175 bonus damage to minions.
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 70 / 75 / 80 / 85 / 90.
+V8.11
+Stats
+Base attack damage reduced to 66 from 68.
+New:
+Now has 8%
+bonus
+attack speed at level 1.
+V8.4
+Alpha Strike
+Bug Fix:
+Using
+Alpha Strike
+while being alone will no longer cause Dragon to knock back and Baron to start healing.
+V8.3
+Stats
+Base health regeneration reduced to 7.
+5
+from 7.
+592
+.
+Alpha Strike
+Mana cost reduced to 70 / 75 / 80 / 85 / 90 from 70 / 80 / 90 / 100 / 110.
+Wuju Style
+Bonus true damage increased to 18 / 26 / 34 / 42 / 50 from 14 / 23 / 32 / 41 / 50.
+Active bonus AD ratio increased to
+35%
+bonus
+AD
+from
+25%
+.
+V7.23
+PROJECT: Yi
+Bug Fix:
+Ring VFX during his taunt no longer disappear when moving the camera away and back.
+V7.22
+Stats
+Base attack damage increased to 68 from 60.
+04
+.
+Base armor increased to 33 from 24.
+04
+.
+V7.20
+Eternal Sword Yi
+Alpha Strike
+Bug Fix:
+SFX are no longer audible when he is hit during
+Meditate
+.
+V7.12
+PROJECT: Yi
+Bug Fix:
+Death VFX now correctly play during his death animation.
+V7.11
+Chosen Master Yi
+Bug Fix:
+Restored missing sound effects during joke.
+V7.9
+Cosmic Blade Master Yi
+Bug Fix:
+Fixed a Mac bug causing
+Meditate
+and
+Highlander
+visual effects to flicker rapidly in some situations.
+V7.8
+PROJECT: Yi
+Meditate
+Bug Fix:
+Now displays the correct particles during
+Meditate
+, not his base skin particles.
+V7.5
+Double Strike
+Bug Fix:
+Fixed a bug where if it killed a champion, the second hit could hit nearby invisible champions.
+V7.2
+Double Strike
+New Effect:
+If
+Double Strike's
+first hit kills a unit, the second strike now searches for a new target within 300 range (prioritizes killing blows).
+Meditate
+New Effect:
+Channeling
+Meditate
+pauses the durations of
+Wuju Style
+and
+Highlander
+.
+New Effect:
+Now grants
+Master Yi
+one stack of
+Double Strike
+per second while channeling.
+V6.24
+Double Strike
+Bug Fix:
+Fixed a bug where
+Guinsoo's Rageblade
+dealt damage to
+Master Yi
+on
+Double Strike's
+second hit.
+Alpha Strike
+Now determines
+Master Yi's
+ending position when damage is dealt, rather than 0.
+05
+seconds beforehand. In other words,
+Master Yi
+more reliably ends up next to his target if the target
+Flashes
+at the end of
+Alpha Strike
+. (
+Alpha Strike
+duration unchanged)
+V6.23
+Alpha Strike
+Bug Fix:
+Fixed a bug causing the cooldown to sometimes not display properly.
+V6.22
+Alpha Strike
+Bug Fix:
+Now properly charges
+Statikk Shiv's
+passive.
+V6.21
+Double Strike
+Bug Fix:
+Fixed a bug where
+Master Yi
+would not critically strike monsters after
+Double Striking
+them at certain attack speeds.
+Alpha Strike
+Bug Fix:
+Dying during
+Alpha Strike
+will properly play
+Master Yi's
+death animation, placing him where
+Alpha Strike
+was portraying him to be.
+New Effect:
+Minimum untargetability of 0.
+25
+seconds.
+Bug Fix:
+Fixed a bug where
+Alpha Strike
+could sometimes fail to cast but still go on cooldown, and be unable to be reset by basic attacking until
+Master Yi
+cast
+Alpha Strike
+again.
+New Effect:
+Alpha Strike
+now also grants vision of where
+Master Yi
+will strike on his next bounce.
+Alpha Strike
+won't place
+Master Yi
+on top of
+Baron Nashor
+if it is the primary target.
+Meditate
+is no longer momentarily locked out after a failed
+Alpha Strike
+cast.
+Master Yi
+now becomes eligible for assists as soon as
+Alpha Strike
+visually bounces to a target (even though damage is only applied at the end of the animation).
+Wuju Style
+Bug Fix:
+Fixed a bug where
+Wuju Style's
+passive attack damage bonus wasn’' counting toward the
+25% bonus AD
+scaling of its active effect if
+Wuju Style
+was cast immediately as its cooldown expired.
+V6.10
+Meditate
+Per-second AP ratio increased to
+(+ 25% AP)
+from
+(+ 15% AP)
+.
+Wuju Style
+Active bonus true damage increased to 14 / 23 / 32 / 41 / 50 from 12 / 19 / 26 / 33 / 40.
+V6.8
+Highlander
+Cooldown increased to 85 from 75
+Duration reduced to 7 seconds from 10
+On-kill/on-assist duration extension increased to 7 seconds from 4.
+V6.7
+General
+Splash artwork for
+Ionia Master Yi
+,
+Samurai Yi
+and
+Headhunter Master Yi
+updated to the Chinese art.
+V6.6
+Wuju Style
+Active bonus true damage increased to 12 / 19 / 26 / 33 / 40 from 10 / 15 / 20 / 25 / 30.
+AD ratio changed to
+(+ 25% Bonus AD)
+from
+(+ 10 / 12.
+5
+/ 15 / 17.
+5
+/ 20% AD)
+.
+V5.24
+Meditate
+Tooltip updated to display correct per-second
+(+ 15% AP)
+ratio instead of
+(+ 30% AP)
+.
+V5.20
+General
+New splash artwork for
+Assassin Master Yi
+and
+Chosen Master Yi
+.
+V5.17
+General
+New Effect:
+Master Yi dances faster the more total movement speed he has.
+Alpha Strike
+Bug Fix:
+Cooldown not being reduced by
+Double Strike
+or
+Sated Devourer
+'s
+Phantom Hit
+.
+V4.13
+General
+Splash artwork for
+Chosen Master Yi
+updated to the Chinese art.
+V4.5
+Stats
+Armor increased to 19 from 15
+V3.13
+Alpha Strike
+Bug Fix:
+In-flight projectiles incorrectly dropping after becoming untargetable.
+Meditate
+Mana cost reduced to 50 at all ranks from 50 / 65 / 80 / 95 / 110.
+V3.10a
+Stats
+Attack speed per level reduced to 2% from 2.
+75
+.
+Double Strike
+Bug Fix:
+Second strike damaging targets even when Master Yi is blinded.
+Meditate
+Damage reduction increased to 50 / 55 / 60 / 65 / 70% from 40 / 45 / 50 / 55 / 60.
+Wuju Style
+Passive bonus attack damage changed to 10% at all ranks from 7 / 9 / 11 / 13 / 15.
+Highlander
+Cooldown reduction changed to 70% on kill or assists from 18 seconds on-kill and 9 on-assist.
+V3.10
+General
+New voice-over.
+Stats
+Health per level increased to 92 from 86.
+Base mana reduced to 180 from 199.
+Mana per level increased to 42 from 36.
+Base armor reduced to 15 from 16.
+3
+.
+Armor per level reduced to 3 from 3.
+7
+.
+Attack speed per level reduced to 2.
+75
+% from 2.
+98
+%.
+Double Strike
+New:
+Every 4th consecutive basic attack, Master Yi will attack twice, dealing 50% damage on the second strike.
+Old:
+After 7 basic attacks, Master Yi will strike his next target twice (if the first strike doesn't kill the target). The second strike triggers on-hit effects (including Double Strike's attack counter) and can critically strike.
+Alpha Strike
+New:
+Master Yi becomes untargetable and dashes to up to 4 units, dealing 25 / 60 / 95 / 130 / 165
+(+1.0 total attack damage)
+physical damage
+and 75 / 100 / 125 / 150 / 175 bonus damage to minions. Alpha Strike can critically strike for 60% of Master Yi's total attack damage.
+Alpha Strike's cooldown is reduced by 1 second each time Master Yi basic attacks.
+Old:
+Active: Master Yi blinks to a target enemy, dealing magic damage to it and up to three other enemies within a small range of the target, with a 50% chance to deal additional damage to minions and monsters. Master Yi is untargetable for Alpha Strike's duration, appearing at the initial target's location after the effect ends. If the initial target dies before Alpha Strike ends, Master Yi reappears at his original location instead.
+Magic damage: 100 / 150 / 200 / 250 / 300
+(+100% AP)
+.
+Additional damage to monsters: 260 / 320 / 380 / 440 / 500
+Mana cost increased to 70 / 80 / 90 / 100 / 110 from 60 / 70 / 80 / 90 / 100.
+Cooldown increased to 18 / 17 / 16 / 15 / 14 seconds from 18 / 16 / 14 / 12 / 10.
+Meditate
+New:
+Master Yi channels for 4 seconds, gaining 40 / 45 / 50 / 55 / 60 damage reduction and healing for 30 / 50 / 70 / 90 / 110
+(+0.3 ability power)
+per second.
+This heal is increased by 1% for every 1% Health Master Yi is missing. The damage reduction is halved against turrets.
+Old:
+Active: Master Yi channels for 5 seconds, gaining increased armor, health regeneration, and magic resistance while channeling. Master Yi also heals at the beginning and end (if it lasts for the full 5 seconds) of the channel.
+Bonus armor/ magic resist: 100 / 150 / 200 / 250 / 300
+Bonus health regeneration per second: 40 / 70 / 100 / 130 / 160
+(+40% AP)
+Maximum heal: 200 / 350 / 500 / 650 / 800
+(+200% AP)
+Wuju Style
+New:
+Passive: Master Yi gains 7 / 9 / 11 / 13 / 15 attack damage.
+Active: Master Yi deals 10 / 15 / 20 / 25 / 30
+(+0.
+1
+/ 0.
+125
+/ 0.
+15
+/ 0.
+175
+/ 0.
+2
+total attack damage)
+true damage
+on hit for 5 seconds. Wuju Style's passive bonus is lost while the skill is on cooldown.
+Old:
+Passive: Master Yi gains 15 / 20 / 25 / 30 / 35 attack damage.
+Active: For 10 seconds, Master Yi has increased attack damage equal to double the passive bonus.
+Mana cost reduced to 0 from 40.
+Cooldown reduced to 18 / 17 / 16 / 15 / 14 from 25 / 23 / 21 / 19 / 17.
+Highlander
+New:
+Passive: when Master Yi kills a champion, the cooldowns on his basic abilities are reduced by 18 seconds (half for assists)
+Active: grants Master Yi 30 / 55 / 80 attack speed and 20 / 32.
+5
+/ 45 movement speed for 10 seconds. If Master Yi scores a kill or assist while Highlander is active, Highlander's duration is extended by 4 seconds.
+Old:
+Active: For several seconds, Master Yi gains 40% increased movement speed, increased attack speed, and immunity to movement speed slows (but remains vulnerable to other forms of crowd control). Killing a champion during Highlander will restore all of Master Yi's cooldowns, and each assist during Highlander will restore half of his base cooldowns.
+Increased attack speed: 40 / 60 / 80
+Duration: 8 / 10 / 12 seconds
+V3.5
+Double Strike
+Trigger speed changed to scale with Master Yi's attack speed from 0.
+6
+seconds at all times.
+Bug Fix:
+Second strike critically striking turrets.
+V3.02
+Alpha Strike
+Bug Fix:
+Displaying as off cooldown when on it.
+V3.01
+Meditate
+Total heal increased to 200 / 350 / 500 / 650 / 800 from 140 / 280 / 420 / 560 / 700.
+Total AP ratio reduced to
+(+ 200% AP)
+from
+(+ 400% AP)
+.
+Mana cost reduced to 50 / 65 / 80 / 95 / 110 from 70 / 80 / 90 / 100 / 110.
+V1.0.0.153
+Alpha Strike
+Initial cast time reduced.
+Bonus minion damage chance changed to 50% at all ranks from 20 / 30 / 40 / 50 / 60.
+Bonus minion damage changed to 260 / 320 / 380 / 440 / 500 from 400 at all ranks.
+Meditate
+Initial cast time reduced.
+Wuju Style
+.
+Cooldown reduced to 25 / 23 / 21 / 19 / 17 seconds from 25 at all ranks.
+V1.0.0.152
+General
+New splash artwork for
+Original Master Yi
+.
+Stats
+Movement speed increased to 355 from 330.
+V1.0.0.139
+Meditate
+Mana cost reduced to 70 / 80 / 90 / 100 / 110 from 70 / 85 / 100 / 115 / 130.
+Highlander
+Bug Fix:
+Assists not reducing
+Alpha Strike
+'s cooldown.
+Duration increased to 8 / 10 / 12 seconds from 6 / 9 / 12.
+V1.0.0.133
+Meditate
+Bug Fix:
+Tooltip displaying incorrect AP ratio (lower than intended).
+V1.0.0.132
+General
+Splash artwork for
+Assassin Master Yi
+updated to the Chinese art.
+V1.0.0.129
+Alpha Strike
+Mana cost reduced to 60 / 70 / 80 / 90 / 100 from 80 / 90 / 100 / 110 / 120.
+Highlander
+Mana cost reduced to 100 from 120.
+V1.0.0.126
+Highlander
+Bug Fix:
+Immunity to
+Ethereal Chains
+'s rooting while active.
+V1.0.0.123
+Alpha Strike
+New Effect:
+Master Yi can activate
+Wuju Style
+and
+Highlander
+while untargetable.
+New Effect:
+Master Yi will attempt to attack the target champion once he reappears.
+V1.0.0.118
+Alpha Strike
+Blinking updated for consistency when near walls (to avoid Master Yi reappearing on the other side of a jungle camp).
+V1.0.0.104
+Chosen Master Yi
+Bug Fix:
+Missing sword glow.
+V1.0.0.100
+Alpha Strike
+Removed:
+Casting while rooted.
+Wuju Style
+Tooltip updated.
+V1.0.0.96
+Chosen Master Yi
+New Effect:
+Sword glows.
+V1.0.0.86
+Double Strike
+Bug Fix:
+Death recap display.
+Alpha Strike
+Animation delay reduced.
+Meditate
+Animation delay reduced.
+V1.0.0.85
+Stats
+Attack range increased to 125 from 100.
+Double Strike
+Trigger changed to every 7th basic attack from 10%.
+Alpha Strike
+Cooldown reduced to 18 / 16 / 14 / 12 / 10 seconds from 18 at all ranks.
+Mana cost reduced to 80 / 90 / 100 / 110 / 120 from 90 / 105 / 120 / 135 / 150.
+Cast time reduced.
+Speed increased.
+Meditate
+Cooldown reduced to 35 seconds from 45.
+Tick rate increased to every 0.
+5
+seconds from every 1.
+Heal reduced to 140 / 280 / 420 / 560 / 700 from 150 / 300 / 500 / 750 / 1100.
+Mana cost reduced to 70 / 85 / 100 / 115 / 130 from 80 / 100 / 120 / 140 / 160.
+Bonus resistances increased to 100 / 150 / 200 / 250 / 300 from 30 at all ranks.
+Wuju Style
+Cooldown reduced to 25 seconds from 30.
+Highlander
+New Effect:
+Assists on enemy champions reduce Master Yi's basic abilities' cooldown by 50%.
+V1.0.0.70
+Highlander
+Bonus attack speed stacking changed to additive from multiplicative.
+Bonus attack speed increased to 40 / 60 / 80% from 30 / 50 / 70.
+Bonus movement speed stacking changed to additive from multiplicative.
+V0.9.25.34
+Double Strike
+Trigger chance reduced to 10% from 12.
+Alpha Strike
+Range reduced to 600 from 650.
+V0.9.22.16
+Alpha Strike
+Bug Fix:
+Master Yi dying when targeting
+Baron Nashor
+and having
+Guardian Angel
+active.
+V0.9.22.15
+Stats
+Health increased to 530 from 480.
+Health per level reduced to 86 from 88.
+Attack damage increased to 55.
+7
+from 48.
+7
+.
+Attack damage per level increased to 3.
+1
+from 1.
+775
+.
+Movement speed increased to 330 from 325.
+V0.9.22.7
+Stats
+Movement speed increased to 325 from 320.
+Meditate
+New Effect:
+Master Yi gains 30 bonus armor and 30 bonus magic resistance for the duration.
+V0.8.22.115
+Alpha Strike
+Bug Fix:
+Master Yi sometimes canceling attack commands after reappearing.
+Highlander
+Bonus movement speed increased to 40% from 30 (to accommodate for movement speed soft capping).
+July 10, 2009 Patch
+Alpha Strike
+New Effect:
+Master Yi reappears on his target's location.
+June 26, 2009 Patch
+Double Strike
+Trigger chance reduced to 12% from 15.
+June 12, 2009 Patch
+Wuju Style
+Passive bonus attack damage increased to 15 / 20 / 25 / 30 / 35 from 10 / 15 / 20 / 25 / 30.
+Active bonus attack damage reduced to double the passive one from triple.
+Mana cost increased to 40 from 25.
+Cooldown reduced to 30 seconds from 40.
+June 6, 2009 Patch
+Alpha Strike
+Cooldown increased to 18 seconds from 16.
+Highlander
+Bonus attack speed changed to 30 / 50 / 70% from 25 / 50 / 75.
+Bonus movement speed reduced to 30% from 35.
+May 29, 2009 Patch
+Gameplay Update
+Alpha Strike
+Moved to Q from R.
+New Effect:
+Has a chance to deal bonus damage to minions hit.
+Meditate
+Heal reduced to 150 / 300 / 500 / 750 / 1100 from 150 / 350 / 600 / 900 / 1250.
+Mana cost reduced to 80 / 100 / 120 / 140 / 160 from 100 / 120 / 140 / 160 / 180.
+Cooldown reduced to 45 seconds from 60.
+Wuju Style
+Removed:
+Cost per attack, bonus attack speed.
+New Effect:
+Passively grants Master Yi bonus attack damage.
+New Effect:
+Upon activation Master Yi gains triple the bonus attack damage but loses the passive one for the duration.
+Highlander
+Moved to R from Q.
+New Effect:
+Grants Master Yi bonus attack speed and bonus movement speed for the duration.
+New Effect:
+Master Yi is immune to slows for the duration.
+New Effect:
+For the duration, kills on enemy champions refresh all basic ability cooldowns.
+May 23, 2009 Patch
+Double Strike
+Trigger chance changed to 15% from 12 / 16 / 20.
+May 15, 2009 Patch
+General
+Recommended items updated
+Highlander
+Duration reduced to 3 / 4 / 5 / 6 / 7 seconds from 4 / 5 / 6 / 7 / 8.
+Removed:
+Cleansing
+Soul Shackles
+.
+Meditate
+Channel duration reduced to 5 seconds from 6
+New Effect:
+Master Yi heals when he finishes channeling.
+Tooltip updated.
+Alpha Strike
+Removed:
+Bypassing invulnerability (
+Intervention
+).
+May 9, 2009 Patch
+Highlander
+Bug Fix:
+Incorrectly cleansing
+Debilitating Poison
+.
+April 25, 2009 Patch
+General
+Recommended items updated.
+April 18, 2009 Patch
+Meditate
+Cooldown increased to 60 seconds from 50.
+Alpha Strike
+Base damage increased to 150 / 250 / 350 from 50 / 125 / 200.
+April 11, 2009 Patch
+Highlander
+Removed:
+Cleansing
+Rune Prison
+.
+Bug Fix:
+Bonus movement speed stacking incorrectly (stacking type changed).
+Alpha Strike
+Bounce range increased to 600 from 400.
+Bug Fix:
+Enemy
+Highlander
+not cleansing the slow.
+Alpha Week 7
+Alpha Strike
+New Effect:
+Slows all targets hit by 60% for 4 / 5 / 6 seconds.
+Base damage reduced to 50 / 125 / 200 from 200 / 300 / 400.
+Alpha Week 6
+Highlander
+Removed:
+Cleansing roots (
+Rune Prison
+).
+Cooldown changed to 20 seconds at all ranks from 30 / 26 / 22 / 18 / 14.
+Meditate
+Tooltip updated
+Alpha Week 4
+Meditate
+Heal changed to 50 / 100 / 150 / 200 / 250 per second from
+2 / 4 / 6 / 8 / 10% maximum health
+.
+Cost changed to 100 / 120 / 140 / 160 / 180 from 120 / 140 / 160 / 180 / 200.
+Alpha Strike
+Damage changed to 200 / 300 / 400
+(+ 100% AD)
+from
+300% AD
+.
+Cooldown reduced to 90 seconds at all ranks from 210 / 150 / 120.
+Bug Fix:
+Doing more damage than intended.
+Bug Fix:
+Critically striking.
+Alpha Week 3
+Double Strike
+Bug Fix:
+Not triggering when attacking inhibitors.
+Meditate
+Channel duration reduced to 8 seconds from 10.
+Cooldown reduced to 50 seconds from 60.
+Wuju Style
+Base damage increased to 15 / 20 / 25 / 30 / 35 from 10 / 15 / 20 / 25 / 30.
+Bonus attack speed increased to 15 / 20 / 25 / 30 / 35% from 10 / 15 / 20 / 25 / 30.
+Mana cost reduced to 4 from 5.
+Alpha Strike
+Target bounces changed to 10 at all ranks.
+New Effect:
+Damage to champions has an AD ratio.
+Mana cost reduced to 150 at all ranks from 150 / 175 / 200.
+Cooldown changed to 150 / 120 / 90 seconds from 140 / 120 / 100.
+Alpha Week 2
+General
+Bug Fix:
+Basic attack timing.
+Meditate
+Tooltip updated.
+Wuju Style
+Tooltip updated.
+Alpha Strike
+Tooltip updated.
+Trivia
+[
+edit
+|
+edit source
+]
+Master Yi's name is a play on the word "mastery".
+Master Yi's goggles and his
+sword
+can both be seen in the game's Mac Version trailer.
+Master Yi is the champion with the highest base
+movement speed
+in-game (355).
+Master Yi's
+Recall
+animation references
+Junpei Iori's
+victory pose
+in
+Persona 4 Arena Ultimax
+videogame.
+A side-by-side comparison can be seen
+here.
+Master Yi's dance references the
+"Running Man" dance
+.
+A side-by-side comparison can be seen
+here,
+which references the
+version
+done by the character
+Dee Dee
+from the
+Dexter's Laboratory
+cartoons, specifically from the episode
+'Sister's Got a Brand New Bag'
+.
+The more total movement speed he has,
+the faster
+he dances.
+Inversely, the less total movement speed he has,
+the slower
+he dances.
+His pre-
+rework
+dance references
+Napoleon Dynamite
+, via
+one of its portions
+.
+He shared this dance with
+Katarina
+, whose dance references the other portions.
+Master Yi's title in the Chinese localization also dubs him as a "Sword Sage", a title given to most master swordmen in history such as Miyamoto Musashi.
+In the Chinese localization, it is instead named as "Wuji" (無極, lit. Extremeless/Apolar/Infinite). Wuji is also represented by an empty circle atop the
+Taijitu
+(太極圖 lit. Great Poles' Chart), which includes the well-known
+Yin and Yang
+. His
+Wuju Style
+ability in Chinese is also dubbed as "Wuji Jiandao" (無極劍道, lit. Extremeless Sword Path), "jiandao" is also the pinyin reading of Japanese
+kendou
+.
+Highlander
+was named after as well as references
+the eponymous franchise
+, with its cooldown reset mechanic possibly referencing the "quickening" effect.
+A functional real-life replica of Master Yi's
+'Highlander' Ring Sword
+was crafted in an episode of YouTube series
+Man At Arms: Reforged
+.
+This video can be viewed
+here
+.
+There are also videos where the following are crafted:
+Diana's
+Crescent Moonblade
+(
+functional
+)
+Katarina's
+Daggers
+(
+functional
+)
+Leona's
+Zenith Blade
+(
+functional
+)
+Poppy's
+Hammer of Orlon
+(
+functional
+)
+Yasuo's
+'Last Breath' Sword
+(
+functional
+)
+Ziggs'
+Hexplosive Bomb
+(
+prop
+)
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Skirmisher
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Skirmishers
+(also known as Duelists) aim to shred through any nearby enemy that approaches. Because Skirmishers lack high-end burst damage or reliable ways of closing in on high-priority targets, they are instead armed with situationally powerful defensive tools to survive in the fray, along with extreme sustained damage to cut down even the most durable targets.
+Examples
+Fiora
+Jax
+Yasuo
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Basic attack
+The
+basic attack
+(or
+auto-attack
+) is the most basic means of a unit to deal damage to another unit, usually dealing
+100% AD
+. It has a brief cooldown based on the caster's current
+attack speed
+.
+All
+basic attacks
+are normally unit-targeted with their range limited by the caster's
+attack range
+, and have a brief attack
+windup
+. Damage is then dealt depending on the caster's range type:
+Melee
+and some projectile-less ranged attacks deal damage immediately.
+Ranged
+attacks usually send a projectile that follows the target and deals damage upon striking them. Projectiles can be intercepted by certain
+blocking
+effects.
+The damage event will trigger
+on-hit effects
+from buffs the caster may hold. If damage cannot be dealt, on-hit effects will not be triggered.
+On-attack
+effects will always trigger when the attack's
+windup
+completes.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Vanish
+In addition to granting
+untargetability
+,
+vanish
+briefly hides a unit from the game's renderer, which causes it to become completely undetectable and invisible even to effects such as
+Oracle Lens
+.
+Vanished
+units are
+unable to act
+. As with all untargetability,
+tethers
+will still persist on a target that
+vanishes
+.
+Vanish
+is not considered
+stealth
+and does not interact with
+sight
+effects.
+League of Legends content
+Blink
+A
+blink
+refers to a form of movement whereby a unit displaces from point A to B without traversing the space between.
+League of Legends content
+Lockout
+A champion that is
+locked out
+is unable to perform certain actions such as casting abilities, moving, or attacking. The prevented actions can vary per instance.
+Lockout does not interact with
+crowd control
+mechanics unless otherwise stated.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Wuju Style
+COOLDOWN:
+14
+Active:
+Master Yi
+empowers his sword, causing his basic attacks to deal
+bonus
+true damage
+on-hit
+for a few seconds.
+League of Legends content
+Highlander
+COOLDOWN:
+85
+Passive:
+Scoring a champion
+takedown
+massively
+reduces
+the
+current
+cooldowns of
+Master Yi's
+basic abilities.
+Active:
+Master Yi
+cleanses
+himself from all
+slows
+and
+cripples
+and gains
+ghosting
+,
+bonus
+attack speed
+,
+bonus
+movement speed
+,
+slow immunity
+, and
+cripple immunity
+all for the next few seconds.
+While active, scoring a champion
+takedown
+extends
+Highlander's
+duration by a few seconds.
+League of Legends content
+Double Strike
+Innate:
+Master Yi's
+basic attacks generate a stack of
+Double Strike
+for a few seconds. At 3 stacks, his next basic attack will consume them to make a second attack that deals
+reduced
+physical damage
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Brush
+Brush
+is a common terrain feature that obstructs
+sight
+for any unit outside of it.
+League of Legends content
+Tether
+A
+tether
+is an effect that applies a
+bind
+buff on both the source and the target(s), which then creates the actual tether that requires both to remain in close proximity so any accompanying effects (
+damage
+,
+crowd control
+,
+heals
+,
+buffs
+, etc) can apply.
+The tether breaks if it exceeds maximum range, or either conduit is removed (e.g.
+Death
+). The tether will also break from a transition into the
+zombie state
+due to the target already dying.
+Generally, a
+bind
+with an enemy will break along with the tether, whereas a bind with an ally will last indefinitely and automatically reapply the tether when within range.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Resurrection
+A unit that is protected by
+Resurrection
+will enter a revival state and dispel most debuffs upon taking
+fatal damage
+. After the state completes, the unit is revived.
+Resurrection
+effects do not count for kills or assists.
+Resurrection
+sources have a hierarchy, and will trigger in the following order:
+Zilean's
+Chronoshift
+Guardian Angel
+Anivia's
+Rebirth
+and
+Zac's
+Cell Division
+Resurrection
+will always take precedence over
+zombie state
+effects. Entering
+resurrection
+does not cancel cast times.
+Renata Glasc's
+Bailout
+always takes priority over
+resurrection
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Master Yi's profile page
+at
+LeagueOfLegends.com

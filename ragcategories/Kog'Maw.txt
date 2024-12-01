@@ -1,0 +1,2766 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Kog'Maw
+the Mouth of the Abyss
+Release date
+2010-06-24
+Last changed
+V14.23
+Class(es)
+Marksman
+Legacy
+Marksman
+Mage
+Position(s)
+Bottom
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+1
+Utility
+1
+Style
+Difficulty
+Kog'Maw
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+KogMaw
+Base statistics
+Edit
+Health
+635
++99
+Mana
+325
++40
+Health regen. (per 5s)
+3.75
++0.55
+Mana regen. (per 5s)
+8.75
++0.7
+Armor
+24
++4.45
+Attack damage
+61
++3.1
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+500
+Attack speed
+Base AS
+0.665
+Attack windup
+16.622%
+AS ratio
+N/A
+Bonus AS
++2.65
+%
+Missile speed
+1800
+Unit radius
+Gameplay radius
+65
+Selection radius
+130
+Pathing radius
+30
+Acq. radius
+900
+Special statistics
+Damage Dealt
+-12%
+Damage Received
++10%
+Damage Dealt
+-10%
+Damage Received
++5%
+Damage Dealt
+-3%
+Damage Received
++3%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Icathian Surprise
+EFFECT RADIUS:
+400
+Innate:
+Upon
+dying
+,
+Kog'Maw
+enters an
+untargetable
+zombie state
+for a few seconds, gradually gaining
+bonus
+movement speed
+. He explodes at the end of the duration, dealing
+true damage
+to nearby enemies.
+Innate:
+Upon taking
+fatal damage
+,
+Kog'Maw
+enters a
+zombie state
+for 4 seconds, becoming
+ghosted
+and gaining
+10%
+bonus
+movement speed
+that increases up to
+50%
+over the duration. At the end of the duration, he explodes to deal
+140 − 650 (based on level)
+true damage
+to nearby enemies.
+While under this state,
+Kog'Maw
+becomes
+invulnerable
+,
+untargetable
+, and
+immune to crowd control
+, but is also rendered unable to declare
+basic attacks
+, cast
+abilities
+, use
+summoner spells
+, and
+activate items
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Area damage
+Sub-type
+True
+Counters
+Spell shield
+Blocked
+Icathian Surprise
+grants
+3.
+125
+%
+bonus
+movement speed
+every
+0.
+264
+seconds
+over the duration, up to the maximum of
+50%
+. However, as a result of the ticks being rounded up from 0.
+25
+seconds, the movement speed only reaches up to
+40.
+625
+%
+.
+Icathian Surprise's
+untargetability
+does not
+destroy
+in-flight
+projectiles
+.
+Icathian Surprise
+will still trigger if
+Kog'Maw
+is killed by the
+Nexus Obelisk
+.
+If
+Kog'Maw
+has the missile from a basic attack in-flight at the same time that he's moving while he dies, as long as the missile hits the target after
+Icathian Surprise
+has started,
+Kog'Maw
+will be able to use a basic attack once during
+Icathian Surprise
+.
+Kog'Maw's
+usable
+summoner spells
+will be placed on a 5 second cooldown upon becoming a zombie.
+During
+Icathian Surprise
+,
+Kog'Maw's
+attack range
+is reduced
+「 to 0 」
+「 by 500 」
+, making him automatically path near enemies he is trying to target.
+Zombie states trigger upon taking
+lethal damage
+.
+Raw damage
+effects will not prevent zombie states from triggering.
+All
+resurrection
+effects will take precedence over effects that reanimate as a zombie.
+A champion that enters a zombie state will start their death timer upon triggering the effect.
+Most buffs and debuffs will be lost upon transitioning into a zombie state.
+Those that persist through death, such as
+Brand's
+Blaze
+, will remain.
+Undisplayed marker buffs, such as those imposed by
+Veigar's
+Event Horizon
+and
+Viktor's
+Gravity Field
+to prevent being affected multiple times by the same effect, will be lost.
+(bug)
+This does not apply when transitioning from one zombie state to another zombie state.
+(bug)
+Units within a zombie state cannot:
+Use
+Recall
+or
+Refillable Potion
+.
+Activate
+resurrection
+effects.
+Take
+Dark Passage
+,
+Catapult
+, or
+gates
+.
+Pick up the
+Eye of the Herald
+.
+Be targeted by the following:
+Bailout
+Chronoshift
+Umbral Trespass
+.
+Be affected by the following:
+Curse of the Black Mist
+Fear Beyond Death's
+chain missile
+Test of Spirit's
+initial missile
+Lamb's Respite
+Realm of Death
+Fountain
+health restore
+Edit
+Caustic Spittle
+COST:
+40 Mana
+COOLDOWN:
+7
+CAST TIME:
+Basic attack timer
+RANGE:
+1200
+WIDTH:
+140
+SPEED:
+1650
+Passive:
+Kog'Maw
+gains
+bonus
+attack speed
+.
+Active:
+Kog'Maw
+ejects a wad of spittle in the target direction that deals
+magic damage
+to the first enemy hit, reducing their
+armor
+and
+magic resistance
+for a few seconds.
+Passive:
+Kog'Maw
+gains
+bonus
+attack speed
+.
+Bonus Attack Speed:
+10 / 15 / 20 / 25 / 30%
+Active:
+Kog'Maw
+ejects a wad of spittle in the target direction that deals
+magic damage
+to the first enemy hit and reduces their
+armor
+and
+magic resistance
+for 4 seconds.
+Magic Damage:
+90 / 140 / 190 / 240 / 290
+(+ 70% AP)
+Resistances Reduction:
+16 / 20 / 24 / 28 / 32%
+Info
+Targeting input
+Direction
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+This ability will cast from wherever the caster is at the start of the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+Resistances reduction changed to 15 / 17.
+5
+/ 20 / 22.
+5
+/ 25%.
+AP ratio changed to
+100% AP
+.
+Edit
+Bio-Arcane Barrage
+COST:
+40 Mana
+COOLDOWN
+:
+17
+CAST TIME:
+none
+Active:
+Kog'Maw
+empowers his basic attacks for a period, gaining
+bonus
+attack range
+and dealing
+bonus
+magic damage
+based on the
+target's
+maximum
+health
+.
+Active:
+Kog'Maw
+empowers his
+basic attacks
+for the next 8 seconds to gain
+bonus
+attack range
+and deal
+bonus
+magic damage
+on-hit
+, capped at 100 against
+minions
+and
+monsters
+.
+Bonus Attack Range:
+130 / 150 / 170 / 190 / 210
+Bonus Magic Damage:
+3 / 3.
+75
+/ 4.
+5
+/ 5.
+25
+/ 6%
+(+ 1% per 100 AP)
+of target's
+maximum
+health
+Info
+Targeting input
+Auto
+Damage type
+Type
+Proc damage
+Sub-type
+Magic
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+The attacks do not deal the
+bonus
+damage against
+structures
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to
+2 / 2.
+75
+/ 3.
+5
+/ 4.
+25
+/ 5% of target's
+maximum
+health
+.
+Edit
+Void Ooze
+COST:
+40 / 55 / 70 / 85 / 100 Mana
+COOLDOWN:
+12
+CAST TIME:
+0.
+25
+RANGE:
+1360
+WIDTH:
+240
+SPEED:
+1400
+Active:
+Kog'Maw
+spews a gob of ooze in the target direction that deals
+magic damage
+to enemies hit. It leaves a field of ooze in its wake for a few seconds that
+slows
+enemies.
+Active:
+Kog'Maw
+spews a gob of ooze in the target direction that deals
+magic damage
+to enemies hit.
+Magic Damage:
+70 / 110 / 150 / 190 / 230
+(+ 65% AP)
+A field of ooze is created in its wake for 4 seconds,
+slowing
+enemies every 0.
+25
+seconds.
+Slow:
+40 / 45 / 50 / 55 / 60%
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+This ability will cast from wherever the caster is at the start of the cast time.
+PENDING FOR TEST:
+: The missile leaves a blob of ooze on the ground every 125 units traveled.
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio changed to
+100% AP
+.
+Slow strength changed to 20 / 30 / 40 / 50 / 60%.
+Edit
+Living Artillery
+COST:
+40 − 400 (based on stacks)
+Mana
+COOLDOWN:
+2 / 1.
+5
+/ 1
+CAST TIME:
+0.
+25
+TARGET RANGE:
+1300 / 1550 / 1800
+EFFECT RADIUS:
+240
+Active:
+Kog'Maw
+spits a globule of acid into the air that drops to the target location, dealing
+magic damage
+to enemies hit based on
+their
+missing
+health
+. The damage is further
+doubled
+against enemies at
+low health
+.
+Kog'Maw
+then gains a stack of
+Living Artillery
+, stacking up to a cap.
+Living Artillery:
+For each stack,
+Living Artillery
+gains increased
+mana cost
+.
+Active:
+Kog'Maw
+spits a globule of acid into the air that drops to the target location after 0.
+6
+seconds, granting
+sight
+of the area before dealing
+magic damage
+to enemies hit and
+revealing
+them for 2 seconds.
+Living Artillery's
+damage is increased by
+0% − 50% (based on target's
+missing
+health)
+, or instead by
+100%
+if the target is below
+40%
+maximum
+health
+.
+Minimum Magic Damage:
+100 / 140 / 180
+(+ 75%
+bonus
+AD)
+(+ 35% AP)
+Maximum Magic Damage:
+200 / 280 / 360
+(+ 150%
+bonus
+AD)
+(+ 70% AP)
+Kog'Maw
+then gains a
+stack
+of
+Living Artillery
+for 8 seconds, refreshing on subsequent casts and stacking up to 9 times.
+Living Artillery:
+For each stack,
+Living Artillery's
+mana cost
+is increased by
+40
+.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Living Artillery
+will not reveal
+stealthed
+champions.
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio changed to
+55% AP
+.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Kog'Maw (Collection)
+.
+Original
+View in 3D
+880
+24.06.2010
+Belched forth from a rotting Void incursion deep in the wastelands of Icathia, Kog’Maw is an inquisitive yet putrid creature with a caustic, gaping mouth. This particular Void-spawn needs to gnaw and drool on anything within reach to truly understand it. Though not inherently evil, Kog’Maw’s beguiling naiveté is dangerous, as it often precedes a feeding frenzy—not for sustenance, but to satisfy its unending curiosity.
+Patrick Seitz
+Alex 'alexplank' Flores
+Loot eligible
+Caterpillar
+View in 3D
+520
+24.06.2010
+Kog'Maw, ever lost in thought, sat upon his toadstool until he was famished. “Wonderland is full of such delights,” he mused, gulping down the toadstool entirely. “It would be a shame not to devour them all.”
+Patrick Seitz
+Unknown artist
+Storybook
+Loot eligible
+Legacy
+Sonoran
+View in 3D
+520
+24.06.2010
+Long considered a pest by frontier settlers, Kog'Maw critters have been growing in number as more dangerous beasts are pushed to the brink of extinction. And they are very, very hungry.
+Patrick Seitz
+Unknown artist
+High Noon
+Loot eligible
+Legacy
+Monarch
+View in 3D
+520
+16.11.2010
+Patrick Seitz
+Unknown artist
+Legacy
+Loot eligible
+New Animations/Recall
+Reindeer
+View in 3D
+975
+14.12.2010
+It is rumored that Kog'Maw stole his glowing nose and deer antlers from a particularly adorable creature he devoured. Whether or not the theory is true, Kog'Maw is now the most famous reindeer of all.
+Patrick Seitz
+Unknown artist
+Snowdown Showdown
+Loot eligible
+Legacy
+Additional/unique quotes
+New SFX/VFX
+Lion Dance
+View in 3D
+1350
+01.02.2011
+It is unclear if Kog'Maw even understands what Lunar Revel is, but someone seems to have painted him for it. That person has presumably been eaten and digested, but Kog'Maw does look very festive.
+Patrick Seitz
+Unknown artist
+Lunar Revel: Firecracker
+Loot eligible
+New SFX/VFX
+Deep Sea
+View in 3D
+975
+19.09.2011
+“Perhaps my old mind was deceived by the fury of the storm. Yet as we sank, I glimpsed a field of lights beneath the waves, a thousand eyes of wicked alabaster… they were dark things tearing into the flesh of our crew as if all they ever knew was hunger.”
+Patrick Seitz
+Kienan 'Knockwurst' Lafferty
+Forgotten Depths
+Loot eligible
+Legacy
+New SFX/VFX
+Jurassic
+View in 3D
+975
+23.03.2012
+Patrick Seitz
+Unknown artist
+Day Job
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Battlecast
+View in 3D
+1350
+25.11.2014
+Mass-produced artillery units based on the now-extinct Kog'Maw organism, Viktor has invented an ingenious shell delivery system best appreciated from about a hundred miles away—the latest design's maximum range.
+Patrick Seitz
+Unknown artist
+Battlecast
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Pug'Maw
+View in 3D
+975
+29.03.2017
+Pug'Maw is a nine month old purebred pug with a sweet disposition and possibly some sort of salivary problem. Great with children and pets. Highly food motivated. Has eaten three action figures and one doll, approach with extreme caution.
+Patrick Seitz
+Pan Chengwei
+Toy Box
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Pug'Maw Chromas
+Citrine
+Granite
+Meteorite
+Obsidian
+Pearl
+Rose Quartz
+Sandstone
+Speckled
+Hextech
+View in 3D
+Special
+07.12.2017
+A newer Hextech innovation, Kog'Maw constructs are available as pets for wealthy families, delighting Piltover's upper crust with their friendly demeanor and intricately complex design. Though living things, they are viewed among the well-to-do as little more than status symbols.
+Patrick Seitz
+Jennifer Wuestling
+Hextech
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Arcanist
+View in 3D
+1350
+09.07.2020
+The diminutive familiar of a famed sorcerer, Kog'Maw was mistreated and neglected for years as his master pursued the arcane arts. Thanks to a chance meeting with Zoe, he was released from servitude to travel the land with her… ultimately enrolling in the same school Zoe technically attends.
+Patrick Seitz
+David Villegas, West Studio
+Arcanists
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Arcanist Kog'Maw Chromas
+Aquamarine
+Catseye
+Emerald
+Obsidian
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Bee'Maw
+View in 3D
+1350
+04.03.2021
+Snowballing lane won't bring back your precious honey!
+Patrick Seitz
+Esben Lash Rasmussen
+Bees!
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Bee'Maw Chromas
+Amethyst
+Aquamarine
+Obsidian
+Peridot
+Rainbow
+Rose Quartz
+Ruby
+Sandstone
+Zap'Maw
+View in 3D
+1350
+11.08.2022
+The Zap'Maw is a curious monster that baffles even the most experienced of Tamers. Sightings are limited to abandoned ruins that only the bravest dare enter. But taming one is an even more challenging task. Only one Tamer has succeeded so far, their bond—and the Zap'Maw's lightning attacks—growing stronger each day.
+Patrick Seitz
+Ina Wong, West Studio
+Monster Tamers
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Zap'Maw Chromas
+Amethyst
+Aquamarine
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+Shan Hai Scrolls
+View in 3D
+1350
+14.06.2023
+In defiance of the maelstrom's power, the beast Kog'Maw safely rides along its currents thanks to its nigh-unbreakable shell. Perpetually at odds with itself, its tail is addicted to feeding on the maelstrom's energy, while its head simply wants to devour everything in sight. Can anything within the Scrolls sate its growing hunger?
+Patrick Seitz
+Exia Xiaotong, West Studio
+Shan Hai Scrolls
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Shan Hai Scrolls Kog'Maw Chromas
+Amethyst
+Catseye
+Obsidian
+Pearl
+Peridot
+Rose Quartz
+Ruby
+Sapphire
+Victorious
+View in 3D
+Special
+17.05.2024
+Kog'Maw was earned by players who accumulated enough split points in Ranked. Those curious enough to follow the shimmering ooze trailing from the mouth of a crevasse, have but a moment to recognize that same curiosity in Kog'Maw's glittering stare before finding themselves enveloped in his terrible mouth.
+Patrick Seitz
+Huyy Nguyen, West Studio
+Victorious
+Loot ineligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Victorious Kog'Maw Chromas
+Bronze
+Challenger
+Diamond
+Emerald
+Gold
+Grandmaster
+Master
+Platinum
+Silver
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.23
+Caustic Spittle
+Resistances reduction changed to 16 / 20 / 24 / 28 / 32% from 23 / 25 / 27 / 29 / 31%.
+Void Ooze
+Base damage reduced to 70 / 110 / 150 / 190 / 230 from 75 / 120 / 165 / 210 / 255.
+AP ratio reduced to
+65% AP
+from
+70% AP
+.
+V14.14
+Icathian Surprise
+Bug Fix:
+Is no longer sometimes unable to issue movement commands after the zombie state has expired.
+V14.13
+Icathian Surprise
+Bug Fix:
+Corpse is no longer sometimes a valid movement collision target.
+V14.7
+Void Ooze
+Bug Fix:
+Tooltip now notes the correct slow amount due to 14.5 changes.
+V14.5
+Icathian Surprise
+New Effect:
+Now gains
+10%
+bonus
+movement speed
+upon activation.
+Maximum bonus movement speed increased to 50% from 40%.
+Caustic Spittle
+Cast time changed to basic attack windup time from 0.
+25
+seconds.
+Void Ooze
+Slow increased to 40 / 45 / 50 / 55 / 60% from 30 / 35 / 40 / 45 / 50%
+Living Artillery
+AD ratio increased to
+75%
+bonus
+AD
+from
+65%
+.
+V14.2
+Bio-Arcane Barrage
+New Effect:
+Now displays an attack range indicator while active.
+V14.1
+Bio-Arcane Barrage
+Bug Fix:
+No longer always cancels an ongoing basic attack windup when the buff ends.
+V13.18
+Icathian Surprise
+Bug Fix:
+Character swap to the exploded
+Kog'Maw
+model is no longer partially overriding his champion statistics.
+No longer shows as having the maximum amount of attack speed while a corpse.
+V13.12
+Bio-Arcane Barrage
+Base damage reduced to
+3 / 3.
+75
+/ 4.
+5
+/ 5.
+25
+/ 6% of target's
+maximum
+health
+from
+3.
+5
+/ 4.
+25
+/ 5 / 5.
+75
+/ 6.
+5
+%
+.
+Lion Dance Kog'Maw
+Living Artillery
+Bug Fix:
+Restored vertical cast indicator.
+V13.8
+Icathian Surprise
+Base damage increased to
+140 − 650 (based on level)
+from
+125 − 550 (based on level)
+.
+New Effect:
+Now grants
+ghosting
+while active.
+Caustic Spittle
+Cooldown reduced to 7 seconds from 8.
+Void Ooze
+Mana cost reduced to 40 / 55 / 70 / 85 / 100 from 60 / 70 / 80 / 90 / 100.
+Slow changed to 30 / 35 / 40 / 45 / 50% from 20 / 28 / 36 / 44 / 52%.
+V13.1b
+Icathian Surprise
+Undocumented/Bug Fix:
+The exploded corpse that
+Kog'Maw
+turns into after the effect ends no longer displays -5 base movement speed.
+V12.22
+Stats
+Attack damage growth reduced to 3.
+1
+from 3.
+11
+.
+V12.12
+Icathian Surprise
+Bug Fix:
+Corpse is no longer an obstacle to other units' pathing.
+V12.11
+- June 9th Hotfix
+Bio-Arcane Barrage
+Base damage increased to
+3.
+5
+/ 4.
+25
+/ 5 / 5.
+75
+/ 6.
+5
+% of target's
+maximum
+health
+from
+3 / 3.
+8
+/ 4.
+6
+/ 5.
+2
+/ 6%
+.
+V12.11
+Caustic Spittle
+Resistance reduction reduced to 23 / 25 / 27 / 29 / 31% from 25 / 27 / 29 / 31 / 33%.
+Bonus attack speed reduced to 10 / 15 / 20 / 25 / 30% from 15 / 20 / 25 / 30 / 35%.
+Bio-Arcane Barrage
+Base damage reduced to
+3 / 3.
+8
+/ 4.
+6
+/ 5.
+2
+/ 6% of target's
+maximum
+health
+from
+3 / 4 / 5 / 6 / 7%
+.
+V12.10
+Stats
+Base health increased to 635 from 565.
+Health growth increased to 99 from 85.
+Armor growth increased to 4.
+45
+from 3.
+25
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Icathian Surprise
+Bug Fix:
+No longer triggers his own
+Immortal Shieldbow
+passive.
+V12.9
+Icathian Surprise
+Bug Fix:
+Turrets no longer prioritize and target enemies damaged by it.
+V12.8
+Icathian Surprise
+Bug Fix:
+Enemy champions that deal lethal damage to trigger the zombie state are no longer considered to deal damage to the source when the effect ends.
+V12.2
+Icathian Surprise
+Bug Fix:
+Fixed a bug where towers would incorrectly target enemy champions who took damage from it.
+V11.18
+Void Ooze
+AP ratio increased to
+70% AP
+from
+50% AP
+.
+V11.10
+General
+Updated base textures.
+Updated visual effects.
+New basic attack missiles and hit effects.
+Icathian Surprise
+Reduced noise and improved clarity with regards to the size of the explosion.
+Caustic Spittle
+New hit effects and a new missile to better represent its actual hitbox.
+Bio-Arcane Barrage
+New effects to make him more representative of the Void.
+Void Ooze
+New hit effects and a new missile to better represent its actual hitbox.
+Living Artillery
+New effects that better represent the hitbox.
+Reindeer Kog'Maw
+,
+Deep Sea Kog'Maw
+, and
+Jurassic Kog'Maw
+Added new recolors to all VFX.
+Lion Dance Kog'Maw
+Caustic Spittle
+New unique VFX.
+Void Ooze
+Updated VFX.
+Living Artillery
+Updated VFX.
+Pug'Maw
+All VFX updated.
+V11.9
+Icathian Surprise
+Bug Fix:
+VO has been restored and is playing once again on all skins.
+Caustic Spittle
+Resistance reduction increased to 25 / 27 / 29 / 31 / 33% from 20 / 22 / 24 / 26 / 28%.
+Void Ooze
+Mana cost reduced to 60 / 70 / 80 / 90 / 100 from 80 / 90 / 100 / 110 / 120.
+V11.5
+Bio-Arcane Barrage
+Bonus magic damage health ratio increased to
+3 / 4 / 5 / 6 / 7% of target's
+maximum
+health
+from
+3 / 3.
+75
+/ 4.
+5
+/ 5.
+25
+/ 6%
+.
+V11.2
+- January 21st Hotfix
+Caustic Spittle
+Bug Fix:
+No longer permanently loses bonus attack speed after dying.
+V10.18
+Stats
+Health growth reduced to 85 from 90.
+Armor growth reduced to 3.
+25
+from 3.
+5
+.
+V10.15
+Arcanist Kog'Maw
+Void Ooze
+Bug Fix:
+VFX now aligns with when it actually deals damage to the enemy units.
+V10.13
+Caustic Spittle
+AP ratio increased to
+70% AP
+from
+50% AP
+.
+Living Artillery
+AP ratio increased to
+35% AP
+from
+25% AP
+.
+V10.12
+Caustic Spittle
+Bug Fix:
+Tooltip no longer mentions rooting for 0.
+5
+seconds.
+V10.11
+Stats
+Base health increased to 565 from 534.
+Health growth increased to 90 from 88.
+V10.1
+Living Artillery
+New Effect:
+Mana debuff duration now displays on the icon's border.
+V9.21
+Stats
+Base mana increased to 325 from 322.
+2
+.
+Base mana regeneration increased to 8.
+75
+from 8.
+676
+.
+Caustic Spittle
+Base damage increased to 90 / 140 / 190 / 240 / 290 from 80 / 130 / 180 / 230 / 280.
+Void Ooze
+Base damage increased to 75 / 120 / 165 / 210 / 255 from 60 / 105 / 150 / 195 / 240.
+V9.8
+Battlecast Kog'Maw
+Bug Fix:
+Fixed a bug where
+Teemo's
+Blinding Dart
+did not correctly display on this skin.
+V9.1
+Living Artillery
+New Effect:
+Can now ping the time until stacks expire if
+Kog'Maw
+is unable to cast
+Living Artillery
+due to having too many stacks.
+V8.24
+Pug'Maw
+Void Ooze
+Bug Fix:
+Restored self and ally view bubble VFX and enemy view bubbles are now more red.
+V8.19
+Stats
+Base movement speed increased to 330 from 325.
+Living Artillery
+Target range increased to 1300 / 1550 / 1800 from 1200 / 1500 / 1800.
+V8.14
+General
+Updated mixing and mastering for current SFX.
+V8.11
+Stats
+Base health increased to 534 from 517.
+76
+.
+Health growth increased to 88 from 82.
+Base armor reduced to 24 from 29.
+Base health regeneration reduced to 3.
+75
+from 6.
+Base attack damage reduced to 61 from 65.
+Attack damage growth increased to 3.
+11
+from 2.
+41
+.
+V8.4
+Bio-Arcane Barrage
+Bonus magic damage maximum health ratio increased to
+3 / 3.
+75
+/ 4.
+5
+/ 5.
+25
+/ 6% of target's
+maximum
+health
+from
+3 / 3.
+5
+/ 4 / 4.
+5
+/ 5%
+.
+V8.3
+Stats
+Base health regeneration increased to 6 from 5.
+924
+.
+Bio-Arcane Barrage
+Maximum health bonus magic damage reduced to
+3 / 3.
+5
+/ 4 / 4.
+5
+/ 5% of target's
+maximum
+health
+from
+3 / 4 / 5 / 6 / 7%
+.
+V8.1
+Hextech Kog'Maw
+Void Ooze
+Bug Fix:
+VFX around the spit blob projectile no longer disappear beneath elevated terrain.
+V7.23
+Living Artillery
+Bug Fix:
+Warning indicator VFX can once again be seen from self/ally view in Medium, Low, and Very Low graphics settings.
+V7.22
+Stats
+Base attack damage increased to 65 from 57.
+46
+.
+Base armor increased to 29 from 19.
+88
+.
+V7.14
+Reindeer Kog'Maw
+Bug Fix:
+Vintage loading screen border now properly displays for original owners of the skin.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V6.24
+Bio-Arcane Barrage
+Maximum health bonus damage increased to
+3 / 4 / 5 / 6 / 7%
+from
+2 / 3 / 4 / 5 / 6%
+.
+Void Ooze
+Base damage reduced to 60 / 105 / 150 / 195 / 240 from 60 / 110 / 160 / 210 / 260.
+AP ratio reduced to
+50% AP
+from
+70% AP
+.
+V6.21
+Living Artillery
+Initial and stacking mana cost reduced to 40 from 50.
+Maximum mana cost reduced to 400 from 500.
+Increased cost debuff duration reduced to 8 seconds from 10.
+Base damage increased to 100 / 140 / 180 from 70 / 110 / 150.
+New Effect:
+Deals 0.
+83
+% increased damage for every
+1% of target's missing health
+, up to 50% bonus damage (
+versus targets above 40% of their maximum health
+).
+Maximum damage implemented at 150 / 210 / 270 +
+97.
+5
+% bonus AD
++
+37.
+5
+% AP
+.
+Threshold to deal double damage reduced to
+below 40% health
+from
+below 50% health
+.
+Target's below the above threshold take double damage instead of the previous modifier.
+Base double damage increased to 200 / 280 / 360 from 140 / 220 / 300.
+Removed:
+Triple damage
+below 25% health
+, previously 240 / 330 / 540
+(+ 195% bonus AD)
+(+ 75% AP)
+.
+V6.20
+Bio-Arcane Barrage
+Made
+Bio-Arcane Barrage's
+attack animation cool again.
+Updated
+Lion Dance Kog'Maw's
+hit particles for even more fireworks.
+Updated
+Bio-Arcane Barrage's
+visual effects across skins to match the new duration.
+V6.19
+Stats
+Base attack speed increased to 0.
+665
+from 0.
+625
+.
+Attack speed growth reduced to 2.
+65
+% from 3.
+5
+%.
+Caustic Spittle
+New Passive:
+15 / 20 / 25 / 30 / 35% bonus attack speed.
+Bio-Arcane Barrage
+Removed:
+Bonus attack speed, maximum attack speed and reduced cast time.
+Removed:
+Basic attacks dealing
+55% AD
+to non-minions.
+Removed:
+Base bonus magic damage reduced to 0 from 4 / 8 / 12 / 16 / 20.
+Target's maximum health ratio increased to
+2 / 3 / 4 / 5 / 6% of target's
+maximum
+health
+from
+2% of target's
+maximum
+health
+at all ranks.
+Target's maximum health AP ratio increased to
+1% per 100 AP
+from
+0.
+75
+% per 100 AP
+.
+Bonus range increased to 130 / 150 / 170 / 190 / 210 from 90 / 120 / 150 / 180 / 210.
+Cooldown increased to 17 seconds at all ranks from 13 / 11.
+5
+/ 10 / 8.
+5
+/ 7.
+Duration increased to 8 seconds from 6.
+New effect:
+Cooldown now starts on-cast instead of at the end of buff duration.
+V6.8
+Caustic Spittle
+Resistance reduction increased to 20 / 22 / 24 / 26 / 28% from 12 / 16 / 20 / 24 / 28%.
+Bio-Arcane Barrage
+Base damage reduced to 4 / 8 / 12 / 16 / 20 from 10 / 15 / 20 / 25 / 30.
+V6.7
+General
+Splash artwork for
+Lion Dance Kog'Maw
+updated to the Chinese art.
+March 11th Hotfix
+Bug Fix:
+On-hit effects were dealing significantly reduced damage while
+Bio-Arcane Barrage
+was active.
+V6.5
+Stats
+Attack speed growth increased to 3.
+5
+% from 1.
+5
+%.
+Caustic Spittle
+Mana cost reduced to 40 from 60.
+Bio-Arcane Barrage
+Removed:
+Passive
+bonus attack speed.
+Removed:
+Minimum damage threshold.
+New Effect:
+Bonus damage has a base value of 5 / 10 / 15 / 20 / 25.
+Percentage health component unchanged.
+V6.4
+Stats
+Base attack speed reduced to 0.
+625
+from 0.
+665
+.
+Bio-Arcane Barrage
+Bonus damage cap against non-champions reduced to 60 from 100.
+V6.3
+Caustic Spittle
+Moved:
+Passive 15 / 20 / 25 / 30 / 35% bonus attack speed.
+Bio-Arcane Barrage
+New Effect:
+Passively grants
+15 / 20 / 25 / 30 / 35% attack speed
+.
+New Effect:
+The base magic damage has a minimum damage threshold of 15.
+V5.24
+Bio-Arcane Barrage
+Base damage changed to
+2% of target's maximum health
+from
+1.
+25
+% per 100 AD
+(AP ratio unchanged).
+November 17th Hotfix
+Stats
+Attack damage increased to 57.
+46
+from 54.
+46
+.
+Attack speed increased to 0.
+655
+from 0.
+625
+.
+V5.22
+General
+New ability icons.
+Recommended items updated.
+Stats
+Base attack damage increased to 54.
+46
+from 52.
+04
+.
+Attack damage growth reduced to 2.
+41
+from 3.
+Base health reduced to 517.
+76
+from 546.
+16
+.
+Health growth reduced to 82 from 87.
+Caustic Spittle
+Passive's attack speed increased to 15 / 20 / 25 / 30 / 35% from 10 / 15 / 20 / 25 / 30%.
+Range increased to 1175 from 975.
+Bio-Arcane Barrage
+Revised Active:
+For the next 6 seconds, Kog'Maw gains increased attack range, his total attack speed and attack speed cap are doubled and the cast times on his abilities are halved. For the duration, Kog'Maw's attacks versus non-minions deal only 55% of his attack damage but deal bonus magic damage equal to
+「 1.
+25
+% per 100 AD 」
+「 1% per 80 AD 」
+(+
+「 0.
+75
+% per 100 AP) 」
+「 1% per 133.
+3
+AP 」
+of the target's maximum health
+.
+Duration reduced to 6 seconds from 8.
+Bonus range reduced to 90 / 120 / 150 / 180 / 210 from 130 / 150 / 170 / 190 / 210.
+Cooldown reduced to 13 / 11.
+5
+/ 10 / 8.
+5
+/ 7 seconds from 17 at all ranks.
+New Effect:
+Cooldown timer begins when the buff ends instead of on-cast.
+Mana cost increased to 40 from 0.
+Living Artillery
+Base damage reduced to 70 / 110 / 150 from 80 / 120 / 160.
+Bonus AD ratio increased to
+65% bonus AD
+from
+50% Bonus AD
+AP ratio reduced to
+25% AP
+from
+30% AP
+.
+Removed:
+Bonus damage against champions.
+New Effect:
+Deals
+「 twice the damage 」
+「 140 / 220 / 300 +
+130% Bonus AD
++
+50% AP
+」
+to targets
+below 50% health
+and
+「 thrice the damage 」
+「 210 / 330 / 450 +
+195% bonus AD
++
+75% AP
+」
+to targets
+below 25% health
+.
+Base and per-stack mana cost increased to 50 from 40.
+Maximum cost increased to 500 from 400.
+Added cost duration increased to 10 seconds from 6.
+V4.18
+General
+New splash artwork for
+Original Kog'Maw
+.
+V4.14
+Stats
+Base movement speed reduced to 325 from 330.
+Void Ooze
+New particle effects.
+Living Artillery
+Bonus base magic damage to champions reduced to 100% from 125%.
+V4.13
+Stats
+Base health reduced to 400 from 440.
+Health per level increased to 87 from 84.
+Caustic Spittle
+Resistance reductions reduced to 12 / 16 / 20 / 24 / 28% from 20 / 22 / 24 / 26 / 28%.
+V4.5
+Stats
+Base armor increased to 14 from 10.
+V4.4
+Caustic Spittle
+Targeting changed to a linear skill shot from a targeted ability.
+Range increased to 1000 from 625.
+Base damage increased to 80 / 130 / 180 / 230 / 280 from 60 / 110 / 160 / 210 / 260
+AP ratio reduced to
+50% AP
+from
+70% AP
+.
+Shred increased to 20 / 22 / 24 / 26 / 28% from 5 / 10 / 15 / 20 / 25 flat.
+Mana cost increased to 60 from 50.
+Bio-Arcane Barrage
+Mana cost reduced to 0 from 50.
+V3.8
+Void Ooze
+Bug Fix:
+Fixed a bug where the slow wasn't reduced by Tenacity /
+Slow Resist
+.
+New Effect:
+Missile now applies a 1 second slow to targets struck, refreshing every .
+25
+seconds.
+V1.0.0.152
+Stats
+Movement speed increased to 330 from 305.
+V1.0.0.142
+General
+Updated tooltips.
+Living Artillery
+Maximum stack count increased to 10 from 5.
+Max mana cost increased to 400 from 200.
+V1.0.0.140b
+Living Artillery
+Damage bonus to champions reduced to 125% from 150%.
+V1.0.0.139
+Void Ooze
+Slow reduced to 20 / 28 / 36 / 44 / 52% from 28 / 36 / 44 / 52 / 60%.
+V1.0.0.138
+Icathian Surprise
+Removed:
+** Kog'Maw no longer regenerates health while active.
+V1.0.0.131
+Dominion
+Icathian Surprise
+New Effect:
+Kog'Maw's respawn timer now starts after exploding.
+V1.0.0.130
+Icathian Surprise
+Bug Fix:
+Enemies killed by the explosion were being awarded an extra kill.
+Bug Fix:
+Brand
+being awarded an extra kill if triggered as
+Pyroclasm
+traveled toward Kog'Maw.
+Bug Fix:
+Not triggering if Kog'Maw is killed by
+Ignite
+.
+Bug Fix:
+Not triggering if Kog'Maw was affected by
+Silver Bolts
+.
+V1.0.0.129
+Bio-Arcane Barrage
+Bonus attack range reduced to 130 / 150 / 170 / 190 / 210 from 130 / 160 / 190 / 220 / 250.
+V1.0.0.127
+Bio-Arcane Barrage
+Duration reduced to 8 seconds from 10.
+V1.0.0.125
+Icathian Surprise
+Bug Fix:
+Now properly displays numbers in its tooltip as it updates with level.
+V1.0.0.123
+Living Artillery
+Updated reveal particle effect.
+V1.0.0.121
+General
+Basic attack animation updated to be more responsive.
+Caustic Spittle
+Animation updated to be more responsive.
+Bio-Arcane Barrage
+Animation updated to be more responsive
+Duration increased to 10 seconds from 6.
+Cooldown increased to 17 seconds from 15.
+Void Ooze
+Bug Fix:
+Now properly flagged as an area-of-effect spell.
+Living Artillery
+Projectile drop time reduced slightly to improve consistency.
+V1.0.0.118b
+General
+Updated recommended items.
+Caustic Spittle
+Range increased to 625 from 600.
+New Effect:
+Now reduces magic resistance.
+Bio-Arcane Barrage
+Cooldown decreased to 15 seconds from 17.
+Void Ooze
+Width increased slightly.
+Living Artillery
+New Effect:
+Now also scales with
+50% Bonus AD
+.
+V1.0.0.118
+Void Ooze
+Bug Fix:
+Fixed a bug that was causing the line missile targeting display to be offset on
+Kog'Maw's
+Void Ooze
+V1.0.0.115
+Void Ooze
+Bug Fix:
+Fixed a bug where
+Void Ooze
+were treated as individual units and could break things like
+mushrooms
+, block skillshots, etc.
+V1.0.0.111
+Bio-Arcane Barrage
+Bug Fix:
+Fixed a display bug with
+Bio-Arcane Barrage
+attacks on several skins.
+V1.0.0.106
+Stats
+Base movement speed reduced to 305 from 310.
+V1.0.0.105
+Bio-Arcane Barrage
+Bug Fix:
+Fixed a bug where it was doing more damage than intended.
+Bug Fix:
+Fixed a bug where it was dealing physical damage instead of magic damage.
+V1.0.0.103
+Icathian Surprise
+Bug Fix:
+Fixed several consistency bugs.
+V1.0.0.102
+Bio-Arcane Barrage
+Cooldown increased to 17 seconds from 15.
+V1.0.0.101
+Caustic Spittle
+Bug Fix:
+Giving multiplicative attack speed instead of the intended base one.
+V1.0.0.100
+Living Artillery
+Self-buff text updated to display correct per-cast added cost (40).
+V1.0.0.99
+General
+Abilities remade and shuffled around.
+Caustic Spittle
+(Q)
+Removed Passive:
+13 / 16 / 19 / 22 / 26% armor penetration.
+New Passive:
+Passively grants 10 / 15 / 20 / 25 / 30% bonus attack speed
+Removed Active:
+Doubles passive armor penetration for 4 seconds.
+New Active:
+Kog'Maw fires a projectile that reduces the target's armor by 5 / 10 / 15 / 20 / 25 for 4 seconds.
+Bio-Arcane Barrage
+(W)
+Cooldown reduced to 15 seconds from 20.
+Void Ooze
+(E)
+Cooldown reduced to 12 secods from 13.
+V1.0.0.97
+Stats
+Base attack range increased to 500 from 450.
+Caustic Spittle
+Range increased to 625 from 600.
+Bio-Arcane Barrage
+Bonus range reduced to 130 / 160 / 190 / 220 / 250 from 140 / 180 / 220 / 260 / 300.
+V1.0.0.96
+Icathian Surprise
+Bug Fix:
+Fixed a bug where
+Chronoshift
+would not prevent Kog'Maw from dying.
+V1.0.0.94
+Icathian Surprise
+(Innate)
+Upon dying, Kog'Maw starts a chain reaction in his body which causes him to detonate after 4 seconds; dealing magic damage to surrounding enemies.
+Bio-Arcane Barrage
+(Q)
+Kog'Maw's attacks gain range and deal a percent of the target's maximum health as magic damage.
+Void Ooze
+(W)
+Kog'Maw launches a peculiar ooze which damages all enemies it passes through and leaves a trail which slows enemies who stand on it.
+Caustic Spittle
+(E)
+Passive: Increases armor penetration.
+Active: Kog'Maw launches a corrosive projectile which deals magic damage and doubles his passive armor penetration for 4 seconds (Removes the passive until available again).
+Living Artillery
+(Ultimate)
+Kog'Maw fires a living artillery shell at a great distance dealing damage and revealing targets. Additionally, multiple Living Artilleries in a short period of time cause them to cost additional mana.
+Trivia
+[
+edit
+|
+edit source
+]
+Kog'Maw is
+voiced
+by
+Patrick Seitz
+.
+Renekton
+is also voiced by the same voice actor, while
+Lucian
+used to be voiced by the same voice actor.
+Kog'Maw's dance references
+Michigan J. Frog's
+dance
+from
+One Froggy Evening
+.
+A side-by-side comparison can be seen
+here
+.
+Despite
+Icathian Surprise
+causing him to blow up, Kog'Maw does have a 'normal' death animation which can only be seen when he's being revived by
+Chronoshift
+or
+Guardian Angel
+.
+Icathian Surprise
+is one of only three abilities that allow their casters to
+continue fighting after death
+, the others being
+Death Defied
+and
+Glory in Death
+.
+Kog'Maw is the only Void-related champion without 'Void' in his title.
+While idle Kog'Maw blinks one eye at a time and sometimes spins around in a manner resembling dogs chasing their own tail.
+Kog'Maw was the first champion to have a joke animation (the second being
+Miss Fortune
+).
+Kog'Maw was first spotted in a screenshot from
+Malzahar's
+reveal.
+Maw is another word for mouth.
+Kog'Maw's abilities ironically make no use of his spoken-of and downright-self-stated insatiable hunger.
+Kog'Maw had his game assets reused for several
+featured game modes
+.
+He was given a retexture and features as a monster called the "Scary Spitty Monster" in
+Invasion
+.
+His animations were reused for the
+Arcraptor
+and
+Skitterbeak
+monsters in
+Odyssey: Extraction
+.
+His model were reused as mini-boss in
+Swarm
+.
+In the
+V1.0.0.115
+April Fools' Day
+patch, he was jokingly listed to receive a skin called
+"Seeing-Eye Kog"
+, referencing a seeing-eye dog, another term for
+Guide dog
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Marksman
+Marksmen
+(formerly "Carries") excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger. Although Marksmen have the ability to stay relatively safe by kiting their foes, they are very fragile and are extremely reliant on powerful item purchases to become true damage threats.
+At present, Marksmen do not have any official subclasses. The following have been considered:
+Demolisher
+Scrapper
+Examples
+Ashe
+Ezreal
+Lucian
+Kai'Sa
+Jhin
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Bottom
+Within a
+drafted team
+, the
+Bottom Carry
+is one of the two champions assigned to the bottom lane alongside the
+Support
+. Being the most vulnerable, the
+Bottom Carry
+has to acquire as much gold as possible to purchase key items that will greatly increase their fighting potential.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Bottom Carry
+is expected to fulfill the former designation: the position is made for champions that highly depend on item-based power spikes.
+Marksmen
+are the most likely champions to be selected in the
+Bottom Carry
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Zombie state
+A buff that allows a player to keep controlling their
+champion
+after
+Death
+always flags the champion to be in a
+zombie state
+. It prevents enemies from gaining full kill credit or triggering most on-kill effects from the champion a second time, and some abilities (e.g.
+You and Me!
+) interact differently with champions in this state.
+Renata Glasc's
+Bailout
+and
+Resurrection
+will always take precedence over
+zombie state
+effects.
+The following effects trigger a champion to enter a
+zombie state
+:
+Karthus'
+Death Defied
+Kog'Maw's
+Icathian Surprise
+Sion's
+Glory in Death
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Invulnerability
+A unit that is
+Invulnerable
+reduces all damage taken to
+0
+and prevents effects that trigger from damage.
+League of Legends content
+Cc-Immune
+Crowd control immunity
+prevents
+any
+type of
+crowd control
+from being
+applied
+to the unit. CC which has already been applied will still have an effect on the unit. Epic
+monsters
+(excluding a summoned
+Rift Herald
+) and
+turrets
+are always immune to all crowd control, with the exception of
+stasis
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+True damage
+Applies:
+Corrupting Potion
+Omnivamp
+Mitigated by:
+Damage shields
+Invulnerability
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Homing projectile destruction
+Destroying
+or
+popping of a projectile
+references an effect that destroys all homing
+missiles
+currently targeting a specific unit, such as ranged projectile-based
+basic attacks
+. Destroyed missiles will do the same thing as if they were destroyed by
+Wind Wall
+or
+Blade Whirl
+(usually vanishing without any effect).
+The following abilities perform one or more
+projectile popping events
+:
+Most
+abilities and effects that grant
+untargetability
+pop projectiles when the unit gains the status effect.
+Master Yi's
+Alpha Strike
+in particular pops targeted projectiles on each game tick for its duration.
+Gwen's
+Hallowed Mist
+pops all projectiles (from enemy champions outside of its area of effect) targeted at her that attempt to pass through or be inside its area of effect.
+Upon entering or leaving
+Mordekaiser's
+Realm of Death
+.
+Upon successfully completing the
+channel
+of:
+Shen's
+Stand United
+Twisted Fate's
+Gate
+Teleport
+League of Legends content
+Projectile
+A
+projectile
+or
+missile
+is any entity not classified as a unit (
+champion
+,
+minion
+,
+monster
+, etc.
+) that travels at any given velocity.
+Moving units are
+not
+considered projectiles under any circumstance (
+including
+dashing
+units,
+airborne
+units, or units thrown by some abilities such as
+Force of Will
+or
+Roar of the Slayer
+.
+).
+Braum's
+Unbreakable
+,
+Samira's
+Blade Whirl
+, and
+Yasuo's
+Wind Wall
+can block, destroy and / or stop projectiles.
+Some
+ranged
+basic attacks (
+including
+turrets
+) and abilities don't use projectiles and will bypass projectile-blocking effects.
+Some abilities will
+destroy
+all currently incoming homing projectiles.
+League of Legends content
+Nexus Obelisk
+The
+Nexus Obelisk
+, (or
+Fountain Laser
+), is a turret that deals tons of damage, bypassing survival tools such as
+invulnerability
+and
+resurrection
+. A
+Nexus Obelisk
+presides over each team's spawn platform on most maps.
+League of Legends content
+Raw damage
+Raw damage
+is a type of damage that normally ignores resistances,
+shields
+, and
+minimum health threshold
+and
+resurrection
+effects on the target.
+Invulnerability
+and
+spell shields
+,  where applicable, are the only ways to reduce or negate
+raw damage
+. Current champion-sources of
+raw damage
+against an enemy always deal more than
+100% of the target's
+current
+health
+(
+"execution damage"
+). Current champion-sources of
+raw damage
+against the player's own champion or an ally are special-cased to take place during effects that protect champions from death. Current implementations of
+minimum health thresholds
+are special-cased to leave units at
+1 health
+rather than the threshold, when they are dealt lethal
+raw damage
+.
+Raw damage
+does not interact with
+any
+effect.
+Internal raw
+damage is a form of
+raw damage
+that also bypasses
+invulnerability
+and has no overrides in place to prevent it from killing death-protected champions. The
+Nexus Obelisk
+,
+Zac's
+Cell Division
+redirected damage, and
+Rift Herald's
+self-damage also have this modified form.
+League of Legends content
+Resurrection
+A unit that is protected by
+Resurrection
+will enter a revival state and dispel most debuffs upon taking
+fatal damage
+. After the state completes, the unit is revived.
+Resurrection
+effects do not count for kills or assists.
+Resurrection
+sources have a hierarchy, and will trigger in the following order:
+Zilean's
+Chronoshift
+Guardian Angel
+Anivia's
+Rebirth
+and
+Zac's
+Cell Division
+Resurrection
+will always take precedence over
+zombie state
+effects. Entering
+resurrection
+does not cancel cast times.
+Renata Glasc's
+Bailout
+always takes priority over
+resurrection
+.
+League of Legends content
+Blaze
+Innate:
+Brand's
+abilities apply a stack of
+Ablaze
+to enemies hit. Subsequent abilities used against a target with
+Ablaze
+are empowered. Killing an enemy afflicted with
+Ablaze
+or with an ability restores
+mana
+.
+At three stacks,
+champions
+and large
+monsters
+become unstable and explode, dealing
+magic damage
+to nearby enemies and applying a stack of
+Ablaze
+.
+Ablaze
+cannot stack more than once on enemies who have recently exploded.
+Ablaze:
+While afflicted with
+Ablaze
+, the target is continually dealt
+magic damage
+equal to a portion of
+their
+maximum
+health
+.
+League of Legends content
+Event Horizon
+COOLDOWN:
+20 / 18.
+5
+/ 17 / 15.
+5
+/ 14
+Active:
+After a brief delay,
+Veigar
+erects a cage at the target location that lasts for a short time. Enemies that touch the cage edges are briefly
+knocked down
+and
+stunned
+.
+League of Legends content
+Gravity Field
+COOLDOWN:
+17 / 16 / 15 / 14 / 13
+Active:
+Viktor
+deploys a gravity field that remains at the target location for a few seconds. After a brief delay, it activates to continually
+slow
+enemies within and inflict stacks of
+Gravity Field
+.
+The third stack consumes them all to briefly
+knock down
+and
+stun
+the target.
+Augment: Magnetize
+:
+Viktor's
+other basic abilities will also briefly
+slow
+enemies hit.
+League of Legends content
+Dark Passage
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Active:
+Thresh
+throws his lantern to the target location that remains for a few seconds while he remains nearby. He and the first allied champion to come near the lantern are granted a
+shield
+for a few seconds, with the amount based on
+Souls
+.
+An ally can grab the lantern to
+dash
+to
+Thresh
+and gain the shield, but cannot do so while
+immobilized
+,
+grounded
+, or
+silenced
+.
+League of Legends content
+Gate
+Gates
+are map elements that offer transit.
+Champions can interact with a gate to
+channel
+for 0.
+75
+seconds. Upon completing the channel, they
+dash
+to the other side of the gate over 2.
+25
+seconds, becoming
+untargetable
+during the travel. Each route has a 30-second cooldown per champion.
+They may choose a location to dash again up to a distance from the gate, though not through terrain. Champions taking gates will always
+blink
+to their designated location, even when the dash is stopped.
+League of Legends content
+Bailout
+COOLDOWN:
+28 / 27 / 26 / 25 / 24
+Active:
+Renata
+grants herself or the target allied champion ramping
+bonus
+attack speed
+in addition to
+bonus
+movement speed
+toward enemies.
+Bailout's
+duration resets whenever the target scores a
+takedown
+against an enemy champion.
+If the target would
+die
+while
+Bailout
+is active, their health is set back to full but they suffer a
+true damage
+burn that would kill them over a short time. The target can stop the burn by scoring a
+takedown
+.
+League of Legends content
+Chronoshift
+COOLDOWN:
+120 / 90 / 60
+Active:
+Zilean
+places a protective time rune on himself or the target allied champion for a few seconds.
+If the target would die, they enter
+resurrection
+for a short time, becoming
+invulnerable
+,
+untargetable
+, and
+unable to act
+. They are
+healed
+afterwards.
+League of Legends content
+Umbral Trespass
+COOLDOWN:
+120 / 100 / 80
+Passive:
+Kayn
+marks
+enemy champions he damaged for a short time.
+Active:
+Kayn
+vanishes
+and
+dashes
+to a
+marked
+enemy champion. Upon arrival, he
+channels
+for a short time,
+attaching
+to the target and
+revealing
+them.
+Recast:
+Kayn
+deals
+physical damage
+to the target and
+dashes
+out from their body in the target direction.
+Shadow Assassin Bonus:
+Umbral Trespass
+has increased range. Emerging will
+reset
+The Darkin Scythe's
+cooldown.
+Darkin Bonus:
+Umbral Trespass
+deals damage based on the
+target's
+maximum
+health
+, and
+heals
+him for a portion of the
+target's
+maximum
+health
+.
+League of Legends content
+Curse of the Black Mist
+COOLDOWN:
+26 / 24.
+5
+/ 23 / 21.
+5
+/ 20
+Active:
+Senna
+creates an aura of mist and gains
+camouflage
+for a few seconds. She will quickly regain camouflage after breaking stealth.
+Allied champions that enter the mist gain
+Wraith Form
+for the remaining duration.
+Senna
+and allies camouflaged by
+Curse of the Black Mist
+also gain
+bonus
+movement speed
+.
+Wraith Form
+: Gain
+camouflage
+. Enemies will have
+obscured vision
+of camouflaged
+Wraiths
+moving outside the mist.
+Wraiths
+will quickly regain camouflage after breaking stealth.
+League of Legends content
+Fear Beyond Death
+COOLDOWN:
+100 / 85 / 70
+Active:
+Urgot
+fires a chem-drill in the target direction that impales the first enemy champion hit, dealing
+physical damage
+and leashing them for a few seconds. The target is also
+revealed
+and
+slowed
+based on
+their
+missing
+health
+.
+Fear Beyond Death
+can be recast if the leashed target falls to
+low health
+, and does so automatically afterwards if they remain at
+low health
+. It will also recast if the chem-drill would kill the target.
+Recast:
+Urgot
+suppresses
+the target and reels them in,
+revealing
+them and rendering them
+untargetable
+. He then
+executes
+them, which briefly
+fears
+and
+slows
+nearby enemies.
+League of Legends content
+Test of Spirit
+COOLDOWN:
+16 / 15 / 14 / 13 / 12
+Active:
+Illaoi
+reaches with a tendril in the target direction that stops upon the first enemy hit. If the target is a
+champion
+, she rips their
+Spirit
+out from them to stand before her.
+The
+Spirit
+tethers
+to the target for a duration, dealing a portion of any damage it takes. If the
+Spirit
+is killed or the target leaves its range, the target will be
+slowed
+and marked as a
+Vessel
+for a duration or until they
+takedown
+Illaoi
+, spawning
+Tentacles
+while marked.
+Tentacles
+will autonomously attack the nearest
+Spirit
+or
+Vessel
+.
+League of Legends content
+Lamb's Respite
+COOLDOWN:
+180 / 150 / 120
+Active:
+Lamb
+blesses the ground under herself for a few seconds. Any unit inside the area will become
+invulnerable
+upon reaching
+low health
+.
+Units within the area are
+healed
+when the blessing ends.
+League of Legends content
+Realm of Death
+COOLDOWN:
+140 / 120 / 100
+Active:
+Mordekaiser
+slows
+the target enemy champion, then banishes them with him to the
+Death Realm
+for a few seconds, cancelling all interactions with non-banished units.
+Additionally,
+Mordekaiser
+heals
+himself for a portion of the
+target's
+maximum
+health
+and temporarily steals a portion of their
+current
+attack damage
+,
+ability power
+,
+total
+attack speed
+,
+maximum
+health
+,
+armor
+,
+magic resist
+, and
+size
+.
+If the target dies while inside the
+Death Realm
+,
+Mordekaiser
+keeps his stolen stats until they
+respawn
+.
+Death Realm:
+The
+Death Realm
+confines units in a small area. Allies and enemies cannot see or interact with those in the
+Death Realm
+but can see their locations and vice versa.
+References
+[
+edit
+|
+edit source
+]
+↑
+Kog'Maw's profile page
+at
+LeagueOfLegends.com

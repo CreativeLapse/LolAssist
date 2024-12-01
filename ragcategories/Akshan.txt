@@ -1,0 +1,2760 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Akshan
+the Rogue Sentinel
+Release date
+2021-07-22
+Last changed
+V14.22
+Class(es)
+Marksman
+Assassin
+Legacy
+Marksman
+Assassin
+Position(s)
+Middle
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+3
+Utility
+2
+Style
+Difficulty
+Akshan
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Akshan
+Base statistics
+Edit
+Health
+630
++107
+Mana
+350
++40
+Health regen. (per 5s)
+3.75
++0.65
+Mana regen. (per 5s)
+8.2
++0.7
+Armor
+26
++4.7
+Attack damage
+52
++3
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+500
+Attack speed
+Base AS
+0.638
+Attack windup
+13.33%
+AS ratio
+0.4
+Bonus AS
++4
+%
+Missile speed
+2000
+Unit radius
+Gameplay radius
+65
+Selection radius
+100
+Pathing radius
+35
+Acq. radius
+750
+Special statistics
+Damage Dealt
++5%
+Damage Received
+-5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Dirty Fighting
+STATIC COOLDOWN
+:
+16 / 12 / 8 / 4 (based on level)
+SPEED:
+2000
+/
+5000
+Innate:
+Akshan's
+basic attack causes him to fire a second attack that deals
+reduced
+physical damage
+. If
+Akshan
+cancels the second attack, he gains a brief burst of
+move speed
+.
+Innate:
+Akshan's
+attacks and abilities apply a stack to enemies hit. The third stack consumes them all to deal
+bonus
+magic damage
+; if the target was a
+champion
+, he also gains a brief
+shield
+.
+Innate:
+Whenever
+Akshan
+uses a
+basic attack
+, he fires an additional shot after a delay that deals
+50% AD
+physical damage
+, increased to
+100% AD
+against
+minions
+. Issuing an
+attack order
+on a different target before the additional shot has been launched causes
+Akshan
+to fire it at the new target. If the second shot is cancelled instead, he gains
+20 − 75 (based on level)
+×
+(1 + 100%
+bonus
+attack speed)
+bonus
+movement speed
+decaying over 1 second.
+The additional shot applies
+on-hit
+and
+on-attack
+effects at 100% effectiveness and can
+critically strike
+for
+「
+(122.
+5
+% +
+28%
+) physical damage
+. 」
+「 70%
+total
+critical damage
+. 」
+Innate:
+Akshan's
+basic attacks
+on-hit
+and
+ability
+hits apply a
+stack
+of
+Dirty Fighting
+to enemies for 5 seconds, refreshing on subsequent applications and stacking up to 3 times. The third stack against a target consumes them all to deal them
+15 / 40 / 80 / 150 (based on level)
+(+ 60% AP)
+bonus
+magic damage
+; if the target is a
+champion
+,
+Akshan
+will also gain a
+40 − 280 (based on level)
+(+ 35%
+bonus
+AD)
+shield
+for 2 seconds. The shield may be gained only once every few seconds.
+Dirty Fighting's shield's cooldown starts upon the shield expiring.
+Info
+Targeting input
+Passive
+Damage type
+Type
+See Notes
+Sub-type
+Physical
+/
+Magic
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Projectile
+Blocked
+Applies
+basic damage
+for the second shot and
+proc damage
+for the bonus damage.
+The second shot:
+Is treated as a basic attack.
+Critically strikes
+independently from the first shot.
+Can be cancelled by inputting a different command right after using the first shot.
+Counts as a separate hit for effects such as
+Electrocute
+,
+Muramana's
+Shock
+, and
+Eclipse's
+Ever Rising Moon
+.
+Starts the attack windup's cooldown after it is used, rather than when the first shot is.
+The attack speed scaling on the movement speed buff includes the bonus attack speed gained from
+Akshan's
+innate attack speed growth.
+At level 18, at minimum it grants 126 decaying movement speed.
+Changing targets for the second shot will also
+acquire
+the new target.
+The second shot, if the first shot's target was killed, will prioritize
+visible
+enemy champions, then
+minions
+on
+low health
+.
+Video
+Edit
+Avengerang
+COST:
+60 / 65 / 70 / 75 / 80 Mana
+COOLDOWN
+:
+8 / 7.
+25
+/ 6.
+5
+/ 5.
+75
+/ 5
+CAST TIME:
+0.
+25
+RANGE:
+850 + 500 per enemy hit
+EFFECT RADIUS:
+400
+WIDTH:
+120
+SPEED:
+1500 / 2400
+Active:
+Akshan
+throws a boomerang that deals
+physical damage
+to enemies hit, extending the boomerang range and briefly
+revealing
+them. If this hits an enemy
+champion
+,
+Akshan
+gains a brief burst of
+move speed
+. Once the boomerang has passed its original range and has not recently hit an enemy, it homes back to
+Akshan
+and deals the same effects to enemies hit.
+Active:
+Akshan
+throws a boomerang in the target direction that briefly grants
+sight
+around its trajectory and deals
+physical damage
+to enemies hit,
+revealing
+them for 1 second and extending its range each time it hits a target. If this hits an enemy
+champion
+,
+Akshan
+gains
+bonus
+movement speed
+that decays over 1 second.
+Physical Damage:
+5 / 25 / 45 / 65 / 85
+(+ 80% AD)
+Bonus Movement Speed:
+20%
+(+ 5% per 100 AP)
+Once the boomerang has passed its original range and has not hit a target in the last 500 units of travelling, it homes back to
+Akshan
+and applies the same effects to enemies hit.
+Total Physical Damage:
+10 / 50 / 90 / 130 / 170
+(+ 160% AD)
+Avengerang's
+deals reduced damage against non-champions.
+Non-Champion Damage:
+40 / 50 / 60 / 70 / 80%
+Enemies can be hit only once per pass.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Avengerang
+will fire from wherever
+Akshan
+is at the end of the cast time.
+Spell shield
+will only block a single hit. They do not prevent the initial throw from extending its range.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 15 / 45 / 75 / 105 / 135.
+AD ratio changed to
+100% AD
+.
+Bonus movement speed changed to 40%.
+Video
+Edit
+Going Rogue
+COST:
+40 / 30 / 20 / 10 / 0 Mana
+COOLDOWN
+:
+18 / 14 / 10 / 6 / 2
+CAST TIME:
+0.
+5
+Detection Radius:
+800
+Passive:
+Enemy
+champions
+that kill allied champions are marked as a
+Scoundrel
+for a long time. When
+Akshan
+scores a
+takedown
+on a
+Scoundrel
+, he gains
+bonus
+gold
+, all allies killed by the
+Scoundrel
+are resurrected, and
+Scoundrel
+status is removed from all other enemies.
+Active:
+Akshan
+briefly gains
+camouflage
+, or indefinitely while near
+terrain
+and in
+brush
+. During this time, he can see trails leading toward
+Scoundrels
+and gains
+move speed
+and
+mana regeneration
+while moving toward them.
+Recast:
+Akshan
+ends
+Going Rogue
+.
+Passive:
+Akshan
+marks enemy
+champions
+that kill allied champions as
+Scoundrels
+for 60 seconds. If
+Akshan
+scores a
+takedown
+against a
+Scoundrel
+while alive and within 3 seconds of damaging them, he receives an additional
+100
+and resurrects all
+dead
+allied champions that they have slain after 1 second.
+When
+Akshan
+claims a
+Scoundrel's
+bounty he removes the marks of all other enemies.
+Scoundrels
+refresh their mark duration on subsequent kills, and will have their mark removed when they die by any means.
+Akshan
+cannot mark enemies as
+Scoundrels
+while they are dead. Allies are resurrected at their
+summoning platform
+.
+Active:
+Akshan
+enters
+camouflage
+, which lasts indefinitely while he is near
+terrain
+or inside
+brush
+, and for 2 seconds otherwise. During this time. he can see trails leading toward
+Scoundrels
+, and while facing them if they are within
+5000
+units, he gains
+bonus
+mana regeneration
+equal to
+12% of his
+missing
+mana
+as well as
+bonus
+movement speed
+.
+Bonus Movement Speed:
+80 / 90 / 100 / 110 / 120
+Going Rogue
+can be recast after 1 second, and does so automatically after its duration. Attacking or casting abilities ends
+Going Rogue
+immediately.
+Recast:
+Akshan
+ends
+Going Rogue
+.
+"To the shadows... where the scoundrels hide."
+Ally resurrection alert.
+Info
+Targeting input
+Auto
+Akshan
+can move during
+Going Rogue's
+cast time.
+The mark displays the duration and slay count.
+Enemy champions that kill
+Akshan
+will not be marked as
+Scoundrels
+nor increase their slay count.
+Clones
+do not count for triggering
+Going Rogue's
+passive.
+Going Rogue's
+buff refreshes to last indefinitely upon moving near terrain or into brush, and will refresh to 2 seconds after leaving near terrain or brush.
+Allied champions within a
+zombie state
+are resurrected only after the state ends.
+Akshan
+can still trigger
+Going Rogue's
+passive while he is within a
+zombie state
+.
+Using a basic attack breaks the stealth at the start of the attack windup.
+Map-Specific Differences
+Howling Abyss
+differences
+edit
+Scoundrel duration changed to 10 seconds.
+Nexus Blitz
+differences
+edit
+New Effect:
+During the events of
+Bardle Royale
+,
+URF Deathmatch
+, and
+Prize Fight
+, allied champions that are revived will respawn at the location of their death and with
+30%
+maximum
+health
+.
+Arena
+differences
+edit
+Scoundrel takedown gold changed to 200.
+New Effect:
+Scoundrel takedown gold is also granted to his ally.
+Revive now spawns ally in the battlefield rather than at the spawn.
+Ally revive health changed to
+60%
+maximum
+health
+.
+Video
+Edit
+Heroic Swing
+COST:
+70 Mana
+COOLDOWN
+:
+18 / 16.
+5
+/ 15 / 13.
+5
+/ 12
+CAST TIME:
+none
+SPEED:
+2500
+/
+1200
+/
+3000
+First Cast:
+Akshan
+prepares to swing by firing a hook that embeds in the first
+terrain
+hit.
+Heroic Swing's
+second cast can be used while the hook is attached.
+Second Cast:
+Akshan
+swings
+around the terrain in a direction, firing
+physical damage
+bullets at the nearest enemy. He may swing indefinitely, or until he collides with an enemy champion or terrain.
+Third Cast:
+While swinging, he can recast again to
+jump
+toward the target location and fire a final shot.
+Heroic Swing's
+cooldown
+will reset upon scoring a champion
+takedown
+.
+Heroic Swing
+applies
+on-hit
+effects.
+Active:
+Akshan
+can activate
+Heroic Swing
+three times before the ability goes on cooldown, and can use the third cast only after 0.
+5
+seconds of the second cast.
+Akshan
+may input an attack or movement command to use the second and third casts.
+First Cast:
+Akshan
+fires a hook in the target direction that embeds in the first
+terrain
+hit, and enters
+preparation
+for up to 2.
+125
+seconds.
+Heroic Swing's
+second cast can be used while the hook is attached. If the hook fails to attach or
+Akshan
+is
+moved
+or becomes
+immobilized
+,
+grounded
+, or
+polymorphed
+within the duration, the preparation will end prematurely, cancelling
+Heroic Swing
+in the process.
+Second Cast:
+Akshan
+swings
+around the terrain in either a clockwise or counterclockwise direction based on the position of the cursor relative to his
+facing direction
+, stopping upon colliding with an enemy champion or terrain. While swinging, he fires at the nearest
+visible
+enemy every
+0.
+231
+seconds
+to deal them
+physical damage
+and apply
+on-hit
+effects at 25% effectiveness per shot.
+Akshan
+will be
+knocked down
+by any
+immobilizing
+or
+polymorphing
+crowd control during the dash.
+Physical Damage per Shot:
+15 / 30 / 45 / 60 / 75
+(+ 15% AD)
+×
+(1 + 0.
+3
+per 100%
+bonus
+attack speed)
+Third Cast:
+Akshan
+ends the swing by
+jumping
+to the target location and fires one last shot at a nearby
+visible
+enemy.
+Scoring an enemy champion
+takedown
+reduces
+Heroic Swing's
+current
+cooldown
+to 0.
+5
+seconds. The shots can
+critically strike
+for
+「
+(157.
+5
+% +
+36%
+) physical damage
+」
+「 90%
+total
+critical damage
+」
+and
+apply
+life steal
+at 100% effectiveness.
+Avengerang
+and
+Going Rogue
+can be cast during the third cast's dash.
+Comeuppance
+can be cast at all points during Heroic Swing, though
+Akshan
+cannot fire during the swing while it is active.
+Akshan
+prioritizes firing at enemy champions with stacks of
+Dirty Fighting
+, then those damaged by his
+targeted
+spells in the last 4 seconds, then the nearest enemy. Heroic Swing can be cast during
+Akshan's
+other abilities.
+Info
+Targeting input
+Auto
+/
+Location
+Damage type
+Type
+Basic damage
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+See Notes
+Parries
+Blocked
+Projectile
+Blocked
+Grounded
+See Notes
+Knockdown
+Interrupted
+The second cast's dash will displace
+Akshan
+around the terrain in either a clockwise or counterclockwise direction, with the specific direction being determined by the position of the player's cursor relative to his facing direction.
+The dash will move clockwise if the player's cursor is anywhere to the left of
+Akshan
+from his facing direction (or perspective), and counterclockwise if the cursor is anywhere to his right.
+Akshan
+will not stop swinging until his dash is stopped.
+The swing will end prematurely if the terrain the hook was attached to no longer exists, such as
+player-generated terrain
+.
+Akshan
+will prioritize firing at enemies he damaged with
+any
+unit-targeted ability or spell within the last 4 seconds, such as
+Comeuppance
+or
+Ignite
+.
+Heroic Swing
+grants a buff to
+Akshan
+for 2 seconds that indicates and determines the first cast's duration.
+This buff starts as soon as the ability is cast, and lingers for 0.
+125
+seconds after it expires.
+This means the hook can be attached to terrain for longer if it hits it earlier in the duration, and vice versa.
+If
+Akshan
+dashes
+(excluding second cast's dash) or
+blinks
+or becomes affected by
+immobilization
+,
+ground
+, or
+polymorph
+in the duration, the buff is removed
+immediately
+, causing the first cast to be lost and cancelling
+Heroic Swing
+entirely.
+Akshan
+immediately fires one shot at the beginning of his swing and a final shot while dismounting from the swing.
+Akshan
+can fire at any targetable enemy unit excluding
+structures
+and
+jungle plants
+.
+Only
+Heroic Swing's
+first cast is disabled while
+grounded
+or
+rooted
+. The third cast is still usable during those effects.
+Heroic Swing's
+second and third cast can both be used while
+silenced
+.
+Takedowns
+against
+clones
+do not count for resetting
+Heroic Swing's
+cooldown.
+If a
+takedown
+is scored while
+Heroic Swing
+is active, the cooldown afterwards will be 0.
+5
+seconds.
+Akshan
+will attempt to basic attack the target he fired at with the last shot after the third cast's dash ends, if there is no other input given.
+Each shot generates a stack of
+Conqueror
+.
+Spell shield
+will only block a single shot.
+The attack speed scaling on the damage of the attacks includes the bonus attack speed gained from
+Akshan's
+innate attack speed growth.
+At level 18, each shot at minimum deals 108.
+36
+(+ 18.
+06
+% AD)
+physical damage.
+Despite this ability not applying
+on-attack
+effects, it does apply
+Navori Flickerblade's
+Transcendence
+.
+(bug)
+Under certain circumstances, upon attaching the hook to terrain,
+Akshan
+will create a particle on the location permanently.
+(bug)
+This particle can be attacked by minions.
+PENDING FOR TEST:
+Hook range including lollipop against walls, automated attacks range while swinging, final dash distance and speed.
+The following table refers for interactions while the hook is attached or in flight:
+Attacking
+Automatically initiates the second cast.
+Abilities
+Avengerang
+and
+Going Rogue
+are disabled.
+Comeuppance
+is usable.
+Movement
+Automatically initiates the second cast.
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+N/A
+Disabled
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Teleport
+Recall
+Hexflash
+Interrupted by
+Flash
+Interrupted by
+Death
+Grounding effects
+Immobilizing effects
+The following table refers for interactions while
+Akshan
+is swinging:
+Attacking
+Automatically initiates the third cast.
+Abilities
+Avengerang
+and
+Going Rogue
+are disabled.
+Comeuppance
+is usable.
+Movement
+Automatically initiates the third cast.
+Items
+Usable
+All the other item-actives are usable
+Disabled
+N/A
+Interrupted by
+Zhonya's Hourglass
+Hextech Rocketbelt
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Hexflash
+Disabled
+Teleport
+Recall
+Interrupted by
+Flash
+Interrupted by
+Death
+Immobilizing effects
+Map-Specific Differences
+Arena
+differences
+edit
+Attack speed ratio changed to
+1 + 0.
+45
+per 100%
+bonus
+attack speed
+.
+Bonus AD ratio changed to
+24.
+59
+%%
+bonus
+AD
+.
+Cooldown changed to 15 / 14 / 13 / 12 / 11 seconds.
+Video
+Edit
+Comeuppance
+COST:
+100 Mana
+COOLDOWN
+:
+100 / 85 / 70
+CAST TIME:
+none
+TARGET RANGE:
+2500
+WIDTH:
+120
+SPEED:
+3200
+Active:
+Akshan
+locks onto the target enemy champion and begins
+channeling
+power into his gun to store bullets,
+revealing
+them as well as
+revealing
+himself.
+Comeuppance
+will recast after the channel, or can recast early.
+Recast:
+Akshan fires the stored bullets at the target, each dealing
+physical damage
+to the first enemy hit, increased by
+their
+missing
+health
+.
+Akshan
+can move normally and cast
+Heroic Swing
+while channeling and firing
+Comeuppance
+.
+Comeuppance
+applies
+life steal
+and can hit
+turrets
+.
+Active:
+Akshan
+locks onto the target enemy champion and begins
+channeling
+for 2.
+5
+seconds,
+revealing
+them as well as
+revealing
+himself. He gradually stores bullets into his weapon over the duration.
+Maximum Bullets Stored:
+5 / 6 / 7
+Bullet Storing Interval Time:
+0.
+625
+/ 0.
+5208
+/ 0.
+4167
+seconds
+Comeuppance
+will recast after the duration, or can recast early after 0.
+5
+seconds.
+Comeuppance
+is placed on a
+5-second
+cooldown if the channel is cancelled.
+Recast:
+Akshan
+fires all stored bullets at the target, each briefly granting
+sight
+around their trajectory and dealing
+physical damage
+to the first enemy hit, increased by
+0% − 200% (based on target's
+missing
+health)
+. The shots can hit
+structures
+.
+Minimum Physical Damage per Bullet:
+25 / 35 / 45
+(+ 15% AD)
+×
+(1 + (0.
+5
++
+0.
+2
+) per 100% critical strike chance)
+Maximum Physical Damage per Bullet:
+75 / 105 / 135
+(+ 45% AD)
+×
+(1 + (0.
+5
++
+0.
+2
+) per 100% critical strike chance)
+Minimum Charged Physical Damage:
+125 / 210 / 315
+(+ 75 / 90 / 105% AD)
+×
+(1 + (0.
+5
++
+0.
+2
+) per 100% critical strike chance)
+Damage to target with 67% missing hp:
+375 / 630 / 945
+(+ 225 / 270 / 315% AD)
+×
+(1 + (0.
+5
++
+0.
+2
+) per 100% critical strike chance)
+Each bullet's damage
+applies
+life steal
+at 100% effectiveness, and
+executes
+minions
+.
+Akshan
+can move while channeling Comeuppance.
+"Here comes the 'uppance!"
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Minion Aggro
+Not Drawn
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Disruption
+Interrupted
+Comeuppance
+refreshes the duration of
+Dirty Fighting
+stacks on the target every 0.
+25
+seconds.
+A kill threshold will appear on the
+health bar
+of the target locked onto during the channel, which increases each time
+Akshan
+stores a bullet. If the target's
+current
+health
+falls below the threshold, their health bar will be framed in red.
+The indicator factors the bonus damage applied by
+Dirty Fighting
+as well as
+damage modifiers
+and the target's resistances.
+It also factors the projected increase in the target's
+missing
+health
+, from which each consecutive bullet scales more.
+It updates dynamically over the channel's duration, reacting to fluctuations of the target's health and damage mitigations.
+The
+reveal
+will linger for 2 seconds after the channel has ended.
+Spell shield
+will not prevent the lock-on and will only block a single bullet.
+Comeuppance
+will not go on a reduced cooldown if
+Akshan
+dies
+during the channel.
+Comeuppance
+will cancel if the target becomes
+untargetable
+or
+dies
+during the channel.
+Damage to structures
+does
+scale with their
+missing
+health
+.
+The following table refers for interactions while
+Akshan
+is
+channeling
+:
+Attacking
+Disabled
+Abilities
+Avengerang
+and
+Going Rogue
+are disabled.
+Heroic Swing
+is usable.
+Movement
+Allowed
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Disabled
+Teleport
+Recall
+Interrupted by
+Hexflash
+Interrupted by
+Death
+Cast-inhibiting effects
+Map-Specific Differences
+Arena
+differences
+edit
+AD ratio changed to
+20% AD
+.
+Cooldown changed to 40 seconds at all ranks.
+Video
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Akshan (Collection)
+.
+Original
+View in 3D
+975
+22.07.2021
+Raising an eyebrow in the face of danger, Akshan fights evil with dashing charisma, righteous vengeance, and a conspicuous lack of shirts. He is highly skilled in the art of stealth combat, able to evade the eyes of his enemies and reappear when they least expect him. With a keen sense of justice and a legendary death-reversing weapon, he rights the wrongs of Runeterra's many scoundrels while living by his own moral code: “Don't be an ass.”
+Sunil Malhotra
+Esben Lash Rasmussen
+Loot eligible
+Cyber Pop
+View in 3D
+1350
+22.07.2021
+The Neon Rogue of Sound City has become the hero of the underground, largely due to his bravery, his wit, and his uncanny ability to sneak into highly-secure corporate buildings without being detected. Being charming as hell doesn't hurt, either.
+Sunil Malhotra
+West Studio
+Cyber Pop
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Cyber Pop Akshan Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Crystal Rose
+View in 3D
+1350
+10.02.2022
+As roguish as he is handsome, Akshan abandons his daring adventures each year to make a highly-requested appearance at the festival. He might be seen stealing a dance or two, but he only has eyes for one among the crowd. Their moral… discrepancies are no match for the electrifying chemistry between them.
+Sunil Malhotra
+West Studio
+Crystal Rose
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Crystal Rose Akshan Chromas
+Amethyst
+Aquamarine
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tiffany & Co.
+Three Honors
+View in 3D
+Special
+24.01.2024
+When the Order of Solace found Akshan, he was a soulless weapon of death caught in a cycle of revenge following his mentor's murder. Even with his despair, the Order's teachings were able to fill the endless hole within Akshan and rejuvenate him. Now he stands with Malzahar as a Three Honors stalwart, ready to fight the Essents with harmony and quips.
+Sunil Malhotra
+Marie Magny, West Studio
+Three Honors
+Loot ineligible
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.22
+Heroic Swing
+Bug Fix:
+Empowered shots now follow the same logic as regular shots.
+V14.20
+Dirty Fighting
+Bug Fix:
+Additional shot now correctly applies
+Yun Tal Wildarrows'
+Serrated Edge.
+V14.14
+General
+Bug Fix:
+Issuing a regular movement or attack order no longer incorrectly plays his
+Going Rogue
+VO.
+Note: these voicelines are audible to all players.
+V14.12
+Dirty Fighting
+Base damage changed to
+15 / 40 / 80 / 150 (based on level)
+from
+10 − 165 (based on level)
+.
+Heroic Swing
+Base damage per shot reduced to 15 / 30 / 45 / 60 / 75 from 25 / 40 / 55 / 70 / 85.
+AD ratio per shot changed to
+15%
+total
+AD
+from
+17.
+5
+%
+bonus
+AD
+.
+Bug Fix:
+Now properly prioritizes targets affected by
+Dirty Fighting
+if the ability is learned after they were marked.
+V14.9
+Avengerang
+Non-champion damage reduced to 40 / 50 / 60 / 70 / 80% from 40 / 52.
+5
+/ 65 / 77.
+5
+/ 90%.
+Bonus movement speed reduced to 20% at all ranks from 20 / 25 / 30 / 35 / 40%.
+Comeuppance
+Minimum base damage per bullet increased to 25 / 35 / 45 from 20 / 25 / 30.
+Minimum AD ratio per bullet increased to
+15% AD
+from
+10% AD
+.
+Bonus damage reduced to
+0% − 200% (based on target's
+missing
+health)
+from
+0% − 300%
+.
+Maximum base damage per bullet changed to 75 / 105 / 135 from 80 / 100 / 120.
+Maximum AD ratio per bullet increased to
+45% AD
+from
+40% AD
+.
+V13.20
+Avengerang
+Base bonus movement speed reduced to 20 / 25 / 30 / 35 / 40% from 40% at all ranks.
+Heroic Swing
+Base damage per shot reduced to 25 / 40 / 55 / 70 / 85 from 30 / 45 / 60 / 75 / 90.
+V13.17
+Stats
+Health growth increased to 107 from 104.
+Armor growth increased to 4.
+7
+from 4.
+2
+.
+Attack damage growth reduced to 3 from 3.
+5
+.
+V13.15
+Dirty Fighting
+Bug Fix:
+Now properly triggers the second shot when attacking
+Malzahar's
+Voidlings
+and
+Yorick's
+Mist Walkers
+.
+V13.13
+Comeuppance
+Bug Fix:
+Now properly grants
+true sight
+of the target.
+V13.10
+Dirty Fighting
+New Effect:
+Bonus damage now scales with
+60% AP
+.
+Base shield reduced to
+40 − 280 (based on level)
+from
+40 − 280 (based on level)
+.
+Uses level growth instead of linear interpolation
+.
+Avengerang
+New Effect:
+Bonus movement speed now scales with
+5% per 100 AP
+.
+Heroic Swing
+Bug Fix:
+Avengerang
+and
+Going Rogue
+are now properly greyed out in the HUD interface during its cast.
+Bug Fix:
+Can no longer swing in place inside the pits for
+Baron Nashor
+and
+Dragon
+at specific locations.
+Bug Fix:
+VFX no longer sometimes indicates it is going in a different direction than intended.
+V12.22
+Stats
+Base mana regeneration increased to 8.
+2
+from 8.
+175
+.
+V12.20
+- October 19th Hotfix
+Heroic Swing
+Removed:
+Can no longer swing infinitely on player-generated terrain; now ends prematurely once the terrain expires.
+Bug Fix:
+Third cast is no longer automatically used if the first and second casts were used in quick succession while the hook landed at a short distance.
+Bug Fix:
+Caster is no longer revealed for an extended period of time after they are killed during the second cast.
+V12.20
+Heroic Swing
+New Effect:
+Swing duration is now indefinite, rather than ending after 3 seconds.
+Bug Fix:
+Fixed some bugs that would cause him to spin in place when using the ability in certain locations.
+V12.19
+General
+Bug Fix:
+Icon in the HUD now properly displays the correct size and image.
+V12.18
+Heroic Swing
+Bug Fix:
+Shots are no longer fired during
+Comeuppance's
+channel under certain conditions.
+V12.14
+General
+Bug Fix:
+Knocked up/stunned animation is now correctly played.
+V12.11
+Comeuppance
+Bug Fix:
+Caster's facing direction during the channel to the enemy's perspective no longer changes rapidly as they were moving away.
+V12.10
+Stats
+Base health increased to 630 from 560.
+Health growth increased to 104 from 90.
+Armor growth increased to 4.
+2
+from 3.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Dirty Fighting
+Base shield reduced to
+40 − 280 (based on level)
+from
+40 − 300 (based on level)
+.
+Shield bonus AD ratio reduced to
+35%
+bonus
+AD
+from
+40%
+.
+V12.7
+Dirty Fighting
+Bug Fix:
+Second shot no longer sometimes grants 2 stacks of
+Lethal Tempo
+.
+V12.3
+Dirty Fighting
+Base bonus movement speed reduced to
+20 − 75 (based on level)
+from
+35 − 75 (based on level)
+.
+Base damage reduced to
+10 − 165 (based on level)
+from
+20 − 175 (based on level)
+.
+V12.2
+Heroic Swing
+Bug Fix:
+Attack move on cursor now properly counts as a movement command for automatically using the second or third cast.
+Inputting attack move before the hook hits will now buffer the second cast to be used when it does hit.
+V12.1
+Going Rogue
+New Effect:
+Now lasts indefinitely while affected by
+Chemtech Fog
+.
+Tooltip now states that the bonuses while moving towards
+Scoundrels
+is only granted during
+Going Rogue
+.
+V11.24
+Going Rogue
+Bug Fix:
+Recast is no longer locked out from not having enough mana despite not using a mana cost for activation.
+V11.21
+Heroic Swing
+Base damage per shot reduced to 30 / 45 / 60 / 75 / 90 from 30 / 50 / 70 / 90 / 110.
+V11.19
+Heroic Swing
+Bug Fix:
+If cast and the hook fails to attach to terrain while
+Avengerang's
+missile was in flight,
+Avengerang
+can no longer be cast again immediately.
+V11.18
+Heroic Swing
+Bug Fix:
+Fixed a bug where breaking a spell shield on him would interrupt the ability.
+Bug Fix:
+Fixed a bug where he was unable to cancel the ability while being silenced.
+V11.17
+Dirty Fighting
+Bug Fix:
+Second attack now more consistently completes when the first attack was executed at maximum range.
+Bug Fix:
+Improved predictions for if the first attack will kill the target, including through shields and with his on-hit effects.
+Bug Fix:
+A placeholder icon no longer appears under him after gaining a shield.
+Going Rogue
+Removed:
+Can no longer claim
+Scoundrels
+if he is dead.
+Heroic Swing
+Base damage per shot reduced to 30 / 50 / 70 / 90 / 110 from 30 / 55 / 80 / 105 / 130.
+Bonus AD ratio per shot increased to
+17.
+5
+%
+bonus
+AD
+from
+10%
+.
+Bug Fix:
+Swings no longer ends early when colliding with turrets at a certain angle.
+Bug Fix:
+Cooldown no longer resets when scoring a takedown against an enemy
+clone
+.
+Comeuppance
+Cooldown when cancelled reduced to 5 seconds from 15.
+Bug Fix:
+Execute against minions now deals true damage instead of physical damage.
+Bug Fix:
+Fixed a bug where a single bullet from
+Comeuppance
+dealt unusually lethal damage to
+Yorick's
+Maiden
+.
+V11.16
+- August 13th Hotfix
+Heroic Swing
+Bug Fix:
+No longer causes him to stay invisible for longer than intended when cast right after killing an enemy with
+Duskblade of Draktharr
+.
+V11.16
+Heroic Swing
+Undocumented/New Effect:
+All summoner spells (excluding
+Flash
+) and item actives are now disabled while the hook is attached or in flight.
+Undocumented/New Effect:
+Using the active for
+Stopwatch
+/
+Zhonya's Hourglass
+now ends the swing prematurely.
+V11.15
+- July 28th Hotfix
+Stats
+Attack speed growth increased to 4% from 2.
+5
+%.
+Avengerang
+Damage against non-champions increased to 40 / 52.
+5
+/ 65 / 77.
+5
+/ 90% from 40 / 47.
+5
+/ 55 / 62.
+5
+/ 70%.
+V11.15
+- July 23rd Hotfix
+Stats
+Base attack damage increased to 52 from 50.
+Base health increased to 560 from 530.
+Avengerang
+Cooldown reduced to 8 / 7.
+25
+/ 6.
+5
+/ 5.
+75
+/ 5 seconds from 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6.
+V11.15
+- Added
+Dirty Fighting
+(Innate)
+Innate:
+Whenever
+Akshan
+uses a basic attack, he fires an additional shot after a delay that deals
+50% AD
+physical damage
+, increased to
+100% AD
+against
+minions
+. Issuing an
+attack order
+on a different target before the additional shot has been launched causes
+Akshan
+to fire it at the new target. If the second shot is cancelled instead, he gains
+35 − 75 (based on level)
+(+ 100%
+bonus
+attack speed)
+bonus
+movement speed
+decaying over 1 second.
+The additional shot applies
+on-hit
+and
+on-attack
+effects at 100% effectiveness and benefits from
+critical strike
+modifiers at 30% effectiveness.
+Akshan's
+basic attacks and abilities apply a stack to affected enemies for 5 seconds, stacking up to 3 times and refreshing on subsequent applications. The third stack consumes them all to deal
+20 − 175 (based on level)
+bonus
+magic damage
+and, if the target is a
+champion
+,
+Akshan
+is granted a
+40 − 300 (based on level)
+(+ 40%
+bonus
+AD)
+shield
+for 2 seconds. The shield may only be gained once every few seconds.
+Static Cooldown:
+16 / 12 / 8 / 4 (based on level)
+seconds.
+Avengerang
+(Q)
+Active:
+Akshan
+hurls a boomerang in the target direction, dealing 5 / 25 / 45 / 65 / 85
+(+ 80% AD)
+physical damage
+to enemies hit and
+revealing
+them for 1 second, granting
+sight
+of the area along its path, as well as extending its range every time it hits an enemy. If the boomerang hits an enemy champion,
+Akshan
+gains
+40%
+bonus
+movement speed
+decaying over 1 second.
+Upon reaching maximum range, the boomerang returns to
+Akshan
+. Enemies can be hit once per pass.
+Avengerang
+deals 40 / 47.
+5
+/ 55 / 62.
+5
+/ 70% damage against non-champions.
+Mana Cost:
+60 / 65 / 70 / 75 / 80.
+Cooldown:
+8 / 7.
+5
+/ 7 / 6.
+5
+/ 6
+seconds.
+Range:
+850,
+Effect Radius:
+400
+,
+Width:
+120,
+Speed:
+1500 / 2400,
+Cast time:
+0.
+25
+seconds.
+Going Rogue
+(W)
+Passive:
+Enemy
+champions
+that kill allied champions are marked as a
+Scoundrel
+for 60 seconds. Upon scoring a
+takedown
+against a
+Scoundrel
+within 3 seconds of damaging them,
+Akshan
+receives an additional
+100
+and revives all
+dead
+allied champions that were slain by that enemy champion after 1 second at their summoning platform, and removes the marks from all other enemies.
+Active:
+Akshan
+enters
+camouflage
+, which lasts for 2 seconds or indefinitely while he is near terrain or inside
+brush
+.
+Going Rogue
+can be recast after 1 second, and does so automatically at the end of its duration.
+Attacking or casting abilities ends
+Going Rogue
+immediately.
+While
+Going Rogue
+and moving towards nearby
+Scoundrels
+,
+Akshan
+gains 80 / 90 / 100 / 110 / 120
+bonus
+movement speed
+and
+bonus
+mana regeneration
+equal to
+12% of his
+missing
+mana
+. He can also see trails leading towards
+Scoundrels
+.
+Recast:
+Akshan
+ends
+Going Rogue
+.
+Mana Cost:
+40 / 30 / 20 / 10 / 0.
+Cooldown:
+18 / 14 / 10 / 6 / 2
+seconds.
+Detection Radius:
+800,
+Cast time:
+0.
+5
+seconds.
+ARAM:
+Scoundrel duration reduced to 25 seconds.
+Heroic Swing
+(E)
+Active:
+Akshan
+can activate
+Heroic Swing
+three times before the ability goes on cooldown, and can use the third cast only after 0.
+5
+seconds of the second cast.
+Akshan
+may input a movement command to use the second and third casts.
+First Cast:
+Akshan
+fires a hook in the target direction, which grapples to the first instance of terrain hit for 1.
+5
+seconds.
+Heroic Swing's
+second cast can be used while the hook is attached.
+If
+Akshan
+becomes
+immobilized
+or
+grounded
+during this time, the hook will detach, ending
+Heroic Swing
+prematurely.
+Second Cast:
+Akshan
+swings
+around the terrain, rapidly firing at the nearest
+visible
+enemy to deal them 30 / 55 / 80 / 105 / 130
+(+ 10%
+bonus
+AD)
+(+ 30%
+bonus
+attack speed)
+physical damage
+per shot and apply
+on-hit
+and
+on-attack
+effects at 25% effectiveness per shot. He stops the swing upon colliding with an enemy champion or terrain, or after 3 seconds.
+Akshan
+will be
+knocked down
+by any
+immobilizing
+crowd control during the dash.
+Third Cast:
+Akshan
+jumps
+off of the rope to the target location and fires one last shot at a nearby
+visible
+enemy.
+Heroic Swing's
+cooldown resets upon scoring a
+takedown
+against an enemy champion. The shots benefit from
+critical strike
+modifiers at 90% effectiveness and
+apply
+life steal at 100% effectiveness.
+Akshan
+prioritizes firing at enemy champions with stacks of
+Dirty Fighting
+, will not fire if he is channeling
+Comeuppance
+, and
+reveals
+himself during
+Heroic Swing
+.
+Mana Cost:
+70.
+Cooldown:
+18 / 16.
+5
+/ 15 / 13.
+5
+/ 12
+seconds.
+Speed:
+2500
+/
+1200
+,
+Cast time:
+None.
+Comeuppance
+(R)
+Active:
+Akshan
+channels
+for 2.
+5
+seconds, locking onto the target enemy champion,
+revealing
+them, and storing 5 / 6 / 7 bullets into his weapon, as well as
+revealing
+himself.
+Comeuppance
+can be recast after 0.
+5
+seconds during the channel, and does so automatically at the end of its duration.
+Comeuppance
+is placed on a 15-second cooldown if its channel is canceled.
+Recast:
+Akshan
+fires all stored bullets at the target, each dealing 20 / 25 / 30
+(+ 10% AD)
+physical damage
+to the first enemy hit, including structures and increased by
+0% − 300% (based on target's
+missing
+health)
+.
+Each bullet's damage is also increased by 0.
+5
+% per
+1% critical strike chance
+and
+critical damage
+bonuses at 50% effectiveness,
+applies
+life steal
+at 80% effectiveness, and executes
+minions
+.
+Akshan
+may still move and cast
+Heroic Swing
+while channeling
+Comeuppance
+.
+Mana Cost:
+100.
+Cooldown:
+100 / 85 / 70
+seconds.
+Target Range:
+2500,
+Width:
+120,
+Speed:
+3200,
+Cast time:
+None.
+Trivia
+[
+edit
+|
+edit source
+]
+His dance references Indian musical video
+Malhari
+from album
+Bajirao Mastani
+.
+A side-by-side comparison can be seen
+here.
+Akshan is the first champion to be revealed for
+League of Legends
+,
+Wild Rift
+and
+Legends of Runeterra
+around the same time, and with the next one being
+Ambessa
+.
+Akshan is the second of three champions released in 2021 tied to
+Viego's
+return and a continuation of the Ruined King's story.
+[2]
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Marksman
+Marksmen
+(formerly "Carries") excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger. Although Marksmen have the ability to stay relatively safe by kiting their foes, they are very fragile and are extremely reliant on powerful item purchases to become true damage threats.
+At present, Marksmen do not have any official subclasses. The following have been considered:
+Demolisher
+Scrapper
+Examples
+Ashe
+Ezreal
+Lucian
+Kai'Sa
+Jhin
+League of Legends content
+Assassin
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Assassins
+specialize in infiltrating enemy lines with their unrivaled mobility to quickly dispatch high-priority targets. Due to their mostly melee nature, Assassins must put themselves into dangerous positions in order to execute their targets. Luckily, they often have defensive tricks up their sleeves that, if used cleverly, allow them to effectively avoid incoming damage.
+Examples
+Akali
+Evelynn
+Zed
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Standard sight
+Standard sight
+reveals units through
+fog of war
+and
+brush
+, but
+not
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Takedown
+Takedown
+refers to a
+kill
+or
+assist
+being acceptable, with the type of enemy specified in each use case.
+Takedown
+is associated with triggering a
+passive
+effect, or timed effects shortly after scoring.
+League of Legends content
+Camouflage
+Camouflage
+is a form of stealth that renders a unit hidden from enemy
+vision
+for a
+long
+period of time. It is usually activated preemptively in order to ambush an enemy or to bypass the surveillance of hostile
+wards
+patrolling an area. It also grants
+ghosting
+.
+Camouflaged
+units are revealed while being inside the line of sight (e.g. not in the fog of war, behind terrain, or blocked by
+nearsight
+) of a nearby enemy
+champion
+(with the range depending on the ability), when within the vision radius of an enemy
+Control Ward
+(900 units), or from sources of
+True Sight
+.
+Stealthed
+units shimmer their character model for 0.
+6
+seconds whenever they take damage.
+A unit will shimmer for every instance of damage they take, and shimmering does not make the unit targetable nor remove the
+stealth
+effect, but grants positional information to the enemy.
+When a
+camouflaged
+unit can be seen, they will be warned by an exclamation mark above them indicating they have been spotted.
+League of Legends content
+Brush
+Brush
+is a common terrain feature that obstructs
+sight
+for any unit outside of it.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Clone
+A
+clone
+or
+decoy
+is a specific type of
+pet
+that attempts to imitate a
+champion
+, copying their current vitality, stats, items, level, and most status effects upon creation. They are considered champions against many effects that do not strictly require
+player
+champions, else they are considered
+minions
+either small or large among certain cases.
+The
+damage
+they deal is attributed to them alone, but they transfer last hit and kill credit. Killing a
+clone
+awards
+25
+and
+44
+.
+League of Legends content
+Zombie state
+A buff that allows a player to keep controlling their
+champion
+after
+Death
+always flags the champion to be in a
+zombie state
+. It prevents enemies from gaining full kill credit or triggering most on-kill effects from the champion a second time, and some abilities (e.g.
+You and Me!
+) interact differently with champions in this state.
+Renata Glasc's
+Bailout
+and
+Resurrection
+will always take precedence over
+zombie state
+effects.
+The following effects trigger a champion to enter a
+zombie state
+:
+Karthus'
+Death Defied
+Kog'Maw's
+Icathian Surprise
+Sion's
+Glory in Death
+League of Legends content
+Howling Abyss
+The Howling Abyss is a bottomless crevasse located in the coldest, cruelest, part of the
+Freljord
+. Legends say that, long ago, a great battle took place here on the narrow bridge spanning this chasm. No one remembers who fought here, or why, but it is said that if you listen carefully to the wind you can still hear the cries of the vanquished tossed howling into the Abyss.
+Regular Modes
+Classic 5v5
+(
+All random
+)
+Custom
+Featured Game Modes
+Legend of the Poro King
+One For All
+One For All: Mirror Mode
+Snowdown Showdown
+League of Legends content
+Nexus Blitz
+An explosive game mode known as Nexus Blitz. Traverse down one of two different paths in order to attack your enemy at their weakest point. Work with your allies to siege the enemy base and destroy their Nexus!
+Regular Modes
+Classic 5v5
+Custom
+Maps
+Temple of Lily and Lotus
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+References
+[
+edit
+|
+edit source
+]
+↑
+Akshan's profile page
+at
+LeagueOfLegends.com
+↑
+Champions in Season 2021

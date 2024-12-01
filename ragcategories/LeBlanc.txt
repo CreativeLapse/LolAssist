@@ -1,0 +1,2715 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+LeBlanc
+the Deceiver
+Release date
+2010-11-02
+Last changed
+V14.14
+Class(es)
+Burst
+Legacy
+Assassin
+Mage
+Position(s)
+Middle
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+3
+Utility
+1
+Style
+Difficulty
+LeBlanc
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Leblanc
+Base statistics
+Edit
+Health
+598
++111
+Mana
+400
++25
+Health regen. (per 5s)
+7.5
++0.55
+Mana regen. (per 5s)
+8
++0.8
+Armor
+22
++4.7
+Attack damage
+55
++2.2
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+340
+Attack range
+525
+Attack speed
+Base AS
+0.658
+Attack windup
+16.667%
+AS ratio
+0.4
+Bonus AS
++2.35
+%
+Missile speed
+1700
+Unit radius
+Gameplay radius
+65
+Selection radius
+100
+Pathing radius
+35
+Acq. radius
+525
+Special statistics
+Damage Dealt
++10%
+Damage Received
+-10%
+Ability Haste
++20
+Damage Dealt
++0%
+Damage Received
+-10%
+Ability Haste
++20
+Damage Dealt
++0%
+Damage Received
+-5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Mirror Image
+STATIC COOLDOWN
+:
+60
+Innate:
+When
+LeBlanc
+reaches low health, she creates a
+clone
+of herself and together they enter brief
+invisibility
+. The clone will run forward to a random location, and lasts for a period.
+Mirror Image
+will go on cooldown upon triggering.
+Innate:
+Periodically, when
+LeBlanc
+is damaged to
+40%
+maximum
+health
+, she creates a
+clone
+of herself, after which they both instantly become
+invisible
+for 1 second.
+The clone can basic attack but deals no damage, lasts for 8 seconds, and starts moving 1900 units towards a random place in front of
+LeBlanc
+decided the moment it spawns.
+See
+Pets
+for more details about
+LeBlanc's
+clone.
+"Looks can be deceiving."
+Info
+Targeting input
+Passive
+The
+clone
+has a
+leash range
+.
+Using a basic attack breaks the stealth at the end of the attack windup.
+Edit
+Sigil of Malice
+COST:
+50 Mana
+COOLDOWN:
+6
+CAST TIME:
+0.
+25
+TARGET RANGE:
+700
+SPEED:
+2000
+Active:
+LeBlanc
+projects an orb at the target enemy that deals
+magic damage
+and marks them for a short time. Her next damaging ability against the marked target will consume the mark to deal
+magic damage
+.
+Active:
+LeBlanc
+projects an orb at the target enemy that deals
+magic damage
+and marks them for 3.
+5
+seconds.
+Magic Damage:
+70 / 95 / 120 / 145 / 170
+(+ 40% AP)
+LeBlanc's
+next damaging
+ability
+against the marked target will consume the mark to deal them the
+same damage
+again.
+Total Magic Damage:
+140 / 190 / 240 / 290 / 340
+(+ 80% AP)
+Sigil of Malice's
+initial mark deals
+10 − 146 (based on level)
+bonus
+magic damage
+against
+minions
+and refunds 100% of its
+mana cost
+and 30% of its remaining
+cooldown
+if either the mark or its consumption kills the target.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Sigil of Malice
+and
+Mimic: Sigil of Malice
+can detonate each other's marks.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 85 / 110 / 135 / 160 / 185.
+Edit
+Distortion
+COST:
+60 / 70 / 80 / 90 / 100 Mana
+COOLDOWN
+:
+15 / 13.
+75
+/ 12.
+5
+/ 11.
+25
+/ 10
+CAST TIME:
+none
+TARGET RANGE:
+600
+/
+Global
+EFFECT RADIUS:
+240
+SPEED:
+1450
+Active:
+LeBlanc
+dashes
+to the target location, dealing
+magic damage
+to nearby enemies upon arrival. She leaves behind a return pad at her original location that lasts a few seconds, during which she can recast.
+Recast:
+LeBlanc
+blinks
+to the return pad.
+Active:
+LeBlanc
+dashes
+to the target location, dealing
+magic damage
+to all nearby enemies upon arrival and leaving a return pad at the cast location for 4 seconds.
+Distortion
+can be recast after 0.
+2
+seconds of the dash ending for the pad's duration.
+Magic Damage:
+75 / 115 / 155 / 195 / 235
+(+ 70% AP)
+Recast:
+LeBlanc
+blinks
+to
+Distortion's
+return pad, regardless of range.
+Distortion will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+/
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Distortion
+will be buffered and cast as soon as the cooldown ends if the player attempts to cast it within 0.
+5
+seconds of the cooldown ending.
+The
+recast
+will be buffered and cast as soon as it becomes available if the player attempts to cast it within 0.
+3
+seconds of it becoming available to cast.
+The initial cast counts as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Recasting the ability does not.
+Mimic: Distortion
+has the same properties.
+Distortion
+and
+Mimic: Distortion
+have independent return pads and
+LeBlanc
+can travel to both while they are active.
+Distortion's
+pad duration starts once the dash ends.
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio changed to
+80% AP
+.
+Cooldown changed to 12 / 11 / 10 / 9 / 8 seconds.
+Edit
+Ethereal Chains
+COST:
+50 Mana
+COOLDOWN:
+14 / 13.
+25
+/ 12.
+5
+/ 11.
+75
+/ 11
+CAST TIME:
+0.
+25
+TARGET RANGE:
+950
+WIDTH:
+110
+TETHER RADIUS:
+865
+SPEED:
+1750
+Active:
+LeBlanc
+flings an illusory chain in the target direction that deals
+magic damage
+and
+tethers
+the first enemy hit,
+revealing
+them. The tether lasts a brief time, after which the target is dealt
+magic damage
+,
+revealed
+, and briefly
+rooted
+.
+Active:
+LeBlanc
+flings an illusory chain in the target direction that deals
+magic damage
+to the first enemy it hits and forms a
+tether
+between
+LeBlanc
+and the target for 1.
+5
+seconds, during which they are
+revealed
+.
+Magic Damage:
+50 / 70 / 90 / 110 / 130
+(+ 40% AP)
+If the tether is not broken by the end of its duration, the target is dealt
+magic damage
+and is
+rooted
+for 1.
+5
+seconds, during which they are
+revealed
+.
+Magic Damage:
+80 / 120 / 160 / 200 / 240
+(+ 80% AP)
+Total Damage:
+130 / 190 / 250 / 310 / 370
+(+ 120% AP)
+Info
+Targeting input
+Direction
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Both the initial and the delayed damage can detonate
+Sigil of Malice
+.
+Ethereal Chains
+and
+Mimic: Ethereal Chains
+are separate debuffs, and can both be tethered to the same target without overriding each other. The
+root
+duration for either one are unchanged.
+Spell shield
+will block the tether's application and initial damage but not the aftereffects of one already applied.
+The tether remains for a minimum of 0.
+25
+seconds regardless of distance.
+This ability will cast from wherever the caster is at the end of the cast time.
+Edit
+Mimic
+COOLDOWN:
+50 / 40 / 30
+Active:
+LeBlanc
+casts a mimicked version of her most recent ability, which deals modified damage.
+Active:
+LeBlanc
+casts a mimicked version of her most recently used basic ability, applying the same effects and dealing
+modified
+magic damage
+.
+Mimic: Sigil of Malice
+:
+Deals modified damage and double damage upon triggering the mark.
+Magic Damage:
+70 / 140 / 210
+(+ 40% AP)
+Enhanced Damage:
+140 / 280 / 420
+(+ 80% AP)
+Total Magic Damage:
+210 / 420 / 630
+(+ 120% AP)
+Mimic: Distortion
+:
+Deals modified damage.
+Magic Damage:
+150 / 300 / 450
+(+ 75% AP)
+Mimic: Ethereal Chains
+:
+Deals modified damage and double damage after the tether lasts its full duration.
+Magic Damage:
+70 / 140 / 210
+(+ 40% AP)
+Enhanced Damage:
+140 / 280 / 420
+(+ 80% AP)
+Total Magic Damage:
+210 / 420 / 630
+(+ 120% AP)
+Info
+Targeting input
+Varied
+Damage type
+Sub-type
+Magic
+Mimic
+will default to
+Mimic: Sigil of Malice
+if
+LeBlanc
+ranks up
+Mimic
+without having used any abilities beforehand (even if she has not yet learned
+Sigil of Malice
+).
+Both
+Mimic: Ethereal Chains
+and
+Mimic: Sigil of Malice
+will apply damage twice if the original ability's condition to do so is met.
+Map-Specific Differences
+Arena
+differences
+edit
+Mimic: Sigil of Malice
+Base damage changed to 90 / 160 / 230.
+AP ratio changed to
+50% AP
+.
+Mimic: Ethereal Chains
+Base damage changed to 90 / 160 / 230.
+AP ratio changed to
+50% AP
+.
+Pets
+[
+edit
+|
+edit source
+]
+Mirror Image
+Current
+1st
+Statistics
+Health
+100% of
+LeBlanc's
+current
+health
+Attack damage
+0
+Attack speed
+100% of
+LeBlanc's
+attack speed
+Range
+525
+/
+1125
+Armor
+100% of
+LeBlanc's
+armor
+Magic resist
+100% of
+LeBlanc's
+magic resistance
+Move speed
+100% of
+LeBlanc's
+movement speed
+Control type
+R
+or
+Alt + Right Click
+Target type
+Champion
+Spell effects
+Basic attacks do not apply
+spell effects
+.
+Abilities
+When summoned,
+Mirror Image
+will automatically run away from the damage source that brought
+LeBlanc
+below 40%
+maximum
+health
+. If triggered without damage,
+Mirror Image
+will run in the direction
+LeBlanc
+is facing.
+Mirror Image
+is visually different to
+LeBlanc
+and her allies but visually identical to her enemies (
+Mirror Image
+displays her real stats if clicked on).
+Mirror Image's
+basic attacks do not apply
+on-hit effects
+(they do not apply
+life steal
+and
+critical strikes
+will not damage their target).
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+LeBlanc (Collection)
+.
+Original
+View in 3D
+790
+02.11.2010
+Mysterious even to other members of the Black Rose cabal, LeBlanc is but one of many names for a pale woman who has manipulated people and events since the earliest days of Noxus. Using her magic to mirror herself, the sorceress can appear to anyone, anywhere, and even be in many places at once. Always plotting just out of sight, LeBlanc’s true motives are as inscrutable as her shifting identity.
+Carrie Keranen
+Unknown artist
+Loot eligible
+Wicked
+View in 3D
+750
+02.11.2010
+Carrie Keranen
+Unknown artist
+Legacy
+Loot eligible
+Prestigious
+View in 3D
+520
+02.11.2010
+LeBlanc is currently evading an international manhunt after making a jet liner filled with passengers disappear, then realizing she had no idea where they went or how to bring them back.
+Carrie Keranen
+Unknown artist
+Day Job
+Loot eligible
+Chromas
+Prestigious LeBlanc Chromas
+Amethyst
+Catseye
+Pearl
+Rose Quartz
+Tanzanite
+Turquoise
+Mistletoe
+View in 3D
+975
+14.12.2011
+LeBlanc's wicked illusions grow only more powerful during Snowdown, when the season of giving takes hold, and people are at their most gullible. Her enchanting looks only serve to draw more victims in, becoming pawns in her inscrutable games.
+Carrie Keranen
+Unknown artist
+Snowdown Showdown
+Loot eligible
+Legacy
+Ravenborn
+View in 3D
+975
+28.10.2014
+LeBlanc loves nothing more than showing up her high society rivals at the annual holiday gala. Besides, taking a spin as the season's most fashionable witch will teach those Du Couteaus not to upstage her garden parties.
+Carrie Keranen
+Sperasoft Studio
+Trick-or-Treat
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Elderwood
+View in 3D
+1350
+10.03.2016
+When the Coven first rose to power, they craved the living enchantments of the Elderwood—a tool, they believed, for the resurrection of their dark patrons. Thus did they fall upon the great forest, and slaughter its children… until a lone sylvan stood against them, stealing the witches' lives, their magic, and even their names.
+Carrie Keranen
+Kelly Aleshire
+Elderwood
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Program
+View in 3D
+1350
+15.11.2018
+Marketed as a diplomat-software avatar, LeBlanc is in fact a duplicitous intelligence that can interact seamlessly with human users. Created only to deceive, she has infiltrated a number of the most powerful corporations on the planet, and quietly awaits her final orders.
+Carrie Keranen
+Choe HeonHwa
+Program
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Program LeBlanc Chromas
+Emerald
+Obsidian
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+iG
+View in 3D
+1350
+23.04.2019
+Honoring Rookie's winning performance as LeBlanc during the 2018 World Championship.
+Carrie Keranen
+Pan Chengwei
+World Champions: 2018
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+iG LeBlanc Chromas
+Tenfold Triumph
+Coven
+View in 3D
+1350
+16.04.2020
+They came to LeBlanc as if in some forgotten melody -- songs of the Black Crane, and its titanic heart long-imprisoned within the deepest reaches of the Elderwood. Her sisters fell before the forest's defenders, but LeBlanc did find her prize... and now her patron has begun to wake, stirring itself from a dreamless slumber of unhallowed centuries.
+Carrie Keranen
+Sangsoo Jeong
+Coven
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Coven LeBlanc Chromas
+Amethyst
+Aquamarine
+Dark Ritual
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Worlds 2020
+View in 3D
+1350
+24.09.2020
+Celebrating Worlds 2020 in Shanghai.
+Carrie Keranen
+Francis Tneh, West Studio
+World Championship
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Worlds 2020 LeBlanc Chromas
+Rose Quartz
+Ruby
+Turquoise
+Prestige Coven
+View in 3D
+Special
+12.08.2021
+Resurrected by the Black Crane, LeBlanc has rejoined her sisters with renewed purpose—yet the gifts of the Old Gods do not come without a price. As her body twists into new and strange forms, LeBlanc has discovered that she is the vessel through which her own dead god will return, and that it has granted her impossible power.
+Carrie Keranen
+West Studio
+Coven
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Coven
+. Store variants are discounted for multiple purchases.
+Debonair
+View in 3D
+1350
+09.12.2021
+Seemingly at every event in the city at once, LeBlanc is a ubiquitous presence throughout the strip—her unparalleled ability to shmooze matched only by her mysterious origins. There was a time when certain naysayers connected her to Crime City, but as they say… never cross Lady LeBlanc.
+Carrie Keranen
+Jennifer Wuestling
+Debonair
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Debonair LeBlanc Chromas
+Catseye
+Cerulean Club
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Bewitching
+View in 3D
+1350
+20.10.2022
+Everyone shares spooky stories of LeBlanc, the host of this year's celebration! It's said she delights in causing misery; she can turn any Jack-o'-lantern's smile upside down. But there's a softer side to her as well, one she tries to keep hidden, even from herself.
+Carrie Keranen
+Exia Xiaotong, West Studio
+Bewitching
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Bewitching LeBlanc Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Risen Legend
+View in 3D
+Special
+12.06.2024
+Remember your duty as my Keeper of Patience, LeBlanc. You embody all that is strategic, methodical, and clever, as you deceive those who think themselves worthy of my power. Our power. Above all else, guide my chosen through their trials and influence the masses in the name of the Unkillable Demon King.
+Carrie Keranen
+Bo 'chenbowow' Chen
+Risen Legends
+Loot ineligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Risen Legend LeBlanc Chromas
+Mythclimber
+Paragon
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.17
+Sigil of Malice
+AP ratio reduced to
+40% AP
+from
+45% AP
+.
+Total AP ratio reduced to
+80% AP
+from
+90% AP
+.
+Distortion
+AP ratio reduced to
+70% AP
+from
+75% AP
+.
+V14.14
+Elderwood LeBlanc
+Mirror Image
+Bug Fix:
+Restored clone death SFX.
+V14.8
+Sigil of Malice
+Base damage increased to 70 / 95 / 120 / 145 / 170 from 65 / 90 / 115 / 140 / 165.
+Distortion
+Cooldown reduced to 15 / 13.
+75
+/ 12.
+5
+/ 11.
+25
+/ 10 seconds from 18 / 16 / 14 / 12 / 10.
+V14.5
+Ethereal Chains
+Bug Fix:
+Tether is now properly broken upon death and is no longer improperly applied if the missile hits the target while she was dead.
+V14.4
+Ethereal Chains
+Tether now innately checks every 0.
+05
+seconds for valid range conditions, and no longer waits for every 8th server tick.
+Note: VFX still remains for at least 0.
+25
+seconds.
+Mimic Ethereal Chains
+Tether now innately checks every 0.
+05
+seconds for valid range conditions, and no longer waits for every 8th server tick.
+Note: VFX still remains for at least 0.
+25
+seconds.
+V14.1
+- January 12th Hotfix
+Stats
+Attack speed ratio reduced to 0.
+4
+from 0.
+625
+.
+Attack speed growth increased to 2.
+35
+% from 1.
+5
+%.
+Attack damage growth decreased to 2.
+2
+from 2.
+7
+.
+Sigil of Malice
+AP ratio increased to
+45% AP
+from
+40% AP
+.
+Ethereal Chains
+Initial AP ratio increased to
+40% AP
+from
+35% AP
+.
+V13.22
+Stats
+Base attack speed increased to 0.
+658
+from 0.
+625
+.
+Attack speed ratio increased to 0.
+625
+from 0.
+4
+.
+Attack speed growth reduced to 1.
+5
+% from 2.
+2
+%.
+V13.21
+Distortion
+AP ratio increased to
+75% AP
+from
+65% AP
+.
+Ethereal Chains
+Detonation AP ratio increased to
+80% AP
+from
+70% AP
+.
+V13.20
+Worlds 2020 LeBlanc
+Skin renamed to
+Worlds 2020 LeBlanc
+from
+Championship LeBlanc
+.
+V13.19
+Stats
+Attack speed ratio reduced to 0.
+4
+from 0.
+625
+.
+Attack speed growth increased to 2.
+2
+% from 1.
+4
+%.
+Attack damage growth reduced to 2.
+7
+from 3.
+5
+.
+Mana growth reduced to 25 from 55.
+Mana regeneration growth reduced to 0.
+8
+from 1.
+Distortion
+AP ratio increased to
+65% AP
+from
+60% AP
+.
+Ethereal Chains
+Initial AP ratio increased to
+35% AP
+from
+30% AP
+.
+V13.5
+Sigil of Malice
+New Effect:
+Sigil now deals
+10 − 146 (based on level)
+bonus
+damage against minions.
+New Effect:
+Now refunds 100% of mana cost and 30% of remaining cooldown if either part of the ability kills a target.
+Mimic: Sigil of Malice
+New Effect:
+Sigil now deals
+10 − 146 (based on level)
+bonus
+damage against minions.
+New Effect:
+Now refunds 100% of mana cost and 30% of remaining cooldown if either part of the ability kills a target.
+V13.3
+Stats
+Base mana regeneration increased to 8 from 6.
+Mana regneration growth increased to 1 from 0.
+8
+.
+Sigil of Malice
+Mana cost reduced to 50 at all ranks from 50 / 55 / 60 / 65 / 70.
+Mimic
+Cooldown reduced to 50 / 40 / 30 seconds from 60 / 45 / 30.
+V12.15
+Distortion
+Bug Fix:
+Fixed a bug where it was doing slightly less damage at rank 3 than intended.
+V12.14
+Stats
+Base mana increased to 400 from 334.
+Mana growth increased to 55 from 50.
+Distortion
+Base damage increased to 75 / 115 / 155 / 195 / 235 from 75 / 110 / 145 / 180 / 215.
+V12.10
+Stats
+Base health increased to 598 from 528.
+Health growth increased to 111 from 97.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V12.3
+Distortion
+Base damage reduced to 75 / 110 / 145 / 180 / 215 from 75 / 115 / 155 / 195 / 235.
+V11.20
+General
+Bug Fix:
+Critical attack sounds will now play correctly for all of her skins.
+Distortion
+Bug Fix:
+Fixed a bug where the dash did not play its sound effect if cast from Fog of War into vision.
+Bug Fix:
+Now correctly plays a sound effect for herself and her allies when its return indicator times out.
+V11.8
+Sigil of Malice
+Base damage increased to 65 / 90 / 115 / 140 / 165 from 55 / 80 / 105 / 130 / 155.
+Maximum base damage increased to 130 / 180 / 230 / 280 / 330 from 110 / 160 / 210 / 260 / 310.
+V11.6
+Distortion
+Mana cost reduced to 60 / 70 / 80 / 90 / 100 from 60 / 75 / 90 / 105 / 120.
+V11.2
+Stats
+Health growth increased to 97 from 92.
+Sigil of Malice
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 50 / 60 / 70 / 80 / 90.
+V11.1
+Stats
+Base attack damage increased to 55 from 54.
+88
+.
+Base armor increased to 22 from 21.
+88
+.
+V10.22
+Ethereal Chains
+Mana cost reduced to 50 from 70.
+Initial base damage increased to 50 / 70 / 90 / 110 / 130 from 40 / 60 / 80 / 100 / 120.
+Delayed base damage increased to 80 / 120 / 160 / 200 / 240 from 70 / 110 / 150 / 190 / 230.
+Mimic: Distortion
+Bug Fix:
+Fixed some ability queueing issues.
+V10.6
+General
+Recommended items updated.
+V9.16
+Sigil of Malice
+AP ratio increased to
+40% AP
+from
+30% AP
+.
+V9.15
+Ethereal Chains
+Base root damage increased to 70 / 110 / 150 / 190 / 230 from 60 / 90 / 120 / 150 / 180.
+V9.14
+Ethereal Chains
+New Effect:
+Now grants true sight for the duration of the
+root
+.
+V9.9
+Sigil of Malice
+Bug Fix:
+Casting
+Sigil of Malice
+or
+Mimic: Sigil of Malice
+and
+Distortion
+in quick succession no longer sometimes fail to trigger her mark.
+Elderwood LeBlanc
+and
+Ravenborn LeBlanc
+Mimic
+Bug Fix:
+No longer incorrectly use base skin
+Mimic
+.
+V9.6
+Sigil of Malice
+AP ratio reduced to
+30% AP
+from
+40% AP
+.
+V9.3
+Sigil of Malice
+and
+Mimic: Sigil of Malice
+Bug Fix:
+Mark is no longer consumed when
+Ethereal Chains
+,
+Mimic: Ethereal Chains
+, or
+Mimic: Sigil of Malice
+would trigger the mark but are blocked by a spell shield.
+V9.1
+- January 15th Hotfix
+Mimic: Sigil of Malice
+Bug Fix:
+Fixed a bug where the mark wasn't properly scaling with ability power.
+V9.1
+Distortion
+New Effect:
+Ability icon border now shows the remaining time to recast the ability.
+Mimic: Distortion
+New Effect:
+Ability icon border now shows the remaining time to recast the ability.
+V8.24
+Distortion
+Cooldown increased to 18 / 16 / 14 / 12 / 10 seconds from 14 / 13 / 12 / 11 / 10.
+V8.23
+Sigil of Malice
+Bug Fix:
+Size increased and decal added inside the orb.
+Ravenborn LeBlanc
+Mirror Image
+Bug Fix:
+Clone now has proper particle effects.
+Sigil of Malice
+Bug Fix:
+Size increased.
+Mimic: Ethereal Chains
+Bug Fix:
+Darkened.
+Elderwood LeBlanc
+Mirror Image
+Bug Fix:
+Clone now has proper particle effects.
+Sigil of Malice
+Bug Fix:
+Now has pink effects.
+V8.22
+Sigil of Malice
+Bug Fix:
+Is no longer missing VFX and SFX during
+Sigil of Malice
+.
+Distortion
+Base damage reduced to 75 / 115 / 155 / 195 / 235 from 85 / 125 / 165 / 205 / 245.
+Ravenborn LeBlanc
+Bug Fix:
+Passive SFX are no longer missing when she comes out of stealth.
+V8.20
+Mirror Image
+Bug Fix:
+The Black Cleaver
+now correctly stacks on the clone.
+V8.14
+Mirror Image
+Bug Fix:
+The clone now correctly takes true damage from
+Conqueror
+.
+V8.11
+Distortion
+Can now queue up
+Distortion
+and
+Mimic: Distortion
+.
+V8.10
+Mimic
+Bug Fix:
+No longer causes her
+Ethereal Chains
+to not reveal stealthed champions.
+V8.8
+- Unrework
+Mirror Image
+- Reintroduced
+Removed:
+Sigil of Malice
+.
+Innate:
+When
+LeBlanc
+falls
+below 40%
+maximum
+health
+, she periodically becomes
+invisible
+for 1 second and creates a controllable clone of herself with
+70 − 359 (based on level)
+less health
+, which lasts for 8 seconds or until killed.
+Static Cooldown:
+60 seconds.
+Bug Fix:
+Fixed a bug where an attack launched by the clone from
+Mirror Image
+could deal damage if the clone died before that basic attack landed. We had this bugfix ready to go when we initially reworked
+LeBlanc
+, but there was no need to ship it because that ability no longer existed. So now we're finally shipping it!
+Sigil of Malice
+- Reintroduced
+Removed:
+Shatter Orb
+.
+Active:
+LeBlanc
+projects an orb towards the target enemy, dealing 55 / 80 / 105 / 130 / 155
+(+ 40% AP)
+magic damage and marking them for 3.
+5
+seconds.
+The mark will be consumed once
+LeBlanc
+damages the marked target with any other ability, dealing the same magic damage again.
+Mana Cost:
+50 / 60 / 70 / 80 / 90
+Cooldown:
+6 seconds
+Distortion
+Base damage increased to 85 / 125 / 165 / 205 / 245 from 40 / 55 / 70 / 85 / 100.
+AP ratio increased to
+60% AP
+from
+20% AP
+.
+Mana cost changed to 60 / 75 / 90 / 105 / 120 from 70 / 80 / 90 / 100 / 110.
+Cooldown reduced to 14 / 13 / 12 / 11 / 10 seconds from 18 / 16 / 14 / 12 / 10.
+Dash speed reduced to 1450 from 1600.
+Snapback lock-out duration changed to (0.
+2
+seconds from finishing dash) from (0.
+85
+seconds from starting dash).
+Ethereal Chains
+Root base damage increased to 60 / 90 / 120 / 150 / 180 from 40 / 60 / 80 / 100 / 120.
+Initial AP ratio reduced to
+30% AP
+from
+50% AP
+.
+Root AP ratio increased to
+70% AP
+from
+50% AP
+.
+Mana cost increased to 70 from 40.
+Tether range reduced to 865 from 885.
+Mimic
+Removed:
+Shadow of the Rose
+.
+New Active:
+LeBlanc
+casts a mimicked version of her most recently used basic ability, applying the same effects and dealing modified magic damage.
+Cooldown:
+60 / 45 / 30 seconds.
+Mana Cost:
+No mana cost.
+Mimic: Sigil of Malice
+Deals 70 / 140 / 210
+(+ 40% AP)
+magic damage, and the mark deals 140 / 280 / 420
+(+ 80% AP)
+.
+Mimic: Distortion
+Deals 150 / 300 / 450
+(+ 75% AP)
+magic damage.
+Mimic: Ethereal Chains
+Deals 70 / 140 / 210
+(+ 40% AP)
+magic damage, plus an additional 140 / 280 / 420
+(+ 80% AP)
+magic damage upon rooting.
+V8.3
+Stats
+Base health regeneration increased to 7.
+5
+from 7.
+4
+.
+V8.2
+Shatter Orb
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V7.22
+Stats
+Base health increased to 528 from 516.
+Health growth increased to 92 from 80.
+V7.16
+Shatter Orb
+Damage to minions reduced to 60% from 80%.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.6
+Shadow of the Rose
+Bug Fix:
+Cooldown no longer resets when she casts
+Mimic
+if she died between casting
+Shadow of the Rose
+and casting
+Mimic
+.
+V7.5
+Shatter Orb
+Bounce bonus damage against minions increased to 80% from 40%.
+Bounce base damage against minions increased to 44 / 72 / 100 / 128 / 156 from 22 / 36 / 50 / 64 / 78.
+Bounce AP ratio against minions increased to
+40% AP
+from
+20% AP
+.
+Distortion
+Base damage reduced to 40 / 55 / 70 / 85 / 100 from 85 / 120 / 155 / 190 / 225.
+AP ratio reduced to
+20% AP
+from
+60% AP
+.
+Mimic: Distortion
+Base damage reduced to 60 / 120 / 180 from 125 / 225 / 325.
+AP ratio reduced to
+30% AP
+from
+50% AP
+.
+V7.3
+Sigil of Malice
+Base damage changed to
+30 − 300 (based on level)
+from
+40 − 295 (based on level)
+.
+V7.2
+Shatter Orb
+Bug Fix:
+No longer fails to bounce to enemies with
+Sigil of Malice
+if
+LeBlanc
+is too far away.
+V7.1
+Distortion
+Bug Fix:
+Fixed a bug causing
+Distortion
+cooldown to reset if she cast it, allowed it to go on cooldown without re-casting it, then copied it with
+Mimic
+.
+V6.24
+December 14th Hotfix
+Shatter Orb
+Bounce damage against minions reduced to 40% from 80%.
+Distortion
+Base damage reduced to 85 / 120 / 155 / 190 / 225 from 85 / 125 / 165 / 205 / 245.
+V6.24
+Stats
+Base health regeneration reduced to 7.
+4
+from 8.
+5
+.
+Health regeneration growth reduced to 0.
+55
+from 0.
+8
+.
+Shatter Orb
+Base damage increased to 55 / 90 / 125 / 160 / 195 from 55 / 80 / 105 / 130 / 155.
+Bounce damage to minions reduced to 80% from 120%.
+Tooltip now reflects the correct bounce damage against minions.
+Bug Fix:
+Shatter Orb
+bounces no longer count as single-target spells for Spell Vamp.
+Ethereal Chains
+Base damage reduced to 40 / 60 / 80 / 100 / 120 from 40 / 65 / 90 / 115 / 140.
+V6.23
+Mimic
+Bug Fix:
+Fixed a few bugs where the clone wasn't properly transferring kill credit to
+LeBlanc
+herself (ex.
+Mejai's Soulstealer
+).
+V6.22
+General
+New ability icons.
+Stats
+Health growth increased to 80 from 75.
+Sigil of Malice
+(new innate)
+New Innate:
+LeBlanc's
+abilities apply
+Sigil of Malice
+for 4 seconds that primes after a 1.
+5
+second delay. Once primed,
+LeBlanc
+can use another ability to trigger the sigil and deal
+40 − 300 (based on level)
+(+ 80% AP)
+bonus damage.
+This has a 5 seconds cooldown per target.
+Shatter Orb
+Renamed to
+Shatter Orb
+from
+Sigil of Malice
+.
+AP ratio increased to
+50% AP
+from
+40% AP
+.
+Mana cost reduced to 40 / 45 / 50 / 55 / 60 from 50 / 60 / 70 / 80 / 90.
+Removed:
+Applying a mark on the target.
+New Effect:
+If
+Shatter Orb
+triggers
+Sigil of Malice
+, it chains to the nearest ready
+Sigil of Malice
+, damaging them aswell. Bounces deal
+「 66 / 96 / 126 / 156 / 186
+(+ 60% AP)
+magic 」
+「 120% 」
+damage to minions.
+Distortion
+Mana cost changed to 70 / 80 / 90 / 100 / 110 from 80 / 85 / 90 / 95 / 100.
+Improved detection when traversing walls.
+New Effect:
+Now has a 0.
+25
+seconds delay before returning to her original position when recasting
+Distortion
+.
+Ethereal Chains
+New Effect:
+Tether indicator is now visible to
+LeBlanc
+and the target.
+Removed:
+Slowing by 25% target during the tether.
+Mimic
+(updated)
+Cooldown increased to 54 / 42 / 30 seconds from 40 / 32 / 24.
+First Cast:
+LeBlanc
+primes herself to summon a
+Mimic
+. While primed,
+LeBlanc's
+gains access to an alternate kit that consists of empowered version of her basic abilities as well as a new ultimate ability,
+Shadow of the Rose
+.
+LeBlanc's
+empowered basic abilities do not interact with the cooldowns of her standard abilities.
+Shadow of the Rose
+has a separate 160 / 140 / 120 second cooldown and using
+Shadow of the Rose
+will refund
+Mimic's
+cooldown.
+Empowered Basic Ability:
+LeBlanc
+vanishes for 0.
+1
+seconds and then casts an empowered version of the chosen spell, also summoning an indistinguishable
+Mimic
+that casts a damageless copy of the spell. This
+Mimic
+lasts 2.
+5
+seconds and is dismissed if it takes single target damage from an enemy champion or turret.
+Mimic: Shatter Orb's
+damage reduced to 150 / 275 / 400
+(+ 60% AP)
+from 150 / 300 / 450
+(+ 90% AP)
+.
+Mimic: Distortion's
+damage reduced to 125 / 225 / 325
+(+ 50% AP)
+from 150 / 300 / 450
+(+ 90% AP)
+.
+Mimic: Ethereal Chains'
+damage reduced to 100 / 160 / 220
+(+ 40% AP)
+from 100 / 200 / 300
+(+ 60% AP)
+.
+Shadow of the Rose
+:
+LeBlanc
+summons a
+Mimic
+at the target location (global range) that walks toward the nearest visible enemy champion and casts a non-damaging version of
+LeBlanc's
+most recently used ability. This Mimic lasts 2.
+5
+seconds but cannot be controlled.
+V6.15
+General
+New splash artwork for
+Prestigious LeBlanc
+.
+V6.7
+General
+Splash artwork for
+Wicked LeBlanc
+updated to the Chinese art.
+V6.1
+Ethereal Chains
+/
+Mimic: Ethereal Chains
+Projectile speed increased to 1750 from 1600.
+V5.22
+Mirror Image
+New Effect:
+Clone spawns with copies of neutral monster buffs LeBlanc possesses (
+Crest of Cinders
+,
+Crest of Insight
+,
+Hand of Baron
+).
+V5.16
+Distortion
+Dash speed increased to 1450 from 1300.
+V5.11
+Distortion
+/
+Mimic: Distortion
+Dash speed reduced to 1300 from 1600.
+Ethereal Chains
+/
+Mimic: Ethereal Chains
+Projectile width reduced to 55 from 70.
+Check rate for broken tether increased by 400%.
+Bug Fix:
+Not rooting tethered targets affected by
+Black Shield
+even if the shield is broken before secondary effects.
+V5.6
+Mimic
+Mimic: Sigil of Malice
+AP ratio reduced to
+60% AP
+from
+65% AP
+.
+Mimic: Distortion
+AP ratio reduced to
+90% AP
+from
+97.
+5
+% AP
+.
+Mimic: Ethereal Chains
+AP ratio reduced to
+60% AP
+from
+65% AP
+.
+V4.19
+Mirror Image
+Removed:
+Flash
+no longer breaks stealth on LeBlanc and her clone when Mirror Image triggers.
+V4.17
+General
+Texture update to Classic, Mistletoe, Prestigious, and Wicked.
+Mirror Image
+New Effect:
+Clone spawns instantly and stealthed.
+Stealth duration increased to 1 second from 0.
+5
+.
+New Effect:
+Breaking stealth on either LeBlanc or her will also break the other's.
+Distortion
+Reactivation time increased to 4 seconds from 3.
+V4.13
+Distortion
+Mana cost reduced to 80 / 85 / 90 / 95 / 100 from 80 / 90 / 100 / 110 / 120.
+V4.10
+Sigil of Malice
+Renamed from
+Sigil of Silence
+.
+Removed:
+Silence effect.
+V4.5
+Stats
+Base armor increased to 16 from 12.
+V4.4
+Ethereal Chains
+Bug Fix:
+Still rooting target even if LeBlanc is out of range when it triggers
+V3.10a
+Stats
+Base health regen increased to 7.
+05
+from 5.
+05
+.
+Attack damage per level increased to 3.
+5
+from 3.
+1
+.
+V3.9
+Mirror Image
+Clone AI updated to attempt to run from standing still.
+Sigil of Silence
+Mana cost reduced to 50 / 60 / 70 / 80 / 90 from 70 / 75 / 80 / 85 / 90.
+Mark base damage reduced to 55 / 80 / 105 / 130 / 155 from 70 / 110 / 150 / 190 / 230.
+Mark AP scaling reduced to
+40% AP
+from
+60% AP
+.
+Detonation base damage increased to 55 / 80 / 105 / 130 / 155 from 20 / 40 / 60 / 80 / 100.
+Detonation AP scaling increased to
+40% AP
+from
+30% AP
+.
+Total base damage changed to 110 / 160 / 210 / 260 / 310 from 90 / 150 / 210 / 270 / 330.
+Total AP scaling reduced to
+80% AP
+from
+90% AP
+.
+Silence duration reduced to 1.
+5
+seconds from 2.
+Distortion
+Cooldown changed to on-cast from starting after returning to the initial location.
+Mana cost increased to 80 / 90 / 100 / 110 / 120 from 80 at all ranks.
+Bug Fix:
+Return pad being visible in fog of war.
+Ethereal Chains
+Root slow duration reduced to 1.
+5
+seconds from 2.
+Root duration changed to 1.
+5
+seconds at all ranks from 1 / 1.
+3
+/ 1.
+6
+/ 1.
+9
+/ 2.
+2
+.
+Cooldown increased to 14 / 13 / 12 / 11 / 10 seconds from 10 at all ranks.
+Mimic
+Mana cost reduced to 0 from 100 / 50 / 0.
+Removed:
+Base damage amplification.
+New Effect:
+Mimicked abilities have their own damage.
+Mimic: Sigil of Silence
+deals 100 / 200 / 300
+(+ 65% AP)
+damage each on mark and on detonation.
+Mimic: Distortion
+deals 150 / 300 / 450
+(+ 97.
+5
+% AP)
+damage on impact.
+Cooldown changed to on-cast from after traveling to return pad.
+Mimic: Ethereal Chains
+deals 100 / 200 / 300
+(+ 65% AP)
+damage each on mark and on rooting.
+V1.0.0.152
+General
+New splash artwork for
+Original LeBlanc
+.
+Stats
+Movement speed increased to 335 from 310.
+V1.0.0.151
+Distortion
+Mana cost reduced to 80 / 85 / 90 / 95 / 100 from 80 / 90 / 100 / 110 / 120.
+V1.0.0.142
+Sigil of Silence
+Projectile speed increased to 2000 from 1400.
+Distortion
+Cooldown reduced to 18 / 16 / 14 / 12 / 10 seconds from 20 / 18 / 16 / 14 / 12.
+Removed:
+Casting
+Mimic: Distortion
+preventing LeBlanc from traveling to return pad.
+Mimic: Distortion
+Removed:
+Casting
+Distortion
+preventing LeBlanc from traveling to return pad,
+V1.0.0.126
+Ethereal Chains
+Bug Fix:
+Not rooting
+Master Yi
+during
+Highlander
+.
+V1.0.0.120
+Mirror Image
+Bug Fix:
+clone was being permanently disabled if disabled on spawn.
+V1.0.0.118
+Mirror Image
+New Effect:
+Icon is gray when on cooldown.
+V1.0.0.116
+Mimic
+Bug Fix:
+Fixed allied-ultimate HUD indicator display.
+V1.0.0.114
+Distortion
+Bug Fix:
+Breaking
+spell shield
+and still dealing damage.
+Mimic: Distortion
+Bug Fix:
+Breaking
+spell shield
+and still dealing damage.
+V1.0.0.112
+Ethereal Chains
+Chain AP ratio increased to
+50% AP
+from
+40% AP
+.
+Root AP ratio increased to
+50% AP
+from
+40% AP
+.
+V1.0.0.111
+Sigil of Silence
+Bug Fix:
+Sound persisting after target death.
+V1.0.0.108
+Stats
+Base attack damage increased to 51 from 48.
+Attack damage per level to 3.
+1
+from 2.
+9
+.
+V1.0.0.107
+Ethereal Chains
+Root duration increased to 1 / 1.
+3
+/ 1.
+6
+/ 1.
+9
+/ 2.
+2
+seconds from 1 / 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2.
+Mimic
+Cooldown reduced to 40 / 32 / 24 seconds from 40 / 35 / 30.
+V1.0.0.105
+Stats
+Armor per level increased to 3.
+5
+from 3.
+Mimic
+Cooldown reduced to 40 / 35 / 30 seconds from 40 at all ranks.
+November 4th Hotfix
+Stats
+Mana per level reduced to 50 from 56.
+Armor per level reduced to 3 from 3.
+5
+.
+Sigil of Silence
+Mark damage reduced to 70 / 110 / 150 / 190 / 230 from 80 / 125 / 170 / 215 / 260.
+Cast range reduced to 700 from 750.
+Mana cost increased to 70 / 75 / 80 / 85 / 90 from 60 / 65 / 70 / 75 / 80.
+Distortion
+Base damage reduced to 85 / 125 / 165 / 205 / 245 from 90 / 130 / 170 / 210 / 250.
+Mana cost increased to 80 / 90 / 100 / 110 / 120 from 60 / 70 / 80 / 90 / 100.
+Ethereal Chains
+.
+Base damage reduced to 40 / 65 / 90 / 115 / 140 from 45 / 70 / 95 / 120 / 145.
+Mana cost increased to 80 from 70.
+Mimic
+Cooldown increased to 40 seconds from 30.
+Base damage amplification reduced to 10 / 25 / 40% from 20 / 30 / 40%.
+Tooltip updated to display correct value from 20 / 35 / 50%.
+V1.0.0.104
+Mirror Image
+(Innate)
+When LeBlanc is brought below 40% health, she instantly becomes stealthed for half a second. When the stealth fades, she creates a Mirror Image that deals no damage and lasts for up to 8 seconds. This can only occur once per minute.
+Sigil of Silence
+(Q)
+LeBlanc projects an orb towards her target, dealing magic damage and marking the target for 3.5 seconds. If the target takes damage from one of Leblanc's abilities, the mark will trigger, dealing damage and silencing the target.
+Distortion
+(W)
+LeBlanc rapidly moves to a target location, dealing magic damage to nearby units. In the following 3 seconds, she can activate Distortion again to return to her starting location.
+Ethereal Chains
+(E)
+LeBlanc flings illusionary chains towards a target location. If it hits an enemy unit, it will deal initial magic damage and slow their movement speed by 25%. If the target remains shackled for 2 seconds, the target takes additional magic damage and is unable to move.
+Mimic
+(Ultimate)
+LeBlanc can cast the previous spell she cast. The mimicked spell deals significantly increased damage. 30 second cooldown.
+Trivia
+[
+edit
+|
+edit source
+]
+LeBlanc is
+voiced
+by
+Carrie Keranen
+in
+League of Legends
+and
+Legends of Runeterra
+.
+[2]
+Lux
+,
+Elementalist Lux
+,
+Cosmic Lux
+and
+Dark Cosmic Lux
+are also voiced by the same voice actress.
+LeBlanc is the first champion to have a Loading screen and Portrait icon not focus the actual champion, in her case, focus on her
+Mimic
+.
+The second one is
+Jhin
+, focus on the mirror image.
+The same case applies for some of her skins:
+Prestigious
+,
+Elderwood
+,
+Program
+and
+Coven
+.
+Mimic
+used to be the only ability (currently
+Relentless Pursuit
+,
+Inferno Trigger
+and
+Purge
+) that ended up costing
+0 mana
+when fully-ranked.
+LeBlanc is one of a few champions to have multiple textures in one skin. When she uses
+Mirror Image
+, her clone will be of a different colour palette which can only be seen by LeBlanc and her allies. To the opposing team, the two LeBlancs look exactly the same, including copies of any external
+buffs
+and
+item
+effects active at the moment the clone is spawned (Prior to patch
+V5.22
+, clones did not duplicate external buff/active item effect particles).
+Four other champions with this feature are
+Wukong
+(via
+Warrior Trickster
+),
+Shaco's
+(via
+Hallucinate
+),
+Nasus
+(via
+Fury of the Sands
+) and
+Malphite
+(via
+Granite Shield
+and
+Thunderclap
+).
+The Black Rose
+might have been inspired by and/or might be referencing the
+Black Hand
+.
+Her staff appears to be inspired, partially or in full, by that of Tsukasa from .hack//SIGN.
+The name 'LeBlanc' may be a reference to
+Maurice Leblanc
+, creator of the character
+Arsène Lupin
+. Like Lupin, part of LeBlanc's character is that of a master of disguise.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Burst
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Burst Mages
+aim to single out vulnerable targets by locking them down and following up with a devastating barrage of damage from range. They are strongest when using their full suite of spells executed perfectly to maximum effect, and most vulnerable when they cannot deliver.
+Examples
+Annie
+Syndra
+Veigar
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Clone
+A
+clone
+or
+decoy
+is a specific type of
+pet
+that attempts to imitate a
+champion
+, copying their current vitality, stats, items, level, and most status effects upon creation. They are considered champions against many effects that do not strictly require
+player
+champions, else they are considered
+minions
+either small or large among certain cases.
+The
+damage
+they deal is attributed to them alone, but they transfer last hit and kill credit. Killing a
+clone
+awards
+25
+and
+44
+.
+League of Legends content
+Invisibility
+Invisibility
+is a form of stealth that renders a unit hidden from enemy
+vision
+for a
+short
+period of time. It can be utilized to sneak in on opponents as well as the ability to reposition in-combat or simply to flee from a skirmish. It also grants
+ghosting
+.
+Invisible
+units can
+only
+be revealed by
+True Sight
+.
+Stealthed
+units shimmer their character model for 0.
+6
+seconds whenever they take damage.
+A unit will shimmer for every instance of damage they take, and shimmering does not make the unit targetable nor remove the
+stealth
+effect, but grants positional information to the enemy.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Mimic
+COOLDOWN:
+50 / 40 / 30
+Active:
+LeBlanc
+casts a mimicked version of her most recent ability, which deals modified damage.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Blink
+A
+blink
+refers to a form of movement whereby a unit displaces from point A to B without traversing the space between.
+League of Legends content
+Blink
+A
+blink
+refers to a form of movement whereby a unit displaces from point A to B without traversing the space between.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Mimic
+COOLDOWN:
+50 / 40 / 30
+Active:
+LeBlanc
+casts a mimicked version of her most recent ability, which deals modified damage.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Tether
+A
+tether
+is an effect that applies a
+bind
+buff on both the source and the target(s), which then creates the actual tether that requires both to remain in close proximity so any accompanying effects (
+damage
+,
+crowd control
+,
+heals
+,
+buffs
+, etc) can apply.
+The tether breaks if it exceeds maximum range, or either conduit is removed (e.g.
+Death
+). The tether will also break from a transition into the
+zombie state
+due to the target already dying.
+Generally, a
+bind
+with an enemy will break along with the tether, whereas a bind with an ally will last indefinitely and automatically reapply the tether when within range.
+League of Legends content
+True sight
+True Sight
+reveals units through
+fog of war
+,
+brush
+, and
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Root
+A unit that is
+rooted
+is unable to control its movement or activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Rooted
+units can still be displaced.
+Root
+is an
+immobilizing
+effect
+.
+Moving
+includes movement commands.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Sigil of Malice
+COOLDOWN:
+6
+Active:
+LeBlanc
+projects an orb at the target enemy that deals
+magic damage
+and marks them for a short time.
+Her next damaging ability against the marked target will consume the mark to deal
+magic damage
+.
+League of Legends content
+Mimic
+COOLDOWN:
+50 / 40 / 30
+Active:
+LeBlanc
+casts a mimicked version of her most recent ability, which deals modified damage.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Distortion
+COOLDOWN:
+15 / 13.
+75
+/ 12.
+5
+/ 11.
+25
+/ 10
+Active:
+LeBlanc
+dashes
+to the target location, dealing
+magic damage
+to nearby enemies upon arrival. She leaves behind a return pad at her original location that lasts a few seconds, during which she can recast.
+Recast:
+LeBlanc
+blinks
+to the return pad.
+References
+[
+edit
+|
+edit source
+]
+↑
+LeBlanc's profile page
+at
+LeagueOfLegends.com
+↑
+LeBlanc's voice actress
