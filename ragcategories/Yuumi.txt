@@ -1,0 +1,2826 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Yuumi
+the Magical Cat
+Release date
+2019-05-14
+Last changed
+V14.23
+Class(es)
+Enchanter
+Legacy
+Support
+Mage
+Position(s)
+Support
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+450
+|
+260
+Crafting
++
+270
+Ratings
+Damage
+1
+Toughness
+1
+Control
+1
+Mobility
+3
+Utility
+3
+Style
+Difficulty
+Yuumi
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Yuumi
+Base statistics
+Edit
+Health
+500
++69
+Mana
+440
++45
+Health regen. (per 5s)
+5
++0.55
+Mana regen. (per 5s)
+10
++0.4
+Armor
+25
++4.2
+Attack damage
+49
++3.1
+Magic resist.
+25
++1.1
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+425
+Attack speed
+Base AS
+0.625
+Attack windup
+15.625%
+AS ratio
+N/A
+Bonus AS
++1
+%
+Unit radius
+Gameplay radius
+55
+Selection radius
+100
+Pathing radius
+30
+Acq. radius
+475
+Special statistics
+Damage Dealt
++5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++15%
+Damage Received
+-20%
+Healing
++20%
+Shielding
++20%
+Damage Dealt
+-35%
+Damage Received
++20%
+Healing
+-30%
+Damage Dealt
+-5%
+Damage Received
++0%
+Healing
+-25%
+Shielding
+-25%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Feline Friendship
+STATIC COOLDOWN
+:
+20 − 10 (based on level)
+Innate:
+Periodically,
+Yuumi's
+next basic attack or ability hit against enemy champions will
+heal
+her. If she is
+attached
+to an ally within a short time, they are healed as well.
+Innate:
+While
+attached
+to an ally,
+Yuumi
+grants them permanent
+Friendship
+stacks for killing enemy champions and minions. The ally with the highest
+Friendship
+stacks becomes
+Yuumi's
+Best Friend
+, which empowers her abilities while she is
+attached
+to them.
+Innate:
+Periodically,
+Yuumi's
+next
+basic attack
+, which has an
+uncancelable windup
+and gains
+50
+bonus
+range
+,
+ability
+hit against enemy champions, or
+Final Chapter
+hit on ally champions while
+attached
+, will
+heal
+her for
+25 − 110 (based on level)
+(+ 15% AP)
+. If she is
+attached
+to an ally or does so within 4 seconds, they are healed for the same amount.
+Innate:
+While
+attached
+to an ally,
+Yuumi
+grants them 2 permanent
+Friendship
+stacks whenever they kill enemy champions or minions. The ally with the highest
+Friendship
+stacks becomes
+Yuumi's
+Best Friend
+, which empowers her abilities with additional effects while she is
+attached
+to them.
+Info
+Targeting input
+Passive
+Feline Friendship
+will not be consumed if
+Yuumi
+isn't missing health, except when triggered by a basic attack. While
+attached
+, it won't be consumed if both Yuumi and her anchor aren't missing health.
+Edit
+Prowling Projectile
+COST:
+50 / 60 / 70 / 80 / 90 / 100 Mana
+COOLDOWN
+:
+6.
+5
+CAST TIME:
+none
+TARGET RANGE:
+850
+WIDTH:
+60
+SPEED:
+1950
+/
+850
+/
+1650
+Active:
+Yuumi
+fires an errant missile in the target direction that deals
+magic damage
+to the first enemy hit and briefly
+slows
+the target if they were a champion.
+Attached
+Bonus:
+Yuumi
+channels
+briefly to steer the missile, after which it accelerates to deal increased damage and apply a stronger slow to champions.
+Best Friend
+Bonus:
+Always applies the stronger
+slow
+and grants her
+Best Friend
+bonus on-hit damage for a few seconds.
+Active:
+Yuumi
+fires an errant missile in the target direction that deals
+magic damage
+to the first enemy hit. If the target is a champion, they are also
+revealed
+and
+slowed
+by 20% for 1 second.
+Magic Damage:
+60 / 90 / 120 / 150 / 180 / 210
+(+ 20% AP)
+Attached
+Bonus:
+Yuumi
+channels
+for up to 1.
+35
+seconds to steer the missile at a slower speed. After being in flight for the same duration, the missile accelerates in its current direction to deal increased damage and apply a stronger slow against champions that decays to 20% over 2 seconds.
+Increased Damage:
+80 / 135 / 190 / 245 / 300 / 355
+(+ 35% AP)
+Enhanced Slow:
+50 / 53 / 56 / 59 / 62 / 65%
+Best Friend
+Bonus:
+Prowling Projectile
+always applies its enhanced slow against champions and hitting a champion grants her
+Best Friend
+bonus
+magic damage
+on-hit
+for 5 seconds, increased by
+0% − 75% (based on
+Anchor's
+critical strike chance)
+.
+Bonus Magic Damage On-Hit:
+10 / 12 / 14 / 16 / 18 / 20
+(+ 5% AP)
+Info
+Targeting input
+Direction
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Disruption
+Interrupted
+Prowling Projectile
+is able to turn clockwise or counter-clockwise at a rate of 90° per 0.
+5
+seconds. The missile can turn a maximum of 243° in both directions combined before accelerating.
+Prowling Projectile
+can be buffered 0.
+5
+seconds before it comes off cooldown.
+Prowling Projectile
+is slower when
+attached
+(before the acceleration). If
+Yuumi
+unattaches after using it, the missile will go back to its normal speed, without losing the acceleration later. This results in the fastest and longest ranged version of this ability.
+The
+Best Friend
+'s empowerment respects
+enchantment redirection
+.
+The following table refers for interactions while
+Yuumi
+is
+channeling
+:
+Type
+Channel
+Attacking
+N/A
+Abilities
+Detaching
+and
+Final Chapter
+interrupt.
+Zoomies
+is usable.
+Movement
+N/A
+Items
+Usable
+All items are usable
+Disabled
+N/A
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Teleport
+Recall
+Hexflash
+Mark
+Dash
+Disabled
+N/A
+Interrupted by
+N/A
+Interrupted by
+Death
+Cast-inhibiting effects
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio changed to
+25% AP
+.
+Empowered AP ratio changed to
+37.
+5
+% AP
+.
+Edit
+You and Me!
+CAST TIME:
+none
+STATIC COOLDOWN
+:
+10 / 5 / 0 (based on level)
+TARGET RANGE:
+700
+SPEED:
+1200 / 1300 / 1400 / 1500 / 1600
+Passive:
+While
+Yuumi
+is
+attached
+, she is
+untargetable
+and casts her abilities from the
+Anchor's
+position, empowering them with additional effects.
+Active:
+Yuumi
+dashes
+to the target allied champion to
+attach
+to them.
+You and Me!
+can be recast while attached.
+Recast:
+Yuumi
+detaches from her
+Anchor
+and
+dashes
+to the target allied champion to
+attach
+to them. If this is cast without a target, she will
+dash
+out to detach.
+You and Me!
+is placed on a short
+cooldown
+if
+Yuumi
+becomes
+immobilized
+or
+grounded
+.
+Best Friend
+Bonus:
+Yuumi
+gains heal and shield power and her
+Best Friend
+gains on-hit healing.
+Passive:
+While
+Yuumi
+is
+attached
+, she is
+untargetable
+(except by
+turrets
+and inbound
+projectiles
+) and casts her abilities from the
+Anchor's
+position, empowering them with additional effects.
+Active:
+Yuumi
+channels
+for 0.
+25
+seconds, then
+dashes
+to the target allied champion and
+attaches
+to them upon arrival, designating them as her
+Anchor
+.
+You and Me!
+can be recast after 0.
+5
+seconds.
+Recast - Change of Plan:
+Yuumi
+detaches from her
+Anchor
+and
+dashes
+to the target allied champion to
+attach
+to them, refreshing the recast. She will detach automatically if her
+Anchor
+dies or under
+certain circumstances
+. If recast without a valid target,
+Yuumi
+will detach and
+dash
+250-units in the target direction, placing
+You and Me!
+on a
+0.
+25
+-second cooldown if it is not already on cooldown.
+Yuumi
+will be
+knocked down
+by any
+immobilizing
+or
+polymorphing
+crowd control during the dash.
+Yuumi
+starts with a skill point in
+You and Me!
+and
+Prowling Projectile
+instead has 6 ranks.
+Best Friend
+Bonus:
+Yuumi
+gains
+heal and shield power
+and her
+Best Friend
+gains
+healing
+on-hit
+.
+You and Me!
+is placed on a
+5-second
+cooldown if
+Yuumi
+becomes
+immobilized
+,
+grounded
+, or
+polymorphed
+.
+Heal and Shield Power:
+5 / 7.
+5
+/ 10 / 12.
+5
+/ 15%
+Healing On-Hit:
+3 / 5 / 7 / 9 / 11
+(+ 4% AP)
+"Book, meet new friend!"
+Info
+Targeting input
+Unit
+/
+Direction
+Counters
+Grounded
+Disabled
+Knockdown
+Interrupted
+Disruption
+Interrupted
+The
+Best Friend's
+healing on-hit is affected by
+Yuumi's
+heal and shield power.
+Yuumi
+will track the target if they change locations.
+She will not stop tracking the target until she reaches them, as there is no maximum tracking distance.
+The 0.
+5
+-second cooldown will be incurred whenever
+Yuumi
+attaches to an
+Anchor
+, whether by the active or the recast.
+If the target moves
+2000
+or more units away during the dash, it will be interrupted and
+You and Me!
+will be placed on full cooldown.
+You and Me!
+does not count as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+You and Me!
+does not count as a buff for
+Summon Aery
+.
+You and Me!
+initial cast and recast have a
+forgiveness radius
+of 175 units.
+This behavior can override her direction-targeted
+dash
+to discard any target.
+Yuumi
+can channel the
+Eye of the Herald
+while attached.
+Yuumi
+will automatically detach in the following circumstances:
+When her
+Anchor
+starts a
+Teleport
+channel.
+After the
+Anchor
+completes a
+Recall
+channel.
+Her
+Anchor
+is sent to the
+Realm of Death
+.
+She is pulled by
+Fate's Call
+.
+When she or her
+Anchor
+enters
+resurrection
+.
+If
+Yuumi
+is channeling You and Me! or already dashing towards an ally who enters
+resurrection
+, then she will successfully attach to the resurrecting ally, and she will be able to heal/shield them during it.
+Yuumi
+can dash to targetable
+zombie state
+allies (currently only
+Sion's
+Glory in Death
+), but she cannot attach when she reaches them.
+The same goes for allies channeling
+Teleport
+.
+While attached to the
+Anchor
+,
+Yuumi
+is considered in being at her
+Anchor's
+position, regardless of where she is visually placed near them. For example,
+turret
+shots will appear as if they were hitting the
+Anchor
+, but in reality they're actually hitting
+Yuumi
+.
+However, for the purposes of
+You and Me!
+, such as casting it or being unattached for other reasons,
+Yuumi
+will be in the position where she visually is. For example, when she is in the blue team, dashing to a north-east ally is considerably slower than dashing to a south-west ally.
+Her
+monster
+aggression transfers to the
+Anchor
+.
+Enemies gain an assist on
+Yuumi
+if they damaged the
+Anchor
+.
+Yuumi
+will
+always
+be
+visible
+if her
+Anchor
+can be seen, and she will
+always
+not be visible if her
+Anchor
+cannot be seen. These rules apply regardless of
+reveal
+effects and
+stealth
+.
+Yuumi
+will not
+vanish
+if her
+Anchor
+does.
+If
+Yuumi
+is on the blue team, she will remain attached on the southwest side; if
+Yuumi
+is on the red team, she will remain on the northeast. While channeling
+Final Chapter
+, she will be behind her
+Anchor
+.
+The
+player's
+screen will briefly flash red if
+Yuumi
+is affected by a
+immobilizing
+or
+grounding
+effect, or if she forcibly detaches from her
+Anchor
+.
+The
+Anchor's
+health bar
+will have a different frame to indicate the
+attached
+status:
+The following table refers for interactions while
+Yuumi
+is
+channeling
+:
+Type
+Channel
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Teleport
+Recall
+Hexflash
+Interrupted by
+Flash
+Interrupted by
+Death
+Grounding effects
+Immobilizing effects
+Cast-inhibiting effects
+The following table refers for interactions while
+Yuumi
+is
+attached
+:
+Attacking
+Disabled
+Abilities
+Allowed
+Movement
+Disabled
+Items
+Usable
+All the other item-actives are usable
+Disabled
+Hextech Rocketbelt
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death
+Tips & Tricks
+Yuumi
+doesn't
+detach
+instantly when her
+Anchor
+dies. There's a small grace period in which she can recast
+You and Me!
+attach to another champion without the
+channel
+or dash in the target direction.
+Map-Specific Differences
+Arena
+differences
+edit
+Heal and shield power changed to 10 / 13.
+75
+/ 17.
+5
+/ 21.
+25
+/ 25%.
+Edit
+Zoomies
+COST:
+80 / 90 / 100 / 110 / 120 Mana
+COOLDOWN:
+10
+CAST TIME:
+none
+Active:
+Yuumi
+shields
+herself and gains
+bonus
+movement speed
+and
+bonus
+attack speed
+for a short time.
+Attached
+Bonus:
+Zoomies
+affects the
+Anchor
+instead of
+Yuumi
+and additionally restores
+mana
+to the
+Anchor
+.
+Active:
+Yuumi
+grants herself a
+shield
+and gains
+bonus
+attack speed
+for 3 seconds. She also gains
+20%
+bonus
+movement speed
+while the shield holds.
+Shield:
+80 / 105 / 130 / 155 / 180
+(+ 30% AP)
+Bonus Attack Speed:
+25 / 27.
+5
+/ 30 / 32.
+5
+/ 35%
+(+ 8% per 100 AP)
+Attached
+Bonus:
+Zoomies
+affects the
+Anchor
+instead of
+Yuumi
+and additionally restores
+mana
+to the
+Anchor
+, increased by
+0% − 100% (based on
+Anchor's
+missing
+mana)
+.
+Minimum Mana Restored:
+20 / 24 / 28 / 32 / 36
+Maximum Mana Restored:
+40 / 48 / 56 / 64 / 72
+Info
+Targeting input
+Auto
+The
+Anchor's
+mana bar will briefly become a light blue upon restoring the mana.
+Map-Specific Differences
+Arena
+differences
+edit
+Base shield changed to 100 / 125 / 150 / 175 / 200.
+AP ratio changed to
+40% AP
+.
+Edit
+Final Chapter
+COST:
+100 Mana
+COOLDOWN
+:
+120 / 110 / 100
+CAST TIME:
+none
+TARGET RANGE:
+1100
+WIDTH:
+450
+SPEED:
+3000
+Active:
+Yuumi
+channels
+for a short time to barrage 5 waves that deal
+magic damage
+to enemies hit and heal her
+Anchor
+and allies hit. Excess healing is converted into a shield. Enemy
+champions
+hit will be briefly
+slowed
+.
+Yuumi
+can move during
+Final Chapter
+.
+Attached
+Bonus:
+Yuumi
+can steer the direction of the waves with her mouse.
+Best Friend
+Bonus:
+Her
+Best Friend
+receives increased healing from each wave.
+Active:
+Yuumi
+and
+Book
+channel
+for up to 3.
+5
+seconds, launching 5 waves in the target direction.
+Allied champions hit by the waves are
+healed
+, with each heal instance beyond
+maximum
+health
+being converted into a
+shield
+that lasts for 1.
+5
+seconds plus the remaining channel duration instead.
+Heal per Hit:
+35 / 50 / 65
+(+ 15% AP)
+Total Heal:
+175 / 250 / 325
+(+ 75% AP)
+Enemies struck by the waves take
+magic damage
+and are
+slowed
+by 10% for 1.
+25
+seconds. The slow stacks and refreshes on subsequent hits, up to a total strength of 50%. Subsequent waves against enemies hit deal 25% damage.
+Magic Damage per Hit:
+75 / 100 / 125
+(+ 20% AP)
+Reduced Damage per Hit:
+18.
+75
+/ 25 / 31.
+25
+(+ 5% AP)
+Total Magic Damage:
+150 / 200 / 250
+(+ 40% AP)
+Attached
+Bonus:
+Yuumi
+can steer the direction of the waves if initially cast while attached.
+Detaching
+causes her to lose this bonus for the duration. Additionally,
+Feline Friendship
+can trigger from also hitting allied champions.
+Best Friend
+Bonus:
+Final Chapter's
+heal to the
+Best Friend
+is increased by 30%.
+Best Friend
+Heal per Hit:
+45.
+5
+/ 65 / 84.
+5
+(+ 19.
+5
+% AP)
+Best Friend
+Total Heal:
+227.
+5
+/ 325 / 422.
+5
+(+ 97.
+5
+% AP)
+"THIS IS MY FAVORITE CHAPTER!!"
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Disruption
+Interrupted
+The
+heal
+on
+Yuumi'
+s anchor is reapplied each time you hit another ally.
+(bug)
+Yuumi
+becomes
+ghosted
+for the channel and, if not presently attached with
+You and Me!
+, will remain ghosted until she attaches and detaches again.
+(bug)
+While
+attached
+,
+Cloud Dragon Soul
+will not activate until
+Yuumi
+detaches.
+Spell shield
+will only block a single instance of damage.
+Yuumi's
+facing direction during the channel is considered to be in
+Final Chapter's
+target direction.
+Using
+Hexflash
+during the channel will always cause
+Yuumi
+to
+blink
+in the target direction of
+Final Chapter
+.
+(bug)
+Feline Friendship
+will not be triggered if
+Yuumi
+and her anchor aren't missing health
+after
+the wave hit.
+The following table refers for interactions while
+Yuumi
+is
+channeling
+:
+Type
+Channel
+Attacking
+Disabled
+Abilities
+Prowling Projectile
+is disabled.
+You and Me!
+and
+Zoomies
+are usable.
+Movement
+Allowed
+Items
+Usable
+All the other item-actives are usable
+Disabled
+Hextech Rocketbelt
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Teleport
+Hexflash
+Mark
+Dash
+Disabled
+Recall
+Interrupted by
+N/A
+Interrupted by
+Death
+Cast-inhibiting effects
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Yuumi (Collection)
+.
+Original
+View in 3D
+975
+14.05.2019
+A magical cat from Bandle City, Yuumi was once the familiar of a yordle enchantress, Norra. When her master mysteriously disappeared, Yuumi became the Keeper of Norra's sentient Book of Thresholds, traveling through portals in its pages to search for her. Yearning for affection, Yuumi seeks friendly companions to partner with on her journey, protecting them with luminous shields and fierce resolve. While Book strives to keep her on task, Yuumi is often drawn to worldly comforts, such as naps and fish. In the end, however, she always returns to her quest to find her friend.
+Cassandra Lee Morris
+Jessica 'OwleyCat' Oyhenart
+Loot eligible
+Battle Principal
+View in 3D
+1350
+14.05.2019
+Following the disappearance of two principals, Yuumi has stepped in as the acting head of Durandal Academy until either individual can be found and re-instated. As a powerful channeler of magic, she uses the academic registry book as a focus object to generate apocalyptic levels of energy… often while perched on a terrified student's head.
+Cassandra Lee Morris
+Esben Lash Rasmussen
+Battle Academia
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Battle Principal Yuumi Chromas
+Citrine
+Formal
+Granite
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Heartseeker
+View in 3D
+1350
+04.02.2020
+Yuumi's always looking for what cats love: a belly full of fish and a warm lap to curl up on. But with the romantic mood captivating even Book, Yuumi knows the only thing to set her heart purring will be a very precise number of pets.
+Cassandra Lee Morris
+Esben Lash Rasmussen
+Heartbreakers
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Heartseeker Yuumi Chromas
+Aquamarine
+Catseye
+Citrine
+Granite
+Pearl
+Ruby
+Tanzanite
+Yuubee
+View in 3D
+1350
+04.03.2021
+Hey… there's a bee on you.
+Cassandra Lee Morris
+Esben Lash Rasmussen
+Bees!
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Yuubee Chromas
+Emerald
+Obsidian
+Pearl
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Bewitching
+View in 3D
+1350
+07.10.2021
+Yuumi pierces the protective bubble surrounding her prey, readying a pounce as it plops to the ground. She ponders for a moment: if a pumpkin-cat eats a pumpkin-fish, is that too much pumpkin? Is there even such a thing as too much pumpkin?
+Cassandra Lee Morris
+Svetlana Tigai, West Studio
+Bewitching
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Bewitching Yuumi Chromas
+Aquamarine
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sandstone
+EDG
+View in 3D
+1350
+12.05.2022
+Honoring Meiko's winning performance as Yuumi during the 2021 World Championship.
+Cassandra Lee Morris
+Bo 'chenbowow' Chen
+World Champions: 2021
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+EDG Yuumi Chromas
+Elite
+Tenfold Triumph
+Shiba
+View in 3D
+1350
+06.04.2023
+Something about this smol, dainty dog doesn't feel right... Wait, did it just hiss at the audience?
+Cassandra Lee Morris
+Ina Wong, West Studio
+Cats Versus Dogs
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Shiba Yuumi Chromas
+Amethyst
+Aquamarine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Turquoise
+Cyber Cat
+View in 3D
+1350
+17.07.2024
+When Jinx stumbled onto an old Primordian program, she couldn't help but tinker with it, creating what would become the sentient digital cat behind the Anima Squad interface: Yuum.ai! Now inhabiting a shiny new hologram body, everyone's favorite online helper, bug swatter, and demander of head pats can hop into battle alongside her allies.
+Cassandra Lee Morris
+Julia Yurtsev
+Anima Squad
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Cyber Cat Yuumi Chromas
+Amethyst
+Catseye
+Emerald
+Meteorite
+Nightwire
+Override
+Pearl
+Rose Quartz
+Ruby
+Turquoise
+Prestige Cyber Cat
+View in 3D
+Special
+17.07.2024
+Bringing your pampered pet as a plus one to A-list events is all the rage, but sometimes you don't want to have to worry about cat hair. No problem, because this latest model of Cyber Cat Yuumi is here to prove that they call it a “catwalk” for a reason!
+Cassandra Lee Morris
+Su Fu, Kudos Productions
+Anima Squad
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Cyber Cat
+. Store variants are discounted for multiple purchases.
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.23
+You and Me!
+Bug Fix:
+Attempting to attach on an allied
+Neeko
+disguised as
+Shaco's
+Jack in the Box
+no longer causes both the ability and Yuumi's movement to become invalid until Yuumi has died.
+[2]
+V14.20
+You and Me!
+Recast targeting forgiveness is now handled at the engine-level rather than the script-level.
+New Effect:
+Initial cast now has a forgiveness radius of 175 units.
+V14.14
+You and Me!
+Bug Fix:
+Can no longer be used on allies without having vision of them.
+V14.12
+Zoomies
+Cooldown reduced to 10 seconds at all ranks from 12 / 11.
+5
+/ 11 / 10.
+5
+/ 10.
+Final Chapter
+Base heal per hit increased to 35 / 50 / 65 from 25 / 40 / 55.
+Best Friend base heal per hit increased to 45.
+5
+/ 65 / 84.
+5
+from 32.
+5
+/ 52 / 71.
+5
+.
+V14.9
+Stats
+Gameplay radius reduced to 55 units from 65.
+Pathing radius reduced to 30 units from 35.
+Selection radius reduced to 100 units from 120.
+V13.23
+General
+Now replaces
+Glacial Augment
+with
+First Strike
+.
+V13.21
+Prowling Projectile
+Damage now triggers
+Yuumi's
+own damage effects but still grants kill credit to the ally applying it.
+V13.15
+Battle Principal Yuumi
+and
+Heartseeker Yuumi
+Prowling Projectile
+Bug Fix:
+VFX now correctly adjusts to the size of the
+Anchor
+.
+Final Chapter
+Bug Fix:
+VFX now correctly adjusts to the size of the
+Anchor
+.
+V13.12
+You and Me!
+Heal and shield power changed to 5 / 7.
+5
+/ 10 / 12.
+5
+/ 15% from
+10% − 20% (based on level)
+.
+Zoomies
+Base bonus attack speed reduced to 25 / 27.
+5
+/ 30 / 32.
+5
+/ 35% from 35% at all ranks.
+Base shield reduced to 80 / 105 / 130 / 155 / 180 from 90 / 120 / 150 / 180 / 210.
+Final Chapter
+Base heal per hit reduced to 25 / 40 / 55 from 35 / 50 / 65.
+V13.8
+Feline Friendship
+Bug Fix:
+Now properly grants stacks from champion kills to the ally that is
+attached
+to.
+Prowling Projectile
+Bug Fix:
+Expiration SFX is no longer audible from the fog of war.
+V13.7
+Feline Friendship
+Bug Fix:
+Passive buff SFX now properly plays for enemies that are attacked while not in vision.
+Bug Fix:
+Friendship stacks granted from kills for an allied champion are no longer doubled if
+Yuumi
+uses
+You and Me!
+to attach to that ally, then detach, and re-attach to them before they kill the enemy.
+Final Chapter
+Bug Fix:
+Now properly triggers
+Summon Aery
+when it affects an allied champion.
+V13.6
+General
+Bug Fix:
+Bewitching Yuumi
+and
+EDG Yuumi
+now properly plays SFX for her emotes.
+Bug Fix:
+Bewitching Yuumi
+now plays her death SFX correctly.
+Feline Friendship
+Bug Fix:
+Heal expiration SFX now properly plays.
+Bug Fix:
+Heal now properly triggers
+Summon Aery
+when it is granted to an allied champion using
+You and Me!
+.
+Prowling Projectile
+Cooldown changed to 6.
+5
+seconds at all ranks from 7.
+5
+/ 7.
+25
+/ 7 / 6.
+75
+/ 6.
+5
+/ 6.
+25
+.
+Mana cost increased to 50 / 60 / 70 / 80 / 90 / 100 from 50 / 55 / 60 / 65 / 70 / 75.
+Missile speed reduced to 850 from 1000.
+Empowered missile speed reduced to 1650 from 1900.
+Cast range reduced to 850 units from 1150.
+Bug Fix:
+Slow debuff while not attached now properly decays.
+Zoomies
+Bug Fix:
+Yuubee
+no longer plays the SFX at a loud volume.
+Final Chapter
+Overheal shield duration reduced to 1.
+5
+seconds from 3.
+Removed:
+No longer grants 20 / 40 / 60
+(+ 10% AP)
+bonus resistances to her
+Best Friend
+.
+Bug Fix:
+Now properly triggers
+Feline Friendship's
+heal if it hits an allied champion.
+Bug Fix:
+Now properly tracks the player's mouse cursor when the waves are being steered.
+Bug Fix:
+EDG Yuumi
+no longer plays the SFX at a loud volume.
+Bug Fix:
+EDG Yuumi
+now properly displays the trophy VFX for the final wave.
+V13.5
+- March 10th Hotfix
+Prowling Projectile
+Empowered base damage reduced to 80 / 135 / 190 / 245 / 300 / 355 from 80 / 140 / 200 / 260 / 320 / 380.
+Empowered slow reduced to 50 / 53 / 56 / 59 / 62 / 65% from 55 / 61 / 67 / 73 / 79 / 85%.
+You and Me!
+Bug Fix:
+Fixed a bug where both her and her Anchor would both stack
+Tear of the Goddess
+simultaneously if they both owned it.
+V13.5
+- Gameplay Update
+Stats
+Health growth reduced to 69 from 84.
+Base mana increased to 440 from 400.
+Feline Friendship
+- New Innate
+Innate:
+Periodically,
+Yuumi's
+next basic attack (which has
+50
+bonus
+range
+), or ability hit against enemy champions will
+heal
+her for
+25 − 110 (based on level)
+(+ 15% AP)
+. If she is
+attached
+to an ally within 4 seconds, they are healed for the same amount.
+Innate:
+While
+attached
+to an ally,
+Yuumi
+grants them 2 permanent
+Friendship
+stacks for killing enemy champions and minions. The ally with the highest
+Friendship
+stacks becomes
+Yuumi's
+Best Friend
+, which empowers her abilities with additional effects while she is
+attached
+to them.
+Static Cooldown:
+20 − 10 (based on level)
+seconds.
+Prowling Projectile
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 / 75 from 90 at all ranks.
+Cooldown changed to 7.
+5
+/ 7.
+25
+/ 7 / 6.
+75
+/ 6.
+5
+/ 6.
+25
+seconds from 13.
+5
+/ 12 / 10.
+5
+/ 9 / 7.
+5
+/ 6.
+Missile width reduced to 60 units from 65.
+New Effect:
+Now reveals champions hit for 1 second.
+Base damage increased to 60 / 90 / 120 / 150 / 180 / 210 from 50 / 80 / 110 / 140 / 170 / 200.
+AP ratio reduced to
+20% AP
+from
+30% AP
+.
+Empowered base damage increased to 80 / 140 / 200 / 260 / 320 / 380 from 60 / 100 / 140 / 180 / 220 / 260.
+Empowered AP ratio reduced to
+35% AP
+from
+40% AP
+.
+Channel duration reduced to 1.
+35
+seconds from 2.
+Removed:
+No longer deals
+3 / 4.
+2
+/ 5.
+4
+/ 6.
+6
+/ 7.
+8
+/ 9% of the target's
+current
+health
+if empowered, capped at
+50 − 300 (based on level)
+against non-champions.
+New Effect:
+Empowered slow now decays over the duration.
+New Effect:
+Slow is now increased to 55 / 60 / 65 / 70 / 75 / 80% for 2 seconds if empowered.
+New Effect:
+While attached and after 1.
+35
+seconds of flight, the missile becomes empowered and accelerates in its current direction.
+Best Friend Bonus:
+Slow will always be empowered against champions and hitting a champion will grant her
+Best Friend
+10 / 12 / 14 / 16 / 18 / 20
+(+ 10% AP)
+bonus
+magic damage
+on-hit for 5 seconds, increased by
+0% − 75% (based on Anchor's critical strike chance)
+.
+You and Me!
+Removed:
+No longer grants herself or her ally 12 / 14 / 16 / 18 / 20
+(+ 6 / 7 / 8 / 9 / 10%)
+adaptive force.
+Removed:
+No longer counts as a buff for
+Summon Aery
+.
+Best Friend Bonus:
+She gains
+10% − 20% (based on ally's level)
+heal and shield power and her
+Best Friend
+gains 3 / 5 / 7 / 9 / 11
+(+ 4% AP)
+on-hit healing, affected by her heal and shield power.
+Zoomies
+Removed:
+No longer heals for 70 / 90 / 110 / 130 / 150
+(+ 30% AP)
+.
+New Effect:
+Now shields for 90 / 120 / 150 / 180 / 210
+(+ 30% AP)
+for 3 seconds.
+Mana cost changed to 80 / 90 / 100 / 110 / 120 from 40 / 45 / 50 / 55 / 60
+(+ 12%
+maximum
+mana)
+.
+Bonus attack speed changed to 35% at all ranks from 25 / 30 / 35 / 40 / 45%.
+New Effect:
+Bonus attack speed now scales with
+8% per 100 AP
+.
+New Effect:
+Bonus movement speed now lasts as long as the shield persists, instead of 3 seconds.
+New Effect:
+Now restores 20 / 24 / 28 / 32 / 36 mana to her
+Anchor
+, increased by
+0% − 100% (based on Anchor's
+missing
+mana)
+.
+Updated icon.
+Final Chapter
+Number of waves reduced to 5 from 7.
+Duration unchanged.
+Wave interval time increased to 0.
+7
+seconds from 0.
+5
+.
+New Effect:
+Can now steer the direction of the waves with her mouse if initially cast while attached. This bonus is lost if she detaches.
+Cooldown increased to 120 / 110 / 100 seconds from 110 / 100 / 90.
+Base damage per wave increased to 75 / 100 / 125 from 60 / 80 / 100.
+New Effect:
+Now heals her
+Anchor
+and allies hit for 35 / 50 / 65
+(+ 15% AP)
+per wave. Excess healing is converted into a shield that persists until 3 seconds after the ability ends.
+Removed:
+No longer roots champions hit by 3 waves for 1.
+25
+seconds.
+New Effect:
+Now slows enemies hit by 10% for 1.
+25
+seconds, increased by 10% per subsequent wave.
+Best Friend Bonus:
+Her
+Best Friend
+gains 30% increased healing from waves and 20 / 40 / 60
+(+ 10% AP)
+bonus
+armor
+and
+bonus
+magic resistance
+for the duration of the ability.
+Trivia
+[
+edit
+|
+edit source
+]
+The icon for
+You and Me!
+is reused for the
+Teamfight Tactics
+item
+Yuumi
+, which is named after her.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Enchanter
+Controllers
+are defensive casters that oversee the battlefield by protecting and opening up opportunities for their allies.
+Enchanters
+focus on amplifying their allies' effectiveness by directly augmenting them and defending them from incoming threats. Enchanters themselves are often quite fragile and bring relatively low damage to the table, meaning they really only shine when grouped together with others.
+Examples
+Janna
+Sona
+Soraka
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+You and Me!
+STATIC CD:
+10 / 5 / 0 (based on level)
+Passive:
+While
+Yuumi
+is
+attached
+, she is
+untargetable
+and casts her abilities from the
+Anchor's
+position, empowering them with additional effects.
+Active:
+Yuumi
+dashes
+to the target allied champion to
+attach
+to them.
+You and Me!
+can be recast while attached.
+Recast:
+Yuumi
+detaches from her
+Anchor
+and
+dashes
+to the target allied champion to
+attach
+to them. If this is cast without a target, she will
+dash
+out to detach.
+You and Me!
+is placed on a short
+cooldown
+if
+Yuumi
+becomes
+immobilized
+or
+grounded
+.
+Best Friend
+Bonus:
+Yuumi
+gains heal and shield power and her
+Best Friend
+gains on-hit healing.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Final Chapter
+COOLDOWN:
+120 / 110 / 100
+Active:
+Yuumi
+channels
+for a short time to barrage 5 waves that deal
+magic damage
+to enemies hit and heal her
+Anchor
+and allies hit. Excess healing is converted into a shield.
+Enemy
+champions
+hit will be briefly
+slowed
+.
+Yuumi
+can move during
+Final Chapter
+.
+Attached
+Bonus:
+Yuumi
+can steer the direction of the waves with her mouse.
+Best Friend
+Bonus:
+Her
+Best Friend
+receives increased healing from each wave.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Feline Friendship
+STATIC CD:
+20 − 10 (based on level)
+Innate:
+Periodically,
+Yuumi's
+next basic attack or ability hit against enemy champions will
+heal
+her. If she is
+attached
+to an ally within a short time, they are healed as well.
+Innate:
+While
+attached
+to an ally,
+Yuumi
+grants them permanent
+Friendship
+stacks for killing enemy champions and minions. The ally with the highest
+Friendship
+stacks becomes
+Yuumi's
+Best Friend
+, which empowers her abilities while she is
+attached
+to them.
+League of Legends content
+Standard sight
+Standard sight
+reveals units through
+fog of war
+and
+brush
+, but
+not
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Enchantment redirection
+A certain group of damaging abilities called
+enchantments
+or
+empowerments
+require interaction of an
+empowerer
+, with an
+ally
+hitting an enemy. Enchantments commonly include mark detonations or
+buffs
+given to allies. The credit for an applied enchantment is directed in the following ways:
+Any damage dealt through the ally by the enchantment is credited to the empowerer instead of the ally. Effects that can trigger on-damage instances of the empowerer (e.g.
+Summon Aery
+;
+Morellonomicon's
+Grievous Wounds
+on magic damage; etc.) will trigger and also be credited to the empowerer. For the empowerer's redirected damage only, the ally will apply the empowerer's damage modifiers (e.g.
+magic penetration
+).
+Any unit
+kill
+achieved by the ally having applied the empowerer's redirected damage, is credited to the ally instead of the empowerer.
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Removed content
+League of Legends content
+You and Me!
+STATIC CD:
+10 / 5 / 0 (based on level)
+Passive:
+While
+Yuumi
+is
+attached
+, she is
+untargetable
+and casts her abilities from the
+Anchor's
+position, empowering them with additional effects.
+Active:
+Yuumi
+dashes
+to the target allied champion to
+attach
+to them.
+You and Me!
+can be recast while attached.
+Recast:
+Yuumi
+detaches from her
+Anchor
+and
+dashes
+to the target allied champion to
+attach
+to them. If this is cast without a target, she will
+dash
+out to detach.
+You and Me!
+is placed on a short
+cooldown
+if
+Yuumi
+becomes
+immobilized
+or
+grounded
+.
+Best Friend
+Bonus:
+Yuumi
+gains heal and shield power and her
+Best Friend
+gains on-hit healing.
+League of Legends content
+Zoomies
+COOLDOWN:
+10
+Active:
+Yuumi
+shields
+herself and gains
+bonus
+movement speed
+and
+bonus
+attack speed
+for a short time.
+Attached
+Bonus:
+Zoomies
+affects the
+Anchor
+instead of
+Yuumi
+and additionally restores
+mana
+to the
+Anchor
+.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Attached
+Attached
+refers to the state of a unit whose movement is bound entirely to another object, such as a unit or missile. They will be at the current location of the unit they are attached to at all times, or at a specific offset to that location.
+A unit can either attach themselves to another unit or attach another unit to themselves. In any case, the unit that has units attached to them can move those units by any means of movement, whether it be by pathing (movement commands), displacement (
+dashes
+and
+forced displacement
+), or
+blinks
+. The unit that is being attached to another unit however cannot move from their current location by themselves by any means, including the use of the aforementioned movement methods.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Attached
+Attached
+refers to the state of a unit whose movement is bound entirely to another object, such as a unit or missile. They will be at the current location of the unit they are attached to at all times, or at a specific offset to that location.
+A unit can either attach themselves to another unit or attach another unit to themselves. In any case, the unit that has units attached to them can move those units by any means of movement, whether it be by pathing (movement commands), displacement (
+dashes
+and
+forced displacement
+), or
+blinks
+. The unit that is being attached to another unit however cannot move from their current location by themselves by any means, including the use of the aforementioned movement methods.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Immobilize
+Immobilized
+units cannot control their movement. The following crowd control effects
+immobilize
+the unit:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Root
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Impaired movement
+is a similar term that, in addition to the above, also refers to units that are
+slowed
+.
+League of Legends content
+Ground
+A unit that is
+grounded
+is unable to activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Grounded
+units can still be displaced.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Ground
+is the only type of
+crowd control
+that is most commonly found in persistent area of effects, which will reapply the status effect continuously.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Projectile
+A
+projectile
+or
+missile
+is any entity not classified as a unit (
+champion
+,
+minion
+,
+monster
+, etc.
+) that travels at any given velocity.
+Moving units are
+not
+considered projectiles under any circumstance (
+including
+dashing
+units,
+airborne
+units, or units thrown by some abilities such as
+Force of Will
+or
+Roar of the Slayer
+.
+).
+Braum's
+Unbreakable
+,
+Samira's
+Blade Whirl
+, and
+Yasuo's
+Wind Wall
+can block, destroy and / or stop projectiles.
+Some
+ranged
+basic attacks (
+including
+turrets
+) and abilities don't use projectiles and will bypass projectile-blocking effects.
+Some abilities will
+destroy
+all currently incoming homing projectiles.
+League of Legends content
+Knockdown
+Knockdown
+only affects units that are performing a
+dash
+or being displaced by an
+airborne
+effect. A unit that is
+knocked down
+has its
+dash
+or
+displacement
+interrupted and is placed on the ground instantly.
+Knockdown
+is not a
+status effect
+.
+Interrupts:
+Interrupts all
+dashes
+and
+airborne effects
+(displacement
+and
+status effects).
+Knock ups
+will not have their
+airborne
+status removed if there is no sourced debuff, but their displacement still ends.
+Reduction:
+The effect is instantaneous.
+There is nothing to reduce.
+Resist:
+Resisted by
+crowd control immunity
+and
+displacement immunity
+.
+Removal:
+The effect is instantaneous.
+There is nothing to remove.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Polymorph
+A unit that is
+polymorphed
+is
+silenced
+and turned into a helpless critter.
+
+A unit that is
+silenced
+is unable to cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Polymorph
+combines
+silence
+with additional effects; it is the signature effect of
+Lulu's
+Whimsy
+, which also
+disarms
+and reduces the target's movement speed for the duration.
+Interrupts:
+Interrupts all
+attack windups
+(including
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Prowling Projectile
+COOLDOWN:
+6.
+5
+Active:
+Yuumi
+fires an errant missile in the target direction that deals
+magic damage
+to the first enemy hit and briefly
+slows
+the target if they were a champion.
+Attached
+Bonus:
+Yuumi
+channels
+briefly to steer the missile, after which it accelerates to deal increased damage and apply a stronger slow to champions.
+Best Friend
+Bonus:
+Always applies the stronger
+slow
+and grants her
+Best Friend
+bonus on-hit damage for a few seconds.
+References
+[
+edit
+|
+edit source
+]
+↑
+Yuumi's profile page
+at
+LeagueOfLegends.com
+↑
+Youtube — Lightnessx (7 November 2024)
+DO NOT attach to neeko disguised as Shaco box

@@ -1,0 +1,3118 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Pyke
+the Bloodharbor Ripper
+Release date
+2018-05-31
+Last changed
+V14.20
+Class(es)
+Assassin
+Catcher
+Legacy
+Support
+Assassin
+Position(s)
+Support
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+2
+Toughness
+1
+Control
+3
+Mobility
+3
+Utility
+1
+Style
+Difficulty
+Pyke
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Pyke
+Base statistics
+Edit
+Health
+670
++110
+Mana
+415
++50
+Health regen. (per 5s)
+7
++0.5
+Mana regen. (per 5s)
+8
++1
+Armor
+43
++4.7
+Attack damage
+62
++2
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+150
+Attack speed
+Base AS
+0.667
+Attack windup
+20%
+AS ratio
+N/A
+Bonus AS
++2.5
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+400
+Special statistics
+Damage Dealt
++10%
+Damage Received
+-5%
+Tenacity & Slow Resist
++20%
+Damage Dealt
++5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
+-5%
+Damage Dealt
++0%
+Damage Received
+-5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Gift of the Drowned Ones
+EFFECT RADIUS:
+1500
+Innate:
+Pyke
+gains
+attack damage
+equal to a portion of his
+bonus health
+.
+Innate:
+While nearby several enemy
+champions
+,
+Pyke
+stores
+grey health
+when receiving damage from them.
+Pyke
+can
+heal
+himself by consuming grey health while hidden.
+Pyke's
+maximum health
+cannot increase except by
+leveling
+.
+Innate:
+Pyke's
+maximum
+health
+cannot increase except through
+growth (per level)
+, instead he gains
+「
+1
+bonus
+attack damage
+per 14
+bonus
+health
+. 」
+「
+bonus
+attack damage
+equal to
+7.
+143
+% of
+bonus
+health
+. 」
+Innate:
+Pyke
+gains
+1
+bonus
+movement speed
+while in the river.
+Innate:
+Pyke
+stores 9%
+(+ 0.
+2
+% per 1 Lethality)
+of the
+post-mitigation damage
+he takes from enemy
+champions
+as
+grey health
+on his
+health bar
+, increased to 40%
+(+ 0.
+4
+% per 1 Lethality)
+while there are two or more
+visible
+enemy champions nearby. He can store up to 80
+(+ 800%
+bonus
+AD)
+grey health
+, with an upper cap of
+55% of his
+maximum
+health
+.
+While
+Pyke
+is not
+visible
+to enemies, he rapidly consumes his
+grey health
+to
+heal
+for the same amount.
+Info
+Targeting input
+Passive
+Game elements that increase health based on the champion's health (e.g
+Overgrowth
+) will increase the health before getting converted by
+Gift of the Drowned Ones
+, thus granting increased
+bonus AD
+.
+Spirit Visage
+and
+Grievous Wounds
+take effect after
+Gift of the Drowned Ones's
+healing cap.
+Pyke's
+grey health
+does not have a time limit, and will stay on his
+health bar
+until
+Pyke
+leaves enemy vision or dies.
+Since
+Pyke's
+maximum
+health cannot be increased,
+Gift of the Drowned Ones
+reaches the upper cap of
+55% of
+maximum
+health
+at
+40.
+25
+− 180.
+5
+(based on level)
+bonus
+attack damage
+.
+Untargetable
+champions count towards
+Pyke's
+modified
+grey health
+storing.
+Amount of attack damage granted from list of items that grants health, converted with
+Gift of the Drowned Ones
+:
+This table is automatically generated based on the data from
+Module:ItemData/data
+.
+Item
+Cost
+Amount
+Availability
+Abyssal Mask
+Abyssal Mask
+2650
+21.4
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Bami's Cinder
+Bami's Cinder
+900
+10.7
+Nexus Blitz, Classic Summoner's Rift 5v5, All Random All Mid
+Black Cleaver
+Black Cleaver
+3000
+68.6
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Bloodsong
+Bloodsong
+400
+14.3
+Classic Summoner's Rift 5v5
+Bounty of Worlds
+Bounty of Worlds
+400
+14.3
+Classic Summoner's Rift 5v5
+Catalyst of Aeons
+Catalyst of Aeons
+1300
+25
+Nexus Blitz, Classic Summoner's Rift 5v5, All Random All Mid
+Celestial Opposition
+Celestial Opposition
+400
+14.3
+Classic Summoner's Rift 5v5
+Chempunk Chainsword
+Chempunk Chainsword
+3100
+77.1
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Cosmic Drive
+Cosmic Drive
+3000
+25
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Crystalline Bracer
+Crystalline Bracer
+800
+14.3
+Nexus Blitz, Classic Summoner's Rift 5v5, All Random All Mid
+Dark Seal
+Dark Seal
+350
+3.6
+Classic Summoner's Rift 5v5
+Dead Man's Plate
+Dead Man's Plate
+2900
+25
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Doran's Blade
+Doran's Blade
+450
+15.7
+Nexus Blitz, Classic Summoner's Rift 5v5
+Doran's Ring
+Doran's Ring
+400
+6.4
+Nexus Blitz, Classic Summoner's Rift 5v5
+Doran's Shield
+Doran's Shield
+450
+7.9
+Nexus Blitz, Classic Summoner's Rift 5v5
+Dream Maker
+Dream Maker
+400
+14.3
+Classic Summoner's Rift 5v5
+Echoes of Helia
+Echoes of Helia
+2200
+14.3
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Edge of Night
+Edge of Night
+3000
+67.9
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Experimental Hexplate
+Experimental Hexplate
+3000
+72.1
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Fimbulwinter
+Fimbulwinter
+2400
+39.3
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Force of Nature
+Force of Nature
+2800
+28.6
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Giant's Belt
+Giant's Belt
+900
+25
+Nexus Blitz, Classic Summoner's Rift 5v5, All Random All Mid
+Guardian's Blade
+Guardian's Blade
+950
+40.7
+Arena, All Random All Mid
+Guardian's Hammer
+Guardian's Hammer
+950
+35.7
+Arena, All Random All Mid
+Guardian's Horn
+Guardian's Horn
+950
+10.7
+Arena, All Random All Mid
+Guardian's Orb
+Guardian's Orb
+950
+10.7
+Arena, All Random All Mid
+Haunting Guise
+Haunting Guise
+1300
+14.3
+Nexus Blitz, Classic Summoner's Rift 5v5, All Random All Mid
+Heartsteel
+Heartsteel
+3000
+64.3
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Hextech Rocketbelt
+Hextech Rocketbelt
+2600
+25
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Hollow Radiance
+Hollow Radiance
+2800
+28.6
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Hullbreaker
+Hullbreaker
+3000
+75.7
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Iceborn Gauntlet
+Iceborn Gauntlet
+2900
+21.4
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Jak'Sho, The Protean
+Jak'Sho, The Protean
+3200
+25
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Kaenic Rookern
+Kaenic Rookern
+2900
+28.6
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Kindlegem
+Kindlegem
+800
+14.3
+Nexus Blitz, Classic Summoner's Rift 5v5, All Random All Mid
+Knight's Vow
+Knight's Vow
+2300
+14.3
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Liandry's Torment
+Liandry's Torment
+3000
+21.4
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Locket of the Iron Solari
+Locket of the Iron Solari
+2200
+14.3
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Mejai's Soulstealer
+Mejai's Soulstealer
+1500
+7.1
+Classic Summoner's Rift 5v5
+Mikael's Blessing
+Mikael's Blessing
+2300
+17.9
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Moonstone Renewer
+Moonstone Renewer
+2200
+14.3
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Morellonomicon
+Morellonomicon
+2950
+25
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Overlord's Bloodmail
+Overlord's Bloodmail
+3300
+69.3
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Phage
+Phage
+1100
+29.3
+Nexus Blitz, Classic Summoner's Rift 5v5, All Random All Mid
+Randuin's Omen
+Randuin's Omen
+2700
+25
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Redemption
+Redemption
+2300
+14.3
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Riftmaker
+Riftmaker
+3100
+25
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Rod of Ages
+Rod of Ages
+2600
+28.6
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Ruby Crystal
+Ruby Crystal
+400
+10.7
+Nexus Blitz, Classic Summoner's Rift 5v5, All Random All Mid
+Runic Compass
+Runic Compass
+400
+7.1
+Classic Summoner's Rift 5v5
+Rylai's Crystal Scepter
+Rylai's Crystal Scepter
+2600
+28.6
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Solstice Sleigh
+Solstice Sleigh
+400
+14.3
+Classic Summoner's Rift 5v5
+Spear of Shojin
+Spear of Shojin
+3100
+77.1
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Spectre's Cowl
+Spectre's Cowl
+1250
+14.3
+Nexus Blitz, Classic Summoner's Rift 5v5, All Random All Mid
+Spirit Visage
+Spirit Visage
+2700
+28.6
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Sterak's Gage
+Sterak's Gage
+3200
+28.6
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Stridebreaker
+Stridebreaker
+3300
+72.1
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Sundered Sky
+Sundered Sky
+3100
+68.6
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Sunfire Aegis
+Sunfire Aegis
+2700
+25
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Thornmail
+Thornmail
+2450
+10.7
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Titanic Hydra
+Titanic Hydra
+3300
+82.9
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Trailblazer
+Trailblazer
+2400
+17.9
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Trinity Force
+Trinity Force
+3333
+59.8
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Tunneler
+Tunneler
+1150
+32.9
+Nexus Blitz, Classic Summoner's Rift 5v5, All Random All Mid
+Unending Despair
+Unending Despair
+2800
+25
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Vigilant Wardstone
+Vigilant Wardstone
+2300
+17.9
+Classic Summoner's Rift 5v5
+Warmog's Armor
+Warmog's Armor
+3300
+71.4
+Nexus Blitz, Classic Summoner's Rift 5v5, All Random All Mid
+Watchful Wardstone
+Watchful Wardstone
+1100
+10.7
+Classic Summoner's Rift 5v5
+Winged Moonplate
+Winged Moonplate
+800
+14.3
+Nexus Blitz, Classic Summoner's Rift 5v5, All Random All Mid
+Winter's Approach
+Winter's Approach
+2400
+39.3
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+World Atlas
+World Atlas
+400
+2.1
+Classic Summoner's Rift 5v5
+Zaz'Zak's Realmspike
+Zaz'Zak's Realmspike
+400
+14.3
+Classic Summoner's Rift 5v5
+Zeke's Convergence
+Zeke's Convergence
+2200
+21.4
+Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage stored near one enemy changed to 30%.
+Base damage stored near multiple enemies changed to 60%.
+Edit
+Bone Skewer
+COST:
+70 / 75 / 80 / 85 / 90 Mana
+COOLDOWN
+:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8
+CAST TIME:
+0.
+25
+TARGET RANGE:
+400 − 1100 (based on channel time)
+EFFECT RADIUS:
+550
+WIDTH:
+140
+/
+200
+Active:
+Pyke
+charges
+up to a short time, increasing the
+range
+of his harpoon. After a brief period, it becomes empowered with a new effect.
+Bone Skewer
+can be recast within the duration, and will cancel automatically afterwards, refunding a portion of the
+mana cost
+.
+Recast:
+Pyke
+thrusts his blade in the target direction that deals
+physical damage
+to the closest enemy
+champion
+or closest enemy otherwise.
+Empowered Recast:
+Pyke
+hurls his harpoon in the target direction that deals
+physical damage
+to the first enemy hit and
+pulls
+them towards him. The target is then briefly
+slowed
+.
+Active:
+Pyke
+charges
+while being
+slowed
+by 20% for up to 3 seconds to increase
+Bone Skewer's
+range
+over the first second of the channel.
+Bone Skewer
+can be recast within the duration.
+Recast:
+Pyke
+hurls his harpoon in the target direction, becoming
+unable to act
+while it is in flight and dealing
+physical damage
+to the first enemy hit and
+pulling
+them, during which they are also
+revealed
+, then
+slowing
+them by 90% for 1 second.
+Physical Damage:
+100 / 150 / 200 / 250 / 300
+(+ 75%
+bonus
+AD)
+Releasing the ability within 0.
+4
+seconds causes
+Pyke
+to instead thrust his blade in the target direction, dealing the same damage to the closest enemy
+champion
+, or closest enemy otherwise.
+If the charge is
+interrupted
+or completes without reactivation,
+Bone Skewer
+is cancelled and the ability is put on
+full
+cooldown but refunds
+75% of the mana cost
+.
+Bone Skewer's
+mana cost
+is also refunded if it hits an enemy champion.
+Info
+Targeting input
+Auto
+/
+Direction
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+See Notes
+Disruption
+Interrupted
+Only the charged version of
+Bone Skewer
+will be
+intercepted
+.
+The pull can fling an enemy behind
+Pyke
+if the harpoon hits at close range.
+This ability will cast from wherever the caster is at the end of the cast time.
+The following table refers for interactions while
+Pyke
+is
+channeling
+:
+Type
+Charge channel
+Attacking
+Disabled
+Abilities
+Interrupts
+Movement
+Allowed
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled, but can use trinkets
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Disabled
+Teleport
+Recall
+Interrupted by
+Hexflash
+(Recasts)
+Interrupted by
+Death
+Cast-inhibiting effects
+The following table refers for interactions while
+Pyke
+is locked out from the harpoon being in flight:
+The lockout ends as soon as the missile fizzles from hitting a target or reaching maximum range, or being
+intercepted
+.
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 120 / 175 / 230 / 285 / 340.
+Cooldown changed to 9 / 8.
+5
+/ 8 / 7.
+5
+/ 7 seconds.
+Edit
+Ghostwater Dive
+COST:
+65 Mana
+COOLDOWN:
+14 / 13 / 12 / 11 / 10
+CAST TIME:
+none
+Detection Radius:
+600
+Active:
+Pyke
+submerges into water, entering
+camouflage
+and gaining a burst of
+movement speed
+for a few seconds. Nearby enemies are alerted of his presence. Attacking or casting abilities ends
+Ghostwater Dive
+immediately.
+Active:
+Pyke
+submerges into water for 5 seconds, entering
+camouflage
+and gaining
+45%
+(+ 2% per 1 Lethality)
+bonus
+movement speed
+that decays over the duration. Attacking or casting abilities ends
+Ghostwater Dive
+immediately.
+Enemy champions within 1500 units of
+Pyke
+are alerted of his presence and whether he can execute them with
+Death from Below
+.
+Dive alert.
+Execute alert.
+Info
+Targeting input
+Auto
+When an enemy is alerted, sharks will circle underneath their feet while a sound will be played to them that changes based on health threshold.
+Using a basic attack breaks the stealth at the end of the attack windup.
+Edit
+Phantom Undertow
+COST:
+65 Mana
+COOLDOWN:
+14 / 13 / 12 / 11 / 10
+CAST TIME:
+none
+TARGET RANGE:
+550
+EFFECT RADIUS:
+110
+WIDTH:
+110
+SPEED:
+3000
+Active:
+Pyke
+dashes in the target direction, leaving behind a phantom. After a brief period, the phantom homes back to
+Pyke
+to briefly
+stun
+enemies it passes through. Enemy
+champions
+hit also take
+physical damage
+.
+Active:
+Pyke
+dashes
+in the target direction, leaving behind a
+Phantom
+.
+After 1 second, the
+Phantom
+homes back to
+Pyke
+to
+stun
+enemies around it and those it passes through along the way for 1.
+25
+(+ 0.
+1
+per 10 Lethality)
+seconds. Enemy champions hit also take
+physical damage
+.
+Physical Damage:
+100 / 150 / 200 / 250 / 300
+(+ 100%
+bonus
+AD)
+Info
+Targeting input
+Direction
+Insufficient dash range
+Dash will gain bonus range through terrain.
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+The
+dash
+distance can be extended to up to 900 units (estimated) when targeting across terrain.
+Like most
+projectiles
+, the flying
+Phantom
+cannot hit targets whose
+center
+is behind the position it originates at or beyond the position it catches up to
+Pyke
+at, but the spell
+can
+hit targets behind its origin as long as their
+hitbox radius
+overlaps with the original unit
+Phantom's
+110-radius check at the end of its lifespan.
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 13 / 12 / 11 / 10 / 9 seconds.
+Edit
+Death from Below
+COST:
+100 mana
+COOLDOWN
+:
+100 / 85 / 70
+CAST TIME:
+0.
+5
+TARGET RANGE:
+750
+EFFECT RADIUS:
+125
+/
+282.
+5
+×  100
+Active:
+Pyke
+strikes the target location in a X pattern, which
+executes
+enemy
+champions
+hit that are
+at low health
+. Other enemies hit are instead dealt
+physical damage
+. If
+Death from Below
+hits an enemy
+champion
+,
+Pyke
+will
+blink
+to the location. If an enemy champion dies inside the X,
+Death from Below
+can be recast within a period of time at no cost. Each execution grants
+kill gold
+to both
+Pyke
+and the last assisting ally instead of the natural assist gold.
+Active:
+Pyke
+marks the target location with an
+X
+before striking it,
+executing
+enemy
+champions
+within the area that are below
+250 − 550 (based on level)
+(+ 80%
+bonus
+AD)
+(+ 1.
+5
+per 1 Lethality)
+health
+. Other enemies hit and enemy champions above the threshold are instead dealt
+「 50% of the amount as
+physical damage
+. 」
+「
+125 − 275 (based on level)
+(+ 40%
+bonus
+AD)
+(+ 0.
+75
+per 1 Lethality)
+physical damage
+. 」
+If
+Death from Below
+hits an enemy
+champion
+or at least one is
+killed
+inside the
+X
+by the
+execution
+or an ally,
+Pyke
+will
+blink
+to the center of the
+X
+. For the latter case
+Pyke
+can also recast the ability within 20 seconds at no cost.
+Each successful
+execution
+grants one
+Your Cut
+to the last assisting ally, instead of its natural
+assist
+gold
+. Otherwise,
+Pyke
+is granted a
+Your Cut
+for each enemy champion killed inside the
+X
+by an ally during
+Death from Below's
+cast time.
+"Sink with me..."
+Info
+Targeting input
+Location
+Damage type
+Type
+See Notes
+Sub-type
+Physical damage
+/
+True damage
+Minion Aggro
+See Notes
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Applies
+raw damage
+to executed targets and
+area damage
+to targets above the threshold.
+Death from Below's
+execute against an enemy champion will aggro nearby enemy minions.
+Death from Below
+cannot execute
+clones
+. They are always dealt 50%
+physical damage
+.
+If the target is in a
+zombie state
+, does not enter the
+death
+state, or is killed by the ability while
+above
+the execution threshold,
+Death from Below
+does not grant
+Your Cut
+nor the recast.
+Spell shield
+does not prevent
+Pyke
+from
+blinking
+.
+If an enemy champion dies inside the
+X
+during
+Death from Below's
+cast time,
+Pyke
+will be shown as having received an assist in the kill feed, but this will not trigger
+takedown
+effects.
+Death from Below
+cannot be
+interrupted
+;
+Pyke
+will always appear at the target location if enemy champions are caught inside the
+X
+even if he is moved (e.g. by being
+displaced
+) during the cast time.
+The only exception is if he is being
+suppressed
+, in which case he will not
+blink
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Damage to enemies above threshold changed to 60%.
+Your Cut
+gold changed to
+350
+.
+New Effect:
+Executing an enemy champion now grants
+Your Cut
+to the champion on the team who did not kill them.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Pyke (Collection)
+.
+Original
+View in 3D
+975
+31.05.2018
+Renowned harpooner from the slaughter docks of Bilgewater, Pyke should have met his death in the belly of a gigantic jaull-fish… and yet, he returned. Now, stalking the dank alleys and backways of his former hometown, he uses his new supernatural gifts to bring a swift and gruesome end to those who make their fortune by exploiting others—and a city that prides itself on hunting monsters now finds a monster hunting them.
+Darien Sills-Evans
+Victor '3rdColossus' Maury
+Loot eligible
+Transforming
+Sand Wraith
+View in 3D
+1350
+31.05.2018
+The vengeful ghost of an ancient caravan master betrayed by his guards, Pyke now lurks within the golden halls of the desert's remaining city-states. He hunts anyone and everyone who attracts his gaze, claiming they all condemned him to death.
+Darien Sills-Evans
+Mike Azevedo
+Guardian of the Sands
+Loot eligible
+Voice filter
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+Chromas
+Sand Wraith Pyke Chromas
+Catseye
+Obsidian
+Pearl
+Rose Quartz
+Sapphire
+Tanzanite
+Turquoise
+Blood Moon
+View in 3D
+1350
+10.01.2019
+A demonic spearfisher lurking within the darkness of the Blood Moon's mirror dimension, Pyke casts his hooked blade across an endless, liquid night, dragging demons up from the bottom of the world and into their human hosts. Inexorably tied to the Blood Moon, Pyke's sudden appearance in Ionia is a dire omen indeed…
+Darien Sills-Evans
+Viktor Titov, Grafit Studio
+Blood Moon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Blood Moon Pyke Chromas
+Aquamarine
+Citrine
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+PROJECT
+View in 3D
+1820
+01.08.2019
+An early PROJECT prototype, Pyke's untested upgrades left him violently unstable—too much so for his handlers, who junked him and threw his remains outside the walls of the City. Yet his cybernetic brain survived, rebuilding Pyke with salvaged scrap parts from all around him, and now their fragmented, overlapping memories mix with his own as they scream out for revenge.
+Darien Sills-Evans
+Bo 'chenbowow' Chen
+PROJECT
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Transforming
+Chromas
+PROJECT: Pyke Chromas
+Amethyst
+Aquamarine
+Obsidian
+Pearl
+Reckoning
+Rose Quartz
+Ruby
+Turquoise
+PsyOps
+View in 3D
+1350
+17.09.2020
+A member of the Black Rose Group's leadership and a powerful spiritual medium, Pyke's mastery of psychic power allows him to jump across the barrier separating the living and the dead. This process has slowly eaten at his mind, leaving him a half-deranged killer screaming at literal ghosts.
+Darien Sills-Evans
+Sean 'Raiko' Tay, West Studio
+Black Rose Group
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+PsyOps Pyke Chromas
+Emerald
+Hunter
+Obsidian
+Rose Quartz
+Ruby
+Sandstone
+Sapphire
+Tanzanite
+Sentinel
+View in 3D
+1350
+22.07.2021
+Pyke may seem an unlikely Sentinel to take up the oath, but Viego's name is next on his list. Pacified—for now—by the influence of Nagakabouros, the real danger is that he might snap at any moment, killing allies and enemies alike.
+Darien Sills-Evans
+Rayden Chen, West Studio
+Sentinels of Light
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Sentinel Pyke Chromas
+Aquamarine
+Citrine
+Emerald
+Pearl
+Resolute
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Ashen Knight
+View in 3D
+Special
+30.03.2022
+Condemned to death for petty crimes, then saved by the king and uplifted to glorious knighthood, Pyke served in the war against magic until the very end, only to be left alone in an ashen world without. Gripped by violent madness, he challenges all who pass, accusing them of being the ruler who abandoned him.
+Darien Sills-Evans
+Jeremy 'Jermu' Anninos
+Ashen Knights
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Ashen Knight Pyke Chromas
+Emberwoken
+Empyrean
+View in 3D
+1820
+03.11.2022
+Pyke remembers little before falling into the embrace of the Foreglow, only that he was defending his home. Waking in a new realm as the first Empyrean, he hears the whispers of other Pykes across the dimensions, taunting him from their homes. Why was his lost and not theirs? No answer will satisfy his searing rage, except vengeance.
+Darien Sills-Evans
+Nathaniel Himawan, West Studio
+Empyrean
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Transforming
+Chromas
+Empyrean Pyke Chromas
+Emerald
+Neon Flare
+Pearl
+Rose Quartz
+Ruby
+Turquoise
+Soul Fighter
+View in 3D
+1350
+20.07.2023
+This un-alived assailer has unfinished business: duking it out in the ring! Now, I can't say if returning from the dead proves the existence of the "Lands Beyond." (I don't get paid enough to PONDER MY EXISTENCE!) But if rumors are true, and this fighter's friend brought him back from the brink... then we're in for a HELL of a fight! Here's Pyke!
+Darien Sills-Evans
+Augusto Quirino, West Studio
+Soul Fighter
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Soul Fighter Pyke Chromas
+Citrine
+Emerald
+Limitless
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+Prestige Soul Fighter
+View in 3D
+Special
+20.07.2023
+Pyke's fashion-forward fit impresses not only the rich and famous at the Gala of Souls, but all those watching at home—and his fans from the Lands Beyond. The edgy aesthetics and glossy flame motifs all but guarantee him a spot on the list of any discerning judge. After all, if Pyke's not on your list, you'll end up on his...
+Darien Sills-Evans
+Yuyu Wong, Kudos Productions
+Soul Fighter
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Soul Fighter
+. Store variants are discounted for multiple purchases.
+Fright Night
+View in 3D
+1350
+25.09.2024
+Campers flail their way to shore, desperate to escape the deranged lifeguard dragging them to the depths. Cutting through chaos and frantic coughing, Pyke's waterlogged whistle pierces the air. Filled with dread, ready to accept their fate, the campers are met by the fishman giving them two thumbs up. They all survived the race!
+Darien Sills-Evans
+Ina Wong, West Studio
+Fright Night
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Fright Night Pyke Chromas
+Amethyst
+Catseye
+Emerald
+Ghoulish
+Pearl
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.20
+Gift of the Drowned Ones
+Bug Fix:
+No longer incorrectly reduces health upon consuming a
+Total Biscuit of Everlasting Will
+.
+V14.18
+General
+Bug Fix:
+Voice lines upon killing an champion and for execution through
+Death from Below
+are now properly played at the same time for enemy players.
+V14.17
+Stats
+Base armor reduced to 43 from 47.
+V14.14
+Bone Skewer
+Bug Fix:
+No longer pulls enemies to his current location instead of the missile's cast location.
+V14.9
+Ghostwater Dive
+Cooldown increased to 14 / 13 / 12 / 11 / 10 seconds from 12 / 11 / 10 / 9 / 8.
+Mana cost increased to 65 from 50.
+V14.3
+Stats
+Base armor increased to 47 from 45.
+Bone Skewer
+Bonus AD ratio increased to
+75%
+bonus
+AD
+from
+60%
+.
+Mana cost reduced to 70 / 75 / 80 / 85 / 90 from 74 / 78 / 82 / 86 / 90.
+Ghostwater Dive
+Base bonus movement speed increased to 45% from 40%.
+Movement speed lethality ratio increased to
+2% per 1 Lethality
+from
+1.
+5
+% per 1 Lethality
+.
+Phantom Undertow
+Base damage changed to 100 / 150 / 200 / 250 / 300 from 105 / 145 / 185 / 225 / 265.
+V13.19
+Stats
+Health growth increased to 110 from 104.
+Ghostwater Dive
+Cooldown reduced to 12 / 11 / 10 / 9 / 8 seconds from 12 / 11.
+5
+/ 11 / 10.
+5
+/ 10.
+V13.14
+Sand Wraith Pyke
+Ghostwater Dive
+Bug Fix:
+Now displays the correct VFX instead of the classic one.
+V13.4
+Death from Below
+Bug Fix:
+Your Cut
+no longer displays a sell price despite not being sellable.
+V13.3
+Gift of the Drowned Ones
+Bug Fix:
+Bonus health from
+Radiant Virtue's
+Guiding Light is now properly converted to attack damage during the entire effect rather than only in the first 0.
+5
+seconds of the duration.
+Phantom Undertow
+Base damage increased to 105 / 145 / 185 / 225 / 265 from 105 / 135 / 165 / 195 / 225.
+V12.23
+Empyrean Pyke
+Death from Below
+Distortion visual effects will now be disabled when
+Eye Candy
+is turned off in the game options.
+V12.17
+Death from Below
+Bug Fix:
+No longer goes on cooldown if the enemy within the
+X
+was killed by another ally.
+V12.10
+Stats
+Base health increased to 670 from 600.
+Health growth increased to 104 from 90.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Gift of the Drowned Ones
+Base damage stored reduced to 9% from 10%.
+Damage stored per lethality reduced to 0.
+2
+% from 0.
+25
+%.
+Base damage stored near multiple enemies reduced to 40% from 45%.
+Damage stored per lethality near multiple enemies reduced to 0.
+4
+% from 0.
+5
+%.
+Grey health upper cap reduced to
+55%
+maximum
+health
+from
+60%
+.
+Ghostwater Dive
+Bug Fix:
+Fixed a bug where casting and ending it during an a enemy
+Nocturne's
+Paranoia
+would remove the red tint effect from your screen.
+V12.9
+Gift of the Drowned Ones
+Base damage stored near multiple enemies increased to 45% from 40%.
+Bone Skewer
+Mana cost increased to 74 / 78 / 82 / 86 / 90 from 50 / 55 / 60 / 65 / 70.
+Mana cost refund increased to 75% from 50%.
+New Effect:
+Mana cost is now refunded if he hits an enemy champion.
+Bug Fix:
+Tooltip now properly notes tap casting also slows the target.
+Death from Below
+Cooldown reduced to 100 / 85 / 70 seconds from 120 / 100 / 80.
+Removed:
+No longer grants
+Your Cut
+to himself if he executes an enemy.
+Number of
+Your Cuts
+from assists reduced to 1 from 2.
+V12.4
+PsyOps Pyke
+Ghostwater Dive
+Warning SFX that is played for enemies below
+Death from Below's
+execution threshold has been adjusted for gameplay clarity.
+V11.24
+- December 15th Hotfix
+Gift of the Drowned Ones
+Base damage stored near multiple enemies increased to 40% from 35%.
+Bone Skewer
+Base damage increased to 100 / 150 / 200 / 250 / 300 from 85 / 135 / 185 / 235 / 285.
+V11.11
+General
+Bug Fix:
+Voice lines for opening the shop plays once again.
+V11.10
+Phantom Undertow
+Visual effect updated to more accurately display its width.
+Bug Fix:
+Fixed a bug where the hit visual effect wasn't showing for enemies.
+V11.9
+Death from Below
+Undocumented:
+Now damages non-champions even if a champion wasn't hit.
+V11.8
+Death from Below
+Undocumented:
+No longer damages non-champions if a champion wasn't hit.
+(bug)
+V11.6
+Phantom Undertow
+Cooldown reduced to 15 / 14 / 13 / 12 / 11 seconds from 15 at all ranks.
+V11.5
+- March 3rd Hotfix
+Gift of the Drowned Ones
+Bug Fix:
+Fixed a bug where
+untargetable
+enemies would not count towards the additional health regen he receives when he's near two or more enemies.
+V11.5
+Gift of the Drowned Ones
+New Effect:
+Now stores 10%
+(+ 0.
+25
+% per 1 Lethality)
+of damage taken as
+Grey Health
+, increased to 35%
+(+ 0.
+5
+% per 1 Lethality)
+if there are two or more enemies nearby.
+Removed:
+No longer stores
+25% − 50% (based on level)
+of damage taken as
+Grey Health
+.
+V10.18
+Bone Skewer
+Bug Fix:
+Can now properly cast it when he has the minimum required mana.
+V10.14
+Stats
+Magic resistance growth reduced to 1.
+25
+from 1.
+5
+.
+Armor growth reduced to 3.
+5
+from 5.
+Bone Skewer
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 70 at all ranks.
+Cooldown reduced to 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8 seconds from 12 / 11 / 10 / 9 / 8.
+Base damage increased to 85 / 135 / 185 / 235 / 285 from 75 / 125 / 175 / 225 / 275.
+Ghostwater Dive
+Bonus movement speed reduced to 40% at all ranks from 40 / 45 / 50 / 55 / 60%.
+Phantom Undertow
+Base damage increased to 105 / 135 / 165 / 195 / 225 from 95 / 125 / 155 / 185 / 215.
+V10.4
+Death from Below
+Bug Fix:
+Execute indicator now appears as intended and is properly visible.
+PROJECT: Pyke
+Ghostwater Dive
+Bug Fix:
+No longer misses its PROJECT HUD screen overlay.
+V10.2
+Bone Skewer
+Bug Fix:
+Casting it no longer makes him unresponsive for a few moments.
+V9.21
+Stats
+Health growth reduced to 90 from 100.
+Gift of the Drowned Ones
+Grey health stored reduced to
+25% − 50% (based on level)
+from
+30% − 81% (based on level)
+.
+V9.14
+Phantom Undertow
+New Effect:
+Now
+stuns
+minions and monsters.
+Does not deal damage to them.
+Death from Below
+New Effect:
+Now deals 50% reduced damage to enemies who aren't executed.
+New Effect:
+Now gains
+Your Cut
+upon killing an enemy with
+Death from Below
+.
+New Effect:
+Now instead gains 2 stacks of
+Your Cut
+if an ally kills an enemy while inside the X.
+New Effect:
+Death from Below's
+icon is now shown on
+Pyke's
+health bar while it can be cast for free.
+V9.13
+Bone Skewer
+Removed:
+No longer deals AoE damage. Now only damages the nearest enemy, prioritizing champions.
+Removed:
+The stab no longer deals 30% damage to minions and monsters beyond the closest.
+Stab attack damage reduced to 100% from 115%.
+Cooldown reduced to 12 / 11 / 10 / 9 / 8 seconds from 14 / 12.
+5
+/ 11 / 9.
+5
+/ 8.
+Ghostwater Dive
+Bonus movement speed increased to 40 / 45 / 50 / 55 / 60% from 40% at all ranks.
+Phantom Undertow
+Removed:
+No longer affects non-champions.
+V9.7
+Bone Skewer
+Cooldown reduced to 14 / 12.
+5
+/ 11 / 9.
+5
+/ 8 seconds from 16 / 14 / 12 / 10 / 8.
+Phantom Undertow
+Base stun duration increased to 1.
+25
+seconds from 1.
+1
+.
+V8.24b
+Stats
+Magic resistance growth reduced to 1.
+5
+from 2.
+Bone Skewer
+Stab damage to minions and monsters beyond the first reduced to 30% from 50%.
+Death from Below
+Base damage reduced to
+250 − 550 (based on level)
+from
+250 − 605 (based on level)
+.
+V8.22
+General
+Recommended items updated.
+Gift of the Drowned Ones
+Maximum grey health changed to 80
+(+ 800%
+bonus
+AD)
+(with an upper cap of
+60% of his
+maximum
+health
+) from
+25% − 50% (based on
+bonus
+attack damage)
+of his
+maximum
+health
+.
+Ghostwater Dive
+Mana cost reduced to 50 from 75.
+Bonus movement speed changed to 40%
+(+ 1.
+5
+% per 1 Lethality)
+from 60 / 65 / 70 / 75 / 80%
+(+ 4% per 100
+bonus
+AD)
+.
+Phantom Undertow
+Mana cost reduced to 40 from 50.
+Stun duration changed to 1.
+1
+(+ 0.
+1
+per 10 Lethality)
+from 1.
+1
+/ 1.
+2
+/ 1.
+3
+/ 1.
+4
+/ 1.
+5
+.
+Death from Below
+New Effect:
+Health threshold also scales with
+1.
+5
+per 1 Lethality
+.
+V8.19
+Death from Below
+Base damage increased to
+250 − 605 (based on level)
+from
+200 − 605 (based on level)
+.
+V8.13
+Stats
+Health growth reduced to 100 from 110.
+Armor growth increased to 5 from 4.
+Magic resistance growth increased to 2 from 1.
+25
+.
+Phantom Undertow
+Base damage reduced to 95 / 125 / 155 / 185 / 215 from 95 / 130 / 165 / 200 / 235.
+Bonus AD ratio increased to
+100%
+bonus
+AD
+from
+80%
+.
+Death from Below
+Base execute threshold changed to
+200 − 605 (based on level)
+from
+190 − 655 (based on level)
+.
+Bonus AD ratio increased to
+80%
+bonus
+AD
+from
+60%
+.
+V8.11
+- May 31st Hotfix
+Stats
+Base health regeneration increased to 7 from 5.
+Base mana increased to 415 from 380.
+Base armor increased to 45 from 42.
+Base attack damage increased to 62 from 60.
+V8.11
+- Added
+Gift of the Drowned Ones
+(Innate)
+Innate:
+Pyke's
+health cannot be improved except through growth (per level), instead he gains
+(1
+bonus
+attack damage
+per 14
+bonus
+health)
+.
+Pyke
+also stores
+30% − 81% (based on level)
+of the damage he takes from enemy champions as
+Grey Health
+on his
+health bar
+, up to
+25% − 50% (based on
+bonus
+attack damage)
+of his
+maximum
+health
+.
+When
+Pyke
+is unseen by enemies, he rapidly consumes his
+Grey Health
+to
+heal
+for the same amount.
+Bone Skewer
+(Q)
+First Cast:
+Pyke
+charges for up to 3 seconds, increasing
+Bone Skewer's
+range while being
+slowed
+by 20%.
+Second Cast:
+After a brief delay,
+Pyke
+hurls his harpoon forward, dealing 75 / 125 / 175 / 225 / 275
+(+ 60%
+bonus
+AD)
+physical damage to the first enemy struck,
+pulling
+them a fixed distance towards him and
+slowing
+them by 90% for 1 second.
+Releasing the ability within 0.
+5
+seconds causes
+Pyke
+to thrust his harpoon forward in a line, dealing 115% damage and
+slowing
+enemies by 90% for 1 second.
+If
+Pyke
+is interrupted during the charge, or the charge completes without reactivation,
+Bone Skewer
+is cancelled and the ability is put on full cooldown but refunds half the mana cost.
+Target Range:
+400 / 1100
+Mana Cost:
+70.
+Cooldown:
+16 / 14 / 12 / 10 / 8 seconds.
+Ghostwater Dive
+(W)
+Active:
+Pyke
+enters
+camouflage
+and gains 60 / 65 / 70 / 75 / 80%
+(+ 4% per 100
+bonus
+AD)
+bonus
+movement speed decaying over 5 seconds.
+Attacking or casting abilities immediately ends
+camouflage
+.
+Mana Cost:
+75.
+Cooldown:
+12 / 11.
+5
+/ 11 / 10.
+5
+/ 10 seconds.
+Phantom Undertow
+(E)
+Active:
+Pyke
+dashes, leaving behind a drowned phantom.
+After
+1 second
+, the phantom returns to
+Pyke
+, dealing 95 / 130 / 165 / 200 / 235
+(+ 80%
+bonus
+AD)
+physical damage and
+stunning
+enemy champions it passes through for 1.
+1
+/ 1.
+2
+/ 1.
+3
+/ 1.
+4
+/ 1.
+5
+seconds.
+Mana Cost:
+50.
+Cooldown:
+15 seconds.
+Death from Below
+(R)
+Active:
+Pyke
+strikes in an X-shaped area, executing enemies below
+190 − 655 (based on level)
+(+ 60%
+bonus
+AD)
+health while dealing the same amount as physical damage to enemies not within the threshold for execution.
+If
+Death from Below
+hits an enemy champion,
+Pyke
+will blink to the center of the X. If an enemy champion dies in the X, the assisting ally is granted
+full kill gold
+, and
+Pyke
+gains the ability to recast within 20 seconds at no cost.
+Mana Cost:
+100.
+Cooldown:
+120 / 100 / 80 seconds.
+Trivia
+[
+edit
+|
+edit source
+]
+Pyke
+is one of 21 champions without a single
+ability power
+ratio on any ability:
+Aatrox
+,
+Camille
+,
+Darius
+,
+Dr. Mundo
+,
+Draven
+,
+Garen
+,
+K'Sante
+,
+Kayn
+,
+Kled
+,
+Naafiri
+,
+Nilah
+,
+Olaf
+,
+Riven
+,
+Samira
+,
+Sett
+,
+Talon
+,
+Urgot
+,
+Xayah
+,
+Yone
+, and
+Zed
+.
+Pyke's name is a pun on the
+pole weapon
+and the
+predatory fish
+, both from
+PIE
+root
+*(s)pey-
+"sharp, pointy stick".
+[2]
+Using the
+Toggle
+key bind (default [Ctrl] + [5]) will display Pyke's critical strike animation on his next attack.
+Bone Skewer
+can be toggled to stop glowing with the
+Toggle
+key bind (default [Ctrl] + [5]). It will revert to glowing at 1:00 or whenever he respawns.
+Pyke's dance references the traditional
+Māori
+Haka
+warrior dance.
+A side-by-side comparison can be seen
+here
+.
+He shares this dance with
+Rengar
+and
+K'Sante
+.
+Bone Skewer's
+shape is possibly based on those of
+harpoon
+-heads carved from
+bone
+,
+antler
+, &
+walrus ivory
+,
+[3]
+[4]
+though his is made of metal and magnified to be effective against gigantic in-universe sea-monsters.
+Pyke is one of the two champions in the game whose health can not be improved except through growth per level, the other being
+Kled
+.
+Pyke quite coincidentally shares his name with a
+location
+in George R.R. Martin's novel series
+A Song of Ice and Fire
+.
+Namely,
+Pyke
+, the capital of the Iron Islands, an island state within the continent of Westeros;
+Pyke's
+inhabitants also worship a deity called "the Drowned God".
+Gift of the Drowned Ones
+grants
+1
+bonus
+movement speed
+to Pyke while in
+river
+.
+Gift of the Drowned Ones
+is 93.75%
+gold efficient
+.
+1 HP = 2.66... gold. (calculated with
+Ruby Crystal
+. 400g / 150 hp = 2.66)
+1 AD = 35 gold. (calculate with
+Long Sword
+. 350g / 10ad = 35g)
+AD/HP (35 / 2.66) = 13.125 (this is to find where AD=HP, meaning 13.125 HP is equal to 1 AD. The equation would be 13.75[HP] = [AD])
+Pyke's passive converts every 14 bonus hp into 1 ad. so if you divide 13.125 by 14, you get 0.9375, meaning each bonus HP you buy is only 93.75% the gold value you get for each AD.
+100% efficiency would be 8 AD for every 105 HP.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Assassin
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Assassins
+specialize in infiltrating enemy lines with their unrivaled mobility to quickly dispatch high-priority targets. Due to their mostly melee nature, Assassins must put themselves into dangerous positions in order to execute their targets. Luckily, they often have defensive tricks up their sleeves that, if used cleverly, allow them to effectively avoid incoming damage.
+Examples
+Akali
+Evelynn
+Zed
+League of Legends content
+Catcher
+Controllers
+are defensive casters that oversee the battlefield by protecting and opening up opportunities for their allies.
+Catchers
+specialize in locking down opponents or, in some cases, entire battlefields by creating intense zones of threat that only foolish enemies would dare wade through. Although not as reliant on their friends as Enchanters, the fragile Catchers greatly benefit from allied presence - both to deter incoming danger and to help capitalize on targets they've locked down.
+Examples
+Blitzcrank
+Morgana
+Zyra
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Grievous Wounds
+Grievous Wounds
+is a debuff that reduces self-healing, incoming healing, and health regeneration by 40%.
+Grievous Wounds
+does not
+stack
+, the duration of the
+debuff
+will overlap on separate effects and refresh on the same effect.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Lockout
+A champion that is
+locked out
+is unable to perform certain actions such as casting abilities, moving, or attacking. The prevented actions can vary per instance.
+Lockout does not interact with
+crowd control
+mechanics unless otherwise stated.
+League of Legends content
+Standard sight
+Standard sight
+reveals units through
+fog of war
+and
+brush
+, but
+not
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Interrupt
+Interrupt
+is a quality of crowd control that
+interrupts
+an in-progress effect, preventing its completion or causing the effect to go off at an
+interrupted
+state.
+The following crowd control effects
+interrupt
+channeled and charged
+abilities (unless otherwise noted by the ability):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+The following crowd control effects
+interrupt
+dashes
+:
+Airborne
+Knockdown
+Stasis
+Basic attack windups
+are
+interrupted
+by all forms of crowd control that inhibit attacking.
+Ground
+and
+Root
+only
+interrupt
+channeled and charged movement abilities.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Projectile
+A
+projectile
+or
+missile
+is any entity not classified as a unit (
+champion
+,
+minion
+,
+monster
+, etc.
+) that travels at any given velocity.
+Moving units are
+not
+considered projectiles under any circumstance (
+including
+dashing
+units,
+airborne
+units, or units thrown by some abilities such as
+Force of Will
+or
+Roar of the Slayer
+.
+).
+Braum's
+Unbreakable
+,
+Samira's
+Blade Whirl
+, and
+Yasuo's
+Wind Wall
+can block, destroy and / or stop projectiles.
+Some
+ranged
+basic attacks (
+including
+turrets
+) and abilities don't use projectiles and will bypass projectile-blocking effects.
+Some abilities will
+destroy
+all currently incoming homing projectiles.
+League of Legends content
+Camouflage
+Camouflage
+is a form of stealth that renders a unit hidden from enemy
+vision
+for a
+long
+period of time. It is usually activated preemptively in order to ambush an enemy or to bypass the surveillance of hostile
+wards
+patrolling an area. It also grants
+ghosting
+.
+Camouflaged
+units are revealed while being inside the line of sight (e.g. not in the fog of war, behind terrain, or blocked by
+nearsight
+) of a nearby enemy
+champion
+(with the range depending on the ability), when within the vision radius of an enemy
+Control Ward
+(900 units), or from sources of
+True Sight
+.
+Stealthed
+units shimmer their character model for 0.
+6
+seconds whenever they take damage.
+A unit will shimmer for every instance of damage they take, and shimmering does not make the unit targetable nor remove the
+stealth
+effect, but grants positional information to the enemy.
+When a
+camouflaged
+unit can be seen, they will be warned by an exclamation mark above them indicating they have been spotted.
+League of Legends content
+Death from Below
+COOLDOWN:
+100 / 85 / 70
+Active:
+Pyke
+strikes the target location in a X pattern, which
+executes
+enemy
+champions
+hit that are
+at low health
+. Other enemies hit are instead dealt
+physical damage
+.
+If
+Death from Below
+hits an enemy
+champion
+,
+Pyke
+will
+blink
+to the location. If an enemy champion dies inside the X,
+Death from Below
+can be recast within a period of time at no cost.
+Each execution grants
+kill gold
+to both
+Pyke
+and the last assisting ally instead of the natural assist gold.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Execute
+Executes
+deal
+true damage
+equal to
+100% of the target's
+current
+health
+through the
+raw damage
+source type, ignoring all mitigations.
+They do not bypass
+invulnerability
+and effects that prevent falling below a health amount, unless the source type is
+internalraw
+.
+League of Legends content
+Blink
+A
+blink
+refers to a form of movement whereby a unit displaces from point A to B without traversing the space between.
+References
+[
+edit
+|
+edit source
+]
+↑
+Pyke's profile page
+at
+LeagueOfLegends.com
+↑
+Pyke's name etymology
+↑
+Pyke's weapon inspiration 1
+↑
+Pyke's weapon inspiration 2

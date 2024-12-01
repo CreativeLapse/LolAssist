@@ -1,0 +1,2228 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Renata Glasc
+the Chem-Baroness
+Release date
+2022-02-17
+Last changed
+V14.7
+Class(es)
+Enchanter
+Legacy
+Support
+Mage
+Position(s)
+Support
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+2
+Toughness
+1
+Control
+3
+Mobility
+1
+Utility
+2
+Style
+Difficulty
+Renata Glasc
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Renata
+Base statistics
+Edit
+Health
+545
++94
+Mana
+350
++50
+Health regen. (per 5s)
+5.5
++0.55
+Mana regen. (per 5s)
+11.5
++0.5
+Armor
+27
++4.7
+Attack damage
+49
++3
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+550
+Attack speed
+Base AS
+0.625
+Attack windup
+18.8%
+AS ratio
+N/A
+Bonus AS
++2.11
+%
+Missile speed
+1800
+Unit radius
+Gameplay radius
+65
+Selection radius
+100
+Pathing radius
+35
+Acq. radius
+550
+Special statistics
+Damage Dealt
+-5%
+Damage Received
++5%
+Shielding
+-20%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++10%
+Damage Received
+-5%
+Shielding
++20%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Leverage
+Innate:
+Renata's
+basic attacks apply a mark that lasts a few seconds and expires when attacking a new enemy. If the enemy was unmarked, this also deals
+bonus
+magic damage
+based on the
+target's
+maximum
+health
+. Allied
+champions'
+damaging attacks and abilities against a marked target will consume the mark to deal
+magic damage
+based on the
+target's
+maximum
+health
+.
+Innate:
+Renata's
+basic attacks
+are empowered to apply a mark that lasts 6 seconds, refreshes on subsequent hits and expires when attacking a new enemy. If the enemy was unmarked, the attack also deals
+bonus
+magic damage
+equal to
+1% − 2% (based on level)
+(+ 2% per 100 AP)
+of the target's
+maximum
+health
+.
+Allied
+champions'
+damaging attacks and abilities against a marked target will consume the mark to deal
+additional
+bonus
+magic damage
+equal to
+1% − 2% (based on level)
+(+ 2% per 100 AP)
+of the target's
+maximum
+health
+.
+Leverage's
+damage is capped at 150 against epic
+monsters
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Spell shield
+will not block the mark's application.
+PENDING FOR TEST:
+: Interaction with mark consumption
+The mark's consumption by an ally respects
+enchantment redirection
+.
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio changed to
+1% per 100 AP
+.
+Edit
+Handshake
+COST:
+80 Mana
+COOLDOWN
+:
+16
+CAST TIME:
+0.
+25
+RANGE:
+900
+/
+275
+WIDTH:
+140
+TETHER RADIUS:
+1200
+SPEED:
+1450
+Active:
+Renata's
+fires a hook in the target direction that deals
+magic damage
+to the first enemy hit and briefly
+roots
+them. She can recast the ability while the target is rooted.
+Recast:
+Renata
+knocks
+the target in the target direction that deals
+magic damage
+to enemies hit. If the thrown target is a
+champion
+, enemies hit are briefly
+stunned
+.
+Active:
+Renata
+fires a hook in the target direction that deals
+magic damage
+to the first enemy hit and
+roots
+them for 1 second, during which they are
+revealed
+.
+If the
+root
+was applied,
+Renata
+forms a
+tether
+between her and the target for the same duration, causing
+Renata
+to become unable to declare attacks and have her
+movement speed
+reduced
+by
+30%
+.
+Magic Damage:
+80 / 125 / 170 / 215 / 260
+(+ 80% AP)
+Handshake
+can be recast while the tether is active.
+Recast:
+Renata
+breaks the tether to
+knock
+the target in the target direction, though not through terrain, dealing the same damage to enemies they pass through. If the thrown target is a
+champion
+, all secondary targets hit are
+stunned
+for 0.
+5
+seconds.
+Info
+Targeting input
+Direction
+Damage type
+Type
+See Notes
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Applies
+spell damage
+to the primary target and
+area damage
+to secondary targets.
+Handshake's
+interaction between its tether and root:
+If the root is not applied, neither is the tether.
+The tether's duration lasts the same as the root duration, even if it is modified by
+tenacity
+.
+If the root is removed, the tether is as well, but not vice versa.
+Spell shield
+will block the hook but not the recast's effects as the primary target.
+As a secondary target, the recast's effects will be blocked.
+Renata
+may still move while the hook is in flight.
+Her facing direction is locked towards the target direction of the hook.
+While the target is hooked,
+Renata's
+facing direction is considered to be in their direction and not in the one she is moving.
+The
+movement speed
+reduction stacks additively with other
+movement speed
+bonuses.
+It is a negative bonus, not a
+slow
+, and is thus not reduced by
+slow resist
+.
+This ability will cast from wherever the caster is at the start of the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio changed to
+90% AP
+.
+Cooldown changed to 10 seconds.
+Edit
+Bailout
+COST:
+80 Mana
+COOLDOWN
+:
+28 / 27 / 26 / 25 / 24
+CAST TIME:
+none
+TARGET RANGE:
+800
+EFFECT RADIUS:
+1300
+Active:
+Renata
+grants herself or the target allied champion ramping
+bonus
+attack speed
+in addition to
+bonus
+movement speed
+toward enemies.
+Bailout's
+duration resets whenever the target scores a
+takedown
+against an enemy champion. If the target would
+die
+while
+Bailout
+is active, their health is set back to full but they suffer a
+true damage
+burn that would kill them over a short time. The target can stop the burn by scoring a
+takedown
+.
+Active:
+Renata
+infuses herself or the target allied champion with a chemtech formula for 5 seconds, granting the target
+bonus
+attack speed
+and
+bonus
+movement speed
+while they are facing nearby
+visible
+enemy champions or minions, with both of the bonuses increasing in effectiveness by
+0% − 100% (based on seconds elapsed)
+.
+Bailout's
+duration resets whenever the target scores a
+takedown
+against an enemy champion within 6 seconds of damaging them.
+Bonus Attack Speed:
+10 / 15 / 20 / 25 / 30%
+(+ 1% per 100 AP)
+Maximum Bonus Attack Speed:
+20 / 30 / 40 / 50 / 60%
+(+ 2% per 100 AP)
+Bonus Movement Speed:
+10 / 12.
+5
+/ 15 / 17.
+5
+/ 20%
+(+ 1% per 100 AP)
+Maximum Bonus Movement Speed:
+20 / 25 / 30 / 35 / 40%
+(+ 2% per 100 AP)
+If the target takes
+fatal damage
+while
+Bailout
+is active, they are restored to
+100% of their
+maximum
+health
+but suffer a
+true damage
+burn equal to
+10% of their
+maximum
+health
+every
+0.
+264
+seconds
+until they die from reaching 0 health, during which
+Bailout's
+duration is reset every 0.
+25
+seconds. This effect may occur only
+once
+per application of
+Bailout
+while the target already has the buff and is not burning.
+The burn will stop once the target scores a
+takedown
+against an enemy champion within 6 seconds of damaging them, setting their
+current
+health
+to
+20% of their
+maximum
+health
+immediately afterwards.
+Activation SFX
+Info
+Targeting input
+Unit
+Damage taken in excess of the fatal damage taken does not apply to the target's health after it was restored.
+The self-damage taken is considered
+raw damage
+and is calculated based on the target's
+maximum
+health at the time of taking lethal damage.
+Bailout's
+bonuses will not reset in effectiveness if its duration is refreshed.
+Bailout
+takes priority over all
+resurrection
+and
+zombie state
+effects.
+Bailout
+will stop refreshing its duration while the target is burning after 250 seconds have elapsed.
+Bailout
+cannot be used on
+clones
+nor
+zombie state
+units.
+If the target takes fatal damage during
+Bailout
+, upon destroying a turret while being targeted by it, they will receive their own
+bonus shut-down bounty
+(ignoring the base kill reward of 300 gold) instead of being executed.
+(bug)
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 22 / 21 / 20 / 19 / 18 seconds.
+Edit
+Loyalty Program
+COST:
+70 / 80 / 90 / 100 / 110 Mana
+COOLDOWN:
+14 / 13 / 12 / 11 / 10
+CAST TIME:
+0.
+25
+TARGET RANGE:
+800
+EFFECT RADIUS:
+325
+/
+225
+WIDTH:
+220
+SPEED:
+1450
+Active:
+Renata
+sends out two chemtech rockets that strike targets around her, then converge into a single missile that explodes at the target location.
+Renata
+and allies struck are granted a
+shield
+, and enemies struck are dealt
+magic damage
+and
+slowed
+for a short time.
+Active:
+Renata
+sends out chemtech rockets from either side of her that instantly strike targets around her. After
+0.
+429
+seconds
+they converge and travel to the target location as a single missile, striking targets along its path and exploding upon reaching the target location.
+Renata
+and allies struck are granted a
+shield
+for 3 seconds and enemies struck are dealt
+magic damage
+and
+slowed
+by 30% for 2 seconds.
+Magic Damage:
+65 / 95 / 125 / 155 / 185
+(+ 55% AP)
+Shield Strength:
+50 / 65 / 80 / 95 / 110
+(+ 50% AP)
+Loyalty Program will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Spell shield
+will block either the rockets while they are in-flight or their explosion.
+This ability will cast from wherever the caster is at the start of the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 12 / 11 / 10 / 9 / 8 seconds.
+Shield AP ratio changed to
+60% AP
+.
+Edit
+Hostile Takeover
+COST:
+100 Mana
+COOLDOWN:
+150 / 130 / 110
+CAST TIME:
+0.
+75
+RANGE:
+2000
+EFFECT RADIUS:
+750
+/
+1000
+WIDTH:
+500
+ANGLE:
+14°
+SPEED:
+650 - 1000
+Active:
+Renata
+launches a cloud of potent chemicals that travels in the target direction. Enemy champions and minions hit briefly become
+berserk
+, gaining
+bonus
+attack speed
+.
+Berserk
+:
+Berserk causes the target to prioritize attacking their allies over their enemies.
+Active:
+Renata
+launches a cloud of potent chemicals that travels in the target direction, granting
+sight
+of its surroundings. Enemy champions and minions hit become
+berserk
+for a duration.
+Berserk Duration:
+1.
+25
+/ 1.
+75
+/ 2.
+25
+seconds
+Berserked
+units gain
+100%
+bonus
+attack speed
+and 25% increased
+size
+. Within their targeting radius, they prioritize attacking the closest unit by the following categories in descending order:
+Their allied champions
+Allied non-champions
+Allied
+wards
+Enemy units (including
+monsters
+)
+"You work for me now!"
+Info
+Targeting input
+Direction
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+See
+Types of Crowd Control#Berserk
+for specific details on Berserk.
+This ability will cast from wherever the caster is at the end of the cast time.
+Typically, any enemies killed that directly result from
+Berserk
+are credited to
+Renata Glasc
+.
+Tips & Tricks
+Berserked
+enemies that use
+Smite
+to execute monsters will gain kill credit, not
+Renata
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 100 / 90 / 80 seconds.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Renata Glasc (Collection)
+.
+Original
+View in 3D
+975
+17.02.2022
+Renata Glasc rose from the ashes of her childhood home with nothing but her name and her parents’ alchemical research. In the decades since, she has become Zaun’s wealthiest chem-baron, a business magnate who built her power by tying everyone’s interests to her own. Work with her, and be rewarded beyond measure. Work against her, and live to regret it. But everyone comes to her side, eventually.
+Debra Wilson
+Jeremy 'Jermu' Anninos
+Loot eligible
+Admiral Glasc
+View in 3D
+1350
+17.02.2022
+Ambitious, cunning, cutthroat – these qualities served Admiral Glasc well during the Galactic Civil War. They serve her still, both on the front lines and in the weapons manufacturing industry. As leader of the Royal Space Military's R&D unit, Admiral Glasc will bring order to the galaxy with a firepower unmatched: whether it's dropping planetside or traversing distant stars, the universe is her chessboard, and she is the queen.
+Debra Wilson
+Forrest Imel, West Studio
+Steel Valkyries
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Admiral Glasc Chromas
+Ace
+Amethyst
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Fright Night
+View in 3D
+1350
+22.09.2022
+Tender loving care and spoons of sugar spice
+And all the other things that make a mommy nice
+It choked her throat and lungs and showed her virtue's vice
+Some chosen children love the dark, that's Mother Glasc's advice!
+Debra Wilson
+Ina Wong, West Studio
+Fright Night
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Fright Night Renata Glasc Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+La Ilusión
+View in 3D
+1350
+27.09.2023
+In a life filled with forced relationships, death freed Renata to form the family she always wanted. As the Enterprise Family's founder, the bond between members doesn't come from any sense of familial warmth but from honest calculation. As for her work, Renata looks at society and pulls whatever deathly strings she needs to make things more “efficient.”
+Debra Wilson
+Su Fu, Kudos Productions
+La Ilusión
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+La Ilusión Renata Glasc Chromas
+Amethyst
+Catseye
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Vivida
+Prestige La Ilusión
+View in 3D
+Special
+27.09.2023
+From fashion model to maven, Renata owns one of the largest fashion houses showing at the Gala. After all this time, enough critics have declared her "death" after a poor show that she wears the label proudly, invigorating the spirit of her company and makeshift family. In the end, only she controls the threads of life and death, on the runway at least.
+Debra Wilson
+Su Fu, Kudos Productions
+La Ilusión
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+La Ilusión
+. Store variants are discounted for multiple purchases.
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.7
+Bailout
+Bug Fix:
+Champions within
+Kindred's
+Lamb's Respite
+that are affected by Bailout and reach the threshold after scoring a champion takedown while still inside its area of effect no longer sometimes forcibly die.
+V14.4
+Handshake
+Tether now innately checks every 0.
+05
+seconds for valid range conditions, and no longer waits for every 8th server tick.
+V13.22
+Leverage
+Bug Fix:
+No longer instantly kills an enemy
+Zac
+if her ally attacked one of his
+Bloblets
+that was marked with the debuff.
+V13.21
+Leverage
+Damage now triggers
+Renata Glasc's
+own damage effects but still grants kill credit to the ally applying it.
+V13.19
+Hostile Takeover
+Bug Fix:
+Casting it after her running animation no longer causes her model to have visual issues.
+V13.7
+Hostile Takeover
+Bug Fix:
+Berserk effect no longer causes an enemy
+Caitlyn
+to gain kill credit for allies she kills after it interrupted her
+Ace in the Hole
+channel.
+V12.14
+General
+Bug Fix:
+Knocked up/stunned animation is now correctly played.
+Stats
+Base health reduced to 545 from 595.
+Base attack damage reduced to 49 from 51.
+V12.10
+Stats
+Base health increased to 595 from 525.
+Health growth increased to 94 from 80.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Loyalty Program
+Base shield reduced to 50 / 65 / 80 / 95 / 110 from 50 / 70 / 90 / 110 / 130.
+V12.9
+Stats
+Base armor reduced to 27 from 29.
+Leverage
+Initial base damage reduced to
+1% − 2% (based on level)
+of target's
+maximum
+health
+from
+1% − 3.
+5
+% (based on level)
+.
+Initial AP ratio increased to
+2% per 100 AP
+from
+1% per 100 AP
+.
+Ally base damage reduced to
+1% − 2% (based on level)
+of target's
+maximum
+health
+from
+1% − 3.
+5
+% (based on level)
+.
+Ally AP ratio increased to
+2% per 100 AP
+from
+1% per 100 AP
+.
+V12.5
+Hostile Takeover
+Bug Fix:
+Power Chord
+empowered basic attack is now properly consumed and applied when used against allied units while
+Berserked
+.
+Bug Fix:
+Cheap Shot
+now properly triggers and deals its damage for
+Berserked
+champions.
+Bug Fix:
+Caster of
+The Show Stopper
+no longer becomes locked out of their basic abilities they are performing the ability while
+Berserked
+and their target dies in the process.
+Bug Fix:
+Several issues have been fixed where champions with certain items and runes would incorrectly receive kill credit and gold for killing their allies while
+Berserked
+.
+V12.4
+- February 22nd Hotfix
+Stats
+Armor growth reduced to 3.
+5
+from 4.
+Leverage
+Initial base damage reduced to
+1% − 3.
+5
+% (based on level)
+of target's
+maximum
+health
+from
+1% − 5.
+25
+% (based on level)
+.
+Ally base damage reduced to
+1% − 3.
+5
+% (based on level)
+of target's
+maximum
+health
+from
+1% − 5.
+25
+% (based on level)
+.
+Bailout
+Cooldown increased to 28 / 27 / 26 / 25 / 24 seconds from 28 / 26 / 24 / 22 / 20.
+Bleed out timer reduced to 2.
+5
+seconds from 3.
+Burn true damage per 0.
+25
+seconds increased to
+10% of target's
+maximum
+health
+from
+8.
+3
+%
+.
+Revive health reduced to
+20%
+maximum
+health
+from
+35%
+.
+V12.4
+- Added
+Leverage
+(Innate)
+Innate:
+Renata's
+basic attacks mark enemies for 6 seconds, dealing
+1% − 5.
+25
+% (based on level)
+(+ 1% per 100 AP)
+of the target's
+maximum
+health
+bonus
+magic damage
+if they were unmarked.
+Allied
+champions'
+damaging attacks and abilities against marked targets consume the mark to deal
+1% − 5.
+25
+% (based on level)
+(+ 1% per 100 AP)
+of their
+maximum
+health
+as
+additional
+bonus
+magic damage
+.
+Attacking a marked enemy will only refresh their mark's duration. Marking a different enemy will remove the mark from the previous target.
+Leverage's
+damage is capped at 150 against
+monsters
+.
+Handshake
+(Q)
+Active:
+Renata
+fires a hook out from her robotic arm in the target direction, dealing 80 / 125 / 170 / 215 / 260
+(+ 80% AP)
+magic damage
+to the first enemy hit and
+rooting
+them for 1 second, during which they are
+revealed
+and
+Renata
+is unable to declare attacks and has her
+movement speed
+reduced
+by
+30%
+.
+Handshake
+can be recast while the target is rooted.
+Recast:
+Renata
+knocks
+the target in the target direction, though not through terrain, dealing the same damage to enemies they pass through and
+stunning
+them for 0.
+5
+seconds if the thrown target is a champion.
+Mana Cost:
+80.
+Cooldown:
+16
+seconds.
+Range:
+900
+/
+275
+,
+Width:
+140
+,
+Speed:
+1450
+/
+X
+,
+Cast Time:
+0.
+25
+seconds.
+Bailout
+(W)
+Active:
+Renata
+enhances herself or the target allied champion for 5 seconds, granting the target 10 / 15 / 20 / 25 / 30%
+(+ 1% per 100 AP)
+bonus
+attack speed
+in addition to 10 / 12.
+5
+/ 15 / 17.
+5
+/ 20%
+(+ 1% per 100 AP)
+bonus
+movement speed
+while they are moving toward nearby
+visible
+enemy champions and minions, both increasing in effectiveness by 100% over the duration.
+Bailout's
+duration resets whenever the target scores a
+takedown
+against an enemy champion within 6 seconds of damaging them.
+If the target takes
+fatal damage
+while
+Bailout
+is active, they are restored to
+100% of their
+maximum
+health
+but begin burning to take
+true damage
+equal to
+8.
+3
+% of their
+maximum
+health
+every
+0.
+264
+seconds
+until they die from reaching 0 health. If they score a
+takedown
+against an enemy champion within 6 seconds of damaging them while suffering from the burn, it is stopped prematurely and they are set to
+35% of their
+maximum
+health
+. This effect may only occur
+once
+per application of
+Bailout
+while not already active on the target.
+Mana Cost:
+80.
+Cooldown:
+28 / 26 / 24 / 22 / 20
+seconds.
+Target Range:
+800,
+Effect Radius:
+1300
+,
+Cast Time:
+None.
+Loyalty Program
+(E)
+Renata
+sends out a chemtech rocket from either side of her that instantly strike targets around her. After
+0.
+429
+seconds
+they converge and travel to the target location as a single missile, striking targets along its path and exploding upon reaching its target location.
+Renata
+and allies struck are granted a 50 / 70 / 90 / 110 / 130
+(+ 50% AP)
+shield
+for 3 seconds and enemies struck are dealt 65 / 95 / 125 / 155 / 185
+(+ 55% AP)
+magic damage
+and are
+slowed
+by 30% for 2 seconds.
+Mana Cost:
+70 / 80 / 90 / 100 / 110.
+Cooldown:
+14 / 13 / 12 / 11 / 10 seconds.
+Target Range:
+800,
+Effect Radius:
+325
+/
+225
+,
+Width:
+220
+,
+Speed:
+1450
+,
+Cast Time:
+0.
+25
+seconds.
+Hostile Takeover
+(R)
+Active:
+Renata
+launches a cloud of potent chemicals that spreads out in the target direction, which grants
+sight
+of its surroundings and turns all enemy champions and minions it passes over
+berserk
+for 1.
+25
+/ 1.
+75
+/ 2.
+25
+seconds.
+Berserk
+causes afflicted targets to go insane, granting them
+100%
+bonus
+attack speed
+and increased size, and
+forcing
+them to basic attack the nearest unit,
+regardless
+of being allied, enemy, or neutral. They prioritize attacking their own allies, then neutral units, then
+Renata's
+allies, then
+Renata
+herself.
+Renata
+gains kill credit of enemies killed by their
+berserked
+allies through their basic attacks.
+Berserked
+units can be forced to attack all units
+except
+structures
+.
+Mana Cost:
+100.
+Cooldown:
+150 / 130 / 110 seconds.
+Range:
+2000
+,
+Effect Radius:
+750
+,
+Width:
+500
+,
+Angle:
+14°
+,
+Speed:
+650 - 1000
+,
+Cast Time:
+0.
+75
+seconds.
+Trivia
+[
+edit
+|
+edit source
+]
+All of Renata's abilities are references to real-world financial terms.
+Leveraged
+finance is the use of an above-normal amount of debt, as opposed to equity or cash, to finance the purchase of investment assets.
+Handshake
+is the famous accordance social act between two negotiators.
+Bailout
+is when a business, an individual, or a government provides money and/or resources (also known as a capital injection) to a failing company.
+Loyalty Program
+is a marketing strategy designed to encourage customers to continue to shop at or use the services of a business associated with the program.
+Hostile Takeover
+occurs when an acquiring company attempts to take over a target company against the wishes of the target company's management.
+Renata orders her device to shoot for marking targets with basic attacks, otherwise shooting with her pistol.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Enchanter
+Controllers
+are defensive casters that oversee the battlefield by protecting and opening up opportunities for their allies.
+Enchanters
+focus on amplifying their allies' effectiveness by directly augmenting them and defending them from incoming threats. Enchanters themselves are often quite fragile and bring relatively low damage to the table, meaning they really only shine when grouped together with others.
+Examples
+Janna
+Sona
+Soraka
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Enchantment redirection
+A certain group of damaging abilities called
+enchantments
+or
+empowerments
+require interaction of an
+empowerer
+, with an
+ally
+hitting an enemy. Enchantments commonly include mark detonations or
+buffs
+given to allies. The credit for an applied enchantment is directed in the following ways:
+Any damage dealt through the ally by the enchantment is credited to the empowerer instead of the ally. Effects that can trigger on-damage instances of the empowerer (e.g.
+Summon Aery
+;
+Morellonomicon's
+Grievous Wounds
+on magic damage; etc.) will trigger and also be credited to the empowerer. For the empowerer's redirected damage only, the ally will apply the empowerer's damage modifiers (e.g.
+magic penetration
+).
+Any unit
+kill
+achieved by the ally having applied the empowerer's redirected damage, is credited to the ally instead of the empowerer.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Root
+A unit that is
+rooted
+is unable to control its movement or activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Rooted
+units can still be displaced.
+Root
+is an
+immobilizing
+effect
+.
+Moving
+includes movement commands.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+True sight
+True Sight
+reveals units through
+fog of war
+,
+brush
+, and
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Tether
+A
+tether
+is an effect that applies a
+bind
+buff on both the source and the target(s), which then creates the actual tether that requires both to remain in close proximity so any accompanying effects (
+damage
+,
+crowd control
+,
+heals
+,
+buffs
+, etc) can apply.
+The tether breaks if it exceeds maximum range, or either conduit is removed (e.g.
+Death
+). The tether will also break from a transition into the
+zombie state
+due to the target already dying.
+Generally, a
+bind
+with an enemy will break along with the tether, whereas a bind with an ally will last indefinitely and automatically reapply the tether when within range.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Tenacity
+Tenacity
+(or
+Crowd Control Reduction
+) is a stat that reduces the duration of all incoming
+crowd control
+effects except
+displacements
+,
+drowsy
+,
+nearsight
+,
+stasis
+, and
+suppression
+.
+If
+tenacity
+is reduced below 0, the crowd control duration increases.
+Tenacity
+stacks
+multiplicatively
+or
+additively
+based on the combination of effects.
+The duration of a crowd control debuff is calculated when it is applied, and
+tenacity
+can reduce it to a minimum 0.
+5
+seconds.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Slow resist
+Slow resist
+is a stat that directly reduces the effectiveness of
+slows
+.
+League of Legends content
+Takedown
+Takedown
+refers to a
+kill
+or
+assist
+being acceptable, with the type of enemy specified in each use case.
+Takedown
+is associated with triggering a
+passive
+effect, or timed effects shortly after scoring.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Raw damage
+Raw damage
+is a type of damage that normally ignores resistances,
+shields
+, and
+minimum health threshold
+and
+resurrection
+effects on the target.
+Invulnerability
+and
+spell shields
+,  where applicable, are the only ways to reduce or negate
+raw damage
+. Current champion-sources of
+raw damage
+against an enemy always deal more than
+100% of the target's
+current
+health
+(
+"execution damage"
+). Current champion-sources of
+raw damage
+against the player's own champion or an ally are special-cased to take place during effects that protect champions from death. Current implementations of
+minimum health thresholds
+are special-cased to leave units at
+1 health
+rather than the threshold, when they are dealt lethal
+raw damage
+.
+Raw damage
+does not interact with
+any
+effect.
+Internal raw
+damage is a form of
+raw damage
+that also bypasses
+invulnerability
+and has no overrides in place to prevent it from killing death-protected champions. The
+Nexus Obelisk
+,
+Zac's
+Cell Division
+redirected damage, and
+Rift Herald's
+self-damage also have this modified form.
+League of Legends content
+Resurrection
+A unit that is protected by
+Resurrection
+will enter a revival state and dispel most debuffs upon taking
+fatal damage
+. After the state completes, the unit is revived.
+Resurrection
+effects do not count for kills or assists.
+Resurrection
+sources have a hierarchy, and will trigger in the following order:
+Zilean's
+Chronoshift
+Guardian Angel
+Anivia's
+Rebirth
+and
+Zac's
+Cell Division
+Resurrection
+will always take precedence over
+zombie state
+effects. Entering
+resurrection
+does not cancel cast times.
+Renata Glasc's
+Bailout
+always takes priority over
+resurrection
+.
+League of Legends content
+Zombie state
+A buff that allows a player to keep controlling their
+champion
+after
+Death
+always flags the champion to be in a
+zombie state
+. It prevents enemies from gaining full kill credit or triggering most on-kill effects from the champion a second time, and some abilities (e.g.
+You and Me!
+) interact differently with champions in this state.
+Renata Glasc's
+Bailout
+and
+Resurrection
+will always take precedence over
+zombie state
+effects.
+The following effects trigger a champion to enter a
+zombie state
+:
+Karthus'
+Death Defied
+Kog'Maw's
+Icathian Surprise
+Sion's
+Glory in Death
+League of Legends content
+Clone
+A
+clone
+or
+decoy
+is a specific type of
+pet
+that attempts to imitate a
+champion
+, copying their current vitality, stats, items, level, and most status effects upon creation. They are considered champions against many effects that do not strictly require
+player
+champions, else they are considered
+minions
+either small or large among certain cases.
+The
+damage
+they deal is attributed to them alone, but they transfer last hit and kill credit. Killing a
+clone
+awards
+25
+and
+44
+.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Renata Glasc's profile page
+at
+LeagueOfLegends.com

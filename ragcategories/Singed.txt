@@ -1,0 +1,2465 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Singed
+the Mad Chemist
+Release date
+2009-04-18
+Last changed
+V14.20
+Class(es)
+Specialist
+Legacy
+Tank
+Mage
+Position(s)
+Top
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Magic
+Store price
+4800
+|
+260
+Crafting
++
+2880
+Ratings
+Damage
+2
+Toughness
+3
+Control
+2
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Singed
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Singed
+Base statistics
+Edit
+Health
+650
++99
+Mana
+330
++45
+Health regen. (per 5s)
+9.5
++0.55
+Mana regen. (per 5s)
+7.5
++0.55
+Armor
+34
++4.2
+Attack damage
+63
++3.4
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+345
+Attack range
+125
+Attack speed
+Base AS
+0.625
+Attack windup
+20%
+AS ratio
+N/A
+Bonus AS
++1.9
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+135
+Pathing radius
+35
+Acq. radius
+300
+Special statistics
+Damage Dealt
+-10%
+Damage Received
++8%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-10%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Noxious Slipstream
+TARGET IMMUNITY
+:
+8
+EFFECT RADIUS:
+225
+Innate:
+Whenever
+Singed
+moves near a
+champion
+, he gains
+bonus
+movement speed
+for a short time, which refreshes on subsequent passes and stacks up to a cap. This effect cannot occur on the same target more than once every few seconds.
+Innate:
+Whenever
+Singed
+moves near a
+champion
+, he gains a
+stack
+of
+Noxious Slipstream
+for 2 seconds, refreshing on subsequent passes and stacking up to 25 times.
+Noxious Slipstream:
+For each stack,
+Singed
+gains
+25%
+bonus
+movement speed
+, up to a maximum of
+625%
+.
+This effect cannot occur on the same target more than once every few seconds.
+Info
+Targeting input
+Passive
+No additional details.
+Map-Specific Differences
+Howling Abyss
+differences
+edit
+Bonus bovement speed per stack changed to 20%.
+Maximum bonus movement speed changed to 500%.
+Cooldown per target changed to 10 seconds.
+Edit
+Poison Trail
+COST:
+13 Mana per second
+CAST TIME:
+none
+STATIC COOLDOWN
+:
+1
+EFFECT RADIUS:
+180
+Toggle:
+Singed
+continually creates a toxic cloud that shortly lingers in his wake, which continually inflicts
+poison
+to enemies within.
+poison
+:
+The target continually takes
+magic damage
+over a short time. Subsequent inflictions refresh the duration.
+Toggle:
+Singed
+continually creates a toxic cloud in his wake that lingers for 3.
+25
+seconds. The cloud inflicts
+poison
+to enemies within, and resets the duration every 0.
+5
+seconds while they remain.
+poison
+:
+The target takes
+magic damage
+every 0.
+25
+seconds over 2 seconds. Subsequent inflictions refresh the duration.
+Magic Damage per Tick:
+5 / 7.
+5
+/ 10 / 12.
+5
+/ 15
+(+ 10.
+625
+% AP)
+Total Magic Damage:
+40 / 60 / 80 / 100 / 120
+(+ 85% AP)
+Info
+Targeting input
+Auto
+Damage type
+Type
+AOE DOT damage
+Sub-type
+Magic
+Toggle abilities do not count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+The clouds check for enemy targets in the area immediately upon being spawned. After a 0.
+25
+-0.
+5
+second delay, they check every 0.
+25
+seconds again until they fade.
+Targets already with the DoT can have the debuff refreshed only every 0.
+5
+seconds.
+Due to the inconsistent offset between the first and future ticks is it possible for a static target to miss out on one refresh of the debuff, equal to 3 ticks of damage.
+If
+Singed
+has moved less than 90 units since spawning the last poison cloud, it will spawn 35 units in front of him. They also only spawn every 1 second in this case.
+When
+Singed
+is moving faster than that, the poison clouds spawn more frequently and on top of himself.
+Map-Specific Differences
+One for All
+differences
+edit
+Poison Trail
+stacks with one another.
+Arena
+differences
+edit
+Total AP ratio changed to
+65% AP
+.
+Edit
+Mega Adhesive
+COST:
+60 / 70 / 80 / 90 / 100 Mana
+COOLDOWN:
+17 / 16 / 15 / 14 / 13
+CAST TIME:
+0.
+25
+TARGET RANGE:
+1000
+EFFECT RADIUS:
+265
+Active:
+Singed
+creates a field of adhesive at the target location for a short time that
+grounds
+and
+slows
+enemies within.
+Active:
+Singed
+spills a potent adhesive that lands at the target location after 0.
+375
+seconds, creating a field for 3 seconds that
+grounds
+enemies within and
+slows
+them.
+Slow:
+50 / 55 / 60 / 65 / 70%
+Info
+Targeting input
+Location
+Counters
+Spell shield
+Not Blocked
+Projectile
+Not Blocked
+The goo missile is VFX only, to convey which location Singed threw the adhesive at. It has a fixed travel time but is independent from when the zone is established. It is not destructible by effects such as
+Wind Wall
+.
+Mega Adhesive's
+slow
+and
+ground
+debuffs are each marked as non-dispellable, so they are not removed by most
+cleanses
+. Each is however allowed to be removed by cleanses that
+also
+grant immunity to the debuff type, such as
+Olaf's
+Ragnarok
+.
+Singed
+reveals
+himself to enemies briefly on-cast from fog of war if enemy targets are in the target area of
+Mega Adhesive
+.
+(note)
+Edit
+Fling
+COST:
+60 / 70 / 80 / 90 / 100 Mana
+COOLDOWN:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8
+CAST TIME:
+0.
+25
+TARGET RANGE:
+125
+Active:
+Singed
+flings
+the target enemy over, dealing
+magic damage
+based on
+their
+maximum
+health
+. If the target lands on
+Mega Adhesive
+, they are briefly
+rooted
+.
+Active:
+Singed
+flings
+the target enemy 550 units over himself, dealing
+magic damage
+. The damage based on the target's health ratio is capped at 300 against
+minions
+and
+monsters
+.
+Magic Damage:
+50 / 60 / 70 / 80 / 90
+(+ 6 / 6.
+5
+/ 7 / 7.
+5
+/ 8% of target's
+maximum
+health)
+(+ 60% AP)
+If the target lands on
+Mega Adhesive
+, they are
+rooted
+for a duration.
+Root Duration:
+1 / 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 seconds
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Fling
+can throw enemies over walls (circumstances permitting).
+Slow-immune
+enemies will not be
+rooted
+when
+flung
+into
+Mega Adhesive
+.
+Fling
+is special cased to not
+fling
+Warwick
+while
+Singed
+is
+suppressed
+by
+Infinite Duress
+after the cast time.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+Tips & Tricks
+Singed
+may successfully issue a basic attack against the target of
+Fling
+while it is mid-air.
+Edit
+Insanity Potion
+COST:
+100 mana
+COOLDOWN
+:
+100
+CAST TIME:
+none
+Active:
+Singed
+empowers himself for some time with
+bonus
+ability power
+,
+bonus
+armor
+,
+bonus
+magic resist
+,
+bonus
+movement speed
+,
+bonus
+health regen
+, and
+bonus
+mana regen
+. During this time,
+Poison Trail
+additionally applies
+Grievous Wounds
+.
+Active:
+Singed
+empowers himself for 25 seconds with
+ability power
+,
+bonus
+armor
+,
+bonus
+magic resistance
+,
+bonus
+movement speed
+,
+bonus
+health regeneration
+, and
+bonus
+mana regeneration
+.
+Bonus Stats:
+30 / 65 / 100
+Regeneration per Second:
+6 / 13 / 20
+Total Regeneration:
+150 / 325 / 500
+During this time,
+Poison Trail
+additionally applies
+Grievous Wounds
+for 1 second, which refreshes every 0.
+25
+seconds while the
+poison
+persists.
+Info
+Targeting input
+Auto
+No additional notes.
+Map-Specific Differences
+Arena
+differences
+edit
+Bonus stats changed to 30 / 55 / 80.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Singed (Collection)
+.
+Original
+View in 3D
+260
+17.04.2009
+Singed is a Zaunite alchemist of unmatched intellect, who has devoted his life to pushing the boundaries of knowledge—with no price, even his own sanity, too high to pay. Is there a method to his madness? His concoctions rarely fail, but it appears to many that Singed has lost all sense of humanity, leaving a toxic trail of misery and terror in his wake.
+Unknown voice actor
+Michal Ivan, Sixmorevodka Studio
+Loot eligible
+Riot Squad
+View in 3D
+975
+25.06.2010
+A limited Riot Games skin given away at 2010 and 2011 events.
+Unknown voice actor
+Unknown artist
+Riot
+Loot ineligible
+New SFX/VFX
+Hextech
+View in 3D
+520
+15.08.2010
+Zaun's early forays into Hextech were critical to the movement, but not all were met with success. The scientist known as Singed warped his mind and body as he looped noxious, magically-infused chemical byproducts into his veins, twisting himself into a monster.
+Unknown voice actor
+Unknown artist
+Hextech
+Loot eligible
+Legacy
+Surfer
+View in 3D
+975
+06.12.2010
+Sure, the haircut is dated, and the off-brand sunscreen is a little dodgy, but Singed held out on the Tiki mug—and look what came roaring back into fashion! The man is a visionary.
+Unknown voice actor
+Unknown artist
+Pool Party
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Mad Scientist
+View in 3D
+750
+26.09.2011
+Everyone thinks Singed is crazy. In reality, he's just a normal scientist with a penchant for bright neon colors.
+Unknown voice actor
+Unknown artist
+Mad Scientists
+Loot eligible
+Legacy
+Augmented
+View in 3D
+975
+09.07.2012
+A dastardly villain lurking in the dark corners of New Valoran, the mild-mannered Dr. Peter Singed was transformed by a volatile chemical of his own invention—becoming the superhuman criminal known only as… Singed! Can anyone stop this vile malefactor before it's too late?!
+Unknown voice actor
+Unknown artist
+Silver Age
+Loot eligible
+New Animations/Recall
+Snow Day
+View in 3D
+975
+19.12.2013
+Even deranged chemists need a day off, and Singed is no exception. Riding into battle with his recently sharpened sled and (patent pending) Portablizzard backpack, he is ready to dominate the snowball game, one crushing victory at a time.
+Unknown voice actor
+Unknown artist
+Snow Day
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+SSW
+View in 3D
+750
+13.05.2015
+Honoring Looper's winning performance as Singed during the 2014 World Championship.
+Unknown voice actor
+Alvin Lee, Pan Chengwei
+World Champions: 2014
+Loot eligible
+Legacy
+Black Scourge
+View in 3D
+750
+04.05.2016
+The doctor Singed induced many dreams with his mastery of science, and in these dreams the queen would gaze across the whole of creation, unraveling its secrets. But the shadow soon found her, and as she so hungered for its power, Singed turned to the craven arts to speed her corruption.
+Unknown voice actor
+Pan Chengwei
+Omen of the Dark
+Loot eligible
+Beekeeper
+View in 3D
+1350
+11.10.2017
+At first Singed wasn't certain he wanted to be a master beekeeper. But the moment he put on the protective suit, he knew it was destiny. Nowadays he can be found tending his hives, eating honey, or flipping any hapless wanderers that stop to gaze upon his work.
+Unknown voice actor
+Xu 'Crow God' Cheng
+Bees!
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Resistance
+View in 3D
+1350
+12.11.2020
+Though many in the Resistance find Singed unsettling, few can deny his efficacy in pushing back the machine threat. For Singed, the only thing that matters is driving back Viktor's creations, whatever the means.
+Unknown voice actor
+Zhong Yang, Kudos Productions
+Battlecast
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Resistance Singed Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+Astronaut
+View in 3D
+1350
+24.02.2023
+No space adventure would be complete without a navigator. When Singed isn't creating special concoctions to keep his team safe, he's steering the crew's ship through the galaxy, masterfully guiding them to wherever his captain's whimsical orders lead them (and collecting any adorable meeps along the way).
+Unknown voice actor
+Rio Sabda, Caravan Studio
+Astronauts
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Astronaut Singed Chromas
+Amethyst
+Catseye
+Emerald
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Arcane Shimmer Lab
+View in 3D
+Special
+26.11.2024
+Singed's experiments spit in the face of scientific ethics, each unleashing a new terror onto Zaun. But there is a method to Singed's madness. To make strides in the field of science, one must be willing to do whatever it takes, no matter the cost—and he is happy to pay the price.
+Unknown voice actor
+Mingchen Shen, West Studio
+Arcane
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.20
+Stats
+Armor growth reduced to 4.
+2
+from 4.
+7
+.
+V14.17
+Mega Adhesive
+Bug Fix:
+Puddle zone no longer forms if its projectile has been blocked by projectile-destroying effects.
+V14.11
+Poison Trail
+AP ratio per tick increased to
+10.
+625
+% AP
+from
+10% AP
+.
+Insanity Potion
+Cooldown reduced to 100 seconds at all ranks from 120 / 110 / 100.
+V14.1
+- January 12th Hotfix
+Poison Trail
+AP ratio per tick reduced to
+10% AP
+from
+11.
+25
+% AP
+.
+V13.22
+Stats
+Base attack speed increased to 0.
+625
+from 0.
+613
+.
+Attack speed ratio increased to 0.
+625
+from 0.
+613
+.
+Attack windup reduced to 20% from 23.
+614873
+%.
+V13.21
+Poison Trail
+Bug Fix:
+Damage instances now consistently stack
+Conqueror
+when the buff was about to run out at the same time as the damage would happen.
+V13.15
+Poison Trail
+Bug Fix:
+Now properly targets and deals damage to the
+Baron Nashor
+.
+V13.3
+Insanity Potion
+Undocumented:
+Poison Trail
+Grievous Wounds
+strength increased to 40% from 25%.
+V12.23
+General
+Bug Fix:
+Basic attack hit VFX are now properly visible.
+V12.22
+Stats
+Attack damage growth increased to 3.
+4
+from 3.
+38
+.
+V12.15
+Noxious Slipstream
+Bonus movement speed increased to 25% from 20%.
+Cooldown reduced to 8 seconds from 10.
+Insanity Potion
+Bonus stats increased to 30 / 65 / 100 from 20 / 60 / 100.
+V12.14
+Insanity Potion
+Bug Fix:
+VFX are now properly shown.
+V12.12
+Mega Adhesive
+Slow strength changed to 50 / 55 / 60 / 65 / 70% from 60% at all ranks.
+Insanity Potion
+Bonus stats changed to 20 / 60 / 100 from 30 / 60 / 90.
+V12.11
+Insanity Potion
+Poison Trail
+Grievous Wounds
+strength reduced to 25% from 30%.
+V12.10
+Stats
+Base health increased to 650 from 580.
+Health growth increased to 99 from 85.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Insanity Potion
+Poison Trail
+Grievous Wounds
+strength reduced to 30% from 40%.
+V11.21
+General
+Base voice lines have been remastered to sound clearer and cleaner.
+V11.20
+Fling
+Base damage reduced to 50 / 60 / 70 / 80 / 90 from 50 / 65 / 80 / 95 / 110.
+AP ratio reduced to
+60% AP
+from
+75% AP
+.
+V11.18
+Mega Adhesive
+Bug Fix:
+Updated the tooltip to include its slow percentage.
+Insanity Potion
+New Effect:
+While active,
+Poison Trail
+now applies 40%
+Grievous Wounds
+for 1 second.
+V11.14
+- July 9th Hotfix
+Mega Adhesive
+Bug Fix:
+Slow no longer sometimes lingers longer than intended.
+V11.14
+- July 8th Hotfix
+Mega Adhesive
+Bug Fix:
+Targets are once again rooted if
+Flung
+into
+Mega Adhesive
+.
+V11.14
+Mega Adhesive
+Undocumented/Bug fix:
+Grounded debuff can once again be cleansed by
+Olaf's
+Ragnarok
+.
+V11.13
+Mega Adhesive
+Bug Fix:
+Grounded debuff is now non-dispellable.
+This prevents the debuff from being briefly removed by
+cleanses
+even while the player remains in the AoE.
+Because of this,
+Olaf's
+Ragnarok
+fails to dispell and become immune to the effect for the remaining duration unless he leaves and reenters it.
+(bug)
+V11.11
+Fling
+Cooldown reduced to 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8 seconds from 10 at all ranks.
+V11.3
+Poison Trail
+AP ratio increased to
+90% AP
+from
+80% AP
+.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+Attack damage growth increased to 3.
+38
+from 3.
+375
+.
+V10.18
+Beekeeper Singed
+Poison Trail
+Bug Fix:
+VFX is now distinguishable in colorblind mode.
+V10.16
+Riot Squad Singed
+Bug Fix:
+Recolored
+Poison Trail
+restored.
+V10.14
+Poison Trail
+Bug Fix:
+Properly turns blue when in colorblind mode.
+V10.13
+General
+Updated visual effects.
+Surfer Singed
+Updated visual effects.
+V10.11
+Fling
+Bug Fix:
+No longer flings
+Warwick
+while suppressed by
+Infinite Duress
+.
+V10.4
+Stats
+Base health reduced to 580 from 610.
+Base armor reduced to 34 from 37.
+V9.16
+Stats
+Base mana increased to 330 from 290.
+6
+.
+Base attack damage increased to 63 from 62.
+32
+.
+Base mana regeneration reduced to 7.
+5
+from 7.
+524
+.
+Attack speed growth increased to 1.
+9
+% from 1.
+81
+%.
+Insanity Potion
+Bonus stats increased to 30 / 60 / 90 from 30 / 55 / 80.
+V9.14
+- July 18th Hotfix
+Poison Trail
+Removed:
+No longer has a 0.
+5
+second cast timer.
+V9.14
+Poison Trail
+Recast timer increased to 0.
+5
+seconds from 0.
+When toggled on, the icon will be highlighted more brightly.
+V9.10
+- May 20th Hotfix
+Noxious Slipstream
+Bug Fix:
+Fixed a bug where it would only give 1 stack of movement speed.
+V9.8
+Stats
+Base health regeneration increased to 9.
+5
+from 8.
+Mega Adhesive
+Slow strength increased to 60% from 40%.
+Fling
+Mana cost reduced to 60 / 70 / 80 / 90 / 100 to 80 / 95 / 110 / 125 / 140.
+V9.5
+General
+Adjusted splash artwork for
+Black Scourge Singed
+.
+V9.1
+Insanity Potion
+New Effect:
+Ability icon HUD now shows the remaining duration of the ability.
+V8.24b
+Stats
+Base health increased to 610 from 580.
+Fling
+Target's health ratio increased to
+6 / 6.
+5
+/ 7 / 7.
+5
+/ 8% of target's
+maximum
+health
+from
+4 / 5 / 6 / 7 / 8%
+.
+V8.13
+Fling
+Target's health ratio reduced to
+4 / 5 / 6 / 7 / 8% of target's
+maximum
+health
+from
+6 / 6.
+5
+/ 7 / 7.
+5
+/ 8%
+.
+Insanity Potion
+Bonus stats reduced to 30 / 55 / 80 from 35 / 60 / 85.
+Removed:
+Time Warp Tonic
+no longer grants movement speed during
+Insanity Potion
+.
+V8.7
+Beekeeper Singed
+Fling
+Bug Fix:
+When in a mirror match, the opposing
+Singed
+no longer steals
+Beekeeper Singed's
+Fling
+VFX.
+V8.3
+Stats
+Base health regeneration reduced to 8 from 8.
+024
+.
+V8.2
+Fling
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V7.22
+Stats
+Base armor increased to 37 from 27.
+88
+.
+V7.19
+Snow Day Singed
+Poison Trail
+Bug Fix:
+Is now more gameplay friendly, regardless of if Colorblind Mode is activated or not.
+V7.16
+Snow Day Singed
+Poison Trail
+Bug Fix:
+VFX have been adjusted to be more opaque.
+V7.15
+Noxious Slipstream
+Bug Fix:
+Singed's
+corpse no longer triggers his passive.
+Bug Fix:
+Multiple
+Singed's
+in a game no longer reset each other's cooldown on their passive.
+Poison Trail
+Opacity has been adjusted for colorblind mode and various skins.
+Insanity Potion
+Bug Fix:
+Now correctly receives stats instantly, as opposed to sometimes having up to 0.
+25
+seconds delay.
+Riot Squad Singed
+Poison Trail
+Visuals now properly change color when colorblind mode is activated.
+V7.14
+July 13th Hotfix
+Stats
+Base health reduced to 580 from 610.
+Health growth reduced to 85 from 90.
+Insanity Potion
+Cooldown increased to 120 / 110 / 100 seconds from 100 at all ranks.
+V7.14
+Stats
+Base health increased to 610 from 542.
+76
+.
+Health growth increased to 90 from 82.
+Noxious Slipstream
+(New Innate)
+Renamed to
+Noxious Slipstream
+from
+Empowered Bulwark
+.
+Innate:
+Moving near to an enemy or allied champion grants
+Singed
+a stacking 20%
+bonus
+movement speed for 2 seconds (10 second per-target cooldown) (225 range).
+Poison Trail
+Base damage reduced to 40 / 60 / 80 / 100 / 120 from 44 / 68 / 92 / 116 / 140.
+AP ratio increased to
+80% AP
+from
+60% AP
+.
+New Effect:
+Particle size increased to more clearly represent the poison's area of effect.
+Bug Fix:
+The trail no longer disappears when
+Singed
+leaves enemy vision.
+Mega Adhesive
+Adhesive duration reduced to 3 seconds from 5.
+New Effect:
+Applies
+ground
+.
+Slow changed to 40% at all ranks from 35 / 45 / 55 / 65 / 75%.
+Removed:
+Slow lingering for 1 second after enemies leave the puddle.
+Mana cost reduced to 60 / 70 / 80 / 90 / 100 from 70 / 80 / 90 / 100 / 110.
+Cooldown changed to 17 / 16 / 15 / 14 / 13 seconds from 14 at all ranks.
+Fling
+Mana cost reduced to 80 / 95 / 110 / 125 / 140 from 100 / 110 / 120 / 130 / 140.
+Insanity Potion
+Mana cost reduced to 100 from 150.
+Stat bonus increased to 35 / 60 / 85 from 35 / 50 / 80.
+V7.9
+Poison Trail
+Bug Fix:
+Damage now increases as soon as he puts another skill point in it, rather than waiting until he toggles it off and on again.
+V6.19
+Poison Trail
+Damage now ticks 4 times a second from 1 time a second.
+Damage unchanged.
+Mega Adhesive
+Bug Fix:
+Fixed a bug where
+Mega Adhesive
+lasted 0.
+5
+seconds longer than intended.
+V5.13
+Stats
+Base magic resist increased to 32.
+1
+from 30.
+Magic resist per level increased to 1.
+25
+from 0.
+Fling
+/
+Mega Adhesive
+Root duration increased to 1 / 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 seconds from 1 at all ranks.
+New Effect:
+Laugh sound effect added.
+V5.6
+Fling
+Base damage reduced to 50 / 65 / 80 / 95 / 110 from 80 / 125 / 170 / 215 / 260.
+Now deals bonus damage equal to
+(+ 6 / 6.
+5
+/ 7 / 7.
+5
+/ 8% of target's max. health)
+(
+Max. 300 bonus damage against minions and monsters
+).
+V5.5
+Fling
+Fixed several cases where Flinging an enemy into Mega-Adhesive would not immediately root them.
+V4.19
+General
+Geometry and texture update to all skins, except Snow Day Singed.
+New splash artwork for
+Original Singed
+.
+New ability icons.
+Fling
+Flinging an enemy champion into an area of
+Mega Adhesive
+will root them for 1 second.
+Fixed a bug where Singed would occasionally Fling his targets in completely wrong directions.
+Insanity Potion
+Bonus stats increased to 35 / 50 / 80 from 35 / 50 / 65.
+V4.13
+General
+Splash artwork for
+Hextech Singed
+updated to the Chinese art.
+V4.5
+Stats
+Base armor increased to 22 from 18.
+V3.14
+General
+Improved Singed's running animation.
+V3.11
+Fling
+Fixed a bug where Fling was dealing more damage than the tooltip values indicated.
+V3.9
+Twisted Treeline only
+Stats
+Armor per level reduced to 2 from 3.5.
+Insanity Potion
+Cooldown increased to 120 seconds from 100.
+V3.8
+Mega Adhesive
+Slow refresh rate reduced to 0.25 seconds.
+V3.04
+Fling
+Base damage reduced to 80 / 125 / 170 / 215 / 260 from 100 / 150 / 200 / 250 / 300.
+Ability power ratio reduced to
+(+75% AP)
+from
+(+100% AP)
+.
+Insanity Potion
+No longer reduces the duration of disables.
+V1.0.0.152
+Stats
+Movement speed increased 345 from 320.
+V1.0.0.142
+General
+New spell effects for all skins, with the exception of
+Riot Squad Singed
+which retains its unique
+Poison Trail
+spell effect.
+V1.0.0.139
+Stats
+Base health increased to 487 from 448.
+Insanity Potion
+Fixed a bug where it was reducing the duration of blinds and silences by more than intended.
+V1.0.0.129
+Insanity Potion
+Now additionally reduces silences and blinds.
+No longer ignores persistent slow fields such as
+Kog'Maw's
+Void Ooze
+when stacked with other disable duration reductions (ex. Tenacity).
+V1.0.0.126
+Poison Trail
+Linger time reduced to 3.
+25
+seconds from 3.
+5
+.
+Insanity Potion
+Crowd control reduction reduced to 10 / 15 / 20% from 10 / 20 / 30%.
+V1.0.0.125
+Stats
+Basic attack range increased to 125 from 100.
+Fling
+Range increased to 125 from 100.
+V1.0.0.115
+Insanity Potion
+No longer grants bonus attack speed or attack damage.
+Now grants bonus magic resist and +10 / 20 / 30% crowd control reduction.
+Fixed a bug where the particle lasted longer than the buff.
+V1.0.0.113
+Stats
+Armor per level reduced to 3.
+5
+from 4.
+2
+.
+V1.0.0.112
+Poison Trail
+Fixed a bug that was producing a 1 second cooldown upon activation.
+V1.0.0.111
+General
+Updated tooltips.
+V1.0.0.105
+Insanity Potion
+Tooltip updated.
+V1.0.0.103
+Stats
+Base health increased to 448 from 429.
+Health per level increased to 82 from 78.
+Base magic resistance reduced to 30 from 35.
+Mega Adhesive
+Mana cost reduced to 70 / 80 / 90 / 100 / 110 from 80 / 90 / 100 / 110 / 120.
+Fling
+Cooldown reduced to 10 seconds from 11.
+5
+.
+Insanity Potion
+Cooldown reduced to 100 seconds from 120.
+No longer has a cast time or animation.
+V1.0.0.101
+Fling
+Now deals damage at the start of the spell from when the target hits the ground.
+V1.0.0.96
+Fling
+Can now be cast more easily on any unit, especially larger units like
+Dragon
+,
+Lizard Elder
+, or a well-fed
+Cho'Gath
+.
+V1.0.0.74
+Mega Adhesive
+Cooldown reduced to 14 seconds from 15.
+Fling
+Cooldown reduced to 11.
+5
+seconds from 12.
+V1.0.0.70
+Poison Trail
+Fixed a bug where the poison duration was being reduced by crowd control reduction effects.
+Insanity Potion
+Now applies an additive attack speed boost rather than multiplicative.
+V1.0.0.32
+General
+Added new alternate attack animations.
+Fling
+Tooltip now shows mana cost per level.
+Mega Adhesive
+Tooltip now shows mana cost per level.
+V0.9.25.24
+Empowered Bulwark
+Mana to health ratio reduced to 25% from 30%.
+Poison Trail
+Base damage increased to 22 / 34 / 46 / 58 / 70 from 20 / 30 / 40 / 50 / 60.
+Insanity Potion
+Missing tooltip replaced.
+V0.9.22.16
+Insanity Potion
+Bonus stats modified from 30 / 50 / 70 to 35 / 50 / 65.
+V0.9.22.15
+Stats
+Movement speed increased to 320 from 315.
+Mega Adhesive
+Slow increased to 35 / 45 / 55 / 65 / 75% from 30 / 42 / 54 / 66 / 78%.
+Mana cost modified to 80 / 90 / 100 / 110 / 120 from 120.
+V0.9.22.7
+Poison Trail
+Is no longer subject to global cooldown.
+July 10, 2009 Patch
+Empowered Bulwark
+Fixed a bug which caused it to not work.
+June 26, 2009 Patch
+Poison Trail
+Mana cost per second increased to 13 from 10.
+Fixed a bug where it was leaving dots on the minimap.
+It will now apply slightly in front of him while not moving.
+Insanity Potion
+Bonus stats reduced to 30 / 50 / 70 from 30 / 55 / 80.
+Duration reduced to 25 seconds from 30.
+June 6, 2009 Patch
+Renamed to Singed from Singe.
+Poison Trail
+Ability power ratio increased to
+(+30% AP)
+from
+(+20% AP)
+.
+Insanity Potion
+Bonus stats reduced to 30 / 55 / 80 from 30 / 60 / 90.
+May 15, 2009 Patch
+Stats
+Movement speed increased to 315 from 310.
+Base armor increased to 18 from 14.
+Armor gain per level increased to 3.
+5
+from 3.
+Poison Trail
+Base damage increased to 20 / 30 / 40 / 50 / 60 from 18 / 27 / 36 / 45 / 54.
+May 9, 2009 Patch
+Stats
+Base armor increased to 14 from 7.
+75
+.
+Armor per level increased to 3 from 2.
+25
+.
+May 1, 2009 Patch
+Stats
+Base health reduced to 465 from 565 (Note: Singe's health is further increased by his passive).
+Poison Trail
+Damage per second reduced to 18 / 27 / 36 / 45 / 54 from 20 / 30 / 40 / 50 / 60.
+Mega Adhesive
+Casting time reduced.
+April 25, 2009 Patch
+Recommended items updated.
+Mega Adhesive
+Slow modified to 30 / 42 / 54 / 66 / 78% from 20 / 35 / 50 / 65 / 80%.
+April 18, 2009 Patch
+Added.
+Trivia
+[
+edit
+|
+edit source
+]
+Singed was one of the first six champions designed, together with
+Annie
+,
+Lee Sin
+,
+Sion
+,
+Sivir
+, and
+Twisted Fate
+.
+[2]
+[3]
+Coincidentally, Singed is an
+anagram
+for the word design, befitting his history of being one of the earliest designed champions.
+Singed was one of the champions chosen for the
+Noxian
+pool available during the
+Ionia vs. Noxus match
+. He was one of the selected champions.
+Singed's dance references
+Will Smith's
+"Jump on It"
+dance from
+The Fresh Prince of Bel-Air
+.
+A side-by-side comparison can be seen
+here
+.
+He shared this dance with
+Kayle
+before the latter's rework, though hers included the beginning of the dance.
+Even though
+Poison Trail's
+cloud appears to expand as it fades, the area affected by the poison does not actually increase.
+Singed is one of the few champions with a special interaction between his
+emotes
+and his ability set, as
+Fling
+automatically causes him to laugh.
+Although Singed holds his
+shield
+in his left hand in the default splash art, every other skin shows it in his right hand; Singed holds his shield in his right hand in all the in-game models.
+A bottle of Singed's poison can be seen leaking in the Mac Launch preview video.
+Singed's bald figure, red and green color motifs, and his large boots make him resemble
+Sigma
+from the Mega Man/Rockman X series.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Specialist
+Specialists
+are champions that do not fit into the "neat little boxes" of the other classes, and represent Riot's ideal of having a champion roster with a lot of distinctiveness and diversity.
+Examples
+Azir
+Teemo
+Heimerdinger
+Singed
+Gangplank
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Howling Abyss
+The Howling Abyss is a bottomless crevasse located in the coldest, cruelest, part of the
+Freljord
+. Legends say that, long ago, a great battle took place here on the narrow bridge spanning this chasm. No one remembers who fought here, or why, but it is said that if you listen carefully to the wind you can still hear the cries of the vanquished tossed howling into the Abyss.
+Regular Modes
+Classic 5v5
+(
+All random
+)
+Custom
+Featured Game Modes
+Legend of the Poro King
+One For All
+One For All: Mirror Mode
+Snowdown Showdown
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Poison
+Poison
+is the buff type for few select debuffs.
+Cassiopeia's
+Twin Fang
+has additional effects if it is cast on a
+poisoned
+target.
+The following inflict
+poison
+:
+Cassiopeia's
+Noxious Blast
+and
+Miasma
+Singed's
+Poison Trail
+Teemo's
+Toxic Shot
+and
+Noxious Trap
+Twitch's
+Deadly Venom
+League of Legends content
+Persistent area damage
+Persistent area damage
+is technically not a separate type of damage, but rather a hybrid classification that is applied to some spells.
+In situations where
+persistent damage
+and
+area damage
+would have conflicting outputs, the conflict is resolved by choosing the weakest possible outcome.
+Physical vamp
+and
+Spell vamp
+(where applicable) heals with one-third effectiveness, as with
+area damage
+.
+Arcane Comet's
+cooldown is reduced by 5%, as with
+persistent damage
+, per target affected.
+Counter Strike
+reduces the damage dealt by 25%, as with
+area damage
+.
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+One For All
+Players battle in a 5v5
+Draft Pick
+in
+Summoner's Rift
+, with the only difference being that all
+champions
+on each team are the same.
+During champion select, all players have the power to ban one champion from being picked at the start. After bans from both teams have been declared, players can choose to vote for a champion they want to play by a percent chance, or by majority rule if no other champions have been contested.
+All champions receive the
+One for All buff
+, which grants 70
+summoner spell haste
+and
+40
+bonus
+movement speed
+.
+Karthus
+and
+Teemo
+are disabled in this mode.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Ground
+A unit that is
+grounded
+is unable to activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Grounded
+units can still be displaced.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Ground
+is the only type of
+crowd control
+that is most commonly found in persistent area of effects, which will reapply the status effect continuously.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Wind Wall
+COOLDOWN:
+25 / 23 / 21 / 19 / 17
+Active:
+Yasuo
+raises a wind wall that drifts in the target direction for a few seconds, blocking all enemy
+projectiles
+that hit it.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Cleanse
+A unit that is
+cleansed
+has all applicable
+crowd control
+status effects removed.
+Due to the nature of the
+cleanse
+interaction, cleansing abilities and effects remain castable in circumstances that would otherwise inhibit casting, unless special-cased.
+"
+Cleanse
+" does not always refer to the act of removing
+all
+crowd control effects, some sources would specify only one or a few types of crowd control.
+A
+cleanse
+does not remove
+Stasis
+, but will remove the disable portion of
+Airborne
+.
+League of Legends content
+Ragnarok
+COOLDOWN:
+100 / 90 / 80
+Passive:
+Olaf
+gains
+bonus
+armor
+and
+bonus
+magic resist
+.
+Active:
+Olaf
+becomes enraged for a short time,
+cleansing
+himself and becoming
+cc-immune
+, as well as gaining
+bonus
+attack damage
+and increased
+size
+. For a brief moment, he gains
+bonus
+movement speed
+while facing nearby enemy
+champions
+.
+Ragnarok's
+duration can be extended by hitting
+basic attacks
+and
+Reckless Swing
+against an enemy
+champion
+.
+Cc-immunity
+:
+Crowd control
+cannot be applied during this time.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Mega Adhesive
+COOLDOWN:
+17 / 16 / 15 / 14 / 13
+Active:
+Singed
+creates a field of adhesive at the target location for a short time that
+grounds
+and
+slows
+enemies within.
+League of Legends content
+Root
+A unit that is
+rooted
+is unable to control its movement or activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Rooted
+units can still be displaced.
+Root
+is an
+immobilizing
+effect
+.
+Moving
+includes movement commands.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Slow-immune
+Slow immunity
+is a status effect that prevents the application of
+slows
+.
+The following prevent the application of
+slows
+:
+Aphelios'
+Sentry
+Heimerdinger's
+H-28G Evolution Turret
+Master Yi's
+Highlander
+Nunu's
+Biggest Snowball Ever!
+Sejuani's
+Fury of the North
+Skarner's
+Ixtal's Impact
+Total
+crowd control immunity
+League of Legends content
+Suppression
+A unit that is
+suppressed
+is unable to control its movement, declare attacks, cast abilities, activate items or use
+any
+summoner spell
+for the duration.
+Suppression
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Cleanse
+and
+Mikael's Blessing
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Infinite Duress
+COOLDOWN:
+110 / 90 / 70
+Active:
+Warwick
+leaps
+a huge distance and stops on the first champion he collides with,
+suppressing
+them while
+channeling
+for a brief time. He mauls them over the duration, dealing
+magic damage
+and
+healing
+for 100% of the damage dealt.
+The leap's distance scales with
+Warwick's
+movement speed
+and he gains
+crowd control immunity
+during.
+Infinite Duress
+applies
+on-hit
+effects 3 times and
+life steal
+.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Singed's profile page
+at
+LeagueOfLegends.com
+↑
+@Riot, the first champion EVER made
+↑
+Guinsoo expanding first roster to six champions

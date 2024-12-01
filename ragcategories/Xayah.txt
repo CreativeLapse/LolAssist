@@ -1,0 +1,2313 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Xayah
+the Rebel
+Release date
+2017-04-19
+Last changed
+V14.21
+Class(es)
+Marksman
+Legacy
+Marksman
+Position(s)
+Bottom
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+3
+Toughness
+2
+Control
+3
+Mobility
+1
+Utility
+1
+Style
+Difficulty
+Xayah
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Xayah
+Base statistics
+Edit
+Health
+630
++107
+Mana
+340
++40
+Health regen. (per 5s)
+3.25
++0.75
+Mana regen. (per 5s)
+8.25
++0.8
+Armor
+25
++4.2
+Attack damage
+60
++3.5
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+525
+Attack speed
+Base AS
+0.658
+Attack windup
+17.687%
+AS ratio
+N/A
+Bonus AS
++3.9
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+800
+Special statistics
+Damage Dealt
++5%
+Damage Received
++0%
+Total Attack Speed
++3%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-15%
+Damage Received
++10%
+Damage Dealt
++0%
+Damage Received
+-5%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Xayah
+has ability interactions with
+Rakan
+.
+Edit
+Clean Cuts
+EFFECT RADIUS:
+1000
+WIDTH:
+120
+SPEED:
+4000
+Innate:
+Feathers
+shot by
+Xayah
+will linger in the ground at max range for a few seconds.
+Innate:
+Xayah's
+ability casts generate three stacks of
+Clean Cuts
+, stacking up to five times.
+Xayah's
+basic attacks consume a stack to instead shoot a
+Feather
+that deals
+the attack's damage
+to the target and
+physical damage
+to other enemies hit.
+Innate - Lover's Leap:
+Xayah
+and
+Rakan
+can join each other's
+Recall
+to complete together.
+Innate:
+Feathers
+shot by
+Xayah
+will linger in the ground at maximum range for 6 seconds.
+Innate:
+Xayah's
+ability
+casts generate 3
+stacks
+of
+Clean Cuts
+, lasting for 8 seconds, refreshing on subsequent casts, and stacking up to 5 times.
+Xayah's
+basic attacks
+are empowered to each consume a stack
+on-attack
+to instead shoot a
+Feather
+that deals the
+attack's damage
+to the primary target and
+30 / 40 / 50% (based on level)
+AD
+physical damage
+to other enemies hit, with the secondary damage also
+critically striking
+if the main attack does.
+Innate - Lover's Leap:
+If either
+Xayah
+or
+Rakan
+is channeling
+Recall
+, the other may move nearby and channel their own to join alongside them.
+Both
+reach base at the time of which the initiator's
+Recall
+completes.
+Info
+Targeting input
+Passive
+Counters
+Spell shield
+Not Blocked
+Parries
+Missing
+Projectile
+See Notes
+Feathers
+will stop upon being intercepted by
+projectile-blocking
+effects.
+PENDING FOR TEST:
+:
+Missile popping
+before and after striking the primary target.
+After striking their target, the attack will proceed in a line in the same direction it was already flying.
+If the target is more than 1000 units from
+Xayah
+when the empowered attack hits them, the attack will not keep flying in a line and drop the
+Feather
+at their location immediately.
+Unlike similar effects, the homing and line trajectories use the same missile.
+All her
+Feathers
+on the ground will be destroyed when
+Xayah
+dies
+, and while she is dead, missiles that are still in flight will not spawn new ones, either.
+Clean Cut's
+feathers will spawn even if the basic attack is
+blocked
+.
+Clean Cut's
+hit can be
+dodged
+by or
+missed
+against the primary target.
+This will not prevent the missile from continuing on its path nor from dealing damage to secondary targets. The damage cannot be dodged as or missed against a secondary target.
+The empowered attack will not trigger against
+structures
+nor
+wards
+.
+The duration will be refreshed when starting the attack windup against them.
+The number of
+Clean Cuts
+stacks available is represented by a
+feather counter in her ammo bar, visible to the player only.
+Edit
+Double Daggers
+COST:
+50 Mana
+COOLDOWN:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8
+CAST TIME:
+0.
+25
+− 0.
+1
+(based on
+bonus
+attack speed)
+RANGE:
+1100
+WIDTH:
+100 (plus offset)
+Active:
+Xayah
+barrages out two
+Feathers
+that each deal
+physical damage
+to enemies hit.
+Active:
+Xayah
+barrages two
+Feathers
+in the target direction that each deal
+physical damage
+to enemies hit.
+Physical Damage Per Hit:
+45 / 60 / 75 / 90 / 105
+(+ 50%
+bonus
+AD)
+Total Physical Damage:
+90 / 120 / 150 / 180 / 210
+(+ 100%
+bonus
+AD)
+Targets hit after the first take 50% reduced damage.
+Reduced Damage per Hit:
+22.
+5
+/ 30 / 37.
+5
+/ 45 / 52.
+5
+(+ 25%
+bonus
+AD)
+Total Reduced Damage:
+45 / 60 / 75 / 90 / 105
+(+ 50%
+bonus
+AD)
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+See Notes
+Projectile
+See Notes
+Daggers shoot from
+Xayah's
+left and right side.
+Because of the usual tick intervals of the server,
+Double Daggers'
+minimum cast time is typically reached at
+168.
+58
+%
+bonus
+attack speed
+already, for a cast time of 0.
+132
+seconds (from the default
+0.
+264
+seconds
+), or the duration of 4 game ticks.
+If the first 3 game ticks happen to be slightly longer than normal, the minimum cast time of 0.
+1
+seconds can actually be reached in very rare cases because of that.
+Xayah
+is unable to declare basic attacks for a set duration during the cast time of
+Double Daggers
+. The lock out duration is reduced by
+「 0.
+007
+seconds per every
+1%
+bonus
+attack speed
+」
+「 1 second per every
+140%
+bonus
+attack speed
+」
+.
+The
+Feathers
+will stop upon being intercepted by
+projectile-blocking
+effects.
+As the feathers are forming, they will deal damage in a small area around
+Xayah's
+before firing.
+Spell shield
+will only block a single instance of damage.
+This ability will cast from wherever the caster is at the end of the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 10 / 8.
+75
+/ 7.
+5
+/ 6.
+25
+/ 5 seconds.
+Edit
+Deadly Plumage
+COST:
+60 / 55 / 50 / 45 / 40 Mana
+COOLDOWN
+:
+20 / 19 / 18 / 17 / 16
+CAST TIME:
+none
+SPEED:
+3000
+Active:
+Xayah
+empowers herself for a few seconds, gaining
+bonus
+attack speed
+and causing her basic attacks to strike a second time, dealing
+reduced
+damage. Whenever she hits an enemy
+champion
+, she briefly gains
+bonus
+movement speed
+.
+If
+Rakan
+is nearby upon cast, he also becomes empowered and gains the
+bonus
+movement speed
+at the same time as
+Xayah
+.
+Active:
+Xayah
+enters a frenzy for 4 seconds, gaining
+bonus
+attack speed
+and empowering her basic attacks to strike a second time, dealing 25% damage.
+Bonus Attack Speed:
+35 / 40 / 45 / 50 / 55%
+Whenever
+Xayah
+hits an enemy
+champion
+with the strike, she gains
+30%
+bonus
+movement speed
+for 1.
+5
+seconds.
+If
+Rakan
+is nearby upon cast, he also becomes empowered, and gains the
+bonus
+movement speed
+at the same time as
+Xayah
+.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Default damage
+Sub-type
+Physical
+Counters
+Parries
+Bypass
+Projectile
+Blocked
+The lesser bolts count as additional sources of single target physical damage, and will apply bonus stacks of
+The Black Cleaver
+and
+Electrocute
+.
+The lesser bolts from
+Runaan's Hurricane
+will also deal 20% increased damage, which is represented with additional lesser bolts. The damage dealt by
+Deadly Plumage's
+bolts is 20% of the fired bolt from
+Runaan's Hurricane
+,
+not
+of the initial basic attack.
+The lesser bolts deal 20% of the triggering basic attack's damage, not based on her
+attack damage
+. Thus, if the basic attack is a
+critical strike
+, the lesser bolt will also deal increased damage.
+The empowered attack will not trigger against
+wards
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Second strike damage changed to 20%.
+Edit
+Bladecaller
+COST:
+30 Mana
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+CAST TIME:
+none
+EFFECT RADIUS:
+Global
+WIDTH:
+160
+SPEED:
+4000
+Active:
+Xayah
+recalls all
+Feathers
+to shoot back to her, each dealing
+physical damage
+to enemies hit based on her
+critical strike chance
+. An enemy hit by at least three
+Feathers
+is briefly
+rooted
+.
+Active:
+Xayah
+recalls all planted
+Feathers
+to shoot back to her, each dealing
+physical damage
+to enemies hit, increased by
+0% − 75% (based on critical strike chance)
+.
+Bladecaller
+deals 50% damage to
+minions
+.
+Physical Damage Per Feather:
+55 / 65 / 75 / 85 / 95
+(+ 60%
+bonus
+AD)
+Minion Damage Per Feather:
+27.
+5
+/ 32.
+5
+/ 37.
+5
+/ 42.
+5
+/ 47.
+5
+(+ 30%
+bonus
+AD)
+An enemy takes
+100% − 10% (based on previous feathers hit)
+damage from a
+Feather
+.
+A target hit by at least three
+Feathers
+is
+rooted
+for 1.
+25
+seconds.
+Enemies can be hit by an individual
+Feather
+only once per pass.
+"Gotcha!"
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Feathers
+that are 'in flight' will be called to
+Xayah
+too, but only once they've landed normally first.
+Spell shield
+will only block a single instance of damage.
+This ability cannot be ranked at
+Level
+1.
+The damage dealt by
+Bladecaller
+follows a diminishing returns formula not mentioned in the ability's description, successively reducing extra damage from feathers beyond the first.
+This formula is:
+For feathers <=19: Damage of one feather × (n − 0.
+05
+× (n − 1) ÷ 2 × n) where n stands for the number of feathers hit.
+For feathers >=20: Damage of one feather × (19 − 0.
+05
+× (19 − 1) ÷ 2 × 19 + 0.1 × (n − 19)) where n stands for the number of feathers hit.
+For example, at rank 1
+Bladecaller
+deals
+55 − 574.
+75
+(based on feathers hit)
+.
+Bladecaller
+cannot be cast without a
+Feather
+on the ground.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage per feather changed to 40 / 50 / 60 / 70 / 80.
+Bonus AD ratio per feather changed to
+55%
+bonus
+AD
+.
+Edit
+Featherstorm
+COST:
+100 Mana
+COOLDOWN:
+140 / 120 / 100
+CAST TIME:
+none
+EFFECT RADIUS:
+1060
+/
+1000
+ANGLE:
+30°
+Active:
+Xayah
+leaps into the air and briefly becomes
+untargetable
+, then throws five
+Feathers
+in a cone in the target direction that each deal
+physical damage
+to enemies hit.
+Xayah
+can move during Featherstorm.
+Active:
+Xayah
+leaps into the air, becoming
+untargetable
+and
+ghosted
+for 1.
+5
+seconds. After 1 second, she shoots 5
+Feathers
+in a cone in the target direction that deal
+physical damage
+to enemies hit.
+Physical Damage:
+200 / 300 / 400
+(+ 100%
+bonus
+AD)
+Xayah
+is unable to basic attack or cast abilities during Featherstorm, but can still move.
+"Feathers fly!"
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+See Notes
+The individual missiles have 1100 range but start slightly behind Xayah, reducing their total range.
+The following table refers for interactions while
+Xayah
+is in
+Featherstorm
+:
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Allowed
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Teleport
+Recall
+Hexflash
+Mark
+Dash
+Disabled
+N/A
+Interrupted by
+N/A
+Interrupted by
+Death
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Xayah (Collection)
+.
+Original
+View in 3D
+975
+18.04.2017
+Deadly and precise, Xayah is a vastayan revolutionary waging a personal war to save her people. She uses her speed, guile, and razor-sharp feather blades to cut down anyone who stands in her way. Xayah fights alongside her partner and lover, Rakan, to protect their dwindling tribe, and restore their race to her vision of its former glory.
+Laila Pyne
+Evan 'Somnicidal' Monteiro, Jason Chan, Joshua 'HUGEnFAST' Brian Smith
+Loot eligible
+Cosmic Dusk
+View in 3D
+1350
+18.04.2017
+Dusk beckons the dawn to its embrace, two lovers locked in an endless waltz across the stars. Thus Xayah is always a step ahead of Rakan, leading him forever into her arms.
+Laila Pyne
+Kelly Aleshire
+Cosmic
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Sweetheart
+View in 3D
+1350
+12.02.2018
+Some say Xayah is lucky to have found true love. Her feathers captivate the soul, filling one's heart with passion and romance—that is, if you're Rakan. If you're not Rakan, Xayah's feathers cut right through the heart, leaving nothing but unrequited feelings, and tables for one.
+Laila Pyne
+Jean 'Curing' Go
+Heartbreakers
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+SSG
+View in 3D
+1350
+20.07.2018
+Honoring Ruler's winning performance as Xayah during the 2017 World Championship.
+Laila Pyne
+Rudy Siswanto, Pan Chengwei
+World Champions: 2017
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Star Guardian
+View in 3D
+1820
+12.09.2019
+Many years ago, Xayah was destroyed in the fight against Zoe, alongside her lover Rakan. The pair were then resurrected and turned against their allies -- a change Xayah seems almost happy about. Blaming the Star Guardians for abandoning her to die, she has taken a bitter, personal stand against them, even as doubts begin to creep in...
+Laila Pyne
+Esben Lash Rasmussen, Atey Ghailan
+Star Guardian Season 3
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Transforming
+Chromas
+Star Guardian Xayah Chromas
+Aquamarine
+Ruby
+Turquoise
+Elderwood
+View in 3D
+1350
+10.12.2020
+Deep in the shaded canopies of the Elderwood, the Fey Prince Rakan and Princess Xayah hold court over two rival fairy dominions. Though Princess Xayah has seen the darkness of the world beyond, she has chosen to simply adopt its colors for her court rather than confront it.
+Laila Pyne
+West Studio
+Elderwood
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Elderwood Xayah Chromas
+Catseye
+Emberwood
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Brave Phoenix
+View in 3D
+1350
+02.09.2021
+Xayah is a defender of ancient magic, protecting relics and places of great power from those who would use them for evil. Honoring her service, the fenghuang bestowed upon her a single feather, granting Xayah impossible power.
+Laila Pyne
+Ina Wong, West Studio
+Phoenixmancers
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Brave Phoenix Xayah Chromas
+Catseye
+Emerald
+Golden Tiger
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Prestige Brave Phoenix
+View in 3D
+Special
+17.02.2022
+Her heart unwavering, Xayah carries the fenghuang's blessing with her across the once peaceful lands. She makes quick work of those who would lay waste to the relics of the past, her magic mirroring their beauty in a harmonious dance. If they wield their power in order to honor their ancestors, Xayah is confident that the forces of good will prevail.
+Laila Pyne
+Julia Yurtsev
+Phoenixmancers
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Brave Phoenix
+. Store variants are discounted for multiple purchases.
+Arcana
+View in 3D
+1350
+14.04.2022
+One half of a perpetually incomplete whole, Xayah has found her love not in the world of the Higher Arcana, but the Lower. As she strains to meet the fated Rakan and pull him upwards towards herself, their tension frays and forms discordant knots—setting the stage for something new.
+Laila Pyne
+Marie Magny, West Studio
+Arcana
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Arcana Xayah Chromas
+Catseye
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Broken Covenant
+View in 3D
+1350
+09.03.2023
+Thieves until the end, Xayah and Rakan only cared about each other and shunned the war raging around them. When Rakan ran afoul of the Neverghaast and was almost killed, Xayah agreed to spy on the Aspirants if Vladimir made her partner a Neverghaast. As she reports back from within the congregation, she prays she can find a cure for her lover's curse.
+Laila Pyne
+Marie Magny, West Studio
+Broken Covenant
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Broken Covenant Xayah Chromas
+Aquamarine
+Citrine
+Pearl
+Peridot
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Redeemed Star Guardian
+View in 3D
+1820
+11.10.2023
+Being bad was fun while it lasted. But all things must end. Through the power of devotion—and the First Star—Rakan sacrificed himself to save Xayah. Now a guardian once more, Xayah searches the night skies for her love, hoping to return the favor without falling into chaos herself.
+Laila Pyne
+Ina Wong, West Studio
+Star Guardian Season 4
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Star Guardian
+. Store variants are discounted for multiple purchases.
+Battle Bat
+View in 3D
+1350
+17.07.2024
+Bat Squad's edgy hotshot Xayah knows that sometimes you have to strike first and hard to make a statement. Hailing from an attempted settlement outside Final City that was destroyed, Xayah's grudge against the Primordians is deeply personal. Between battles, she uses her stealth training to avoid Seraphine prying about who the guy she's always texting is.
+Laila Pyne
+Bo 'chenbowow' Chen
+Anima Squad
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Battle Bat Xayah Chromas
+Emerald
+Nightwire
+Obsidian
+Pearl
+Rainbow
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.21
+Deadly Plumage
+Bonus damage increased to 25% from 20%.
+V14.17
+Clean Cuts
+Bug Fix:
+Feathers no longer become invisible and fail to expire if they have hit a dashing enemy.
+V14.14
+Star Guardian Xayah
+Bug Fix:
+Taunt response VO is no longer louder than intended.
+V14.13
+Bladecaller
+Base damage per feather increased to 55 / 65 / 75 / 85 / 95 from 50 / 60 / 70 / 80 / 90.
+Cooldown reduced to 12 / 11 / 10 / 9 / 8 seconds from 13 / 12 / 11 / 10 / 9.
+V13.24
+Deadly Plumage
+Bug Fix:
+Empowered feather missiles no longer disappear in their flight to the target if they moved too far away.
+V13.18
+Stats
+Base health reduced to 630 from 660.
+Health growth increased to 107 from 102.
+Bladecaller
+Cooldown increased to 13 / 12 / 11 / 10 / 9 seconds from 11 / 10.
+5
+/ 10 / 9.
+5
+/ 9.
+V13.8
+Double Daggers
+Bug Fix:
+Now properly recalculates the feather's move start delay based on attack speed if she sold an attack speed item while dead.
+V13.5
+Bladecaller
+Base damage per feather reduced to 50 / 60 / 70 / 80 / 90 from 55 / 65 / 75 / 85 / 95.
+Cooldown increased to 11 / 10.
+5
+/ 10 / 9.
+5
+/ 9 seconds from 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8.
+V13.1b
+Stats
+Mana regeneration growth increased to 0.
+8
+from 0.
+75
+.
+V13.1
+Stats
+Base attack speed increased to 0.
+658
+from 0.
+625
+.
+Attack speed ratio increased to 0.
+658
+from 0.
+625
+.
+V12.10
+Stats
+Base health increased to 660 from 590.
+Health growth increased to 102 from 88.
+Armor growth increased to 4.
+2
+from 3.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V12.8
+Double Daggers
+Base damage reduced to 45 / 60 / 75 / 90 / 105 from 45 / 65 / 85 / 105 / 125.
+Cooldown increased to 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8 seconds from 10 / 9 / 8 / 7 / 6.
+V12.4
+Bladecaller
+Critical strike chance ratio increased to
+0% − 75% (based on critical strike chance)
+from
+0% − 50% (based on critical strike chance)
+.
+V11.22
+- November 4th Hotfix
+Double Daggers
+Base damage reduced to 45 / 65 / 85 / 105 / 125 from 50 / 75 / 100 / 125 / 150.
+Cooldown increased to 10 / 9 / 8 / 7 / 6 seconds from 10 / 8.
+5
+/ 7 / 5.
+5
+/ 4.
+V11.21
+Stats
+Base movement speed increased to 330 from 325.
+Double Daggers
+Cooldown reduced to 10 / 8.
+5
+/ 7 / 5.
+5
+/ 4 seconds from 10 / 9 / 8 / 7 / 6.
+V11.17
+Double Daggers
+Cast time reduced to
+0.
+25
+− 0.
+1
+(based on
+bonus
+attack speed)
+seconds from 0.
+25
+at all attack speeds.
+Featherstorm
+Base damage increased to 200 / 300 / 400 from 125 / 250 / 375.
+V11.15
+Featherstorm
+Cooldown reduced to 140 / 120 / 100 seconds from 160 / 145 / 130.
+V11.13
+Double Daggers
+Base damage increased to 50 / 75 / 100 / 125 / 150 from 45 / 65 / 85 / 105 / 125.
+V11.8
+- April 14th Hotfix
+Clean Cuts
+Bug Fix:
+Missile can once again
+critically strike
+on collision with enemy and
+miss
+against the primary target.
+V11.1
+Bladecaller
+Cooldown reduced to 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8 seconds from 12 / 11 / 10 / 9 / 8.
+Mana cost reduced to 30 from 40.
+V10.22
+Stats
+Attack speed growth increased to 3.
+9
+% from 3.
+3
+%.
+V10.17
+Stats
+Attack damage growth increased to 3.
+5
+from 2.
+9
+.
+V10.12
+Featherstorm
+Base damage increased to 125 / 250 / 375 from 100 / 150 / 200.
+V10.11
+Stats
+Base health increased to 590 from 561.
+Health growth increased to 88 from 86.
+V10.8
+Bladecaller
+Feather damage increased to
+100% − 10% (based on previous feathers hit)
+from
+100% − 10% (based on feathers hit)
+.
+V9.22
+Deadly Plumage
+Bonus attack speed reduced to 35 / 40 / 45 / 50 / 55% from 40 / 47.
+5
+/ 55 / 62.
+5
+/ 70%.
+V9.20
+Featherstorm
+Bug Fix:
+Fixed a bug where casting it with the cursor exactly below her would cause the ability's rotation lock to be removed.
+V9.18
+Stats
+Base armor reduced to 25 from 28.
+Featherstorm
+Cooldown increased to 160 / 145 / 130 seconds from 140 / 125 / 110.
+V9.16
+Clean Cuts
+Bug Fix:
+Basic attacks now properly spawn feathers behind her target and not around her.
+V9.15
+Clean Cuts
+Bug Fix:
+Now apply the proper number of
+Electrocute
+stacks based on the number of basic attacks.
+V9.6
+Deadly Plumage
+Bonus attack speed increased to 40 / 47.
+5
+/ 55 / 62.
+5
+/ 70% from 30 / 35 / 40 / 45 / 50%.
+V9.1
+Bladecaller
+Root duration increased to 1.
+25
+seconds from 1.
+V8.15
+SSG Xayah
+Bug Fix:
+Now properly listed as World Champions: 2017 in the Skins Collections tab.
+V8.11
+Stats
+Base health increased to 561 from 545.
+Health growth increased to 86 from 80.
+Base armor reduced to 28 from 33.
+Base health regeneration reduced to 3.
+25
+from 5.
+Base attack damage reduced to 60 from 64.
+Attack damage growth increased to 2.
+9
+from 2.
+2
+.
+V8.8
+Stats
+Base health regeneration reduced to 5 from 6.
+Clean Cuts
+Pass through damage reduced to
+30% / 40% / 50% (based on level)
+from 50% at all levels.
+V8.6
+Deadly Plumage
+While
+Deadly Plumage
+is active on both
+Xayah
+and
+Rakan
+, when one of them basic attacks an enemy only their own
+Deadly Plumage
+strikes that enemy, from both of their
+Deadly Plumage
+.
+V8.3
+Sweetheart Xayah
+Featherstorm
+Bug Fix:
+Model no longer disappears when landing after using
+Featherstorm
+.
+Bug Fix:
+Daggers are no longer misplaced underneath her model when returning to her.
+V7.23
+Clean Cuts
+Bug Fix:
+Champion-created units with ward-style health (ex.
+Gangplank's
+Powder Keg
+) can now properly be attacked while
+Clean Cuts
+is active.
+V7.22
+Stats
+Base attack damage increased to 64 from 56.
+Base armor increased to 33 from 24.
+Double Daggers
+Base damage increased to 45 / 65 / 85 / 105 / 125 from 40 / 60 / 80 / 100 / 120.
+Bladecaller
+Base damage increased to 55 / 65 / 75 / 85 / 95 from 50 / 60 / 70 / 80 / 90.
+V7.13
+Double Daggers
+New Effect:
+Time in which you can't basic attack while it is firing now scales down with
+bonus
+attack speed
+.
+Featherstorm
+Bug Fix:
+Using it and hitting an enemy champion at the same time a turret kills a minion would cause the turret not to aggro champions until its next minion target is dead.
+V7.12
+Double Daggers
+Removed:
+Being able to basic attack while the ability is firing.
+Deadly Plumage
+Cooldown increased to 20 / 19 / 18 / 17 / 16 seconds from 16 / 15 / 14 / 13 / 12.
+V7.11
+General
+Bug Fix:
+Xayah's
+warding VO lines are now audible to allies, rather than only her.
+Bug Fix:
+Fixed a bug where, when
+Xayah
+and
+Rakan
+use
+Lover's Leap
+Recall
+while empowered by
+Baron
+, only the champion who started the
+Recall
+would gain Empowered
+Recall's
+bonus movement speed.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+Cosmic Dusk Xayah
+Bug Fix:
+Splash art has been flipped in
+Xayah's
+AIR client champion info page so she's not covered up by the interface.
+V7.8
+- Added
+Clean Cuts
+Innate:
+After casting an ability,
+Xayah's
+next 3 basic attacks strike all enemies along their path, dealing 100% damage to her main target and 50% pass-through damage to other enemies.  At her maximum attack range, a
+Feather
+will be left in the ground for 6 seconds.
+Xayah
+can store up to 5 empowered attacks.
+Lover's Leap:
+If either
+Xayah
+or
+Rakan
+is
+recalling
+, the other may move nearby and activate their own recall to join them.
+Both
+reach base at the time of which the initiator's recall ends.
+Double Daggers
+Active:
+After a brief wind-up,
+Xayah
+hurls two feather-blades in quick succession in the target direction, and leaving 2
+Feathers
+on the ground at maximum range. The feather-blades deal 40 / 60 / 80 / 100 / 120
+(+ 50%
+bonus
+AD)
+physical damage to all enemies they pass through, reduced to 50% against units beyond the first.
+Mana Cost:
+50.
+Cooldown:
+10 / 9 / 8 / 7 / 6 seconds.
+Deadly Plumage
+Active:
+Xayah
+surrounds herself with a storm of feathers-blades for 4 seconds, granting her
+30 / 35 / 40 / 45 / 50%
+bonus
+attack speed
+and 30%
+bonus
+movement speed for 1.
+5
+seconds whenever she attacks a champion. Additionally, her basic attacks hurl lesser bolts from the storm, dealing 20% bonus physical damage to her target.
+If
+Rakan
+is nearby, he will also gain
+Deadly Plumage
+, in turn causing each of their attacks to conjure a second lesser bolt from the other's storm.
+Mana Cost:
+60 / 55 / 50 / 45 / 40.
+Cooldown:
+16 / 15 / 14 / 13 / 12 seconds.
+Bladecaller
+Active:
+Xayah
+recalls all her
+Feathers
+, dealing 50 / 60 / 70 / 80 / 90
+(+ 60%
+bonus
+AD)
+physical damage to enemies they strike on their way toward her, increasing by 0.
+5
+% for every
+1% of
+Xayah's
+Critical Strike Chance
+. Minions take 50% reduced damage. Each
+Feather
+to strike a target deals 10% less damage than the last, with a minimum of 10% damage. Enemies struck by at least 3
+Feathers
+are
+rooted
+for 1 second.
+Mana Cost:
+40.
+Cooldown:
+12 / 11 / 10 / 9 / 8 seconds.
+Featherstorm
+Active:
+Xayah
+leaps into the air, becoming briefly untargetable but still able to move. After a short delay, she unleashes a volley of feather-blades forward in a cone, dealing 100 / 150 / 200
+(+ 100%
+bonus
+AD)
+physical damage to all enemies struck and leaving a line of 5
+Feathers
+at the end of
+Featherstorm's
+maximum range.
+Mana Cost:
+100.
+Cooldown:
+140 / 125 / 110 seconds.
+Trivia
+[
+edit
+|
+edit source
+]
+Xayah
+is one of 21 champions without a single
+ability power
+ratio on any ability:
+Aatrox
+,
+Camille
+,
+Darius
+,
+Dr. Mundo
+,
+Draven
+,
+Garen
+,
+K'Sante
+,
+Kayn
+,
+Kled
+,
+Naafiri
+,
+Nilah
+,
+Olaf
+,
+Pyke
+,
+Riven
+,
+Samira
+,
+Sett
+,
+Talon
+,
+Urgot
+,
+Yone
+, and
+Zed
+.
+Xayah's and
+Rakan's
+dual release is the first one since
+V1.0.0.72
+.
+They were also the first
+champions
+released in
+2017
+.
+Xayah's and Rakan's loading screens always align themselves to the rightmost side before a game starts and when picked on the same team (to mirror their shared splash art).
+Xayah's and Rakan's dual recall animation is divided into three sections, an intro, a middle section, and then an outro. The whole sequence would take 8 seconds if Xayah and Rakan recalled at the exact same time, while the intro and the outro are both (<2 seconds).
+The system will always play the intro, then it will always play the outro when there is 2 seconds left in the animation, regardless of how long the middle section has played for. This means that the characters will blend from whatever position they are in, to the first pose of the outro part of the sequence.
+[2]
+Xayah does not lay eggs.
+[3]
+Xayah is the sixth dark-theme Ionian champion, the others being
+Shen
+,
+Varus
+,
+Syndra
+,
+Zed
+,
+Jhin
+, &
+Kayn
+.
+Bladecaller's victim
+is an acolyte of
+The Shadow Order
+.
+She has a base size of 35 which is considered small.
+Xayah
+and Rakan are likely to always receive skins together.
+iG Rakan
+however, is one exception.
+[4]
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Marksman
+Marksmen
+(formerly "Carries") excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger. Although Marksmen have the ability to stay relatively safe by kiting their foes, they are very fragile and are extremely reliant on powerful item purchases to become true damage threats.
+At present, Marksmen do not have any official subclasses. The following have been considered:
+Demolisher
+Scrapper
+Examples
+Ashe
+Ezreal
+Lucian
+Kai'Sa
+Jhin
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Bottom
+Within a
+drafted team
+, the
+Bottom Carry
+is one of the two champions assigned to the bottom lane alongside the
+Support
+. Being the most vulnerable, the
+Bottom Carry
+has to acquire as much gold as possible to purchase key items that will greatly increase their fighting potential.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Bottom Carry
+is expected to fulfill the former designation: the position is made for champions that highly depend on item-based power spikes.
+Marksmen
+are the most likely champions to be selected in the
+Bottom Carry
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Projectile
+A
+projectile
+or
+missile
+is any entity not classified as a unit (
+champion
+,
+minion
+,
+monster
+, etc.
+) that travels at any given velocity.
+Moving units are
+not
+considered projectiles under any circumstance (
+including
+dashing
+units,
+airborne
+units, or units thrown by some abilities such as
+Force of Will
+or
+Roar of the Slayer
+.
+).
+Braum's
+Unbreakable
+,
+Samira's
+Blade Whirl
+, and
+Yasuo's
+Wind Wall
+can block, destroy and / or stop projectiles.
+Some
+ranged
+basic attacks (
+including
+turrets
+) and abilities don't use projectiles and will bypass projectile-blocking effects.
+Some abilities will
+destroy
+all currently incoming homing projectiles.
+League of Legends content
+Homing projectile destruction
+Destroying
+or
+popping of a projectile
+references an effect that destroys all homing
+missiles
+currently targeting a specific unit, such as ranged projectile-based
+basic attacks
+. Destroyed missiles will do the same thing as if they were destroyed by
+Wind Wall
+or
+Blade Whirl
+(usually vanishing without any effect).
+The following abilities perform one or more
+projectile popping events
+:
+Most
+abilities and effects that grant
+untargetability
+pop projectiles when the unit gains the status effect.
+Master Yi's
+Alpha Strike
+in particular pops targeted projectiles on each game tick for its duration.
+Gwen's
+Hallowed Mist
+pops all projectiles (from enemy champions outside of its area of effect) targeted at her that attempt to pass through or be inside its area of effect.
+Upon entering or leaving
+Mordekaiser's
+Realm of Death
+.
+Upon successfully completing the
+channel
+of:
+Shen's
+Stand United
+Twisted Fate's
+Gate
+Teleport
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Default damage
+Default damage
+is dealt by effects that are not otherwise classified, or are deliberately left unclassified. This most common source of
+default damage
+is splash damage from basic attacks.
+Default damage
+does not interact with most other effects, such as
+Conqueror
+stacking,
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of the damage's non-reactive nature (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Root
+A unit that is
+rooted
+is unable to control its movement or activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Rooted
+units can still be displaced.
+Root
+is an
+immobilizing
+effect
+.
+Moving
+includes movement commands.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Deadly Plumage
+COOLDOWN:
+20 / 19 / 18 / 17 / 16
+Active:
+Xayah
+empowers herself for a few seconds, gaining
+bonus
+attack speed
+and causing her basic attacks to strike a second time, dealing
+reduced
+damage.
+Whenever she hits an enemy
+champion
+, she briefly gains
+bonus
+movement speed
+.
+If
+Rakan
+is nearby upon cast, he also becomes empowered and gains the
+bonus
+movement speed
+at the same time as
+Xayah
+.
+League of Legends content
+Clean Cuts
+Innate:
+Feathers
+shot by
+Xayah
+will linger in the ground at max range for a few seconds.
+Innate:
+Xayah's
+ability casts generate three stacks of
+Clean Cuts
+, stacking up to five times.
+Xayah's
+basic attacks consume a stack to instead shoot a
+Feather
+that deals
+the attack's damage
+to the target and
+physical damage
+to other enemies hit.
+Innate - Lover's Leap:
+Xayah
+and
+Rakan
+can join each other's
+Recall
+to complete together.
+League of Legends content
+Bladecaller
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+Active:
+Xayah
+recalls all
+Feathers
+to shoot back to her, each dealing
+physical damage
+to enemies hit based on her
+critical strike chance
+.
+An enemy hit by at least three
+Feathers
+is briefly
+rooted
+.
+League of Legends content
+Double Daggers
+COOLDOWN:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8
+Active:
+Xayah
+barrages out two
+Feathers
+that each deal
+physical damage
+to enemies hit.
+League of Legends content
+Featherstorm
+COOLDOWN:
+140 / 120 / 100
+Active:
+Xayah
+leaps into the air and briefly becomes
+untargetable
+, then throws five
+Feathers
+in a cone in the target direction that each deal
+physical damage
+to enemies hit.
+Xayah
+can move during Featherstorm.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Powder Keg
+RECHARGE:
+17 / 16 / 15 / 14 / 13
+Active:
+Gangplank
+places a
+Powder Keg
+at the target location, which can be basic attacked or
+shot
+to damage it. If an enemy destroys a
+Powder Keg
+, it is safely dismantled.
+If
+Gangplank
+destroys a
+Powder Keg
+, it will explode to deal the
+attack's damage
+to nearby enemies and
+slow
+them. Against an enemy
+champion
+, the explosion additionally deals
+bonus
+physical damage
+and ignores a
+portion of their armor
+.
+The explosion will cause nearby
+Powder Kegs
+to also explode.
+Gangplank
+stocks a
+Powder Keg
+every few seconds, up to a maximum.
+League of Legends content
+Clean Cuts
+Innate:
+Feathers
+shot by
+Xayah
+will linger in the ground at max range for a few seconds.
+Innate:
+Xayah's
+ability casts generate three stacks of
+Clean Cuts
+, stacking up to five times.
+Xayah's
+basic attacks consume a stack to instead shoot a
+Feather
+that deals
+the attack's damage
+to the target and
+physical damage
+to other enemies hit.
+Innate - Lover's Leap:
+Xayah
+and
+Rakan
+can join each other's
+Recall
+to complete together.
+References
+[
+edit
+|
+edit source
+]
+↑
+Xayah's profile page
+at
+LeagueOfLegends.com
+↑
+Xayah and Rakan recall system
+↑
+Vastaya Q&A
+↑
+Xayah and Rakan skins

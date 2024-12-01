@@ -1,0 +1,2454 @@
+An editor has marked this article or section as being actively worked on. Please be patient to avoid edit-conflicts. Consider contacting the last editor or replacing this notice with
+{{ToDo}}
+when this expiration date has passed:
+05-Dec-2024 22:19
+.
+VGU is being implemented. See
+/History
+for V14.23 depiction.
+This article was
+last edited
+by
+Martin ormazabal
+on
+28-Nov-2024 22:19
+.
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Viktor
+the Herald of the Arcane
+Release date
+2011-12-29
+Last changed
+V14.12
+Class(es)
+Battlemage
+Legacy
+Mage
+Position(s)
+Middle
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+1
+Utility
+1
+Style
+Difficulty
+Viktor
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Viktor
+Base statistics
+Edit
+Health
+600
++104
+Mana
+405
++45
+Health regen. (per 5s)
+8
++0.65
+Mana regen. (per 5s)
+8
++0.8
+Armor
+23
++5.2
+Attack damage
+53
++3
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+525
+Attack speed
+Base AS
+0.658
+Attack windup
+18%
+AS ratio
+N/A
+Bonus AS
++2.11
+%
+Missile speed
+2300
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+525
+Special statistics
+Damage Dealt
+-5%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Glorious Evolution
+Innate:
+Viktor
+collects
+Hex Fragments
+from enemies he kills and enemy champion
+takedowns
+, he can augment each of his basic abilities at the cost of max
+Hex Fragments
+.
+Arcane Storm
+becomes augmented once all augments have been acquired.
+Innate:
+Viktor
+can augment each of his basic
+abilities
+at the cost of 100
+Hex Fragments
+, which he gains from killing enemies:
+Minions
+and
+monsters
+generate 1
+Hex Fragment
+.
+Siege minions, super minions, and epic monsters generate 5
+Hex Fragments
+.
+Enemy
+champion
+takedowns
+generate 25
+Hex Fragments
+.
+Arcane Storm
+becomes augmented once all of
+Viktor's
+basic abilities have been augmented.
+Info
+Targeting input
+Passive
+Viktor
+can only have up to 100
+Hex Fragments
+, and must upgrade an ability before obtaining any more.
+Map-Specific Differences
+Arena
+differences
+edit
+New Effect:
+Gains 25
+Hex Fragments
+per round.
+Edit
+Siphon Power
+COST:
+45 / 50 / 55 / 60 / 65 mana
+COOLDOWN
+:
+9 / 8 / 7 / 6 / 5
+CAST TIME:
+0.
+25
+TARGET RANGE:
+600
+SPEED:
+2000
+Active:
+Viktor
+throws a device at the target enemy that deals
+magic damage
+. He also gains
+Discharge
+and
+shields
+himself for a short time.
+Discharge
+:
+Viktor's
+next basic attack with a short time will be modified to deal
+magic damage
+.
+Augment: Turbocharge
+:
+After the device hits,
+Viktor
+gains
+bonus
+movement speed
+for a short time, and the
+shield
+is increased.
+Active:
+Viktor
+throws a device at the target enemy that deals
+magic damage
+. He also grants himself a
+shield
+for
+27 − 105 (based on level)
+(+ 18% AP)
+for 2.
+5
+seconds and gains
+Discharge
+for 3.
+5
+seconds.
+Magic Damage:
+60 / 75 / 90 / 105 / 120
+(+ 40% AP)
+Discharge:
+Viktor's
+next
+basic attack
+is empowered to become
+non-projectile
+and deal
+modified
+magic damage
+.
+Modified Magic Damage:
+20 / 45 / 70 / 95 / 120
+(+ 100% AD)
+(+ 60% AP)
+Total Magic Damage:
+80 / 120 / 160 / 200 / 240
+(+ 100% AD)
+(+ 100% AP)
+Augment: Turbocharge
+:
+After the device hits,
+Viktor
+gains
+30%
+bonus
+movement speed
+for 2.
+5
+seconds and the shield's strength is increased
+「 by 60%. 」
+「 to
+48 − 184 (based on level)
+(+ 32% AP)
+. 」
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Parries
+Missing
+Projectile
+See Notes
+All damage dealt by
+Spellblade
+on the empowered attack is converted into
+magic damage
+.
+Spell shield
+does not prevent
+Viktor
+from gaining
+Discharge
+.
+Critical strike
+and
+life steal
+only interact with the basic attack damage component.
+Only the initial projectile can be
+intercepted
+.
+Discharge's
+empowered attack can be
+blocked
+(damage is negated and the empowered attack will still be consumed).
+PENDING FOR TEST:
+: Interactions with other
+parrying
+effects (
+blind
+and
+dodge
+).
+The empowered attack will trigger against turrets but not be consumed nor apply its effects against
+wards
+.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+Edit
+Gravity Field
+COST:
+65 mana
+COOLDOWN:
+17 / 16 / 15 / 14 / 13
+CAST TIME:
+0.
+25
+TARGET RANGE:
+800
+Active:
+Viktor
+deploys a gravity field that remains at the target location for a few seconds. After a brief delay, it activates to continually
+slow
+enemies within and inflict stacks of
+Gravity Field
+. The third stack consumes them all to briefly
+knock down
+and
+stun
+the target.
+Augment: Magnetize
+:
+Viktor's
+other basic abilities will also briefly
+slow
+enemies hit.
+Active:
+Viktor
+deploys a gravity field at the target location for 4 seconds. After a 0.
+75
+-second delay, it activates to
+slow
+enemies within, persisting for 0.
+25
+seconds after leaving the area or generating 3 stacks.
+Slow:
+30 / 34 / 38 / 42 / 45%
+The field applies a
+stack
+to enemies within every 0.
+5
+seconds, stacking up to 3 times. The third stack consumes them all to
+knock down
+and
+stun
+the target for 1.
+5
+seconds. The target then becomes immune to
+Gravity Field's
+effects, occurring once per cast.
+Augment: Magnetize
+:
+Viktor's
+other abilities, excluding
+Arcane Storm's
+persistent damage,
+slow
+enemies hit by 20% for 1 second.
+Info
+Targeting input
+Location
+Counters
+Spell shield
+Blocked
+Gravity Field
+will remain active if
+Viktor
+dies.
+Gravity Field's
+animation can be seen by both teams through
+fog of war
+.
+If an enemy enters the area of effect while
+untargetable
+, they may generate stacks even after becoming stunned once, causing them to get stunned up-to 3 times by a single
+Gravity Field
+.
+(bug)
+Edit
+Hextech Ray
+COST:
+70 / 80 / 90 / 100 / 110 mana
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+CAST TIME:
+none
+TARGET RANGE:
+550
+RANGE:
+500
+EFFECT RADIUS:
+500
+WIDTH:
+90
+SPEED:
+1050
+/
+1500
+Active:
+Viktor
+fires an energy beam along the target path that deals
+magic damage
+to enemies hit.
+Augment: Aftershock
+:
+The path explodes along the beam's wake, dealing
+magic damage
+to enemies hit.
+Active:
+Viktor
+fires an energy beam along the target path that deals
+magic damage
+to enemies hit and briefly grants
+sight
+of the area.
+Magic Damage:
+70 / 110 / 150 / 190 / 230
+(+ 50% AP)
+Augment: Aftershock
+:
+The path explodes along the beam's wake after 1 second, dealing
+magic damage
+to enemies hit.
+Magic Damage:
+20 / 50 / 80 / 110 / 140
+(+ 80% AP)
+Total Magic Damage:
+90 / 160 / 230 / 300 / 370
+(+ 130% AP)
+Info
+Targeting input
+Vector
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Viktor
+may freely act while the ray is traveling.
+The effected area is set upon casting, no matter how far away
+Viktor
+moves. Unlike a leash,
+Hextech Ray
+will not break off its own effect.
+The laser grants a moderate area of
+sight
+around where the beam strikes the ground.
+If
+Hextech Ray
+is
+intercepted
+, the initial ray is not destroyed.
+However, the capability to be blocked only applies to the laser as it hits the ground.
+Viktor
+can cast the ability
+over
+the wall and it will not be destroyed or intercepted.
+Augmented Hextech Ray
+will still cause the entire target area to explode even if the laser is blocked.
+If
+Viktor
+dies while he is firing the beam it only deals damage up to the location at the time of his death.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 80 / 120 / 160 / 200 / 240.
+AP ratio changed to
+50% AP
+.
+Edit
+Arcane Storm
+COST:
+100 mana
+COOLDOWN
+:
+120 / 100 / 80
+CAST TIME:
+0.
+25
+TARGET RANGE:
+700
+EFFECT RADIUS:
+350 /
+700
+SPEED:
+200
+/
+300
+/
+250
+/
+375
+Active:
+Viktor
+conjures a singularity at the target location that deals
+magic damage
+to enemies within and
+disrupts
+their channeled abilities. The singularity remains for a few seconds to continually deal
+magic damage
+, and automatically follows the nearest enemy
+champion
+hit upon cast.
+Arcane Storm
+can be recast any time while the singularity is active.
+Recast:
+Viktor
+directs the singularity to the target location or enemy champion.
+Augment: Perfect Storm
+:
+The singularity moves faster.
+Active:
+Viktor
+conjures an arcane singularity at the target location, dealing
+magic damage
+to enemies within the area and
+disrupting
+their
+channeled abilities
+.
+Magic Damage:
+100 / 175 / 250
+(+ 50% AP)
+The singularity then remains active for 6.
+5
+seconds, dealing
+magic damage
+to enemies within it every second and granting
+sight
+of the area. The singularity targets the nearest champion hit by its initial damage and will follow them, moving faster based on its proximity to
+Viktor
+.
+Magic Damage Per Tick:
+65 / 105 / 145
+(+ 45% AP)
+Total Magic Damage:
+490 / 805 / 1120
+(+ 320% AP)
+Arcane Storm
+can be recast at any time while the singularity is active.
+Recast:
+Viktor
+directs the singularity to the target location or enemy champion.
+Augment: Perfect Storm
+:
+The singularity moves 25% faster.
+Arcane Storm's recast can be used while affected by
+cast-inhibiting crowd control
+.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+The
+disrupt
+is 'wrapped' into a status effect that says the target is
+Silenced
+for 0.
+25
+seconds, but it does not actually
+silence
+. It however makes sure that the
+disrupt
+is prevented by
+immunity to silences
+.
+Viktor
+can command the singularity regardless of how far away he is from it.
+The singularity will remain active even if
+Viktor
+dies. Any commands it was issued prior to his death will not be interrupted.
+Arcane Storm
+reaches its maximum speed at 300 units and minimum speed at 900 units away from
+Viktor
+.
+Including the initial damage,
+Arcane Storm
+deals 7 instances of damage.
+The storm will follow its target even if they are not
+visible
+, effectively giving away their position.
+Arcane Storm
+can be recast to follow
+Viktor
+. However, upon reaching him, the singularity will stop following
+Viktor
+.
+Arcane Storm
+is not obstructed by terrain.
+While augmented, an
+alternate icon is used for the recast of
+Arcane Storm
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Initial base damage changed to 100 / 175 / 250.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Viktor (Collection)
+.
+Original
+View in 3D
+880
+29.12.2011
+The herald of a new age of technology, Viktor has devoted his life to the advancement of humankind. An idealist who seeks to lift the people of Zaun to a new level of understanding, he believes that only by embracing a glorious evolution of technology can humanity’s full potential be realized. With a body augmented by steel and science, Viktor is zealous in his pursuit of this bright future.
+Owen Thomas
+Michal Ivan, Sixmorevodka Studio
+Loot eligible
+Full Machine
+View in 3D
+975
+29.12.2011
+Created from the same circuitry as the Full Metal champion, Jayce, Viktor was cast into the tunnels beneath the robot fighting arenas to serve as a janitoribot—while his twin was groomed for glory, simulcast en español. Upgrading himself with the cast-offs of the destroyed, he has sworn la venganza.
+Owen Thomas
+Lejia Chan, Kudos Productions
+Heavy Metal
+Loot eligible
+New SFX/VFX
+Prototype
+View in 3D
+750
+29.12.2011
+Owen Thomas
+Lejia Chan, Kudos Productions
+Mad Scientists
+Loot eligible
+Legacy
+Creator
+View in 3D
+1350
+30.09.2013
+The creator of the Battlecast machine army, Viktor has perfected the art of transplanting living brains into low-tech, mass-produced weapons. But his work is far from complete, and even now he tinkers on newer, deadlier creations to crush all who oppose him.
+Owen Thomas
+Michal Ivan, Puppetworks Animation Studio
+Battlecast
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Death Sworn
+View in 3D
+1350
+25.10.2017
+On a cold, dreary night, a pioneering inventor was tried and hanged for preaching his glorious vision of the future—a world in which the living knelt before the dead. Death had to admire Viktor's conviction, and sent him back into the mortal world, blessed with powers beyond imagination.
+Owen Thomas
+Marie Magny, West Studio
+Death Sworn
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+PsyOps
+View in 3D
+1350
+17.09.2020
+Leader of the rogue military known as the Black Rose Group, Viktor is a psychic technomancer whose vision for a utopian world was abandoned when he suddenly departed High Command decades prior. Obsessed with an alien 'gate' uncovered during the Arctic Ops event, his experiments into human bioweapons would allow him to breach it and upend the global order.
+Owen Thomas
+Francis Tneh, West Studio
+Black Rose Group
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+PsyOps Viktor Chromas
+Amethyst
+Hunter
+Obsidian
+Peridot
+Ruby
+Sandstone
+Sapphire
+Turquoise
+High Noon
+View in 3D
+1350
+26.05.2022
+Many a road to Hell was paved with good intent. Dr. Viktor may be the Mechanical Devil's kept engineer now, but his work began as charity: trying to “rehome” the souls of the dead in clockwork bodies, in order to circumvent mortality itself. Shame that Mordekaiser saw the good doctor's kindness and struck him a deal he could not deny.
+Owen Thomas
+Augusto Quirino, West Studio
+High Noon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+High Noon Viktor Chromas
+Catseye
+Emerald
+Nomad
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+Arcane Savior
+View in 3D
+1820
+..
+Viktor wanted nothing to do with hextech after the death of his assistant, Sky—but the arcane had different plans for him. In the undercity, he found a new purpose as a healer thanks to the hexcore's effect on him. Now he hopes to show everyone the true power and promise of hextech, should they choose to accept it.
+Owen Thomas
+Horace 'Hozure' Hsu
+Arcane
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.12
+Siphon Power
+New Effect:
+Discharge
+attack is now consumed against turrets, dealing 100% damage.
+V14.9
+Stats
+Selection radius reduced to 120 units from 160.
+V14.5
+Glorious Evolution
+Bug Fix:
+No longer incorrectly grants stacks from killing
+Voidmites
+.
+V14.2
+Death Ray
+Bug Fix:
+Targeting no longer behaves improperly when Clamp Cast Targeting is enabled.
+V12.10
+Stats
+Base health increased to 600 from 530.
+Health growth increased to 104 from 90.
+Armor growth increased to 5.
+2
+from 4.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Siphon Power
+Base shield reduced to
+27 − 105 (based on level)
+from
+30 − 115 (based on level)
+.
+Shield AP ratio reduced to
+18% AP
+from
+20% AP
+.
+V11.20
+Glorious Evolution
+Bug Fix:
+Now correctly obtains 5 Hex Fragments upon killing super minions and epic monsters, in addition to siege minions.
+V11.9
+Full Machine Viktor
+Updated visual effects.
+V11.5
+Glorious Evolution
+Bug Fix:
+Relic Shield's
+Spoils of War kills now properly count towards
+Glorious Evolution
+.
+V11.1
+Gravity Field
+Undocumented/Bug:
+Can now stun targets which entire it in a particular way multiple times in succession.
+V10.23
+- November 12th Hotfix
+Death Ray
+Laser AP ratio reduced to
+50% AP
+from
+70% AP
+.
+Aftershock base damage reduced to 20 / 50 / 80 / 110 / 140 from 20 / 60 / 100 / 140 / 180.
+Aftershock AP ratio increased to
+80% AP
+from
+60% AP
+.
+V10.23
+Stats
+Mana growth increased to 45 from 25.
+Glorious Evolution
+New Innate:
+Viktor
+can augment his basic abilities after gaining 100 Hex Fragments. He gains 1 from minion and monster kills, 5 from large minions and 25 from takedowns.
+Chaos Storm
+gets augmented once all of his basic abilities have been augmented.
+Old Innate:
+Viktor
+starts each game with an exclusive
+Prototype Hex Core
+, which permanently occupies one of his item slots. For some additional
+gold
+,
+Viktor
+can upgrade his
+Hex Core
+to increase its bonuses (
+) and grant him one
+Evolution
+point, which he can use to augment one of his basic abilities. Once he augments all of his basic abilities,
+Viktor
+automatically augments his ultimate ability,
+Chaos Storm
+.
+Death Ray
+Laser AP ratio increased to
+70% AP
+from
+60% AP
+.
+Aftershock AP ratio reduced to
+60% AP
+from
+70% AP
+.
+V10.18
+General
+Updated visual effects.
+New basic attack missile and hit effects.
+Siphon Power
+Updated beam effect and rebalanced shield effect.
+Gravity Field
+Updated gravity zone effect.
+Death Ray
+Updated effects to clearly show the area hit.
+Chaos Storm
+New initial cast effect.
+Creator Viktor
+All VFX updated in Battlecast thematic.
+Death Sworn Viktor
+Death Ray
+Size adjusted to match base.
+V10.12
+Siphon Power
+Shield AP ratio increased to
+20% AP
+from
+15% AP
+.
+Discharge
+AP ratio increased to
+60% AP
+from
+55% AP
+.
+Damage ratio not updated in the tooltip.
+V10.9
+Siphon Power
+Bug Fix:
+Empowered basic attacks are no longer able to destroy wards in two hits.
+V10.4
+- February 20th Hotfix
+Gravity Field
+Bug Fix:
+When playing on the Chaos side (top side) the
+Gravity Field
+will successfully stun enemies walking through or standing on it on the third stack.
+V10.2
+Stats
+Bug Fix:
+No longer loses a significant amount of mana if he upgrades the Prototype Hex Core early into the game. Now properly gains 25 mana per level instead of just
+Prototype Hex Core's
+mana per level.
+V9.21
+Stats
+Base health increased to 530 from 528.
+04
+.
+Base attack damage increased to 53 from 52.
+04
+.
+Base armor increased to 23 from 22.
+72
+.
+Siphon Power
+Base damage increased to 60 / 75 / 90 / 105 / 120 from 50 / 65 / 80 / 95 / 110.
+Gravity Field
+Bug Fix:
+SFX is no longer noticeably louder when using it against more than one enemy.
+V9.20
+- October 9th Hotfix
+Augment: Turbocharge
+Bug Fix:
+Fixed a bug where it wasn't properly increasing shield strength.
+V9.20
+Glorious Evolution
+Bug Fix:
+Prototype Hex Core's
+(and its upgrades) stats now update upon purchasing an upgrade rather then when
+Viktor
+levels up.
+Undocumented:
+Now gains
+Prototype Hex Core's
+mana per level instead of his base mana per level, once upgraded.
+Siphon Power
+Removed:
+Shield no longer scales with
+8% of his
+maximum
+mana
+.
+New Effect:
+Now has a base shield of
+30 − 115 (based on level)
+.
+Gravity Field
+Undocumented:
+Slow increased to 30 / 34 / 38 / 42 / 45% from 28 / 32 / 36 / 40 / 44%.
+Augment: Magnetize
+Renamed to
+Augment: Magnetize
+from
+Augment: Implosion
+.
+Removed:
+No longer drags stunned units to the center.
+New Effect:
+Viktor's
+non-periodic abilities now
+slow
+by 20% for 1 second.
+Does not trigger with
+Chaos Storm
+.
+Augment: Aftershock
+Bug Fix:
+Explosion width increased to 90 units from 80.
+Chaos Storm
+New Effect:
+Storm now follows the targeted enemy champion even if
+Viktor
+dies.
+New Effect:
+Can now cross walls.
+Tick interval reduced to 1 second from 2.
+Number of ticks increased to 6 from 3.
+Tick base damage reduced to 65 / 105 / 145 from 130 / 210 / 290.
+Tick AP ratio reduced to
+45% AP
+from
+85% AP
+.
+Augment: Perfect Storm
+Renamed to
+Augment: Perfect Storm
+from
+Augment: Velocity
+.
+Chaos Storm
+bonus movement speed increased to 25% from 20%.
+V9.17
+Augment: Implosion
+Bug Fix:
+Stun is now properly cleared from
+Cleanse
+.
+V9.6
+Siphon Power
+New Effect:
+Empowered attack portion now activates on-ability-hit procs.
+V9.1
+Chaos Storm
+New Effect:
+Ability icon HUD now shows the remaining duration of the ability.
+V8.24
+General
+New walk animation added without boots (currently base skin only).
+Siphon Power
+Cooldown increased to 9 / 8 / 7 / 6 / 5 seconds from 8 / 7 / 6 / 5 / 4.
+Base damage reduced to 50 / 65 / 80 / 95 / 110 from 60 / 80 / 100 / 120 / 140.
+Death Ray
+Cooldown reduced to 12 / 11 / 10 / 9 / 8 seconds from 13 / 12 / 11 / 10 / 9.
+Damage AP ratio increased to
+60% AP
+from
+50% AP
+.
+V8.22
+Siphon Power
+Discharge base damage reduced to 20 / 45 / 70 / 95 / 120 from 20 / 50 / 80 / 100 / 140.
+Discharge AP ratio increased to
+55% AP
+from
+50% AP
+.
+Chaos Storm
+Tick base damage reduced to 130 / 210 / 290 from 150 / 250 / 350.
+Tick AP ratio increased to
+85% AP
+from
+70% AP
+.
+V8.18
+Glorious Evolution
+The Hex Core mk-1's
+cost reduced to
+1150
+from
+1250
+.
+The Hex Core mk-2's
+total cost reduced to
+2150
+from
+2250
+.
+Perfect Hex Core's
+combine cost increased to
+850
+from
+750
+.
+Perfect Hex Core's
+total cost remains
+3000
+.
+V8.14
+Gravity Field
+Target range increased to 800 from 700.
+V8.11
+Siphon Power
+Discharge base damage increased to 20 / 50 / 80 / 110 / 140 from 20 / 40 / 60 / 80 / 100.
+Chaos Storm
+Tick AP ratio increased to
+70% AP
+from
+60% AP
+.
+V8.9
+Stats
+Base mana increased to 405 from 324.
+Mana growth reduced to 25 from 50.
+Base mana regeneration increased to 8 from 6.
+V8.3
+Stats
+Base health regeneration increased to 8 from 7.
+842
+.
+Siphon Power
+New Effect:
+Augment: Turbocharge
+now increases the shield strength by 60% to
+12.
+8
+% of his
+maximum
+mana
+(+ 24% AP)
+for the duration.
+Chaos Storm
+Cooldown reduced to 120 / 100 / 80 seconds from 120 / 110 / 100.
+V8.2
+Siphon Power
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V7.22
+Stats
+Base health increased to 528 from 516.
+04
+.
+Health growth increased to 90 from 78.
+Death Sworn Viktor
+Bug Fix:
+No longer uses classic SFX during his joke animation.
+Bug Fix:
+Character texture now scales with character quality.
+V7.20
+Creator Viktor
+Bug Fix:
+Is no longer missing SFX for his joke, taunt, and dance emotes.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.6
+Chaos Storm
+Bug Fix:
+Fixed a bug causing it to fizzle on death.
+V6.22
+Chaos Storm
+Bug Fix:
+Lowered the volume of
+Creator Viktor's
+Chaos Storm
+churning.
+V6.16
+Chaos Storm
+Maximum speed reduced to 400 from 450.
+Minimum speed increased to 200 from 170.
+Starts slowing down from maximum speed once it gets 300 units away, down from 350.
+Reaches minimum speed once it is 900 units away from
+Viktor
+, down from 950.
+Removed:
+No longer moves at maximum speed when
+Viktor
+targets himself.
+V6.15
+Chaos Storm
+Now only counts as "returning" (moves at maximum speed regardless of distance) if
+Viktor
+targets himself.
+V6.14
+Glorious Evolution
+The Hex Core mk-1's
+cost increased to
+1250
+from
+1000
+.
+The Hex Core mk-2's
+total cost increased to
+2250
+from
+2000
+.
+Perfect Hex Core's
+combine cost reduced to
+750
+from
+1000
+.
+Perfect Hex Core's
+total cost remains
+3000
+.
+V6.11
+Chaos Storm
+Bug Fix:
+Chaos Storm
+pulses are accompanied by sound effects.
+V6.9
+Siphon Power
+Cooldown reduced to 8 / 7 / 6 / 5 / 4 from 10 / 8.
+5
+/ 7 / 5.
+5
+/ 4.
+Active's base damage increased to 60 / 80 / 100 / 120 / 140 from 40 / 60 / 80 / 100 / 120.
+Active's AP ratio increased to
+40% AP
+from
+20% AP
+.
+Base shield changed to
+8% of maximum mana
+from 30 / 50 / 70 / 90 / 110.
+Shield's AP ratio reduced to
+15% AP
+from
+20% AP
+.
+Discharge's
+base damage changed to 20 / 40 / 60 / 80 / 100 from
+20 − 210 (based on level)
+.
+Death Ray
+AP ratio reduced to
+50% AP
+from
+70% AP
+.
+Missile speed increased to 1050 from 780.
+Aftershock
+damage changed to 20 / 60 / 100 / 140 / 180
+(+ 120% AP)
+from 70 / 110 / 150 / 190 / 230
+(+ 70% AP)
+.
+Aftershock
+no longer reduces damage by 60% against targets already hit by Death Ray.
+Total damage changed to 90 / 170 / 250 / 330 / 410
+(+ 120% AP)
+from 98 / 154 / 210 / 266 / 322
+(+ 98% AP)
+.
+Aftershock
+delay increased to 1 second from 0.
+6
+.
+Chaos Storm
+Duration reduced to 6 seconds from 7.
+Initial base damage reduced to 100 / 175 / 250 from 150 / 250 / 350.
+Initial damage AP ratio reduced to
+50% AP
+from
+55% AP
+.
+Tick base damage increased to 150 / 250 / 350 from 15 / 30 / 45.
+Tick damage AP ratio increased to
+60% AP
+from
+10% AP
+.
+Tick interval increased to 2 seconds from 0.
+5
+.
+Total damage increased to 550 / 925 / 1300
+(+ 230% AP)
+from 360 / 670 / 980
+(+ 195% AP)
+.
+V6.4
+Death Ray
+Base damage reduced to 70 / 110 / 150 / 190 / 230 from 70 / 115 / 160 / 205 / 250.
+Base explosion damage reduced to 70 / 110 / 150 / 190 / 230 from 70 / 115 / 160 / 205 / 250.
+V5.24
+Chaos Storm
+Fixed a bug where Chaos Storm could, under specific circumstances, instantly kill champion clones.
+V5.22
+Siphon Power
+The empowered basic attack buff will be consumed and the attack will do no damage and apply no effects if the attack misses. This may have already been the case, but all empowered basic attacks were adjusted to consistently interact with blocks and misses this way on this patch.
+V5.18
+General
+Fixed a few cases where Viktor was gaining mana when hit by certain abilities.
+V5.17
+Glorious Evolution
+Restored custom level-up icons for augmentation.
+V5.16
+Glorious Evolution
+Prototype Hex Core
+AP per level reduced to 1 from 3.
+Now grants 10 Mana per level.
+The Hex Core MK-1
+Grants 3 AP per level instead of 20 AP and 4 AP per level.
+Grants 15 mana per level instead of 150 flat mana.
+The Hex Core MK-2
+Grants 6 AP per level instead of 40 AP and 5 AP per level.
+Grants 20 mana per level instead of 300 flat mana.
+Perfect Hex Core
+Grants 10 AP per level instead of 60 AP and 6 AP per level.
+Grants 25 mana per level instead of 500 flat mana.
+V5.5
+Death Ray
+Fixed a bug where the detonation on upgraded Death Ray was canceling Viktor's autoattacks.
+V4.18
+Siphon Power
+Bonus Discharge damage can no longer critically strike.
+Fixed a bug where Viktor's shield was not breaking upon taking damage.
+V4.17
+General
+Model and texture update.
+New splash artwork for
+Original Viktor
+.
+New ability icons.
+Stats
+Base attack speed increased to 0.
+658
+from 0.
+625
+.
+Glorious Evolution
+(Innate)
+Viktor starts the game with a
+Prototype Hex Core
+, which grants 3 AP per level. Viktor can upgrade the core 3 times for
+1000
+each, with each upgrading granting +1 AP per level, +20 AP, +150 Mana and an augment to the basic ability of Viktor's choice. The upgrades accumulate into
+Perfect Hex Core
+, which grants a total of +6 AP per level, +60 AP, +500 Mana, augments for each of his basic abilities and also upgrading his ultimate.
+Power Transfer
+(Q)
+Renamed to
+Siphon Power
+.
+Upgrade renamed to Augment: Turbocharge from Augment: Power.
+Range is now calculated edge-to-edge instead of center-to-center, increasing the range by an average of 100 units (although varies depending on the size of the target).
+Cooldown changed to 10 / 8.
+5
+/ 7 / 5.
+5
+/ 4 from 9 / 8 / 7 / 6 / 5.
+Base damage reduced to 40 / 60 / 80 / 100 / 120 from 80 / 125 / 170 / 215 / 260.
+AP ratio reduced to
+20% AP
+from
+65% AP
+.
+Now modifies Viktor's next basic attack to deal 20-210 (depending on Viktor's level)
+(+ 50% AP)
+(+100% AD)
+magic damage.
+There is no physical damage component.
+Shield amount changed to 30 / 50 / 70 / 90 / 110
+(+ 20% AP)
+Shield and speed boost (Augment) duration reduced to 2.
+5
+seconds from 3 seconds.
+Shield, speed boost and empower all granted immediately upon cast.
+Gravity Field
+(W)
+Upgrade renamed to Augment: Implosion from Augment: Gravity.
+Range increased to 700 from 625.
+Particle starts playing as soon as Viktor starts cast, time between start of cast and enemy being slowed is unchanged.
+Stunned enemies are no longer affected by the slow.
+Evolution no longer increases range but instead drags stunned enemies into the center.
+Death Ray
+(E)
+Upgrade renamed to Augment: Aftershock from Augment: Death.
+Evolution no longer applies a damage over time.
+Evolution now causes a trail of explosions to follow the
+Death Ray
+'s path, dealing the same damage again.
+Enemies hit by the laser will take only 40% damage from the trail.
+The total damage of landing both parts increased to 140% from 130%.
+Missile speed of the exploding trail is faster than the laser.
+Chaos Storm
+(Ultimate)
+Cast time reduced to 0.
+25
+seconds from 0.
+33
+.
+Cooldown reduced to 120 / 110 / 100 seconds from 120 at all ranks.
+Radius of initial impact increased to 325 from 250.
+Radius of DOT zone reduced to 325 from 350.
+Storm always moves at maximum speed when moving towards Viktor (still moves slower when moving away from him, based on how far away).
+Damage changed to 15 / 30 / 45
+(+ 10% AP)
+per 0.
+5
+seconds from 10 / 15 / 20
+(+ 6% AP)
+per 0.
+25
+seconds.
+Damage per second changed to 30 / 60 / 90
+(+20% AP)
+from 40 / 60 / 80
+(+24% AP)
+.
+No longer silences on impact, but will still interrupt channels.
+Now has an Augment:
+Augment: Velocity -
+Chaos Storm
+moves 20% faster.
+V4.5
+Stats
+Base armor increased to 16 from 12.
+V3.13
+Chaos Storm
+Mana cost reduced to 100 at all ranks from 125 / 175 / 225.
+V3.8
+Gravity Field
+Slow refresh rate reduced to 0.
+25
+seconds.
+V1.0.0.152
+Stats
+Movement speed increased to 335 from 310.
+V1.0.0.141
+Death Ray
+Travel speed and hitbox precision tuned, especially when cast near walls.
+Chaos Storm
+Fixed an issue where it could sometimes be cast twice.
+V1.0.0.136
+Power Transfer
+Augment Power
+now grants movement speed when the missile is launched rather than when the cast animation begins.
+Fixed a bug where Viktor could gain the movement speed from
+Augment Power
+without actually casting
+Power Transfer
+.
+Fixed a bug where
+Augment Power
+'s movement speed lasted only 2 seconds instead of the intended 3.
+Gravity Field
+Fixed a bug where it disappeared when Viktor died.
+Chaos Storm
+Fixed a bug where it disappeared when Viktor died (though it will not respond to commands while Viktor is dead).
+V1.0.0.133
+Power Transfer
+Missile speed increased to 2000 from 1400.
+Gravity Field
+Activation time reduced to 0.
+25
+seconds from 0.
+5
+.
+Fixed a bug where Chaos Storm's tooltip stated that it dealt less damage than it actually did.
+December 31, 2011 Hotfix
+Evolving Technology
+Lowered the Augment costs to 1000.
+The displayed price will remain 1200 until patched in early 2012, but
+The Hex Core
+will be upgradable for 1000 as it was originally intended.
+Fixed a bug where
+Augment Power
+was not assigning the correct stats.
+Death Ray
+Fixed a bug where it was not doing the correct amount of damage reported.
+Chaos Storm
+Fixed a bug where it was reacting to
+Twisted Fate
+'s passive.
+Fixed a bug where the End of Game screen was reporting massive damage done values for Viktor.
+V1.0.0.131
+Added
+Evolving Technology
+(Innate)
+Viktor starts with a Hex Core that provides him with stats and can be upgraded in the store to augment one of his abilities. The Hex Core can only be upgraded once, and cannot be sold back to the store.
+Power Transfer
+(Q)
+Viktor blasts an enemy unit dealing magic damage, returning a portion of the damage dealt as a shield.
+Gravity Field
+(W)
+Viktor conjures a heavy gravitational field that slows any target in its radius. If enemies stay too long within the radius of the device, it gets stunned.
+Death Ray
+(E)
+Viktor uses his robotic arm to fire a chaos beam that cuts across the field in a line, dealing damage to any opponents struck in its path.
+Chaos Storm
+(Ultimate)
+Viktor conjures a singularity on the field which deals magic damage and briefly silences enemies. The singularity then does magic damage to all nearby enemies every second. Viktor can redirect the singularity.
+Trivia
+[
+edit
+|
+edit source
+]
+Pre-rework Viktor's robotic hand from the Prototype skin can be seen in the
+video
+for the Mac Version of League of Legends.
+Viktor's dance references the
+Melbourne Shuffle
+, a
+dance
+originating from Australia.
+A side-by-side comparison can be seen
+here
+.
+Viktor was the first champion who had a unique item available only for him (
+Prototype Hex Core
+), sharing this feature with
+Kalista
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Battlemage
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Battlemages
+(also known as Warlocks) get into the middle of the fray, seeking to wreak havoc upon the entire enemy team with their overwhelming sustained area damage. Due to their relatively short (but not melee) combat ranges and the need to burn down their opponents over time, Battle Mages have significant defensive capabilities that range from sustaining endlessly to literally defying death for a short period of time.
+Examples
+Rumble
+Swain
+Vladimir
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Takedown
+Takedown
+refers to a
+kill
+or
+assist
+being acceptable, with the type of enemy specified in each use case.
+Takedown
+is associated with triggering a
+passive
+effect, or timed effects shortly after scoring.
+League of Legends content
+Arcane Storm
+COOLDOWN:
+120 / 100 / 80
+Active:
+Viktor
+conjures a singularity at the target location that deals
+magic damage
+to enemies within and
+disrupts
+their channeled abilities. The singularity remains for a few seconds to continually deal
+magic damage
+, and automatically follows the nearest enemy
+champion
+hit upon cast.
+Arcane Storm
+can be recast any time while the singularity is active.
+Recast:
+Viktor
+directs the singularity to the target location or enemy champion.
+Augment: Perfect Storm
+:
+The singularity moves faster.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Siphon Power
+COOLDOWN:
+9 / 8 / 7 / 6 / 5
+Active:
+Viktor
+throws a device at the target enemy that deals
+magic damage
+. He also gains
+Discharge
+and
+shields
+himself for a short time.
+Discharge
+:
+Viktor's
+next basic attack with a short time will be modified to deal
+magic damage
+.
+Augment: Turbocharge
+:
+After the device hits,
+Viktor
+gains
+bonus
+movement speed
+for a short time, and the
+shield
+is increased.
+League of Legends content
+Siphon Power
+COOLDOWN:
+9 / 8 / 7 / 6 / 5
+Active:
+Viktor
+throws a device at the target enemy that deals
+magic damage
+. He also gains
+Discharge
+and
+shields
+himself for a short time.
+Discharge
+:
+Viktor's
+next basic attack with a short time will be modified to deal
+magic damage
+.
+Augment: Turbocharge
+:
+After the device hits,
+Viktor
+gains
+bonus
+movement speed
+for a short time, and the
+shield
+is increased.
+League of Legends content
+Projectile
+A
+projectile
+or
+missile
+is any entity not classified as a unit (
+champion
+,
+minion
+,
+monster
+, etc.
+) that travels at any given velocity.
+Moving units are
+not
+considered projectiles under any circumstance (
+including
+dashing
+units,
+airborne
+units, or units thrown by some abilities such as
+Force of Will
+or
+Roar of the Slayer
+.
+).
+Braum's
+Unbreakable
+,
+Samira's
+Blade Whirl
+, and
+Yasuo's
+Wind Wall
+can block, destroy and / or stop projectiles.
+Some
+ranged
+basic attacks (
+including
+turrets
+) and abilities don't use projectiles and will bypass projectile-blocking effects.
+Some abilities will
+destroy
+all currently incoming homing projectiles.
+League of Legends content
+Glorious Evolution
+Innate:
+Viktor
+collects
+Hex Fragments
+from enemies he kills and enemy champion
+takedowns
+, he can augment each of his basic abilities at the cost of max
+Hex Fragments
+.
+Arcane Storm
+becomes augmented once all augments have been acquired.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Knockdown
+Knockdown
+only affects units that are performing a
+dash
+or being displaced by an
+airborne
+effect. A unit that is
+knocked down
+has its
+dash
+or
+displacement
+interrupted and is placed on the ground instantly.
+Knockdown
+is not a
+status effect
+.
+Interrupts:
+Interrupts all
+dashes
+and
+airborne effects
+(displacement
+and
+status effects).
+Knock ups
+will not have their
+airborne
+status removed if there is no sourced debuff, but their displacement still ends.
+Reduction:
+The effect is instantaneous.
+There is nothing to reduce.
+Resist:
+Resisted by
+crowd control immunity
+and
+displacement immunity
+.
+Removal:
+The effect is instantaneous.
+There is nothing to remove.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Gravity Field
+COOLDOWN:
+17 / 16 / 15 / 14 / 13
+Active:
+Viktor
+deploys a gravity field that remains at the target location for a few seconds. After a brief delay, it activates to continually
+slow
+enemies within and inflict stacks of
+Gravity Field
+.
+The third stack consumes them all to briefly
+knock down
+and
+stun
+the target.
+Augment: Magnetize
+:
+Viktor's
+other basic abilities will also briefly
+slow
+enemies hit.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Hextech Ray
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+Active:
+Viktor
+fires an energy beam along the target path that deals
+magic damage
+to enemies hit.
+Augment: Aftershock
+:
+The path explodes along the beam's wake, dealing
+magic damage
+to enemies hit.
+References
+[
+edit
+|
+edit source
+]
+↑
+Viktor's profile page
+at
+LeagueOfLegends.com

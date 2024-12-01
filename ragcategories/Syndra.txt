@@ -1,0 +1,2998 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Syndra
+the Dark Sovereign
+Release date
+2012-09-13
+Last changed
+V14.22
+Class(es)
+Burst
+Legacy
+Mage
+Position(s)
+Middle
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+1
+Utility
+1
+Style
+Difficulty
+Syndra
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Syndra
+Base statistics
+Edit
+Health
+563
++104
+Mana
+480
++40
+Health regen. (per 5s)
+6.5
++0.6
+Mana regen. (per 5s)
+8
++0.8
+Armor
+25
++4.6
+Attack damage
+54
++2.9
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+550
+Attack speed
+Base AS
+0.658
+Attack windup
+18.75%
+AS ratio
+0.625
+Bonus AS
++2
+%
+Missile speed
+1800
+Unit radius
+Gameplay radius
+65
+Selection radius
+125
+Pathing radius
+35
+Acq. radius
+575
+Special statistics
+Damage Dealt
++5%
+Damage Received
++0%
+Ability Haste
++5
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-10%
+Damage Received
++10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Transcendent
+Innate:
+Syndra
+collects
+Splinters of Wrath
+that enhance her
+abilities
+based on the number of them collected, up to a maximum amount. She can collect them from dealing damage to enemy
+champions
+, ranking up her abilities, and killing large
+minions
+. Collecting a
+Splinter of Wrath
+from an enemy restores
+mana
+for
+Syndra
+. At the maximum amount of
+Splinters
+, her
+ability power
+is increased.
+Innate:
+Syndra
+collects
+Splinters of Wrath
+that enhance each of her abilities based on the number of them collected,
+stacking
+up to 120 times. She gains
+Splinters of Wrath
+from the following:
+Dealing two instances of
+ability
+damage to an enemy champion within 4 seconds grants
+1 / 2 / 3 (based on level)
+Splinters
+. This cannot occur on the same target more than once every 8 seconds.
+Ranking up an ability with any skill points beyond level 1 grants
+5 Splinters
+, up to
+85
+.
+Killing a large minion grants
+1 Splinter
+.
+Collecting a
+Splinter of Wrath
+from an enemy restores
+20 − 215 (based on level)
+mana
+.
+Splinters of Wrath
+are brought to
+Syndra
+from enemies over 0.
+6
+seconds.
+At
+120 Splinters of Wrath
+,
+Syndra
+achieves
+Transcendence
+, increasing her
+ability power
+by 15%.
+Syndra
+can collect
+Splinters of Wrath
+from enemies even if she is at maximum stacks. These
+Splinters
+do not grant any stacks, but will still restore
+mana
+for
+Syndra
+.
+Info
+Targeting input
+Passive
+Syndra's
+abilities gain additional visual effects when they reach their
+Splinter of Wrath
+thresholds. Her spells will also gain a red colored tint outlining the VFX.
+Dark Sphere
+will cause fractures to appear in the earth when it is used.
+Map-Specific Differences
+Arena
+differences
+edit
+New Effect:
+Gains 10
+Splinters of Wrath
+per round.
+Edit
+Dark Sphere
+COST:
+40 / 45 / 50 / 55 / 60 Mana
+COOLDOWN:
+7
+CAST TIME:
+none
+STATIC COOLDOWN
+:
+1.
+25
+RECHARGE:
+7
+TARGET RANGE:
+800
+EFFECT RADIUS:
+210
+Active:
+After a brief delay,
+Syndra
+conjures a
+Dark Sphere
+at the target location that deals
+magic damage
+to nearby enemies. The
+Dark Sphere
+then remains on the ground for a few seconds.
+Transcendent
+Bonus:
+Syndra
+periodically stocks a
+Dark Sphere
+charge.
+Active:
+Syndra
+conjures a
+Dark Sphere
+at the target location that appears after a 0.
+6
+-second delay, dealing
+magic damage
+to nearby enemies. The
+Dark Sphere
+then remains on the ground for 6 seconds.
+Magic Damage:
+75 / 110 / 145 / 180 / 215
+(+ 60% AP)
+Transcendent
+Bonus:
+Collecting
+40 Splinters of Wrath
+causes
+Syndra
+to periodically
+stock
+a
+Dark Sphere
+charge, up to a maximum of 2.
+Dark Sphere will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Dark Sphere
+can be conjured inside terrain, but cannot be thrown there with
+Force of Will
+.
+There is no limit as to how many
+Dark Spheres
+can be active at a time.
+After
+Syndra
+gains the
+Transcendent
+bonus, the number of
+Dark Sphere
+charges available is represented by small Sphere icons under her
+health bar
+, visible to the player only.
+Edit
+Force of Will
+COST:
+60 / 70 / 80 / 90 / 100 Mana
+COOLDOWN
+:
+12 / 11 / 10 / 9 / 8
+CAST TIME:
+none
+TARGET RANGE:
+925
+/
+950
+/
+500
+EFFECT RADIUS:
+225
+Active:
+Syndra
+grabs the nearest
+Dark Sphere
+, enemy
+minion
+or non-epic
+monster
+from the target location, and holds it for a few seconds.
+Force of Will
+can be recast while the target is grabbed.
+Recast:
+Syndra
+tosses the grabbed target to the target location, which deals
+magic damage
+and briefly
+slows
+them and nearby enemies.
+Transcendent
+Bonus:
+Force of Will
+deals
+bonus
+true damage
+.
+Active:
+Syndra
+grabs the nearest
+Dark Sphere
+, enemy
+minion
+or non-epic
+monster
+within 500 units from the target location, and holds the target for 5 seconds. If a
+Dark Sphere
+is grabbed, its duration is refreshed; if a minion or monster is grabbed, it is put in
+stasis
+. She prioritizes grabbing the nearest unit, then
+Dark Spheres
+.
+Force of Will
+can be recast while the target is being held.
+Recast:
+Syndra
+throws the grabbed target towards the target location, granting
+sight
+of their surroundings as they fall and dealing
+magic damage
+to them and nearby enemies. All targets hit are
+slowed
+for 1.
+5
+seconds.
+Magic Damage:
+70 / 105 / 140 / 175 / 210
+(+ 65% AP)
+Slow:
+25 / 30 / 35 / 40 / 45%
+Transcendent
+Bonus:
+Collecting
+60 Splinters of Wrath
+enhances
+Force of Will
+to deal
+12%
+(+ 2% per 100 AP)
+bonus
+true damage
+.
+Bonus Damage:
+8.
+4
+/ 12.
+6
+/ 16.
+8
+/ 21 / 25.
+2
+(+ 9.
+2
+/ 9.
+9
+/ 10.
+6
+/ 11.
+3
+/ 12% AP)
+Total Mixed Damage:
+78.
+4
+/ 117.
+6
+/ 156.
+8
+/ 196 / 235.
+2
+(+ 74.
+2
+/ 74.
+9
+/ 75.
+6
+/ 76.
+3
+/ 77% AP)
+Info
+Targeting input
+Unit
+/
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+The initial cast does not count as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Detonating the ability manually does.
+If the ability is not recast within the duration,
+Syndra
+will release the unit or
+Dark Sphere
+that she is holding.
+Force of Will
+does not destroy in-flight
+projectiles
+for the
+minion
+or
+monster
+grabbed.
+Force of Will
+cleanses
+the target
+minion
+or
+monster
+grabbed from all
+crowd control
+.
+Force of Will
+prevents non-sphere targets from dying when picking them up.
+Force of Will
+cannot grab units that are being
+Teleported
+on.
+Syndra
+can grab
+pets
+, such as
+Shaco's
+Jack in the Box
+.
+Casting
+Teleport
+or
+Recall
+will cause
+Syndra
+to cancel
+Force of Will
+autonomously and drop anything she is holding.
+Grabbing prioritizes
+Dark Spheres
+.
+Enemy
+pets
+that passively have an effect on their surroundings will continue to affect the area around them while they are being held. For example,
+Annie's
+Tibbers
+will continue to inflict burn damage on surrounding units while being held.
+Grabbing a
+Dark Sphere
+will cause the duration on it to refresh, but only on the first cast, not when it is thrown.
+Force of Will
+has additional effects when targeting the
+Blue Sentinel
+and
+Red Brambleback
+. Throwing the former will refund 10
+mana
+to
+Syndra
+upon cast and will reduce the
+cooldown
+of
+Force of Will
+by 1 second, while throwing the latter will apply the
+Crest of Cinders
+burn to any affected units in the
+area of effect
+.
+Force of Will's
+first cast uses a
+modified icon while it has the
+Transcendent
+bonus.
+Edit
+Scatter the Weak
+COST:
+50 Mana
+COOLDOWN:
+17
+CAST TIME:
+0.
+25
+RANGE:
+700 /
+800
+/
+1300
+COLLISION RADIUS:
+70
+WIDTH:
+120
+/
+200
+ANGLE:
+56° /
+84°
+SPEED:
+2500
+/
+2000
+Active:
+Syndra
+propels a wave of force in a cone in the target direction that deals
+magic damage
+and
+knocks back
+enemies hit based on proximity. A
+Dark Sphere
+can be knocked back further, which
+knocks back
+enemies hit and briefly
+stuns
+and
+reveals
+them, dealing the same damage if they were not hit already.
+Transcendent
+Bonus:
+Scatter the Weak's
+scatter angle is increased and it briefly
+slows
+enemies hit.
+Active:
+Syndra
+propels a wave of force in a cone in the target direction that deals
+magic damage
+to enemies hit and
+knocks them back
+for 400 units and up to 800 units away from
+Syndra
+based on proximity, though not through terrain.
+Magic Damage:
+75 / 115 / 155 / 195 / 235
+(+ 45% AP)
+Dark Spheres
+can be knocked back for 950 units and up to 1200 units away from
+Syndra
+based on proximity,
+knocking back
+enemies they hit over 70 units, though not through terrain. Targets hit are also
+stunned
+for 1.
+25
+seconds, during which they are also
+revealed
+, and dealt
+Scatter the Weak's
+damage if they were not damaged by the initial cast.
+Transcendent
+Bonus:
+Collecting
+80 Splinters of Wrath
+enhances
+Scatter the Weak
+to have an increased scatter angle and
+slow
+enemies hit by 70% for 1.
+25
+seconds starting after the
+knock back
+ends or if the target was hit by a pushed
+Dark Sphere
+, after the
+stun
+has ended.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+See Notes
+Scatter the Weak
+is blocked by the portion of
+Wind Wall
+it collides with.
+Spheres
+thrown will stop upon colliding with the wall.
+Spheres
+spawned at close range of the ability are more likely to be hit.
+Enemies and spheres will be knocked into the direction directly away from
+Syndra
+, and the knock back has no dispersion.
+Scatter the Weak
+will knock back
+Spheres
+even farther if they are inside terrain, up until they reach open space. If the terrain they're inside in cannot be surpassed, the
+Spheres
+will be knocked in the opposite direction.
+Scatter the Weak
+will delay the expiration of a
+Sphere
+until after it finishes being knocked back.
+This ability will cast from wherever the caster is at the end of the cast time.
+Once
+Scatter the Weak
+has been learned, an arrow directly in front of every
+Dark Sphere
+will appear to signify the direction the
+sphere
+will be knocked towards, each one corresponding to
+Syndra's
+position. This is only visible to
+Syndra
+.
+Edit
+Unleashed Power
+COST:
+100 Mana
+COOLDOWN:
+120 / 100 / 80
+CAST TIME:
+none
+TARGET RANGE:
+675
+EFFECT RADIUS:
+3000
+Active:
+Syndra
+creates a few
+Dark Spheres
+and grabs a few more nearby, then barrages them at the target enemy champion. Each sphere deals
+magic damage
+upon hit, and remains on the ground for a few seconds.
+Transcendent
+Bonus:
+Unleashed Power
+executes
+enemies once they reach a certain
+health
+threshold.
+Passive:
+Dark Sphere
+gains ability haste.
+Ability Haste:
+10 / 20 / 30
+Active:
+Syndra
+enters a
+0.
+264
+seconds
+cast time, creating
+3 Dark Spheres
+and grabbing up to 4 nearby
+Dark Spheres
+that were last spawned. Afterwards, the collected
+Dark Spheres
+are barraged at the target enemy champion, each dealing
+magic damage
+upon hit.
+Magic Damage per Sphere:
+100 / 140 / 180
+(+ 17% AP)
+Minimum Magic Damage:
+300 / 420 / 540
+(+ 51% AP)
+Maximum Magic Damage:
+700 / 980 / 1260
+(+ 119% AP)
+The
+Dark Spheres
+will then remain on the ground for 6 seconds.
+Transcendent
+Bonus:
+Collecting
+100 Splinters of Wrath
+enhances
+Unleashed Power
+to
+execute
+the target if it would damage them to below
+15% of their
+maximum
+health
+.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Unleashed Power
+makes
+Syndra
+enter a brief cast time, but the initial cast is completed instantly. If she dies during this cast time,
+Unleashed Power
+will still complete the remaining effect.
+Casting
+Unleashed Power
+on a target that becomes
+untargetable
+while the
+spheres
+are in flight will not destroy them but cause them to deal no damage instead.
+Spheres
+already in flight will still travel if
+Syndra's
+target dies, but any remaining
+sphere
+will not. However, their duration will still get reset.
+A
+Dark Sphere
+summoned very shortly before
+Unleashed Power
+will
+be used as one of the spheres that get thrown.
+Depending on how many
+spheres
+are on the map and how far away the enemy is upon casting
+Unleashed Power
+it is possible that
+Syndra
+would conjure the
+sphere
+behind her as if she was going to throw it, but she won't.
+Unleashed Power
+will not add a
+Sphere
+that
+Syndra
+is holding with
+Force of Will
+.
+Spheres
+that are being pushed by
+Scatter the Weak
+(normally ones that were made late during the push) will not get picked up for
+Unleashed Power
+.
+Spell shield
+will only block the damage of a single
+sphere
+.
+Map-Specific Differences
+One for All
+differences
+edit
+Unleashed Power will grab
+all
+nearby spheres, regardless of whose they are.
+The damage is still capped at 7 spheres, which appears to be the
+first
+7 spheres. Additionally spheres will visually collide with the target but deal no damage.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Syndra (Collection)
+.
+Original
+View in 3D
+880
+12.09.2012
+Syndra is a fearsome Ionian mage with incredible power at her command. As a child, she disturbed the village elders with her reckless and wild magic. She was sent away to be taught greater control, but eventually discovered her supposed mentor was restraining her abilities. Forming her feelings of betrayal and hurt into dark spheres of energy, Syndra has sworn to destroy all who would try to control her.
+Unknown voice actor
+Pandart Studio
+Loot eligible
+Justicar
+View in 3D
+975
+12.09.2012
+Chief among the Arclight stand the Justicars, sentinels who serve as living embodiments of justice and order. Syndra embodies knowledge, for what guides the world if not the wisdom of gods?
+Unknown voice actor
+Unknown artist
+Justicar
+Loot eligible
+New SFX/VFX
+Atlantean
+View in 3D
+975
+29.04.2014
+“The Atlanteans were skilled in magic, we know that much is true. But the extent of their power is truly unfathomable… to this day we cannot know if they persist in some forgotten corner of the world, reanimated by whatever dark thing has taken their once-proud city.”
+Unknown voice actor
+Christian Fell
+Forgotten Depths
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Queen of Diamonds
+View in 3D
+750
+20.05.2015
+Fourth is the Queen, ever dark and serene,
+Whose true power lies deeper still.
+Alone, she could conquer the whole of the earth…
+And perhaps, in the future, she will.
+Unknown voice actor
+Michal Ivan, Sixmorevodka Studio
+Highstakes
+Loot eligible
+Snow Day
+View in 3D
+1350
+10.12.2015
+Impossibly powerful magic is one way to enter a snowball fight, and Syndra's unshackled abilities spell doom for anyone who hates getting snow in their eyes. Everyone has a lighter side, even the Dark Sovereign.
+Unknown voice actor
+Kelly Aleshire
+Snow Day
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+SKT T1
+View in 3D
+1350
+27.06.2017
+Honoring Faker's winning performance as Syndra during the 2016 World Championship. This is Faker's third World Champion skin, following his wins with SKT at the 2013 and 2015 World Championships.
+Unknown voice actor
+Alvin Lee
+World Champions: 2016
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+SKT T1 Syndra Chromas
+Paragon
+Star Guardian
+View in 3D
+1350
+06.09.2017
+Feared and admired, Syndra is a formidable Star Guardian from an earlier era, whose history is cloaked in shadow. She acts as an advisor on Ahri's team, but despite her captain's trust, some members suspect there is no price that Syndra won't pay to achieve her personal ambitions.
+Unknown voice actor
+Jean 'Curing' Go, Esben Lash Rasmussen, Alex 'alexplank' Flores, Alvin Lee, Pan Chengwei
+Star Guardian Season 2
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Star Guardian Syndra Chromas
+Brilliant
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Pool Party
+View in 3D
+1350
+02.07.2020
+Now that Syndra's aced all her opponents, it's time for her final test: prevent any rogue volleyballs from hitting her friends. Again.
+Unknown voice actor
+West Studio
+Pool Party
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Pool Party Syndra Chromas
+Aquamarine
+Catseye
+Emerald
+Pearl
+Rainbow
+Rose Quartz
+Ruby
+Tanzanite
+Withered Rose
+View in 3D
+1350
+11.02.2021
+Syndra has been shunned from the festival for years over her support of the disgraced Zed. Unable to bear this slight any longer, she is determined to infiltrate the event and poison the very heart of the Crystal Rose itself with her sweetly dripping ichor.
+Unknown voice actor
+West Studio
+Withered Rose
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Withered Rose Syndra Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Bewitching
+View in 3D
+1350
+07.10.2021
+No celebration would be complete without the March of the Pumpkin Lanterns! Syndra conjures hundreds of great gourds from the sky, their crooked smiles delighting the children below.
+Unknown voice actor
+David Villegas, West Studio
+Bewitching
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Bewitching Syndra Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Prestige Star Guardian
+View in 3D
+Special
+28.07.2022
+A vision in silk and shadow, Syndra doesn't need hordes of adoring fans (though she has them) nor hundreds of eager ateliers desperate to design for her (though she has those, too), because she is always at the center of her own orbit. Her secret? Starlight never goes out of style.
+Unknown voice actor
+Marie Magny, West Studio
+Star Guardian Season 4
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Star Guardian
+. Store variants are discounted for multiple purchases.
+Spirit Blossom
+View in 3D
+1350
+06.10.2022
+Children hear stories of the savior of lost souls, the ever-reclusive Spirit of Freedom. One such speaks of a tree that wrapped its roots around a wandering wisp. The wisp struggled alone—until Syndra ripped off the bindings that held it tight, as she would do for all creatures, lest they be lost forever.
+Unknown voice actor
+Pan Chengwei
+Spirit Blossom
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Spirit Blossom Syndra Chromas
+Catseye
+Night Blossom
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Coven
+View in 3D
+1350
+25.10.2023
+They came to Syndra in a thundering flutter of carrion wings, beckoning her to free herself from the limitations of mortals. Following the wings' foul wind to a ritual site, she along with another witch awakened the Horned King from his putrid tomb. She now seeks retribution against all who stand against the Coven or the Old Gods.
+Unknown voice actor
+Francis Tneh, West Studio
+Coven
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Coven Syndra Chromas
+Amethyst
+Aquamarine
+Catseye
+Emerald
+Meteorite
+Pearl
+Profane
+Rose Quartz
+Ruby
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.22
+Force of Will
+Base damage reduced to 70 / 105 / 140 / 175 / 210 from 70 / 110 / 150 / 190 / 230.
+AP ratio reduced to
+65% AP
+from
+70% AP
+.
+V14.16
+Unleashed Power
+Base damage per sphere increased to 100 / 140 / 180 from 90 / 130 / 170.
+V14.12
+Scatter the Weak
+Bug Fix:
+Is no longer able to apply the knockback and move
+Rek'Sai's
+placed
+Tunnels
+.
+Bug Fix:
+Dark Sphere
+combo is now properly nullified by
+Gwen's
+Hallowed Mist
+.
+V13.24
+- December 12th Hotfix
+Transcendent
+Bug Fix:
+Now properly grants Syndra her ability power bonus when resurrected.
+Dark Sphere
+AP ratio reduced to
+60% AP
+from
+70% AP
+.
+V13.24
+General
+New splash artwork for
+Original Syndra
+.
+V13.22
+Stats
+Base attack speed increased to 0.
+658
+from 0.
+625
+.
+V13.19
+Dark Sphere
+Base damage increased to 75 / 110 / 145 / 180 / 215 from 70 / 105 / 140 / 175 / 210.
+V13.16
+General
+Bug Fix:
+Orb VFX now properly appears regardless of graphics settings.
+V13.7
+Scatter the Weak
+Bug Fix:
+Knocked back
+Spheres
+no longer have a collision check in-flight after caster dies.
+V13.3
+Scatter the Weak
+Bug Fix:
+No longer resets its cooldown when upgrading from
+Transcendent
+sometimes.
+V13.1b
+Force of Will
+Undocumented:
+Winddown time of both casts reduced to 0 from 0.
+25
+seconds.
+V13.1
+Force of Will
+Bug Fix:
+Can no longer target minions that are being
+Teleported
+on by an enemy.
+V12.23
+Dark Sphere
+Bug Fix:
+Upgrading
+Dark Sphere
+no longer fully refunds its cooldown.
+Force of Will
+Transcendent bonus damage reduced to 12% from 15%.
+Transcendent AP ratio increased to
+2% per 100 AP
+from
+1.
+5
+% per 100 AP
+.
+Scatter the Weak
+AP ratio reduced to
+45% AP
+from
+55% AP
+.
+Cooldown increased to 17 seconds from 15.
+Bug Fix:
+Dark Spheres
+pushed are now properly stopped by projectile-blocking effects.
+V12.22
+Scatter the Weak
+Bug Fix:
+No longer appear as its own unit when being shown in the death recap.
+Bug Fix:
+Displacement no longer improperly affects displacement and crowd control immune units.
+V12.21
+- November 2nd Hotfix
+Scatter the Weak
+Bug Fix:
+Knock back is now properly resisted by crowd control immunity.
+V12.21
+Scatter the Weak
+Bug Fix:
+Now correctly damages all epic monsters.
+Bug Fix:
+Can no longer damage
+Gwen
+while she's inside her
+Hallowed Mist
+.
+V12.20
+Transcendent
+Bug Fix:
+Splinters of Wrath
+are now properly gained even when gaining minion credit from an ally's
+Spoils of War
+item.
+V12.19
+- Gameplay Update
+General
+Updated ability icons.
+Stats
+Base health reduced to 563 from 593.
+Transcendent
+New Innate:
+Syndra
+collects up to 120
+Splinters of Wrath
+, enhancing each of her abilities based on the number collected and updating their ability icons. She restores
+20 − 215 (based on level)
+mana
+whenever she collects a
+Splinter of Wrath
+from an enemy.
+Splinters of Wrath
+are brought to
+Syndra
+from enemies over 0.
+6
+seconds. At 120
+Splinters
+,
+Syndra
+achieves
+Transcendence
+, increasing her
+ability power
+by 15%.
+Dealing two instances of ability damage to an enemy champion within 4 seconds grants
+1 / 2 / 3 (based on level)
+Splinters
+. This cannot occur on the same target more than once every 8 seconds.
+Ranking up an ability with skill points beyond the first grants 5
+Splinters
+.
+Killing a large minion grants 1
+Splinter
+.
+Dark Sphere
+Cooldown increased to 7 seconds from 4.
+AP ratio increased to
+70% AP
+from
+65% AP
+.
+Mana cost reduced to 40 / 45 / 50 / 55 / 60 from 40 / 50 / 60 / 70 / 80.
+New Effect:
+Collecting 40
+Splinters of Wrath
+now stores 2 charges of the ability, with a 1.
+25
+-second static cooldown between casts.
+Force of Will
+Grab range increased to 500 units from 400.
+New Effect:
+Now prevents non-sphere targets from dying when picking them up.
+New Effect:
+Collecting 60
+Splinters of Wrath
+now causes it to deal
+15%
+(+ 1.
+5
+% per 100 AP)
+bonus
+true damage
+.
+Scatter the Weak
+Removed:
+Dark Spheres
+spawned after casting are no longer scattered.
+Dark Sphere
+collision radius reduced to 70 units from 100.
+Base damage reduced to 75 / 115 / 155 / 195 / 235 from 85 / 130 / 175 / 220 / 265.
+AP ratio reduced to
+55% AP
+from
+60% AP
+.
+Scatter angle increased to 56° from 34°.
+Cooldown changed to 15 seconds at all ranks from 18 / 17 / 16 / 15 / 14.
+Stun duration reduced to 1.
+25
+seconds from 1.
+5
+.
+New Effect:
+Collecting 80
+Splinters of Wrath
+increases the scatter angle to 84° and
+slows
+enemies by 70% for 1.
+25
+seconds after the initial
+knock back
+and
+stun
+.
+Dark Spheres
+spawned at close range of the ability are now more likely to be hit.
+Unleashed Power
+New Effect:
+Now passively grants
+Dark Sphere
+10 / 20 / 30 ability haste, stacking additively with other sources.
+Base damage per sphere reduced to 90 / 130 / 170 from 90 / 140 / 190.
+Minimum damage reduced to 270 / 390 / 510 from 270 / 420 / 570.
+Maximum damage reduced to 630 / 910 / 1190 from 630 / 980 / 1330.
+AP ratio per sphere reduced to
+17% AP
+from
+20% AP
+.
+Minimum AP ratio reduced to
+51% AP
+from
+60% AP
+.
+Maximum AP ratio reduced to
+119% AP
+from
+140% AP
+.
+New Effect:
+Collecting 100
+Splinters of Wrath
+now causes it to execute enemies
+below
+15% health
+.
+V12.10
+Stats
+Base health increased to 593 from 523.
+Health growth increased to 104 from 90.
+Armor growth increased to 4.
+6
+from 3.
+4
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V11.21
+General
+Updated visual effects.
+V11.15
+Dark Sphere
+Mana cost reduced to 40 / 50 / 60 / 70 / 80 from 60 / 65 / 70 / 75 / 80.
+V11.1
+Stats
+Base attack damage increased to 54 from 53.
+872
+.
+Base armor increased to 25 from 24.
+712
+.
+V10.19
+Pool Party Syndra
+Force of Will
+Bug Fix:
+Range indicator is no longer missing.
+V10.16
+Dark Sphere
+Base damage reduced to 70 / 105 / 140 / 175 / 210 from 70 / 110 / 150 / 190 / 230.
+V10.15
+General
+Bug Fix:
+No longer provides vision to her team while dead.
+V10.14
+Dark Sphere
+Bug Fix:
+Maximum-range cast now consistently fires in combination with
+Scatter the Weak
+.
+V10.13
+Dark Sphere
+Mana cost increased to 60 / 65 / 70 / 75 / 80 from 40 / 50 / 60 / 70 / 80.
+V10.11
+Scatter the Weak
+Cooldown increased to 18 / 17 / 16 / 15 / 14 seconds from 16 / 15 / 14 / 13 / 12.
+V10.6
+General
+Recommended items updated.
+Dark Sphere
+Bug Fix:
+When attempting to cast it outside of its maximum range immediately after
+Flashing
+, the ability's position will now properly update and cast at its post-Flash max range.
+V10.5
+Dark Sphere
+Now casts at maximum range instead of casting in the targeted area.
+V9.22
+Unleashed Power
+Bug Fix:
+HUD icon now properly shows how many Dark Spheres are available to use on cast.
+V9.16
+Transcendent
+Dark Sphere
+bonus champion damage increased to 25% from 15%.
+Scatter the Weak
+Base damage incrased to 85 / 130 / 175 / 220 / 265 from 70 / 115 / 160 / 205 / 250.
+V9.15
+Unleashed Power
+Base damage per sphere increased to 90 / 140 / 190 from 90 / 135 / 180.
+V9.13
+Stats
+Mana growth increased to 40 from 30.
+V9.12
+General
+Adjusted splash artwork for
+Queen of Diamonds Syndra
+.
+V8.20
+General
+Adjusted splash artwork for
+Queen of Diamonds Syndra
+.
+V8.15
+Dark Sphere
+Base damage increased to 70 / 110 / 150 / 190 / 230 from 50 / 95 / 140 / 185 / 230.
+V8.9
+Stats
+Base mana increased to 480 from 384.
+Mana growth reduced to 30 from 60.
+Base mana regeneration increased to 8 from 6.
+Transcendent
+Dark Sphere
+bonus changed to (15% bonus damage against champions) from (2 seconds bonus duration).
+V8.6
+Force of Will
+Bug Fix:
+Now correctly makes
+Malzahar's
+Voidlings
+untargetable while they are held.
+V8.3
+Stats
+Base health regeneration reduced to 6.
+5
+from 6.
+508
+.
+Force of Will
+Bug Fix:
+Fixed a bug where it failed to make grabbed targets invulnerable to minion attacks.
+V8.2
+Unleashed Power
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V8.1
+Unleashed Power
+All
+Dark Spheres
+now consistently fly at
+Unleashed Power's
+target, even if the target dies or goes invulnerable.
+The three spheres orbiting her now properly materialize even if
+Unleashed Power's
+target dies as the ability is cast.
+Syndra's
+movement no longer becomes funky for a few seconds if
+Unleashed Power's
+target dies before all spheres have fired.
+Dark Spheres
+that didn't damage
+Unleashed Power's
+target now properly interact with her other abilities.
+Dark Spheres
+that didn't damage
+Unleashed Power's
+target no longer move erratically when affected by her other abilities.
+Dark Spheres
+created shortly after
+Unleashed Power
+ends no longer move erratically when affected by her other abilities.
+V7.24
+Unleashed Power
+Bug Fix:
+Fixed a bug where casting it while a
+Dark Sphere
+was in flight from
+Force of Will
+would stop it from being pushed and instead redirect it into
+Unleashed Power
+.
+V7.22
+Stats
+Base health increased to 523 from 511.
+04
+.
+Health growth increased to 90 from 78.
+V7.19
+Star Guardian Syndra
+Bug Fix:
+Pink overlay has been restored during her recall animation.
+V7.18
+Atlantean Syndra
+Bug Fix:
+VFX have been restored during her enhanced recall animation.
+Star Guardian Syndra
+Bug Fix:
+Shields now follow her during her recall animation.
+V7.16
+Dark Sphere
+AP ratio reduced to
+65% AP
+from
+75% AP
+.
+Scatter the Weak
+AP ratio increased to
+60% AP
+from
+50% AP
+.
+V7.14
+Snow Day Syndra
+Dark Sphere
+Bug Fix:
+Ground snowflake VFX now properly displays on Medium or lower settings.
+V7.12
+General
+Bug Fix:
+Sphere-popping SFX now correctly play during her death animation.
+Queen of Diamonds Syndra
+Bug Fix:
+Sphere-popping SFX now correctly play during her death animation.
+Unleashed Power
+Bug Fix:
+Fixed a bug where, in some languages, the tooltip contained information about an in-testing mechanic that was never released.
+V7.11
+Force of Will
+Area of effect reduced to 225 from 275.
+Justicar Syndra
+and
+Atlantean Syndra
+Dark Sphere
+Bug Fix:
+Audio no longer plays during their death animations.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.7
+Unleashed Power
+Bug Fix:
+Cooldown is no longer reset if the first cast was interrupted (the interrupted cast dealt no damage but still spawned three spheres).
+Bug Fix:
+If
+Syndra's
+target dies mid-cast, remaining nearby
+Dark Spheres
+will continue to pummel their corpse.
+Bug Fix:
+If
+Syndra's
+target becomes untargetable during
+Unleashed Power
+,
+Dark Spheres
+that were in-flight now drop in place rather than disappearing entirely.
+V7.2
+Dark Sphere
+Bug Fix:
+Spheres
+are no longer displaced by
+Blast Cones
+.
+V7.1
+Transcendent
+Max rank
+Force of Will
+bonus effect changed to "Deals 20% bonus true damage" from "Grabs 2 additional spheres near the target".
+Force of Will
+Base damage reduced to 70 / 110 / 150 / 190 / 230 from 80 / 120 / 160 / 200 / 240.
+AP ratio reduced to
+70% AP
+from
+80% AP
+.
+Unleashed Power
+Cooldown increased to 120 / 100 / 80 seconds from 100 / 90 / 80.
+V6.23
+General
+Bug Fix:
+Atlantean Syndra's
+watery
+Recall
+sound effects no longer cut off before the channel completes.
+V6.17
+General
+Bug Fix:
+Syndra's
+arms are no longer stretchy when she dies.
+V6.16
+General
+Bug Fix:
+Syndra's
+start and end poses during her recall animation have been fixed to smooth her movement out.
+V6.13
+Force of Will
+Bug Fix:
+Fixed a bug where
+Force of Will
+would only grab 2 spheres at max rank based on where she clicked.
+Bug Fix:
+Fixed a bug where getting crowd-controlled while grabbing an object could put
+Force of Will
+on cooldown.
+Unleashed Power
+New Effect:
+Now continues to check for spheres during the entire cast duration, rather than only on-cast.
+Bug Fix:
+Fixed a bug where spheres produced by
+Unleashed Power
+would become impossible to use if her target died during the cast.
+V6.12
+Force of Will
+AP ratio increased to
+80% AP
+from
+70% AP
+.
+Scatter the Weak
+AP ratio increased to
+50% AP
+from
+40% AP
+.
+V6.9
+Transcendent
+New Effect:
+Max rank
+Dark Spheres
+now last for 8 seconds.
+Previous effect (+15% bonus damage against champions) removed.
+New Effect:
+Max rank
+Force of Will
+now grabs up to 2 additional spheres near the target. Syndra will throw the assortment of units in a way that increases Force of Will's area of effect, but it does not cause the ability to deal increased damage.
+Previous effect (slow duration increased to 2 seconds) removed.
+The main purpose of this change is that Syndra will now reset the lifespan of up to 3 spheres, as well as placing all 3 spheres in a convenient location for Scatter the Weak.
+Dark Sphere
+AP ratio increased to
+75% AP
+from
+60% AP
+.
+Force of Will
+Now displays a maximum throw radius while bending units to your will.
+Scatter the Weak
+Cooldown reduced to 16 / 15 / 14 / 13 / 12 from 18 / 16.
+5
+/ 15 / 13.
+5
+/ 12.
+V6.7
+Bug Fix:
+Base Syndra's movement animations have been fixed.
+V5.22
+Stats
+Base mana increased to 384 from 334.
+Mana growth reduced to 60 from 63.
+V5.18
+Stats
+Mana growth increased to 63 from 50.
+Scatter the Weak
+/
+Dark Sphere
+Fixed a bug where spheres would sometimes not be knocked back if near maximum range.
+V5.14
+Force of Will
+Fixed a bug where Syndra could pick up
+Baron Nashor
+.
+V5.13
+Scatter the Weak
+/
+Dark Sphere
+Overhaul to the interaction's code to make it more responsive.
+New Effect:
+The stun from Dark Sphere will now be applied after the knockback completes, rather than the stun overriding the knockback.
+The result of the changes seems to be that all stunned targets are within a radius of where the sphere stops moving.
+New Effect:
+Wind Wall
+and
+Unbreakable
+now stop moving spheres instead of destroying them.
+Fixed a bug where you could knockback spheres being created for
+Unleashed Power
+.
+Unleashed Power
+New Effect:
+Wind Wall
+and
+Unbreakable
+now stop moving spheres instead of destroying them.
+V5.11
+General
+Adjusted splash artwork for
+Queen of Diamonds Syndra
+.
+V5.4
+Scatter the Weak
+Collision width of Dark Spheres has been increased.
+V5.2
+Scatter the Weak
+Stun collision has been widened slightly to feel less clunky.
+V5.1
+Dark Sphere
+Base damage reduced to 50 / 95 / 140 / 185 / 230 from 70 / 110 / 150 / 190 / 230.
+Scatter the Weak
+Now checks for
+Dark Sphere
+s more strictly.
+V4.14
+Unleashed Power
+Fixed a bug where it could damage enemies that were untargetable.
+V4.5
+Stats
+Base armor increased to 19 from 15.
+V4.4
+Twisted Treeline only
+Scatter the Weak
+Cooldown increased to 20 / 18.
+5
+/ 17 / 15.
+5
+/ 14 seconds from 18 / 16.
+5
+/ 15 / 13.
+5
+/ 12.
+Unleashed Power
+Cooldown increased to 120 / 105 / 90 seconds from 100 / 90 / 80.
+V3.14
+- November 22nd Hotfix
+Scatter the Weak
+Bugfix:
+Fixed a bug where the E-W combo would not stun the target if they were hit by
+Force of Will
+first.
+V3.13
+Scatter the Weak
+Range increased to 700 from 650.
+Dark Spheres display a small triangle that points directly away from Syndra (similar to the triangle that points to Orianna's ball), indicating the direction the sphere will move in if she uses Scatter the Weak.
+Dark Sphere stun detection should now be more accurate.
+Unleashed Power
+Now tracks how many Dark Spheres are active with a counter on top of the skill's icon.
+V3.7
+Scatter the Weak
+Improved detection of
+Dark Spheres
+at longer ranges.
+V1.0.0.154
+Transcendent
+Now increases range on
+Unleashed Power
+by 75 at max rank.
+Scatter the Weak
+:
+Cooldown reduced to 18 / 16.
+5
+/ 15 / 13.
+5
+/ 12 seconds from 18 / 17 / 16 / 15 / 14.
+V1.0.0.152
+Stats
+Movement speed increased to 330 from 305.
+V1.0.0.150
+Force of Will
+Now grabs nearest Dark Sphere in range if no valid target selected.
+Grab time reduced to 0.
+25
+seconds from 0.
+33
+.
+Throw commands given during the grab time now execute immediately after the grab finishes.
+Fixed a bug where minions/Dark Spheres being pulled could get stuck on terrain.
+Scatter the Weak
+Dark Spheres that have nearly finished casting will now get knocked back once they arrive.
+Fixed a bug where units hit by both Scatter the Weak and an affected Dark Sphere would be knocked back but not stunned.
+Unleashed Power
+Spell shields will now only block a single sphere rather than the entire spell.
+Now also pulls in spheres cast just before the start of Unleashed Power.
+Fixed a bug where Unleashed Power would go on cooldown if the target died before the cast animation completed.
+V1.0.0.149
+Fixed a bug where Syndra could force monsters to attack each other.
+Fixed a tooltip error for
+Force of Will
+.
+Fixed a bug where stunning an opponent on Dominion could cause a graphical error with the scoreboard.
+V1.0.0.148
+Dark Sphere
+Base damage increased to 70 / 110 / 150 / 190 / 230 from 60 / 100 / 140 / 180 / 220.
+Ability power ratio increased to
+(+60% AP)
+from
+(+50% AP)
+.
+Mana cost reduced to 40 / 50 / 60 / 70 / 80 from 50 / 60 / 70 / 80 / 90.
+Scatter the Weak
+Range increased to 650 from 600.
+Missile speed increased to 2500 from 2000.
+Improved sphere stun detection when a sphere is first knocked away.
+Force of Will
+Throw Range increased to 950 from 900.
+Unleashed Power
+Ability power ratio per sphere increased to
+(+20% AP)
+from
+(+15% AP)
+.
+V1.0.0.147
+Added
+Transcendent
+(Innate)
+Spells gain extra effects at max rank.
+Dark Sphere:
+Deals bonus damage to champions.
+Force of Will:
+Increases slowing duration.
+Scatter the Weak:
+Spell width increased.
+Dark Sphere
+(Q)
+Syndra conjures a Dark Sphere, dealing magic damage. The sphere remains and can be manipulated by her other abilities.
+Force of Will
+(W)
+Syndra picks up and throws a minion or Dark Sphere, dealing magic damage and slowing the movement speed of enemies.
+Scatter the Weak
+(E)
+Syndra knocks enemies and Dark Spheres back, dealing magic damage. Enemies hit by Dark Spheres become stunned.
+Unleashed Power
+(Ultimate)
+Syndra bombards an enemy champion with all of her Dark Spheres.
+Pre-release
+Transcendent
+Spells gain extra effects at max rank.
+Dark Sphere:
+Deals 20% bonus damage to champions.
+Force of Will:
+Projectile briefly knocks ennemies into the air.
+Scatter the Weak:
+Spell width increased by 50%.
+Dark Sphere
+(Q)
+Syndra conjures a Dark Sphere, dealing
+70 / 110 / 150 / 190 / 230 (+0.6 AP) magic damage
+. The sphere remains for 8 seconds and can be manipulated by her other abilities.
+Cost:
+40 / 50 / 60 / 70 / 80 mana
+Cooldown:
+5 / 4.5 / 4 / 3.5 / 3 seconds
+Force of Will
+(W)
+Syndra picks up and throws a minion or Dark Sphere, dealing
+80 / 130 / 180 / 230 / 280 (+0.7 AP) magic damage
+. Ennemies are slowed by
+25 / 30 / 35 / 40 / 45 %
+for
+2 seconds
+.
+Cost:
+60 mana
+Cooldown:
+12 / 11 / 10 / 9 / 8 seconds (on second activation)
+Scatter the Weak
+(E)
+Syndra knocks enemies and Dark Spheres back, dealing
+60 / 100 / 140 / 180 / 200 (+0.5 AP) magic damage
+. Enemies hit by Dark Spheres are stunned for
+1.5 seconds
+.
+Cost:
+50 mana
+Cooldown:
+14 / 13 / 12 / 11 / 10 seconds
+Unleashed Power
+(Ultimate)
+Syndra bombards an enemy champion with all of her Dark Spheres, dealing
+70 / 105 / 140 (+0.2 AP)
+magic damage per sphere.
+Minimum damage (3 spheres):
+210 / 315 / 420 (+0.6 AP) magic damage
+.
+Max Potential Damage:
+3 spheres from ultimate, 5 spheres on the ground (1.8 second cooldown on Q with 40% CDR, 8 second duration) 1 sphere tethered with W =
+9 spheres
+=
+630 / 945 / 1260 (+1.8 AP) magic damage
+.
+Cost:
+100 mana
+Cooldown:
+100 / 90 / 80 seconds
+Trivia
+[
+edit
+|
+edit source
+]
+Syndra is the first champion to directly manipulate minions and neutral monsters to deal damage to other champions with
+Force of Will
+. The only other champion to do so is
+Sion
+with
+Sion's
+Roar of the Slayer
+.
+Syndra's spheres appear as red instead of blue when on the opposing team. She is the fourth champion to have team perspective based particles, with the third being
+Draven
+, the second being
+Cassiopeia
+and the first being
+Singed
+.
+On her Atlantean and Snow Day skins, they appear purple to enemy instead.
+Using
+Syndra's
+Force of Will
+to hit an enemy unit with the
+Red Brambleback
+will apply the debuff on them. Also, if Syndra throws the
+Blue Sentinel
+, she will be refunded 10 mana and the ability's cooldown will be lowered by 1 second.
+Syndra is the third of the dark-themed Ionian Champions. The first two being
+Shen
+&
+Varus
+, followed by
+Zed
+,
+Jhin
+,
+Xayah
+, &
+Kayn
+.
+Syndra's imprisonment under the Dream Pool shares some similarities with the Arthurian lore about
+Lady of the Lake
+; though Syndra herself is the prisoner, not the jailer.
+Syndra's dance references the
+choreography
+for the song
+Hoot
+by
+Girls' Generation
+(소녀시대: So Nyeo Shi Dae), a popular Korean girl group.
+A side-by-side comparison can be seen
+here
+.
+Syndra was the third champion to have a difficulty rating of 100, the first being
+Cassiopeia
+, the second being
+Orianna
+, and the fourth being
+Draven
+. However, her difficulty rating has since fallen to 80. On release, her difficulty rating was 90.
+Each of Syndra's abilities gain new graphical details when leveled to max rank. For details, see below in her Skin section.
+Syndra is the second champion speculated to be
+omnipotent
+, or nearly so. The first one was Xerath.
+As seen in
+this video
+, Syndra appears to be able to use the balls from another Syndra.
+The fact that
+Syndra's
+Unleashed Power
+can use up to seven balls is possibly a reference to the
+Dragon Ball
+franchise as there are seven Dragon Balls.
+Syndra is the second of three dark themed champions to have a light themed skin, with
+Varus
+being the first and
+Aatrox
+being the third.
+Syndra apparently derives from Proto-Germanic
+*
+sundr
+az
+("of/by/for one self"; whence English
+sunder
+),
+[2]
+with possible influence from unrelated Greek
+συνδρομή
+syndrome
+.
+[3]
+Her brother's name,
+Evard
+, likewise combines two Germanic elements
+īhwaz
+"
+yew
+" &
+wardaz
+"guard".
+[4]
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Burst
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Burst Mages
+aim to single out vulnerable targets by locking them down and following up with a devastating barrage of damage from range. They are strongest when using their full suite of spells executed perfectly to maximum effect, and most vulnerable when they cannot deliver.
+Examples
+Annie
+Syndra
+Veigar
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Dark Sphere
+RECHARGE:
+7
+Active:
+After a brief delay,
+Syndra
+conjures a
+Dark Sphere
+at the target location that deals
+magic damage
+to nearby enemies. The
+Dark Sphere
+then remains on the ground for a few seconds.
+Transcendent
+Bonus:
+Syndra
+periodically stocks a
+Dark Sphere
+charge.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Transcendent
+Innate:
+Syndra
+collects
+Splinters of Wrath
+that enhance her
+abilities
+based on the number of them collected, up to a maximum amount. She can collect them from dealing damage to enemy
+champions
+, ranking up her abilities, and killing large
+minions
+.
+Collecting a
+Splinter of Wrath
+from an enemy restores
+mana
+for
+Syndra
+.
+At the maximum amount of
+Splinters
+, her
+ability power
+is increased.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Force of Will
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+Active:
+Syndra
+grabs the nearest
+Dark Sphere
+, enemy
+minion
+or non-epic
+monster
+from the target location, and holds it for a few seconds.
+Force of Will
+can be recast while the target is grabbed.
+Recast:
+Syndra
+tosses the grabbed target to the target location, which deals
+magic damage
+and briefly
+slows
+them and nearby enemies.
+Transcendent
+Bonus:
+Force of Will
+deals
+bonus
+true damage
+.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Stasis
+A unit that is in
+stasis
+is unable to control its movement, declare attacks, cast abilities, activate items or use
+any
+summoner spell
+for the duration, while also being
+invulnerable
+and
+untargetable
+.
+Stasis
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), all
+channeled and charged
+abilities and all
+dashes
+and
+displacements
+. Units that are being
+knocked up
+will be placed on the ground, but aren't
+knocked down
+(the
+airborne
+status is not removed in this case).
+Reduction:
+The
+duration
+is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Epic monsters
+and
+turrets
+are special cased to be affected by
+stasis
+despite them being
+crowd control immune
+.
+Removal:
+Cannot be removed by any means (except through
+death
+), and will prevent the activation of abilities that would usually remove
+crowd control
+effects.
+Quicksilver
+will either be placed on a short cooldown, remain usable, or become disabled.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Projectile
+A
+projectile
+or
+missile
+is any entity not classified as a unit (
+champion
+,
+minion
+,
+monster
+, etc.
+) that travels at any given velocity.
+Moving units are
+not
+considered projectiles under any circumstance (
+including
+dashing
+units,
+airborne
+units, or units thrown by some abilities such as
+Force of Will
+or
+Roar of the Slayer
+.
+).
+Braum's
+Unbreakable
+,
+Samira's
+Blade Whirl
+, and
+Yasuo's
+Wind Wall
+can block, destroy and / or stop projectiles.
+Some
+ranged
+basic attacks (
+including
+turrets
+) and abilities don't use projectiles and will bypass projectile-blocking effects.
+Some abilities will
+destroy
+all currently incoming homing projectiles.
+League of Legends content
+Cleanse
+A unit that is
+cleansed
+has all applicable
+crowd control
+status effects removed.
+Due to the nature of the
+cleanse
+interaction, cleansing abilities and effects remain castable in circumstances that would otherwise inhibit casting, unless special-cased.
+"
+Cleanse
+" does not always refer to the act of removing
+all
+crowd control effects, some sources would specify only one or a few types of crowd control.
+A
+cleanse
+does not remove
+Stasis
+, but will remove the disable portion of
+Airborne
+.
+League of Legends content
+Crowd control
+A unit that is
+disabled
+is affected by a status effect that prevents certain actions – such as movement, attacking, casting and/or seeing–blocked, reduced or controlled.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Pet
+A
+pet
+is a
+unit summoned by a champion
+to assist them on the battlefield.
+League of Legends content
+Jack in the Box
+COOLDOWN:
+15
+Active:
+Shaco
+summons a
+box
+at the target location that becomes
+stealthed
+after a short time.
+The
+box
+will spring out upon enemy contact,
+fearing
+nearby enemies for a short time. Enemy
+champions
+hit are also briefly
+rooted
+.
+The
+box
+will remain for a few seconds to automatically fire at nearby enemies, dealing
+magic damage
+that is increased when attacking only one enemy.
+League of Legends content
+Summon: Tibbers
+COOLDOWN:
+130 / 115 / 100
+Active:
+Annie
+summons her bear
+Tibbers
+, dealing
+magic damage
+to enemies in the area.
+Tibbers
+deals
+magic damage
+with his attacks and also burns nearby enemies. Re-cast to direct him.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Standard sight
+Standard sight
+reveals units through
+fog of war
+and
+brush
+, but
+not
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Wind Wall
+COOLDOWN:
+25 / 23 / 21 / 19 / 17
+Active:
+Yasuo
+raises a wind wall that drifts in the target direction for a few seconds, blocking all enemy
+projectiles
+that hit it.
+League of Legends content
+Execute
+Executes
+deal
+true damage
+equal to
+100% of the target's
+current
+health
+through the
+raw damage
+source type, ignoring all mitigations.
+They do not bypass
+invulnerability
+and effects that prevent falling below a health amount, unless the source type is
+internalraw
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Syndra's profile page
+at
+LeagueOfLegends.com
+↑
+Orel, V.
+A Handbook of Germanic Etymology
+, pp. 386-7
+↑
+Beekes, R.S.P.
+Etymological Dictionary of Greek
+, pp. 1038, 354-5
+↑
+Orel, V.
+A Handbook of Germanic Etymology
+, pp. 448, 204

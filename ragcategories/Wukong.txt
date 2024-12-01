@@ -1,0 +1,2535 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Wukong
+the Monkey King
+Release date
+2011-07-26
+Last changed
+V14.22
+Class(es)
+Diver
+Legacy
+Fighter
+Tank
+Position(s)
+Jungle
+Top
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+2
+Toughness
+2
+Control
+2
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Wukong
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+MonkeyKing
+Base statistics
+Edit
+Health
+610
++99
+Mana
+330
++65
+Health regen. (per 5s)
+3.5
++0.65
+Mana regen. (per 5s)
+8
++0.8
+Armor
+31
++4.7
+Attack damage
+66
++3.5
+Magic resist.
+28
++2.05
+Crit. damage
+175%
+Move. speed
+340
+Attack range
+175
+Attack speed
+Base AS
+0.69
+Attack windup
+20.833%
+AS ratio
+0.658
+Bonus AS
++3
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+100
+Pathing radius
+35
+Acq. radius
+600
+Special statistics
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++5%
+Damage Dealt
+-10%
+Damage Received
++10%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Stone Skin
+Innate:
+Wukong
+gains
+bonus
+armor
+based on level and
+health regeneration
+equal to a portion of
+his
+maximum
+health
+. Whenever
+Wukong
+or his
+clone
+damage an enemy
+champion
+or
+monster
+, he generates a stack of
+Strength of Stone
+, which stacks up to 5 times.
+Strength of Stone:
+For each stack,
+Wukong
+increases the
+bonus
+armor
+and
+health regeneration
+gained.
+Innate:
+Wukong
+gains
+6 − 10 (based on level)
+bonus
+armor
+and
+regenerates
+an additional
+「
+0.
+35
+% of his
+maximum
+health
+every 5 seconds. 」
+「
+0.
+07
+% of his
+maximum
+health
+each second. 」
+Whenever
+Wukong
+or his
+clone
+damage an enemy
+champion
+or
+monster
+, he generates a
+stack
+of
+Strength of Stone
+for 5 seconds, refreshing on subsequent hits and stacking up to 5 times. Stacks expire by one every second when the duration ends.
+Strength of Stone:
+For each stack,
+「
+Stone Skin's
+effects are increased by 100%, 」
+「
+Wukong
+gains
+6 − 10 (based on level)
+additional bonus
+armor
+and regenerates an additional
+0.
+07
+% of his
+maximum
+health
+each second, 」
+up to a maximum of
+36 − 60 (based on level)
+bonus
+armor
+and
+「
+2.
+1
+%
+maximum
+health
+regeneration every 5 seconds. 」
+「
+0.
+42
+%
+maximum
+health
+regeneration each second. 」
+Info
+Targeting input
+Passive
+No additional details.
+Edit
+Crushing Blow
+COST:
+20 Mana
+COOLDOWN
+:
+8 / 7.
+5
+/ 7 / 6.
+5
+/ 6
+CAST TIME:
+none
+Active:
+Wukong's
+next basic attack within a few seconds will gain
+bonus
+range
+, deal
+bonus
+physical damage
+, and inflict
+armor reduction
+for a short time. The cooldown is
+reduced
+whenever
+Wukong
+or his
+clone
+damage an enemy.
+Active:
+Wukong
+empowers his next
+basic attack
+within 5 seconds to have an
+uncancellable windup
+, gain
+bonus
+range
+, deal
+bonus
+physical damage
+, and inflict
+armor reduction
+for 3 seconds.
+Bonus Range:
+135 / 145 / 155 / 165 / 175
+Bonus Physical Damage:
+20 / 45 / 70 / 95 / 120
+(+ 55%
+bonus
+AD)
+Armor Reduction:
+10 / 15 / 20 / 25 / 30% of target's armor
+Crushing Blow's
+cooldown
+is reduced by 0.
+5
+seconds whenever
+Wukong
+or his
+clone
+damage an enemy.
+Crushing Blow
+resets
+Wukong's
+and his
+clone's
+basic attack timer. Other abilities can be used during the attack's animation.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Parries
+Blocked
+Crushing Blow
+triggers on
+structures
+and
+wards
+but the armor reduction is not applied.
+Pressing
+S
+will cancel the animation and the attack will still land, but
+Wukong
+will not be able to move until it lands.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 10 / 30 / 50 / 70 / 90.
+Bonus AD ratio changed to
+35%
+bonus
+AD
+.
+Edit
+Warrior Trickster
+COST:
+60 / 55 / 50 / 45 / 40 mana
+COOLDOWN
+:
+18 / 17 / 16 / 15 / 14
+CAST TIME:
+none
+TARGET RANGE:
+300
+EFFECT RADIUS:
+Clone's attack range
+SPEED:
+1200
+Active:
+Wukong
+enters brief
+invisibility
+and
+dashes
+to the target location, leaving behind a
+clone
+that remains for a short time. The clone will basic attack autonomously and gain the effects of his other abilities, as well as cast
+Cyclone
+.
+Active:
+Wukong
+enters
+invisibility
+for 1 second and
+dashes
+in the target direction, leaving behind a
+clone
+of himself at his casting position for 3.
+25
+seconds.
+The clone is
+untargetable
+to allies and can basic attack autonomously, prioritizing the last enemy
+Wukong
+damaged. It can also gain the effects of
+Crushing Blow
+and
+Nimbus Strike's
+bonus
+attack speed
+, and casts
+Cyclone
+whenever
+Wukong
+does.
+The clone deals reduced outgoing damage.
+Clone Outgoing Damage:
+35 / 40 / 45 / 50 / 55%
+See
+Pets
+for more details about
+Wukong's
+clone.
+Wukong
+can cast any of his
+abilities
+during the dash. Warrior Trickster will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+Pet damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Parries
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Casting
+Warrior Trickster
+during an ability's effects will transfer them to the clone.
+Turret
+shots instantly kill the clone.
+The clone is immune to
+stasis
+and
+Blast Cone
+.
+The clone can still be targeted by allied
+auto-targeted
+effects (e.g.
+Heal
+,
+Celestial Blessing
+).
+Using a basic attack breaks the stealth at the end of the attack windup.
+Tips & Tricks
+Pressing the
+S
+key
+(or Ctrl-5) is special cased for
+Wukong
+to instantly snap into his idle animation like his clone would, which can be used to trick his opponents.
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 26 / 24 / 22 / 20 / 18 seconds.
+Edit
+Nimbus Strike
+COST:
+30 / 35 / 40 / 45 / 50 mana
+COOLDOWN:
+10 / 9.
+25
+/ 8.
+5
+/ 7.
+75
+/ 7
+CAST TIME:
+none
+TARGET RANGE:
+625
+EFFECT RADIUS:
+187.
+5
+Active:
+Wukong
+dashes
+to the target enemy and sends
+untargetable
+clones to briefly attack up to two surrounding enemies, dealing
+magic damage
+. Upon arrival,
+Wukong
+gains
+bonus
+attack speed
+for a few seconds.
+Active:
+Wukong
+dashes
+to the target enemy's location and sends out
+untargetable
+clones
+to strike up to two additional enemies near the target's location, dealing
+magic damage
+.
+Magic Damage:
+80 / 110 / 140 / 170 / 200
+(+ 100% AP)
+Upon arrival,
+Wukong
+gains
+bonus
+attack speed
+for 5 seconds.
+Bonus Attack Speed:
+40 / 45 / 50 / 55 / 60%
+Crushing Blow
+can be cast during the dash.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+The
+clones
+can block non-targeted attacks or abilities for 0.
+25
+seconds after hitting their targets.
+Nimbus Strike
+has an offset distance of 75 units from the target dashed to.
+The ability applies a stack of
+Electrocute
+/
+Phase Rush
+even if the target is
+untargetable
+.
+The created
+clones
+are considered champions for
+Turret Plating's
+gold
+sharing.
+Edit
+Cyclone
+COST:
+100 mana
+COOLDOWN
+:
+130 / 110 / 90
+CAST TIME:
+none
+EFFECT RADIUS:
+162.
+5
+Active:
+Wukong
+spins his staff around for a short time, becoming
+ghosted
+and gaining
+bonus
+movement speed
+. The staff continually deals
+physical damage
+to enemies hit based on
+their
+maximum
+health
+, and can briefly
+knock them up
+once.
+Cyclone
+can be recast within the duration, and does so automatically afterwards.
+Recast:
+Wukong
+ends
+Cyclone
+. He cast
+Cyclone
+a second time within a period after the first cast has ended.
+Active:
+Wukong
+spins his staff around for up to 2 seconds, becoming
+ghosted
+and gaining
+20%
+bonus
+movement speed
+. The staff deals
+physical damage
+every 0.
+25
+seconds to enemies hit, and can
+knock them up
+once for 0.
+6
+seconds.
+Cyclone
+will not
+knock up
+enemies who were already hit by either
+Wukong
+or his
+clone
+within the same cast.
+Physical Damage Per Tick:
+1 / 1.
+5
+/ 2% of target's
+maximum
+health
+(+ 34.
+375
+% AD)
+Total Physical Damage:
+8 / 12 / 16% of target's
+maximum
+health
+(+ 275% AD)
+Cyclone
+can be recast after 0.
+5
+seconds within the duration, and does so automatically afterwards or by casting another
+ability
+.
+Recast:
+Wukong
+ends
+Cyclone
+. After 1 second, he can cast
+Cyclone
+a second time within 8 seconds of the first cast.
+Maximum Total Physical Damage:
+16 / 24 / 32% of target's
+maximum
+health
+(+ 550% AD)
+Nimbus Strike's
+bonus
+attack speed
+duration is continuously refreshed while spinning.
+Cyclone's
+damage is capped at
+200 / 400 / 600 (based on level)
+per second against
+monsters
+.
+Info
+Targeting input
+Auto
+Damage type
+Type
+AOE DOT damage
+Sub-type
+Physical
+Counters
+Spell shield
+See Notes
+Cyclone
+is special cased to grant stacks of
+Conqueror
+for each tick of damage.
+Casting a basic ability will always interrupt
+Wukong's
+Cyclone
+. A clone can be interrupted by casting
+Crushing Blow
+, but only if the clone was made during the current
+Cyclone
+cast and only for that cast. This means if both
+Wukong
+and his clone are spinning, the clone cannot be interrupted.
+Cyclone's
+remaining duration always stays the same even after the clone replicated the ability.
+During
+Cyclone
+,
+Wukong
+and his clone's
+attack ranges
+are reduced
+「 to 50 」
+「 by 125 」
+.
+Spell shield
+will block one instance of damage.
+Blocking the
+knock up
+will still grant immunity to it from either of
+Cyclone's
+casts.
+Attacking
+Disabled
+Abilities
+Other abilities are disabled for the first 0.
+3
+seconds, casting them afterwards interrupts.
+Movement
+Allowed
+Items
+Usable
+All items are usable
+Disabled
+N/A
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Teleport
+Hexflash
+Disabled
+Recall
+Interrupted by
+N/A
+Interrupted by
+Death
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage per tick changed to
+0.
+75
+/ 1.
+125
+/ 1.
+5
+% of target's
+maximum
+health
+.
+AD ratio per second changed to
+110% AD
+.
+Pets
+[
+edit
+|
+edit source
+]
+Decoy
+Current
+1st Colorblind
+1st
+Bounty
+Gold
+25
+Exp
+44
+Statistics
+Health
+100% of
+Wukong's
+current
+health
+Attack damage
+100% of
+Wukong's
+attack damage
+Attack speed
+100% of
+Wukong's
+attack speed
+Range
+175
+Armor
+100% of
+Wukong's
+armor
+Magic resist
+100% of
+Wukong's
+magic resistance
+CC resist
+Stasis
+Move speed
+100% of
+Wukong's
+movement speed
+Control type
+Automatically basic attacks the nearest unit. Prioritizes attacking targets being basic attacked by
+Wukong
+. Can be commanded to attack another unit in range with
+Alt + Right Click
+. It is static.
+Target type
+Champion
+On-hit effects
+Attacks can be mitigated by
+block
+,
+dodge
+, and
+blind
+, as well as stopped by
+Disarm
+.
+Spell effects
+Basic attacks apply
+spell effects
+as
+pet damage
+.
+Abilities
+The clone can use
+Crushing Blow
+and
+Cyclone
+when
+Wukong
+does and benefits from
+Nimbus Strike's
+bonus
+attack speed
+. The clone's
+Cyclone
+won't
+knock up
+enemies if they were already knocked up by
+Wukong
+.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Wukong (Collection)
+.
+Original
+View in 3D
+880
+26.07.2011
+Wukong is a vastayan trickster who uses his strength, agility, and intelligence to confuse his opponents and gain the upper hand. After finding a lifelong friend in the warrior known as Master Yi, Wukong became the last student of the ancient martial art known as Wuju. Armed with an enchanted staff, Wukong seeks to prevent Ionia from falling to ruin.
+Spike Spencer
+Christian Fell
+Loot eligible
+Volcanic
+View in 3D
+975
+26.07.2011
+A greater Infernal whose power is drawn from the molten rock bubbling beneath the earth, Wukong's rage causes mountains to split, lava to rain from the sky, and rivers to become blackened glass. Still, he will never back down from any challenge—and this, perhaps, will be the key to his defeat.
+Spike Spencer
+Unknown artist
+Infernal
+Loot eligible
+General
+View in 3D
+750
+26.07.2011
+Once a mischievous scout, Wukong led his sworn brethren on a treacherous journey to the western hinterlands, where he attained martial enlightenment. Now promoted to the rank of general, he commands a host of fearsome warriors, destined to cleanse the realm of monsters and demons alike.
+Spike Spencer
+Zhou Juexian
+Legacy
+Loot eligible
+Jade Dragon
+View in 3D
+975
+10.01.2012
+Imbued with the power of the legendary jade dragon, Wukong has honed his abilities to a razor sharp point.Though still headstrong and brash, his newfound power is undeniable—a worrying sign to his master, as the jade dragon carries a powerful curse...
+Spike Spencer
+Unknown artist
+Lunar Revel
+Loot eligible
+New SFX/VFX
+Chromas
+Jade Dragon Wukong Chromas
+Meteorite
+Underworld
+View in 3D
+1350
+28.10.2014
+Once a pupil of the martial arts, Wukong trained under his masters' strict traditions and doctrines. In him, Death saw limitless potential, and chose to claim the disregarded student for the underworld instead. Now, Wukong fights alongside the undying hordes, no longer bound by the rules of the living.
+Spike Spencer
+Sperasoft Studio
+Death Sworn
+Loot eligible
+Legacy
+Voice filter
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+Radiant
+View in 3D
+1350
+27.01.2016
+An ascendant being of nearly limitless power, Radiant Wukong has undertaken a great journey to test his skills against history's greatest warriors. However, overcoming his quick temper and impulsive nature might be his greatest challenge yet.
+Spike Spencer
+Sixmorevodka Studio
+Lunar Revel
+Loot eligible
+Voice filter
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+Lancer Stratus
+View in 3D
+1350
+04.04.2018
+Another of the ancient, mechanized Lancer units, Wukong arises from his dusty slumber in times of extreme danger, protecting the outland city-states from the most dire threats. Once these foes are eliminated he returns to the earth, an enigma older than recorded history.
+Spike Spencer
+Bo 'chenbowow' Chen
+Lancer
+Loot eligible
+Voice filter
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+Battle Academia
+View in 3D
+1350
+18.03.2021
+A consummate troublemaker and prankster, Wukong has failed out of every high school in the region, eventually washing out into Labrys as an 'enrollment of last resort'. A naturally gifted fighter in the Battle Club, he still hasn't learned discipline, and only listens to Caitlyn because she can beat him up.
+Spike Spencer
+Ina Wong, West Studio
+Battle Academia
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Battle Academia Wukong Chromas
+Catseye
+Emerald
+Meteorite
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Elderwood
+View in 3D
+1350
+28.06.2023
+A protector with no one left to protect, Wukong torments any creatures who dare traverse within the Elderwood's depths. After the Coven destroyed his village in search of his enchanted staff's limitless power, he learned that trust is a fool's luxury. The gleam from his weapon's crystals serve as a constant reminder of the ancient trickster's failure.
+Spike Spencer
+Ina Wong, West Studio
+Elderwood
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Elderwood Wukong Chromas
+Amethyst
+Aquamarine
+Citrine
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.22
+Stats
+Base mana increased to 330 from 300.
+Warrior Trickster
+Cooldown reduced to 18 / 17 / 16 / 15 / 14 seconds from 22 / 20 / 18 / 16 / 14.
+V14.17
+Crushing Blow
+Bug Fix:
+Casting now properly reveals a Fog of War bubble around himself and any clone (with the same effects as attacking).
+V14.16
+Stone Skin
+Bonus armor per stack increased to
+6 − 10 (based on level)
+from
+5 − 9 (based on level)
+.
+Maximum bonus armor increased to
+36 − 60 (based on level)
+from
+30 − 54 (based on level)
+Nimbus Strike
+Bonus attack speed increased to 40 / 45 / 50 / 55 / 60% from 35 / 40 / 45 / 50 / 55%.
+V14.11
+Warrior Trickster
+Bug Fix:
+Statikk Shiv's
+Electroshock
+no longer unintentionally triggers from the clone expiring if the enemy who owns the item hit it at any point during its active time.
+V14.5
+Stone Skin
+Maximum stacks reduced to 5 from 10.
+Bonus effects per stack increased to 100% from 50%.
+New Effect:
+Stacks now fall off at a rate of 1 per second after the duration expires.
+V14.3
+Crushing Blow
+Bonus range increased to 135 / 145 / 155 / 165 / 175 from 75 / 100 / 125 / 150 / 175.
+Bonus AD ratio increased to
+55%
+bonus
+AD
+from
+45%
+.
+Nimbus Strike
+Cooldown reduced to 10 / 9.
+25
+/ 8.
+5
+/ 7.
+75
+/ 7 seconds from 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8.
+V13.16
+Stats
+Mana regeneration growth increased to 0.
+8
+from 0.
+65
+.
+Crushing Blow
+Mana cost reduced to 20 from 40.
+Warrior Trickster
+Mana cost reduced to 60 / 55 / 50 / 45 / 40 from 80 / 70 / 60 / 50 / 40.
+V13.14
+Warrior Trickster
+Undocumented/Bug Fix:
+Pet can now consistently be commanded to attack inhibitors and the Nexus via their controller spells or automatic attack priorities.
+V13.13
+Nimbus Strike
+Monster damage reduced to 100% from 120%.
+V13.7
+Stats
+Base attack damage reduced to 66 from 68.
+Warrior Trickster
+Cooldown increased to 22 / 20 / 18 / 16 / 14 seconds from 22 / 19.
+5
+/ 17 / 14.
+5
+/ 12.
+Nimbus Strike
+Bonus attack speed reduced to 35 / 40 / 45 / 50 / 55% from 40 / 45 / 50 / 55 / 60%.
+V12.20
+Cyclone
+AD ratio per tick increased to
+34.
+375
+% AD
+from
+27.
+5
+% AD
+.
+AD ratio per cast increased to
+275% AD
+from
+220% AD
+.
+V12.17
+Stats
+Base movement speed reduced to 340 from 345.
+Base attack speed reduced to 0.
+68
+from 0.
+711
+.
+V12.14
+Stats
+Base health regeneration increased to 3.
+5
+from 2.
+5
+.
+Stone Skin
+Health regeneration reduced to
+0.
+35
+%
+maximum
+health
+from
+0.
+5
+%
+.
+Maximum health regeneration reduced to
+2.
+1
+%
+maximum
+health
+from
+3%
+.
+V12.12
+- June 30th Hotfix
+Nimbus Strike
+Damage against monsters reduced to 120% from 160%.
+Cyclone
+Cooldown increased to 130 / 110 / 90 seconds from 120 / 105 / 90.
+V12.12
+Crushing Blow
+Bug Fix:
+Now counts as an ability for the purposes of
+Tear of the Goddess'
+,
+Manamune's
+and
+Muramana's
+stacking and bonus damage effects.
+Warrior Trickster
+Bug Fix:
+Clones
+no longer apply
+Emberknife
+and
+Hailblade's
+damage over time debuff against monsters if a copy of the item is in their inventory, preventing a bug where they could fail to attribute kill credit of a monster if they died before it was killed by the effect.
+V12.11
+Warrior Trickster
+Cooldown increased to 22 / 19.
+5
+/ 17 / 14.
+5
+/ 12 seconds from 20 / 18 / 16 / 14 / 12.
+Nimbus Strike
+Damage against monsters reduced to 160% from 180%.
+V12.10
+Stats
+Base health increased to 610 from 540.
+Health growth increased to 99 from 85.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+V12.9
+Nimbus Strike
+Bug Fix:
+Conqueror
+now properly stacks for each hit of
+Nimbus Strike
+and
+Crushing Blow
+even if they were used simultaneously.
+V12.7
+Crushing Blow
+Cooldown reduced to 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6 seconds from 9 / 8.
+5
+/ 8 / 7.
+5
+/ 7.
+Warrior Trickster
+Cooldown reduced to 20 / 18 / 16 / 14 / 12 seconds from 20 / 19 / 18 / 17 / 16.
+New Effect:
+Can now dash over terrain.
+Nimbus Strike
+AP ratio increased to
+100% AP
+from
+80% AP
+.
+Damage against monsters increased to 180% from 150%.
+V11.22
+Warrior Trickster
+Bug Fix:
+No longer triggers
+Death's Dance's
+Defy when the clone expires.
+V11.21
+Crushing Blow
+New Effect:
+Now trigger spell effects when dealing damage.
+V11.17
+Crushing Blow
+Bug Fix:
+Fixed a bug where he was able to entirely cancel the animation by entering a stop command.
+V11.15
+Stats
+Base health regeneration reduced to 2.
+5
+from 4.
+V11.12
+Stats
+Attack damage growth reduced to 3.
+5
+from 4.
+Crushing Blow
+Bonus AD ratio reduced to
+45%
+bonus
+AD
+from
+50%
+.
+V11.9
+Cyclone
+Bug Fix:
+Fixed a bug where he would not knock-up enemies who entered the ability radius while untargetable even after their untargetability ends.
+V11.5
+- March 4th Hotfix
+Stone Skin
+Bug Fix:
+Once again grants
+Wukong
+the base bonus armor and health regeneration.
+V11.5
+Stone Skin
+Undocumented:
+No longer grants the innate bonus armor and health regeneration.
+(bug)
+V10.25
+Nimbus Strike
+New Effect:
+Now deals 50%
+bonus
+damage against monsters.
+V10.23
+Stats
+Mana growth increased to 65 from 45.
+V10.14
+Cyclone
+Knock up duration reduced to 0.
+6
+seconds from 0.
+75
+.
+V10.10
+Warrior Trickster
+Bug Fix:
+Casting it as the enemy champion is winding up an empowered basic attack does not cause them to lose control of their character.
+V10.9
+Stats
+Base armor reduced to 31 from 34.
+Crushing Blow
+Base damage reduced to 20 / 45 / 70 / 95 / 120 from 30 / 55 / 80 / 105 / 130.
+Warrior Trickster
+Clone damage reduced to 35 / 40 / 45 / 50 / 55% from 40 / 45 / 50 / 55 / 60%.
+V10.7
+Stone Skin
+Bonus armor reduced to
+5 − 9 (based on level)
+from
+5 − 11 (based on level)
+.
+Maximum bonus armor reduced to
+30 − 54 (based on level)
+from
+30 − 66 (based on level)
+.
+Nimbus Strike
+Base damage reduced to 80 / 110 / 140 / 170 / 200 from 80 / 120 / 160 / 200 / 240.
+New Effect:
+Can now buffer
+Warrior Trickster
+and
+Cyclone
+after dashing.
+V10.6
+- March 19th Hotfix
+Stats
+Base health regeneration reduced to 4 from 5.
+Stone Skin
+Number of stacks increased to 10 from 8.
+Bonus effects per stack reduced to 50% from 62.
+5
+%.
+Warrior Trickster
+Mana cost changed to 80 / 70 / 60 / 50 / 40 from 60 at all ranks.
+Clone damage reduced to 40 / 45 / 50 / 55 / 60% from 50 / 55 / 60 / 65 / 70%.
+V10.6
+- March 18th Hotfix
+Stone Skin
+Bug Fix:
+Fixed a bug where his armor and health regeneration were lower than intended without any stacks.
+Crushing Blow
+Bug Fix:
+Bonus damage now properly applies to turrets.
+Warrior Trickster
+Bug Fix:
+Clone now deals the proper amount of damage against turrets and champions.
+V10.6
+- Gameplay Update
+General
+Recommended items updated to reflect the strength of bruiser-oriented builds.
+Stats
+Base magic resistance reduced to 28 from 32.
+1
+.
+Base health reduced to 540 from 577.
+8
+.
+Base mana increased to 300 from 265.
+84
+.
+Mana growth increased to 45 from 38.
+Undocumented:
+Base health regeneration reduced to 5 from 6.
+Undocumented:
+Base mana regeneration reduced to 8 from 8.
+042
+.
+Stone Skin
+New Innate:
+Wukong
+gains
+5 − 11 (based on level)
+bonus
+armor
+and regenerates
+0.
+5
+% of his
+maximum
+health
+per 5 seconds. These effects are increased by 62.
+5
+% for 5 seconds whenever
+Wukong
+or his clone damage a champion or a monster. Bonuses stack up to 8 times to a maximum of
+30 − 66 (based on level)
+bonus
+armor
+and
+3%
+maximum
+health
+regeneration.
+Crushing Blow
+Base damage increased 30 / 55 / 80 / 105 / 130 from 10 / 40 / 70 / 100 / 130.
+AD ratio changed to
+50%
+bonus
+AD
+from
+0 / 10 / 20 / 30 / 40%
+total
+AD
+.
+Bonus basic attack range changed to 75 / 100 / 125 / 150 / 175 units from 125 at all ranks.
+New Effect:
+Cast time now scales with bonus attack speed.
+New Effect:
+Added a timer to the ability icon to show how much time is left to use the empowered attack.
+New Effect:
+Cooldown is reduced by 0.
+5
+seconds whenever
+Wukong
+or his clone damages an enemy.
+Cooldown increased to 9 / 8.
+5
+/ 8 / 7.
+5
+/ 7 seconds from 9 / 8 / 7 / 6 / 5.
+Undocumented:
+Now deals
+bonus
+damage instead of
+modified
+damage.
+Undocumented:
+Is now an
+unstoppable basic attack
+.
+Warrior Trickster
+Renamed
+Warrior Trickster
+from
+Decoy
+.
+Dash distance increased to 300 units from 100.
+New Effect:
+Now dashes at 1200 speed on cast rather than blink.
+Stealth duration reduced to 1 second from 1.
+5
+.
+Removed:
+No longer deals 70 / 115 / 160 / 205 / 250
+(+ 60% AP)
+magic damage on clone death.
+Cooldown increased to 20 / 19 / 18 / 17 / 16 seconds from 18 / 16 / 14 / 12 / 10.
+Mana cost changed to 60 at all ranks from 50 / 55 / 60 / 65 / 70.
+New Effect:
+Clone can now basic attack and cast
+Cyclone
+at 50 / 55 / 60 / 65 / 70% damage, prioritizing the last enemy
+Wukong
+damaged.
+The clone's
+Cyclone
+won't knock up enemies who were already knocked up by
+Wukong
+.
+New Effect:
+Clone now gains
+Nimbus Strike's
+bonus attack speed and
+Crushing Blow
+.
+Clone duration increased to 3.
+25
+seconds from 1.
+5
+.
+New Effect:
+Cooldown now starts on cast rather than on clone death.
+New Effect:
+Clone now looks identical to
+Wukong's
+animation state on spawn and animates if the
+S
+key is pressed.
+New Effect:
+Now casts in the direction of cursor rather than where
+Wukong
+was facing.
+New Effect:
+Turret shots now instantly kill the clone.
+Nimbus Strike
+Damage type changed to magic from physical.
+Base damage increased to 80 / 120 / 160 / 200 / 240 from 65 / 100 / 135 / 170 / 205.
+Removed:
+No longer scales with
+80%
+bonus
+AD
+.
+New Effect:
+Now scales with
+80% AP
+.
+Bonus attack speed increased to 40 / 45 / 50 / 55 / 60% from 30 / 35 / 40 / 45 / 50%.
+Bonus attack speed duration increased to 5 seconds from 4.
+Cooldown increased to 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8 seconds from 8 at all ranks.
+Mana cost reduced to 30 / 35 / 40 / 45 / 50 from 45 / 50 / 55 / 60 / 65.
+New Effect:
+Now has an offset distance of 75 units from the target dashed to.
+Cyclone
+New Effect:
+Can now be cast a second time within 8 seconds of the first cast.
+Knock up duration reduced to 0.
+75
+seconds from 1.
+Duration reduced to 2 seconds from 4.
+Removed:
+No longer has a base damage of 20 / 110 / 200 per second.
+New Effect:
+Now deals
+4 / 6 / 8% of the target's
+maximum
+health
+per second.
+New Effect:
+Damage is now capped at
+200 / 400 / 600 (based on level)
+per second against monsters.
+Tick rate reduced to 1 per 0.
+25
+seconds from 1 per 0.
+5
+.
+New Effect:
+Now grants stacks of
+Conqueror
+on each tick.
+Bonus movement speed changed to 20% at all times active from
+5% − 40% (based on time active)
+.
+Lockout timer reduced to 0.
+5
+seconds from 1.
+New Effect:
+Basic attack range is reduced to 50 units while spinning.
+New Effect:
+Can now cast abilities during
+Cyclone
+, cancelling the ability.
+New Effect:
+Nimbus Strike's
+bonus attack speed duration is now paused while active.
+New Effect:
+Added a timer to the ability icon to show how much spin time is left and how much time he has left to recast the ability before it goes on cooldown.
+Undocumented:
+Tiamat
+is no longer disabled while spinning.
+Trivia
+[
+edit
+|
+edit source
+]
+Wukong is based on
+Sun Wukong
+from the Chinese novel
+Journey to the West
+.
+Coincidentally, much of
+Garen's
+kit was a possible basis for Wukong, mainly due to both characters having:
+A "Q" ability that originally stated its scaling to be over 100% in attack damage as an auto-attack booster and reset with an extra effect (
+Decisive Strike
+silences with a movement speed boost while
+Wukong's
+Crushing Blow
+reduces armor by a percentage), and applies on-hit effects as well.
+A passive ability that increases their defensive stats (with Garen's being a normal ability with not only percentage defensive boosts, but also with a damage reduction active while Wukong's only being a standard passive with flat defense/HP boosts).
+Point-and-click spells; Garen's can only target one champion with it and acts as his ultimate; Wukong's can hit two extra targets in range, moves him to said target(s) and acts as a normal ability. Both versions at some point have interacted with magic damage (
+Garen's
+Demacian Justice
+originally inflicted bonus magic damage while
+Wukong's
+Nimbus Strike
+now scales with magic damage and ability power as of his gameplay update).
+Cyclone
+and
+Judgment
+involve a very similar spinning animation and near-identical mechanics in the way their hits are racked up, how they provide bonus movement speed during cast time, and cancellation. A number of certain item actives and summoner spells can even be used during their cast times, though depending on the champion there are exclusive item actives only available to them during such abilities, as Wukong before his update could not activate
+Tiamat's
+/
+Ravenous Hydra's
+active during
+Cyclone
+.
+Cyclone
+also cannot critically strike, unlike
+Judgment
+.
+Likewise, both their ultimates (
+Demacian Justice
+and
+Cyclone
+) have HP-based-damage-scaling against their targets.
+The name of
+Cyclone
+on the Chinese Servers, 大鬧天宮 (
+trad.
+) 大闹天宫 (
+simpl.
+) (
+Dànào Tiāngōng
+, lit.
+Greatly Wrecking the Heavenly Palace
+) references the Monkey King's rebellion against the Jade Emperor & other heavenly government's officials, until Buddha sealed him the Five Finger Mountain (
+Wǔzhǐshān
+, 五指山) for five centuries, before embarking on his westward journey to redeem himself.
+[2]
+Other
+MOBA's
+than
+League of Legends
+(such as
+Heroes of Newerth
+[3]
+,
+Smite
+[4]
+, and
+Dota 2
+[5]
+) also feature a character based on Sun Wukong. These expies of the Monkey King (including
+Smite's
+pre-worked Sun Wukong
+) have similar abilities and playstyles (mainly being damaging tanks with assassin potential, and having very unique tricks with their abilities).
+Wukong is one of a few champions to have multiple textures in one skin. When he uses
+Warrior Trickster
+, his clone will be of a different colour palette which can only be seen by Wukong and his allies. To the opposing team, the two Wukongs look exactly the same, including copies of any external
+buffs
+and
+item
+effects active at the moment the clone is spawned (Prior to patch
+V5.22
+, clones did not duplicate external buff/active item effect particles).
+Four other champions with this feature are
+LeBlanc
+(via
+Mirror Image
+),
+Shaco's
+(via
+Hallucinate
+),
+Nasus
+(via
+Fury of the Sands
+) and
+Malphite
+(via
+Granite Shield
+and
+Thunderclap
+).
+Wukong's
+critical strike
+animation is a possible nod to a famous pole-vaulting kick used by many incarnations of the original Sun Wukong, especially in the TV drama adaptations of
+Journey to the West
+, and his
+Warriors Orochi / Musou Orochi
+incarnation as well.
+When a Wukong Bot uses
+Warrior Trickster
+, the decoy is named "MonkeyKing Bot".
+Wukong is the only champion with two
+Lunar Revel
+skins.
+Before his gameplay update,
+Cyclone
+was originally tied as one of the highest AD ratio abilities in the game.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Diver
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+Divers
+are the more mobile portion of the Fighter class. Divers excel at singling out high-priority targets to blitz toward, immediately forcing those targets (and their teammates) to deal with the diver’s presence. Divers are not as durable as the tanks or juggernauts of the world, but Divers can take their fair share of punishment while bringing enough damage to be a real kill threat if left unchecked.
+Examples
+Hecarim
+Jarvan IV
+Vi
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Warrior Trickster
+COOLDOWN:
+18 / 17 / 16 / 15 / 14
+Active:
+Wukong
+enters brief
+invisibility
+and
+dashes
+to the target location, leaving behind a
+clone
+that remains for a short time.
+The clone will basic attack autonomously and gain the effects of his other abilities, as well as cast
+Cyclone
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Ward
+Wards
+are deployable units that that grant
+sight
+over the surrounding area. They can only be destroyed by
+basic attacks
+, granting
+gold
+and
+experience
+.
+There are three kinds of deployable
+wards
+available for purchase:
+Control Ward
+,
+Warding Totem
+, and
+Farsight Alteration
+. Other types of wards, such as
+Zombie Ward
+, are usable through various means.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Invisibility
+Invisibility
+is a form of stealth that renders a unit hidden from enemy
+vision
+for a
+short
+period of time. It can be utilized to sneak in on opponents as well as the ability to reposition in-combat or simply to flee from a skirmish. It also grants
+ghosting
+.
+Invisible
+units can
+only
+be revealed by
+True Sight
+.
+Stealthed
+units shimmer their character model for 0.
+6
+seconds whenever they take damage.
+A unit will shimmer for every instance of damage they take, and shimmering does not make the unit targetable nor remove the
+stealth
+effect, but grants positional information to the enemy.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Clone
+A
+clone
+or
+decoy
+is a specific type of
+pet
+that attempts to imitate a
+champion
+, copying their current vitality, stats, items, level, and most status effects upon creation. They are considered champions against many effects that do not strictly require
+player
+champions, else they are considered
+minions
+either small or large among certain cases.
+The
+damage
+they deal is attributed to them alone, but they transfer last hit and kill credit. Killing a
+clone
+awards
+25
+and
+44
+.
+League of Legends content
+Cyclone
+COOLDOWN:
+130 / 110 / 90
+Active:
+Wukong
+spins his staff around for a short time, becoming
+ghosted
+and gaining
+bonus
+movement speed
+. The staff continually deals
+physical damage
+to enemies hit based on
+their
+maximum
+health
+, and can briefly
+knock them up
+once.
+Cyclone
+can be recast within the duration, and does so automatically afterwards.
+Recast:
+Wukong
+ends
+Cyclone
+. He cast
+Cyclone
+a second time within a period after the first cast has ended.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Crushing Blow
+COOLDOWN:
+8 / 7.
+5
+/ 7 / 6.
+5
+/ 6
+Active:
+Wukong's
+next basic attack within a few seconds will gain
+bonus
+range
+, deal
+bonus
+physical damage
+, and inflict
+armor reduction
+for a short time.
+The cooldown is
+reduced
+whenever
+Wukong
+or his
+clone
+damage an enemy.
+League of Legends content
+Nimbus Strike
+COOLDOWN:
+10 / 9.
+25
+/ 8.
+5
+/ 7.
+75
+/ 7
+Active:
+Wukong
+dashes
+to the target enemy and sends
+untargetable
+clones to briefly attack up to two surrounding enemies, dealing
+magic damage
+.
+Upon arrival,
+Wukong
+gains
+bonus
+attack speed
+for a few seconds.
+League of Legends content
+Pet damage
+Pet damage
+is the damage type dealt primarily by the basic attacks of
+champion summoned units
+, although the majority of damage sourced from pets is otherwise classified (e.g.
+spell damage
+,
+area damage
+, or
+persistent damage
+).
+Pet damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. Some examples that are triggered include:
+Rylai's Crystal Scepter
+will trigger whenever you deal an instance of
+pet damage
+.
+Physical vamp
+(where applicable) and
+omnivamp
+heals for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of the damage's non-reactive nature (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Stasis
+A unit that is in
+stasis
+is unable to control its movement, declare attacks, cast abilities, activate items or use
+any
+summoner spell
+for the duration, while also being
+invulnerable
+and
+untargetable
+.
+Stasis
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), all
+channeled and charged
+abilities and all
+dashes
+and
+displacements
+. Units that are being
+knocked up
+will be placed on the ground, but aren't
+knocked down
+(the
+airborne
+status is not removed in this case).
+Reduction:
+The
+duration
+is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Epic monsters
+and
+turrets
+are special cased to be affected by
+stasis
+despite them being
+crowd control immune
+.
+Removal:
+Cannot be removed by any means (except through
+death
+), and will prevent the activation of abilities that would usually remove
+crowd control
+effects.
+Quicksilver
+will either be placed on a short cooldown, remain usable, or become disabled.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Auto-targeted
+Auto-targeted
+is a targeting paradigm that is autonomous; the source
+is not required
+to acquire a target, rather the ability or spell upon activation applies its effects by itself selectively. This type of targeting usually needs a sufficient target within range to be castable.
+League of Legends content
+Celestial Blessing
+COOLDOWN:
+15
+Active:
+Kayle
+heals
+herself and an allied champion. Additionally, both of them gains
+move speed
+for a brief time.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+References
+[
+edit
+|
+edit source
+]
+↑
+Wukong's profile page
+at
+LeagueOfLegends.com
+↑
+Wukong: Journey to the West
+↑
+HoN Sun Wukong
+↑
+SMITE Sun Wukong
+↑
+DotA2 Monkey King

@@ -1,0 +1,2527 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Talon
+the Blade's Shadow
+Release date
+2011-08-24
+Last changed
+V14.21
+Class(es)
+Assassin
+Legacy
+Assassin
+Position(s)
+Middle
+Jungle
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Talon
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Talon
+Base statistics
+Edit
+Health
+658
++109
+Mana
+400
++37
+Health regen. (per 5s)
+8.5
++0.75
+Mana regen. (per 5s)
+7.6
++0.8
+Armor
+30
++4.7
+Attack damage
+68
++3.1
+Magic resist.
+39
++2.05
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+125
+Attack speed
+Base AS
+0.625
+Attack windup
+12.375%
+AS ratio
+N/A
+Bonus AS
++2.9
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+400
+Special statistics
+Damage Dealt
++5%
+Damage Received
+-5%
+Tenacity & Slow Resist
++20%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Blade's End
+Innate:
+Each time
+Talon's
+abilities deal
+physical damage
+to
+champions
+and large
+monsters
+, they apply a stack of
+Wound
+, stacking up to a cap. His next basic attack against an enemy with maximum stacks consumes them all to deal
+physical damage
+over a short time. The target cannot gain new stacks over this duration.
+Innate:
+Talon's
+abilities
+apply a
+stack
+of
+Wound
+to enemy
+champions
+and large
+monsters
+hit for 6 seconds, refreshing on basic attacks and subsequent applications and stacking up to 3 times.
+Talon's
+next
+basic attack
+against an enemy with 3
+Wound
+stacks is empowered to consume them all to cause the target to bleed, dealing
+「
+80 − 280 (based on level)
+(+ 210%
+bonus
+AD)
+total
+physical damage
+over 2 seconds, 」
+「
+5 − 17.
+5
+(based on level)
+(+ 13.
+125
+%
+bonus
+AD)
+physical damage
+every 0.
+125
+seconds over 2 seconds, 」
+increased to 120% damage against
+monsters
+. The target cannot gain
+Wound
+stacks during this time.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Default damage
+Sub-type
+Physical
+Counters
+Spell shield
+See Notes
+Parries
+Missing
+Blade End's
+enhanced attack will still trigger if
+blocked
+.
+Both passes of
+Rake
+and
+Shadow Assault
+apply a stack of
+Wound
+.
+Interaction with
+parrying
+effects (
+dodge
+,
+blind
+). If the attack gets parried, dodged or missed the stacks do not trigger or refresh and their amount remains unchanged.
+Spell shield
+prevents
+Wound
+stacks
+from being applied.
+Spell shield
+prevents
+Blade End's
+enhanced attack from triggering though still consuming all
+Wound
+stacks
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Total bonus AD ratio changed to
+260%
+bonus
+AD
+.
+Edit
+Noxian Diplomacy
+COST:
+40 Mana
+COOLDOWN:
+8 / 7.
+5
+/ 7 / 6.
+5
+/ 6
+CAST TIME:
+None
+/
+Attack Windup Time
+TARGET RANGE:
+575
+/
+170
+SPEED:
+1400
+Active:
+Talon
+leaps
+to the target enemy, dealing
+physical damage
+. If the target is within melee range,
+Talon
+instead
+critically strikes
+the target. If
+Noxian Diplomacy
+kills the target,
+Talon
+heals
+and
+reduces
+its cooldown.
+Active:
+Talon
+dashes
+toward the target enemy, stabbing the target upon arrival to deal
+physical damage
+. If cast within close range,
+Talon
+dashes
+to the target
+over the cast time instead and
+Noxian Diplomacy
+critically strikes
+for (150% +
+40%
+) damage, as well as grants him
+75
+bonus
+attack range
+on his next basic attack within 1 second.
+Physical Damage:
+65 / 85 / 105 / 125 / 145
+(+ 100%
+bonus
+AD)
+Critical Physical Damage:
+97.
+5
+/ 127.
+5
+/ 157.
+5
+/ 187.
+5
+/ 217.
+5
+(+ 150%
+bonus
+AD)
+If
+Noxian Diplomacy
+kills the target,
+Talon
+heals
+for
+9 − 55 (based on level)
+and the ability's
+cooldown
+is reduced by 50%.
+Noxian Diplomacy
+resets
+Talon's
+basic attack timer.
+Shadow Assault
+can be cast during the dash.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Grounded
+See Notes
+Knockdown
+Interrupted
+Talon
+will track the target if they change locations with the ranged version of
+Noxian Diplomacy
+, landing at an offset of 100 units before reaching them.
+He will dash to the target's previous location while still dealing damage if the target is too far away or moves beyond
+800
+units.
+When cast in close range,
+Noxian Diplomacy
+deals its damage at the completion of the cast time, rather than at the dash's completion.
+The damage will be dealt even if
+Talon's
+dash is interrupted, so long as the cast time is completed.
+Talon
+will be ordered to basic attack the target at the end of the dash.
+While
+grounded
+or
+rooted
+,
+Noxian Diplomacy
+can only be cast within close range.
+Talon
+will still dash to the target in both cases.
+Noxian Diplomacy
+will also grant the heal if the target dies upon
+Talon's
+completion of the dash.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+This only applies to the close dash attack.
+Map-Specific Differences
+Arena
+differences
+edit
+Bonus AD ratio changed to
+115%
+bonus
+AD
+.
+Edit
+Rake
+COST:
+50 / 55 / 60 / 65 / 70 Mana
+COOLDOWN:
+9 / 8.
+5
+/ 8 / 7.
+5
+/ 7
+CAST TIME:
+0.
+25
+RANGE:
+900
+/
+850
+WIDTH:
+150
+ANGLE:
+22°
+SPEED:
+2571
+/
+2429
+/
+3000
+Active:
+Talon
+throws a fan of daggers in the target direction that deals
+physical damage
+to enemies hit. After a brief delay, the daggers home back to him, dealing
+physical damage
+and briefly
+slowing
+enemies hit.
+Active:
+Talon
+throws a fan of daggers in a cone in the target direction that deals
+physical damage
+to enemies hit.
+Physical Damage:
+50 / 60 / 70 / 80 / 90
+(+ 40%
+bonus
+AD)
+At maximum range, the daggers linger for 0.
+75
+seconds before homing back to
+Talon
+, dealing
+physical damage
+to enemies hit and
+slowing
+them for 1 second.
+Physical Damage:
+60 / 90 / 120 / 150 / 180
+(+ 90%
+bonus
+AD)
+Total Physical Damage:
+110 / 150 / 190 / 230 / 270
+(+ 130%
+bonus
+AD)
+Slow:
+40 / 45 / 50 / 55 / 60%
+Enemies can be hit only once per pass.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+This ability will cast from wherever the caster is at the end of the cast time.
+Casting
+Rake
+when an enemy is within 650 radius and 26° angle in front of
+Talon
+will reveal him from the fog of war like a targeted cast.
+(bug)
+This is because of
+Rake's
+internal Cone targeting type, which defaults to "targeting" all units in the preset area and thereby trigger revealing the caster if not toggled off for the spell.
+If
+Talon
+dies while
+Rake
+is mid-air, the projectiles will still complete their travel.
+The blades each will fail to return to
+Talon
+if he is somehow too far from them after the delay.
+This maximum distance is 5000 units at ranks 1-4 of
+Rake
+, or 20000 units at rank 5 of
+Rake
+.
+(bug)
+The latter distance is barely achievable between fountains on Summoner's Rift.
+Map-Specific Differences
+Arena
+differences
+edit
+Initial base damage changed to 60 / 75 / 90 / 105 / 120.
+Return base damage changed to 75 / 112.
+5
+/ 150 / 187.
+5
+/ 225.
+Slow strength changed to 50 / 55 / 60 / 65 / 70%.
+Edit
+Assassin's Path
+COOLDOWN:
+2
+CAST TIME:
+none
+TARGET RANGE:
+725
+SPEED:
+100% movement speed
+On-Terrain Cooldown
+:
+160 / 135 / 110 / 85 / 60
+Active:
+Talon
+vaults
+over the target
+terrain
+.
+Talon
+cannot cast
+Assassin's Path
+on the same area for a set duration.
+Active:
+Talon
+dashes
+up to 800 units over the target area of
+terrain
+, during which he gains
+unobstructed vision
+.
+Talon
+cannot cast
+Assassin's Path
+on the same area of terrain for a set duration.
+Shadow Assault
+can be cast during the dash.
+Info
+Targeting input
+Direction
+Counters
+Grounded
+Disabled
+Knockdown
+Interrupted
+Assassin's Path
+can interact with
+player-generated terrain
+.
+Talon
+will stop dashing upon entering
+stasis
+but will continue to do so afterwards.
+Talon
+will reveal himself for 0.
+6
+seconds upon casting
+Assassin's Path
+if he is visible to an enemy champion or there is a nearby enemy champion or minion within 400 units of the landing position.
+Map-Specific Differences
+Nexus Blitz
+differences
+edit
+Cooldown changed to 80 / 67.
+5
+/ 55 / 42.
+5
+/ 30 seconds.
+Arena
+differences
+edit
+Cooldown per wall changed to 22 / 18 / 14 / 10 / 6 seconds.
+Edit
+Shadow Assault
+COST:
+100 Mana
+COOLDOWN
+:
+100 / 80 / 60
+CAST TIME:
+none
+EFFECT RADIUS:
+550
+WIDTH:
+280
+SPEED:
+2400
+/
+4000
+Active:
+Talon
+disperses a ring of blades around him that deals
+physical damage
+to enemies it passes through and lingers for a short time, during which he gains
+invisibility
+and
+bonus
+move speed
+.
+Talon
+can recast while invisible, and automatically does so if he breaks stealth.
+Recast:
+Talon
+breaks stealth and converges the blades to him, dealing
+physical damage
+to enemies hit. Breaking stealth with a basic attack or
+Noxian Diplomacy
+will converge the blades to the target instead.
+Active:
+Talon
+disperses a ring of blades around him that deals
+physical damage
+to enemies hit and lingers at maximum range for up to 2.
+5
+seconds, during which he gains
+invisibility
+and
+bonus
+movement speed
+.
+Physical Damage:
+90 / 135 / 180
+(+ 100%
+bonus
+AD)
+Bonus Movement Speed:
+40 / 55 / 70%
+Shadow Assault
+can be recast after 1 second within the duration, and does so automatically after the duration or if
+Talon
+breaks stealth
+.
+Recast:
+Talon
+breaks stealth and converges the blades to him, dealing the same
+physical damage
+to enemies hit. Breaking stealth with a basic attack or
+Noxian Diplomacy
+will converge the blades to the target instead.
+Total Physical Damage:
+180 / 270 / 360
+(+ 200%
+bonus
+AD)
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Shadow Assault
+casts a total of 12 blades evenly distributed in all directions. 4 of them travel down the cardinal directions (Relative to the map,
+not
+relative to
+Talon
+), while all blades have an angle of 30° to one another.
+Spell shield
+will block a single pass.
+Shadow Assault
+does not cancel
+Talon's
+basic attacks.
+Shadow Assault
+has a minimum lifetime of 0.
+8
+seconds before convergence.
+The blades each will fail to converge on their target (
+Talon
+or the attacked target) if the target is more than 20000 units from them.
+(bug)
+This distance is barely achievable between fountains on Summoner's Rift.
+Using a basic attack breaks the stealth at the end of the attack windup.
+Map-Specific Differences
+Arena
+differences
+edit
+Bonus movement speed changed to 60 / 80 / 100%.
+Cooldown changed to 80 / 70 / 60 seconds.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Talon (Collection)
+.
+Original
+View in 3D
+880
+24.08.2011
+Talon is the knife in the darkness, a merciless killer able to strike without warning and escape before any alarm is raised. He carved out a dangerous reputation on the brutal streets of Noxus, where he was forced to fight, kill, and steal to survive. Adopted by the notorious Du Couteau family, he now plies his deadly trade at the empire’s command, assassinating enemy leaders, captains, and heroes… as well as any Noxian foolish enough to earn the scorn of their masters.
+Travis Willingham
+Unknown artist
+Loot eligible
+Renegade
+View in 3D
+520
+24.08.2011
+Travis Willingham
+Unknown artist
+Legacy
+Loot eligible
+Crimson Elite
+View in 3D
+750
+24.08.2011
+The Crimson Elite cannot confirm or deny the existence of the agent known as Talon. The bloody trail left behind him serves as a sinister warning to all. Perhaps more disconcerting are the hundreds of undocumented cases that remain undiscovered.
+Travis Willingham
+Unknown artist
+Crimson Elite
+Loot eligible
+Dragonblade
+View in 3D
+975
+10.01.2012
+Legend says that Talon's blades were forged in the fire of a shadow dragon, and that he turned against his corrupt masters, cutting through them one by one before vanishing into the night. Many believe he will appear again whenever the strong take advantage of the weak.
+Travis Willingham
+Robin Ruan
+Lunar Revel: Warring Kingdoms
+Loot eligible
+Chromas
+Dragonblade Talon Chromas
+Amethyst
+Catseye
+Emerald
+Meteorite
+Obsidian
+Pearl
+Sapphire
+SSW
+View in 3D
+750
+13.05.2015
+Honoring PawN's winning performance as Talon during the 2014 World Championship.
+Travis Willingham
+Alvin Lee, Pan Chengwei
+World Champions: 2014
+Loot eligible
+Legacy
+Blood Moon
+View in 3D
+1350
+09.02.2017
+An anarchic demon summoned on the night of the Blood Moon, Talon was once a human assassin who surrendered his flesh during one of the cult's possession rituals. He now kills indiscriminately, relishing the terror in his victim's dying eyes.
+Travis Willingham
+Alex 'alexplank' Flores
+Blood Moon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Enduring Sword
+View in 3D
+1350
+04.09.2018
+A haughty dragon king of the south seas, Talon accepted a duel from the demigoddess Irelia, only to be defeated in his own throne room. Humiliated, he lashed out at her… and she sealed his power within her blade, tasking him with finding new purpose in the mortal realm.
+Travis Willingham
+Pan Chengwei
+Immortal Journey
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Enduring Sword Talon Chromas
+Amethyst
+Catseye
+Emerald
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Talon Blackwood
+View in 3D
+1350
+19.03.2020
+The sworn brother of Twitch Shadowfoot, dashing assassin extraordinaire Talon Blackwood is one half of an infamous underworld duo and the only advanced class in the entire party. He's also a brooding dark elf antihero with a tragic backstory, who is fated to one day save the world! Probably.
+Travis Willingham
+Francis Tneh, West Studio
+Rift Quest
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Talon Blackwood Chromas
+Aquamarine
+Catseye
+Obsidian
+Pearl
+Peridot
+Rose Quartz
+Ruby
+Turquoise
+Withered Rose
+View in 3D
+1350
+11.02.2021
+After the alliance his adopted sister Katarina formed at the last festival was broken, Talon swore revenge. He intends to restore their family's honor by exposing and shattering the entire concept of this celebration of glittering finery and sacred vows. Nothing and no one at this year's festival will escape his wrath.
+Travis Willingham
+West Studio
+Withered Rose
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Withered Rose Talon Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+High Noon
+View in 3D
+1350
+12.05.2022
+“Fate is catchin' up to you, old friend,” Talon says, leaning back in his chair, predator's eyes gleaming under the shadows of his hat. He still moves like a demon, even warped and corrupted by angel blood as he is. His smile, rueful and knowing, has too many teeth: “The end is comin' for us all.”
+Travis Willingham
+Ina Wong, West Studio
+High Noon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+High Noon Talon Chromas
+Catseye
+Emerald
+Nomad
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Prestige High Noon
+View in 3D
+Special
+12.05.2022
+Devilishly handsome and wearing the latest in Western chic, Talon is equally ready to rock the runway or ride the open road. Those boots are made for walking, and he'll walk all over anyone standing in his way.
+Travis Willingham
+Jennifer Wuestling
+High Noon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+High Noon
+. Store variants are discounted for multiple purchases.
+Primal Ambush
+View in 3D
+1350
+24.01.2024
+A ruthless assassin feared and respected by many, Talon roams the world with one goal: eliminate each and every other Favorclaw until only he remains. When he catches wind that a stubborn mercenary was contracted to take down the leader of the Favorclaw before he can complete his mission, he gleefully realizes that a new hunt is about to begin.
+Travis Willingham
+Jiunn Kuo, Kudos Productions
+Primal Ambush
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Primal Ambush Talon Chromas
+Citrine
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.21
+Rake
+Return base damage increased to 60 / 90 / 120 / 150 / 180 from 50 / 80 / 110 / 140 / 170.
+Return bonus AD ratio increased to
+90%
+bonus
+AD
+from
+80%
+.
+V14.17
+Noxian Diplomacy
+Bug Fix:
+Ranged dash now once again places the ability on cooldown immediately after it is cast.
+V14.15
+Noxian Diplomacy
+New Effect:
+Now always dashes to the target within 150 units regardless of cast distance.
+Undocumented:
+Ranged dash now places the ability on cooldown after the dash is completed, rather than immediately after casting.
+V14.12
+Noxian Diplomacy
+Stab cast time changed to attack windup from 0.
+25
+seconds.
+Rake
+Outgoing base damage increased to 50 / 60 / 70 / 80 / 90 from 40 / 50 / 60 / 70 / 80.
+Monster damage reduced to 100% from 105%.
+V14.2
+Withered Rose Talon
+Rake
+Bug Fix:
+VFX no longer extends past the spell's hitbox.
+V13.24
+Noxian Diplomacy
+New Effect:
+Dash cast now resets his basic attack timer as well.
+V13.6
+Stats
+Base mana increased to 400 from 377.
+Blade's End
+Base damage increased to
+80 − 280 (based on level)
+from
+75 − 255 (based on level)
+.
+Bonus AD ratio increased to
+210%
+bonus
+AD
+from
+200%
+.
+Rake
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 55 / 60 / 65 / 70 / 75.
+V12.22
+Stats
+Base mana reduced to 377 from 377.
+2
+.
+V12.10
+Stats
+Base health increased to 658 from 588.
+Health growth increased to 109 from 95.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Noxian Diplomacy
+Base heal reduced to
+9 − 55 (based on level)
+from
+10 − 70 (based on level)
+.
+V12.12
+General
+Adjusted splash artwork for
+Prestige High Noon Talon
+.
+Stats
+Base health increased to 658 from 588.
+Health growth increased to 109 from 95.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Noxian Diplomacy
+Base heal reduced to
+9 − 55 (based on level)
+from
+10 − 70 (based on level)
+.
+V12.3
+Shadow Assault
+Bug Fix:
+Blades no longer briefly disappear for a frame on cast of the VFX.
+V12.2
+Rake
+Damage against monsters reduced to 105% from 130%.
+V12.1
+Noxian Diplomacy
+Bug Fix:
+Fixed a bug where it could sometimes hit untargetable enemy champions.
+V11.24
+- December 15th Hotfix
+Noxian Diplomacy
+Bug Fix:
+Fixed a bug where its target would not refund its cooldown.
+Bug Fix:
+Fixed a bug where it would cancel his next basic attack.
+Rake
+Damage against monsters reduced to 130% from 150%.
+V11.24
+Blade's End
+Bug Fix:
+Abilities blocked by spell shields no longer improperly apply their mark VFX.
+Noxian Diplomacy
+Bug Fix:
+Now properly refunds its cooldown if the target becomes invalid during the cast time of the melee version.
+Bug Fix:
+Ranged version no longer restarts its cooldown upon completing the dash.
+Assassin's Path
+Bug Fix:
+Dash is no longer interrupted if the caster blocks a displacement with a spell shield.
+Shadow Assault
+Bug Fix:
+Blades no longer converge to the ranged version of
+Noxian Diplomacy's
+target if that ability is cast while
+rooted
+.
+V11.18
+Noxian Diplomacy
+Base damage reduced to 65 / 85 / 105 / 125 / 145 from 65 / 90 / 115 / 140 / 165.
+Rake
+Damage against monsters increased to 150% from 100%.
+V11.12
+Rake
+Outgoing base damage reduced to 40 / 50 / 60 / 70 / 80 from 45 / 60 / 75 / 90 / 105.
+Outgoing bonus AD ratio reduced to
+40%
+bonus
+AD
+from
+55%
+.
+Return base damage increased to 50 / 80 / 110 / 140 / 170 from 45 / 70 / 95 / 120 / 145.
+Return bonus AD ratio increased to
+80%
+bonus
+AD
+from
+70%
+.
+V11.10
+Noxian Diplomacy
+Bonus AD ratio reduced to
+100%
+bonus
+AD
+from
+110%
+.
+V11.4
+Rake
+Cooldown reduced to 9 / 8.
+5
+/ 8 / 7.
+5
+/ 7 seconds from 9 seconds at all ranks.
+Outgoing bonus AD ratio increased to
+55%
+bonus
+AD
+from
+40%
+.
+Shadow Assault
+Bug Fix:
+No longer causes the caster to become visible while stealthed if they reset
+Duskblade of Draktharr's
+Nightstalker during the invisibility.
+V11.1
+Noxian Diplomacy
+Bug Fix:
+Now properly grants a mana charge when equipped with
+Tear of the Goddess
+.
+V10.25
+Rake
+Return base damage increased to 45 / 70 / 95 / 120 / 145 from 45 / 65 / 85 / 105 / 125.
+V10.11
+Noxian Diplomacy
+Mana cost increased to 40 from 30.
+Heal reduced to
+10 − 70 (based on level)
+from
+20 − 71 (based on level)
+.
+V10.7
+Rake
+Base damage reduced to 45 / 60 / 75 / 90 / 105 from 50 / 65 / 80 / 95 / 110.
+Return base damage reduced to 45 / 65 / 85 / 105 / 125 from 70 / 85 / 100 / 115 / 130.
+Return AD ratio increased
+70%
+bonus
+AD
+from
+60%
+.
+V10.6
+General
+Recommended items updated.
+V10.4
+Blade's End
+New Effect:
+Bleed now deals 120% damage against monsters.
+New Effect:
+Now triggers against all monsters.
+V8.14
+Rake
+Return base damage reduced 70 / 85 / 100 / 115 / 130 from 70 / 95 / 120 / 145 / 170.
+V8.10
+Assassin's Path
+Bug Fix:
+Will now be less likely to vault him in the opposite direction than was intended.
+V8.9
+Noxian Diplomacy
+Bug Fix:
+Range increased to 575 from 500.
+V8.6
+Blade's End
+Base damage increased to
+75 − 245 (based on level)
+from
+75 − 175 (based on level)
+.
+Shadow Assault
+Bonus AD ratio increased to
+100%
+bonus
+AD
+from
+80%
+.
+V8.4
+Stats
+Base magic resistance increased to 39 from 32.
+1
+.
+Base armor reduced to 30 from 32.
+V8.3
+Stats
+Base health regeneration reduced to 8.
+5
+from 8.
+51
+.
+V8.2
+Noxian Diplomacy
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V7.22
+Stats
+Base attack damage increased to 68 from 60.
+Base armor increased to 32 from 26.
+88
+.
+Base health increased to 588 from 583.
+Health growth increased to 95 from 90.
+Blade's End
+Base damage increased to
+75 − 175 (based on level)
+from
+60 − 160 (based on level)
+.
+Noxian Diplomacy
+Base damage increased to 65 / 90 / 115 / 140 / 165 from 60 / 85 / 110 / 135 / 160.
+Rake
+Base damage increased to 70 / 95 / 120 / 145 / 170 from 60 / 85 / 110 / 135 / 160.
+V7.18
+Blood Moon Talon
+Blade's End
+Bug Fix:
+VFX are now more visible on elevated terrain.
+V7.14
+Noxian Diplomacy
+Changed several interactions where it overwrotes any spell queuing commands, instead forcing the caster to immediately begin basic-attacking once the ability completed.
+V7.7
+Noxian Diplomacy
+Base damage reduced to 60 / 85 / 110 / 135 / 160 from 80 / 110 / 120 / 140 / 160.
+V7.3
+SSW Talon
+Rake
+Bug Fix:
+Blades no longer look like
+Talon's
+normal blades on the return trip for everyone else but him.
+V7.1
+Stats
+Mana regeneration growth increased to 0.
+75
+from 0.
+5
+.
+Blade's End
+Slightly bumped up brightness of passive particles.
+Noxian Diplomacy
+Heal increased to
+20 − 71 (based on level)
+from
+17 − 51 (based on level)
+.
+V6.22
+General
+New ability icons.
+Attack frame improved.
+Stats
+Base movement speed reduced to 335 from 350.
+Health growth increased to 90 from 85.
+Base attack damage increased to 60 from 55.
+Base attack speed reduced to 0.
+625
+from 0.
+668
+.
+Attack speed growth increased to 2.
+9
+% from 2.
+7
+%.
+Blade's End
+(new innate)
+New Innate:
+Talon's
+abilities
+Wound
+enemy champions and epic monsters damaged for a 6 seconds, stacking up to 3 times. When
+Talon
+attacks a fully stacked enemy, they bleed for
+60 − 160 (based on level)
+(+ 200%
+bonus
+AD)
+physical damage over the next 2 seconds.
+Rake and Shadow Assault will not apply multiple stacks for multiple blades, but will apply up to two stacks for the outward and inward effects.
+Noxian Diplomacy
+Revised Active:
+Talon
+strikes his target, dealing them 80 / 100 / 120 / 140 / 160
+(+ 100%
+bonus
+AD)
+physical damage. If cast from melee range,
+Talon
+will
+critically strike
+them instead for
+「 120 / 150 / 180 / 210 / 240
+(+ 150%
+bonus
+AD)
+physical 」
+「 150% 」
+damage. Whenever
+Noxian Diplomacy
+kills a unit,
+Talon
+restores
+17 − 51 (based on level)
+health and refunds 50% of its cooldown.
+Cooldown increased to 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6 seconds from 8 / 7 / 6 / 5 / 4.
+Mana cost reduced to 30 at all ranks from 40 / 45 / 50 / 55 / 60.
+Range:
+550
+/
+170
+..
+Rake
+Cooldown reduced to 9 seconds at all ranks from 10.
+Mana cost reduced to 55 / 60 / 65 / 70 / 75 from 60 / 65 / 70 / 75 / 80.
+Slow increased to 40 / 45 / 50 / 55 / 60% from 20 / 25 / 30 / 35 / 40%.
+Slow duration reduced to 1 second from 2.
+New Effect:
+Slow now only applies when the blades return.
+New Effect:
+Now has a 0.
+7
+seconds delay before returning to
+Talon
+.
+Range increased to 900 from 750.
+Arc reduced to 22° from 40°.
+Outgoing damage changed to 50 / 65 / 80 / 95 / 110
+(+ 40%
+bonus
+AD)
+from 30 / 55 / 80 / 105 / 130
+(+ 60%
+bonus
+AD)
+.
+Return damage increased to 60 / 85 / 110 / 135 / 160
+(+ 60%
+bonus
+AD)
+from 30 / 55 / 80 / 105 / 130
+(+ 60%
+bonus
+AD)
+.
+Total damage changed to 110 / 150 / 190 / 230 / 270
+(+ 100%
+bonus
+AD)
+from 60 / 110 / 160 / 210 / 260
+(+ 120%
+bonus
+AD)
+.
+Assassin's Path
+(new E)
+Active:
+Talon
+dashes over the target structure or piece of terrain, with the dash's speed based on his own movement speed.
+Talon
+cannot cast
+Assassin's Path
+on the same piece of terrain for a set duration.
+Can vault over player-made terrain as well.
+Cooldown:
+2 seconds
+Per-Target Cooldown:
+160 / 135 / 110 / 85 / 60 seconds (can be reduced by cooldown reduction)
+A red ring will highlight used terrain to Talon
+.
+Shadow Assault
+Base damage per hit reduced to 80 / 120 / 160  from 120 / 170 / 220.
+AD ratio increased to
+80%
+bonus
+AD
+from
+75%
+bonus
+AD
+.
+New Effect:
+Blades now have a minimum lifetime of 0.
+8
+seconds before returning to
+Talon
+.
+New Effect:
+If
+Talon
+breaks stealth with a basic attack or
+Noxian Diplomacy
+, the blades will converge on his target's location instead of his own.
+New Effect:
+Now has way more blades.
+Stealth reclassified as
+Invisibility
+.
+Trivia
+[
+edit
+|
+edit source
+]
+Talon, the Blade's Shadow
+Mercy
+references
+Euthanasia
+.
+Noxian Diplomacy's
+bleed icon
+is shaped into Talon's arm blade.
+Cutthroat
+makes use of a
+double entendre
+:
+The word '
+cutthroat
+' is defined as murderous or cruel, which describes Talon well.
+The ability has Talon literally cut the throat of his target. This is made more clear in the first iteration of the ability, which also
+silenced
+the target.
+Talon, the Blade's Shadow
+Talon
+is one of 21 champions without a single
+ability power
+ratio on any ability:
+Aatrox
+,
+Camille
+,
+Darius
+,
+Dr. Mundo
+,
+Draven
+,
+Garen
+,
+K'Sante
+,
+Kayn
+,
+Kled
+,
+Naafiri
+,
+Nilah
+,
+Olaf
+,
+Pyke
+,
+Riven
+,
+Samira
+,
+Sett
+,
+Urgot
+,
+Xayah
+,
+Yone
+, and
+Zed
+.
+His official name
+Talon
+originates from Latin
+talus
+"
+ankle
+"; which possibly later underwent
+semantic shift
+to "
+heel
+>
+spur
+>
+claw
+".
+His title might be referencing his loyalty to General Du Couteau (the General being the 'Blade' -
+couteau
+is French for 'knife' - and Talon being the 'Shadow').
+Talon's
+dance references
+Billie Jean
+by
+Michael Jackson
+.
+A side-by-side comparison can be seen
+here.
+Some scrapped spells tested on
+Talon
+include:
+[2]
+[3]
+[4]
+A spell where Talon throws out knives to create a slow field, but if he left its proximity it would break the field.
+A spell where Talon could throw out a knife that could be reactivated and allow him to blink to its location.
+Shadow Assault
+was originally tested as a basic spell.
+Talon was named after his bird like appearance and his large hand blade. His spells carry a metaphor by utilizing the concept of his cloak blades as a string of “feathers”.
+[5]
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Assassin
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Assassins
+specialize in infiltrating enemy lines with their unrivaled mobility to quickly dispatch high-priority targets. Due to their mostly melee nature, Assassins must put themselves into dangerous positions in order to execute their targets. Luckily, they often have defensive tricks up their sleeves that, if used cleverly, allow them to effectively avoid incoming damage.
+Examples
+Akali
+Evelynn
+Zed
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Default damage
+Default damage
+is dealt by effects that are not otherwise classified, or are deliberately left unclassified. This most common source of
+default damage
+is splash damage from basic attacks.
+Default damage
+does not interact with most other effects, such as
+Conqueror
+stacking,
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of the damage's non-reactive nature (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Rake
+COOLDOWN:
+9 / 8.
+5
+/ 8 / 7.
+5
+/ 7
+Active:
+Talon
+throws a fan of daggers in the target direction that deals
+physical damage
+to enemies hit.
+After a brief delay, the daggers home back to him, dealing
+physical damage
+and briefly
+slowing
+enemies hit.
+League of Legends content
+Shadow Assault
+COOLDOWN:
+100 / 80 / 60
+Active:
+Talon
+disperses a ring of blades around him that deals
+physical damage
+to enemies it passes through and lingers for a short time, during which he gains
+invisibility
+and
+bonus
+move speed
+.
+Talon
+can recast while invisible, and automatically does so if he breaks stealth.
+Recast:
+Talon
+breaks stealth and converges the blades to him, dealing
+physical damage
+to enemies hit. Breaking stealth with a basic attack or
+Noxian Diplomacy
+will converge the blades to the target instead.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Ground
+A unit that is
+grounded
+is unable to activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Grounded
+units can still be displaced.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Ground
+is the only type of
+crowd control
+that is most commonly found in persistent area of effects, which will reapply the status effect continuously.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Root
+A unit that is
+rooted
+is unable to control its movement or activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Rooted
+units can still be displaced.
+Root
+is an
+immobilizing
+effect
+.
+Moving
+includes movement commands.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Unobstructed vision
+A unit with
+unobstructed sight
+can see the full circle of their
+vision
+radius, ignoring all obstructions and being able to see into terrain. This effect does not allow the user to see into
+brush
+, although they will be able to see beyond the brush if within range.
+Having
+unobstructed sight
+will benefit all forms of vision, including
+true sight
+and
+camouflage
+detection - i.e. you will be able to reveal stealthed units over walls where usually terrain would block true sight.
+Nearsight
+prevents this vision entirely; the user's sight radius will not infiltrate beyond terrain.
+League of Legends content
+Stasis
+A unit that is in
+stasis
+is unable to control its movement, declare attacks, cast abilities, activate items or use
+any
+summoner spell
+for the duration, while also being
+invulnerable
+and
+untargetable
+.
+Stasis
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), all
+channeled and charged
+abilities and all
+dashes
+and
+displacements
+. Units that are being
+knocked up
+will be placed on the ground, but aren't
+knocked down
+(the
+airborne
+status is not removed in this case).
+Reduction:
+The
+duration
+is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Epic monsters
+and
+turrets
+are special cased to be affected by
+stasis
+despite them being
+crowd control immune
+.
+Removal:
+Cannot be removed by any means (except through
+death
+), and will prevent the activation of abilities that would usually remove
+crowd control
+effects.
+Quicksilver
+will either be placed on a short cooldown, remain usable, or become disabled.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+References
+[
+edit
+|
+edit source
+]
+↑
+Talon's profile page
+at
+LeagueOfLegends.com
+↑
+Ziegler on Scrapped Talon Spell
+↑
+Ziegler on Scrapped Talon Spell 2
+↑
+Ziegler on Scrapped Talon Spell 3
+↑
+Ziegler on Bird Talon

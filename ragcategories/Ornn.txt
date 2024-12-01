@@ -1,0 +1,3621 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Ornn
+The Fire below the Mountain
+Release date
+2017-08-23
+Last changed
+V14.15
+Class(es)
+Vanguard
+Legacy
+Tank
+Fighter
+Position(s)
+Top
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+1
+Toughness
+3
+Control
+3
+Mobility
+1
+Utility
+2
+Style
+Difficulty
+Ornn
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Ornn
+Base statistics
+Edit
+Health
+660
++109
+Mana
+341
++65
+Health regen. (per 5s)
+9
++0.9
+Mana regen. (per 5s)
+8
++0.6
+Armor
+33
++5.2
+Attack damage
+69
++3.5
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+175
+Attack speed
+Base AS
+0.625
+Attack windup
+21.875%
+AS ratio
+N/A
+Bonus AS
++2
+%
+Unit radius
+Gameplay radius
+80
+Selection radius
+125
+Pathing radius
+26
+Acq. radius
+600
+Special statistics
+Damage Dealt
+-10%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++5%
+Damage Received
+-5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Living Forge
+Forge Disable Time
+:
+4
+Innate - Living Forge:
+Ornn
+can
+purchase
+items from anywhere by
+channeling
+for a few seconds.
+Innate - Master Craftsman:
+At levels 13 and above,
+Ornn
+, he can upgrade a nearby ally's item into a Masterwork item.
+Ornn
+increases his
+bonus
+health
+,
+armor
+and
+magic resist
+from all sources, further increased each time he makes a Masterwork item.
+Innate - Temper:
+Ornn's
+basic attacks against
+Brittle
+targets
+knock them back
+.
+Immobilizing
+effects against Brittle targets will consume the debuff to deal
+bonus
+magic damage
+based on the
+target's
+maximum health
+.
+Innate - Living Forge:
+Ornn
+can purchase non-
+consumable
+items
+from anywhere on the field by forging them himself, and is also presented a
+Forge Menu
+to quickly forge his recommended items. Once
+Ornn
+selects an item to forge, he
+channels
+for 4 seconds, building the item and paying its
+gold
+cost upon completion. The channel is
+interrupted
+if
+Ornn
+takes damage from enemy
+champions
+or
+turrets
+.
+Living Forge
+is disabled for 4 seconds after starting the channel.
+Innate - Master Craftsman:
+Ornn
+uses his craftsmanship in forgery to upgrade most
+Legendary items
+that he and his teammates own into
+Masterwork
+items, increasing the
+gold value
+of all
+upgradeable stats
+by exactly
+1000
+, shared equally among them. When
+Ornn
+reaches
+level
+13, the first eligible
+Legendary item
+in his inventory is upgraded automatically. For each level after 13 and before 18 (levels 14–17, total of 4, once per ally per game),
+Ornn
+can upgrade the first eligible
+Legendary item
+in an allied champion's inventory into its
+Masterwork
+variant. He can do so by selecting the ally while within 600 range, and forges the item by performing
+Living Forge's
+channel
+.
+Additionally,
+Ornn
+increases his
+bonus
+armor
+,
+bonus
+magic resistance
+and
+bonus
+health
+by 10% from all sources, further increased by 4% each time he upgrades a
+Legendary
+item into a
+Masterwork
+item, for a total increase of 30% to each stat after the maximum of 5 upgrades.
+Innate - Temper:
+Ornn's
+basic attacks
+against
+Brittle
+enemies
+knock them back
+a short distance.
+Ornn's
+and allies'
+immobilizing
+effects against
+Brittle
+enemies will consume the debuff to deal
+bonus
+magic damage
+equal to
+10% − 18% (based on
+Ornn's
+level)
+of the target's
+maximum
+health
+, capped at 250 against
+monsters
+, and cause the crowd control to last 30% longer (if applicable).
+Ornn
+will prioritize upgrading the first Legendary item eligible for a
+Masterwork
+upgrade based on its position in the inventory, detecting each slot until an eligible item is found.
+"The weapons I forge do not have names. They have ambitions."
+Masterwork item alert.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Parries
+Blocked
+Disruption
+Interrupted
+Masterwork
+items inherit all properties of their pre-upgrade version, including the cooldowns of their
+effects
+. Internally, they are handled through an item modifier. An upgraded item gains the
+(
+Masterwork
+)
+descriptor next to its name in tooltips as well as a special Masterwork frame overlay on the item's icon itself, both indicating the application of
+Living Forge's
+modifier.
+Statistics' gold value for
+Masterwork
+item purposes is shown in the following table. The table also indicates all upgradeable stats.
+31.
+25
+per 1 point of
+ability haste
+.
+20
+per 1 point of
+ability power
+.
+35
+per 1 point of
+attack damage
+.
+30
+per 1% of
+attack speed
+.
+20
+per 1 point of
+armor
+.
+18
+per 1 point of
+magic resistance
+.
+1 point of
+health
+has a variable
+gold value
+, based on the number of upgradeable stats that exist on the item:
+If health is the item's only upgradeable stat, it receives +375 health and health is valued at
+2.
+6
+per point.
+If the item has health and only one other upgradeable stat, it receives +185 health and health is valued at
+2.
+702
+per point.
+If the item has health and two other upgradeable stats, it receives +125 health and health is valued at
+2.
+6
+per point.
+If the item has health and three other upgradeable stats, it receives +90 health and health is valued at
+2.
+7
+per point.
+While not currently possible, if an item has no upgradeable stats,
+1000
+worth of health (valued at
+2.
+6
+per point) is added to the item.
+[2]
+Decimal values are not displayed for stats in
+Masterwork
+items' tooltips, but they are still granted as normal.
+Health and mana items built on the field will retain
+Ornn's
+previous
+health
+and
+mana
+percentage. Returning to base still brings health and mana back to full.
+Ornn's
+basic attacks against
+Brittle
+enemies will end the duration of the debuff
+on-hit
+prematurely even if the
+knock back
+is not applied.
+His basic attacks against
+Brittle
+epic
+monsters
+will still render the debuff without the
+knock back
+being applied against them.
+Brittle's
+Tenacity
+reduction will benefit all applicable types of
+crowd control
+, not just
+immobilizes
+. The following do not consume
+Brittle
+but benefit from the reduction:
+blinds
+,
+cripples
+,
+disarms
+,
+grounding
+,
+silences
+, and
+slows
+.
+Spell shield
+will block both the knock back and the bonus damage from
+Ornn's
+empowered
+brittle
+attack.
+The
+bonus
+magic damage
+inflicted by
+Brittle
+is credited to
+Ornn
+, and benefits from his
+magic penetration
+.
+The following table refers for interactions while
+Ornn
+is
+channeling
+:
+All of
+Ornn's
+actions are disabled during the first 0.
+5
+seconds of the channel.
+Type
+Channel
+Attacking
+Interrupts
+Abilities
+Interrupts
+Movement
+Interrupts
+Items
+Usable
+N/A
+Disabled
+Hextech Rocketbelt
+Interrupted by
+All item-actives not specified above interrupt
+Consumables
+Interrupts
+Spells
+Usable
+N/A
+Disabled
+N/A
+Interrupted by
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Teleport
+Recall
+Hexflash
+Mark
+Dash
+Interrupted by
+Damaging effects
+Death
+Cast-inhibiting effects
+Tips & Tricks
+Although
+airborne
+effects won't be extended by
+Brittle
+, if the spell simultaneously
+stuns
+the target, this stun will be extended and persist past the airborne duration, for an overall increased crowd control duration.
+Ornn's
+Searing Charge
+and
+Call of the Forge God
+each apply both airborne and stun simultaneously for the same duration for this reason.
+Map-Specific Differences
+Howling Abyss
+differences
+edit
+New Effect:
+Forging an item puts
+Living Forge
+on a 120-second cooldown.
+Arena
+differences
+edit
+Bonus health and resistances changed to 15%.
+New Effect:
+Instead of upgrading items, now grants a permanent discount on Anvils for the team:
+-100
+for
+Stat Bonus Anvil
+,
+-200
+for
+Legendary Class-specific Item Anvils, and
+-250
+for
+Prismatic Item Anvil
+.
+Edit
+Volcanic Rupture
+COST:
+45 Mana
+COOLDOWN:
+9 / 8.
+5
+/ 8 / 7.
+5
+/ 7
+CAST TIME:
+0.
+25
+TARGET RANGE:
+750
+WIDTH:
+130
+SPEED:
+1800
+Active:
+Ornn
+sends a fissure in the target direction that deals
+physical damage
+and
+slows
+enemies hit for a short time. The fissure stops upon hitting an enemy
+champion
+or max range, erupting a pillar of
+terrain
+that
+knocks aside
+enemies and lingers for a few seconds.
+Active:
+Ornn
+sends a fissure in the target direction that deals
+physical damage
+to enemies hit and
+slows
+them by 40% for 2 seconds.
+Physical Damage:
+20 / 45 / 70 / 95 / 120
+(+ 110% AD)
+The fissure stops at maximum range or 200 units behind the first enemy champion struck. After a 1.
+125
+-second delay, a magma pillar then erupts to
+knock aside
+enemies, though not through terrain, and linger as impassible terrain for 4 seconds.
+The pillar will not expire while
+Ornn
+is
+charging
+.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+The fissure will move an 200 units beyond the first champion it hits, not exceeding the maximum range of the ability.
+It can still damage additional targets.
+If launched in a wall, pillar will try to appear on the other side of the wall, if it cannot the pillar will be destroyed.
+Spell shield
+will not prevent the
+knock aside
+from the magma pillar forming.
+This ability will cast from wherever the caster is at the start of the cast time.
+Edit
+Bellows Breath
+COST:
+45 / 50 / 55 / 60 / 65 Mana
+COOLDOWN:
+12 / 11.
+5
+/ 11 / 10.
+5
+/ 10
+CAST TIME:
+none
+TARGET RANGE:
+500
+RANGE:
+0.
+75
+seconds ×
+35% movement speed
+EFFECT RADIUS:
+175
+Active:
+Ornn
+marches in the target direction with
+displacement immunity
+, belching fire in a cone that continually deals
+magic damage
+for a brief time. The final gout of flame will apply
+Brittle
+for a short time.
+displacement immunity
+:
+The march cannot be deterred by
+crowd control
+.
+Brittle
+:
+The target loses
+tenacity
+, increasing the duration of incoming
+crowd control
+.
+Active:
+Ornn
+marches
+forward in the target direction over 0.
+75
+seconds, gaining
+displacement immunity
+and becoming
+unable to act
+for the duration.
+Over the march he belches fire over a cone in front of him, dealing
+magic damage
+every 0.
+15
+seconds to enemies hit. The final gout of flame will apply
+Brittle
+for 3 seconds.
+Total Magic Damage:
+12 / 13 / 14 / 15 / 16% of target's
+maximum
+health
+Magic Damage Per Tick:
+2.
+4
+/ 2.
+6
+/ 2.
+8
+/ 3 / 3.
+2
+% of target's
+maximum
+health
+Bellows Breath
+has a minimum damage threshold, which is also the damage dealt to
+minions
+.
+Monsters
+take modified damage as well.
+Total Minimum/Minion Damage:
+80 / 130 / 180 / 230 / 280
+Minimum/Minion Damage Per Tick:
+16 / 26 / 36 / 46 / 56
+Total Monster Damage:
+155 / 180 / 205 / 230 / 255
+Monster Damage Per Tick:
+31 / 36 / 41 / 46 / 51
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+Not Blocked
+Grounded
+Not Disabled
+Ornn's
+lunge distance is based on the distance he would travel in the target direction by standard movement over a time period of 0.
+75
+seconds with
+35% of his
+total
+movement speed
+.
+His
+movement speed
+during the lunge does not actually change in this case and is only used as a scaling.
+The scaling is based on the
+total
+movement speed
+Ornn
+had at the time of casting
+Bellows Breath
+.
+If his
+total
+movement speed
+was less than or equal to an estimated value of 190, then
+Ornn
+will not lunge at all.
+Spell shield
+will negate the final instance of damage and prevents
+Brittle
+from being applied.
+Ornn
+can see the on-target VFX on targets that are being struck even while they are in the
+fog of war
+.
+Ornn
+will place himself onto the ground and interrupt
+displacements
+affecting him upon casting
+Bellow's Breath
+.
+The following table refers for interactions while
+Ornn
+is performing
+Bellows Breath
+:
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 10 seconds.
+Edit
+Searing Charge
+COST:
+35 / 40 / 45 / 50 / 55 Mana
+COOLDOWN:
+14 / 13.
+5
+/ 13 / 12.
+5
+/ 12
+CAST TIME:
+0.
+35
+TARGET RANGE:
+800 /
+650
+EFFECT RADIUS:
+360 /
+150
+SPEED:
+1600
+Active:
+Ornn
+charges in the target direction, dealing
+physical damage
+to enemies he passes through.
+Ornn
+will stop upon hitting terrain, creating a shockwave that deals
+physical damage
+to enemies,
+knocks them up
+and briefly
+stuns
+them. This will also destruct his
+Volcanic Rupture
+and enemy-created
+terrain
+.
+Active:
+Ornn
+charges
+in the target direction, dealing
+physical damage
+to enemies he passes through and stopping upon colliding with terrain.
+Physical Damage:
+80 / 125 / 170 / 215 / 260
+(+ 40%
+bonus
+armor)
+(+ 40%
+bonus
+magic resistance)
+If
+Ornn
+collides with terrain during the charge, he creates a shockwave that
+knocks up
+and
+stuns
+nearby enemies for 1.
+25
+seconds and deals the same damage if they were not already hit by the charge.
+The shockwave destroys the pillar formed by
+Volcanic Rupture
+and partially destroys
+terrain
+created by enemy
+champions
+.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Spell shields
+may only block one instance of damage.
+The area in which enemies will be knocked up is indicated at
+Ornn'
+s impact location.
+The indicator is not shown for
+player-generated terrain
+.
+Brittle
+enemies without
+Tenacity
+of their own will be
+stunned
+for a total of 1.
+625
+seconds.
+Searing Charge
+can interact with
+player-generated terrain
+.
+Ornn
+will not
+dash
+after the cast time if he is
+airborne
+or
+resurrecting
+.
+Displacement immunity
+will also resist the application of the
+stun
+.
+The following table refers for interactions while
+Ornn
+is in cast time:
+The lockout persists for the dash and for 0.
+5
+seconds after the dash ends.
+Type
+Cast time
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Map-Specific Differences
+Arena
+differences
+edit
+Bonus armor ratio changed to
+50%
+bonus
+armor
+.
+Bonus magic resistance ratio changed to
+50%
+bonus
+magic resistance
+.
+Edit
+Call of the Forge God
+COST:
+100 Mana
+COOLDOWN
+:
+140 / 120 / 100
+CAST TIME:
+0.
+5
+TARGET RANGE:
+300
+EFFECT RADIUS:
+3000
+/
+2550
+WIDTH:
+340
+SPEED:
+1200
+/
+100
+Active:
+Ornn
+summons a lava elemental that stampedes toward him, dealing
+magic damage
+and
+slowing
+enemies hit for a short time.
+Call of the Forge God
+can be recast while the elemental is active.
+Recast:
+Ornn
+dashes
+in the target direction. If he hits the elemental, he sends it stampeding in the new direction, dealing
+magic damage
+to enemies hit,
+knocking them up
+and
+stunning
+them for a brief time. Each pass applies
+Brittle
+to enemies hit for a short time.
+Brittle
+:
+The target loses
+tenacity
+, increasing the duration of incoming
+crowd control
+.
+Active:
+Ornn
+sounds his horn, summoning a lava elemental at maximum range from the target direction that stampedes towards his casting position at increasing speed. The elemental deals
+magic damage
+to enemies it passes through and
+slows
+them for 2 seconds.
+Magic Damage:
+125 / 175 / 225
+(+ 20% AP)
+Slow:
+40 / 50 / 60%
+Call of the Forge God
+can be recast after
+1.
+25
+seconds while the elemental is active.
+Recast:
+Ornn
+dashes
+in the target direction, though not through terrain. If he collides with the elemental, he sends it stampeding in the same direction. The elemental deals the same damage to enemies it passes through and
+knocks them up
+and
+stuns
+them for 1 second, reduced to 0.
+5
+seconds after the first enemy
+champion
+hit.
+Total Magic Damage:
+250 / 350 / 450
+(+ 40% AP)
+Each pass applies
+Brittle
+to targets for 3 seconds and can affect enemies only once. The elemental briefly grants
+sight
+around its trajectory as it travels.
+Activation alert.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Grounded
+See Notes
+Knockdown
+Interrupted
+Both casts count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Despite this, the effects of both casts count as the same
+cast instance
+.
+Call of the Forge God
+cannot be recast while
+grounded
+or
+rooted
+.
+Brittle
+enemies without
+Tenacity
+of their own will be
+stunned
+for a total of 1.
+3
+seconds.
+Spell shields
+may only block one pass.
+Ornn
+becomes locked out of all actions during the recast's dash and for 0.
+5
+seconds afterwards.
+This ability will cast from wherever the caster is at the start of the cast time.
+Displacement immunity
+will also resist the application of the
+stun
+.
+Type
+Cast time
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Disabled
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 80 / 60 / 40 seconds.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Ornn (Collection)
+.
+Original
+View in 3D
+975
+22.08.2017
+Ornn is the Freljordian spirit of forging and craftsmanship. He works in the solitude of a massive smithy, hammered out from the lava caverns beneath the volcano Hearth-Home. There he stokes bubbling cauldrons of molten rock to purify ores and fashion items of unsurpassed quality. When other deities—especially Volibear—walk the earth and meddle in mortal affairs, Ornn arises to put these impetuous beings back in their place, either with his trusty hammer or the fiery power of the mountains themselves.
+Matthew Waterson
+Joshua 'HUGEnFAST' Brian Smith
+Loot eligible
+Thunder Lord
+View in 3D
+1350
+22.08.2017
+In an age before man, King Ornn ruled the craggy southlands, and he was as rocky and lifeless as they were. It is said that he weathered an endless siege from his brother, the great King Voli, and that the blood they spilled sprouted grass and trees and animals, even as they became like beasts themselves.
+Matthew Waterson
+Mike Azevedo
+Thunder Lord
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Elderwood
+View in 3D
+1350
+10.12.2020
+A truly ancient shaper of the Elderwood, and keeper of divine knowledge. Beings who tended the trees and directed the rivers are rare in this time of fell magic and endless twilight, yet Ornn continues on, stubbornly clinging to what remains of the old way.
+Matthew Waterson
+Malex Zhang, Kudos Productions
+Elderwood
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Elderwood Ornn Chromas
+Citrine
+Emberwood
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Space Groove
+View in 3D
+1350
+17.11.2022
+The drop before the bass, the creator of the primordial instruments, a literal God of Groove, Ornn has been instrumental in spreading The Groove through the Galaxy. But he's not a fan of the celebrity status it's earned him, hermiting himself away on a planet of whirling pools of goo to focus on his work. If Ornn is coming to party, it better be legendary.
+Matthew Waterson
+Jeremy 'Jermu' Anninos
+Space Groove
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Space Groove Ornn Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Choo-Choo
+View in 3D
+1350
+03.04.2024
+With a toot of his whistle, Ornn calls forth a mighty iron beast, roaring with his forge's fury. As his hammer pounds out a rhythm like pistons on the track, a soot-soaked grin unfurls beneath his smoldering beard. One imagines he must feel the thrill of creation, the joy of a perfect machine made manifest!
+Matthew Waterson
+Pandart Studio
+Toy Box
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Choo-Choo Ornn Chromas
+Amethyst
+Aquamarine
+Catseye
+Citrine
+Pearl
+Peridot
+Rose Quartz
+Ruby
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.15
+General
+Bug Fix:
+Restored multiple triggers for his abilities VO.
+V14.12
+Living Forge
+New Easter Egg:
+Upon applying a Masterwork upgrade to a
+Rabadon's Deathcap
+owned by
+Ornn
+or
+Aurora
+, the item will transform into a
+Witch's Hat
+. The Masterwork item has the intended Masterwork stat bonus but also has a new icon and includes a caption that reads:
+"'Friend.' Yes, it is a funny word. Yet perhaps I understand its purpose."
+V14.11
+Master Craftsman
+Removed:
+Masterwork item upgrades no longer only exist for a select number of Legendary items.
+Removed Masterwork items:
+Ataraxia
+,
+Certainty
+,
+Cry of the Shrieking City
+,
+Daybreak
+,
+Dreamshatter
+,
+Edge of Finality
+,
+Enmity of the Masses
+,
+Force of Arms
+,
+Frozen Fist
+,
+Heavensfall
+,
+Hope Adrift
+,
+Icathia's Curse
+,
+Infinite Convergence
+,
+Infinity Force
+,
+Leviathan
+,
+Liandry's Lament
+,
+Obsidian Cleaver
+,
+Rabadon's Deathcrown
+,
+Reliquary of the Golden Dawn
+,
+Seething Sorrow
+,
+Shojin's Resolve
+,
+Shurelya's Requiem
+,
+Starcaster
+,
+Swordnado
+,
+Syzygy
+,
+T.U.R.B.O.
+,
+The Baron's Gift
+,
+The Unspoken Parasite
+,
+Upgraded Aeropack
+,
+Wyrmfallen Sacrifice
+, and
+Youmuu's Wake
+.
+Removed:
+Masterwork items no longer have unique names.
+New Effect:
+All Legendary items can now be upgraded into Masterwork items.
+This excludes
+Mejai's Soulstealer
+and Legendary items that can be upgraded such as all
+Support
+items,
+Vigilant Wardstone
+, and all
+Tear of the Goddess
+upgrades (
+Archangel's Staff
+,
+Manamune
+,
+Winter's Approach
+).
+Upon an item being upgraded into its Masterwork variant, it gains the
+(
+Masterwork
+)
+descriptor and has certain innate stats increased based on a table of values.
+Statistics' gold value is represented by the following table, which also lists the ones which can be upgraded. This table also formally represents Riot's official stance on each statistic's gold efficiency, although not all stat types are included for the purposes of Masterwork items.
+31.
+25
+/1
+ability haste
+(explicit)
+20
+/1
+ability power
+(
+Amplifying Tome
+400
+÷ 20
+ability power
+)
+35
+/1
+attack damage
+(
+Long Sword
+350
+÷ 10
+attack damage
+)
+30
+/1%
+attack speed
+(
+Dagger
+300
+÷ 10%
+attack speed
+)
+20
+/1
+armor
+(
+Cloth Armor
+300
+÷ 15
+armor
+)
+18
+/1
+magic resistance
+(
+Null-Magic Mantle
+450
+÷ 25
+magic resistance
+)
+Variable gold
+/1
+health
+, based on how many upgradeable stats exist on the item:
+If the item has health only, health on that item is valued at
+2.
+6
+per point (
+Ruby Crystal
+400
+÷ 150
+health
+).
+If the item has health and only one other upgradeable stat, health on that item is valued at
+2.
+702
+per point.
+If the item has health and two other upgradeable stats, health on that item is valued at
+2.
+6
+per point (
+Ruby Crystal
+400
+÷ 150
+health
+).
+If the item has health and three other (or more) upgradeable stats, health on that item is valued at
+2.
+7
+per point.
+While not currently possible, if an item has no upgradeable stats,
+1000
+worth of health will be added to the item.
+[3]
+The total gold value of all increased stats remains at
+1000
+. However, old Masterwork items only considered this value a general guideline (for the sake of cleaner numbers on the increased stats); the new upgraded items' value increases by precisely
+1000
+as a strict rule (according to the above table).
+All stats that are increased share equal gold value. For example, if an item has
+attack damage
+and
+attack speed
+, each upgraded stat will increase by
+500 gold
+of value; if an item has
+ability haste
+,
+armor
+, and
+magic resistance
+, each upgraded stat will increase by
+333.
+3
+gold
+of value; etc.
+Note that the values are rounded down in item tooltips, but are granted as normal.
+V14.7
+Living Forge
+Bug Fix:
+Masterwork items now properly display and inherit their trackers from their respective Legendary item.
+Thunder Lord Ornn
+Call of the Forge God
+Bug Fix:
+Elemental's mesh no longer loses its applied color layer(s) on certain faces, which would cause them to appear black.
+V14.6
+Searing Charge
+Cooldown reduced to 14 / 13.
+5
+/ 13 / 12.
+5
+/ 12 seconds from 16 / 15 / 14 / 13 / 12.
+V14.2
+Call of the Forge God
+Removed:
+Minimap can no longer be used to target the ability.
+V14.1
+Living Forge
+New Effect:
+Now prioritizes upgrading the first eligible item in the inventory based on its slot, starting from the first slot to the last.
+New Effect:
+Can now upgrade
+Legendary
+items.
+New Masterwork items:
+Ataraxia
+,
+Daybreak
+,
+Certainty
+,
+Enmity of the Masses
+,
+Eye of the Storm
+,
+Force of Arms
+,
+Heavensfall
+,
+Hope Adrift
+,
+Obsidian Cleaver
+,
+Rabadon's Deathcrown
+,
+Shojin's Resolve
+,
+Swordnado
+,
+T.U.R.B.O.
+,
+The Baron's Gift
+,
+Wyrmfallen Sacrifice
+.
+Removed Masterwork items:
+Caesura
+,
+Deicide
+,
+Draktharr's Shadowcarver
+,
+Equinox
+,
+Eternal Winter
+,
+Flicker
+,
+Typhoon
+,
+Ceaseless Hunger
+,
+Eye of Luden
+,
+Vespertide
+,
+Primordial Dawn
+.
+V13.19
+Living Forge
+Bug Fix:
+Now properly grants its bonus stats when upgrading the additional Mythic items of allied teammates into Masterwork items.
+V13.14
+Living Forge
+Bug Fix:
+Triggering
+Brittle
+through a basic attack against an
+Irelia
+that was channeling
+Defiant Dance
+no longer causes the application of the knock back to interrupt the channel, despite it being uninterruptable.
+V13.10
+Living Forge
+New Masterwork items:
+Cry of the Shrieking City
+,
+Edge of Finality
+,
+Flicker
+,
+Seething Sorrow
+,
+Youmuu's Wake
+.
+Removed Masterwork items:
+Bloodward
+,
+Seat of Command
+,
+Sandshrike's Claw
+, and
+Wyrmfallen Sacrifice
+.
+Searing Charge
+Bug Fix:
+Airborne now disables for the intended duration instead of an additional 0.
+25
+-0.
+5
+seconds.
+Call of the Forge God
+Bug Fix:
+Airborne now disables for the intended duration instead of an additional 0.
+25
+-0.
+5
+seconds.
+V13.8
+Searing Charge
+Bug Fix:
+Cleansing the stun no longer causes the disable duration for the knock up to end early.
+Airborne debuff now additionally no longer cleansable by effects that remove Airborne.
+(bug)
+Call of the Forge God
+Bug Fix:
+Cleansing the stun no longer causes the disable duration for the knock up to end early.
+Airborne debuff now additionally no longer cleansable by effects that remove Airborne.
+(bug)
+V13.7
+Living Forge
+Bug Fix:
+Masterwork
+items no longer have a resale value of
+0
+and will now sell for the correct amounts.
+V13.4
+Living Forge
+Bug Fix:
+Mythic item components in the slot in front of a
+Mythic
+item no longer disappear after that
+Mythic
+item was upgraded to a
+Masterwork
+item.
+V13.3
+Living Forge
+Bug Fix:
+Forge UI now displays full item tooltips, no items in the UI have broken strings anymore where summary tooltips existed previously.
+V13.1
+- January 12th Hotfix
+Living Forge
+Bug Fix:
+Once again no longer increases
+Ornn's
+base health, armor and magic resist.
+V12.22
+Stats
+Base mana increased to 341 from 340.
+6
+.
+Base mana regeneration reduced to 8 from 8.
+01
+.
+Living Forge
+New Masterwork items:
+Frozen Fist
+,
+Infinite Convergence
+,
+Leviathan
+,
+Primordial Dawn
+,
+The Unspoken Parasite
+.
+Removed Masterwork items:
+Forgefire Crest
+,
+Rimeforged Grasp
+,
+Turbocharged Hexperiment
+.
+V12.21
+Call of the Forge God
+First cast slowing for the full amount, instead of ramping up from 10% at the maximum distance, is now considered the intended function.
+This functionality was unintentionally changed to this in
+V9.1
+.
+V12.17
+Living Forge
+Bug Fix:
+Masterwork items are no longer lost if the ally whose item is being upgraded dies during the channel.
+V12.16
+Living Forge
+Bug Fix:
+Masterwork items that are forged while in the shop are no longer applicable for undone purchases.
+V12.13
+Living Forge
+Bug Fix:
+Channel bar in the HUD when forging an item now properly displays "Living Forge" instead of the ability name of the most recently casted ability.
+Call of the Forge God
+Bug Fix:
+Fixed a bug where he could immediately recast it if it was used in the direction of an ally.
+V12.12
+Searing Charge
+Bug Fix:
+Cast SFX is no longer audible in the Fog of War when it shouldn't be.
+V12.10
+Stats
+Base health increased to 660 from 590.
+Health growth increased to 109 from 95.
+Armor growth increased to 5.
+2
+from 4.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+V12.5
+Living Forge
+Bug Fix:
+Now is properly able to upgrade items for an allied
+Viego
+, even if he had possessed an enemy champion with
+Sovereign's Domination
+at one point.
+V11.1
+- January 8th Hotfix
+Living Forge
+Bug Fix:
+Fixed a bug where
+Syzygy's
+passive would have no cooldown.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+Call of the Forge God
+Bug Fix:
+No longer goes on full cooldown if he dies before the elemental ram appears.
+V10.24
+General
+Bug Fix:
+No longer causes crashes when picked in Intro Co-Op vs. AI games.
+Living Forge
+Bug Fix:
+Fixed a bug where buying and selling
+Rimeforged Grasp
+would retain it's increased size passive.
+V10.23
+Stats
+Mana growth increased to 65 from 45.
+Living Forge
+Only Mythic items can be made into Masterwork items.
+Upgraded items average gold value is now about
+1000
+, instead of an amount depending on the item.
+Upgraded item for himself reduced to 1 from 2.
+New Effect:
+Now increases his
+bonus
+armor
+and
+bonus
+magic resistance
+by 4% every time he upgrades a Mythic item into a Masterwork item.
+New Effect:
+Now increases
+bonus
+health
+from all sources by 10%, increased by 4% every time he upgrades a Mythic item into a Masterwork item.
+New Masterwork items:
+Assasin Mythics:
+Draktharr's Shadowcarver
+,
+Sandshrike's Claw
+,
+Syzygy
+.
+Fighter Mythics:
+Ceaseless Hunger
+,
+Deicide
+,
+Dreamshatter
+,
+Infinity Force
+.
+Mage Mythics:
+Eternal Winter
+,
+Eye of Luden
+,
+Icathia's Curse
+,
+Liandry's Lament
+,
+Upgraded Aeropack
+,
+Vespertide
+.
+Marksman Mythics:
+Bloodward
+,
+Typhoon
+,
+Wyrmfallen Sacrifice
+.
+Support Mythics:
+Reliquary of the Golden Dawn
+,
+Seat of Command
+,
+Shurelya's Requiem
+,
+Starcaster
+.
+Tank Mythics:
+Forgefire Crest
+,
+Rimeforged Grasp
+,
+Turbocharged Hexperiment
+.
+Removed Masterwork items:
+Circlet of the Iron Solari
+,
+Forgefire Cape
+,
+Frozen Fist
+,
+Infernal Mask
+,
+Luden's Pulse
+,
+Might of the Ruined King
+,
+Molten Edge
+,
+Obsidian Cleaver
+,
+Rabadon's Deathcrown
+,
+Salvation
+,
+Trinity Fusion
+,
+Youmuu's Wraithblade
+,
+Zhonya's Paradox
+.
+V10.15
+Stats
+Base armor reduced to 33 from 36.
+V10.13
+Living Forge
+Health and mana items built in the field retain its previous
+health
+and
+mana
+percentage (returning to base still brings health and mana items back to full).
+Previously provided 100% of health and mana values.
+V10.12
+Living Forge
+Bug Fix:
+No longer fails when the ally receiving the upgraded item dies while the missile effect is mid-air.
+V10.8
+- April 21st Hotfix
+Bellows Breath
+Bug Fix:
+No longer able to globally damage enemies.
+V10.8
+- April 15th Hotfix
+Searing Charge
+Bug Fix:
+No longer able to cross terrain or a wall if cast near it.
+V10.8
+Call of the Forge God
+Bug Fix:
+When recasting it, now properly redirects in the direction of the dash, not towards his pathing.
+V10.5
+Living Forge
+Brittle damage reduced to
+10% − 18% (based on
+Ornn's
+level)
+of target's
+maximum
+health
+from
+12% − 20.
+5
+% (based on
+Ornn's
+level)
+.
+Level to access
+Masterwork
+items increased to 13 from 12.
+Ally
+Masterwork
+upgrade availability increased to 14, 15, 16, 17 from 13, 14, 15, 16.
+V10.3
+Living Forge
+Bug Fix:
+Might of the Ruined King's
+passive no longer stacks with
+Blade of the Ruined King's
+one.
+V9.23
+- November 19, 2019
+Living Forge
+Can no longer upgrade
+Wooglet's Witchcap
+to
+Wooglet's Witchcrown
+since
+Twisted Treeline
+was removed from the game.
+V9.22
+Call of the Forge God
+Bug Fix:
+Second activation now properly knocks up enemies close to it.
+V9.19
+Living Forge
+Level to access
+Masterwork
+items reduced to 12 from 13.
+Call of the Forge God
+Bug Fix:
+The
+knock up
+buff duration is no longer longer than the actual
+knock up
+duration.
+V9.13
+Volcanic Rupture
+AD ratio increased to
+110% AD
+from
+100% AD
+.
+V9.8
+Living Forge
+Forgefire Cape
+armor increased to 100 from 90.
+Forgefire Cape
+health increased to 750 from 625.
+Frozen Fist
+armor increased to 125 from 95.
+Infernal Mask
+magic resistance increased to 100 from 90.
+Infernal Mask
+health increased to 750 from 550.
+V9.6
+General
+Updated recommended items.
+Living Forge
+Bug Fix:
+Can no longer upgrade ally items mid-dash during
+Searing Charge
+and
+Call of the Forge God
+, canceling the dash.
+Volcanic Rupture
+Bug Fix:
+If a pillar is about to expire when he casts
+Searing Charge
+, it now lasts until his dash completes.
+Bellows Breath
+Cooldown reduced to 12 / 11.
+5
+/ 11 / 10.
+5
+/ 10 seconds from 12 at all ranks.
+V9.2
+Stats
+Base health increased to 590 from 565.
+64
+.
+Base armor increased to 36 from 33.
+04
+.
+V9.1
+Stats
+Health growth increased to 95 from 90.
+Base health regeneration increased to 9 from 7.
+Health regeneration growth increased to 0.
+9
+from 0.
+8
+.
+Armor growth increased to 4 from 3.
+Base attack damage increased to 69 from 67.
+72
+.
+Living Forge
+New Effect:
+Now grants an additional
+10%
+bonus
+armor
+and
+10%
+bonus
+magic resistance
+from all sources.
+Master Craftman
+effect modified:
+New Effect:
+When
+Ornn
+reaches level 13, any upgradable item
+Ornn
+owns or purchases for the rest of the game is upgraded for free, up to a maximum of 2. Additionally, for each level after 13 (level 14, 15, 16, 17, and 18),
+Ornn
+can upgrade one of his ally's upgradable items by getting within 600 range of them and clicking on them, up to a maximum of 1 per ally.
+Old Effect:
+When
+Ornn
+reaches level 13, he and each of his teammates can purchase
+Master Craftman
+upgrades. Each player may only have one
+Master Craftman
+upgrade at a time.
+Removed:
+Master Craftman
+items no longer have an upgrade cost:
+1050
+(
+),
+1000
+(
+), and
+500
+(
+).
+New Master Craftman Items:
+Frozen Fist
+,
+Luden's Pulse
+,
+Might of the Ruined King
+, and
+Youmuu's Wraithblade
+.
+Brittle
+damage increased to
+12% − 20.
+5
+% (based on Ornn's level)
+of target's
+maximum
+health
+from
+7% − 13% (based on Ornn's level)
+.
+Brittle
+no longer stacks twice if applied by both
+Bellows Breath
+and
+Call of the Forge God
+.
+Volcanic Rupture
+Mana cost reduced to 45 from 55.
+Base damage reduced to 20 / 45 / 70 / 95 / 120 from 20 / 50 / 80 / 110 / 140.
+Slow reduced to 40% at all ranks from 40 / 45 / 50 / 55 / 60%.
+Bellows Breath
+Removed:
+No longer grants a shield for
+12% of his
+maximum
+health
+for 3.
+5
+seconds.
+New Effect:
+Is now
+Displacement immune
+for 0.
+75
+seconds.
+Cooldown changed to 12 seconds at all ranks from 17 / 15 / 13 / 11 / 9.
+Duration reduced to 0.
+75
+seconds from 1.
+March speed reduced to 35% from 50%.
+Searing Charge
+Mana cost changed to 35 / 40 / 45 / 50 / 55 from 50 at all ranks.
+New Effect:
+If a
+pillar
+is about to expire when
+Ornn
+casts
+Searing Charge
+, it now lasts until
+Ornn's
+dash completes.
+Call of the Forge God
+New Effect:
+First cast slow now scales with the distance traveled by the elemental, with a minimum of 10%.
+Second cast knockup duration reduced to 1 second from 1.
+5
+.
+New Effect:
+Second cast knockup duration is now reduced to 0.
+5
+seconds on subsequent targets after hitting the first enemy champion.
+V8.14
+Living Forge
+Undocumented:
+ARAM-specific lockout reduced to 2 minutes from 5.
+V8.13
+Stats
+Base health regeneration reduced to 7 from 9.
+Bellows Breath
+Flame width reduced to 175 from 225.
+Flame length reduced to 500 from 550.
+V8.4
+Bellows Breath
+Cooldown increased to 17 / 15 / 13 / 11 / 9 seconds from 13 / 12 / 11 / 10 / 9.
+Target's maximum health ratio changed to
+12 / 13 / 14 / 15 / 16% of target's
+maximum
+health
+from
+10 / 12 / 14 / 16 / 18%
+.
+Shield duration increased to 3.
+5
+seconds from 2.
+5
+.
+Brittle
+duration reduced to 3 seconds from 6.
+Searing Charge
+Charge base damage increased to 80 / 125 / 170 / 215 / 260 from 30 / 50 / 70 / 90 / 110.
+Charge bonus armor ratio increased to
+40%
+bonus
+armor
+from
+30%
+.
+Charge bonus magic resistance ratio increased to
+40%
+bonus
+magic resistance
+from
+30%
+.
+Shockwave base damage increased to 80 / 125 / 170 / 215 / 260 from 50 / 90 / 130 / 170 / 210.
+Shockwave bonus armor ratio increased to
+40%
+bonus
+armor
+from
+30%
+.
+Shockwave bonus magic resistance ratio increased to
+40%
+bonus
+magic resistance
+from
+30%
+.
+New Effect:
+The shockwave damage is only applied to units
+not
+hit by the initial charge.
+Call of the Forge God
+Brittle
+duration reduced to 3 seconds from 6.
+V8.2
+Bellows Breath
+Removed:
+Being
+displacement immune
+during the march.
+Call of the Forge God
+Cooldown increased to 140 / 120 / 100 seconds from 130 / 100 / 70.
+V8.1
+Bellows Breath
+Bug Fix:
+Brittle proc no longer apply its effect if the attack that would apply it is blocked.
+V7.24
+Bellows Breath
+Target's maximum health ratio reduced to
+10 / 12 / 14 / 16 / 18% of the target's
+maximum
+health
+from
+12 / 14 / 16 / 18 / 20%
+.
+Cooldown increased to 13 / 12 / 11 / 10 / 9 seconds from 12 / 11 / 10 / 9 / 8.
+V7.22 November 12th Hotfix
+Searing Charge
+Charge base damage increased to 30 / 50 / 70 / 90 / 110 from 20 / 40 / 60 / 80 / 100.
+Shockwave base damage increased to 50 / 90 / 130 / 170 / 210 from 40 / 80 / 120 / 160 / 200.
+V7.22
+Stats
+Base attack damage increased to 68 from 59.
+72
+.
+Base armor increased to 33 from 24.
+04
+.
+V7.20
+Bellows Breath
+Target's health ratio changed to
+12 / 14 / 16 / 18 / 20% of target's
+maximum
+health
+from
+15 / 17.
+5
+/ 20 / 22.
+5
+/ 25% of target's
+current
+health
+.
+Searing Charge
+Terrain collision range increased to 150 additional range from 100.
+Call of the Forge God
+Removed:
+Headbutting the giant ram having a 0.
+35
+-second cast time.
+V7.19
+General
+Recommended items have been adjusted.
+Stats
+Base mana increased to 340 from 300.
+Living Forge
+Mini-shop UI now prioritizes health regeneration over attack damage when choosing which items to display.
+Volcanic Rupture
+Mana cost reduced to 55 at all ranks from 55 / 60 / 65 / 70 / 75.
+Searing Charge
+Mana cost reduced to 50 from 60.
+V7.18
+General
+Bug Fix:
+Twisted Treeline starting recommended items are no longer more than starting gold.
+Living Forge
+New Effect:
+Masterwork upgrades now become available once
+Ornn
+reaches level 13.
+Bug Fix:
+Fixed the bug where you couldn't move the camera clicking on the minimap while forging.
+New Masterwork Item:
+Zhonya's Paradox
+, upgraded from
+Zhonya's Hourglass
+.
+Searing Charge
+Bug Fix:
+Fixed a big where it didn't destroy
+Anivia's
+Crystallize
+, merely made it invisible.
+Call of the Forge God
+Maximum speed increased to 1200 from 1050.
+V7.17
+September 1st Hotfix
+Living Forge
+Mini-shop UI now correctly updates when you purchase items.
+Volcanic Rupture
+Pillar spawn delay reduced to 1.
+125
+seconds from 1.
+25
+.
+New Effect:
+Pillar now displaces champions who are standing on top of it when it spawns.
+New Effect:
+Now attempts to spawn its pillar outside of a wall if it is slightly in a wall, otherwise it destroys itself.
+Bellows Breath
+Range increased to 550 from 500.
+Width increased by 50.
+Unknown current value.
+March speed increased to 50% from 35%.
+Searing Charge
+Removed:
+Displacing enemies he passes through.
+This did not apply any form of interrupt.
+V7.17
+August 25th Hotfix
+Stats
+Health growth increased to 90 from 85.
+Base health regeneration increased to 9 from 7.
+18
+.
+Health regeneration growth increased to 0.
+8
+from 0.
+6
+.
+Attack speed growth increased to 2% from 1.
+3
+%.
+Call of the Forge God
+Cooldown reduced to 130 / 100 / 70 seconds from 150 / 115 / 80.
+V7.17
+August 24th Hotfix
+Living Forge
+Bug Fix:
+Mitigated a lag issue caused by
+Ornn's
+mini-shop UI updating after he purchased an item outside his base. Until 7.18, the UI will only show basic items and won't update as
+Ornn
+makes purchases.
+Bug Fix:
+This also solves an issue where the mini-shop UI told Ornn to buy things way too expensive for him to afford.
+V7.17
+Added
+Living Forge
+Innate:
+Ornn
+can purchase non-consumable items from anywhere on the field by forging them himself, and is also presented a
+Forge Menu
+with his recommended items to select to be
+forged
+. Forging takes 4 seconds and the process is interrupted if
+Ornn
+enters combat, disabling
+Living Forge
+for 4 seconds.
+Additionally,
+Ornn
+and each of his teammates can purchase
+Masterwork
+upgrades. Each player may only have one
+Masterwork
+upgrade at a time.
+1050
+-
+Wooglet's Witchcrown
+1000
+-
+Forgefire Cape
+,
+Infernal Mask
+,
+Molten Edge
+,
+Rabadon's Deathcrown
+,
+The Obsidian Cleaver
+, and
+Trinity Fusion
+.
+500
+-
+Circlet of the Iron Solari
+and
+Salvation
+.
+Brittle:
+Bellows Breath's
+final flame and
+Call of the Forge God
+apply
+Brittle
+to enemies for 6 seconds.
+Ornn's
+next basic attack against a
+Brittle
+enemy briefly
+knocks them back
+.
+The next immobilizing effect against a
+Brittle
+target consumes the mark, dealing
+7% − 16% (based on level)
+of target's
+maximum
+health
+as
+bonus
+magic damage and lasting 30% longer.
+Volcanic Rupture
+Active:
+Ornn
+slams his hammer into the ground, sending a fissure in the target direction that stops early if an enemy champion is hit, dealing 20 / 50 / 80 / 110 / 140
+(+ 100% AD)
+physical damage and
+slowing
+enemies hit by 40 / 45 / 50 / 55 / 60% for 2 seconds.
+After a 1.
+25
+-second delay, an impassable
+magma pillar
+erupts at maximum range for 4 seconds.
+Target Range:
+800
+Mana Cost:
+55 / 60 / 65 / 70 / 75
+Cooldown:
+9 / 8.
+5
+/ 8 / 7.
+5
+/ 7 seconds
+Bellows Breath
+Active:
+Ornn
+shields himself for
+12% of
+maximum
+health
+for 2.
+5
+seconds and marches with
+displacement immunity
+and 65% reduced movement speed in the target direction over the next 0.
+75
+seconds.
+Over the march he belches fire over a cone in front of him, dealing magic damage every 0.
+15
+seconds to enemies hit, up to a maximum of
+15 / 17.
+5
+/ 20 / 22.
+5
+/ 25% of target's
+current
+health
+(with a minimum of 80 / 130 / 180 / 230 / 280 damage). The final bout of flame will apply
+Brittle
+.
+Target Range:
+500
+Mana Cost:
+45 / 50 / 55 / 60 / 65
+Cooldown:
+12 / 11 / 10 / 9 / 8 seconds
+Searing Charge
+Active:
+Ornn
+charges forward, dealing 20 / 40 / 60 / 80 / 100
+(+ 30% armor)
+(+ 30% magic resistance)
+physical damage to enemies he passes through, stopping upon colliding with terrain.
+Upon collision creates a shockwave that deals 40 / 80 / 120 / 160 / 200
+(+ 30% armor)
+(+ 30% magic resistance)
+physical damage and
+knocks up
+enemies within for 1 second.
+Searing Charge
+can damage enemies twice.
+Magma pillars
+and terrain created by enemy champions caught in the shockwave are destroyed.
+Target Range:
+800
+Effect Radius:
+350
+Mana Cost:
+60
+Cooldown:
+16 / 15 / 14 / 13 / 12 seconds
+Call of the Forge God
+First Cast:
+Ornn
+summons an elemental at maximum range in the target direction that stampedes toward him, dealing 125 / 175 / 225
+(+ 20% AP)
+magic damage and
+slowing
+enemies hit by 40% for 2 seconds.
+While stampeding,
+Ornn
+can re-activate
+Call of the Forge God
+.
+Second Cast:
+Ornn
+dashes forward in the target direction. If
+Ornn
+collides with the elemental, he headbutts it, sending it stampeding again in the new direction and empowering it to
+knock up
+enemies hit.
+Call of the Forge God
+can damage enemies twice.
+Target Range:
+2500
+Mana Cost:
+100
+Cooldown:
+150 / 115 / 80 seconds
+Trivia
+[
+edit
+|
+edit source
+]
+Ornn's dance references
+Attila's
+dance
+during the song
+I've Got a Dream
+.
+A side-by-side comparison can be seen
+here.
+The language used in the musical accompaniment for The Path To Hearth-Home is described, in-universe, as "Ancient Freljordian".
+[4]
+It is based on Old Norse, and can be mostly understood by
+North Germanic speakers
+, like Icelanders, Norwegians, Danes, Swedes, etc. & to a lesser extent
+West Germanic speakers
+like English people, Germans, Netherlanders (Dutch people), etc.
+The singer is
+Nunu's
+mother
+Layka
+, voiced by Norwegian-Swedish composer
+Christine Hals
+, who has worked on Disney's cartoon
+Frozen
+soundtracks;
+[5]
+Ancient Freljordian is linguistically related to the Runeterran lingua franca (real-life English), due to in-universe cognates.
+Ornn
+is a pre-Freljordian theonym, with forgotten meaning;
+[6]
+Ornn
+resembles Old Norse verb
+*oʀna
+ᚢᛉᚾᚨ "to warm up" < Proto-Germanic
+*uznanan
+<
+PIE
+*Hus-n̥eh₂-
+.
+[7]
+The
+horned, caprinine appearance
+of
+Ornn's
+and his
+summoned element's
+may be referencing:
+Thor's goats
+Tanngrisnir and Tanngnjóstr
+;
+The
+horned
+Indo-European pastoral god(s).
+In-universe, Ornn names
+hammer
+after the verb; vice-versa in reality.
+The icon for
+Living Forge
+is reused for the
+Teamfight Tactics
+item
+Reforger
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Vanguard
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+Vanguards
+are offensive tanks. Vanguards lead the charge for their team and specialize at bringing the action. Their explosive team fight initiation seeks to catch enemies out of position while allowing allies to follow-up to devastating effect.
+Examples
+Amumu
+Leona
+Sejuani
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Brittle
+A unit afflicted with
+Brittle
+has their
+Tenacity
+reduced by 30%.
+Brittle's
+duration ends prematurely if the affected unit becomes
+immobilized
+.
+Tenacity
+(or
+Crowd Control Reduction
+) is a stat that reduces the duration of all incoming
+crowd control
+effects except
+displacements
+,
+drowsy
+,
+nearsight
+,
+stasis
+, and
+suppression
+.
+
+If
+tenacity
+is reduced below 0, the crowd control duration increases.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Immobilize
+Immobilized
+units cannot control their movement. The following crowd control effects
+immobilize
+the unit:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Root
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Impaired movement
+is a similar term that, in addition to the above, also refers to units that are
+slowed
+.
+League of Legends content
+Interrupt
+Interrupt
+is a quality of crowd control that
+interrupts
+an in-progress effect, preventing its completion or causing the effect to go off at an
+interrupted
+state.
+The following crowd control effects
+interrupt
+channeled and charged
+abilities (unless otherwise noted by the ability):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+The following crowd control effects
+interrupt
+dashes
+:
+Airborne
+Knockdown
+Stasis
+Basic attack windups
+are
+interrupted
+by all forms of crowd control that inhibit attacking.
+Ground
+and
+Root
+only
+interrupt
+channeled and charged movement abilities.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Tenacity
+Tenacity
+(or
+Crowd Control Reduction
+) is a stat that reduces the duration of all incoming
+crowd control
+effects except
+displacements
+,
+drowsy
+,
+nearsight
+,
+stasis
+, and
+suppression
+.
+If
+tenacity
+is reduced below 0, the crowd control duration increases.
+Tenacity
+stacks
+multiplicatively
+or
+additively
+based on the combination of effects.
+The duration of a crowd control debuff is calculated when it is applied, and
+tenacity
+can reduce it to a minimum 0.
+5
+seconds.
+League of Legends content
+Crowd control
+A unit that is
+disabled
+is affected by a status effect that prevents certain actions – such as movement, attacking, casting and/or seeing–blocked, reduced or controlled.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Cripple
+A unit that is
+crippled
+has reduced
+total
+attack speed
+for the duration.
+Sources of
+cripple
+stack multiplicatively with each other.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+cripple immunity
+.
+Removal:
+Removed by
+Cleanses
+and specifically
+Master Yi's
+Highlander
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Disarm
+A unit that is
+disarmed
+is unable to declare
+basic attack
+commands for the duration.
+Interrupts:
+Interrupts
+basic attack windups
+(excluding
+uncancellable windups
+) and
+Samira's
+Inferno Trigger
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast) and
+Mikael's Blessing
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Ground
+A unit that is
+grounded
+is unable to activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Grounded
+units can still be displaced.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Ground
+is the only type of
+crowd control
+that is most commonly found in persistent area of effects, which will reapply the status effect continuously.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Silence
+A unit that is
+silenced
+is unable to cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Interrupts:
+Interrupts all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Yone's
+Soul Unbound
+(recast).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Searing Charge
+COOLDOWN:
+14 / 13.
+5
+/ 13 / 12.
+5
+/ 12
+Active:
+Ornn
+charges in the target direction, dealing
+physical damage
+to enemies he passes through.
+Ornn
+will stop upon hitting terrain, creating a shockwave that deals
+physical damage
+to enemies,
+knocks them up
+and briefly
+stuns
+them. This will also destruct his
+Volcanic Rupture
+and enemy-created
+terrain
+.
+League of Legends content
+Call of the Forge God
+COOLDOWN:
+140 / 120 / 100
+Active:
+Ornn
+summons a lava elemental that stampedes toward him, dealing
+magic damage
+and
+slowing
+enemies hit for a short time.
+Call of the Forge God
+can be recast while the elemental is active.
+Recast:
+Ornn
+dashes
+in the target direction. If he hits the elemental, he sends it stampeding in the new direction, dealing
+magic damage
+to enemies hit,
+knocking them up
+and
+stunning
+them for a brief time.
+Each pass applies
+Brittle
+to enemies hit for a short time.
+Brittle
+:
+The target loses
+tenacity
+, increasing the duration of incoming
+crowd control
+.
+League of Legends content
+Howling Abyss
+The Howling Abyss is a bottomless crevasse located in the coldest, cruelest, part of the
+Freljord
+. Legends say that, long ago, a great battle took place here on the narrow bridge spanning this chasm. No one remembers who fought here, or why, but it is said that if you listen carefully to the wind you can still hear the cries of the vanquished tossed howling into the Abyss.
+Regular Modes
+Classic 5v5
+(
+All random
+)
+Custom
+Featured Game Modes
+Legend of the Poro King
+One For All
+One For All: Mirror Mode
+Snowdown Showdown
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Ornn's profile page
+at
+LeagueOfLegends.com
+↑
+GalaxySmash on if an item has no upgradeable stats
+↑
+GalaxySmash on if an item has no upgradeable stats
+↑
+http://nexus.leagueoflegends.com/2017/08/ask-riot-pro-patches-and-riven-balance/
+↑
+Christine singing
+↑
+https://nexus.leagueoflegends.com/en-us/2017/12/naming-new-champions/
+↑
+Guus Kroonen,
+Etymological Dictionary of Proto-Germanic, p. 563

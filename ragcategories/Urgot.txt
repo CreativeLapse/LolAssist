@@ -1,0 +1,2949 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Urgot
+the Dreadnought
+Release date
+2010-08-24
+Last changed
+V14.10
+Class(es)
+Juggernaut
+Legacy
+Fighter
+Tank
+Position(s)
+Top
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+2
+Toughness
+2
+Control
+2
+Mobility
+1
+Utility
+1
+Style
+Difficulty
+Urgot
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Urgot
+Base statistics
+Edit
+Health
+655
++102
+Mana
+340
++45
+Health regen. (per 5s)
+7.5
++0.7
+Mana regen. (per 5s)
+7.25
++0.8
+Armor
+36
++5
+Attack damage
+63
++4
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+350
+Attack speed
+Base AS
+0.625
+Attack windup
+15%
+AS ratio
+N/A
+Bonus AS
++3.75
+%
+Missile speed
+2500
+Unit radius
+Gameplay radius
+80
+Selection radius
+136
+Pathing radius
+50
+Acq. radius
+550
+Special statistics
+Damage Dealt
++0%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++2%
+Damage Dealt
++15%
+Damage Received
+-15%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Echoing Flames
+EFFECT RADIUS:
+700
+ANGLE:
+60°
+Per-Leg Cooldown
+:
+30 / 20 / 10 / 5 / 2.
+5
+(based on level)
+Innate:
+Urgot's
+six legs each conceal a shotgun that covers an arc, together forming a circle around him. Each shotgun can fire once before incurring a unique
+cooldown
+.
+Urgot's
+next
+basic attack
+within the arc of a shotgun will cause it to fire in a cone, dealing
+physical damage
+to enemies hit based on
+their
+maximum
+health
+.
+Innate:
+Urgot's
+six legs each conceal a shotgun that covers an arc, together forming a full circle of cover around him. Each shotgun can fire once before incurring a unique
+cooldown
+.
+Urgot's
+next
+basic attack
+on-hit
+within the arc of a shotgun will cause it to fire in a cone, dealing
+40% − 100% (based on level)
+AD
+(+
+2% − 6% (based on level)
+of target's
+maximum
+health)
+physical damage
+to enemies hit, capped at
+100 − 360 (based on level)
+against
+monsters
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Not Blocked
+Parries
+See Notes
+Projectile
+Not Blocked
+Echoing Flames
+:
+Shotgun attack range scales with
+bonus
+attack range.
+Will not trigger if the target is too far away or they are dead when the basic attack hits.
+Will not trigger while
+blinded
+or if the basic attack is blocked by
+Wind Wall
+or
+Blade Whirl
+.
+It bypasses
+blocking
+and
+dodging
+effects.
+Will not trigger against
+structures
+nor
+wards
+.
+Will trigger from
+Runaan's Hurricane's
+additional bolts.
+Will not apply
+life steal
+, but does apply on
+spell vamp
+and
+omnivamp
+at 33% effectiveness.
+Will apply
+spell effects
+.
+Will not trigger when basic attacking certain units (e.g
+Shaco's
+Jack in the Box
+), however it will trigger when attacking them with
+Purge
+.
+Will consume
+Manaflow Band
+if it is available.
+Will not consume
+Tear of the Goddess
+charges.
+(bug)
+Urgot's
+legs never change in orientation, with his body instead rotating on top of them; the leg that faces northeast will always face northeast. This does not affect
+Urgot's
+facing direction for the purposes of abilities such as
+Petrifying Gaze
+.
+Video
+File:Urgot - Passive
+Edit
+Corrosive Charge
+COST:
+70 Mana
+COOLDOWN:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8
+CAST TIME:
+0.
+25
+TARGET RANGE:
+800
+EFFECT RADIUS:
+210
+Active:
+Urgot
+launches a canister at the target location that explodes after a brief delay, dealing
+physical damage
+and briefly
+slowing
+enemies hit.
+Active:
+Urgot
+launches a canister at the target location. Upon landing, it explodes after 0.
+3
+seconds to deal
+physical damage
+to enemies hit and
+slow
+them for 1.
+25
+seconds.
+Physical Damage:
+25 / 70 / 115 / 160 / 205
+(+ 70% AD)
+Slow:
+45 / 50 / 55 / 60 / 65%
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Corrosive Charge
+prevents
+Purge
+from firing for 0.
+3
+seconds.
+Video
+File:Urgot - Q
+Edit
+Purge
+COST:
+40 / 30 / 20 / 10 / 0 Mana
+COOLDOWN
+:
+12 / 9 / 6 / 3 / 0
+CAST TIME:
+none
+STATIC COOLDOWN
+:
+0.
+5
+/
+0.
+25
+EFFECT RADIUS:
+490
+SPEED:
+2500
+Passive:
+Urgot's
+other abilities
+mark
+enemy
+champions
+hit for a few seconds, only one enemy can be
+marked
+at a time. At max rank,
+Purge
+lasts indefinitely and becomes a
+toggled
+ability.
+Active:
+For a few seconds,
+Urgot
+becomes
+ghosted
+and autonomously attacks the nearest enemy at a
+fixed
+attack speed
+, prioritizing the
+marked
+enemy.
+Purge
+can be recast within the duration, and does so automatically afterwards.
+Recast:
+Urgot
+ends
+Purge
+.
+Purge
+attacks deal
+modified
+physical damage
+and cannot
+critically strike
+.
+Urgot
+gains
+slow resist
+and can move while firing, but his
+movement speed
+is reduced.
+Passive:
+Urgot's
+other abilities
+mark
+enemy
+champions
+hit for 5 seconds. Only one enemy can be
+marked
+at a time.
+Additionally, at maximum rank,
+Purge
+lasts indefinitely and becomes a toggled ability.
+Active:
+Urgot
+equips his machine gun for 4 seconds, granting
+ghosting
+to minions and non-epic monsters around him and autonomously firing at the nearest enemy at a
+fixed
+3.
+0
+attack speed
+, prioritizing
+marked
+enemy champions and refreshing the
+mark
+with every attack. While firing,
+Urgot
+is able to move and gains 40%
+slow resist
+, but his
+base
+movement speed
+is reduced by
+125
+.
+Attacks with
+Purge
+deal
+modified
+physical damage
+, with a minimum threshold of 50 against
+monsters
+and
+minions
+, and apply
+on-hit
+and
+on-attack
+damage at 50% effectiveness, but they cannot
+critically strike
+.
+Urgot
+cannot perform attacks while unable to declare basic attacks.
+Modified Physical Damage:
+12
+(+ 20 / 23.
+5
+/ 27 / 30.
+5
+/ 34% AD)
+Purge
+can be recast after 0.
+5
+seconds within the duration, and does so automatically afterwards.
+Recast:
+Urgot
+ends
+Purge
+.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Basic damage
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Projectile
+Blocked
+Autonomous attack range scales with
+bonus
+attack range.
+Purge
+uses
+edge range
+for enemy targets only; Its range is
+center-to-edge
+.
+Urgot's
+size
+increasing does not increase its range.
+The initial cast and the manual recast count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Before maximum rank, if
+Purge
+is not manually recasted, the effect will end without being considered as an ability activation.
+Urgot's
+facing direction during
+Purge
+is in the direction he's moving and not in the direction of his attack target.
+Before maximum rank, if continuously attacking without being interrupted or interrupting or canceling the cast,
+Urgot
+will attack 13 times.
+The bolts are considered basic attacks and thus apply
+life steal
+at full efficiency.
+During
+Purge
+,
+Urgot's
+attack range
+is reduced by 200 and his attack commands instead issue movement commands to walk into the respective range of his target.
+Slow resist
+does not modify flat reductions in movement speed.
+Percentage
+slows
+apply after the flat movement reduction.
+Purge's
+attacks do not interact with
+Urgot's
+basic attack
+timer.
+After ending
+Purge
+, he can usually attack again immediately.
+If
+Urgot
+is
+berserked
+or
+taunted
+, he will fire at the unit he is forced to attack.
+Purge
+will fire while
+Urgot
+is
+dashing
+(e.g. while taking
+Thresh's
+Dark Passage
+), with the exception of
+Disdain's
+dash.
+Each shot counts as a separate hit for effects such as
+Electrocute
+,
+Muramana's
+Shock
+, and
+Eclipse's
+Ever Rising Moon
+.
+Purge
+will apply
+Runaan's Hurricane
+on every shot at 100% of the listed damage.
+On-hit damage applied by the bolts are still reduced by
+Purge
+.
+The movement speed stat tooltip erroneously reads that the
+bonus
+movement speed is being reduced before
+base
+movement speed.
+(note)
+Map-Specific Differences
+Arena
+differences
+edit
+New Effect:
+On-hit damage modifier now applies to the on-hit effects of the
+Firebrand
+,
+Heavy Hitter
+,
+Light 'em Up
+, and
+Angel of Retribution
+augments.
+Video
+File:Urgot - W
+Edit
+Disdain
+COST:
+60 / 70 / 80 / 90 / 100 Mana
+COOLDOWN:
+16 / 15.
+5
+/ 15 / 14.
+5
+/ 14
+CAST TIME:
+0.
+45
+TARGET RANGE:
+475
+/
+450
+SPEED:
+1200 +
+100% movement speed
+Active:
+Urgot
+shields
+himself for a few seconds and
+dashes
+in the target direction, dealing
+physical damage
+and briefly
+stunning
+enemies hit,
+knocking them aside
+.
+Urgot
+will stop upon hitting an enemy
+champion
+, briefly
+stunning
+and
+flinging
+them over.
+Neither
+Urgot's
+dash nor the fling cross
+terrain
+.
+Active:
+Urgot
+grants himself a
+shield
+for 4 seconds.
+Shield Strength:
+55 / 75 / 95 / 115 / 135
+(+ 135%
+bonus
+AD)
+(+ 13.
+5
+%
+bonus
+health)
+After the cast time,
+Urgot
+dashes
+in the target direction, though not through terrain, dealing
+physical damage
+to enemies he passes through,
+knocking them aside
+and
+stunning
+them for 1 second.
+Physical Damage:
+90 / 120 / 150 / 180 / 210
+(+ 100%
+bonus
+AD)
+Urgot
+will stop upon hitting an enemy
+champion
+,
+stunning
+them for 1.
+5
+seconds and, after 0.
+25
+seconds, also
+flinging
+them to the location
+100 units behind him
+, though not through terrain.
+Purge
+can be cast during the dash.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Urgot
+turns around when tossing an enemy over him, always facing his victim.
+The target will be
+flung
+to the location behind
+Urgot
+over 0.
+5
+seconds given that they do not move nor are moved from the position at which they collided with him while
+stunned
+.
+Disdain
+prevents
+Purge
+from firing for 1.
+25
+seconds.
+The range indicator length is 475 units, but the dash only moves
+Urgot
+450 units.
+This ability will cast from wherever the caster is at the end of the cast time.
+The
+shield
+is granted at the start of the cast time while the
+dash
+begins after.
+The
+fling
+will occur after 0.
+25
+seconds regardless of how far away the target is.
+Displacement immunity
+will not resist the application of the
+stun
+.
+Video
+File:Urgot - E
+Edit
+Fear Beyond Death
+COST:
+100 Mana
+COOLDOWN
+:
+100 / 85 / 70
+CAST TIME:
+0.
+5
+TARGET RANGE:
+2500
+EFFECT RADIUS:
+Global
+/
+600
+WIDTH:
+160
+SPEED:
+3200
+Active:
+Urgot
+fires a chem-drill in the target direction that impales the first enemy champion hit, dealing
+physical damage
+and leashing them for a few seconds. The target is also
+revealed
+and
+slowed
+based on
+their
+missing
+health
+.
+Fear Beyond Death
+can be recast if the leashed target falls to
+low health
+, and does so automatically afterwards if they remain at
+low health
+. It will also recast if the chem-drill would kill the target.
+Recast:
+Urgot
+suppresses
+the target and reels them in,
+revealing
+them and rendering them
+untargetable
+. He then
+executes
+them, which briefly
+fears
+and
+slows
+nearby enemies.
+Active:
+Urgot
+fires a chem-drill in the target direction that impales the first enemy champion hit, dealing
+physical damage
+and leashing the target for 4 seconds, during which they are
+revealed
+and
+slowed
+by
+0% − 75% (based on target's
+missing
+health)
+.
+Physical Damage:
+100 / 225 / 350
+(+ 50%
+bonus
+AD)
+Fear Beyond Death
+can be recast if the leashed target is below
+25% of their
+maximum
+health
+, and does so automatically if the chem-drill
+would kill the target
+, the ability is cast again while the target was above the threshold and is then brought within it, or the target is within the threshold at the end of the duration.
+Recast - Mercy:
+Urgot
+launches chains at the leashed target, then
+channels
+for 1.
+5
+seconds once they latch on. During this time, he reels them toward him,
+suppressing
+them,
+revealing
+them, rendering them
+untargetable
+, and preventing them from taking damage from
+other sources
+. If the target is near
+Urgot
+when the chains connect, they are pushed up to
+1000
+units away based on their proximity to him. This channel cannot be
+interrupted
+by
+crowd control
+.
+Upon completing the channel, the target is
+executed
+. If the execution is successful, he
+fears
+nearby enemies for 1.
+5
+seconds, during which they are
+slowed
+by 75%.
+Fear Beyond Death's recast can be used while affected by
+cast-inhibiting crowd control
+.
+"The end is near."
+Execution threshold alert
+.
+Info
+Targeting input
+Direction
+/
+Auto
+Damage type
+Type
+See Notes
+Sub-type
+Physical
+/
+True
+Minion Aggro
+See Notes
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Disruption
+Not Interrupted
+Unlike most
+missiles
+,
+Fear Beyond Death
+can
+hit the edge of targets whose center is further than the missile range.
+However, it still cannot hit targets whose center is behind
+Urgot
+.
+Applies
+spell damage
+on first cast and
+raw damage
+on recast.
+Urgot
+is
+revealed
+while the target is leashed and being reeled in.
+Fear Beyond Death's
+execute against the enemy champion will aggro nearby enemy minions.
+While
+Fear Beyond Death
+is not on cooldown, all enemy champions will have an execution indicator on their health bar, and a visual indicator if below the execution threshold.
+Mercy's
+granted
+untargetability
+does not
+destroy
+in-flight
+projectiles
+for the target.
+Urgot
+will place himself onto the ground and interrupts
+displacements
+affecting him upon starting the channel.
+If the displacement effect is a
+knock up
+with no debuff source, the
+airborne
+status is not removed and he spends significantly less time in the air.
+This ability will cast from wherever the caster is at the start of the cast time.
+Fear Beyond Death
+prevents
+Purge
+from firing for 0.
+8
+seconds.
+The recast prevents
+Purge
+from firing for 1.
+5
+seconds.
+If
+Urgot
+is in
+cast time
+or is
+dashing
+while the chains are in transit,
+Mercy's
+forced movement will be deferred (the debuff will continuously refresh) until the cast or dash is complete. The target will still be
+untargetable
+, prevented from taking damage from other sources, and
+suppressed
+during this time.
+If
+Urgot
+is
+channeling
+a spell, the channel is interrupted when the chains hit.
+Removing or resisting the
+slow
+has no effect on the mark
+debuff
+.
+The initial cast always counts as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+If the ability hits a target who is below the threshold, it will automatically recast itself and it won't be considered as an ability activation.
+If the ability hits a target who is above the threshold and it's recast early, the recast will happen automatically when they reach the threshold and it won't be considered as an ability activation.
+If the target got hit while above the threshold and it is recast after they fall below it, the recast will be considered as an ability activation.
+Reactivating the ability early will reel the target as soon as they reach the
+25%
+maximum
+health
+threshold.
+Mercy
+can be cast and will automatically do so at the end of the duration if the target is below the execute threshold regardless of
+Urgot
+being affected by
+crowd control
+, including self or enemy-imposed
+stasis
+.
+Fear Beyond Death
+can affect
+clones
+and activates its fear when executing one.
+Fear Beyond Death's
+recast cannot be used if the target is
+untargetable
+.
+Fear Beyond Death's
+recast cannot be used during
+resurrection
+. Attempting to do so places the recast on a 5-second
+cooldown
+.
+If the target is below the threshold at the end of the duration and
+Urgot
+is revived, the recast will initiate regardless of this cooldown.
+The recast's chains are classified as a
+projectile
+and they will fail to affect their target if:
+Urgot
+or his target
+dies
+or enters
+resurrection
+.
+The target becomes
+untargetable
+, even if the granted source does not
+destroy
+in-flight projectiles.
+Urgot
+will also fail to execute the target if they become
+untargetable
+while the chains are being pulled.
+(note)
+They collide with
+Wind Wall
+or
+Unbreakable
+.
+If
+Unbreakable
+intercepts the chains and
+Braum
+is not the target, they're destroyed.
+If
+Braum
+is the target, he will still be reeled in and executed as normal.
+The target is
+crowd control immune
+when the chains hit.
+The target is
+a zombie
+.
+Spell shield
+will
+not
+block the recast's chains.
+If the target removes the
+suppression
+by any means they will prevent themselves from being
+executed
+and stop the forced movement from being renewed, though allowing the most recent one to be present and move them to
+Urgot's
+previous location.
+Their untargetability and damage prevention of other sources granted by
+Fear Beyond Death
+is removed in the process.
+Urgot
+will still complete the full channel despite this.
+The execution would not count as being successful in this case and thus he will not
+fear
+nearby enemies after the failed execution.
+If the target is
+displacement immune
+when the chains collide,
+Urgot
+will not begin the channel until after their displacement immunity ends.
+The target will be unaffected by
+Fear Beyond Death's
+forced movement during this time, but will still be suppressed, prevented from taking damage from other sources and rendered untargetable.
+If the target's displacement immunity does not end within 10 seconds,
+Fear Beyond Death
+will cancel.
+When the chains start reeling in and suppressing a
+player's
+champion, chains will also cover the sides of their screen.
+The target champion shrinks in
+size
+in several steps after reaching
+Urgot's
+grinder and before being executed.
+If the
+suppression
+ends in any way, the target returns to its normal size.
+If the execution is successful, the victim's corpse will be effectively invisible unless they enter a
+zombie state
+.
+The target will die regardless of their
+current
+health
+once the recast's chains hit, even if they are
+healed
+.
+If the target has
+invulnerability
+that persists for the duration of the channel, it will protect them from the execution.
+Undying Rage
+will prevent
+Tryndamere
+from dying by the execute. In this case, the execute will bypass his minimum health threshold though and reduce him to
+1 health
+.
+The effect will also not prevent the activation of
+resurrection
+effects, such as
+Guardian Angel
+or
+Anivia's
+Rebirth
+.
+Post-death events
+such as
+Zombie State
+effects (e.g,
+Karthus'
+Death Defied
+,
+Kog'Maw's
+Icathian Surprise
+, and
+Sion's
+Glory in Death
+) will be triggered.
+Only the target's
+current
+health
+will count as
+Urgot's
+damage in post-game statistics and
+spell vamp
+healing.
+Fear Beyond Death's
+initial cast will not perform the automatic recast from dealing enough damage to kill
+Sion
+.
+Fear Beyond Death's
+recast will be placed on a 5-second
+cooldown
+if the target is below the threshold and becomes targetable again after completing the dash from
+Hero's Entrance
+.
+The following table refers for interactions while
+Urgot
+is
+channeling
+:
+Type
+Channel
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Allowed
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Disabled
+Teleport
+Interrupted by
+N/A
+Interrupted by
+Death
+Video
+File:Urgot - R
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Urgot (Collection)
+.
+Original
+View in 3D
+790
+24.08.2010
+Once a powerful Noxian headsman, Urgot was betrayed by the empire for which he had killed so many. Bound in iron chains, he was forced to learn the true meaning of strength in the Dredge—a prison mine deep beneath Zaun. Emerging in a disaster that spread chaos throughout the city, he now casts an imposing shadow over its criminal underworld. Raising his victims on the very chains that once enslaved him, he will purge his new home of the unworthy, making it a crucible of pain.
+Paul M. Guyet
+Victor '3rdColossus' Maury
+Loot eligible
+Giant Enemy Crabgot
+View in 3D
+520
+24.08.2010
+Emerging from the deep sea as the first of the kaiju menace, Crabgot has never been completely defeated by the forces of humanity. The best result when it emerges is to temporarily halt its advance, sending the massive crustacean back into the sea... until it can rise once more.
+Paul M. Guyet
+Mike Azevedo
+Kaiju
+Loot eligible
+Voice filter
+New SFX/VFX
+Butcher
+View in 3D
+520
+24.08.2010
+Paul M. Guyet
+Viktor Titov, Grafit Studio
+Trick-or-Treat
+Loot eligible
+Legacy
+New SFX/VFX
+Battlecast
+View in 3D
+1350
+05.03.2012
+A titanium juggernaut used to crush pockets of particularly stubborn resistance, the Battlecast Urgot model is rarely seen but widely feared. Its extensive weapons systems are complemented by a massive, flesh-grinding spike mill, which it pulls fleeing opponents into for sheer spectacle.
+Paul M. Guyet
+Izzy Medrano
+Battlecast
+Loot eligible
+Voice filter
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+Chromas
+Battlecast Urgot Chromas
+Obsidian
+Pearl
+Ruby
+Sapphire
+Tanzanite
+High Noon
+View in 3D
+1350
+30.08.2018
+Jeremiah James was once a famed railroad baron and millionaire industrialist, who bet his own heart on a game of chance… and lost. Left alone in the desert to die, he bargained with a passing devil, trading his immortal soul for a twisted, monstrous body of gears and iron.
+Paul M. Guyet
+Mist XG
+High Noon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+High Noon Urgot Chromas
+Pearl
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Pajama Guardian Cosplay
+View in 3D
+1350
+01.04.2020
+A Star Guardian superfan of almost impossible proportions, Urgot worked really hard on this outfit for the fan meet, so please be respectful.
+Paul M. Guyet
+Choe HeonHwa
+Definitely Not
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Pajama Guardian Cosplay Urgot Chromas
+Amethyst
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Fright Night
+View in 3D
+1350
+22.09.2022
+Unctuous Uncle Urgot has no nose to smell
+No feet or toes to stink, but he's still feeling swell
+'Cause visitors arrive and ring the household bell
+With new parts not so rotten for him, and tummy snacks as well!
+Paul M. Guyet
+Alex 'alexplank' Flores
+Fright Night
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Fright Night Urgot Chromas
+Amethyst
+Catseye
+Citrine
+Emerald
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.15
+Purge
+Undocumented / Bug Fix:
+Purge attacks are now properly disabled during
+Teleport's
+and
+Unleashed Teleport's
+channels.
+V14.10
+Purge
+Removed:
+No longer applies spell effects.
+Fear Beyond Death
+Bug Fix:
+No longer unintentionally repeatedly displaces
+Urgot
+and
+Skarner
+in the direction of
+Mercy
+and over large distances, if Mercy is cast while
+Urgot
+simultaneously becomes affected by
+Skarner's
+Impale
+.
+Both users will now stay at their original location.
+V14.9
+Stats
+Armor growth reduced to 5 from 5.
+45
+.
+V14.6
+Purge
+Bug Fix:
+Now properly counts as ability damage.
+V14.4
+Purge
+Bug Fix:
+No longer incorrectly applies
+Hullbreaker's
+Skipper at full effectiveness.
+V13.7
+Purge
+Bug Fix:
+No longer continually triggers the on-hit healing of
+Yuumi's
+You and Me!
+.
+V12.12
+Disdain
+Undocumented/Bug Fix:
+Tooltip now lists the stun duration.
+V12.10
+Stats
+Base health increased to 655 from 585.
+Health growth increased to 102 from 88.
+Armor growth increased to 5.
+45
+from 4.
+25
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Disdain
+Base shield reduced to 55 / 75 / 95 / 115 / 135 from 60 / 80 / 100 / 120 / 140.
+Shield bonus AD ratio reduced to
+135%
+bonus
+AD
+from
+150%
+.
+Shield health ratio reduced to
+13.
+5
+%
+bonus
+health
+from
+15%
+.
+V11.24
+Echoing Flames
+New Effect:
+Shotgun attack range now scales with
+bonus
+attack range.
+Purge
+New Effect:
+Autonomous attack range now scales with
+bonus
+attack range.
+V11.18
+Corrosive Charge
+Cooldown reduced to 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8 seconds from 12 / 11 / 10 / 9 / 8.
+Mana cost reduced to 70 from 80.
+V11.11
+Purge
+AD ratio reduced to
+20 / 23.
+5
+/ 27 / 30.
+5
+/ 34% AD
+from
+20 / 24 / 28 / 32 / 36% AD
+.
+V11.10
+Echoing Flames
+Bug Fix:
+Muramana's
+Shock now triggers on secondary targets properly.
+V11.6
+Purge
+On-hit modifier reduced to 50% from 75%.
+Bug Fix:
+Each instance of damage dealt now properly counts as a separate hit for effects such as
+Manamune
+stacking,
+Muramana
+on-hit,
+Runaan's Hurricane
+,
+Ravenous Hydra
+,
+Electrocute
+and
+Eclipse
+.
+Undocumented:
+On-hit damage applied from
+Runaan's Hurricane's
+Wind's Fury is now reduced by Purge.
+V11.5
+Purge
+Bug Fix:
+Each attack beyond the first now properly triggers
+Muramana's
+Shock and
+Ravenous Hydra's
+Cleave, instead of only triggering on the first attack.
+V11.4
+Purge
+On-hit modifier increased to 75% from 50%.
+V11.2
+Purge
+Bug Fix:
+Now properly modifies damage dealt by
+Kraken Slayer's
+Bring It Down and
+Ravenous Hydra's
+Cleave.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.25
+Purge
+Undocumented:
+Now applies
+Ravenous Hydra's
+Cleave on every attack.
+(Documented in 11.5)
+V10.20
+Echoing Flames
+Damage cap against monsters increased to
+100 − 360 (based on level)
+from
+60 − 360 (based on level)
+.
+Purge
+New Effect:
+Now deals a minimum of 50 damage against monsters.
+V10.13
+Fear Beyond Death
+Bug Fix:
+Execute indicator no longer appears on enemies' health bars while the ability is on cooldown.
+V10.8
+Disdain
+Bug Fix:
+Now stuns enemies for the correct duration of 1.
+5
+seconds instead of 1 second.
+Bug Fix:
+Urgot
+once again turns around to keep facing the target he is throwing.
+Bug Fix:
+Now properly gains bonus movement speed on dash.
+Fear Beyond Death
+Cooldown reduced to 100 / 85 / 70 from 120 / 95 / 70.
+V10.7
+Disdain
+Undocumented:
+Stun duration reduced to 1 second from 1.
+25
+.
+Undocumented:
+Urgot
+no longer automatically turns around and faces the target after flinging it.
+V10.6
+Corrosive Charge
+Slow duration increased to 1.
+25
+seconds from 1.
+Disdain
+Not functional:
+Stun duration increased to 1.
+5
+seconds from 1.
+25
+.
+V10.4
+Fear Beyond Death
+Bug Fix:
+Execute indicator now appears as intended and is properly visible.
+V9.14
+Purge
+Recast timer reduced to 0.
+5
+seconds from 1.
+V9.7
+Echoing Flames
+Health ratio reduced to
+2% − 6% (based on level)
+of target's
+maximum
+health
+from
+2% − 8% (based on level)
+.
+Disdain
+Cooldown increased to 16 / 15.
+5
+/ 15 / 14.
+5
+/ 14 seconds from 14 at all ranks.
+Mana cost increased to 60 / 70 / 80 / 90 / 100 from 50 / 60 / 70 / 80 / 90.
+Fear Beyond Death
+Base damage reduced to 100 / 225 / 350 from 125 / 250 / 375.
+V9.6
+Stats
+Base mana increased to 340 from 300.
+Mana regeneration growth increased to 0.
+8
+from 0.
+6
+.
+Echoing Flames
+Removed:
+No longer deals 10% reduced damage to enemies damaged in the last 5 seconds, stacking up to 3 times.
+Purge
+Removed:
+No longer grants a shield for 30 / 60 / 90 / 120 / 150
+(+ 15%
+bonus
+health)
+for 4 seconds.
+Mana cost reduced to 40 / 30 / 20 / 10 / 0 from 65 at all ranks.
+Cooldown reduced to 12 / 9 / 6 / 3 / 0 seconds from 17 / 15 / 13 / 11 / 9.
+New Effect:
+At maximum rank,
+Purge
+can now last for an infinite duration, and becomes a toggled ability.
+Percentage of on-hit damage increased to 50% from 33.
+3
+%.
+Disdain
+New Effect:
+Urgot
+now shields himself for 60 / 80 / 100 / 120 / 140
+(+ 150%
+bonus
+AD)
+(+ 15%
+bonus
+health)
+on cast for 4 seconds.
+Base damage changed to 90 / 120 / 150 / 180 / 210 from 60 / 100 / 140 / 180 / 220.
+AD ratio changed to
+100%
+bonus
+AD
+from
+50%
+total
+AD
+.
+Cooldown changed to 14 seconds at all ranks from 16 / 15 / 14 / 13 / 12.
+Mana cost increased to 50 / 60 / 70 / 80 / 90 from 50 at all ranks.
+Fear Beyond Death
+Range increased to 2500 units from 1600.
+Cast time increased to 0.
+5
+seconds from 0.
+4
+.
+Base damage increased to 125 / 250 / 375 from 50 / 175 / 300.
+AD ratio reduced to
+50%
+bonus
+AD
+from
+50%
+total
+AD
+.
+V9.4
+Corrosive Charge
+Mana cost increased to 80 from 60.
+Purge
+Mana cost increased to 65 at all ranks from 45 / 50 / 55 / 60 / 65.
+Base shield strength reduced to 30 / 60 / 90 / 120 / 150 from 60 / 90 / 120 / 150 / 180.
+Shield health ratio reduced to
+15%
+bonus
+health
+from
+30%
+.
+Fear Beyond Death
+Bug Fix:
+Execute indicator no longer shows up on enemies when
+Urgot
+is dead.
+V9.2
+Stats
+Base armor reduced to 36 from 39.
+Corrosive Charge
+Mana cost increased to 60 from 50.
+Purge
+Cooldown increased to 17 / 15 / 13 / 11 / 9 seconds from 13 / 12 / 11 / 10 / 9.
+V9.1
+Fear Beyond Death
+Undocumented:
+Now destoys
+shields
+when
+Mercy
+deals its damage. (Thus it no longer does multiple cycles of true damage to be able to execute targets with big amount of shields and can now execute targets that have more than
+1.111.110 shield
+.)
+V8.19
+Fear Beyond Death
+New indicator on enemy health bar, indicating when the enemy will be at
+25% health
+.
+V8.11
+Stats
+Collision radius reduced to 50 from 80.
+Base attack speed increased to 0.
+625
+from 0.
+595
+.
+Echoing Flames
+Maximum damage against monsters changed to
+60 − 360 (based on level)
+from
+25 − 365 (based on level)
+.
+Purge
+New Effect:
+Can now be cast during other abilities.
+Fear Beyond Death
+Removed:
+Being
+rooted
+while grinding a victim to its death.
+V7.24
+Fear Beyond Death
+Bug Fix:
+Now correctly receives Soul Essences for his
+Dark Harvest
+keystone upon executing a champion.
+V7.23
+Giant Enemy Crabgot
+Fear Beyond Death
+Bug Fix:
+No longer steals ground VFX from
+Battlecast Urgot
+when casting it.
+Battlecast Urgot
+Bug Fix:
+Chromas textures are now affected by character quality settings.
+V7.22
+Stats
+Base attack damage increased to 63 from 55.
+Base armor increased to 39 from 30.
+Corrosive Charge
+Delay before detonation increased to 0.
+6
+seconds from 0.
+5
+.
+V7.21
+General
+Sterak's Gage
+is no longer listed in his recommended items.
+Echoing Flames
+Leg cooldown reduced to
+30 / 20 / 10 / 5 / 2.
+5
+(based on level)
+from
+30 / 25 / 20 / 15 / 10 (based on level)
+.
+Removed:
+Leg cooldown being affected by cooldown reduction.
+Maximum health ratio reduced to
+2 / 3 / 4 / 6 / 8 (based on level)
+%
+from
+4.
+5
+/ 5.
+25
+/ 6 / 7 / 8 (based on level)
+%
+.
+Corrosive Charge
+Mana cost changed to 50 at all ranks from 35 / 40 / 45 / 50 / 55.
+Time before detonation reduced to 0.
+5
+seconds from 0.
+85
+.
+Fear Beyond Death
+First case missile speed increased to 3200 from 2100.
+V7.17
+General
+Bug Fix:
+Now has
+Control Wards
+in his recommended items.
+Purge
+Purge
+now refreshes the duration of the "locked on" debuff, preventing cases where
+Urgot
+would switch targets partway through
+Purge's
+duration.
+Disdain
+If
+Urgot
+casts
+Disdain
+during
+Purge
+but fails to toss a champion,
+Purge
+will now resume firing for the remainder of its duration 0.
+375
+seconds ealier than before (lockout period reduced to 1 second from 1.
+375
+).
+Fear Beyond Death
+Slow duration and reactivation window increased to 4 seconds from 3.
+V7.16
+Fear Beyond Death
+Undocumented:
+No longer executes
+Braum
+if he blocks the chains that were about to execute an ally.
+V7.15
+Full Relaunch
+General
+Title changed to
+the Dreadnought
+from
+the Headman's Pride
+.
+Complete visual upgrade across all skins.
+New splash artwork for
+Original Urgot
+,
+Giant Enemy Crabgot
+,
+Butcher Urgot
+and
+Battlecast Urgot
+.
+New voiceover.
+New lore.
+Stats
+Base health reduced to 585 from 586.
+52
+.
+Health growth reduced to 88 from 89.
+Base health regeneration reduced to 6.
+25
+from 6.
+505
+.
+Health regeneration growth increased to 0.
+7
+from 0.
+6
+.
+Base attack damage increased to 55 from 54.
+05
+.
+Attack damage growth increased 4 from 3.
+6
+.
+Base attack speed reduced to 0.
+595
+from 0.
+644
+.
+Attack speed growth increased to 3.
+75
+% from 2.
+9
+%.
+Base armor increased to 30 from 24.
+544
+.
+Armor growth increased to 4.
+25
+from 3.
+3
+.
+Base magic resistance increased to 32.
+1
+from 30.
+Magic resistance growth increased to 1.
+25
+from 0.
+5
+.
+Attack range reduced to 350 from 425.
+Base movement speed reduced to 330 from 335.
+Echoing Flames
+- Passive
+Innate:
+Urgot's
+six legs each conceal a shotgun that covers an arc, together forming a full circle of cover around him. Each shotgun has one shell and an individual reload timer of
+30 / 25 / 20 / 15 / 10 (based on level)
+seconds.
+The next basic attack in the direction of a
+loaded
+shotgun causes it to fire, dealing
+40 − 100 (based on level)
+% AD
+(+
+4.
+5
+/ 5.
+25
+/ 6 / 7 / 8 (based on level)
+% of target's
+maximum
+health)
+physical damage to all enemies hit within, up to
+25 − 365 (based on level)
+against monsters.
+Echoing Flames
+deals 10% reduced damage to enemies recently damaged in the last 5 seconds, stacking up to 3 times.
+Corrosive Charge
+- Q spell
+Active:
+Urgot
+launches a canister at the target location that explodes after a brief delay, dealing 25 / 70 / 115 / 160 / 205
+(+ 70% AD)
+physical damage and
+slowing
+all enemies hit by 45 / 50 / 55 / 60 / 65% for 1 second.
+Mana Cost:
+55
+Cooldown:
+12 / 11 / 10 / 9 / 8 seconds
+Purge
+- W spell
+Passive:
+Urgot's
+other abilities apply
+Purge
+to enemy champions for a few seconds.
+Active:
+Urgot
+shields himself for 60 / 90 / 120 / 150 / 180
+(+ 30%
+bonus
+health)
+and autonomously attacks the nearest enemy for the next 4 seconds, without interrupting his movement, prioritizing enemy champions marked for
+Purging
+.
+Urgot
+attacks with
+3.0 attack speed
+but deals 12
+(+ 20 / 24 / 28 / 32 / 36% AD)
+physical damage, with only 33.
+3
+%
+on-hit
+damage and cannot
+critically strike
+. Attacks deal a minimum of 50 damage against minions.
+While active,
+Urgot
+also gains 40% slow resistance and
+ghost
+versus non-champions but attacking reduces his base movement speed by 125 for
+1
+second.
+Mana Cost:
+45 / 50 / 55 / 60 / 65
+Cooldown:
+13 / 12 / 11 / 10 / 9 seconds
+Disdain
+- E spell
+Active:
+After a brief delay,
+Urgot
+dashes in the target direction, dealing 60 / 100 / 140 / 180 / 220
+(+ 50% AD)
+physical damage to all enemies in the way and
+knocking them aside
+.
+Urgot
+comes to a stop upon colliding with an enemy champion,
+stunning
+them for 0.
+75
+seconds and
+flinging
+them over himself.
+Mana Cost:
+50
+Cooldown:
+16 / 15 / 14 / 13 / 12 seconds
+Fear Beyond Death
+- R spell
+First Cast:
+Urgot
+fires a chem-drill forward that impales the first enemy champion struck, dealing physical damage, leashing them for 3 seconds and
+slowing
+them by
+0% − 75% (based on target's
+missing
+health)
+.
+If the target is below
+25% of their
+maximum
+health
+,
+Fear Beyond Death
+can be re-activated, and automatically does so after 3 seconds if the target is within the threshold.
+Second Cast:
+Urgot
+begins channeling as he launches chains at the target,
+suppressing
+them on impact and reeling them in over X seconds, during which they are untargetable by other effects.
+The channel can only be interrupted by
+Urgot's
+death. If the channel is successful, the target is
+executed
+and surrounding enemies are
+terrified
+for 1.
+5
+seconds.
+Mana Cost:
+100
+Cooldown:
+120 / 95 / 70 seconds.
+Trivia
+[
+edit
+|
+edit source
+]
+Urgot, the Headsman's Pride
+Urgot and
+Thresh
+used to be the only champions classified as
+ranged
+tanks
+before having their roles changes in 2013.
+Hyper-Kinetic Position Reverser
+and
+Death Sentence
+are the only two in-game tethered abilities without a minimum leash range.
+Urgot used to be the only champion in the game classified as a
+Marksman
+/
+Tank
+. However, his champion classification has since been changed to
+Juggernaut
+.
+During the time that
+Gnar
+was revealed on PBE, he was classified as a
+Marksman
+/
+Tank
+. However, Gnar was released as a
+Fighter
+/
+Marksman
+, a champion classification he shared with
+Jayce
+.
+Urgot resembles a number of quadrupeds from various other games.
+Makron
+(leader of the
+Strogg
+) from the
+Quake
+video game series.
+Azmodan
+the Lord of Sin from
+Diablo III
+.
+"The Spineless Ones"
+from the
+X-Men
+, the best-known of them being
+Mojo
+. They are a fat alien race of rotten appearance who can not move on their own without advanced technology.
+Yagrum Bagarn
+from
+The Elder Scrolls III: Morrowind
+.
+According to Babaganoosh, Urgot was unavailable for the Ionia vs Noxus match due to being damaged and needing considerable time to be repaired. He received a major strength buff in the following patch release.
+Urgot's dance references
+Kirby's
+Victory Dance
+.
+A side by side comparison can be seen
+here
+.
+In the
+V1.0.0.115
+April Fools' Day
+patch, he was jokingly listed to receive a skin called
+"Urfgot"
+, referencing
+Urf
+.
+Urgot, the Dreadnought
+Urgot
+is one of 21 champions without a single
+ability power
+ratio on any ability:
+Aatrox
+,
+Camille
+,
+Darius
+,
+Dr. Mundo
+,
+Draven
+,
+Garen
+,
+K'Sante
+,
+Kayn
+,
+Kled
+,
+Naafiri
+,
+Nilah
+,
+Olaf
+,
+Pyke
+,
+Riven
+,
+Samira
+,
+Sett
+,
+Talon
+,
+Xayah
+,
+Yone
+, and
+Zed
+.
+His dance references the
+Can-Can
+.
+He shares this dance with
+Elise
+and
+Final Boss Veigar
+.
+His login screen theme is sung in Noxian. The repeated chant is "Stom Ur Got!"
+[2]
+During his second champion spotlight for his rework,
+David 'Phreak' Turley
+jokingly said that Urgot will be the next
+Star Guardian
+, a reference to a long-standing
+joke
+in the community, which partially became true with
+Pajama Guardian Cosplay Urgot
+being released for the 2020
+April Fools' Day
+event.
+Urgot is able to kill the Enemy Target Dummies in the
+Practice Tool
+, by using
+Fear Beyond Death
+on them when they have 25% health or lower.
+Urgot's joke will cause him to retrieve an item:
+Poison Puffcap
+.
+Crab
+.
+Rubber Ducky
+.
+Gold Duck.
+[3]
+This item is a rare variant of the animation.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Juggernaut
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+Juggernauts
+are melee titans who relentlessly march down the opposition and devastate those foolish enough to get within their grasp. They are the only subclass who excel at both dealing and taking significant amounts of damage, but in turn they have a tough time closing in on targets due to their low range and extremely limited mobility.
+Examples
+Dr. Mundo
+Darius
+Mordekaiser
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Wind Wall
+COOLDOWN:
+25 / 23 / 21 / 19 / 17
+Active:
+Yasuo
+raises a wind wall that drifts in the target direction for a few seconds, blocking all enemy
+projectiles
+that hit it.
+League of Legends content
+Blade Whirl
+COOLDOWN:
+30 / 28 / 26 / 24 / 22
+Active:
+Samira
+briefly spins her blade twice, dealing
+physical damage
+to nearby enemies each time. During this time, she destroys all incoming enemy
+projectiles
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Jack in the Box
+COOLDOWN:
+15
+Active:
+Shaco
+summons a
+box
+at the target location that becomes
+stealthed
+after a short time.
+The
+box
+will spring out upon enemy contact,
+fearing
+nearby enemies for a short time. Enemy
+champions
+hit are also briefly
+rooted
+.
+The
+box
+will remain for a few seconds to automatically fire at nearby enemies, dealing
+magic damage
+that is increased when attacking only one enemy.
+League of Legends content
+Purge
+STATIC CD:
+0.
+5
+/
+0.
+25
+Passive:
+Urgot's
+other abilities
+mark
+enemy
+champions
+hit for a few seconds, only one enemy can be
+marked
+at a time. At max rank,
+Purge
+lasts indefinitely and becomes a
+toggled
+ability.
+Active:
+For a few seconds,
+Urgot
+becomes
+ghosted
+and autonomously attacks the nearest enemy at a
+fixed
+attack speed
+, prioritizing the
+marked
+enemy.
+Purge
+can be recast within the duration, and does so automatically afterwards.
+Recast:
+Urgot
+ends
+Purge
+.
+Purge
+attacks deal
+modified
+physical damage
+and cannot
+critically strike
+.
+Urgot
+gains
+slow resist
+and can move while firing, but his
+movement speed
+is reduced.
+League of Legends content
+Petrifying Gaze
+COOLDOWN:
+120 / 100 / 80
+Active:
+Cassiopeia
+blasts in a cone, dealing
+magic damage
+to enemies hit and
+stunning
+any that are facing her, while
+slowing
+any others with their back turned.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Slow resist
+Slow resist
+is a stat that directly reduces the effectiveness of
+slows
+.
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Basic attack
+The
+basic attack
+(or
+auto-attack
+) is the most basic means of a unit to deal damage to another unit, usually dealing
+100% AD
+. It has a brief cooldown based on the caster's current
+attack speed
+.
+All
+basic attacks
+are normally unit-targeted with their range limited by the caster's
+attack range
+, and have a brief attack
+windup
+. Damage is then dealt depending on the caster's range type:
+Melee
+and some projectile-less ranged attacks deal damage immediately.
+Ranged
+attacks usually send a projectile that follows the target and deals damage upon striking them. Projectiles can be intercepted by certain
+blocking
+effects.
+The damage event will trigger
+on-hit effects
+from buffs the caster may hold. If damage cannot be dealt, on-hit effects will not be triggered.
+On-attack
+effects will always trigger when the attack's
+windup
+completes.
+League of Legends content
+Berserk
+A unit that is
+berserk
+will attempt to perform basic attacks on a nearby unit for the duration, during which they're unable to perform issued movement or attack commands, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+. Any associated effects included with basic attacks can persist beyond the
+Berserk
+duration.
+Berserk
+is an
+immobilizing
+effect
+.
+Forced action effects
+cannot
+force the unit to perform an action that is disabled.
+Units that are
+berserk
+search for targets within a
+1000 radius of them. Sources of
+berserk
+have their own targeting priority system, including the
+berserked
+unit's allies. The target does not need to be visible for the
+berserked
+unit to attack them.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+and windups against the acquired target) and all
+channeled and charged
+abilities, as well as overrides previous
+Forced Action
+effects.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+References
+[
+edit
+|
+edit source
+]
+↑
+Urgot's profile page
+at
+LeagueOfLegends.com
+↑
+Urgot music chant
+↑
+Urgot Golden Duck

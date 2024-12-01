@@ -1,0 +1,2764 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Twisted Fate
+the Card Master
+Release date
+2009-02-21
+Last changed
+V14.21
+Class(es)
+Burst
+Legacy
+Mage
+Marksman
+Position(s)
+Middle
+Bottom
+Top
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+4800
+|
+585
+Crafting
++
+2880
+Ratings
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+2
+Utility
+2
+Style
+Difficulty
+Twisted Fate
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+TwistedFate
+Base statistics
+Edit
+Health
+604
++108
+Mana
+333
++39
+Health regen. (per 5s)
+5.5
++0.6
+Mana regen. (per 5s)
+8
++0.8
+Armor
+21
++4.35
+Attack damage
+52
++2.5
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+525
+Attack speed
+Base AS
+0.625
+Attack windup
+20%
+AS ratio
+0.651
+Bonus AS
++2.5
+%
+Missile speed
+1500
+Unit radius
+Gameplay radius
+65
+Selection radius
+110
+Pathing radius
+35
+Acq. radius
+750
+Special statistics
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Loaded Dice
+Innate:
+Whenever
+Twisted Fate
+kills an enemy, he generates a small amount of
+bonus
+gold
+based on chance.
+Since his dice are loaded,
+Twisted Fate
+has an increased chance of gaining
+maximum
+gold
+.
+Innate:
+Whenever
+Twisted Fate
+kills an enemy, he generates
+1 − 6 (based on probability)
+. He also has a chance equal to his
+critical strike chance
+to generate an additional
+1 − 6 (based on probability)
+.
+As you'd expect,
+Twisted Fate
+plays with loaded dice. His initial dice roll is weighted to have an increased chance of granting
+6
+, while his critical dice roll is weighted against him and has an increased chance of granting
+1
+.
+Info
+Targeting input
+Passive
+The expected bonus gold gained per unit killed is
+4
+.
+The expected additional gold due to critical strike chance is
+3
+.
+Map-Specific Differences
+Arena
+differences
+edit
+New Innate:
+Gain gold based on damage dealt to enemy champions, equal to a random amount between 2% and 8% of the damage, biased towards 8%.
+Edit
+Wild Cards
+COST:
+60 / 70 / 80 / 90 / 100 Mana
+COOLDOWN:
+6 / 5.
+75
+/ 5.
+5
+/ 5.
+25
+/ 5
+CAST TIME:
+0.
+25
+TARGET RANGE:
+1450
+ANGLE:
+56°
+SPEED:
+1000
+Active:
+Twisted Fate
+throws a fan of three cards in the target direction that each deal
+magic damage
+to enemies hit.
+Active:
+Twisted Fate
+throws a fan of three cards in a cone in the target direction that each deal
+magic damage
+to enemies hit.
+Magic Damage:
+60 / 105 / 150 / 195 / 240
+(+ 50%
+bonus
+AD)
+(+ 85% AP)
+Enemies can be damaged only once per pass.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+This ability will cast from wherever the caster is at the end of the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 70 / 120 / 170 / 220 / 270.
+AP ratio changed to
+100% AP
+.
+Edit
+Pick a Card
+COST:
+50 / 55 / 60 / 65 / 70 Mana
+COOLDOWN
+:
+6
+CAST TIME:
+none
+EFFECT RADIUS:
+325
+SPEED:
+1500
+Active:
+Twisted Fate
+cycles through three cards over the next few seconds.
+Pick a Card
+can be recast within the duration, which selects the current card hovered.
+Recast:
+Twisted Fate's
+next basic attack becomes empowered to deal
+magic damage
+and apply an additional effect based on the card selected.
+Blue Card Bonus:
+Deals significantly increased
+magic damage
+and restores
+mana
+.
+Red Card Bonus:
+Deals increased
+magic damage
+to the target and surrounding enemies,
+slowing
+them for a short time.
+Gold Card Bonus:
+Deals
+magic damage
+and briefly
+stuns
+the target.
+Active:
+Twisted Fate
+cycles through three cards for 6 seconds, hovering each for 0.
+5
+seconds at a time.
+Pick a Card
+can be recast within the duration, which selects the current card hovered.
+Recast:
+Twisted Fate
+empowers his next
+basic attack
+within 6 seconds to have a 0.
+25
+-second cast time, deal
+modified
+magic damage
+, and apply an additional effect based on the card selected. This damage cannot
+critically strike
+but is increased based on
+critical strike chance
+.
+Blue Card Bonus:
+Deals
+magic damage
+, increased by
+0% − 57.
+5
+% (based on critical strike chance)
+, and restores
+mana
+.
+Magic Damage:
+40 / 60 / 80 / 100 / 120
+(+ 100% AD)
+(+ 100% AP)
+Mana Restored:
+70 / 90 / 110 / 130 / 150
+Red Card Bonus:
+Deals
+magic damage
+to the target and surrounding enemies, increased by
+0% − 35% (based on critical strike chance)
+. All targets hit are
+slowed
+for 2.
+5
+seconds.
+Magic Damage:
+30 / 45 / 60 / 75 / 90
+(+ 100% AD)
+(+ 70% AP)
+Slow:
+30 / 35 / 40 / 45 / 50%
+Gold Card Bonus:
+Deals
+magic damage
+, increased by
+0% − 25% (based on critical strike chance)
+, and
+stuns
+the target for a duration.
+Magic Damage:
+15 / 22.
+5
+/ 30 / 37.
+5
+/ 45
+(+ 100% AD)
+(+ 50% AP)
+Stun Duration:
+1 / 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 seconds
+Pick a Card's recast
+resets
+Twisted Fate's
+basic attack timer. The recast can be used while affected by
+cast-inhibiting crowd control
+.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Parries
+Blocked
+Projectile
+Blocked
+The initial cast counts as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Recasting the ability does not.
+The first card shown is random but the order always remains the same (
+Blue Card
+,
+Red Card
+,
+Gold Card
+, repeat).
+Upon activation, an indicator visible to allies and enemies appears above
+Twisted Fate
+to show him shuffling his deck of cards while remaining in the same order, the card he can choose at every moment glows over the others. The selected card is specified for the duration of the enhanced attack.
+PENDING FOR TEST:
+The interval until the next card is hovered is
+0.
+528
+seconds
+every time, instead of some times 0.
+528
+and other times 0.
+495
+.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away during the empowered attack's cast time, it is cancelled but not consumed.
+The empowered attack will trigger against
+structures
+and
+buildings
+but not
+wards
+.
+Edit
+Stacked Deck
+Passive:
+Twisted Fate
+gains
+bonus
+attack speed
+. His basic attacks
+on-hit
+generate
+stacks
+of
+Stacked Deck
+, which stacks up to a cap. At max stacks, his next basic attack consumes them all to deal
+bonus
+magic damage
+.
+Passive:
+Twisted Fate
+gains
+bonus
+attack speed
+. His basic attacks
+on-hit
+generate a
+stack
+of
+Stacked Deck
+, stacking up to 3 times.
+At 3 stacks, his next basic attack is empowered to consume them all to deal
+bonus
+magic damage
+, reduced to 50% against structures.
+Twisted Fate
+gains maximum stacks of
+Stacked Deck
+upon learning the ability and on
+respawn
+.
+Bonus Attack Speed:
+10 / 20 / 30 / 40 / 50%
+Bonus Magic Damage:
+65 / 90 / 115 / 140 / 165
+(+ 25%
+bonus
+AD)
+(+ 40% AP)
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+Magic
+Counters
+Spell shield
+Not Blocked
+Parries
+See Notes
+Projectile
+Blocked
+Stacked Deck
+can be
+dodged
+and/or missed if
+Twisted Fate
+is
+blinded
+(the on-hit effect is not consumed in either case) but cannot be
+blocked
+(the enhanced attack is consumed and the bonus damage is still applied).
+The empowered attack will trigger against
+structures
+but not
+wards
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 65 / 115 / 165 / 215 / 265.
+Edit
+Destiny
+COST:
+100 Mana
+COOLDOWN
+:
+180 / 150 / 120
+CAST TIME:
+none
+TARGET RANGE:
+5500
+EFFECT RADIUS:
+Global
+Active:
+Twisted Fate
+marks all enemy champions,
+revealing
+them for a few seconds.
+Destiny
+can be recast within the duration.
+Recast - Gate:
+Twisted Fate
+briefly
+channels
+before
+blinking
+to the target location,
+destroying
+all incoming
+projectiles
+.
+Active:
+Twisted Fate
+marks all targetable enemy champions,
+revealing
+them for a duration.
+Destiny
+can be recast after 0.
+5
+seconds within the duration.
+Effect Duration:
+6 / 8 / 10 seconds
+Recast - Gate:
+Twisted Fate
+channels
+for 1.
+5
+seconds before
+blinking
+to the target location,
+destroying
+all
+projectiles
+targeting him in the process.
+"No fightin' destiny."
+Info
+Targeting input
+Auto
+/
+Location
+Counters
+Spell shield
+Blocked
+Grounded
+See Notes
+Disruption
+Interrupted
+Both casts count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Twisted Fate
+cannot recast
+Destiny
+while
+grounded
+or
+rooted
+.
+The
+nearsight
+from
+Paranoia
+will overpower the
+reveal
+from
+Destiny
+regardless of which one was cast first (enemy champions can still be revealed by
+Destiny
+after
+Paranoia
+ends if durations permit).
+Using the recast will inform allies with a
+ping
+.
+Both allies and enemies can see an indicator at the targeted location of where
+Twisted Fate
+will appear.
+The following table refers for interactions while
+Twisted Fate
+is
+channeling
+:
+Item actives with cast times as well as
+Titanic Hydra
+are disabled during the channel.
+Trying to cast a disabled item active will buffer it to cast at the completion of the channel.
+Type
+Channel
+Attacking
+Disabled
+Abilities
+Pick a Card
+is usable.
+Wild Cards
+is disabled.
+Movement
+Disabled
+Items
+Usable
+All the other item-actives are usable
+Disabled
+N/A
+Interrupted by
+Zhonya's Hourglass
+Consumables
+Usable
+Spells
+Usable
+N/A
+Disabled
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Teleport
+Recall
+Hexflash
+Mark
+Dash
+Interrupted by
+N/A
+Interrupted by
+Death
+Grounding effects
+Immobilizing effects
+Cast-inhibiting effects
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Twisted Fate (Collection)
+.
+Original
+View in 3D
+585
+21.02.2009
+Twisted Fate is an infamous cardsharp and swindler who has gambled and charmed his way across much of the known world, earning the enmity and admiration of the rich and foolish alike. He rarely takes things seriously, greeting each day with a mocking smile and an insouciant swagger. In every possible way, Twisted Fate always has an ace up his sleeve.
+Owen Thomas
+Unknown artist
+Loot eligible
+PAX
+View in 3D
+Special
+03.09.2009
+A special event skin given away at PAX 2009.
+Owen Thomas
+Unknown artist
+PAX
+Loot ineligible
+Jack of Hearts
+View in 3D
+520
+10.02.2010
+Second, the Jack, with a thunderous crack
+Trounces fate in the blink of an eye!
+In winnings he counts all the hearts of the court
+Who will swoon every time he walks by.
+Owen Thomas
+Michal Ivan, Sixmorevodka Studio
+Highstakes
+Loot eligible
+The Magnificent
+View in 3D
+1820
+17.05.2010
+Owen Thomas
+Unknown artist
+Legacy
+Loot eligible
+Legacy
+New SFX/VFX
+Tango
+View in 3D
+520
+05.10.2010
+Owen Thomas
+Bo 'chenbowow' Chen
+High Society
+Loot eligible
+High Noon
+View in 3D
+975
+17.05.2011
+Resident cardsharp of every dice parlour and gambling den on the high frontier, Tobias 'Twisted Fate' Felix likes to split his time between Buzzard Gulch, and the more civilized border towns. He specializes in breaking the hearts and bank accounts—in either order—of amiably naive debutantes.
+Owen Thomas
+Charles 'Yideth' Liu
+High Noon
+Loot eligible
+New SFX/VFX
+Musketeer
+View in 3D
+750
+21.11.2011
+Twisted Fate was never supposed to be among the Order of the Musketeers, especially coming from a lowborn family. But his charm and quick wit—along with his skill in combat—helped him save the monarchy from a dastardly plot, earning him a place among the elite. Unfortunately for them, he prefers swashbuckling adventures to his actual duty.
+Owen Thomas
+Unknown artist
+Fables
+Loot eligible
+Underworld
+View in 3D
+975
+26.10.2012
+For those dreading their inevitable meeting with Death, Twisted Fate offers another path. If they win his game of chance, a life of luxury awaits them. If they lose, he gladly adds yet another card to his ever-growing deck of doomed souls.
+Owen Thomas
+Kienan 'Knockwurst' Lafferty
+Trick-or-Treat
+Loot eligible
+Legacy
+New SFX/VFX
+Red Card
+View in 3D
+750
+18.06.2014
+Tobias spends much of his spare time as a sanctioned referee for Order United matches. Sure, there are card games to cheat at, and gambling parlors to swindle, but it just doesn't compare to a heated game of soccer.
+Owen Thomas
+Unknown artist
+Soccer Cup
+Loot eligible
+Legacy
+Cutpurse
+View in 3D
+750
+21.07.2015
+Looking to hire some muscle for an above-the-board, highly legitimate business venture? Look no further than Twisted Fate and his furry companion Graves, two men who will do anything (and we mean anything) to anybody (and we mean anybody) for the right price (any price). Inquire within!
+Owen Thomas
+Christian Fell
+Bilgewater: Burning Tides
+Loot eligible
+New SFX/VFX
+Blood Moon
+View in 3D
+1350
+09.02.2017
+The Blood Moon cult's true leader is shrouded in whispers and hearsay. It is he who first passed the trial of the masks, and he who unraveled the secrets of surrendering one's flesh to the demon spirits. Whether he is still human, none can say—but he is ever present, and always watching.
+Owen Thomas
+Viktor Titov, Grafit Studio
+Blood Moon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Pulsefire
+View in 3D
+1350
+17.05.2018
+Swindling his way past the chrono-enforcers, Twisted Fate has made himself known by pulling off grand heists, across various timelines. Always just moments ahead of the law, with stolen riches in his pocket, he knows the alleyways of time make for the quickest of getaways…
+Owen Thomas
+Jojo So
+Pulsefire
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Pulsefire Twisted Fate Chromas
+Chrono
+Odyssey
+View in 3D
+1350
+15.10.2020
+A space smuggler erroneously known for discretion, as well as his impractically famous ship, The Wildcard, Twisted Fate was hired by Karma to free some templars from some space pirates. He has only just begun to notice that the other mercs on the job are better known for wetwork than simple heists...
+Owen Thomas
+David Villegas, West Studio
+Odyssey
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Odyssey Twisted Fate Chromas
+Aquamarine
+Catseye
+Emerald
+Merc
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+DWG
+View in 3D
+1350
+29.04.2021
+Honoring ShowMaker's winning performance as Twisted Fate during the 2020 World Championship.
+Owen Thomas
+Jennifer Wuestling
+World Champions: 2020
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+DWG Twisted Fate Chromas
+Elite
+Crime City Nightmare
+View in 3D
+1350
+26.08.2021
+No one knows if the Mysterious Gentleman is human or something Else, but he has somehow injected himself into every crime family in Valoran City. With honeyed words and a conman's grin, he convinced them all to embrace the horrors of the Beyond... Now the only thing to do is sit back and watch them tear each other apart.
+Owen Thomas
+Edward Chee, West Studio
+Crime City Nightmare
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Crime City Nightmare Twisted Fate Chromas
+Amethyst
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Underground
+Space Groove
+View in 3D
+1350
+17.11.2022
+He may be a scoundrel, but Twisted Fate is known the galaxy over as someone who gets things done. But even he can't find a trace of his long lost partner, Graves. So when some cats offered him intel on Graves' whereabouts in exchange for the location of the legendary underground disco, The Jam, he happily obliged. What's a few party crashers, anyway?
+Owen Thomas
+Eric Xie, West Studio
+Space Groove
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Space Groove Twisted Fate Chromas
+Catseye
+Emerald
+Obsidian
+Rainbow
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.21
+General
+Recommended runes updated.
+Electrocute
+to
+Arcane Comet
+.
+V14.17
+Wild Cards
+Base damage increased to 60 / 105 / 150 / 195 / 240 from 60 / 100 / 140 / 180 / 220.
+V14.12
+Stats
+Attack damage growth reduced to 2.
+5
+from 3.
+3
+.
+Wild Cards
+AP ratio reduced to
+85% AP
+from
+90% AP
+.
+Pick a Card
+Mana cost increased to 50 / 55 / 60 / 65 / 70 from 30 / 40 / 50 / 60 / 70.
+Blue card mana restore increased to 70 / 90 / 110 / 130 / 150 from 50 / 75 / 100 / 125 / 150.
+V14.6
+Pick a Card
+New Effect:
+Can now be recast during cast times (
+Recall
+or Hex-gate).
+V14.5
+Stacked Deck
+Bonus attack speed reduced to 10 / 20 / 30 / 40 / 50% from 10 / 22.
+5
+/ 35 / 47.
+5
+/ 60%.
+Bonus AD ratio reduced to
+25%
+bonus
+AD
+from
+75%
+.
+V14.4
+Stats
+Attack speed growth reduced to 2.
+5
+% from 3%.
+Pick a Card
+Blue card AP ratio reduced to
+100% AP
+from
+115% AP
+.
+Stacked Deck
+AP ratio reduced to
+40% AP
+from
+50% AP
+.
+V14.3
+Stacked Deck
+Bug Fix:
+Now properly grants stacks from attacks against inhibitors and the Nexus.
+V14.2
+- January 24th Hotfix
+Pick a Card
+Bug Fix:
+Red Card now properly slows the primary target again.
+V14.2
+Stats
+Base attack speed reduced to 0.
+625
+from 0.
+651
+.
+Attack speed growth reduced to 3% from 3.
+22
+%.
+Loaded Dice
+New Effect:
+Now has a chance equal to his critical strike chance to roll another dice, weighted towards
+1
+.
+Wild Cards
+New Effect:
+Damage now scales with
+50%
+bonus
+AD
+.
+Pick a Card
+New Effect:
+Blue card damage is now increased by
+0% − 57.
+5
+% (based on critical strike chance)
+.
+New Effect:
+Red card damage is now increased by
+0% − 35% (based on critical strike chance)
+.
+New Effect:
+Gold card damage is now increased by
+0% − 25% (based on critical strike chance)
+.
+New Effect:
+Recasting to lock in a card now resets his basic attack timer.
+New Effect:
+Empowered attack is now consumed against both inhibitors and the Nexus, rather than only turrets, to deal damage.
+Stacked Deck
+Bonus attack speed increased to 10 / 22.
+5
+/ 35 / 47.
+5
+/ 60% from 10 / 17.
+5
+/ 25 / 32.
+5
+/ 40%.
+New Effect:
+Damage now scales with
+75%
+bonus
+AD
+.
+New Effect:
+Stacks can now be consumed against structures to deal 50% damage.
+New Effect:
+Now grants maximum stacks upon learning the skill and on respawn.
+V13.22
+Stats
+Attack windup reduced to 20% from 24.
+403562
+%.
+V13.17
+Wild Cards
+AP ratio increased to
+90% AP
+from
+80% AP
+.
+Destiny
+Bug Fix:
+Eyeball VFX now lasts for the correct duration according to the ability's rank, instead of always using the equivalent of rank 3's duration.
+V13.11
+Pick a Card
+Cooldown reduced to 6 seconds at all ranks from 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6.
+V13.1
+Wild Cards
+Cooldown reduced to 6 / 5.
+75
+/ 5.
+5
+/ 5.
+25
+/ 5 seconds from 6 at all ranks.
+Pick a Card
+Blue card AP ratio increased to
+115% AP
+from
+90% AP
+.
+Red card AP ratio increased to
+70% AP
+from
+60% AP
+.
+V12.17
+Wild Cards
+AP ratio increased to
+80% AP
+from
+70% AP
+.
+Pick a Card
+Mana cost reduced to 30 / 40 / 50 / 60 / 70 from 40 / 55 / 70 / 85 / 100.
+V12.14
+General
+Bug Fix:
+Knocked up/stunned animation is now correctly played.
+V12.10
+Stats
+Base health increased to 604 from 534.
+Health growth increased to 108 from 94.
+Armor growth increased to 4.
+35
+from 3.
+15
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+General
+Updated visual effects.
+Original Twisted Fate
+Complete overhaul.
+PAX Twisted Fate
+,
+Jack of Hearts Twisted Fate
+,
+Tango Twisted Fate
+,
+Musketeer Twisted Fate
+,
+Red Card Twisted Fate
+Same as new base.
+The Magnificent Twisted Fate
+Complete overhaul.
+High Noon Twisted Fate
+Complete overhaul.
+Underworld Twisted Fate
+Complete overhaul.
+Cutpurse Twisted Fate
+Changes to mirror new base.
+Blood Moon Twisted Fate
+Changes to mirror new base.
+Pulsefire Twisted Fate
+Minor changes.
+Odyssey Twisted Fate
+Minor changes.
+Crime City Nightmare Twisted Fate
+Minor changes.
+V12.3
+- February 3rd Hotfix
+Pick a Card
+Bug Fix:
+Now properly uses a 0.
+25
+-second cast time for the empowered attack.
+V12.3
+Wild Cards
+Base damage reduced to 60 / 100 / 140 / 180 / 220 from 60 / 105 / 150 / 195 / 240.
+AP ratio increased to
+70% AP
+from
+65% AP
+.
+Pick a Card
+Undocumented:
+No longer uses a 0.
+25
+-second cast time for the empowered attack.
+Stacked Deck
+Bonus attack speed reduced to 10 / 17.
+5
+/ 25 / 32.
+5
+/ 40% from 20 / 25 / 30 / 35 / 40%.
+V11.18
+Crime City Nightmare Twisted Fate
+New unique sound effect for basic attacks.
+Heavier sound effects for empowered basic attacks.
+V10.23
+Stats
+Mana growth increased 39 from 19.
+V10.19
+Stats
+Base movement speed reduced to 330 from 335.
+V10.15
+Pick a Card
+Cooldown increased to 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6 seconds from 6 at all ranks.
+V10.10
+Stats
+Base attack damage increased to 52 from 49.
+954
+.
+Base armor increased to 21 from 20.
+542
+.
+Destiny
+Mana cost reduced to 100 at all ranks from 150 / 125 / 100.
+V10.6
+Pick a Card
+Blue card AP ratio increased to
+90% AP
+from
+50% AP
+.
+Red card AP ratio increased to
+60% AP
+from
+50% AP
+.
+V9.22
+Destiny
+Bug Fix:
+No longer blocks projectiles (like turret or dragon attacks) if it is interrupted.
+V9.19
+Stacked Deck
+Bonus attack speed increased to 20 / 25 / 30 / 35 / 40% from 10 / 15 / 20 / 25 / 30%.
+Base damage increased to 65 / 90 / 115 / 140 / 165 from 55 / 80 / 105 / 130 / 155.
+V9.12
+General
+Adjusted splash artwork for
+Jack of Hearts Twisted Fate
+.
+V9.4
+General
+Bootless walk animation added.
+Cape turns more realistically as he moves.
+V9.1
+Pick a Card
+New Effect:
+Ability icon border now shows the remaining time to recast the ability.
+Destiny
+New Effect:
+Ability icon border now shows the remaining time to recast the ability.
+Gate
+New Effect:
+Can now ping whether the ability is within range or not.
+V8.22
+Stacked Deck
+Bug Fix:
+No longer breaks if he uses the empowered attack on a
+Teemo's
+shroom
+.
+V8.20
+General
+Adjusted splash artwork for
+Jack of Hearts Twisted Fate
+.
+V8.14
+Stacked Deck
+Bug Fix:
+Empowered attacks now correctly deal their bonus damage if he dies while they are traveling.
+Bug Fix:
+Counter no longer gets confused after he is affected by a revival effect.
+Pulsefire Twisted Fate
+Bug Fix:
+Updates have been made to increase gameplay clarity.
+V8.9
+Stats
+Base mana increased to 333 from 265.
+84
+.
+Mana growth reduced to 19 from 38.
+Base mana regeneration increased to 8 from 6.
+V8.8
+Blood Moon Twisted Fate
+Bug Fix:
+Recall animation no longer has missing pixels.
+V8.3
+Stats
+Base health regeneration reduced to 5.
+5
+from 5.
+508
+.
+V7.22
+Stats
+Base health increased to 534 from 521.
+76
+.
+Health growth increased to 94 from 82.
+V7.20
+New splash artwork for
+Tango Twisted Fate
+.
+V7.17
+Pick a Card
+Bug Fix:
+Empowered basic attacks no longer consume all Energized buff charges.
+V7.15
+Stats
+Base movement speed increased to 335 from 330.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.6
+Pick a Card
+Bug Fix:
+Colorblind readability improvements.
+V6.16
+Stacked Deck
+Bug Fix:
+Recall
+being canceled by pressing E when at rank 2 or higher.
+V6.8
+General
+Splash artwork for
+Musketeer Twisted Fate
+updated to the Chinese art.
+V6.7
+Pick a Card
+Bug Fix:
+Blue Card
+sometimes not restoring mana when hitting
+tentacles
+or
+mushrooms
+.
+March 10th Hotfix
+Cutpurse Twisted Fate
+Pick a Card
+Bug Fix:
+Indicator over Twisted Fate's head missing transparency on unpicked cards during selection cycle.
+V5.24
+Wild Cards
+Base damage reduced to 60 / 105 / 150 / 195 / 240 from 60 / 110 / 160 / 210 / 260.
+V5.11
+General
+Adjusted splash artwork for
+Jack of Hearts Twisted Fate
+.
+V5.9
+General
+New splash artwork for
+Jack of Hearts Twisted Fate
+.
+V5.6
+General
+New ability icons.
+V5.3
+Stacked Deck
+New Effect:
+Attacking turrets generates stacks but does not consume the enhanced attack.
+Destiny
+New Effect:
+Twisted Fate issues an 'on my way' ping upon casting
+Gate
+.
+V4.15
+Destiny
+Bug Fix:
+Revealing
+Stealth Wards
+under certain circumstances.
+V4.5
+Stats
+Base armor increased to 15.
+25
+from 11.
+25
+.
+Pick a Card
+Card selection duration reduced to 6 seconds from 8.
+Card usage duration increased to 6 seconds from 4.
+V4.4
+Pick a Card
+AP ratio increased to
+50% AP
+from
+40% AP
+.
+Stacked Deck
+AP ratio increased to
+50% AP
+from
+40% AP
+.
+V4.3
+Pick a Card
+New selection particle.
+V4.1
+Wild Cards
+Targeting indicator updated to show each individual targeting lines.
+V3.10
+Loaded Dice
+Removed:
+Granting Twisted Fate and his allies
+2
+per unit killed.
+New Effect:
+Twisted Fate rolls his dice every time he kills an enemy, randomly gaining
+1
+to
+6
+but (naturally) having a higher chance to gain
+6
+.
+Pick a Card
+Card selection duration reduced to 8 seconds from 10.
+Card usage duration reduced to 4 seconds from 10.
+V3.7
+Pick a Card
+Blue Card
+mana restoration changed to 50 / 75 / 100 / 125 / 150 from
+「 65% damage dealt 」
+「 26 / 39 / 52 / 65 / 78
+(+ 65% AD)
+(+ 26% AP)
+」
+.
+Stacked Deck
+Removed:
+Passively granting 3 / 6 / 9 / 12 / 15% cooldown reduction.
+Bonus attack speed increased to 10 / 15 / 20 / 25 / 30% from 3 / 6 / 9 / 12 / 15%.
+Destiny
+Cooldown increased to 180 / 150 / 120 seconds from 150 / 135 / 120.
+Tooltip updated.
+Undocumented:
+Gate
+channel time reduced to 1.
+5
+seconds from 2.
+V3.02
+Pick a Card
+Removed:
+Enhanced attack being consumed when hitting wards.
+Stacked Deck
+Removed:
+Enhanced attack being consumed when hitting wards.
+V1.0.0.152
+Stats
+Movement speed increased to 330 from 305.
+V1.0.0.151
+Pick a Card
+Bug Fix:
+Blue Card
+mana restoration display error in tooltip.
+V1.0.0.150
+General
+New splash artwork for
+High Noon Twisted Fate
+.
+Pick a Card
+Bug Fix:
+Error when enhanced attack damages wards.
+V1.0.0.149
+General
+Visual Update.
+New models and textures for all skins.
+New splash artwork for
+Original Twisted Fate
+.
+New voice-over.
+V1.0.0.142
+Jack of Hearts Twisted Fate
+General
+Bug Fix:
+Name display error during loading screen.
+V1.0.0.141
+General
+Splash artwork for
+Original Twisted Fate
+,
+PAX Twisted Fate
+,
+Jack of Hearts Twisted Fate
+,
+The Magnificent Twisted Fate
+and
+Tango Twisted Fate
+updated to the Chinese art.
+V1.0.0.140
+Loaded Dice
+New Effect:
+Buff tooltip displays total gold earned on a per-unit basis.
+V1.0.0.131
+Stats
+Attack range increased to 525 from 510
+Pick a Card
+Removed:
+Twisted Fate randomly attacking targets after selecting a card.
+Removed:
+Twisted Fate ceasing to attack targets when performing an attack command issued before selecting a card.
+Removed:
+Twisted Fate ceasing to attack his current target after selecting a card.
+V1.0.0.122
+Destiny
+Gate
+range reduced to 5500 from global.
+V1.0.0.120
+Loaded Dice
+New Effect:
+Is disabled while Twisted Fate is dead.
+Pick a Card
+Removed:
+Blue Card
+mana restoration being reduced if the enhanced attack hits a target being affected by a shield.
+Destiny
+Bug Fix:
+Gate's
+channel not being interrupted when Twisted Fate uses
+Zhonya's Hourglass
+.
+V1.0.0.119
+General
+New splash artwork for
+Original Twisted Fate
+.
+V1.0.0.118
+Stacked Deck
+New Effect:
+Icon turns grey when not fully stacked.
+V1.0.0.116
+Pick a Card
+Blue Card
+mana restoration increased to
+「 65% damage dealt from 50% 」
+「 26 / 39 / 52 / 65 / 78
+(+ 65% AD)
+(+ 26% AP)
+from 20 / 30 / 40 / 50 / 60
+(+ 50% AD)
+(+ 20% AP)
+」
+.
+V1.0.0.115
+Tango Twisted Fate
+Run animation updated.
+Pick a Card
+New Effect:
+Twisted Fate's enhanced attack deals entirely magic damage (basic attack physical damage is converted to magic upon selecting a card)
+Bug Fix:
+Particle effect over Twisted Fate's head displaying selected card becoming invisible to enemies after they leave brush.
+Tooltip updated.
+Blue Card
+mana restoration reduced to
+「 50% damage dealt from 100% 」
+「 20 / 30 / 40 / 50 / 60
+(+ 50% AD)
+(+ 20% AP)
+from 40 / 60 / 80 / 100 / 120
+(+ 100% AD)
+(+ 40% AP)
+」
+.
+Bug Fix:
+Red Card
+sometimes failing to damage targets moving away from Twisted Fate.
+Bug Fix:
+Red Card
+damage not matching tooltip.
+Bug Fix:
+Gold Card
+damage not matching tooltip.
+Destiny
+New Effect:
+Has a timer for
+Gate's
+duration.
+Bug Fix:
+Displaying as available in allied ultimate HUD indicator even if it isn't.
+Bug Fix:
+Duration display error in tooltip (6 / 8 / 10 seconds instead of the intended 6 at all ranks)
+Bug Fix:
+Twisted Fate bypassing
+Gate's
+channel by using
+Cleanse
+or
+Quicksilver
+to blink instantly.
+V1.0.0.106
+Pick a Card
+Bug Fix:
+Enhanced attacks not being consumed while Twisted Fate is taunted or silenced.
+V1.0.0.105
+Destiny
+Bug Fix:
+Gate's
+channel not being interrupted while Twisted Fate is suppressed.
+V1.0.0.103
+Pick a Card
+Blue Card
+base damage increased to 40 / 60 / 80 / 100 / 120 from 30 / 45 / 60 / 75 / 90.
+Blue Card
+base mana restoration increased to 40 / 60 / 80 / 100 / 120 from 30 / 45 / 60 / 75 / 90.
+V1.0.0.100
+Gate
+Removed:
+Being able to cast while Twisted Fate is rooted (
+Destiny
+unchanged)
+V1.0.0.97
+Pick a Card
+Bug Fix:
+Selected card's sound and particle effects playing every time Twisted Fate attacks an inhibitor.
+V1.0.0.96
+Pick a Card
+Removed:
+Enhanced attacks being affected by dodge chance and blind.
+Bug Fix:
+Blue Card
+restoring mana even if target dies before being hit.
+V1.0.0.87
+Wild Cards
+AP ratio increased to
+65% AP
+from
+50% AP
+.
+Pick a Card
+Bug Fix:
+Red Card
+dealing fluctuating area-of-effect damage instead of always the intended amount.
+Bug Fix:
+Red Card's
+slow duration being refreshed by
+Blessing of the Lizard Elder
+.
+Bug Fix:
+Gold Card's
+tooltip displaying the damage amount from AP ratio as being
+Red Card's
+and
+Blue Card's
+base damages combined (instead of the intended
+40% AP
+)
+Stacked Deck
+Bonus attack speed reduced to 3 / 6 / 9 / 12 / 15% from 6 / 12 / 18 / 24 / 30%.
+Base damage reduced to 55 / 80 / 105 / 130 / 155 from 60 / 90 / 120 / 150 / 180.
+AP ratio increased to
+40% AP
+from
+30% AP
+.
+V1.0.0.86
+Destiny
+Bug Fix:
+Gate's
+channel not being interrupted when Twisted Fate is stunned, taunted, or feared.
+V1.0.0.83
+Pick a Card
+Bug Fix:
+Red Card's
+area-of-effect damage bypassing
+spell shields
+.
+V1.0.0.82
+Loaded Dice
+In-client description updated.
+Stacked Deck
+Bug Fix:
+Bonus damage affecting turrets.
+New sound effect.
+V1.0.0.79
+Gameplay Update
+Loaded Dice
+-
+New I
+Twisted Fate and his allies gain
+2
+per unit killed.
+Wild Cards
+AP ratio reduced to
+50% AP
+from
+75% AP
+Cooldown increased to 6 seconds from 5.
+Pick a Card
+Cooldown increased to 6 seconds from 5.
+Removed:
+Card effects bypassing dodge chance and blind.
+Bug Fix:
+Card effects (partly) bypassing
+spell shields
+.
+New Effect:
+Cards can be selected by clicking the icon on HUD (changes color per card while cycling)
+Blue Card
+damage changed to 30 / 45 / 60 / 75 / 90
+(+ 40% AP)
+.
+Removed:
+Blue Card
+allowing Twisted Fate to redraw a card.
+New Effect:
+Blue Card
+restores
+「 (100% damage dealt) 」
+「 30 / 45 / 60 / 75 / 90
+(+ 40% AP)
+」
+mana
+.
+Red Card
+base damage changed to 30 / 45 / 60 / 75 / 90
+Red Card
+AP ratio reduced to
+40% AP
+from
+50% AP
+.
+Red Card
+slow changed to 30 / 35 / 40 / 45 / 50%.
+Red Card
+slow duration increased to 2.
+5
+seconds from 1.
+Removed:
+Red Card
+crippling enemy attack speed.
+Gold Card
+base damage reduced to 15 / 22.
+5
+/ 30 / 37.
+5
+/ 45 from 40 / 80 / 120 / 160 / 200.
+Gold Card
+AP ratio reduced to
+40% AP
+from
+50% AP
+.
+Gold Card
+stun duration changed to 1.
+2
+/ 1.
+4
+/ 1.
+6
+/ 1.
+8
+/ 2 seconds from 1.
+25
+at all ranks.
+Stacked Deck
+-
+New E
+Twisted Fate passively gains
+6 / 12 / 18 / 24 / 30%
+bonus
+attack speed
+, 3 / 6 / 9 / 12 / 15% cooldown reduction, and every fourth basic attack deals 90 / 120 / 150 / 180 / 210
+(+ 30% AP)
+bonus
+magic damage.
+Destiny
+Removed:
+Slow.
+New Effect:
+Twisted Fate can cast
+Gate
+once within the duration to blink to the target location.
+Duration increased to 6 seconds at all ranks from 4 / 5 / 6.
+Cooldown increased to 150 / 135 / 120 seconds from 130 / 110 / 90.
+Mana cost reduced to 150 / 125 / 100 from 150 at all ranks.
+Trivia
+[
+edit
+|
+edit source
+]
+Twisted Fate's name is a play on the phrase
+twist of fate
+, befitting his theme of chances and probability.
+The cinematic he stars in,
+A Twist of Fate
+, is directly named after this phrase.
+Many of Twisted Fate's abilities were named after real-life gambling or card-related terms.
+Loaded Dice
+are
+tampered dice
+that have a higher probability of having a certain side face up.
+Wild Cards
+references a
+wild card
+, which is a card that can represent any value in various card games.
+Pick a Card
+references the commonly used
+phrase
+that magicians say to their participants for card tricks.
+Stacked Deck
+references card decks that are
+unfairly stacked
+in order to give someone an advantage.
+Gate
+references the
+eponymous card game
+.
+Twisted Fate was one of the
+first six
+champions designed (the
+others
+being
+Annie
+,
+Lee Sin
+Singed
+,
+Sion
+, and
+Sivir
+).
+Twisted Fate's dance references
+Gangnam Style
+by
+Psy
+.
+A side-by-side comparison can be seen
+here
+.
+Twisted Fate is the third champion to feature vocals while dancing (the others being
+Draven
+and
+Rengar
+).
+Twisted Fate's eyes glow cyan in-game (only Cutpurse has his pupils visible) but they do not in
+A Twist of Fate
+.
+The icon for
+Loaded Dice
+is reused for the
+Teamfight Tactics
+item
+Loaded Dice
+.
+The
+Blue Card
+is also used to depict
+Gate
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Burst
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Burst Mages
+aim to single out vulnerable targets by locking them down and following up with a devastating barrage of damage from range. They are strongest when using their full suite of spells executed perfectly to maximum effect, and most vulnerable when they cannot deliver.
+Examples
+Annie
+Syndra
+Veigar
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Bottom
+Within a
+drafted team
+, the
+Bottom Carry
+is one of the two champions assigned to the bottom lane alongside the
+Support
+. Being the most vulnerable, the
+Bottom Carry
+has to acquire as much gold as possible to purchase key items that will greatly increase their fighting potential.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Bottom Carry
+is expected to fulfill the former designation: the position is made for champions that highly depend on item-based power spikes.
+Marksmen
+are the most likely champions to be selected in the
+Bottom Carry
+position.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Cast-inhibiting crowd control
+A unit that is affected by
+cast-inhibiting crowd control
+is unable to cast abilities, activate items, or use summoner spells. The following crowd control effects disable casting of all spells and abilities as well as interrupts all
+channels
+:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Note that
+Disrupt
+is not a status effect and solely interrupts channels, and thus cannot fall under this classification.
+Root
+and
+Ground
+only disable movement spells and abilities.
+Stasis
+and
+Suppression
+are the only crowd control effects that disable all summoner spells from use; all other cast-inhibiting crowd control only disable movement summoner spells.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Pick a Card
+COOLDOWN:
+6
+Active:
+Twisted Fate
+cycles through three cards over the next few seconds.
+Pick a Card
+can be recast within the duration, which selects the current card hovered.
+Recast:
+Twisted Fate's
+next basic attack becomes empowered to deal
+magic damage
+and apply an additional effect based on the card selected.
+Blue Card Bonus:
+Deals significantly increased
+magic damage
+and restores
+mana
+.
+Red Card Bonus:
+Deals increased
+magic damage
+to the target and surrounding enemies,
+slowing
+them for a short time.
+Gold Card Bonus:
+Deals
+magic damage
+and briefly
+stuns
+the target.
+League of Legends content
+Pick a Card
+COOLDOWN:
+6
+Active:
+Twisted Fate
+cycles through three cards over the next few seconds.
+Pick a Card
+can be recast within the duration, which selects the current card hovered.
+Recast:
+Twisted Fate's
+next basic attack becomes empowered to deal
+magic damage
+and apply an additional effect based on the card selected.
+Blue Card Bonus:
+Deals significantly increased
+magic damage
+and restores
+mana
+.
+Red Card Bonus:
+Deals increased
+magic damage
+to the target and surrounding enemies,
+slowing
+them for a short time.
+Gold Card Bonus:
+Deals
+magic damage
+and briefly
+stuns
+the target.
+League of Legends content
+Pick a Card
+COOLDOWN:
+6
+Active:
+Twisted Fate
+cycles through three cards over the next few seconds.
+Pick a Card
+can be recast within the duration, which selects the current card hovered.
+Recast:
+Twisted Fate's
+next basic attack becomes empowered to deal
+magic damage
+and apply an additional effect based on the card selected.
+Blue Card Bonus:
+Deals significantly increased
+magic damage
+and restores
+mana
+.
+Red Card Bonus:
+Deals increased
+magic damage
+to the target and surrounding enemies,
+slowing
+them for a short time.
+Gold Card Bonus:
+Deals
+magic damage
+and briefly
+stuns
+the target.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+True sight
+True Sight
+reveals units through
+fog of war
+,
+brush
+, and
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Blink
+A
+blink
+refers to a form of movement whereby a unit displaces from point A to B without traversing the space between.
+League of Legends content
+Homing projectile destruction
+Destroying
+or
+popping of a projectile
+references an effect that destroys all homing
+missiles
+currently targeting a specific unit, such as ranged projectile-based
+basic attacks
+. Destroyed missiles will do the same thing as if they were destroyed by
+Wind Wall
+or
+Blade Whirl
+(usually vanishing without any effect).
+The following abilities perform one or more
+projectile popping events
+:
+Most
+abilities and effects that grant
+untargetability
+pop projectiles when the unit gains the status effect.
+Master Yi's
+Alpha Strike
+in particular pops targeted projectiles on each game tick for its duration.
+Gwen's
+Hallowed Mist
+pops all projectiles (from enemy champions outside of its area of effect) targeted at her that attempt to pass through or be inside its area of effect.
+Upon entering or leaving
+Mordekaiser's
+Realm of Death
+.
+Upon successfully completing the
+channel
+of:
+Shen's
+Stand United
+Twisted Fate's
+Gate
+Teleport
+League of Legends content
+Projectile
+A
+projectile
+or
+missile
+is any entity not classified as a unit (
+champion
+,
+minion
+,
+monster
+, etc.
+) that travels at any given velocity.
+Moving units are
+not
+considered projectiles under any circumstance (
+including
+dashing
+units,
+airborne
+units, or units thrown by some abilities such as
+Force of Will
+or
+Roar of the Slayer
+.
+).
+Braum's
+Unbreakable
+,
+Samira's
+Blade Whirl
+, and
+Yasuo's
+Wind Wall
+can block, destroy and / or stop projectiles.
+Some
+ranged
+basic attacks (
+including
+turrets
+) and abilities don't use projectiles and will bypass projectile-blocking effects.
+Some abilities will
+destroy
+all currently incoming homing projectiles.
+References
+[
+edit
+|
+edit source
+]
+↑
+Twisted Fate's profile page
+at
+LeagueOfLegends.com

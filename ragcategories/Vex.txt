@@ -1,0 +1,2129 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Vex
+the Gloomist
+Release date
+2021-09-23
+Last changed
+V14.9
+Class(es)
+Burst
+Legacy
+Mage
+Position(s)
+Middle
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+3
+Toughness
+2
+Control
+2
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Vex
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Vex
+Base statistics
+Edit
+Health
+590
++104
+Mana
+490
++32
+Health regen. (per 5s)
+6.5
++0.6
+Mana regen. (per 5s)
+6
++0.8
+Armor
+23
++4.45
+Attack damage
+54
++2.75
+Magic resist.
+28
++1.3
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+550
+Attack speed
+Base AS
+0.669
+Attack windup
+15.625%
+AS ratio
+0.625
+Bonus AS
++1
+%
+Missile speed
+2000
+Unit radius
+Gameplay radius
+55
+Selection radius
+100
+Pathing radius
+30
+Acq. radius
+750
+Special statistics
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-10%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Doom 'n Gloom
+STATIC COOLDOWN
+:
+25 / 22 / 19 / 16 (based on level)
+EFFECT RADIUS:
+1600
+Passive - Doom:
+Periodically,
+Vex
+empowers her next basic ability to
+knock down
+and briefly
+fear
+enemies hit.
+Innate - Gloom:
+Nearby enemies that
+dash
+or
+blink
+become marked with
+Gloom
+for a few seconds.
+Vex's
+next basic attack or basic ability hit will consume the mark to deal
+bonus
+magic damage
+and
+reduce
+Doom's
+cooldown.
+Looming Darkness
+will also inflict
+Gloom
+, but cannot detonate it.
+Passive - Doom:
+Periodically,
+Vex
+empowers her next
+basic ability
+to
+knock down
+and
+fear
+enemies hit for
+0.
+75
+/ 1 / 1.
+25
+/ 1.
+5
+(based on level)
+seconds, during which they are
+slowed
+by
+60% − 99% (based on distance from
+Vex
+)
+. If
+Looming Darkness
+triggers
+Doom
+, enemies hit will
+flee
+from the epicenter instead.
+Doom's
+cooldown
+resets upon
+respawning
+.
+Innate - Gloom:
+Nearby enemy
+champions
+and
+monsters
+that
+dash
+or
+blink
+will be marked with
+Gloom
+for 6 seconds.
+Vex's
+next
+basic attack
+, which becomes
+non-projectile
+, or basic ability hit against an enemy with
+Gloom
+will detonate the mark.
+Looming Darkness
+will also inflict
+Gloom
+, but cannot detonate it.
+Gloom's
+detonation deals
+40 − 150 (based on level)
+(+ 25% AP)
+bonus
+magic damage
+and refunds 25% of
+Doom's
+cooldown. Against non-champions, this instead deals
+40 / 45 / 50 / 55 / 60% (based on level)
+damage and refunds 10% of
+Doom's
+cooldown.
+(
+Doom
+charged) "Ugghh..."
+(
+Gloom
+triggered) "Bring it down a notch."
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Parries
+Blocked
+Projectile
+Not Blocked
+Gloom
+will mark
+Rift Herald
+and
+Rift Scuttler
+when they use their dashes.
+Gloom
+can mark
+clones
+, but not other
+pets
+.
+Gloom's
+mark has a very brief cooldown and refreshes on subsequent dashes or blinks nearby enemies use.
+Gloom's
+mark duration will refresh to 0.
+5
+seconds when
+Vex
+starts an attack windup against a target that has a mark which is about to expire.
+Gloom
+will mark enemies even if they are
+untargetable
+.
+Gloom
+will mark enemies that are inside the detection radius when they blink, but will not mark those that blink inside from far away.
+(note)
+Doom's
+cooldown starts as soon as the basic ability is cast.
+Non-champions (e.g.
+Rift Scuttler
+) are not
+knocked down
+by the fear-empowered ability.
+(note)
+Spell shield
+will block all of
+Doom's
+effects but not
+Gloom's
+empowered attack nor mark.
+Nearby enemies that become displaced do not count for being marked by
+Gloom
+.
+Vex's
+basic abilities use a different icon when
+Doom
+is ready:
+Mistral Bolt
+Personal Space
+Looming Darkness
+Edit
+Mistral Bolt
+COST:
+45 / 50 / 55 / 60 / 65 Mana
+COOLDOWN:
+8 / 7 / 6 / 5 / 4
+CAST TIME:
+0.
+15
+RANGE:
+1200
+WIDTH:
+360
+/
+160
+SPEED:
+600
+/
+3200
+Active:
+Vex
+launches a wave of mist in the target direction that deals
+magic damage
+to enemies hit. After a short delay, the wave accelerates but also narrows.
+Active:
+Vex
+launches a wave of mist in the target direction that deals
+magic damage
+to enemies hit. After travelling 500 units, the wave accelerates but also narrows itself.
+Magic Damage:
+70 / 115 / 160 / 205 / 250
+(+ 70% AP)
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+This ability will cast from wherever the caster is at the end of the cast time.
+Mistral Bolt
+will fire from wherever
+Vex
+is at the end of the cast time, towards the originally targeted location or 1200 units in the originally targeted direction if cast beyond that.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 90 / 135 / 180 / 225 / 270.
+AP ratio changed to
+80% AP
+.
+Edit
+Personal Space
+COST:
+75 mana
+COOLDOWN:
+16 / 15 / 14 / 13 / 12
+CAST TIME:
+0.
+25
+EFFECT RADIUS:
+475 /
+550
+Active:
+Vex
+emits a shockwave, dealing
+magic damage
+to nearby enemies and
+shielding
+herself for a short time.
+Active:
+Vex
+emits a shockwave around her before the cast time, dealing
+magic damage
+to nearby enemies and granting herself a
+shield
+for 2.
+5
+seconds.
+Shield Strength:
+50 / 75 / 100 / 125 / 150
+(+ 75% AP)
+Magic Damage:
+80 / 120 / 160 / 200 / 240
+(+ 30% AP)
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Personal Space
+can be buffered 0.
+1
+seconds before it comes off cooldown or becomes available otherwise.
+Vex
+can move during
+Personal Space's
+cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 13 / 12.
+5
+/ 12 / 11.
+5
+/ 11 seconds.
+Edit
+Looming Darkness
+COST:
+70 / 80 / 90 / 100 / 110 mana
+COOLDOWN:
+13
+CAST TIME:
+0.
+25
+TARGET RANGE:
+800
+EFFECT RADIUS:
+200 − 300 (based on cast distance)
+SPEED:
+1300
+Active:
+Vex
+tosses her
+Shadow
+to explode at the target location, dealing
+magic damage
+and
+slowing
+enemies hit for a short time. The explosion widens based on cast distance.
+Active:
+Vex
+tosses her
+Shadow
+to explode at the target location, dealing
+magic damage
+to enemies hit and
+slowing
+them for 2 seconds. The explosion's radius increases based on cast distance.
+Magic Damage:
+50 / 70 / 90 / 110 / 130
+(+ 40 / 45 / 50 / 55 / 60% AP)
+Slow:
+30 / 35 / 40 / 45 / 50%
+Killing an enemy with
+Looming Darkness
+refunds 10% of
+Doom's
+cooldown
+, increased to 25% for champion kills.
+Looming Darkness will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+No additional details.
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 10 seconds.
+Slow changed to 40 / 45 / 50 / 55 / 60%.
+Edit
+Shadow Surge
+COST:
+100 mana
+COOLDOWN
+:
+140 / 120 / 100
+CAST TIME:
+0.
+25
+/
+None
+RANGE:
+2000 / 2500 / 3000
+EFFECT RADIUS:
+650
+/
+Global
+WIDTH:
+260
+SPEED:
+1600
+/
+2200
+Active:
+Vex
+sends her
+Shadow
+in the target direction that deals
+magic damage
+to enemies hit.
+Shadow
+stops upon hitting an enemy
+champion
+, marking and
+revealing
+them for a few seconds.
+Shadow Surge
+can be recast while the target is marked.
+Recast:
+Vex
+dashes
+towards the marked target. Upon arrival, the mark is consumed to deal
+magic damage
+. If the target dies within a few seconds of being marked,
+Vex
+can cast
+Shadow Surge
+again within some time.
+Active:
+Vex
+sends her
+Shadow
+in the target direction that grants
+sight
+around its
+trajectory
+and deals
+magic damage
+to enemies hit.
+Magic Damage:
+75 / 125 / 175
+(+ 20% AP)
+Shadow
+stops upon hitting an enemy
+champion
+to mark them for 4 seconds, during which they are
+revealed
+.
+Shadow Surge
+can be recast while the target is marked.
+Recast:
+Vex
+dashes
+towards the marked target with
+displacement immunity
+. Upon arrival, she consumes their mark and deals
+magic damage
+.
+Magic Damage:
+150 / 250 / 350
+(+ 50% AP)
+Total Magic Damage:
+225 / 375 / 525
+(+ 70% AP)
+If the target dies within 6 seconds of being marked,
+Vex
+can cast
+Shadow Surge
+again within 12 seconds at no cost after 0.
+5
+seconds.
+"Do the thing, Shadow."
+Info
+Targeting input
+Direction
+/
+Auto
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Grounded
+See Notes
+Knockdown
+Not Interrupted
+This ability will cast from wherever the caster is at the end of the cast time.
+Vex's
+dash will track the target if they change locations.
+She will not stop tracking the target until she reaches them, as there is no maximum tracking distance.
+Shadow Surge
+grants sight of the area along its path for
+0.
+4
+seconds each.
+Shadow Surge
+cannot be recast while
+grounded
+or
+rooted
+, or if the target is
+untargetable
+.
+Shadow Surge
+may also be recast if the target died to the ability.
+The following table refers for interactions while
+Vex
+is dashing:
+All movement spells are disabled during the first 0.
+25
+seconds of the dash.
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+All the other item-actives are usable
+Disabled
+N/A
+Interrupted by
+Hextech Rocketbelt
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Teleport
+Recall
+Disabled
+Hexflash
+Interrupted by
+Flash
+Interrupted by
+Death
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Vex (Collection)
+.
+Original
+View in 3D
+975
+23.09.2021
+In the black heart of the Shadow Isles, a lone yordle trudges through the spectral fog, content in its murky misery. With an endless supply of teen angst and a powerful shadow in tow, Vex lives in her own self-made slice of gloom, far from the revolting cheer of the “normie” world. Though she lacks ambition, she is quick to strike down color and happiness, stopping all would-be interlopers with her magical malaise.
+Jeannie Tirado
+Horace 'Hozure' Hsu
+Loot eligible
+Dawnbringer
+View in 3D
+1350
+23.09.2021
+Vex finds order in the day's descent to darkness, and spends her evenings watching her shadow chase the sun below the horizon. A preternaturally sour and unenthusiastic god, she finds the whole chaos and order 'thing' very blasé.
+Jeannie Tirado
+Jennifer Wuestling
+Nightbringer and Dawnbringer
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dawnbringer Vex Chromas
+Catseye
+Emerald
+Lifebringer
+Meteorite
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Empyrean
+View in 3D
+1350
+03.11.2022
+Vex didn't need anyone. Growing up alone, she was self-sufficient and annoyed by most people. Her realm's destruction barely made her blink, but her new Empyrean powers did give her an idea. By empowering her own shadow, she finally had a companion she tolerated. Vex may not need anyone, but then again, misery loves company.
+Jeannie Tirado
+Horace 'Hozure' Hsu
+Empyrean
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Empyrean Vex Chromas
+Catseye
+Emerald
+Neon Flare
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.9
+Stats
+Gameplay radius reduced to 55 units from 65.
+Pathing radius reduced to 30 units from 35.
+V14.5
+Doom 'n Gloom
+Base damage increased to
+40 − 150 (based on level)
+from
+30 − 140 (based on level)
+.
+AP ratio increased to
+25% AP
+from
+20% AP
+.
+New Effect:
+Doom's cooldown is now also partially refunded upon killing units with
+Looming Darkness
+.
+Champion kills refund the cooldown by 25% and non-champion kills do so by 10%.
+V13.21
+Shadow Surge
+Bug Fix:
+Now properly damages minions and monsters hit by the missile.
+Note: This fix was already in effect in the previous patch.
+V13.17
+Mistral Bolt
+Base damage increased to 70 / 115 / 160 / 205 / 250 from 60 / 105 / 150 / 195 / 240.
+Personal Space
+Cooldown reduced to 16 / 15 / 14 / 13 / 12 seconds from 20 / 18 / 16 / 14 / 12.
+Shadow Surge
+New Effect:
+Pinging the ability now displays visible targets in chat.
+V13.13
+Doom 'n Gloom
+Bug Fix:
+Now properly applies
+Gloom
+to a nearby enemy
+Galio
+casting
+Justice Punch
+.
+V13.6
+Doom 'n Gloom
+Bug Fix:
+Can no longer mark an enemy
+Aurelion Sol
+dashing from
+Astral Flight
+with
+Gloom
+more than once.
+V13.1
+Doom 'n Gloom
+Bug Fix:
+Ability icon is now properly displayed for its buff icon.
+V12.13
+Mistral Bolt
+AP ratio increased to
+70% AP
+from
+60% AP
+.
+Cooldown reduced to 8 / 7 / 6 / 5 / 4 seconds from 9 / 8 / 7 / 6 / 5.
+V12.10
+Stats
+Base health increased to 590 from 520.
+Health growth increased to 104 from 90.
+Armor growth increased to 4.
+45
+from 3.
+25
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Personal Space
+Base shield reduced to 50 / 75 / 100 / 125 / 150 from 50 / 80 / 110 / 140 / 170.
+Shield AP ratio reduced to
+75% AP
+from
+80% AP
+.
+V12.5
+- March 10th Hotfix
+Doom 'n Gloom
+Bug Fix:
+Fixed a bug where marked enemies would sometimes fail to get feared by her Doom-empowered
+Looming Darkness
+.
+V12.1
+Shadow Surge
+Bug Fix:
+Fixed a bug where, if she died while casting a consecutive
+Shadow Surge
+, its cooldown would not reset.
+V11.20
+Doom 'n Gloom
+Bug Fix:
+Fixed a bug where it would incorrectly mark enemies moved by champion-created terrain, such as
+Anivia's
+Crystallize
+or
+Jarvan IV's
+Cataclysm
+.
+Shadow Surge
+Bug Fix:
+Fixed a bug where she was able to recast it on
+Gwen
+while she was in her
+Hallowed Mist
+.
+Dawnbringer Vex
+Bug Fix:
+Shadow's colors have been fixed to match each of their chromas.
+V11.19
+- September 24th Hotfix
+Doom 'n Gloom
+Base damage reduced to
+30 − 140 (based on level)
+from
+30 − 180 (based on level)
+.
+Mistral Bolt
+Base damage reduced to 60 / 105 / 150 / 195 / 240 from 60 / 110 / 160 / 210 / 260.
+V11.19
+- Added
+Doom 'n Gloom
+(Innate)
+Passive - Doom:
+Periodically,
+Vex
+gains
+Doom
+, which empowers her next basic ability to
+knock down
+affected enemies and cause them to
+flee
+from her for
+0.
+75
+/ 1 / 1.
+25
+/ 1.
+5
+(based on level)
+seconds, during which they are
+slowed
+by
+60% − 99% (based on distance from
+Vex
+)
+.
+Doom's
+cooldown
+resets upon respawning. If
+Looming Darkness
+triggers
+Doom
+, all targets will
+flee
+from the center of its area of effect instead.
+Innate - Gloom:
+Nearby enemy
+champions
+that
+dash
+or
+blink
+, as well as targets hit by
+Looming Darkness
+, will be marked with
+Gloom
+for 6 seconds.
+Vex's
+next basic attack, which becomes
+non-projectile
+,
+Mistral Bolt
+, or
+Personal Space
+against a marked target will consume the mark to deal
+30 − 180 (based on level)
+(+ 25% AP)
+bonus
+magic damage
+and refund 25% of
+Doom's
+cooldown.
+Against marked non-champions,
+Gloom
+deals
+40 / 45 / 50 / 55 / 60% (based on level)
+damage and refunds 10% of
+Doom's
+cooldown.
+Effect Radius:
+1600
+.
+Static Cooldown:
+25 / 22 / 19 / 16 (based on level)
+seconds.
+Mistral Bolt
+(Q)
+Active:
+Vex
+unleashes a wave of mist in the target direction, dealing 60 / 110 / 160 / 210 / 260
+(+ 60% AP)
+magic damage
+to enemies it passes through and accelerating in speed though reducing in width after travelling 500 units.
+Mana Cost:
+45 / 50 / 55 / 60 / 65.
+Cooldown:
+9 / 8 / 7 / 6 / 5 seconds.
+Range:
+1200,
+Width:
+360
+/
+160
+,
+Speed:
+600
+/
+3200
+,
+Cast Time:
+0.
+15
+seconds.
+Personal Space
+(W)
+Active:
+Vex
+emits a shockwave around her before the cast time, gaining a
+shield
+for 50 / 80 / 110 / 140 / 170
+(+ 80% AP)
+for 2.
+5
+seconds and dealing 80 / 120 / 160 / 200 / 240
+(+ 30% AP)
+magic damage
+to all nearby enemies.
+Mana Cost:
+75.
+Cooldown:
+20 / 18 / 16 / 14 / 12 seconds.
+Effect Radius:
+475 /
+550
+,
+Cast Time:
+0.
+25
+seconds.
+Looming Darkness
+(E)
+Active:
+Vex
+commands
+Shadow
+to fly to the target location, increasing the radius of the area as it travels. Upon arrival,
+Shadow
+deals 50 / 70 / 90 / 110 / 130
+(+ 40 / 45 / 50 / 55 / 60% AP)
+magic damage
+to all nearby enemies and
+slows
+them by 30 / 35 / 40 / 45 / 50% for 2 seconds.
+Looming Darkness will cast at max range if cast beyond it.
+Mana Cost:
+70 / 80 / 90 / 100 / 110.
+Cooldown:
+13 seconds.
+Target Range:
+800,
+Effect Radius:
+200 − 300 (based on cast distance)
+,
+Speed:
+1300,
+Cast Time:
+0.
+25
+seconds.
+Shadow Surge
+(R)
+Active:
+Vex
+commands
+Shadow
+to launch itself in the target direction, granting
+sight
+of the
+area
+along its path for
+0.
+4
+seconds each and dealing 75 / 125 / 175
+(+ 20% AP)
+magic damage
+to all enemies hit.
+Shadow
+stops upon colliding with an enemy champion, marking them for 4 seconds and
+revealing
+them for the duration.
+Shadow Surge
+can be recast while the target is marked.
+Recast:
+Vex
+commands
+Shadow
+to
+pull
+her towards the marked target with
+displacement immunity
+, upon arrival consuming the mark and dealing them 150 / 250 / 350
+(+ 50% AP)
+magic damage
+.
+If the marked target dies within 6 seconds of being hit by
+Shadow Surge
+,
+Vex
+can cast
+Shadow Surge
+again at no additional cost for the next 12 seconds after 0.
+5
+seconds.
+Mana Cost:
+100.
+Cooldown:
+140 / 120 / 100
+seconds.
+Range:
+2000 / 2500 / 3000
+,
+Effect Radius:
+Global
+,
+Width:
+260
+,
+Speed:
+1600
+,
+Cast Time:
+0.
+25
+/
+None
+seconds.
+Trivia
+[
+edit
+|
+edit source
+]
+Vex was the third of three champions released in 2021 tied to
+Viego's
+return and a continuation of the Ruined King's story.
+[2]
+Vex's Shadow cannot be disabled in game.
+Vex shares a few similarities with
+Zato-ONE
+from
+Guilty Gear
+series.
+Both fight with a shadow companion. Her shadow baring a slight resemblance to
+Eddie's
+design in the game.
+Vex's laugh animation references the
+Laughing Spongebob
+meme.
+[3]
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Burst
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Burst Mages
+aim to single out vulnerable targets by locking them down and following up with a devastating barrage of damage from range. They are strongest when using their full suite of spells executed perfectly to maximum effect, and most vulnerable when they cannot deliver.
+Examples
+Annie
+Syndra
+Veigar
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Knockdown
+Knockdown
+only affects units that are performing a
+dash
+or being displaced by an
+airborne
+effect. A unit that is
+knocked down
+has its
+dash
+or
+displacement
+interrupted and is placed on the ground instantly.
+Knockdown
+is not a
+status effect
+.
+Interrupts:
+Interrupts all
+dashes
+and
+airborne effects
+(displacement
+and
+status effects).
+Knock ups
+will not have their
+airborne
+status removed if there is no sourced debuff, but their displacement still ends.
+Reduction:
+The effect is instantaneous.
+There is nothing to reduce.
+Resist:
+Resisted by
+crowd control immunity
+and
+displacement immunity
+.
+Removal:
+The effect is instantaneous.
+There is nothing to remove.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Flee
+A unit that is
+fleeing
+or
+feared
+is forced to move directly away from the
+Source
+(the
+unit
+that casted the
+Fear
+spell) for the duration, during which they're unable to perform issued movement commands, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+. All
+fears
+also apply a
+slow
+.
+Flee
+is an
+immobilizing
+effect
+.
+Forced action effects
+cannot
+force the unit to perform an action that is disabled.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities, as well as overrides previous
+Forced Action
+effects.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+or when the
+Source
+dies.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Blink
+A
+blink
+refers to a form of movement whereby a unit displaces from point A to B without traversing the space between.
+League of Legends content
+Looming Darkness
+COOLDOWN:
+13
+Active:
+Vex
+tosses her
+Shadow
+to explode at the target location, dealing
+magic damage
+and
+slowing
+enemies hit for a short time. The explosion widens based on cast distance.
+League of Legends content
+Flee
+A unit that is
+fleeing
+or
+feared
+is forced to move directly away from the
+Source
+(the
+unit
+that casted the
+Fear
+spell) for the duration, during which they're unable to perform issued movement commands, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+. All
+fears
+also apply a
+slow
+.
+Flee
+is an
+immobilizing
+effect
+.
+Forced action effects
+cannot
+force the unit to perform an action that is disabled.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities, as well as overrides previous
+Forced Action
+effects.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+or when the
+Source
+dies.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Looming Darkness
+COOLDOWN:
+13
+Active:
+Vex
+tosses her
+Shadow
+to explode at the target location, dealing
+magic damage
+and
+slowing
+enemies hit for a short time. The explosion widens based on cast distance.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Projectile
+A
+projectile
+or
+missile
+is any entity not classified as a unit (
+champion
+,
+minion
+,
+monster
+, etc.
+) that travels at any given velocity.
+Moving units are
+not
+considered projectiles under any circumstance (
+including
+dashing
+units,
+airborne
+units, or units thrown by some abilities such as
+Force of Will
+or
+Roar of the Slayer
+.
+).
+Braum's
+Unbreakable
+,
+Samira's
+Blade Whirl
+, and
+Yasuo's
+Wind Wall
+can block, destroy and / or stop projectiles.
+Some
+ranged
+basic attacks (
+including
+turrets
+) and abilities don't use projectiles and will bypass projectile-blocking effects.
+Some abilities will
+destroy
+all currently incoming homing projectiles.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Clone
+A
+clone
+or
+decoy
+is a specific type of
+pet
+that attempts to imitate a
+champion
+, copying their current vitality, stats, items, level, and most status effects upon creation. They are considered champions against many effects that do not strictly require
+player
+champions, else they are considered
+minions
+either small or large among certain cases.
+The
+damage
+they deal is attributed to them alone, but they transfer last hit and kill credit. Killing a
+clone
+awards
+25
+and
+44
+.
+League of Legends content
+Pet
+A
+pet
+is a
+unit summoned by a champion
+to assist them on the battlefield.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Doom 'n Gloom
+STATIC CD:
+25 / 22 / 19 / 16 (based on level)
+Passive - Doom:
+Periodically,
+Vex
+empowers her next basic ability to
+knock down
+and briefly
+fear
+enemies hit.
+Innate - Gloom:
+Nearby enemies that
+dash
+or
+blink
+become marked with
+Gloom
+for a few seconds.
+Vex's
+next basic attack or basic ability hit will consume the mark to deal
+bonus
+magic damage
+and
+reduce
+Doom's
+cooldown.
+Looming Darkness
+will also inflict
+Gloom
+, but cannot detonate it.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+True sight
+True Sight
+reveals units through
+fog of war
+,
+brush
+, and
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Displacement immune
+A unit that is
+displacement immune
+is
+immune
+to all
+Airborne
+effects in addition to the following effects:
+Crowd control
+Knockdown
+Suspension
+Kinematics
+Sleep
+Stasis
+Champion abilities
+Ambessa's
+Public Execution
+Mordekaiser's
+Realm of Death
+Skarner's
+Ixtal's Impact
+and
+Impale
+Sett's
+The Show Stopper
+Tahm Kench's
+Devour
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+References
+[
+edit
+|
+edit source
+]
+↑
+Vex's profile page
+at
+LeagueOfLegends.com
+↑
+Champions in Season 2021
+↑
+Vex Laugh Reference

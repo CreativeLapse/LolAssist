@@ -1,0 +1,3430 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Tahm Kench
+The River King
+Release date
+2015-07-09
+Last changed
+V14.23
+Class(es)
+Warden
+Legacy
+Tank
+Support
+Position(s)
+Top
+Support
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Magic
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+2
+Toughness
+3
+Control
+2
+Mobility
+1
+Utility
+3
+Style
+Difficulty
+Tahm Kench
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+TahmKench
+Base statistics
+Edit
+Health
+640
++103
+Mana
+325
++50
+Health regen. (per 5s)
+6.5
++0.55
+Mana regen. (per 5s)
+8
++1
+Armor
+42
++4.7
+Attack damage
+56
++3.2
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+175
+Attack speed
+Base AS
+0.658
+Attack windup
+25.016%
+AS ratio
+N/A
+Bonus AS
++2.5
+%
+Unit radius
+Gameplay radius
+80
+Selection radius
+125
+Pathing radius
+50
+Acq. radius
+600
+Special statistics
+Damage Dealt
++0%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++20%
+Damage Received
+-15%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+An Acquired Taste
+Innate:
+Tahm Kench's
+basic attacks
+and
+Tongue Lash
+deal
+bonus
+magic damage
+based on
+his
+bonus
+health
+, and apply a stack of
+An Acquired Taste
+against
+champions
+that stacks up to a cap.
+Tongue Lash
+and
+Devour
+gain additional effects against enemies with max stacks, consuming them all.
+Innate:
+Tahm Kench's
+basic attacks
+on-hit
+and
+Tongue Lash
+are empowered to deal
+6 − 48 (based on level)
+(
++ 1.
+5
+% AP
+per 100
+bonus
+health
+)
+(+ 4% of his
+bonus
+health)
+bonus
+magic damage
+and apply a
+stack
+of
+An Acquired Taste
+against enemy
+champions
+for 5 seconds, refreshing on subsequent hits and stacking up to 3 times. Stacks expire by one every 0.
+67
+seconds when the duration ends.
+Tongue Lash
+and
+Devour
+gain additional effects against enemies with 3 stacks, consuming them all.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+Magic
+Counters
+Parries
+Blocked
+The passive bonus damage applies to turrets.
+Edit
+Tongue Lash
+COST:
+50 / 46 / 42 / 38 / 34 Mana
+COOLDOWN:
+7 / 6.
+5
+/ 6 / 5.
+5
+/ 5
+CAST TIME:
+0.
+25
+RANGE:
+900
+WIDTH:
+140
+SPEED:
+2800
+Active:
+Tahm Kench
+lashes his tongue in the target direction that deals
+magic damage
+to the first enemy hit and shortly
+slows
+them. If this hits an enemy
+champion
+,
+Tahm Kench
+also
+heals
+based on
+his
+missing
+health
+.
+An Acquired Taste
+Bonus:
+The target is briefly
+stunned
+.
+Devour
+can be cast during
+Tongue Lash
+at no cost to
+pull
+the target to
+Tahm Kench
+before swallowing them.
+Active:
+Tahm Kench
+lashes his tongue in the target direction that deals
+magic damage
+to the first enemy hit and
+slows
+them by 50% for 2 seconds. If this hits an enemy
+champion
+,
+Tahm Kench
+also
+heals
+himself.
+Magic Damage:
+80 / 130 / 180 / 230 / 280
+(+ 100% AP)
+(+
+6 − 48 (based on level)
+(
++ 1.
+5
+% AP
+per 100
+bonus
+health
+)
+(+ 4%
+bonus
+health)
+)
+Heal:
+10 / 15 / 20 / 25 / 30
+(+ 5 / 5.
+5
+/ 6 / 6.
+5
+/ 7% of
+missing
+health)
+An Acquired Taste
+Bonus:
+The target is
+stunned
+for 1.
+5
+seconds.
+Devour
+can be cast during
+Tongue Lash
+at no cost to pull the target to
+Tahm Kench
+before swallowing them.
+Tahm Kench
+is
+unable
+to move, attack, or cast
+Abyssal Dive
+or
+Devour
+on a different target while his tongue is in flight. Tongue Lash's range and travel speed can be increased by
+Tahm Kench's
+size
+.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Tongue Lash's
+range and speed scale 1:1 alongside any
+size
+modifiers to
+Tahm Kench
+, but will not be reduced
+below
+their base values if his overall size modifier is smaller than 100%.
+As the missile range and speed scale simultaneously,
+Tongue Lash
+will always take
+0.
+33
+seconds
+to reach its maximum range (no matter the cast range).
+Because of this, increasing
+Tahm Kench's
+size with items such as
+Elixir of Iron
+allows him to hit targets at even the same distance more quickly and giving them less time to dodge.
+Devour
+can be 'queued' at any point during
+Tongue Lash
+(including the wind-up animation) and will not go on cooldown if
+Tahm Kench
+fails to hit a valid target with
+Tongue Lash
+.
+All three
+An Acquired Taste
+stacks will be consumed even if
+Tongue Lash's
+stun
+is negated.
+This ability will cast from wherever the caster is at the start of the cast time.
+Type
+Cast time
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Map-Specific Differences
+Ultra Rapid Fire
+differences
+edit
+Cooldown changed to 14 / 13 / 12 / 11 / 10 seconds.
+Edit
+Abyssal Dive
+COST:
+60 / 75 / 90 / 105 / 120 Mana
+COOLDOWN
+:
+21 / 20 / 19 / 18 / 17
+TARGET RANGE:
+1000 / 1050 / 1100 / 1150 / 1200
+EFFECT RADIUS:
+275
+/
+200
+Active:
+Tahm Kench
+briefly
+channels
+, then dives into the waters to
+blink
+to the target location. He emerges to deal
+magic damage
+to nearby enemies, as well as briefly
+knock up
+and
+stun
+them. If this hits at least one enemy
+champion
+, a portion of the
+cooldown
+and
+mana cost
+are refunded.
+"Boy, the world's one river, and I'm its king. Ain't no place I ain't been; ain't no place I can't go again."
+Active:
+Tahm Kench
+channels
+for 1.
+35
+seconds as he dives into the waters, then
+blinks
+to the target location after a 0.
+15
+-second delay and remains
+unable to act
+for 0.
+65
+seconds after the channel completes.
+Abyssal Dive
+grants
+sight
+of the area during the channel.
+Tahm Kench
+emerges to deal
+magic damage
+to nearby enemies, as well as
+knock up
+and
+stun
+them for 1 second. If this hits at least one enemy
+champion
+, 40% of
+Abyssal Dive's
+mana
+cost as well as a percentage of its
+cooldown
+are refunded.
+Magic Damage:
+100 / 135 / 170 / 205 / 240
+(+ 150% AP)
+Cooldown Refund:
+40 / 42.
+5
+/ 45 / 47.
+5
+/ 50%
+Enemies can see the indicator for
+Tahm Kench's
+destination after he has channeled for 0.
+75
+seconds. Abyssal Dive will cast at max range if cast beyond that.
+"Boy, the world's one river, and I'm its king. Ain't no place I ain't been; ain't no place I can't go again."
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Disruption
+Interrupted
+Tahm Kench
+is
+vanished
+(but does not become untargetable) during the 0.
+15
+seconds delay.
+The following table refers for interactions while
+Tahm Kench
+is
+channeling
+:
+Type
+Channel
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Teleport
+Recall
+Hexflash
+Interrupted by
+Flash
+Interrupted by
+Death
+Grounding effects
+Immobilizing effects
+Cast-inhibiting effects
+The following table refers for interactions while
+Tahm Kench
+is unable to act:
+Type
+Channel
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death
+Edit
+Thick Skin
+COOLDOWN
+:
+3
+CAST TIME:
+0.
+25
+Passive:
+Tahm Kench
+stores
+grey health
+equal to a portion of damage taken, increased while he is near at least 2 enemy champions. While
+Thick Skin
+is off cooldown, and after a few seconds without taking damage,
+Tahm Kench
+rapidly consumes his grey health to
+heal
+up to a portion.
+Active:
+Tahm Kench
+converts his grey health into a
+shield
+that lasts a short time.
+Passive:
+Tahm Kench
+stores a portion of the
+post-mitigation damage
+he takes as
+grey health
+on his
+health bar
+, increased while there are at least 2 nearby
+visible
+enemy champions either dead or alive. He can store up to
+300% of his
+maximum
+health
+.
+Damage Stored into Grey Health:
+15 / 23 / 31 / 39 / 47%
+Increased Damage Stored into Grey Health:
+42 / 44 / 46 / 48 / 50%
+While
+Thick Skin
+is not on cooldown, and after 4 seconds without taking damage,
+Tahm Kench
+rapidly consumes his
+grey health
+to restore
+45% − 100% (based on level)
+of the amount,
+healing
+for
+10% of his
+maximum
+health
+every
+0.
+264
+seconds
+.
+Active:
+Tahm Kench
+converts his current
+grey health
+into a
+shield
+that lasts for 2.
+5
+seconds.
+Info
+Targeting input
+Auto
+Thick Skin
+shield value and
+grey health
+percentage heal are both boosted by effects that increase heal and shield power. This means
+Tahm Kench
+can technically heal more than the normal amount of
+grey health
+and get a shield bigger than his maximum health.
+At level 18
+Tahm Kench
+would need 53.
+8
+%
+heal power
+to heal for 100% of the damage he takes, reduced to 34.
+9
+% with
+Revitalize
+, 23.
+1
+% with
+Spirit Visage
+, and 6.
+9
+% with both.
+Grey health
+converts all post-mitigation damage,
+Thick Skin
+effectively grants
+Tahm Kench
+a form of
+true damage
+mitigation.
+Grey health
+can temporarily exceed 100% of his missing health when
+Tahm Kench
+heals through other means
+with a
+grey health
+bar at 100%. In that case he will keep the higher
+grey health
+value for a few moments until it updates and removes the amount that he healed.
+Edit
+Devour
+COST:
+100 Mana
+COOLDOWN
+:
+120 / 100 / 80
+CAST TIME:
+0.
+25
+TARGET RANGE:
+250
+Active:
+Tahm Kench
+swallows the target
+champion
+for a short time,
+vanishing
+them.
+Devour
+can be cast on enemies only with max stacks of
+An Acquired Taste
+. If the target is an ally, they are granted a
+shield
+that lasts a short time.
+Tahm Kench
+will also gain
+bonus
+movement speed
+for a short time, but cannot cast movement spells besides
+Abyssal Dive
+while an ally is swallowed.
+Tahm Kench
+can cast
+Regurgitate
+within the duration, and automatically does so afterwards. The swallowed ally can also force this cast by attempting to exit in the target direction.
+An Acquired Taste
+Bonus:
+The target is
+suppressed
+while swallowed.
+Tahm Kench
+will also be
+grounded
+and
+slowed
+while an enemy is swallowed.
+Active:
+Tahm Kench
+swallows the target
+champion
+for up to 3 seconds,
+attaching
+them to himself and rendering them
+untargetable
+and
+displacement immune
+.
+Devour
+can be cast on enemies only with 3 stacks of
+An Acquired Taste
+.
+If the target is an ally, they become
+unable to act
+and are granted a
+shield
+, which decays in strength by 50 every 0.
+25
+seconds after they are
+Regurgitated
+.
+Tahm Kench
+will also gain
+40%
+bonus
+movement speed
+for 3 seconds and is unable to cast movement spells besides
+Abyssal Dive
+while an ally is swallowed.
+Shield Strength:
+650 / 800 / 950
+(+ 100% AP)
+After 1 second,
+Tahm Kench
+can cast
+Regurgitate
+within the duration, and automatically does so afterwards. The swallowed ally can also input a movement command to force this cast in the target direction, unless they are
+immobilized
+.
+An Acquired Taste
+Bonus:
+The target is
+suppressed
+while swallowed.
+Tahm Kench
+will also be
+grounded
+and
+slowed
+by 40% while an enemy is swallowed.
+If
+Tahm Kench
+is performing
+Abyssal Dive
+,
+Regurgitate
+will not automatically cast until after he finishes.
+Edit
+Regurgitate
+CAST TIME:
+0.
+25
+Active:
+Tahm Kench
+spits
+the swallowed champion in the target direction. If they are an enemy, he deals
+magic damage
+based on the
+target's
+maximum
+health
+.
+Active:
+Tahm Kench
+detaches the swallowed champion from himself and
+spits
+them in the target direction. If they are an enemy, he deals
+magic damage
+to them at the end of the displacement.
+Magic Damage:
+100 / 250 / 400
+(+ 15%
+(+ 7% per 100 AP)
+of the target's
+maximum
+health)
+Targeting input
+Unit
+Counters
+Spell shield
+Blocked
+Notes
+Devour
+will end prematurely under the following circumstances:
+The enemy target
+cleanses
+the
+suppression
+.
+Tahm Kench
+or his target dies.
+If he dies during the cast time, the target will be dealt
+Regurgitate's
+damage.
+Tahm Kench
+enters
+resurrection
+.
+If he enters resurrection during the cast time, the target will be dealt
+Regurgitate's
+damage.
+Tahm Kench
+or his target enters or leaves the
+Realm of Death
+.
+If the caster of that ability enters the realm, they will be
+Regurgitated
+instead.
+Devour
+cannot be used on allies that are
+channeling
+or using an ability that preloads
+UnstoppableForceMarker
+.
+Devour's
+swallow will be resisted by enemies that are
+displacement immune
+.
+The target becomes
+untargetable
+and
+displacement immune
+on-cast.
+Enemy targets will become
+suppressed
+on-cast.
+If the target
+cleanses
+the suppression during the cast time they will not be swallowed at the end of the cast time.
+Swallowed enemy champions will receive the recast's damage regardless of how they exit.
+The
+self-slow
+is affected by
+slow resist
+.
+Tahm Kench
+cannot use
+gates
+during
+Devour
+.
+Allies can see if this spell is ready next to
+Tahm Kench's
+health bar.
+The swallowed target is not considered to be
+vanished
+. They are instead hidden underground to maintain ongoing effects such as
+Senna's
+Curse of the Black Mist
+.
+The following table refers for interactions while the target is unable to act:
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+If an ally, forces
+Tahm Kench
+to use
+Regurgitate
+unless movement commands are otherwise restricted. If an enemy, movement commands are disabled.
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+N/A
+Disabled
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Teleport
+Recall
+Hexflash
+Mark
+Dash
+Interrupted by
+N/A
+Interrupted by
+Death
+Type
+Cast time
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Targeting input
+Direction
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Not Blocked
+Notes
+Regurgitate
+will also automatically cast if
+Tahm Kench
+or his target is affected by
+Fate's Call
+or his target enters
+resurrection
+.
+Tahm Kench
+becomes
+unable to act
+for 0.
+25
+seconds upon casting
+Regurgitate
+.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Tahm Kench (Collection)
+.
+Original
+View in 3D
+880
+08.07.2015
+Known by many names throughout history, the demon Tahm Kench travels the waterways of Runeterra, feeding his insatiable appetite with the misery of others. Though he may appear singularly charming and proud, he swaggers through the physical realm like a vagabond in search of unsuspecting prey. His lashing tongue can stun even a heavily armored warrior from a dozen paces, and to fall into his rumbling belly is to tumble into an abyss from which there is little hope of return.
+Pat Duke
+Pan Chengwei
+Loot eligible
+Master Chef
+View in 3D
+975
+08.07.2015
+He's the sushi singer, the loquacious pescatarian, the big catfish with a big fish dish. He'll prep you a meal, then cut you a deal. Here comes Taaaaaaahm Kench!
+Pat Duke
+Alex 'alexplank' Flores
+Culinary Masters
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Urf Kench
+View in 3D
+750
+31.03.2016
+Pat Duke
+Alvin Lee
+Urf the Manatee
+Loot eligible
+Coin Emperor
+View in 3D
+1350
+28.01.2019
+Craving the smell of coins over all other earthly delights, Tahm Kench rises from his river kingdom each Lunar Revel, seeking to barter with mortals. Though his targets are almost always left destitute, with the proper reverence and careful wording it is possible to escape his bargains unimaginably wealthy.
+Pat Duke
+Pan Chengwei
+Lunar Revel
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Coin Emperor Tahm Kench Chromas
+Amethyst
+Aquamarine
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Arcana
+View in 3D
+1350
+13.05.2021
+The epitome of power and opulence, Tahm Kench's power drips from his tongue. Its ornate patterns captivate and cajole his listeners. He leverages those he rules, staking his power to ensure the patterns always shift in his favor—“correcting” his subjects who have gone astray.
+Pat Duke
+West Studio
+Arcana
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Arcana Tahm Kench Chromas
+Amethyst
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+High Noon
+View in 3D
+1350
+26.05.2022
+Tahm Kench is a magnanimous devil: happy to lend a magical sword to a lady in need, or to assist her in robbing the Sulfur Rail, or even to deliver her to a calamitous destiny as a fellow Harbinger of the End Times. He don't need no compensation. She'll just owe him a favor… because in the End, it pays to have friends.
+Pat Duke
+Zhong Yang, West Studio
+High Noon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+High Noon Tahm Kench Chromas
+Amethyst
+Catseye
+Emerald
+Nomad
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Shan Hai Scrolls
+View in 3D
+1350
+14.06.2023
+Once a catfish, Tahm Kench dreamed of becoming a dragon. Upon Jhin's release from his waterfall prison, a magical pearl was unearthed at its base, catching both Tahm's and Kog'Maw's eyes. Snatching it first, Tahm transformed into a dragon god of currents and unleashed a maelstrom of startling ferocity, laughing at the ensuing destruction.
+Pat Duke
+Fortune 'Fortuneee' K
+Shan Hai Scrolls
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Shan Hai Scrolls Tahm Kench Chromas
+Citrine
+Obsidian
+Pearl
+Peridot
+Rose Quartz
+Ruby
+Sandstone
+Tanzanite
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.23
+An Acquired Taste
+AP ratio reduced to
+1.
+5
+% AP
+per 100
+bonus
+health
+from
+2% AP
+per 100
+bonus
+health
+.
+Devour
+Shield AP ratio reduced to
+100% AP
+from
+150% AP
+.
+V14.15
+Abyssal Dive
+Bug Fix:
+Aurora
+is no longer visible and in her default model pose while he is carrying her via
+Devour
+.
+Devour
+Bug Fix:
+Aurora
+is no longer visible and in her default model pose while he is carrying her via
+Devour
+.
+V14.2
+Devour
+Bug Fix:
+Targeting a champion with the ability no longer triggers
+Experimental Hexplate
+despite the ability not being cast yet.
+V13.22
+An Acquired Taste
+Health ratio reduced to
+4%
+bonus
+health
+from
+5%
+.
+V13.21
+An Acquired Taste
+Base damage changed to
+6 − 48 (based on level)
+from
+8 − 60 (based on level)
+.
+Health ratio increased to
+5%
+bonus
+health
+from
+3%
+.
+Abyssal Dive
+Cooldown refund increased to 40 / 42.
+5
+/ 45 / 47.
+5
+/ 50% from 40% at all ranks.
+V13.12
+Urf Kench
+and
+Master Chef Tahm Kench
+An Acquired Taste
+Bug Fix:
+Special animations when approaching enemies with three stacks of the effect have been restored.
+V13.5
+Devour
+Bug Fix:
+Cast now properly triggers
+Radiant Virtue's
+Guiding Light.
+V13.4
+Devour
+Bug Fix:
+No longer causes an allied
+Dr. Mundo's
+Goes Where He Pleases
+and
+Malzahar's
+Void Shift
+to be triggered by the ability.
+V12.23
+An Acquired Taste
+New Effect:
+Damage now scales with
+2% AP
+per 100
+bonus
+health
+.
+Tongue Lash
+Damage AP ratio increased to
+100% AP
+from
+90% AP
+.
+Heal health ratio increased to
+5 / 5.
+5
+/ 6 / 6.
+5
+/ 7%
+missing
+health
+from
+3 / 3.
+5
+/ 4 / 4.
+5
+/ 5%
+.
+Abyssal Dive
+AP ratio increased to
+150% AP
+from
+125% AP
+.
+Thick Skin
+Damage stored increased to 15 / 23 / 31 / 39 / 47% from 13 / 21 / 29 / 37 / 45%.
+Damage stored near multiple enemies increased to 42 / 44 / 46 / 48 / 50% from 40 / 42.
+5
+/ 45 / 47.
+5
+/ 50%.
+Devour
+Removed:
+Shield duration no longer ends after 2.
+5
+seconds.
+New Effect:
+Shield strength now decays by 50 every 0.
+25
+seconds after the target is
+Regurgitated
+.
+Regurgitate
+AP ratio increased to
+7% per 100 AP
+from
+5% per 100 AP
+.
+V12.22
+Regurgitate
+Bug Fix:
+VFX of some champions will no longer persist for a period of time after being spat out.
+V12.19
+Tongue Lash
+AP ratio increased to
+90% AP
+from
+70% AP
+.
+Abyssal Dive
+AP ratio increased to
+125% AP
+from
+100% AP
+.
+V12.18
+Abyssal Dive
+Bug Fix:
+Knock up can no longer be cleansed from certain conditions.
+V12.12
+- June 30th Hotfix
+Stats
+Health growth reduced to 103 from 109.
+An Acquired Taste
+Health ratio reduced to
+3%
+bonus
+health
+from
+4%
+.
+V12.11
+An Acquired Taste
+Health ratio increased to
+4%
+bonus
+health
+from
+2.
+5
+%
+.
+Tongue Lash
+Base heal increased to 10 / 15 / 20 / 25 / 30 from 10 / 12.
+5
+/ 15 / 17.
+5
+/ 20.
+Devour
+Base shield increased to 650 / 800 / 950 from 500 / 700 / 900.
+V12.10
+Stats
+Base health increased to 640 from 570.
+Health growth increased to 109 from 95.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Tongue Lash
+Base heal reduced to 10 / 12.
+5
+/ 15 / 17.
+5
+/ 20 from 10 / 15 / 20 / 25 / 30.
+Heal health ratio reduced to
+3 / 3.
+5
+/ 4 / 4.
+5
+/ 5%
+missing
+health
+from
+4 / 4.
+5
+/ 5 / 5.
+5
+/ 6%
+.
+Thick Skin
+Damage stored reduced to 13 / 21 / 29 / 37 / 45% from 15 / 25 / 35 / 45 / 55%.
+Damage stored near multiple enemies reduced to 40 / 42.
+5
+/ 45 / 47.
+5
+/ 50% from 45 / 50 / 55 / 60 / 65%.
+V12.8
+Devour
+Bug Fix:
+If cast on a target right before they stop being affected by
+Sett's
+The Show Stopper
+, they no longer first reappear at the original
+Devour
+point before quickly sliding to the actual
+Regurgitate
+destination.
+V12.7
+Devour
+Bug Fix:
+If the caster used it on an allied champion that was within a brush, the target no longer becomes invisible after being spat out.
+V12.6
+Devour
+Removed:
+No longer renders the target
+vanished
+while they are swallowed.
+It still grants them untargetability.
+V12.4
+Devour
+Bug Fix:
+Can no longer sometimes be cast on enemy champions who had three stacks of an
+An Acquired Taste
+which expired but the caster used certain item actives.
+V12.2
+Tongue Lash
+Slow increased to 50% from 40%.
+Thick Skin
+Damage stored as grey health reduced to 15 / 25 / 35 / 45 / 55% from 45 / 50 / 55 / 60 / 65%.
+New Effect:
+Damage stored as grey health is now increased to 45 / 50 / 55 / 60 / 65% if he is near at least 2 visible enemy champions (dead or alive).
+Damage healed increased to
+45% − 100% (based on level)
+from
+30% − 100% (based on level)
+.
+Devour
+Base shield increased to 500 / 700 / 900 from 400 / 500 / 600.
+Shield AP ratio increased to
+150% AP
+from
+100% AP
+.
+Removed:
+Devouring an ally no longer slows him by 30 / 20 / 10%.
+New Effect:
+Now gains 40% bonus movement for 3 seconds if he devours an ally.
+V11.20
+Devour
+Bug Fix:
+Fixed a bug where using it on an enemy
+Wukong's
+clone granted
+Tahm Kench
+vision of him for the rest of the game.
+V11.17
+- August 26th Hotfix
+Devour
+Bug Fix:
+Fixed a bug where he would destroy self-targeted missiles.
+V11.17
+Devour
+Bug Fix:
+Fixed a bug where the ultimate availability HUD indicator was not graying out after his ult was used.
+V11.16
+An Acquired Taste
+Base damage reduced to
+8 − 60 (based on level)
+from
+12 − 60 (based on level)
+.
+Tongue Lash
+Base heal reduced to 10 / 15 / 20 / 25 / 30 from 15 / 20 / 25 / 30 / 35.
+V11.14
+An Acquired Taste
+New Effect:
+Now has a base damage of
+12 − 60 (based on level)
+.
+Health ratio reduced to
+2.
+5
+%
+bonus
+health
+from
+2.
+5
+%
+maximum
+health
+.
+Previously granted
+14.
+25
+− 54.
+63
+(based on level)
+damage from
+base
+health
+.
+Tongue Lash
+New Effect:
+Now applies
+An Acquired Taste's
+damage.
+New Effect:
+Now has a base heal of 15 / 20 / 25 / 30 / 35.
+Heal health ratio reduced to
+4 / 4.
+5
+/ 5 / 5.
+5
+/ 6%
+missing
+health
+from
+6 / 7 / 8 / 9 / 10%
+.
+Abyssal Dive
+Bug Fix:
+Fixed a bug where its cooldown refund would not scale with ability haste.
+Cooldown refund increased to 40% from 30%.
+Mana cost refund increased to 40% from 30%.
+Devour
+Bug Fix:
+Fixed a bug where he could Devour an enemy without full stacks of An Acquired Taste if he queued the spell before the stacks fell off.
+Base shield increased to 400 / 500 / 600 from 300 / 450 / 600.
+Ally self slow reduced to 30 / 20 / 10% from 40 / 25 / 10%.
+V11.13
+- Gameplay Update
+Stats
+Base health reduced to 570 from 600.
+Health growth reduced to 95 from 100.
+Mana growth increased to 50 from 40.
+Base armor reduced to 42 from 47.
+An Acquired Taste
+Health ratio reduced to
+2.
+5
+%
+maximum
+health
+from
+4%
+.
+Tongue Lash
+Cooldown increased to 7 / 6.
+5
+/ 6 / 5.
+5
+/ 5 seconds from 5 at all ranks.
+Mana cost reduced to 50 / 46 / 42 / 38 / 34 from 50 at all ranks.
+Undocumented:
+Range reduced to
+900 from 930.
+Slow changed to 40% at all ranks from 30 / 40 / 50 / 60 / 70%.
+Slow duration reduced to 2 seconds from 3.
+Stun duration reduced to 1.
+5
+seconds from 2.
+New Effect:
+Now applies a stack of
+An Acquired Taste
+against champions.
+Does not apply
+An Acquired Taste's
+damage.
+Hitting champions with 3 stacks still consumes all their stacks to stun them.
+New Effect:
+Range and missile speed now scales up with his size.
+New Effect:
+Now heals for
+6 / 7 / 8 / 9 / 10%
+missing
+health
+upon hitting enemy champions.
+New Effect:
+Can now
+Devour
+enemy champions with three stacks of
+An Acquired Taste
+if
+Tongue Lash
+hits them.
+Removed:
+Can no longer activate
+Devour
+to eat minions or jungle monsters.
+Abyssal Dive
+(W)
+Swapped with
+Devour
+.
+Renamed to
+Abyssal Dive
+from
+Abyssal Voyage
+.
+Active:
+Tahm Kench
+channels
+for 1.
+35
+seconds, and upon completion
+blinks
+to the target location after a 0.
+15
+-second delay. Upon arrival, he deals 100 / 135 / 170 / 205 / 240
+(+ 100% AP)
+magic damage to nearby enemies and
+knocks them up
+and
+stuns
+them for 1 second. Hitting at least 1 enemy champion refunds 30% of the cooldown and mana cost.
+Enemies can see the indicator of this ability after he has channeled for 0.
+75
+seconds.
+Allies may travel with
+Tahm
+if they are
+Devoured
+, but can still exit early at any time.
+Tahm Kench
+is
+unable to act
+for 0.
+65
+seconds after the end of the channel.
+Cooldown:
+21 / 20 / 19 / 18 / 17 seconds.
+Mana Cost:
+60 / 75 / 90 / 105 / 120.
+Cast Range:
+1000 / 1050 / 1100 / 1150 / 1200.
+Thick Skin
+Grey health timer increased to 4 seconds from 2.
+5
+.
+Shield duration increased to 2.
+5
+seconds from 2.
+New Effect:
+Grey health is now capped at
+300%
+maximum
+health
+.
+Healing changed to
+10%
+maximum
+health
+per
+0.
+264
+seconds
+from
+12 − 209 (based on level)
+per 0.
+8
+seconds.
+Devour
+(R)
+Swapped with
+Abyssal Voyage
+.
+Active:
+Tahm Kench
+swallows the target
+champion
+for up to 3 seconds, rendering them
+vanished
+and
+unable to act
+, as well as granting them
+displacement immunity
+for the duration.
+Devour
+can be recast after 1 second, and does so automatically at the end of the duration.
+Devour
+will not automatically recast while
+Tahm Kench
+is performing
+Abyssal Dive
+, and will instead do so after he has finished.
+If the target is an ally, they are granted a 300 / 450 / 600
+(+ 100% AP)
+shield
+for 2.
+5
+seconds, refreshing after being spat out.
+Allies can exit at will by inputting a movement command, unless they're
+immobilized
+or the recast is on cooldown.
+Tahm Kench
+is unable to cast movement spells and is
+slowed
+by 40 / 25 / 10% while an ally is swallowed, but may still cast
+Abyssal Dive
+.
+Allies can see if this spell is ready next to his health bar.
+If the target is an enemy, they are
+suppressed
+for the duration and dealt 100 / 250 / 400
+(+ 15%
+(+ 5% per 100 AP)
+of the target's
+maximum
+health)
+magic damage after being spat out.
+Devour
+can only be cast on enemies with 3 stacks of
+An Acquired Taste
+, consuming the stacks in the process.
+Tahm Kench
+is
+grounded
+and
+slowed
+by 40% while an enemy is swallowed.
+Recast:
+Tahm Kench
+spits
+the target out in the target direction.
+Cooldown:
+120 / 100 / 80 seconds.
+Mana Cost:
+100.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.24
+Tongue Lash
+Bug Fix:
+Now properly breaks
+Rift Scuttler's
+shield when cast with
+Devour
+.
+V10.4
+- October 30th Hotfix
+Devour
+Bug Fix:
+Can no longer swallow faraway targets under certain circumstances.
+V10.22
+Regurgitate
+Undocumented:
+Spit out
+monsters
+now take the proper damage again.
+Thick Skin
+Undocumented:
+Now grants the
+shield
+at the start of the cast time again.
+V10.20
+Devour
+Undocumented:
+Can now sucessfully cast when targeted at a location, when cast in combination with
+Tongue Lash
+and with no target around. May fizzle or successfully devour the last targeted unit.
+(bug)
+Regurgitate
+Undocumented:
+Spit out
+monsters
+now take the splash damage, instead of the regurgitate damage.
+(bug)
+Undocumented:
+Now always regurgitates swallowed champions a fixed distance in the target direction rather than to the target location.
+(bug)
+Thick Skin
+Undocumented:
+Now grants the
+shield
+at the end of the cast time instead of at the start.
+(bug)
+V10.8
+Devour
+Bug Fix:
+Ally clones will no longer take damage from it.
+V10.5
+Devour
+Bug Fix:
+Cooldown is no longer halved when an allied champion stays inside his mouth for the full duration and no longer applies
+An Acquired Taste
+damage twice.
+V10.4
+- February 21st Hotfix
+Devour
+Bug Fix:
+Now properly spits out allies in front of him.
+V10.4
+Devour
+Bug Fix:
+Champions will no longer be in a T-pose for the remainder of the game if they get eaten by
+Devour
+.
+V9.19
+Thick Skin
+Grey health healed changed to
+30% − 100% (based on level)
+from 75% at all levels.
+V9.18
+Abyssal Voyage
+Bug Fix:
+Allies on their way to enter
+Abyssal Voyage
+will no longer be stuck when
+Tahm Kench
+is hit by an enemy.
+V9.17
+Devour
+Bug Fix:
+When he dies while using
+Devour
+on another unit, that unit's health can now properly go below 1 health.
+V9.16
+Stats
+Base movement speed reduced to 335 from 345.
+Thick Skin
+Shield duration reduced to 2 seconds from 3.
+V9.14
+- July 18th Hotfix
+An Acquired Taste
+Health ratio increased to
+4% of his
+maximum
+health
+from
+2.
+5
+%
+.
+Tongue Lash
+Cooldown reduced to 5 seconds at all ranks from 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6.
+Slow increased to 30 / 40 / 50 / 60 / 70% from 30 / 35 / 40 / 45 / 50%.
+V9.14
+An Acquired Taste
+Removed:
+Abilities no longer deal bonus magic damage based on passive stacks.
+Removed:
+Abilities no longer apply
+An Acquired Taste
+stacks.
+Health ratio changed to
+2.
+5
+% of his
+maximum
+health
+at any stack from
+1.
+5
+/ 3 / 4.
+5
+% (based on stacks)
+.
+Tongue Lash
+Cooldown increased to 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6 seconds from 8 / 7 / 6 / 5 / 4.
+Removed:
+No longer hits enemies in an arc in front of him on cast.
+New Effect:
+Now consumes all stacks of
+An Acquired Taste
+upon stunning an enemy.
+Slow reduced to 30 / 35 / 40 / 45 / 50% from 50 / 55 / 60 / 65 / 70%.
+Slow duration increased to 3 seconds from 2.
+Stun duration increased to 2 seconds from 1.
+5
+.
+Devour
+Removed:
+Enemies are no longer
+nearsighted
+when devoured.
+New Effect:
+Can now devour
+Blue Sentinel
+and
+Red Brambleback
+.
+Regurgitate
+Target's health ratio changed to
+11% of target's
+maximum
+health
+at all ranks from
+9 / 10 / 11 / 12 / 13%
+.
+Maximum monster damage changed to 500 at all ranks from 400 / 450 / 500 / 550 / 600.
+Removed:
+Enemies are no longer stunned for 0.
+25
+seconds after being devoured.
+Thick Skin
+Damage stored as grey health reduced to 45 / 50 / 55 / 60 / 65% from 80 / 85 / 90 / 95 / 100%.
+Grey health healed increased to 75% at all ranks from 20 / 25 / 30 / 35 / 40%.
+Cooldown reduced to 3 seconds from 6.
+New Effect:
+Cooldown now starts on shield destruction or expiration from on cast.
+V9.12
+Devour
+Bug Fix:
+Fixed a bug where casting
+Tongue Lash
+during
+Devour
+against non-champions would have no mana cost.
+New Effect:
+Allies can no longer release themselves from
+Devour
+early while affected by immobilizing crowd control.
+Regurgitate
+Champion regurgitate lockout time after animation reduced to 0.
+25
+seconds from 1.
+Allied champion regurgitate range reduced to 250 units from 400.
+Regurgitate base damage reduced to 60 / 105 / 150 / 195 / 240 from 100 / 135 / 170 / 205 / 240.
+Regurgitate health ratio increased to
+9 / 10 / 11 / 12 / 13% of target's
+maximum
+health
+from
+5 / 7 / 9 / 11 / 13%
+.
+V9.10
+Regurgitate
+Bug Fix:
+Tooltip now properly displays its AP ratio.
+V9.9
+Stats
+Base health increased to 600 from 540.
+Health growth reduced to 100 from 102.
+Base movement speed increased to 345 from 335.
+An Acquired Taste
+Bonus magic damage changed to
+1.
+5
+% of his
+maximum
+health
+at all levels from
+1.
+25
+/ 1.
+5
+/ 1.
+75
+% (based on level)
+.
+Tongue Lash
+Slow duration increased to 2 seconds from 1.
+5
+.
+Cooldown changed to 8 / 7 / 6 / 5 / 4 seconds from 5 at all ranks.
+Missile range increased to 900 units from 800.
+Slow strength increased to 50 / 55 / 60 / 65 / 70% from 30 / 40 / 50 / 60 / 70%.
+Devour
+New Effect:
+Now
+slows
+for 95% and
+grounds
+Tahm Kench
+if he devours an allied champion.
+New Effect:
+Now refunds 50% of its mana cost on devouring an enemy.
+Mana cost increased to 100 from 60.
+Cooldown changed to 20 seconds at all ranks from 28 / 25 / 22 / 19 / 16.
+Projectile base damage reduced to 100 / 135 / 170 / 205 / 240 from 100 / 150 / 200 / 250 / 300.
+Regurgitate damage changed to 100 / 135 / 170 / 205 / 240
+(+ 5 / 7 / 9 / 11 / 13%
+(+ 2% per 100 AP)
+of target's
+maximum
+health)
+from
+20 / 23 / 26 / 29 / 32%
+(+ 2% per 100 AP)
+of target's
+maximum
+health
+.
+Thick Skin
+Percent of grey health converted into healing increased to 20 / 25 / 30 / 35 / 40% from 15 / 20 / 25 / 30 / 35%.
+Damage converted to grey health increased to 80 / 85 / 90 / 95 / 100% from 70 / 75 / 80 / 85 / 90%.
+Mana cost reduced to 0 from 50.
+Abyssal Voyage
+Range changed to 2500 / 5500 / 8500 units from 4500 / 5500 / 6500.
+Cooldown increased to 140 / 130 / 120 seconds from 120 / 110 / 100.
+V9.2
+Abyssal Voyage
+New Effect:
+Allies in combat with enemy champions can no longer jump into
+Abyssal Voyage
+.
+V8.24
+Devour
+Bug Fix:
+SFX have fully been restored.
+V8.19
+Stats
+Base health reduced to 540 from 610.
+Health growth increased to 102 from 95.
+Devour
+Bug Fix:
+Allies
+Tahm Kench
+has devoured will no longer sometimes be targetable when first swallowed.
+V8.16
+Tongue Lash
+Slow duration reduced to 1.
+5
+seconds from 2.
+Cooldown reduced to 5 seconds from 6.
+Devour
+Devour duration reduced to 4 seconds at all ranks from 4 / 4.
+5
+/ 5 / 5.
+5
+/ 6.
+Enemy devour duration reduced to 2 seconds at all ranks from 2 / 2.
+25
+/ 2.
+5
+/ 2.
+75
+/ 3.
+Cooldown increased to 28 / 25 / 22 / 19 / 16 seconds from 14 / 13 / 12 / 11 / 10.
+New Effect:
+Refunds 50% of its cooldown if cast against an enemy.
+Mana cost reduced to 60 from 90.
+V8.8
+Devour
+Removed:
+15 / 17.
+5
+/ 20 / 22.
+5
+/ 25%
+bonus
+movement speed with an ally in his belly when moving towards enemy champions.
+Thick Skin
+Health restored from grey health reduced to 15 / 20 / 25 / 30 / 35% from 25 / 30 / 35 / 40 / 45%.
+V8.7
+Urf Kench
+Bug Fix:
+Seam lines have been minimized.
+V8.3
+Devour
+Bug Fix:
+Fixed a bug where it failed to make devoured targets invulnerable to minion attacks.
+V7.22
+Stats
+Base armor increased to 47 from 27.
+V7.20
+An Acquired Taste
+Damage per stack increased to
+1.
+25
+/ 1.
+5
+/ 1.
+75
+(based on level)
+% of his
+maximum
+health
+from
+1 / 1.
+25
+/ 1.
+5
+(based on level)
+%
+.
+Devour
+Regurgitation lockout reduced to 1 second from 2.
+Bug Fix:
+Fixed a bug with the
+Tongue Lash
+and
+Devour
+combo where, if
+Tongue Lash
+dealt enough damage to kill the target minion, regurgitating the minion wouldn't do anything.
+Abyssal Voyage
+Removed:
+Devour
+being locked out for 1 second after teleporting.
+V7.16
+Master Chef Tahm Kench
+Bug Fix:
+Once again holds his knife and fork properly during all animations.
+V7.15
+Master Chef Tahm Kench
+Bug Fix:
+No longer clips through his body during several animations.
+V7.12
+Devour
+Bug Fix:
+Can no longer
+Devour
+a summoned
+Rift Herald
+.
+V7.7
+Devour
+Bug Fix:
+Is no longer able to
+Devour
+Red Brambleback
+or
+Blue Sentinel
+without first stacking his passive when enemy champions are nearby.
+V6.17
+Abyssal Voyage
+Bug Fix:
+Champion Select description display
+V6.13
+An Acquired Taste
+New Effect:
+Basic attacks and abilities deal
+1 / 1.
+25
+/ 1.
+5
+(based on level)
+% maximum health
+bonus magic damage, stacking up to 3 times against enemy champions
+Tongue Lash
+Base damage increased to 80 / 130 / 180 / 230 / 280 from 80 / 125 / 170 / 215 / 260
+Thick Skin
+Grey Health generation reduced to 70 / 75 / 80 / 85 / 90% damage taken from 100 at all ranks
+Heal increased to 25 / 30 / 35 / 40 / 45% Grey Health from 20 / 26 / 32 / 38 / 44
+Active shield duration reduced to 3 seconds from 6
+Cooldown reduced to 6 seconds at all ranks from 16 / 15 / 14 / 13 / 12
+Removed:
+Shield decaying over time
+Abyssal Voyage
+Removed:
+Passive
+2 / 4 / 6% bonus health
+bonus magic damage
+Channel duration reduced to 6 seconds from 15
+Second cast delay reduced to 0.
+25
+seconds from 1
+Warning indicator duration reduced to 1 second from 1.
+5
+Range increased to 4500 / 5500 / 6500 from 4000 / 5000 / 6000
+V6.5
+Abyssal Voyage
+Bug Fix:
+Casting while rooted
+V6.4
+Tongue Lash
+Width reduced to 70 from 90
+Abyssal Voyage
+New Effect:
+Has a 1 second delay before second cast
+New Effect:
+Allies can still join Tahm Kench if they click him during second cast's animation
+V6.2
+An Acquired Taste
+Stack duration reduced to 5 seconds from 7
+Tongue Lash
+Hitbox indicator duration increased to match full animation length
+Devour
+Bug Fix:
+Cooldown and cost being refunded when targeting an enemy affected by spell immunity (
+Black Shield
+,
+Riposte
+)
+Abyssal Voyage
+Passive bonus damage reduced to
+2 / 4 / 6% bonus health
+from 4 / 6 / 8
+V5.24
+Devour
+Removed:
+Granting bonus movement speed when moving away from enemy champions while Tahm Kench holds an ally in his belly
+V5.23
+Stats
+Attack range reduced to 175 from 200
+V5.22
+Stats
+Mana regen increased to 8 from 5.
+5
+V5.18
+Tongue Lash
+Removed:
+Having to select target for
+Devour
+during cast time
+Devour
+New Effect:
+Casting during
+Tongue Lash
+causes Tahm Kench to automatically eat the target minion or monster (if hit)
+Thick Skin
+New Effect:
+Grey Health bar has a colorblind variant
+V5.17
+An Acquired Taste
+Stack duration increased to 7 seconds from 5
+Devour
+Enemy champion regurgitate range increased to 200 from 100
+V5.16
+Stats
+Armor growth increased to 3.
+5
+from 3.
+Devour
+New Effect:
+Prioritizes champions over minions.
+Regurgitate
+New Effect:
+Spat enemies are stunned for 0.
+25
+seconds.
+Abyssal Voyage
+Warning particle for enemies updated to only appear during the 0.
+5
+seconds delay.
+V5.14
+Tongue Lash
+Base damage increased to 80 / 125 / 170 / 215 / 260 from 80 / 115 / 150 / 185 / 220.
+Abyssal Voyage
+Passive bonus damage increased to
+4 / 6 / 8% bonus health
+from 4 / 5 / 6.
+Cooldown reduced to 120 / 110 / 100 seconds from 160 / 130 / 100.
+V5.13
+- Added
+Stats
+Base health: 610
+Health growth: 95
+Base Mana: 325
+Mana growth: 40
+Base Attack Range: 200
+Base Movement Speed: 335
+Base attack damage: 56
+Attack damage growth: 3.2
+Base Attack Speed: 0,658
+Attack speed growth: 2.5
+Base health regen: 6.5
+Health regen growth: 0,55
+Base mana regen: 5.5
+Mana regen growth: 1
+Base armor: 27
+Armor growth: 3
+Base magic resistance: 32.1
+Magic resistance growth: 1.25
+An Acquired Taste
+Innate:
+Tahm Kench's basic attacks and damaging spells apply stacks of An Acquired Taste to enemy champions. At three stacks, Tongue Lash and Devour become empowered against that champion.
+Tongue Lash
+Active:
+Damage the first enemy hit for 80/115/150/185/220 (+.7 AP) magic damage and slow them by 30 / 40 / 50 / 60 / 70% for 2 seconds. Champions with 3 stacks of An Acquired Taste will additionally be stunned for 1.5 seconds. Activate Devour while your tongue is in mid-air to devour monsters/minions from a distance.
+Target Range:
+800.
+Mana Cost:
+50.
+Cooldown:
+6 seconds.
+Devour
+Active:
+Tahm Kench devours a target for 4/4.5/5/5.5/6s (half that for enemy champions.) Enemies are dealt 20 / 23 / 26 / 29 / 32% (+.02 AP)% of their maximum health as magic damage. (maximum of 400/450/500/550/600 against neutral monsters).
+Enemy Champions: Requires 3 stacks of An Acquired Taste to be devoured. While holding an enemy champion, Tahm Kench is slowed by 95%
+Allied Champions: While holding an allied champion, Tahm Kench gains 30 / 35 / 40 / 45 / 50% movement speed toward enemy champions (halved when not moving toward enemy champions).
+Minions and monsters: Reactivate to spit, dealing 100/150/200/250/300 (+0.6 AP) magic damage to targets hit.
+Target Range:
+250.
+Mana Cost:
+90.
+Cooldown:
+14 / 13 / 12 / 11 / 10 seconds.
+Thick Skin
+Passive:
+While this spell is not cooling down, damage taken by Tahm Kench  is converted to grey health. If allowed to decay, 20/26/32/38/44% of grey health will turn back into health.
+Active:
+Convert all of your grey health into a shield that lasts 6 seconds, but falls off gradually over that time.
+Mana Cost:
+50.
+Cooldown:
+16 / 15 / 14 / 13 / 12 seconds.
+Abyssal Voyage
+Passive:
+Tahm Kench's basic attacks and damaging spells deal an additional (20 + 4/5/6% of Tahm Kench's bonus health) magic damage
+Active:
+Tahm Kench's begins to channel for up to 15 seconds. During this time, one ally champion can right click Tahm Kench to join in. Alternatively, reactivate this ability to travel alone. On reactivation or once an ally has opted in, Tahm travels to the target location. Incoming champion damage breaks the channel.
+Target Range:
+5000/5500/6000.
+Mana Cost:
+100.
+Cooldown:
+160 / 130 / 100 seconds.
+Trivia
+[
+edit
+|
+edit source
+]
+Tahm Kench is one of the few champions who can apply crowd control on themselves (the others being
+Blitzcrank
+,
+Caitlyn
+,
+Lissandra
+,
+Rumble
+,
+Sion
+,
+Varus
+,
+Vi
+,
+Vel'Koz
+,
+Xerath
+, and
+Ziggs
+).
+At first it was thought the gambler and his bride were
+Tobias
+and
+Evelynn
+(
+Twisted Fate's
+cards went blank and featured an unknown cursive script in his official champion page; however,
+Twisted Fate
+and the original
+Tahm Kench
+, whose identity the malevolent River King usurped, are not the same.
+[2]
+Tahm Kench's dance has him play the tune he hums in 'The River King' with his tongue (
+Rift Scuttler
+will join him if he dances near her).
+Tahm Kench's design and playstyle may be loosely based on the Banderhobb, a toad-like creature from the Forgotten Realms universe which kidnaps unsuspecting victims by swallowing them alive and carrying them to its master's lair.
+In
+VALORANT
+on the
+Ascent
+map (Mid Bottom), there is a park bench crafted with his likeness. This is most likely a reference to the "Unbench the Kench" meme.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Warden
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+Wardens
+are defensive tanks. Wardens stand steadfast, seeking to hold the line by persistently locking down any on-comers who try to pass them. Wardens keep their allies out of harm’s way and allow them to safely deal with enemies caught in the fray.
+Examples
+Braum
+Shen
+Tahm Kench
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Tongue Lash
+COOLDOWN:
+7 / 6.
+5
+/ 6 / 5.
+5
+/ 5
+Active:
+Tahm Kench
+lashes his tongue in the target direction that deals
+magic damage
+to the first enemy hit and shortly
+slows
+them. If this hits an enemy
+champion
+,
+Tahm Kench
+also
+heals
+based on
+his
+missing
+health
+.
+An Acquired Taste
+Bonus:
+The target is briefly
+stunned
+.
+Devour
+can be cast during
+Tongue Lash
+at no cost to
+pull
+the target to
+Tahm Kench
+before swallowing them.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Devour
+COOLDOWN:
+120 / 100 / 80
+Active:
+Tahm Kench
+swallows the target
+champion
+for a short time,
+vanishing
+them.
+Devour
+can be cast on enemies only with max stacks of
+An Acquired Taste
+.
+If the target is an ally, they are granted a
+shield
+that lasts a short time.
+Tahm Kench
+will also gain
+bonus
+movement speed
+for a short time, but cannot cast movement spells besides
+Abyssal Dive
+while an ally is swallowed.
+Tahm Kench
+can cast
+Regurgitate
+within the duration, and automatically does so afterwards. The swallowed ally can also force this cast by attempting to exit in the target direction.
+An Acquired Taste
+Bonus:
+The target is
+suppressed
+while swallowed.
+Tahm Kench
+will also be
+grounded
+and
+slowed
+while an enemy is swallowed.
+Regurgitate
+Active:
+Tahm Kench
+spits
+the swallowed champion in the target direction. If they are an enemy, he deals
+magic damage
+based on the
+target's
+maximum
+health
+.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+An Acquired Taste
+Innate:
+Tahm Kench's
+basic attacks
+and
+Tongue Lash
+deal
+bonus
+magic damage
+based on
+his
+bonus
+health
+, and apply a stack of
+An Acquired Taste
+against
+champions
+that stacks up to a cap.
+Tongue Lash
+and
+Devour
+gain additional effects against enemies with max stacks, consuming them all.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Lockout
+A champion that is
+locked out
+is unable to perform certain actions such as casting abilities, moving, or attacking. The prevented actions can vary per instance.
+Lockout does not interact with
+crowd control
+mechanics unless otherwise stated.
+League of Legends content
+Abyssal Dive
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Active:
+Tahm Kench
+briefly
+channels
+, then dives into the waters to
+blink
+to the target location. He emerges to deal
+magic damage
+to nearby enemies, as well as briefly
+knock up
+and
+stun
+them.
+If this hits at least one enemy
+champion
+, a portion of the
+cooldown
+and
+mana cost
+are refunded.
+"Boy, the world's one river, and I'm its king. Ain't no place I ain't been; ain't no place I can't go again."
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Resurrection
+A unit that is protected by
+Resurrection
+will enter a revival state and dispel most debuffs upon taking
+fatal damage
+. After the state completes, the unit is revived.
+Resurrection
+effects do not count for kills or assists.
+Resurrection
+sources have a hierarchy, and will trigger in the following order:
+Zilean's
+Chronoshift
+Guardian Angel
+Anivia's
+Rebirth
+and
+Zac's
+Cell Division
+Resurrection
+will always take precedence over
+zombie state
+effects. Entering
+resurrection
+does not cancel cast times.
+Renata Glasc's
+Bailout
+always takes priority over
+resurrection
+.
+League of Legends content
+Ultra Rapid Fire (U.R.F.)
+Ultra Rapid Fire
+is a
+Featured Game Mode
+that takes place on
+Summoner's Rift
+with the same objective as
+Classic 5v5
+, except all
+champions
+benefit from the
+Awesome Buff of Awesomely Awesome Buffing
+that grants excessive  ability haste and removes ability costs. The gameplay is
+explosive
+. The game mode can be played as
+All Random
+or
+Blind pick
+depending on the year.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Blink
+A
+blink
+refers to a form of movement whereby a unit displaces from point A to B without traversing the space between.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Vanish
+In addition to granting
+untargetability
+,
+vanish
+briefly hides a unit from the game's renderer, which causes it to become completely undetectable and invisible even to effects such as
+Oracle Lens
+.
+Vanished
+units are
+unable to act
+. As with all untargetability,
+tethers
+will still persist on a target that
+vanishes
+.
+Vanish
+is not considered
+stealth
+and does not interact with
+sight
+effects.
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Tahm Kench's profile page
+at
+LeagueOfLegends.com
+↑
+Twisted Fate is not the same gambler as the one in Tahm Kench's teaser

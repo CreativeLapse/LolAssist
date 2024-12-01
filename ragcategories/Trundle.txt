@@ -1,0 +1,2211 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Trundle
+the Troll King
+Release date
+2010-12-01
+Last changed
+V14.21
+Class(es)
+Juggernaut
+Legacy
+Fighter
+Tank
+Position(s)
+Top
+Jungle
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+2
+Toughness
+3
+Control
+1
+Mobility
+1
+Utility
+2
+Style
+Difficulty
+Trundle
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Trundle
+Base statistics
+Edit
+Health
+650
++110
+Mana
+340
++45
+Health regen. (per 5s)
+6
++0.75
+Mana regen. (per 5s)
+7.5
++0.6
+Armor
+37
++3.9
+Attack damage
+68
++4
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+350
+Attack range
+175
+Attack speed
+Base AS
+0.67
+Attack windup
+20.833%
+AS ratio
+N/A
+Bonus AS
++2.9
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+135
+Pathing radius
+26
+Acq. radius
+400
+Special statistics
+Damage Dealt
++0%
+Damage Received
++5%
+Healing
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++7%
+Damage Dealt
+-5%
+Damage Received
++0%
+Healing
+-20%
+Damage Dealt
++0%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+King's Tribute
+EFFECT RADIUS:
+1400
+Innate:
+Enemies that die near
+Trundle
+cause him to
+heal
+based on
+their
+maximum
+health
+.
+Innate:
+Whenever a nearby enemy dies,
+Trundle
+heals
+himself for
+1.
+8
+% − 5.
+5
+% (based on level)
+of the target's
+maximum
+health
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+King's Tribute
+does not trigger when an enemy structure is destroyed.
+Edit
+Chomp
+COST:
+20 Mana
+COOLDOWN
+:
+3.
+5
+CAST TIME:
+none
+Active:
+Trundle's
+next basic attack with a few seconds will deal
+bonus
+physical damage
+and briefly
+slow
+the target. Afterwards,
+Trundle
+gains
+bonus
+attack damage
+for a few seconds, during which he reduces the target's
+attack damage
+.
+Active:
+Trundle
+empowers his next
+basic attack
+within 7 seconds to have an
+uncancellable windup
+, gain
+25
+bonus
+range
+, deal
+bonus
+physical damage
+and
+slow
+the target by 75% for 0.
+1
+seconds.
+Bonus Physical Damage:
+10 / 30 / 50 / 70 / 90
+(+ 15 / 25 / 35 / 45 / 55% AD)
+After using the empowered attack,
+Trundle
+gains
+bonus
+attack damage
+for 5 seconds and reduces the target's
+attack damage
+by half that amount for the same duration.
+Bonus Attack Damage:
+20 / 25 / 30 / 35 / 40
+Attack Damage Reduction:
+10 / 12.
+5
+/ 15 / 17.
+5
+/ 20
+Chomp
+resets
+Trundle's
+basic attack timer.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Counters
+Spell shield
+See Notes
+Parries
+See Notes
+Chomp
+will still incur the
+attack damage
+increase for
+Trundle
+even if the attack is
+dodged
+,
+blocked
+, missed while he is
+blinded
+, or it is blocked by
+spell shield
+.
+Spell shield
+will only block the attack damage reduction and
+slow
+.
+Map-Specific Differences
+Arena
+differences
+edit
+AD ratio changed to
+105 / 115 / 125 / 135 / 145% AD
+.
+Bonus attack damage changed to 10 / 15 / 20 / 25 / 30.
+Enemy attack damage reduction changed to
+5 − 15 (based on level)
+.
+Edit
+Frozen Domain
+COST:
+40 Mana
+COOLDOWN:
+16 / 15 / 14 / 13 / 12
+CAST TIME:
+none
+TARGET RANGE:
+750
+EFFECT RADIUS:
+775
+Active:
+Trundle
+coats the target location in ice for a period. While he is within the area, he gains
+bonus
+attack speed
+,
+bonus
+movement speed
+, and increased
+healing
+from all sources.
+Active:
+Trundle
+coats the target location in ice for 8 seconds. While he is within the area, he gains
+bonus
+attack speed
+,
+bonus
+movement speed
+, and 25% increased
+healing
+from all sources.
+Bonus Attack Speed:
+30 / 50 / 70 / 90 / 110%
+Bonus Movement Speed:
+20 / 28 / 36 / 44 / 52%
+Frozen Domain will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+If
+Frozen Domain
+is attempted to be cast beyond 750 units away, it'll cast at the maximum range instead.
+Edit
+Pillar of Ice
+COST:
+75 Mana
+COOLDOWN:
+24 / 22 / 20 / 18 / 16
+CAST TIME:
+0.
+25
+TARGET RANGE:
+1000
+EFFECT RADIUS:
+360
+/
+225
+Pillar radius:
+150
+Active:
+Trundle
+erects an ice pillar at the target location that remains for a few seconds, which
+knocks back
+units hit. The pillar acts as
+terrain
+and
+slows
+nearby enemies.
+Active:
+Trundle
+erects a pillar of ice at the target location for 6 seconds, which
+knocks back
+units hit to 225 units from its center. The pillar acts as
+terrain
+and
+slows
+nearby enemies.
+Slow:
+30 / 34 / 38 / 42 / 46%
+Info
+Targeting input
+Location
+Counters
+Spell shield
+Not Blocked
+Pillar of Ice
+displaces allied units away from the area but does not render them
+airborne
+.
+Allied
+channels
+(e.g.
+Recall
+,
+Teleport
+) will be
+interrupted
+however.
+Pillar of Ice
+cannot be placed inside impassable terrain. Attempting to do so will cause the pillar to spawn in the nearest available spot of accessible terrain.
+Pillar Of Ice
+triggers effects such as drawing turret aggro,
+Sudden Impact
+and applying
+Elixir of Sorcery
+by dealing 0
+proc
+true damage
+.
+Edit
+Subjugate
+COST:
+100 Mana
+COOLDOWN:
+120 / 100 / 80
+CAST TIME:
+0.
+25
+TARGET RANGE:
+650
+Active:
+Trundle
+drains the life force of the target enemy champion, dealing
+magic damage
+based on
+their
+maximum
+health
+and
+healing
+for the same amount. He also steals a portion of their
+armor
+and
+magic resist
+, and increases in
+size
+while reducing their
+size
+. Half of the damage and stealing is applied instantly, and the other half is applied over a few seconds. The
+armor
+and
+magic resist
+will remain stolen for a few seconds afterwards.
+Active:
+Trundle
+drains the life force out of the target enemy champion, dealing
+magic damage
+and
+healing
+himself for the same amount. He also steals 40% of their
+current
+armor
+and
+magic resistance
+, and increases in
+size
+by 18% while reducing the target's
+size
+by 9.
+9
+%.
+Total Magic Damage:
+20 / 25 / 30%
+(+ 2% per 100 AP)
+of the target's
+maximum
+health
+Half of the
+total
+damage and stealing are applied instantly, and the other half, as well as the size modifiers, are applied every second over the next 4 seconds, even if the target has
+died
+.
+Initial Magic Damage:
+10 / 12.
+5
+/ 15%
+(+ 1% per 100 AP)
+of the target's
+maximum
+health
+Magic Damage Per Second:
+2.
+5
+/ 3.
+125
+/ 3.
+75
+%
+(+ 0.
+25
+% per 100 AP)
+of the target's
+maximum
+health
+The
+armor
+and
+magic resistance
+will remain stolen for 4 seconds after the drain has ended.
+Info
+Targeting input
+Unit
+Damage type
+Type
+DOT damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+The
+total
+value of armor and magic resist stolen and damage dealt is determined at the time of cast. The stolen
+stats
+do not update dynamically relative to the target's stats at any point during the effect, as the steal is applied to the
+current
+value of armor and magic resistance.
+Trundle
+gains 11.
+7
+extra
+range
+on his
+basic attacks
+(relative to his and enemy center) as a consequence of his increased
+size
+.
+So do his enemies.
+He gains 3.
+78
+to 6.
+255
+range against the target he
+subjugated
+, depending on their base size, and so does the target against him.
+The debuff on the target also
+persists through death
+.
+Trundle
+will lose the buff if the target loses the debuff, for example if it enters
+resurrection
+.
+(note)
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+Map-Specific Differences
+One for All
+differences
+edit
+Subjugate
+stacks
+if cast on the same target more than once by
+other sources
+.
+Arena
+differences
+edit
+Total base damage changed to
+10 / 15 / 20% of target's
+maximum
+health
+.
+Resistances reduction changed to 30%.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Trundle (Collection)
+.
+Original
+View in 3D
+880
+01.12.2010
+Trundle is a hulking and devious troll with a particularly vicious streak, and there is nothing he cannot bludgeon into submission—not even the Freljord itself. Fiercely territorial, he chases down anyone foolish enough to enter his domain. Then, his massive club of True Ice at the ready, he chills his enemies to the bone and impales them with jagged, frozen pillars, laughing as they bleed out onto the tundra.
+Joshua Tomar
+Joshua 'HUGEnFAST' Brian Smith
+Loot eligible
+Lil' Slugger
+View in 3D
+520
+01.12.2010
+Unable to let go of being rejected from the major and minor leagues, Trundle has joined a little league team after saying he was thirteen years old on an admission form. Trundle is an eleven-foot-tall ice troll who enjoys allying with evil wizards and biting people to death. Practice has been… interesting.
+Joshua Tomar
+Sperasoft Studio
+Day Job
+Loot eligible
+New SFX/VFX
+Junkyard
+View in 3D
+750
+01.12.2010
+Self-proclaimed king of the Wasteland's endless, irradiated junk heaps, Trundle saunters about his vast 'kingdom' flanked by a small army of sycophantic thugs. Any travelers discovered in his domain are subjected to painfully theatrical displays of grandeur—then beatings, then death.
+Joshua Tomar
+Unknown artist
+Road Warrior
+Loot eligible
+New SFX/VFX
+Traditional
+View in 3D
+975
+30.04.2013
+Created to capture the original feel of Trundle, one of our first fully reworked champions.
+Joshua Tomar
+Mitchell Malloy
+Traditional
+Loot eligible
+Legacy
+New voiceover
+New SFX/VFX
+Constable
+View in 3D
+750
+28.11.2014
+Constable Trundle's definition of keeping the peace translates to barking insults at jaywalkers, haphazardly placing cones in the street, and perhaps worst of all, plundering doughnuts from all the local bakeries. Needless to say, this behavior results in some very stern browbeatings from Piltover Yard.
+Joshua Tomar
+Unknown artist
+Cops and Robbers
+Loot eligible
+New SFX/VFX
+Worldbreaker
+View in 3D
+750
+10.11.2016
+The second of four titans prophesied to shatter the world, it has been foretold that Trundle will appear when the moon smothers the sun. In that darkness, he will rise in the north, blanketing all of creation with frost until the land is cold and silent.
+Joshua Tomar
+Mike Azevedo
+Worldbreaker
+Loot eligible
+New SFX/VFX
+Dragonslayer
+View in 3D
+1350
+30.01.2020
+The king of a clan of giant trolls, Trundle is a revered dragonslayer. Blessed with the ability to command the raw power of mountain ice, he defends his realm from death and destruction. Over the ages, surviving trolls have looked up to him as their fearsome leader in this world torn asunder by dragon fire.
+Joshua Tomar
+Lucas Parolin, West Studio
+Dragon World
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dragonslayer Trundle Chromas
+Amethyst
+Catseye
+Pearl
+Rose Quartz
+Ruby
+Fright Night
+View in 3D
+1350
+22.09.2022
+Teenage nightmare Trundle leaves everything distressed
+But he won't lift a finger cleaning up his mess
+Howling, growling, scowling, his chores he won't address,
+For he has a team (or two) of Scareball players to impress!
+Joshua Tomar
+David Villegas, West Studio
+Fright Night
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Fright Night Trundle Chromas
+Catseye
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Esports Fan
+View in 3D
+1350
+09.10.2024
+Commemorating LoL Player Days 2024.
+Joshua Tomar
+Pandart Studio
+Superfans
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Esports Fan Trundle Chromas
+Citrine
+Emerald
+Jasper
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.21
+General
+Bug Fix:
+No longer sometimes accidentally plays the default (en-us) version of his VO in other localizations.
+V14.5
+Pillar of Ice
+Bug Fix:
+Pillar no longer grants vision around itself.
+V14.3
+Stats
+Base health reduced to 650 from 686.
+Chomp
+Base damage reduced to 10 / 30 / 50 / 70 / 90 from 20 / 40 / 60 / 80 / 100.
+V14.2
+Chomp
+New Effect:
+Empowered attack now gains 25 bonus attack range.
+V13.23
+Stats
+Attack damage growth increased to 4 from 3.
+Chomp
+Mana cost reduced to 20 from 30.
+V13.9
+Stats
+Base mana increased to 340 from 281.
+Base attack speed increased to 0.
+67
+from 0.
+6
+.
+V13.4
+Subjugate
+Undocumented/Bug Fix:
+Trundle
+no longer loses his own buff if the target manages to dispel its debuff (e.g. by having
+Guardian Angel
+triggered).
+V13.3
+General
+New Effect:
+Dance animation speed now scales with movement speed.
+Frozen Domain
+Cooldown reduced to 16 / 15 / 14 / 13 / 12 seconds from 18 / 17 / 16 / 15 / 14.
+V12.23
+Stats
+Base attack speed reduced to 0.
+6
+from 0.
+67
+.
+Subjugate
+Base damage reduced to
+20 / 25 / 30% of target's
+maximum
+health
+from
+20 / 27.
+5
+/ 35%
+.
+V12.17
+Frozen Domain
+Cooldown increased to 18 / 17 / 16 / 15 / 14 seconds from 15 / 14 / 13 / 12 / 11.
+V12.16
+Pillar of Ice
+Bug Fix:
+VFX now properly match the effect's duration.
+V12.14
+General
+Bug Fix:
+Knocked up/stunned animation is now correctly played.
+V12.10
+Stats
+Base health increased to 686 from 616.
+Health growth increased to 110 from 96.
+Armor growth increased to 3.
+9
+from 2.
+7
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+King's Tribute
+Heal health ratio reduced to
+1.
+8
+% − 5.
+5
+% (based on level)
+of target's
+maximum
+health
+from
+2% − 7% (based on level)
+.
+V11.21
+Chomp
+New Effect:
+Now trigger spell effects when dealing damage.
+V11.18
+Pillar of Ice
+Slow strength reduced to 30 / 34 / 38 / 42 / 46% from 32 / 39 / 46 / 53 / 60%.
+V11.12
+King's Tribute
+Bug Fix:
+No longer triggers if he's near
+Baron Nashor
+a few seconds after it spawns.
+V11.9
+Pillar of Ice
+Slow increased to 32 / 39 / 46 / 53 / 60% from 20 / 30 / 40 / 50 / 60%.
+V11.8
+Frozen Domain
+Bug Fix:
+Now properly increases the healing received from omnivamp.
+V11.5
+Chomp
+Cooldown reduced to 3.
+5
+seconds from 4.
+V11.2
+Chomp
+AD ratio increased to
+15 / 25 / 35 / 45 / 55% AD
+from
+10 / 20 / 30 / 40 / 50% AD
+.
+Frozen Domain
+Bonus attack speed increased to 30 / 50 / 70 / 90 / 110% from 20 / 40 / 60 / 80 / 100%.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.21
+King's Tribute
+Healing increased to
+2% − 7% (based on level)
+of enemies
+maximum
+health
+from
+2 / 3 / 4 / 5 / 6% (based on level)
+.
+Frozen Domain
+Cooldown reduced to 15 / 14 / 13 / 12 / 11 seconds from 15 at all ranks.
+V10.14
+Frozen Domain
+Bonus attack speed reduced to 20 / 40 / 60 / 80 / 100% from 30 / 47.
+5
+/ 65 / 82.
+5
+/ 100%.
+V10.12
+Stats
+Base health reduced 616 from 616.
+28
+.
+Base mana reduced to 281 from 281.
+6
+.
+Base mana regeneration reduced to 7.
+5
+from 7.
+508
+.
+Frozen Domain
+Bonus movement speed changed to 20 / 28 / 36 / 44 / 52% from 30 / 35 / 40 / 45 / 50%.
+V10.11
+General
+Adjusted splash artwork for
+Constable Trundle
+.
+V10.9
+Subjugate
+Cooldown increased to 120 / 100 / 80 seconds from 100 / 80 / 60.
+V10.4
+- February 19th Hotfix
+Pillar of Ice
+Bug Fix:
+Can no longer damage allies by displacing them if he has an item with
+Immolate
+.
+V10.2
+Frozen Domain
+Bonus movement speed increased to 30 / 35 / 40 / 45 / 50% from 20 / 25 / 30 / 35 / 40%.
+Pillar of Ice
+Slow increased to 20 / 30 / 40 / 50 / 60% from 15 / 25 / 35 / 45 / 55%.
+V9.8
+Chomp
+Base damage increased to 20 / 40 / 60 / 80 / 100 from 20 / 35 / 50 / 65 / 80.
+Subjugate
+Cooldown reduced to 100 / 80 / 60 seconds from 110 / 90 / 70.
+V9.6
+Frozen Domain
+Bonus attack speed increased to 30 / 47.
+5
+/ 65 / 82.
+5
+/ 100% from 20 / 40 / 60 / 80 / 100%.
+V9.4
+Frozen Domain
+Mana cost reduced to 40 from 60.
+Bonus attack speed increased to 20 / 40 / 60 / 80 / 100% from 20 / 35 / 50 / 65 / 80%.
+V8.22
+Chomp
+Base damage increased to 20 / 35 / 50 / 65 / 80 from 20 / 30 / 40 / 50 / 60.
+AD ratio increased to
+10 / 20 / 30 / 40 / 50% AD
+from
+0 / 10 / 20 / 30 / 40% AD
+.
+V8.18
+Pillar of Ice
+Cooldown increased to 24 / 22 / 20 / 18 / 16 seconds from 22 / 20 / 18 / 16 / 14.
+Slow changed to 15 / 25 / 35 / 45 / 55% from 30 / 35 / 40 / 45 / 50%.
+V8.16
+Chomp
+Base damage reduced to 20 / 30 / 40 / 50 / 60 from 20 / 40 / 60 / 80 / 100.
+AD ratio increased to
+0 / 10 / 20 / 30 / 40% AD
+from
+0 / 5 / 10 / 15 / 20% AD
+.
+Bonus attack damage duration reduced to 5 seconds from 8.
+V8.2
+Subjugate
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V7.22
+Stats
+Base attack damage increased to 68 from 60.
+04
+.
+Base armor increased to 37 from 27.
+536
+.
+V7.14
+Pillar of Ice
+Removed:
+Giving vision around the cast area.
+V7.13
+Chomp
+New Effect:
+Can now target turrets.
+New Effect:
+The attack following
+Chomp
+now has more consistent timing and scales better with attack speed.
+Frozen Domain
+Increased healing from all sources increased to 25% from 20%.
+Bug Fix:
+Was previously already giving 25% increased health restoration.
+V7.2
+Subjugate
+Bug Fix:
+No longer speaks over himself when using
+Subjugate
+if he's already talking.
+V6.18
+King's Tribute
+Bug Fix:
+Heal now properly procs when
+Rift Herald
+and
+Rift Scuttler
+are killed.
+V6.17
+Pillar of Ice
+Cooldown changed to 22 / 20 / 18 / 16 / 14 seconds from 23 / 20 / 17 / 14 / 11.
+V6.13
+Stats
+Base health regeneration reduced to 6 from 9.
+425
+V6.11
+King's Tribute
+Bug Fix:
+No longer procs when
+Zed's
+Death Mark
+shadow expires.
+V6.9
+General
+New splash artwork for
+Lil' Slugger Trundle
+,
+Junkyard Trundle
+and
+Traditional Trundle
+.
+V6.1
+Chomp
+No longer affects turrets.
+Pillar of Ice
+Mana cost increased to 75 from 60 at all ranks.
+Subjugate
+Cooldown increased to 110 / 90 / 70 from 80 / 70 / 60.
+Mana cost increased to 100 from 75.
+V5.23
+Stats
+Attack range increased to 175 from 125.
+V5.12
+Subjugate
+Total
+target's maximum health
+ratio increased to 20 / 27.
+5
+/ 35% from 20 / 24 / 28%.
+V5.9
+Pillar of Ice
+Slow increased to 30 / 35 / 40 / 45 / 50% from 25 / 30 / 35 / 40 / 45%.
+Knockback Distance increased to 225 from 150.
+V5.5
+King's Tribute
+Range increased to 1400 from 1000.
+Frozen Domain
+Healing amplification increased to 20% at all ranks from 8 / 11 / 14 / 17 / 20%.
+Subjugate
+Fixed a bug that caused Subjugate to only steal 36% of the target's Armor and Magic Resistance instead of 40%.
+V4.5
+Stats
+Base armor increased to 23 from 19.
+V3.8
+Pillar of Ice
+Slow refresh rate reduced to 0.
+25
+seconds.
+V3.6
+- Rework
+Full Relaunch
+General
+Complete visual upgrade across all skins.
+New splash artwork for
+Original Trundle
+.
+New voice over.
+New lore.
+Decompose
+Renamed
+King's Tribute
+Rabid Bite
+Renamed
+Chomp
+Damage adjusted to 20 / 40 / 60 / 80 / 100
+(+ 100 / 105 / 110 / 115 / 120% attack damage)
+from 30 / 45 / 60 / 75 / 90
+(+ 80 / 90 / 100 / 110 / 120% attack damage)
+.
+Now slows target by 75% for 0.
+1
+seconds on hit.
+Animation speed scales with Trundle's attack speed.
+Contaminate
+Renamed
+Frozen Domain
+Attack speed bonus increased to 20 / 35 / 50 / 65 / 80% from 20 / 30 / 40 / 50 / 60%.
+Now grants 8 / 11 / 14 / 17 / 20% increased healing to Trundle.
+No longer grants
+Tenacity
+.
+Pillar of Filth
+Renamed
+Pillar of Ice
+Now interrupts channels.
+Duration reduced to 6 seconds from 6.5.
+Agony
+Renamed
+Subjugate
+Initial damage and drain over time changed to 10 / 11 / 12
+(+ 1 per 100 AP)
+% max health damage from 100 / 175 / 250
+(+ 60% AP)
+.
+Initial armor and magic resist steal and drain over time adjusted to 20% from 15 / 20 / 25%.
+Drain over time effect now applies over 4 seconds and keeps the stats for another 4 seconds afterwards instead of draining over 6 seconds.
+V3.5
+Pillar of Filth
+Fixed a bug where Pillar of Filth could stop uninterruptible movement abilities such as
+Malphite's
+Unstoppable Force
+.
+V1.0.0.152
+Stats
+Movement speed increased to 350 from 325.
+V1.0.0.150
+Rabid Bite
+Mana cost reduced to 30 from 40.
+Contaminate
+Cast animation no longer locks Trundle out of using other abilities.
+V1.0.0.131
+Contaminate
+Now additionally reduces silences and blinds.
+V1.0.0.129
+Contaminate
+Now additionally reduces silences and blinds.
+No longer ignores persistent slow fields such as
+Kog'Maw's
+Void Ooze
+when stacked with other disable duration reductions (ex. Tenacity).
+V1.0.0.123
+Rabid Bite
+Fixed a bug where it was not blocked by spell shields.
+V1.0.0.118
+Pillar of Filth
+Fixed a bug where the particle could queue up in the fog of war.
+V1.0.0.116
+Rabid Bite
+Fixed a bug where it could be dodged.
+V1.0.0.106
+Pillar of Filth
+Undocumented:
+Now additionally deals 0 damage (
+true damage
+, sourcetype
+default
+) to targets it knocks back to trigger certain damage events such as turret aggro.
+V1.0.0.106
+Added
+Decompose
+(Innate)
+Whenever an enemy unit near Trundle dies, he heals for a percentage of their maximum health.
+Rabid Bite
+(Q)
+Trundle bites his opponent, dealing damage and sapping some of their attack damage.
+Contaminate
+(W)
+Trundle infects a target location with his curse, gaining attack speed, movement speed, and crowd control reduction while on it.
+Pillar of Filth
+(E)
+Trundle creates a plagued beacon at a target location, which becomes impassable terrain and slows all nearby enemy units.
+Agony
+(Ultimate)
+Trundle immediately steals his target's health and a percentage of their armor and magic resistance. Over the next six seconds the amount of health, armor, and magic resistance stolen is doubled.
+Trivia
+[
+edit
+|
+edit source
+]
+The word "trundle" means to "move or cause to move slowly and heavily, typically in a noisy or uneven way."
+Trundle was the first champion to cost
+4800
+.
+Trundle's hair resembles the
+Troll doll's
+hair.
+Trundle's
+Recall
+animation is the famous "Winter is Coming" pose from the television series
+Game of Thrones
+.
+The area for
+Frozen Domain
+is currently, not counting global abilities, the largest
+AoE
+in the game.
+Trundle,
+Karma
+,
+Lee Sin
+, and
+Sejuani
+are the only champions to feature a 'traditional' skin representing them before their visual updates (his was conceived while producing a 'Frost Troll' skin)
+Trundle's dance references
+Dancing Trollface
+.
+A side-by-side comparison can be seen
+here.
+He will dance faster the more movement speed he has.
+Trundle
+,
+Vayne
+, and
+Warwick
+are the only champions without damaging area-of-effect abilities.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Juggernaut
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+Juggernauts
+are melee titans who relentlessly march down the opposition and devastate those foolish enough to get within their grasp. They are the only subclass who excel at both dealing and taking significant amounts of damage, but in turn they have a tough time closing in on targets due to their low range and extremely limited mobility.
+Examples
+Dr. Mundo
+Darius
+Mordekaiser
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Interrupt
+Interrupt
+is a quality of crowd control that
+interrupts
+an in-progress effect, preventing its completion or causing the effect to go off at an
+interrupted
+state.
+The following crowd control effects
+interrupt
+channeled and charged
+abilities (unless otherwise noted by the ability):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+The following crowd control effects
+interrupt
+dashes
+:
+Airborne
+Knockdown
+Stasis
+Basic attack windups
+are
+interrupted
+by all forms of crowd control that inhibit attacking.
+Ground
+and
+Root
+only
+interrupt
+channeled and charged movement abilities.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+True damage
+Applies:
+Corrupting Potion
+Omnivamp
+Mitigated by:
+Damage shields
+Invulnerability
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Persistent damage
+Persistent damage
+is the damage type dealt primarily by damage over time (DoT) abilities. Most sources of
+persistent damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+persistent damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 5% whenever you deal an instance of
+persistent damage
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Basic attack
+The
+basic attack
+(or
+auto-attack
+) is the most basic means of a unit to deal damage to another unit, usually dealing
+100% AD
+. It has a brief cooldown based on the caster's current
+attack speed
+.
+All
+basic attacks
+are normally unit-targeted with their range limited by the caster's
+attack range
+, and have a brief attack
+windup
+. Damage is then dealt depending on the caster's range type:
+Melee
+and some projectile-less ranged attacks deal damage immediately.
+Ranged
+attacks usually send a projectile that follows the target and deals damage upon striking them. Projectiles can be intercepted by certain
+blocking
+effects.
+The damage event will trigger
+on-hit effects
+from buffs the caster may hold. If damage cannot be dealt, on-hit effects will not be triggered.
+On-attack
+effects will always trigger when the attack's
+windup
+completes.
+League of Legends content
+Resurrection
+A unit that is protected by
+Resurrection
+will enter a revival state and dispel most debuffs upon taking
+fatal damage
+. After the state completes, the unit is revived.
+Resurrection
+effects do not count for kills or assists.
+Resurrection
+sources have a hierarchy, and will trigger in the following order:
+Zilean's
+Chronoshift
+Guardian Angel
+Anivia's
+Rebirth
+and
+Zac's
+Cell Division
+Resurrection
+will always take precedence over
+zombie state
+effects. Entering
+resurrection
+does not cancel cast times.
+Renata Glasc's
+Bailout
+always takes priority over
+resurrection
+.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+One For All
+Players battle in a 5v5
+Draft Pick
+in
+Summoner's Rift
+, with the only difference being that all
+champions
+on each team are the same.
+During champion select, all players have the power to ban one champion from being picked at the start. After bans from both teams have been declared, players can choose to vote for a champion they want to play by a percent chance, or by majority rule if no other champions have been contested.
+All champions receive the
+One for All buff
+, which grants 70
+summoner spell haste
+and
+40
+bonus
+movement speed
+.
+Karthus
+and
+Teemo
+are disabled in this mode.
+References
+[
+edit
+|
+edit source
+]
+↑
+Trundle's profile page
+at
+LeagueOfLegends.com

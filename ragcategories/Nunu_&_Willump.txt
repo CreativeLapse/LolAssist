@@ -1,0 +1,2680 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Nunu & Willump
+the Boy and His Yeti
+Release date
+2009-02-21
+Last changed
+V13.19
+Class(es)
+Vanguard
+Legacy
+Tank
+Mage
+Position(s)
+Jungle
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Magic
+Store price
+450
+|
+260
+Crafting
++
+270
+Ratings
+Damage
+1
+Toughness
+3
+Control
+2
+Mobility
+1
+Utility
+2
+Style
+Difficulty
+Nunu
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Nunu
+Base statistics
+Edit
+Health
+610
++90
+Mana
+280
++42
+Health regen. (per 5s)
+5
++0.8
+Mana regen. (per 5s)
+7
++0.5
+Armor
+29
++4.2
+Attack damage
+61
++3
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+345
+Attack range
+125
+Attack speed
+Base AS
+0.625
+Attack windup
+19.359%
+AS ratio
+N/A
+Bonus AS
++2.25
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+140
+Pathing radius
+35
+Acq. radius
+600
+Abilities
+[
+edit
+|
+edit source
+]
+The champion
+Nunu
+consists of two beings:
+The
+yeti
+Willump
+is the primary one answering movement commands and performing
+basic attacks
+.
+The
+human
+Nunu
+is used to visualize various
+abilities
+, and appears in
+emotes
+. He is not one distinct unit.
+Edit
+Call of the Freljord
+TARGET IMMUNITY
+:
+10
+TARGET RANGE:
+1000
+/
+700
+Innate:
+When
+Nunu
+and
+Willump
+deal damage against an enemy
+champion
+, large
+monster
+or
+structure
+, they and a nearby allied champion gain
+Call of the Freljord
+for a few seconds, prioritizing the ally with
+highest
+attack speed
+.
+Call of the Freljord
+cannot be gained from the same enemy again for some time.
+Call of the Freljord:
+Gain
+bonus
+attack speed
+and
+bonus
+movement speed
+.
+Willump's
+basic attacks
+additionally deal
+physical damage
+to secondary targets in a cone in front of him.
+Innate:
+When
+Nunu
+and
+Willump
+deal damage against an enemy
+champion
+, large
+monster
+or
+structure
+, they and a nearby allied champion gain
+Call of the Freljord
+for 4 seconds, prioritizing the ally with
+highest
+attack speed
+.
+Call of the Freljord:
+Gain
+20%
+bonus
+attack speed
+and
+10%
+bonus
+movement speed
+.
+Willump's
+basic attacks
+additionally deal
+30% AD
+physical damage
+to secondary targets in a cone in front of him.
+Nunu
+and
+Willump
+cannot trigger
+Call of the Freljord
+from the same enemy again for a time. Successive triggers of
+Call of the Freljord
+while it is active will extend the duration by 4 seconds.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Default damage
+Sub-type
+Physical
+The splash damage will critically strike when the basic attack does, but will not deal any bonus damage.
+Call of the Freljord
+range to be shared with allies is based on
+Nunu
+and
+Willump's
+location.
+If no ally is prioritized based on their stats, it will be given to the one closest to them.
+Enemies that can trigger
+Call of the Freljord
+have a marker overhead.
+This marker isn't present on inhibitors or the nexus (because they cannot hold buffs and debuffs including the one that hosts this VFX), but they still trigger
+Call of the Freljord
+when attacked.
+Call of the Freljord's
+maximum remaining duration is 44 seconds.
+The buff has no cap for its maximum total duration.
+Edit
+Consume
+COST:
+60 Mana
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+CAST TIME:
+0.
+3
+TARGET RANGE:
+125
+Active:
+Willump
+takes a bite out of the target enemy, dealing damage and
+healing
+himself. The heal is increased when he is
+below half health
+. Against
+minions
+and
+monsters
+he deals
+true damage
+. Against
+champions
+he deals
+magic damage
+and the heal is reduced.
+Active:
+Willump
+takes a bite out of the target enemy, dealing damage and
+healing
+himself. The heal is increased by 50% while he is
+below 50%
+maximum
+health
+.
+Against
+minions
+and
+monsters
+, he deals
+true damage
+. Additionally, if
+Consume
+would kill the target minion or small or medium monster,
+Willump
+devours the target,
+stunning
+and
+pulling
+them towards him over the cast time.
+Non-Champion True Damage:
+400 / 600 / 800 / 1000 / 1200
+Base Non-Champion Heal:
+65 / 95 / 125 / 155 / 185
+(+ 90% AP)
+(+ 10%
+bonus
+health)
+Empowered Non-Champion Heal:
+97.
+5
+/ 142.
+5
+/ 187.
+5
+/ 232.
+5
+/ 277.
+5
+(+ 135% AP)
+(+ 15%
+bonus
+health)
+Against
+champions
+, he deals
+magic damage
+and the heal is reduced to 60%.
+Champion Magic Damage:
+60 / 100 / 140 / 180 / 220
+(+ 65% AP)
+(+ 5%
+bonus
+health)
+Base Champion Heal:
+39 / 57 / 75 / 93 / 111
+(+ 54% AP)
+(+ 6%
+bonus
+health)
+Empowered Champion Heal:
+58.
+5
+/ 99.
+375
+/ 140.
+25
+/ 181.
+125
+/ 222
+(+ 81% AP)
+(+ 9%
+bonus
+health)
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+True damage
+/
+Magic damage
+Counters
+Spell shield
+Blocked
+Icon border glows when he is within the maximum healing threshold.
+Spell shields
+will block the damage and the heal.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+Edit
+Biggest Snowball Ever!
+COST:
+50 / 55 / 60 / 65 / 70 Mana
+COOLDOWN
+:
+14
+CAST TIME:
+none
+TARGET RANGE:
+750 − 1750 (based on charge time)
+SPEED:
+400
+/
+410-569
+/
+570
+Size Radius:
+130
+/
+260
+/
+390
+Active:
+Willump
+becomes
+slow-immune
+and
+ghosted
+, and
+channels
+for a long duration to create a
+snowball
+that grows in size and speed.
+Willump
+can gradually steer the snowball during this time. When hitting
+minions
+and small
+monsters
+, the snowball rolls over them, dealing
+magic damage
+. When hitting an enemy
+champion
+, large
+monster
+or terrain, the snowball instead explodes, dealing
+magic damage
+to nearby enemies, and briefly
+knocking them up
+then
+stunning
+them based on the snowball's size.
+Biggest Snowball Ever!
+can be recast during the channel, and does so automatically afterwards or if
+interrupted
+.
+Recast:
+Willump
+ends the channel and manually releases the snowball.
+Active:
+Willump
+cleanses
+himself from all
+slows
+and
+channels
+for up to 10 seconds, becoming
+ghosted
+and
+slow-immune
+and creating a rolling
+snowball
+.
+Willump
+automatically navigates his movement in the direction of the cursor and can steer the snowball with a
+slow turn rate
+that increases over time, resetting upon changing direction. The duo have their
+movement speed
+reduced by
+50%
+for the first 1 second, but after a delay they start gaining
+14 movement speed
+every 0.
+25
+seconds,
+up to a cap
+.
+The snowball increases in size and power over the first 5 seconds.
+Biggest Snowball Ever!
+can be recast after 0.
+5
+seconds during the channel, and does so automatically after the channel or if
+interrupted
+.
+The snowball explodes upon hitting an enemy
+champion
+,
+large pet
+, medium / large
+monster
+or terrain, dealing
+magic damage
+to nearby enemies, increased by
+0% − 400% (based on charge time)
+,
+knocking them up
+for
+0.
+5
+− 0.
+75
+(based on charge time)
+seconds and subsequently
+stunning
+them for
+0 − 0.
+5
+(based on charge time)
+seconds.
+Minimum Magic Damage:
+36 / 45 / 54 / 63 / 72
+(+ 30% AP)
+Maximum Magic Damage:
+180 / 225 / 270 / 315 / 360
+(+ 150% AP)
+The snowball rolls over enemy
+minions
+and small monsters hit, dealing 33.
+3
+% of the damage as
+magic damage
+.
+Minimum Reduced Damage:
+11.
+988
+/ 14.
+985
+/ 17.
+982
+/ 20.
+979
+/ 23.
+976
+(+ 9.
+99
+% AP)
+Maximum Reduced Damage:
+59.
+94
+/ 74.
+925
+/ 89.
+91
+/ 104.
+895
+/ 119.
+88
+(+ 49.
+95
+% AP)
+Recast:
+Willump
+releases the snowball, sending it rolling forward up to a maximum distance during which it will not grow any larger and will explode upon hitting an enemy.
+"This is gonna be the biggest snowball ever!"
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Grounded
+Disabled
+Disruption
+Interrupted
+The initial cast and the manual recast count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and
+Force Pulse
+.
+The movement speed reduction the duo receive from initially casting
+Biggest Snowball Ever!
+is not considered a
+slow
+, thus it will not be resisted by their
+slow immunity
+.
+There are 3 stages where the turn rate increases from the original one:
+After turning for 1 second, the turn rate is increased to 175%.
+After turning for 3 seconds, the turn rate is increased to 250%.
+After turning for 6 seconds, the turn rate is increased to 325% where it caps.
+The time threshold to begin gaining bonus movement speed may be bugged, as Flat Bonus MS increases the time while % Bonus MS decreases the time.
+The formula appears to be (X ÷ 100) - Y, where:
+X =
+Total
+Flat MS after caps
+Y = 0.
+1
+per 1% %MS
+The delay is not modified from its initially calculated value on-cast, even if additional movement speed is gained.
+Nunu and Willump
+keep all increases in
+movement speed
+at time of cast for the duration of the charge.
+Nunu and Willump's
+movement speed always increases in increments of ~14, reaching the greater value between
+「
+Total
+MS +
+85 − 255 (based on level)
+」
+「
+Total
+Uncapped
+Flat MS +
+85 − 255 (based on level)
+」
+(
+click to toggle
+).
+This takes 6 increments to reach the
+Total
+MS + 85, but may take more to reach the Uncapped Flat + 85. Due to flat bonuses increasing the time threshold, it is possible for the ability's effects to end before reaching the
+total
+uncapped movement speed.
+The
+bonus
+movement speed ignores the
+movement speed cap
+.
+If
+Nunu
+turns continuously he will create a
+600
+unit circle, increased with
+bonus
+movement speed, striking the same point up to 3 times, for a maximum of
+180 / 225 / 270 / 315 / 360
+(+ 300% AP)
+magic damage
+. The damage can be further increased by detonating the snowball, for a
+total
+of
+360 / 450 / 540 / 630 / 720
+(+450% AP)
+magic damage
+.
+Ryze's
+Realm Warp
+will only teleport
+Nunu and Willump
+, leaving the
+snowball
+behind.
+Hovering the cursor on the HUD (e.g
+mini map
+/ champion portraits) does not affect the cast and steering of
+Biggest Snowball Ever!
+.
+Nunu
+gains a slightly larger field of view during
+Biggest Snowball Ever!
+.
+Biggest Snowball Ever!
+is disabled for the first 15 seconds of the game.
+Displacement immunity
+will not resist the application of the
+stun
+.
+The following table refers for interactions while
+Nunu & Willump
+are
+channeling
+:
+Type
+Channel
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Allowed, but cannot input movement commands.
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+N/A
+Disabled
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Teleport
+Recall
+Hexflash
+Mark
+Dash
+Interrupted by
+N/A
+Interrupted by
+Death
+Grounding effects
+Immobilizing effects
+Cast-inhibiting effects
+Edit
+Snowball Barrage
+COST:
+50 / 55 / 60 / 65 / 70 Mana
+COOLDOWN
+:
+14 / 13 / 12 / 11 / 10
+CAST TIME:
+None
+TARGET RANGE:
+700
+WIDTH:
+50
+SPEED:
+2000
+Barrage Cooldown
+:
+1
+Active:
+Nunu
+throws a volley of 3 snowballs in the target direction that each shatter upon hitting an enemy, dealing
+magic damage
+to enemies in a cone. Enemies hit 3 times are briefly
+slowed
+.
+Champions
+and large
+monsters
+hit once are marked
+Snowbound
+for a few seconds.
+Shortly after activating
+Snowball Barrage
+,
+Snowbound
+enemies near
+Willump
+take
+magic damage
+and are briefly
+rooted
+.
+Snowball Barrage
+can be recast twice within a short time.
+Recast:
+Nunu
+hurls another volley of snowballs.
+Active:
+Nunu
+throws a volley of 3 snowballs in the target direction over 0.
+4
+seconds that each shatter upon hitting an enemy, dealing
+magic damage
+to enemies in a cone.
+Magic Damage Per Hit:
+16 / 24 / 32 / 40 / 48
+(+ 15% AP)
+Total Magic Damage:
+48 / 72 / 96 / 120 / 144
+(+ 45% AP)
+Enemies hit 3 times are
+slowed
+for 1 second. Enemy
+champions
+and large
+monsters
+hit once are marked
+Snowbound
+for 4 seconds, refreshing on subsequent hits.
+Snowball Barrage
+can be recast twice within 3 seconds at no additional cost and with a cooldown in between casts.
+Slow:
+30 / 35 / 40 / 45 / 50%
+Recast:
+Nunu
+hurls another volley of snowballs, mimicking the first cast's effects. An enemy may only be
+slowed
+once for being hit by snowballs.
+Maximum Total Magic Damage:
+144 / 216 / 288 / 360 / 432
+(+ 135% AP)
+After 3 seconds from the first cast,
+Snowbound
+enemies near
+Willump
+take
+magic damage
+and are
+rooted
+for
+0.
+5
+− 1.
+5
+(based on level)
+seconds.
+Magic Damage:
+20 / 30 / 40 / 50 / 60
+(+ 80% AP)
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Each cast volley of snowballs counts as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive
+Each volley of snowballs is also a separate
+cast instance
+, allowing
+Snowball Barrage
+to trigger
+Phase Rush
+on its own or trigger 6 stacks of
+Conqueror
+.
+Snowbound
+consumption does not trigger on-cast effects, neither does it count as a separate
+cast instance
+(e.g. for the purposes of
+Conqueror
+).
+The three snowballs are thrown independently from one another over the 0.
+4
+seconds and their direction is determined from
+Nunu & Willump's
+position at any given moment.
+Edit
+Absolute Zero
+COST:
+100 Mana
+COOLDOWN
+:
+110 / 100 / 90
+CAST TIME:
+none
+EFFECT RADIUS:
+650
+Active:
+Nunu
+and
+Willump
+channel
+a blizzard for a short time, gaining a
+shield
+and gradually
+slowing
+nearby enemies.
+Absolute Zero
+can be recast during the channel, and does so automatically when the channel ends by any means.
+Recast:
+Nunu
+and
+Willump
+explode, dealing
+magic damage
+to nearby enemies. The effect is modified based on the channel time.
+Active:
+Nunu
+and
+Willump
+channel
+a blizzard for up to 3 seconds, granting themselves a
+shield
+and
+slowing
+nearby enemies by
+0% − 95% (based on channel time)
+.
+Shield Strength:
+65 / 75 / 85
+(+ 150% AP)
+(+ 30 / 40 / 50%
+bonus
+health)
+Absolute Zero
+can be recast after 0.
+5
+seconds during the channel, and does so automatically when the channel ends by any means.
+Recast:
+Nunu
+and
+Willump
+cause the blizzard to explode, dealing
+magic damage
+to nearby enemies, modified to
+0% − 100% (based on channel time)
+. Affected enemies will remain
+slowed
+for
+0 − 3 (based on channel time)
+seconds and any of the duo's remaining shield will decay over 3 seconds.
+Magic Damage:
+625 / 950 / 1275
+(+ 300% AP)
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Disruption
+Interrupted
+The initial cast and the manual recast count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and
+Force Pulse
+.
+The affected area is hidden if the duo is not
+visible
+to the enemy team.
+While it's unlikely to happen normally, it is possible to deal zero damage with
+Absolute Zero
+if canceled as soon as it's started.
+The following table refers for interactions while
+Nunu & Willump
+are
+channeling
+:
+Type
+Channel
+Attacking
+Interrupts
+Abilities
+Interrupts
+Movement
+Interrupts
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+Hextech Rocketbelt
+Interrupted by
+All item-actives not specified above interrupt
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+N/A
+Interrupted by
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+Death
+Cast-inhibiting effects
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Nunu (Collection)
+.
+Original
+View in 3D
+260
+21.02.2009
+Once upon a time, there was a boy who wanted to prove he was a hero by slaying a fearsome monster—only to discover that the beast, a lonely and magical yeti, merely needed a friend. Bound together by ancient power and a shared love of snowballs, Nunu and Willump now ramble wildly across the Freljord, breathing life into imagined adventures. They hope that somewhere out there, they will find Nunu’s mother. If they can save her, maybe they will be heroes after all…
+Lucas Jaye, Jonathan Lipow
+Victor '3rdColossus' Maury
+Loot eligible
+Sasquatch
+View in 3D
+520
+20.11.2009
+Here is a tale told by the softly falling rain, to a grove of trees. After helping the guardian of the Mossborn Forest free his paws from a hunter's trap, a young boy is swept into adventure, like a pile of autumn leaves dancing on the wind…
+Lucas Jaye, Jonathan Lipow
+Markus Neidel
+Fables
+Loot eligible
+Legacy
+Workshop
+View in 3D
+520
+17.12.2009
+While the sight of a holiday yeti and his small elf companion may seem frightening, there is no gentler pair than Willump and Nunu. Nunu builds the toys, while Willump accidentally crushes them with his inhuman strength.
+Lucas Jaye, Jonathan Lipow
+Jennifer Wuestling
+Snowdown Showdown
+Loot eligible
+Legacy
+Additional/unique quotes
+Grungy
+View in 3D
+750
+10.08.2010
+“Gnar left all his toys out. Hmm. I wonder what this one's name is? I think I'll call him Willump. What do you think Willump, should we go on an adventure? LET'S JUMP IN SOME TRASH!”
+Lucas Jaye, Jonathan Lipow
+Viktor Titov, Grafit Studio
+Toy Box
+Loot eligible
+New SFX/VFX
+Nunu Bot
+View in 3D
+1820
+05.05.2011
+In the year 20XX, RiotCorp rules the world with a cruel, robotic fist. Building his own battling best friend using code from a forgotten video game (and piles and piles of scrap!) a young mechanic competes in the company's corporate-sanctioned Rift Wars—for fame, glory, and [ERROR] [...] [TOWERDIVING!]
+Lucas Jaye, Text-to-speech software
+X TRAIN
+Heavy Metal
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Demolisher
+View in 3D
+975
+24.08.2011
+Serving as soldiers of fortune in pitched battles across the land, Demolisher Nunu & Willump are metal as ferro-bonded steel, and ready to introduce a flute-mace to your face.
+Lucas Jaye, Jonathan Lipow
+Maki Planas Mata
+Rift Quest
+Loot eligible
+Additional/unique quotes
+New SFX/VFX
+TPA
+View in 3D
+750
+23.05.2013
+Honoring MiSTakE's winning performance as Nunu during the 2012 World Championship.
+Lucas Jaye, Jonathan Lipow
+Bo Lu
+World Champions: 2012
+Loot eligible
+Legacy
+Additional/unique quotes
+Zombie
+View in 3D
+1350
+05.11.2015
+What was once a pair of young friends has been twisted by a virus unwittingly loosed upon the world, transforming them into a slavering, parasitic time bomb packed with enough raw mutagen to infect every survivor five times over. Whoever they were before is lost now—another casualty of a world gone mad.
+Unknown voice actor
+Christian Fell
+Zombies VS Slayers
+Loot eligible
+Legacy
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Papercraft
+View in 3D
+1350
+21.02.2019
+One day, Nunu awoke to a world made entirely of paper, with his mother nowhere to be seen. He took a square off the wall, folded it into a wild Willump, and said “Now we will go find mom!” Willump agreed, and the two embarked upon a grand adventure…
+Lucas Jaye, Jonathan Lipow
+Maki Planas Mata
+Papercraft
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Papercraft Nunu & Willump Chromas
+Amethyst
+Aquamarine
+Catseye
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Space Groove
+View in 3D
+1350
+01.04.2021
+Blessed with the strongest boogie-channeling abilities his planet had ever seen, Willump had been recruited by Lissandra to convert good vibes into harsh ones. But when he met Nunu during the siege of Normal World, Willump broke free of Lissandra's control and the two deserted to travel the galaxy, and bring good vibes back to the universe.
+Lucas Jaye, Jonathan Lipow
+Yan Kyohara, West Studio
+Space Groove
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Space Groove Nunu & Willump Chromas
+Catseye
+Disco
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Nunu & Beelump
+View in 3D
+1350
+03.03.2022
+They're like two bees in a pod. Err… in a hive?
+Lucas Jaye, Jonathan Lipow
+Horace 'Hozure' Hsu
+Bees!
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Nunu & Beelump Chromas
+Emerald
+Obsidian
+Pearl
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Cosmic Paladins
+View in 3D
+1350
+30.08.2023
+Despite the destruction of their respective homes, Nunu and Willump hold onto the innocence that so many have lost. Bel'Veth, having never seen such joy even in the face of despair, bestowed cosmic power upon them. Now they spread that joy wherever they go, fighting the Dark Star's destructive force with their own creativity and boundless imagination.
+Lucas Jaye, Jonathan Lipow
+Huyy Nguyen, West Studio
+Cosmic
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Cosmic Paladins Nunu & Willump Chromas
+Amethyst
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Turquoise
+Fright Night
+View in 3D
+1350
+25.09.2024
+Whenever Nunu's head hit his pillow, from under the bed came a tap-tap-tapping. Willump urged him to ignore it, but the yap-yap-yapping tugged at Nunu's ear. Unable to resist, he crawled beneath and made friends with a little clown who filled his dreams of summer camp glory.
+Lucas Jaye, Jonathan Lipow
+Francis Tneh, West Studio
+Fright Night
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Fright Night Nunu & Willump Chromas
+Catseye
+Citrine
+Emerald
+Ghoulish
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V13.19
+Snowball Barrage
+AP ratio per snowball increased to
+15% AP
+from
+10% AP
+.
+V13.16
+Biggest Snowball Ever!
+Bug Fix:
+Upon recast, the snowball no longer incorrectly checks for collision at a stored location from a previous cast if the previous cast's channel was cancelled by either being
+rooted
+or rolling the snowball into terrain with an enemy target nearby, leading to the effect disappearing in the caster's field of view and affecting targets in a completely different location.
+V13.5
+Biggest Snowball Ever!
+Bug Fix:
+Snowball no longer gets stuck in place if it was released at exactly the same time the caster left the Fog of War.
+V12.22
+Consume
+Base damage increased to 400 / 600 / 800 / 1000 / 1200 from 340 / 500 / 660 / 820 / 980.
+V12.19
+Absolute Zero
+Maximum AP ratio increased to
+300% AP
+from
+250% AP
+.
+V12.11
+Consume
+Heal AP ratio increased to
+90% AP
+from
+70% AP
+.
+Heal health ratio increased to
+10%
+from
+6%
+bonus
+health
+.
+Snowball Barrage
+Cooldown reduced to 14 / 13 / 12 / 11 / 10 seconds from 14 at all ranks.
+V12.10
+Stats
+Base health increased to 610 from 540.
+Health growth increased to 90 from 76.
+Armor growth increased to 4.
+2
+from 3.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Consume
+Base heal reduced to 65 / 95 / 125 / 155 / 185 from 75 / 110 / 145 / 180 / 215.
+Heal AP ratio reduced to
+70% AP
+from
+90% AP
+.
+Heal health ratio reduced to
+6%
+bonus
+health
+from
+10%
+.
+V12.4
+Stats
+Health growth reduced to 76 from 82.
+Consume
+Healing against champions reduced to 60% from 80%.
+Base heal against champions reduced to 45 / 66 / 87 / 108 / 129 from 60 / 88 / 116 / 144 / 172.
+Heal AP ratio against champions reduced
+54% AP
+from
+72% AP
+.
+Heal health ratio against champions reduced to
+6%
+bonus
+health
+from
+8%
+.
+V11.17
+Biggest Snowball Ever!
+Bug Fix:
+Fixed a bug where he would be knocked up to a very high height when hit by
+Rek'Sai's
+Unburrow
+while channeling.
+Snowball Barrage
+Bug Fix:
+Fixed a bug where it was missing its tooltip when hovering during mid-cast.
+Bug Fix:
+Fixed a bug where the tooltip was incorrectly displaying damage as "total damage" when it is actually "per snowball".
+V11.16
+Stats
+Base movement speed increased 345 from 340.
+Snowball Barrage
+AP ratio per snowball increased to
+10% AP
+from
+6% AP
+.
+Maximum snowball AP ratio increased to
+90% AP
+from
+54% AP
+.
+V11.12
+General
+Adjusted splash artwork for
+TPA Nunu
+.
+V11.8
+Biggest Snowball Ever!
+Undocumented/New Effect:
+Now causes the player's HUD to become transparent during the channel.
+V11.2
+Stats
+Movement speed reduced to 340 from 345.
+Base health reduced to 540 from 570.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.20
+Stats
+Base armor reduced to 29 from 32.
+V10.15
+Biggest Snowball Ever!
+Bug Fix:
+No longer get more movement speed than intended by eating a
+Honeyfruit
+right before casting it.
+V10.13
+Consume
+Champion damage AP ratio increased to
+65% AP
+from
+50% AP
+.
+Minion and monster heal AP ratio increased to
+90% AP
+from
+70% AP
+.
+Absolute Zero
+New Effect:
+Shield now also scales with
+150% AP
+.
+V10.3
+Biggest Snowball Ever!
+Undocumented:
+Nunu's model no longer occasionally renders at a faraway location in the fog of war for enemies during the charge, effectively becoming invisible to them.
+V9.20
+Snowball Barrage
+Bug Fix:
+Is no longer able to slow enemies more than once within the same cast of snowballs.
+V9.18
+Stats
+Health growth reduced to 82 from 90.
+Armor growth reduced to 3 from 3.
+5
+.
+Base mana reduced to 280 from 283.
+56
+.
+Base mana regeneration reduced to 7 from 7.
+44
+.
+Snowball Barrage
+Slow strength reduced to 30 / 35 / 40 / 45 / 50% from 50% at all ranks.
+V9.16
+General
+Adjusted splash artwork for
+Zombie Nunu
+.
+V9.10
+Papercraft Nunu
+Biggest Snowball Ever!
+Bug Fix:
+No longer uses base skin
+Biggest Snowball Ever!
+.
+V9.5
+Stats
+Base health reduced to 570 from 590.
+Consume
+Base non-champion healing reduced to 75 / 110 / 145 / 180 / 215 from 75 / 120 / 165 / 210 / 255.
+V9.4
+Consume
+New Effect:
+Icon border now glows when he is within the maximum healing threshold.
+V8.22
+Stats
+Base attack damage increased to 61 from 57.
+Consume
+Healing from champions increased to 80% from 50%.
+V8.21
+Call of the Freljord
+Bug Fix:
+Basic attack no longer cancels if
+Call of the Freljord
+expires during the attack's wind-up.
+Consume
+Bug Fix:
+No longer heals if
+Consume
+is blocked by a spell shield.
+Bug Fix:
+If a small unit would die to
+Consume
+, it will now deal
+Consume's
+damage, rather than the target's current health.
+Biggest Snowball Ever!
+Snowball hitbox and steering controls updated to make using W smoother and fix various bugs around the snowball colliding (or not) with stuff.
+No longer deals full rollover damage if the snowball is created over small units.
+Rolling into small pets (ex.
+Shaco's
+boxes
+,
+Yorick's
+Mistwalkers
+) no longer causes the snowball to explode.
+Cast range changed to infinite from 7500.
+Undocumented:
+Minimum rollover damage changed to 11.
+988
+/ 14.
+985
+/ 17.
+982
+/ 20.
+979
+/ 23.
+976
+(+ 9.
+99
+% AP)
+from 12 / 15 / 18 / 21 / 24
+(+ 60% AP)
+.
+Undocumented:
+Maximum rollover damage changed to 59.
+94
+/ 74.
+925
+/ 89.
+91
+/ 104.
+895
+/ 119.
+88
+(+ 49.
+95
+% AP)
+from 60 / 75 / 90 / 105 / 120
+(+ 100% AP)
+.
+Absolute Zero
+Bug Fix:
+Fixed a bug causing the damage and slow to sometimes be slightly off at full channel.
+V8.20
+General
+Adjusted splash artwork for
+TPA Nunu
+.
+V8.19
+Consume
+Minions and monsters heal AP ratio increased to
+70% AP
+from
+50% AP
+.
+Champion heal AP ratio reduced to
+35% AP
+from
+50% AP
+.
+Biggest Snowball Ever!
+Willump's
+transition to walking after he finishes rolling his snowball will now feel smoother.
+Snowball Barrage
+Snowball AP ratio increased to
+6% AP
+from
+5% AP
+.
+Willump's Turn AP ratio increased to
+80% AP
+from
+50% AP
+.
+V8.18
+Biggest Snowball Ever!
+Bug Fix:
+Fixed a bug where he was sometimes invisible to enemies while rolling his
+Biggest Snowball Ever!
+out of fog of war.
+V8.17
+- Full Relaunch
+General
+Name changed to
+Nunu & Willump
+from
+Nunu
+.
+Title changed to
+the Boy and his Yeti
+from
+the Yeti Rider
+.
+Complete visual upgrade across all skins.
+New splash artwork for
+Original Nunu
+,
+Sasquatch Nunu
+,
+Workshop Nunu
+,
+Grungy Nunu
+,
+Nunu Bot
+and
+Demolisher Nunu
+.
+Adjusted splash artwork for
+TPA Nunu
+and
+Zombie Nunu
+.
+New voice over.
+New lore.
+Stats
+Base attack damage reduced to 57 from 67.
+Base armor increased to 32 from 28.
+Attack damage growth reduced to 3 from 4.
+Call of the Freljord
+(Innate)
+Innate:
+Nunu's
+and
+Willump's
+next instance of damage dealt to an enemy
+champion
+, large monster or
+structure
+grants both
+Willump
+and the nearest allied champion
+Call of the Freljord
+for 4 seconds, prioritizing the ally with
+highest
+attack speed
+.
+Call of the Freljord:
+Targets gain
+20%
+bonus
+attack speed
+and
+10%
+bonus
+movement speed
+.
+Willump's
+basic attacks additionally deal
+30% AD
+bonus
+physical damage against the main target and to enemies around himself.
+Nunu
+and
+Willump
+cannot trigger
+Call of the Freljord
+from the same enemy again for a time. Successive triggers of
+Call of the Freljord
+will stack with duration, up to 40 seconds, after which the duration will be refreshed.
+On-Target Cooldown:
+10 seconds (not affected by cooldown reduction).
+Consume
+(Q)
+Active:
+Willump
+takes a bite of a target enemy, dealing damage and healing himself, increased by 50% when below
+50% of
+maximum
+health
+.
+Against champions, heals for 37.
+5
+/ 60 / 82.
+5
+/ 105 / 127.
+5
+(+ 50% AP)
+(+ 5%
+bonus
+health)
+health and deals 60 / 100 / 140 / 180 / 220
+(+ 50% AP)
+(+ 5%
+bonus
+health)
+magic damage.
+Against minions and monsters, heals for 75 / 120 / 165 / 210 / 255
+(+ 50% AP)
+(+ 10%
+bonus
+health)
+health and deals 340 / 500 / 660 / 820 / 980 true damage.
+Target range:
+125.
+Mana Cost:
+60.
+Cooldown:
+12 / 11 / 10 / 9 / 8 seconds.
+Biggest Snowball Ever!
+(W)
+Active:
+Nunu
+conjures a
+snowball
+that
+Willump
+begins rolling
+with increasing movement speed in the target direction for up to 10 seconds, increasing its size over 5 seconds.
+The duo is immune to
+slows
+during the charge. The trajectory can be adjusted over the duration at a highly reduced capacity that increases while turning in the same direction, resetting when changing direction.
+The snowball will hit enemies it passes through, and explodes upon colliding with an enemy champion, large monster or terrain, hitting enemies within range of the explosion.
+Enemies hit take magic damage, up to a maximum of 180 / 225 / 270 / 315 / 360
+(+ 150% AP)
+, increased by
+0% − X% (based on charge time)
+, and are
+knocked up
+for
+X − X (based on charge time)
+seconds.
+After 10 seconds, upon re-activation or if the duo are
+interrupted
+, they will let loose the snowball, sending it rolling forward for an additional
+1 − 3 (based on charge time)
+seconds during which it will not grow any larger.
+Mana Cost:
+50 / 55 / 60 / 65 / 70.
+Cooldown:
+14 seconds.
+Snowball Barrage
+(E)
+Active:
+Nunu
+throws a volley of 3 snowballs in the target direction over 0.
+4
+seconds, each snowball shattering upon hitting an enemy, each snowball dealing magic damage 16 / 24 / 32 / 40 / 48
+(+ 5% AP)
+to enemies in a cone. Enemies hit 3 times are
+slowed
+by 50% for 1 second. Champions and large monsters hit once are also
+Snowbound
+for 4 seconds, resetting on each hit.
+Snowball Barrage
+can be re-activated up to 2 times at no cost for 3 seconds. An enemy cannot be
+slowed
+more than once. After 3 seconds, it is
+Willump's Turn
+.
+Willump's Turn:
+Willump
+roots
+Snowbound
+enemies around him for
+0.
+5
+− 1.
+5
+(based on level)
+seconds, dealing them 20 / 30 / 40 / 50 / 60
+(+ 50% AP)
+magic damage.
+Target range:
+690.
+Barrage Cooldown:
+1 seconds (affected by cooldown reduction).
+Mana Cost:
+50 / 55 / 60 / 65 / 70.
+Cooldown:
+14 seconds.
+Absolute Zero
+(R)
+Active:
+Nunu and Willump
+sap
+heat from the area around them for up to 3 seconds. Moving ends
+Absolute Zero's
+effects immediately, and the area is invisible if the duo is not
+revealed
+.
+The duo gains a 65 / 75 / 85
+(+ 30 / 40 / 50%
+bonus
+health)
+shield while
+channeling
+that refreshes each second, and enemies within the frosted area are
+slowed
+by
+50% − 95% (based on channel time)
+.
+Enemies caught in the frozen area when the channel ends or is interrupted take
+magic damage
+, up to a maximum of 625 / 950 / 1275
+(+ 250% AP)
+, increased by
+0% − X% (based on channel time)
+.
+Mana Cost:
+100.
+Cooldown:
+110 / 100 / 90 seconds.
+Trivia
+[
+edit
+|
+edit source
+]
+Nunu, the Yeti Rider
+Nunu was named after
+Steve 'Guinsoo' Feak's
+dog.
+[2]
+Nunu
+is also a nickname for his wife.
+[3]
+The update in patch
+V7.16
+that made it so the portrait of the selected skin would be used in the central portion of the in-game UI showed the portrait of
+Willump
+instead of Nunu for every skin except for his
+Original
+skin.
+Absolute Zero
+was named after
+the theoretical temperature
+at which matter stops moving completely (referencing both slows the ability has) and has the highest single
+ability power
+ratio in-game (
+300%
+).
+In the
+V1.0.0.115
+April Fools' Day
+patch, he was jokingly listed to receive a skin called
+"Nunurf"
+, referencing
+Urf
+.
+The Boy and his Yeti
+Nunu & Willump drop a
+soul each.
+Their dance is an updated version of their old animation in which
+Willump
+dances and
+Nunu
+provides
+flute
+music.
+Willump
+was most likely inspired by several characters from different media, such as:
+Stitch
+from the
+Lilo & Stitch
+franchise,
+Wild Thing from
+Where the Wild Things Are
+series,
+Appa
+from
+Avatar: The Last Airbender
+series.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Vanguard
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+Vanguards
+are offensive tanks. Vanguards lead the charge for their team and specialize at bringing the action. Their explosive team fight initiation seeks to catch enemies out of position while allowing allies to follow-up to devastating effect.
+Examples
+Amumu
+Leona
+Sejuani
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Basic attack
+The
+basic attack
+(or
+auto-attack
+) is the most basic means of a unit to deal damage to another unit, usually dealing
+100% AD
+. It has a brief cooldown based on the caster's current
+attack speed
+.
+All
+basic attacks
+are normally unit-targeted with their range limited by the caster's
+attack range
+, and have a brief attack
+windup
+. Damage is then dealt depending on the caster's range type:
+Melee
+and some projectile-less ranged attacks deal damage immediately.
+Ranged
+attacks usually send a projectile that follows the target and deals damage upon striking them. Projectiles can be intercepted by certain
+blocking
+effects.
+The damage event will trigger
+on-hit effects
+from buffs the caster may hold. If damage cannot be dealt, on-hit effects will not be triggered.
+On-attack
+effects will always trigger when the attack's
+windup
+completes.
+League of Legends content
+Default damage
+Default damage
+is dealt by effects that are not otherwise classified, or are deliberately left unclassified. This most common source of
+default damage
+is splash damage from basic attacks.
+Default damage
+does not interact with most other effects, such as
+Conqueror
+stacking,
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of the damage's non-reactive nature (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+True damage
+Applies:
+Corrupting Potion
+Omnivamp
+Mitigated by:
+Damage shields
+Invulnerability
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Slow-immune
+Slow immunity
+is a status effect that prevents the application of
+slows
+.
+The following prevent the application of
+slows
+:
+Aphelios'
+Sentry
+Heimerdinger's
+H-28G Evolution Turret
+Master Yi's
+Highlander
+Nunu's
+Biggest Snowball Ever!
+Sejuani's
+Fury of the North
+Skarner's
+Ixtal's Impact
+Total
+crowd control immunity
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Interrupt
+Interrupt
+is a quality of crowd control that
+interrupts
+an in-progress effect, preventing its completion or causing the effect to go off at an
+interrupted
+state.
+The following crowd control effects
+interrupt
+channeled and charged
+abilities (unless otherwise noted by the ability):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+The following crowd control effects
+interrupt
+dashes
+:
+Airborne
+Knockdown
+Stasis
+Basic attack windups
+are
+interrupted
+by all forms of crowd control that inhibit attacking.
+Ground
+and
+Root
+only
+interrupt
+channeled and charged movement abilities.
+League of Legends content
+Cleanse
+A unit that is
+cleansed
+has all applicable
+crowd control
+status effects removed.
+Due to the nature of the
+cleanse
+interaction, cleansing abilities and effects remain castable in circumstances that would otherwise inhibit casting, unless special-cased.
+"
+Cleanse
+" does not always refer to the act of removing
+all
+crowd control effects, some sources would specify only one or a few types of crowd control.
+A
+cleanse
+does not remove
+Stasis
+, but will remove the disable portion of
+Airborne
+.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Pet
+A
+pet
+is a
+unit summoned by a champion
+to assist them on the battlefield.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Nunu's profile page
+at
+LeagueOfLegends.com
+↑
+Article Reviewing Nunu
+↑
+Article Reviewing Nunu

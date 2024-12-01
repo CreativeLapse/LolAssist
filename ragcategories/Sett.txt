@@ -1,0 +1,2533 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Sett
+the Boss
+Release date
+2020-01-14
+Last changed
+V14.10
+Class(es)
+Juggernaut
+Legacy
+Fighter
+Tank
+Position(s)
+Top
+Resource
+Grit
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+1350
+|
+585
+Crafting
++
+810
+Ratings
+Damage
+2
+Toughness
+2
+Control
+2
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Sett
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Sett
+Base statistics
+Edit
+Health
+670
++114
+Resource
+N/A
+Health regen. (per 5s)
+7
++0.5
+Secondary Bar
+Grit
+Armor
+33
++5.2
+Attack damage
+60
++4
+Magic resist.
+28
++2.05
+Crit. damage
+175%
+Move. speed
+340
+Attack range
+125
+Attack speed
+Base AS
+0.625
+Attack windup
+21.429%
+AS ratio
+N/A
+Bonus AS
++1.75
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+100
+Pathing radius
+35
+Acq. radius
+600
+Special statistics
+Damage Dealt
+-10%
+Damage Received
++10%
+Healing
+-10%
+Shielding
+-10%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++5%
+Damage Dealt
++5%
+Damage Received
+-8%
+Damage Dealt
+-5%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Pit Grit
+Innate - Heart of the Half-Beast:
+Sett
+regenerates
+additional health based on
+his
+missing
+health
+.
+Innate - Heavy Hands:
+Sett's
+basic attacks alternate between his
+Left Punch
+and a
+Right Punch
+. His
+Right Punch
+attacks more quickly with
+bonus
+range
+and deals
+bonus
+physical damage
+.
+Innate - Heart of the Half-Beast:
+Sett
+regenerates
+「 an additional
+0.
+15
+/ 0.
+5
+/ 1 / 2 (based on level)
+health
+per second for every
+5% of his
+missing
+health
+. 」
+「 up-to
+2.
+85
+/ 9.
+5
+/ 19 / 38 (based on level)
+health
+per second (maximum reached at
+95%
+missing
+health
+). 」
+Innate - Heavy Hands:
+Sett's
+basic attacks
+alternate between his
+Left Punch
+and a
+Right Punch
+on-attack
+.
+Sett
+begins attacking with his
+Left Punch
+, and will reset back to it after 2 seconds of not performing a
+Right Punch
+.
+Sett's
+Right Punch
+is empowered to gain
+50
+bonus
+range
+(unless
+Knuckle Down
+is active), attack at 8 times the
+Left Punch's
+attack speed
+, and deal
+5 − 90 (based on level)
+(+ 55%
+bonus
+AD)
+bonus
+physical damage
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+Physical
+Counters
+Parries
+Blocked
+The
+Right Punch
+does not grant
+bonus
+attack speed
+, rather its windup is sped up and fixed at
+「 12.
+5
+% of a
+Left Punch's
+windup time. 」
+「 800% of a
+Left Punch's
+windup speed. 」
+The windup is still affected by
+cripples
+and attack speed buffs that were not already active for the previous
+Left Punch's
+.
+The bonus physical damage from the
+Right Punch
+benefits from
+life steal
+.
+Edit
+Knuckle Down
+COOLDOWN
+:
+9 / 8 / 7 / 6 / 5
+CAST TIME:
+none
+Active:
+Sett
+empowers his next two basic attacks within a few seconds to gain
+bonus
+range
+and deal
+bonus
+physical damage
+based on the
+target's
+maximum
+health
+. He also briefly gains
+bonus
+movement speed
+while moving toward enemy
+champions
+.
+Active:
+Sett
+empowers his next two basic attacks within 5 seconds to gain
+50
+bonus
+range
+and deal
+bonus
+physical damage
+, capped at 400
+total
+damage of each attack against
+monsters
+.
+Bonus Physical Damage:
+10 / 20 / 30 / 40 / 50
+(+ 1%
+(+ 1 / 1.
+5
+/ 2 / 2.
+5
+/ 3% per 100 AD)
+of target's
+maximum
+health)
+Total Bonus Physical Damage:
+20 / 40 / 60 / 80 / 100
+(+ 2%
+(+ 2 / 3 / 4 / 5 / 6% per 100 AD)
+of target's
+maximum
+health)
+For 1.
+5
+seconds,
+Sett
+also gains
+30%
+bonus
+movement speed
+while facing
+visible
+enemy
+champions
+within 2000 units.
+Knuckle Down
+resets
+Sett's
+basic attack timer. The empowered attacks are guaranteed to be a
+Left Punch
+followed by a
+Right Punch
+, resetting
+Sett's
+current
+Pit Grit
+state (if applicable) and ignoring the usual time-out period for a follow-up
+Right Punch
+.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Counters
+Spell shield
+Not Blocked
+Parries
+See Notes
+The bonus movement speed buff is named
+Looking For a Fight
+.
+Knuckle Down
+can be
+dodged
+,
+blocked
+or missed while
+Sett
+is
+blinded
+.
+Edit
+Haymaker
+COST:
+100%
+Current
+Grit
+COOLDOWN:
+18 / 16.
+5
+/ 15 / 13.
+5
+/ 12
+CAST TIME:
+0.
+75
+RANGE:
+725
+WIDTH:
+60
+ANGLE:
+27°
+Passive:
+Sett
+stores
+Grit
+equal to damage taken, which gradually expires after a few seconds.
+Active:
+Sett
+converts his current
+Grit
+into a
+shield
+that decays over a short time. He also unleashes a blast in a cone in the target direction that deals
+physical damage
+to enemies hit based on his expended
+Grit
+. Enemies hit in a center line are dealt
+true damage
+instead.
+Passive:
+Sett
+stores 100% of
+post-mitigation damage
+taken as
+Grit
+on his resource bar, up to a cap of
+50% of his
+maximum
+health
+. Each instance of stored
+Grit
+decays in value by 30% every second after 4 seconds.
+Active:
+Sett
+charges up a strike over the cast time. Additionally, he immediately consumes all of his stored
+Grit
+to grant himself a
+shield
+at the start of the cast time that is equal to the expended
+Grit
+for 3 seconds, decaying in strength over the duration after 0.
+75
+seconds.
+After the cast time, he unleashes a blast in a cone in the target direction that deals
+physical damage
+to enemies hit; those hit in a center line are dealt
+true damage
+instead.
+Damage:
+80 / 100 / 120 / 140 / 160 (+ 25%
+(+ 25% per 100
+bonus
+AD)
+of expended
+Grit
+)
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical damage
+/
+True damage
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+PENDING FOR TEST:
+Trapezoid effect hitbox geometry values, backwards range (true damage rectangle does NOT start at 0 distance from Sett; doesn't have as much reach backwards while still being edge range).
+The shield is granted at the start of the cast time and will decay afterwards.
+The buff for the shield is named
+Down But Not Out
+.
+Sett
+does not store
+Grit
+from damage that was mitigated by
+shields
+.
+This ability will cast from wherever the caster is at the end of the cast time.
+Sett
+will turn towards the target direction at the start of the cast time.
+Sett
+will glow when attaining 90%
+Grit
+. Casting
+Haymaker
+at this amount has a different visual and audio effect.
+Sett
+will turn
+golden
+(base skin)
+.
+Edit
+Facebreaker
+COOLDOWN:
+16 / 14.
+5
+/ 13 / 11.
+5
+/ 10
+CAST TIME:
+0.
+25
+RANGE:
+450
+WIDTH:
+280
+Active:
+Sett
+pulls in
+enemies along the target direction from both sides of himself, dealing
+physical damage
+and briefly
+slowing
+. If
+Facebreaker
+affects at least one enemy on each side, all enemies are also briefly
+stunned
+.
+Active:
+Sett
+pulls in
+enemies at his front and back along the target direction, dealing
+physical damage
+and
+slowing
+them by 70% for 0.
+5
+seconds.
+Facebreaker
+deals
+100
+bonus
+physical damage
+to
+monsters
+.
+Physical Damage:
+50 / 70 / 90 / 110 / 130
+(+ 60% AD)
+Monster Physical Damage:
+150 / 170 / 190 / 210 / 230
+(+ 60% AD)
+If
+Facebreaker
+affects at least one enemy on each side, all enemies are
+stunned
+for 1 second upon landing.
+If no enemies are hit,
+Sett
+is unable to move or attack for 0.
+25
+seconds after Facebreaker's cast time.
+"Facebreaker!"
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Sett
+will afterwards attempt to basic attack the closest target picked up by
+Facebreaker
+, prioritising champions and prioritising those in front of him.
+Targets will be pulled towards
+Sett's
+location in a straight line and rebound to 150 units from him back in the same line.
+The
+spell indicator
+is slightly shorter than the actual hitbox' rectangle length, and slightly wider than the width (note that the effects are edge-range from the hitbox rectangle).
+Targets protected by
+spell shields
+don't count toward the requirement to
+stun
+.
+This ability will cast from wherever the caster is at the end of the cast time.
+Type
+Cast time
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Edit
+The Show Stopper
+COOLDOWN:
+120 / 100 / 80
+CAST TIME:
+none
+TARGET RANGE:
+400
+EFFECT RADIUS:
+600
+Active:
+Sett
+carries
+the target enemy
+champion
+and
+dashes
+through the air with
+displacement immunity
+, then slams them into the ground to deal
+physical damage
+to nearby enemies based on the
+target's
+bonus
+health
+. Enemies hit are also briefly
+slowed
+.
+displacement immunity
+:
+The dash cannot be deterred by
+crowd control
+.
+Active:
+Sett
+suppresses
+and
+reveals
+the target enemy
+champion
+while
+dashing
+with
+displacement immunity
+to their location and
+attaching
+them to himself upon arrival. He leaps another 600 units in the same direction to slam the target into the ground, creating a massive shockwave and quickly
+sliding
+forward 250 units beyond the impact.
+Enemies within
+the epicenter
+take
+physical damage
+, and other enemies hit by the shockwave take
+physical damage
+that is reduced by up to 75% based on proximity. All targets hit are
+slowed
+by 99% for 1 second.
+Physical Damage:
+200 / 300 / 400
+(+ 120%
+bonus
+AD)
+(+ 40 / 50 / 60% of primary target's
+bonus
+health)
+Reduced Damage:
+50 / 75 / 100
+(+ 30%
+bonus
+AD)
+(+ 10 / 12.
+5
+/ 15% of primary target's
+bonus
+health)
+The dash will end and create the impact prematurely upon encountering terrain that cannot be dashed through, whether by distance or invalid space.
+"This is gonna hurt!"
+Info
+Targeting input
+Unit
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Not Interrupted
+At maximum cast range and if the dash is not shortened due to terrain in
+Sett's
+way,
+The Show Stopper's
+movement takes 1.
+5
+seconds, causing the slam
+within 1.
+23
+seconds.
+Sett
+will dash from
+The Show Stopper
+even if the target resists the
+attachment
+or detaches from him, which can be done so by negating or removing the
+suppression
+. This includes if the target:
+Has a
+spell shield
+.
+Is
+crowd control immune
+or
+displacement immune
+.
+Uses a
+cleansing
+effect, either before or after the attachment.
+Dies
+or enters
+resurrection
+.
+Is
+Devoured
+.
+Sett
+will only attach the target to him if they are still suppressed upon his arrival.
+If the dash is interrupted, the target will be detached from
+Sett
+and the suppression will end immediately.
+If
+Sett
+enters
+resurrection
+the moment before the attachment,
+Sett
+will continue to perform the dash.
+(bug)
+If the target is
+untargetable
+upon
+Sett's
+arrival, he will stop the dash immediately.
+If the target is 2000 or more units away before
+Sett's
+arrival, he will not attach them to him. The
+suppression
+will last 5 seconds in this case.
+(bug)
+The "crater" VFX originates from the target's landing, which inaccurately illustrates the damage's area of effect (from Sett).
+(note)
+Map-Specific Differences
+Nexus Blitz
+differences
+edit
+Damage against
+Scuttle Racer
+, loot
+Teemo
+, loot
+Veigar
+, and practice dummy is now based off the champion with the most
+bonus
+health
+on the enemy team.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Sett (Collection)
+.
+Original
+View in 3D
+975
+14.01.2020
+A leader of Ionia's growing criminal underworld, Sett rose to prominence in the wake of the war with Noxus. Though he began as a humble challenger in the fighting pits of Navori, he quickly gained notoriety for his savage strength, and his ability to take seemingly endless amounts of punishment. Now, having climbed through the ranks of local combatants, Sett has muscled to the top, reigning over the pits he once fought in.
+Xander Mobus
+Alex 'alexplank' Flores
+Loot eligible
+Mecha Kingdoms
+View in 3D
+1350
+14.01.2020
+A nameless barbarian who survived on the outskirts, Sett knew his greatest talent came from his fists. After building his wealth and reputation in brutal fighting pits, he created a new persona, donning the title of The Savage Wolf. Upon hearing of the leviathan invasion, he used his fame and fortune to acquire an Avalon of his own in order to, once and for all, prove his might in front of a captivated audience.
+Xander Mobus
+Alvin Lee
+Mecha Kingdoms
+Loot eligible
+Voice filter
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+Chromas
+Mecha Kingdoms Sett Chromas
+Amethyst
+Peacekeeper
+Pearl
+Ruby
+Tanzanite
+Turquoise
+Obsidian Dragon
+View in 3D
+1350
+01.10.2020
+Once an outcast child, Sett swore he would gain power to destroy anyone who made him feel weak. The Obsidian Dragon took notice of his grit and ferocity and blessed him with obsidian-hardened skin. Sett now uses his superhuman strength to make a name for himself as a pit fighter, and every hit that bounces off his crystalline skin makes his enemies tremble.
+Xander Mobus
+Xiao Guang Sun, West Studio
+Dragonmancers
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Obsidian Dragon Sett Chromas
+Amethyst
+Aquamarine
+Catseye
+Citrine
+Emberclaw
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Tenfold Triumph
+Prestige Obsidian Dragon
+View in 3D
+Special
+01.10.2020
+After cementing his reputation as an indomitable pit fighter, Sett used his winnings to give his mother the comfortable life of their dreams. With her happiness secured, Sett returns to the pits, determined to mentor talented young fighters and remake the fighting pits into a system that rewards not the richest or the largest, but the most determined.
+Xander Mobus
+Sanhua Chen, Kudos Productions
+Dragonmancers
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Obsidian Dragon
+. Store variants are discounted for multiple purchases.
+Pool Party
+View in 3D
+1350
+09.06.2021
+Braum's tropical drinks are a favorite of Sett's—the sweeter the taste and the bigger the flowers, the better! Anyone who has a problem with that can take it up with the Boss. He'll call the Lifeguard for you.
+Xander Mobus
+Ina Wong, West Studio
+Pool Party
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Pool Party Sett Chromas
+Amethyst
+Aquamarine
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Firecracker
+View in 3D
+1350
+26.01.2022
+Best known for his brawling, few realize that Sett is also an accomplished Lion Dancer. It's a surprisingly similar skillset; performing is all about good footwork, being fierce, and knowing how to wow the crowd—and who does that better than the Boss himself?
+Xander Mobus
+Augusto Quirino, West Studio
+Lunar Revel: Firecracker
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Firecracker Sett Chromas
+Amethyst
+Catseye
+Emerald
+Golden Tiger
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Turquoise
+Spirit Blossom
+View in 3D
+1820
+06.10.2022
+Some guide the dead down the path; others tempt them from it. Another still has no allegiances, as his spirit lies in conflict with itself. Born from Kanmei and Akana, Sett lived harmoniously until, abandoned by his father, he sought retribution. Now he can only catch whispers of salvation as he spends his days challenging slain warriors, testing their worth.
+Xander Mobus
+Marie Magny, West Studio
+Spirit Blossom
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+Spirit Blossom Sett Chromas
+Catseye
+Emerald
+Night Blossom
+Rose Quartz
+Ruby
+Sapphire
+Soul Fighter
+View in 3D
+1350
+20.07.2023
+This fighter is here to prove that fists CAN be the answer to everything! That is, assuming the question of everything is "how does one person win the most local tourneys in recorded history?" And he's not just doing it to look good—though that is a nice bonus—he's rising up the ranks to soul fightin' legend to make his momma proud. It's Sssssett!
+Xander Mobus
+Herbie Wang, Kudos Productions
+Soul Fighter
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Soul Fighter Sett Chromas
+Amethyst
+Citrine
+Emerald
+Limitless
+Meteorite
+Obsidian
+Rose Quartz
+Ruby
+Turquoise
+HEARTSTEEL
+View in 3D
+1350
+08.11.2023
+Don't let the chiseled abs fool you: With savvy style and a heart of gold tempered by years of hard work supporting his mom, Sett has earned his confident rapper's swagger. His last music career ended when he punched a paparazzo, but he won't be kept down. People call Sett a lot of things, but when he's on stage with HEARTSTEEL, you can call him “boss.”
+Xander Mobus
+Bo 'chenbowow' Chen, Julia Yurtsev, Jennifer Wuestling
+HEARTSTEEL
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+HEARTSTEEL Sett Chromas
+Amethyst
+Catseye
+Citrine
+Emerald
+Pearl
+Rockstar
+Rose Quartz
+Ruby
+Sapphire
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.10
+Facebreaker
+New Effect:
+Now deals 100
+bonus
+damage to monsters.
+V14.5
+Knuckle Down
+New Effect:
+Now triggers spell effects upon dealing damage.
+V14.4
+Knuckle Down
+Bug Fix:
+Damage cap against monsters is now properly applied to the total damage and not just the bonus damage.
+V13.17
+The Show Stopper
+Bug Fix:
+Spell shield now properly removes the suppression effect after blocking the attachment.
+V13.14
+Mecha Kingdoms Sett
+Bug Fix:
+On-hit critical strike VFX now uses the correct VFX instead of the classic one.
+Obsidian Dragon Sett
+Bug Fix:
+Recall
+VFX no longer renders in front of impassable terrain.
+V13.3
+The Show Stopper
+Bug Fix:
+Impact VFX no longer causes graphical issues with the VFX of other certain abilities such as
+Wild Growth
+.
+V12.20
+Stats
+Base magic resistance reduced to 28 from 32.
+Pit Grit
+Bonus health regeneration reduced to
+0.
+15
+/ 0.
+5
+/ 1 / 2 (based on level)
+from
+0.
+25
+/ 0.
+5
+/ 1 / 2 (based on level)
+.
+Right Punch bonus AD ratio increased to
+55%
+bonus
+AD
+from
+50%
+.
+V12.17
+Haymaker
+Bonus AD ratio increased to
+25% per 100
+bonus
+AD
+from
+20%
+.
+Facebreaker
+Slow increased to 70% from 50%.
+The Show Stopper
+Bug Fix:
+No longer disables the target's
+Hexflash
+and
+Flash
+permanently.
+V12.16
+General
+Bug Fix:
+Joke voice line is now properly played.
+V12.10
+Stats
+Base health increased to 670 from 600.
+Health growth increased to 114 from 100.
+Armor growth increased to 5.
+2
+from 4.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+V12.8
+Facebreaker
+Bug Fix:
+Inputting a cast for the spell while it was on cooldown no longer interrupts the user's attack and movement commands.
+V12.6
+- March 30th Hotfix
+The Show Stopper
+Bug Fix:
+Fixed a bug where champions would stick to him if
+Tahm Kench
+uses
+Devour
+while he dashes with them.
+V12.5
+The Show Stopper
+Bug Fix:
+Caster no longer becomes locked out of their basic abilities if they are performing
+The Show Stopper
+while
+Berserked
+and their target dies in the process.
+V12.4
+Stats
+Health growth increased to 100 from 93.
+V11.9
+Haymaker
+Bonus AD ratio increased to
+20% per 100
+bonus
+AD
+from
+10%
+.
+The Show Stopper
+Bonus AD ratio increased to
+120%
+bonus
+AD
+from
+100%
+.
+V11.8
+Pit Grit
+Undocumented/Bug Fix:
+No longer uses the icon of
+Carnivore
+(
+Cho'Gath's
+passive) in the enemy's Death Recap.
+Knuckle Down
+Removed:
+Damage is no longer capped at 400 per punch against minions.
+V10.18
+Pit Grit
+AD ratio changed to
+50%
+bonus
+AD
+from
+15%
+total
+AD
+.
+Knuckle Down
+Base health ratio reduced to
+1% of target's
+maximum
+health
+at all ranks from
+1 / 2 / 3 / 4 / 5%
+.
+AD ratio increased to
+1 / 1.
+5
+/ 2 / 2.
+5
+/ 3% per 100 AD
+from
+1% per 100 AD
+at all ranks.
+The Show Stopper
+Bug Fix:
+Casting it on
+Yone
+during the very end of
+Fate Sealed
+no longer suppresses
+Yone
+as he blinks to another enemy champion.
+V10.16
+Haymaker
+Base damage reduced to 80 / 100 / 120 / 140 / 160 from 80 / 105 / 130 / 155 / 180.
+Facebreaker
+Base damage reduced to 50 / 70 / 90 / 110 / 130 from 50 / 80 / 110 / 140 / 170.
+V10.14
+Facebreaker
+Bug Fix:
+Displacing minions or jungle monsters no longer extends their hitboxes.
+V10.10
+The Show Stopper
+Bug Fix:
+Now properly completes the slam on champion clones even as they're about to expire.
+V10.9
+The Show Stopper
+Bug Fix:
+Is no longer interrupted by player-generated terrain (e.g.
+Jarvan IV's
+Cataclysm
+) when casting it.
+V10.8
+Haymaker
+Base damage reduced to 80 / 105 / 130 / 155 / 180 from 90 / 120 / 150 / 180 / 210.
+V10.6
+The Show Stopper
+Bug Fix:
+When suppressed by
+The Show Stopper
+,
+LeBlanc
+will not return to her
+Distortion
+marker, and it will last the appropriate amount of time.
+V10.5
+Stats
+Base armor reduced to 33 from 37.
+Base health regeneration reduced to 7 from 8.
+Health regeneration growth reduced to 0.
+5
+from 0.
+75
+.
+The Show Stopper
+Slow duration reduced to 1 second from 1.
+5
+.
+Bug Fix:
+Now properly gets assist credit even when the target dies while suppressed.
+V10.4
+Facebreaker
+Bug Fix:
+Now only stuns enemies if he successfully grabs one on each side.
+The Show Stopper
+Bug Fix:
+Now properly becomes
+displacement immune
+and suppresses
+Tahm Kench
+when casting
+The Show Stopper
+while
+Tahm Kench
+casts
+Devour
+.
+V10.3
+Stats
+Base health regeneration reduced to 8 from 9.
+25
+.
+Haymaker
+New Effect:
+Tooltip now displays the maximum damage.
+Cooldown increased to 18 / 16.
+5
+/ 15 / 13.
+5
+/ 12 seconds from 16 / 14 / 12 / 10 / 8.
+Base damage reduced to 90 / 120 / 150 / 180 / 210 from 90 / 125 / 160 / 195 / 230.
+Bug Fix:
+If he has no points in
+Haymaker
+,
+Illaoi's
+Test of Spirit
+will now properly extrude his vessel.
+The Show Stopper
+Bug Fix:
+No longer suppresses
+Mordekaiser
+for a large amount of time if he's suppressed before entering the
+Death Realm
+.
+V10.2
+- January 23rd Hotfix
+Facebreaker
+Bug Fix:
+The ability's range is no longer greater than what the indicator shows.
+V10.1
+- Added
+Pit Grit
+(Innate)
+Innate - Heavy Hands:
+Sett's
+basic attacks alternate between a
+left punch
+then a
+right punch
+.
+Sett
+begins attacking with a
+left punch
+, and will reset back to it after 2 seconds of not performing a
+right punch
+.
+Sett's
+right punch
+gains 50
+bonus
+range, attacks at 8 times the
+left punch's
+attack speed
+, and deals
+5 − 90 (based on level)
+(+ 15% AD)
+bonus
+physical damage
+.
+Innate - Heart of the Half-Beast:
+Sett
+gains
+0.
+25
+/ 0.
+5
+/ 1 / 2 (based on level)
+health regeneration per second for every
+5% of his
+missing
+health
+.
+Knuckle Down
+(Q)
+Active:
+Sett
+gains
+30%
+bonus
+movement speed
+within 1.
+5
+seconds while moving towards enemy champions.
+Sett's
+next two basic attacks within 5 seconds each deal 10 / 20 / 30 / 40 / 50
+(+ 1 / 2 / 3 / 4 / 5%
+(+ 1% per 100 AD)
+of target's
+maximum
+health)
+bonus
+physical damage
+, capped at 400 damage per punch against
+minions
+and
+monsters
+. Consuming an attack will refresh the timer.
+Knuckle Down
+resets
+Sett's
+basic attack timer.
+Cooldown:
+9 / 8 / 7 / 6 / 5 seconds.
+Haymaker
+(W)
+Passive:
+Sett
+stores 100% of post-mitigation damage taken as
+Grit
+on his secondary resource bar, up to
+50% of his
+maximum
+health
+. Each instance of accumulated
+Grit
+decays by 30% every second after 4 seconds.
+Active:
+Sett
+blasts an area in the target direction, dealing 90 / 125 / 160 / 195 / 230 (+ 25%
+(+ 10% per 100
+bonus
+AD)
+of expended
+Grit
+)
+physical damage
+to enemies hit. Enemies hit through the center take
+true damage
+instead.
+Down but not out:
+Sett
+also gains a rapidly decaying shield for 3 seconds equal to the
+Grit
+expended.
+Cost:
+100% of current Grit.
+Cooldown:
+16 / 14 / 12 / 10 / 8 seconds.
+Target Range:
+790
+.
+Width:
+805
+/
+180
+.
+Angle:
+27°.
+Cast Time:
+0.
+75
+seconds.
+Facebreaker
+(E)
+Active:
+Sett
+pulls in
+enemies at his front and back, dealing 50 / 80 / 110 / 140 / 170
+(+ 60% AD)
+physical damage
+and
+slowing
+them by 50% for 0.
+5
+seconds.
+If
+Facebreaker
+affects at least one enemy on each side, all enemies are
+stunned
+for 1 second upon landing.
+Cooldown:
+16 / 14.
+5
+/ 13 / 11.
+5
+/ 10 seconds.
+Target Range:
+490.
+Width:
+350.
+The Show Stopper
+(R)
+Active:
+Sett
+suppresses
+the target enemy champion and then
+dashes
+with
+displacement immunity
+at a
+fixed distance
+toward it,
+carrying
+it along for 1.
+5
+seconds before slamming it into the ground.
+Enemies within the impact area take 200 / 300 / 400
+(+ 100%
+bonus
+AD)
+(+ 40 / 50 / 60% of primary target's
+bonus
+health)
+physical damage
+, reduced by up to 40% on the edges, and are
+slowed
+by 99% for 1.
+5
+seconds.
+The dash will prematurely end upon reaching a wall that cannot be dashed through.
+Cooldown:
+120 / 100 / 80 seconds.
+Target Range:
+400.
+Effect Radius:
+600.
+Trivia
+[
+edit
+|
+edit source
+]
+Sett
+is one of 21 champions without a single
+ability power
+ratio on any ability:
+Aatrox
+,
+Camille
+,
+Darius
+,
+Dr. Mundo
+,
+Draven
+,
+Garen
+,
+K'Sante
+,
+Kayn
+,
+Kled
+,
+Naafiri
+,
+Nilah
+,
+Olaf
+,
+Pyke
+,
+Riven
+,
+Samira
+,
+Talon
+,
+Urgot
+,
+Xayah
+,
+Yone
+, and
+Zed
+.
+Rapidly using Sett's
+dance
+increases how fast he does his sit ups rather than restarting the animation.
+[2]
+Sett was teased ingame with the
+Sett's Calling Card
+loot item earnable in patch
+V9.24
+. It was
+awarded
+by "Impressing Sett" (scoring first blood in PvP games) and openable from January 14, 2020. The card contained a Sett Champion Permanent.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Juggernaut
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+Juggernauts
+are melee titans who relentlessly march down the opposition and devastate those foolish enough to get within their grasp. They are the only subclass who excel at both dealing and taking significant amounts of damage, but in turn they have a tough time closing in on targets due to their low range and extremely limited mobility.
+Examples
+Dr. Mundo
+Darius
+Mordekaiser
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Fury
+Fury
+is an umbrella term for many named resources that must be generated before being usable, compared to
+Mana
+or
+Energy
+that exist in some quantity beforehand. For most users, this resource is only required by a single ability or passive effect.
+It represents
+momentum
+and encourages sustained aggression from users, often gating a power-spike or empowerment.
+Fury
+generation varies between users, but is always generated
+in-combat
+(e.g. on-hit, ability casts or taking damage) and often decays when out of combat.
+Known as
+Fury
+Rage
+Battle Fury
+Dragon Fury
+Crimson Rush
+Courage
+Grit
+Awakening
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Knuckle Down
+COOLDOWN:
+9 / 8 / 7 / 6 / 5
+Active:
+Sett
+empowers his next two basic attacks within a few seconds to gain
+bonus
+range
+and deal
+bonus
+physical damage
+based on the
+target's
+maximum
+health
+.
+He also briefly gains
+bonus
+movement speed
+while moving toward enemy
+champions
+.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Cripple
+A unit that is
+crippled
+has reduced
+total
+attack speed
+for the duration.
+Sources of
+cripple
+stack multiplicatively with each other.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+cripple immunity
+.
+Removal:
+Removed by
+Cleanses
+and specifically
+Master Yi's
+Highlander
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Pit Grit
+Innate - Heart of the Half-Beast:
+Sett
+regenerates
+additional health based on
+his
+missing
+health
+.
+Innate - Heavy Hands:
+Sett's
+basic attacks alternate between his
+Left Punch
+and a
+Right Punch
+. His
+Right Punch
+attacks more quickly with
+bonus
+range
+and deals
+bonus
+physical damage
+.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+True damage
+Applies:
+Corrupting Potion
+Omnivamp
+Mitigated by:
+Damage shields
+Invulnerability
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Resurrection
+A unit that is protected by
+Resurrection
+will enter a revival state and dispel most debuffs upon taking
+fatal damage
+. After the state completes, the unit is revived.
+Resurrection
+effects do not count for kills or assists.
+Resurrection
+sources have a hierarchy, and will trigger in the following order:
+Zilean's
+Chronoshift
+Guardian Angel
+Anivia's
+Rebirth
+and
+Zac's
+Cell Division
+Resurrection
+will always take precedence over
+zombie state
+effects. Entering
+resurrection
+does not cancel cast times.
+Renata Glasc's
+Bailout
+always takes priority over
+resurrection
+.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Suppression
+A unit that is
+suppressed
+is unable to control its movement, declare attacks, cast abilities, activate items or use
+any
+summoner spell
+for the duration.
+Suppression
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Cleanse
+and
+Mikael's Blessing
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Displacement immune
+A unit that is
+displacement immune
+is
+immune
+to all
+Airborne
+effects in addition to the following effects:
+Crowd control
+Knockdown
+Suspension
+Kinematics
+Sleep
+Stasis
+Champion abilities
+Ambessa's
+Public Execution
+Mordekaiser's
+Realm of Death
+Skarner's
+Ixtal's Impact
+and
+Impale
+Sett's
+The Show Stopper
+Tahm Kench's
+Devour
+References
+↑
+Sett's profile page
+at
+LeagueOfLegends.com
+↑
+Whist on Sett Dance

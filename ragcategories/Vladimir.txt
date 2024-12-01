@@ -1,0 +1,2308 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Vladimir
+the Crimson Reaper
+Release date
+2010-07-27
+Last changed
+V14.19
+Class(es)
+Battlemage
+Legacy
+Mage
+Fighter
+Position(s)
+Middle
+Top
+Resource
+Crimson Rush
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+3
+Toughness
+2
+Control
+1
+Mobility
+1
+Utility
+1
+Style
+Difficulty
+Vladimir
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Vladimir
+Base statistics
+Edit
+Health
+607
++110
+Resource
+N/A
+Health regen. (per 5s)
+7
++0.6
+Secondary Bar
+Crimson Rush
+(2)
+Armor
+27
++4.5
+Attack damage
+55
++3
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+450
+Attack speed
+Base AS
+0.658
+Attack windup
+19.737%
+AS ratio
+N/A
+Bonus AS
++2
+%
+Missile speed
+1600
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+600
+Special statistics
+Damage Dealt
+-5%
+Damage Received
++5%
+Healing
+-10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-8%
+Damage Received
++5%
+Healing
++20%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Crimson Pact
+Innate:
+Vladimir
+gains
+ability power
+based on his
+bonus
+health
+, and
+bonus
+health
+based on his
+ability power
+.
+These bonuses do not stack with each other.
+Innate:
+Vladimir
+gains
+(3.
+3
+%
+bonus
+health)
+as
+ability power
+and
+(160% AP)
+as
+bonus
+health
+. These two bonuses do not stack with each other.
+Info
+Targeting input
+Passive
+Crimson Pact
+only affects
+Vladimir's
+maximum
+health
+and will not increase
+Vladimir's
+current
+health
+to prevent
+Vladimir
+from restoring health whenever his
+AP
+fluctuates.
+Vladimir's
+current
+health
+can decrease to match his
+maximum
+health
+if
+Crimson Pact's
+bonus
+health
+is lost.
+Crimson Pact's
+bonus
+ability power
+stacks multiplicatively
+with other sources of
+% ability power
+but its
+bonus
+health
+stacks additively
+with other sources of
+bonus
+health
+. With
+Rabadon's Deathcap's
+Magical Opus
+, the total is (
+35% AP
++
+4.
+49955
+%
+bonus
+health
+)
+bonus
+ability power
+and (
+216% AP
++
+1.
+86648
+%
+bonus
+health
+)
+bonus
+health
+.
+Edit
+Transfusion
+COOLDOWN:
+9 / 7.
+9
+/ 6.
+8
+/ 5.
+7
+/ 4.
+6
+CAST TIME:
+0.
+25
+TARGET RANGE:
+600
+Vladimir
+drains blood from the target enemy, dealing
+magic damage
+and
+healing
+himself. He then generates 1 point of
+Crimson Rush
+over the
+cooldown
+. At 2 points of
+Crimson Rush
+,
+Vladimir
+surges, briefly gaining
+bonus
+movement speed
+and during which his
+Crimson Rush
+depletes over a short time. Casting
+Transfusion
+during the surge consumes all
+Crimson Rush
+to deal
+increased damage
+and heal
+Vladimir
+for an additional amount based on
+his
+missing
+health
+.
+Active:
+Vladimir
+drains blood from the target enemy, dealing
+magic damage
+and
+healing
+himself. He then generates 1 point of
+Crimson Rush
+over the
+cooldown
+.
+Magic Damage:
+80 / 100 / 120 / 140 / 160
+(+ 60% AP)
+Heal:
+20 / 25 / 30 / 35 / 40
+(+ 35% AP)
+At 2 points of
+Crimson Rush
+,
+Vladimir
+surges, gaining
+10% / 20% / 30% / 40% (based on level)
+bonus
+movement speed
+for 0.
+5
+seconds while the
+Crimson Rush
+depletes over 2.
+5
+seconds.
+Crimson Rush
+depletes 75% slower during
+Sanguine Pool
+,
+Tides of Blood
+, or
+stasis
+.
+Casting
+Transfusion
+during the surge consumes all
+Crimson Rush
+to deal
+85% increased damage
+and
+heal
+Vladimir
+for an additional
+30 − 200 (based on level)
+(+ 5%
+(+ 4% per 100 AP)
+of his
+missing
+health)
+. The bonus healing is reduced to
+「 35% 」
+「
+10.
+5
+− 70 (based on level)
+(+ 1.
+75
+%
+(+ 1.
+4
+% per 100 AP)
+of his
+missing
+health)
+」
+against
+minions
+.
+Increased Damage:
+148 / 185 / 222 / 259 / 296
+(+ 111% AP)
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Even though the healing effect is visualized as a projectile, the healing itself triggers instantly.
+Vladimir's
+resource bar indicates his current
+Crimson Rush
+and changes colors depending on the charge-up stage of his surge.
+White
+while generating the first stack and while at 1 stack (there is no time-out period).
+Orange
+while generating the second stack.
+Red
+while he is surging (
+Crimson Rush
+will deplete over 2.
+5
+seconds once triggered).
+Each stack generates over-time (
+Transfusion's
+cooldown).
+Vladimir
+can cast
+Sanguine Pool
+and
+Hemoplague
+during
+Transfusion's
+cast time.
+The
+Crimson Rush
+depletes normally while under
+resurrection
+effects.
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 10 / 9 / 8 / 7 / 6 seconds.
+Heal AP ratio changed to
+20% AP
+.
+Edit
+Sanguine Pool
+COST:
+15%
+current
+health
+COOLDOWN:
+28 / 25 / 22 / 19 / 16
+CAST TIME:
+none
+EFFECT RADIUS:
+350
+Active:
+Vladimir
+sinks into a pool of blood for a short time, becoming
+untargetable
+,
+ghosted
+, and briefly gaining
+bonus
+decaying movement speed
+. He cannot use basic attacks and abilities, but can still move. Enemies within the pool are continually
+slowed
+, and dealt
+magic damage
+based on his
+bonus health
+.
+Vladimir
+heals
+for a portion of the damage dealt.
+Active:
+Vladimir
+sinks into a pool of blood, becoming
+untargetable
+and
+ghosted
+for 2 seconds. He also gains
+37.
+5
+%
+bonus
+movement speed
+that decays exponentially over 1 second.
+Enemies within the pool are dealt
+magic damage
+every 0.
+5
+seconds over the duration and are
+slowed
+by 40%.
+Vladimir
+heals
+himself for 30% of the
+pre-mitigation damage
+dealt, reduced to 18% against
+minions
+.
+Magic Damage Per Tick:
+20 / 33.
+75
+/ 47.
+5
+/ 61.
+25
+/ 75
+(+ 3.
+75
+%
+bonus
+health)
+Total Magic Damage:
+80 / 135 / 190 / 245 / 300
+(+ 15%
+bonus
+health)
+Vladimir
+cannot use basic attacks nor abilities during Sanguine Pool, but he can still move. If
+Tides of Blood
+is charging at the time of Sanguine Pool's activation, that ability may still be recast.
+Info
+Targeting input
+Auto
+Damage type
+Type
+AOE DOT damage
+Sub-type
+Magic
+The first tick damages immediately so the final one occurs 0.
+5
+seconds before
+Vladimir
+becomes targetable again.
+There is an extra damage tick for 0 damage when
+Vladimir
+becomes targetable again, triggering the same spell effects as the normal ticks (except those which require damage greater than 0 being dealt).
+This will trigger turret aggro onto
+Vladimir
+if an enemy champion is still within the effect radius when
+Sanguine Pool
+ends.
+The
+slow
+ends immediately once affected enemies get out of range.
+Vladimir
+can still use
+summoner spells
+and
+item actives
+during
+Sanguine Pool
+.
+While unable to attack,
+Vladimir
+can still input attack commands - causing him to follow his attack target.
+Vladimir's
+attack range
+is reduced
+「 to 0 」
+「 by 450 」
+while pooled - causing him to attempt to move right up to his attack target.
+Edit
+Tides of Blood
+COST:
+2 / 4 / 6 / 8% (based on charge time)
+maximum
+health
+COOLDOWN
+:
+13 / 11 / 9 / 7 / 5
+CAST TIME:
+none
+EFFECT RADIUS:
+600
+WIDTH:
+120
+SPEED:
+4000
+Active:
+Vladimir
+charges
+up to a brief moment to ramp up a
+health cost
+.
+Tides of Blood
+can be recast within the duration, and does so automatically afterwards or if
+interrupted
+.
+Recast:
+Vladimir
+unleashes a nova of blood bolts that each deal
+magic damage
+to the first enemy hit based on
+his
+maximum
+health
+, which is further increased based on charge time. If he charged long enough, enemies hit are also briefly
+slowed
+.
+Active:
+Vladimir
+charges
+for up to 1.
+5
+seconds, during which he increases
+Tides of Blood's
+damage over the first second of the channel, and becomes
+slowed
+by 20% afterwards for the remaining duration.
+Tides of Blood
+can be recast within the duration, and does so automatically afterwards or if it is
+interrupted
+.
+Recast:
+Vladimir
+unleashes a nova of 15 blood bolts around himself that each deal
+magic damage
+to the first enemy hit, increased based on charge time up to the first second.
+Minimum Magic Damage:
+30 / 45 / 60 / 75 / 90
+(+ 1.
+5
+%
+maximum
+health)
+(+ 35% AP)
+Maximum Magic Damage:
+60 / 90 / 120 / 150 / 180
+(+ 6%
+maximum
+health)
+(+ 80% AP)
+If
+Tides of Blood
+was charged for at least 1 second, enemies hit are also
+slowed
+for 0.
+5
+seconds.
+Slow:
+40 / 45 / 50 / 55 / 60%
+Enemies can intercept multiple bolts, but can be damaged only once.
+If
+Vladimir
+is below
+12% of his
+maximum
+health
+, Tides of Blood will not cost any
+health
+.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Disruption
+Interrupted
+The spell indicator shows 11 equally spaced missile indicators when hovering the ability in the HUD, however the spell actually casts 15 equally spaced missiles.
+The
+health
+cost may still drop
+Vladimir
+below the specified amount if he is above it. This is verified for every tick of
+health
+cost, i.e if the first tick drops him below it, the next ones will stop affecting him if he remains below it.
+The following table refers for interactions while
+Vladimir
+is
+channeling
+:
+Type
+Charge channel
+Attacking
+Disabled
+Abilities
+Sanguine Pool
+is usable.
+Transfusion
+and
+Hemoplague
+both interrupt after 0.
+25
+seconds.
+Movement
+Allowed
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+Hextech Rocketbelt
+Interrupted by
+All item-actives not specified above interrupt
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Disabled
+N/A
+Interrupted by
+Teleport
+Recall
+Hexflash
+Interrupted by
+Death
+Cast-inhibiting effects
+Edit
+Hemoplague
+COOLDOWN:
+120
+CAST TIME:
+none
+TARGET RANGE:
+625
+EFFECT RADIUS:
+375
+Active:
+Vladimir
+unleashes a plague at the target location that infects nearby enemies hit for a few seconds, increasing the damage they take from all sources. After the duration, infected targets are dealt
+magic damage
+, which heals
+Vladimir
+for each
+champion
+hit.
+Active:
+Vladimir
+spreads a virulent plague at the target location that infects enemies hit for 4 seconds, increasing the damage they take from all sources by 10%.
+After the duration, the infection bursts to deal
+magic damage
+to all affected targets and, after a 0.
+4
+-second delay,
+heal
+Vladimir
+for each infected champion, reduced by 40% for champions beyond the first.
+Magic damage:
+150 / 250 / 350
+(+ 70% AP)
+Heal:
+150 / 250 / 350
+(+ 70% AP)
+Reduced Heal:
+60 / 100 / 140
+(+ 28% AP)
+Maximum Total Heal:
+390 / 650 / 910
+(+ 182% AP)
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+Not Blocked
+Hemoplague
+will amplify almost all sources and types of damage (including damage from neutral monsters but excluding
+true damage
+, with percent modifiers stacking multiplicatively).
+Hemoplague
+amplifies itself for an actual 165 / 275 / 385
+(+ 77% AP)
+damage.
+Hemoplague's
+modifier to incoming damage stacks additively with
+Alistar's
+Unbreakable Will
+for a total damage reduction of 45/55/65%.
+*
+Spell shield
+does not negate the detonation.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Vladimir (Collection)
+.
+Original
+View in 3D
+790
+27.07.2010
+A fiend with a thirst for mortal blood, Vladimir has influenced the affairs of Noxus since the empire’s earliest days. In addition to unnaturally extending his life, his mastery of hemomancy allows him to control the minds and bodies of others as easily as his own. In the flamboyant salons of the Noxian aristocracy, this has enabled him to build a fanatical cult of personality around himself—while in the lowest back alleys, it allows him to bleed his enemies dry.
+Kevin M. Connolly
+Michal Ivan, Puppetworks Animation Studio
+Loot eligible
+Count
+View in 3D
+520
+27.07.2010
+Once upon a time, in the heart of a dark and gloomy castle, there lived an eternally youthful count who the people greatly feared. Every night, a terrible red mist would seep into the villages, and some poor soul would vanish without a trace—another life lost to Vladimir's growing appetites.
+Kevin M. Connolly
+Mist XG
+Storybook
+Loot eligible
+Legacy
+Marquis
+View in 3D
+520
+27.07.2010
+At the last ball he attended, Vladimir stole everyone's heart. Strangely enough, no one has heard or seen those attendees since…
+Kevin M. Connolly
+Viktor Titov, Grafit Studio
+High Society
+Loot eligible
+Nosferatu
+View in 3D
+975
+19.10.2010
+Look, the guy is a film buff. So what? Hemomancers can like things, too.
+Kevin M. Connolly
+Unknown artist
+Trick-or-Treat
+Loot eligible
+Legacy
+Vandal
+View in 3D
+975
+24.01.2011
+Leader of the notorious Vandals, Vladimir's exposure to residual radiation has given him control over the blood of living organisms. If he wanted to, he could cure every creature in the wasteland of disease—instead he rides around with his crew ransacking settlements. Priorities.
+Kevin M. Connolly
+Unknown artist
+Vandal
+Loot eligible
+Legacy
+Blood Lord
+View in 3D
+1820
+21.11.2011
+Former leader of a Bloodstone cult, Vladimir took part in a ritual that sacrificed his humanity—along with the blood of several victims—to transform the once foppish noble into a terror of the night. To satiate his sanguine cravings, he stalks the urban labyrinth in search of hapless prey.
+Gavin Hammon
+Kienan 'Knockwurst' Lafferty
+Bloodstone
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Soulstealer
+View in 3D
+1350
+09.07.2014
+Kevin M. Connolly
+Sperasoft Studio
+Soulstealer
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Academy
+View in 3D
+750
+26.08.2015
+NOTICE FROM THE DEAN: Vladimir is henceforth suspended from Academy grounds for behavior including (but not limited to) extreme snobbery, hiring other students to finish his exams and attend his classes, and putting an unnecessary strain on our janitorial department after “that” incident.
+Kevin M. Connolly
+Sixmorevodka Studio
+Academy
+Loot eligible
+Dark Waters
+View in 3D
+1350
+31.05.2018
+In his younger days, Vladimir practiced at a school of medicine known for magically manipulating the humors of a patient's body. Turns out in Bilgewater there's more coin to be made killing than saving, and now he's found himself in a much more lucrative—if not messier—line of work.
+Kevin M. Connolly
+Rudy Siswanto, Kelly Aleshire
+Bilgewater: Curse of the Drowned
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dark Waters Vladimir Chromas
+Emerald
+Obsidian
+Pearl
+Sandstone
+Tanzanite
+Nightbringer
+View in 3D
+1350
+12.12.2019
+The chaotic king of the night, Vladimir exists as the personification of uncertainty and revelry. He thrives in the unknown shadows, feeding on the life essence and darkness found in mortal hearts.
+Kevin M. Connolly
+West Studio
+Nightbringer and Dawnbringer
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Nightbringer Vladimir Chromas
+Emerald
+Obsidian
+Pariah
+Ruby
+Tanzanite
+Turquoise
+Cosmic Devourer
+View in 3D
+1350
+24.11.2020
+Pompous, arrogant, and isolated from his cosmic brethren, Vladimir drinks the essence from dead worlds to infuse dying ones with life. Yet as of late his hunger has begun to grow…
+Kevin M. Connolly
+Xiao Guang Sun, West Studio
+Cosmic
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Cosmic Devourer Vladimir Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+Cafe Cuties
+View in 3D
+1350
+02.12.2021
+Vladimir spent years searching for the elixir of life—only to discover that it is, in fact, tea. Since then he has steeped himself in the art of the perfect cup. Though he pretends to frequent the cafe solely to advance his Tasseomancy, Vladimir has grown fond of the ragtag group that allowed him to take up residence among their ranks.
+Kevin M. Connolly
+Francis Tneh, West Studio
+Cafe Cuties
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Cafe Cuties Vladimir Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Broken Covenant
+View in 3D
+1350
+09.03.2023
+The ultimate Neverghaast, at least to himself, Vladimir cares only about feeding himself and his ego. Though he is not above helping someone for the right price, like that "idiot" Rakan, he has no stake in the war beyond finding the fabled well of Aspira within the congregation. Such power, he smugly reasons, would surely be better in his hands.
+Kevin M. Connolly
+Augusto Quirino, West Studio
+Broken Covenant
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Broken Covenant Vladimir Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.19
+Sanguine Pool
+New Effect:
+Healing is now 60% effective against minions.
+In-game tooltip now clarifies that the healing is based on pre-mitigation damage dealt.
+V14.18
+Sanguine Pool
+Bug Fix:
+No longer improperly takes damage from certain effects despite being untargetable to them.
+V14.13
+Sanguine Pool
+Bug Fix:
+The ability's health scaling is now properly applied to the heal.
+V14.12
+Sanguine Pool
+Health cost reduced to
+15%
+current
+health
+from
+20%
+.
+Health ratio increased to
+15%
+bonus
+health
+from
+10%
+.
+Healing increased to 30% of damage dealt from 15%.
+V13.13
+Hemoplague
+Bug Fix:
+Range indicator size is no longer different before and after leveling up the ability.
+V13.9
+Transfusion
+Bug Fix:
+No longer damages through untargetability.
+V13.7
+Transfusion
+New Effect:
+Now completes the cast even if the target dies during the cast time.
+V13.3
+General
+Adjusted splash artwork for
+Academy Vladimir
+.
+V12.13
+Transfusion
+Bug Fix:
+No longer is shown in the HUD as a temporary buff.
+V12.10
+- May 25th Hotfix
+Transfusion
+Heal AP ratio increased to
+35% AP
+from
+30% AP
+.
+Empowered heal ratio increased to
+4% per 100 AP
+from
+3% per 100 AP
+.
+Empowered healing against minions increased to 35% from 30%.
+V12.10
+Stats
+Base health increased to 607 from 537.
+Health growth increased to 110 from 96.
+Armor growth increased to 4.
+5
+from 3.
+3
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Transfusion
+Heal AP ratio reduced to
+30% AP
+from
+35% AP
+.
+Empowered heal AP ratio reduced to
+3.
+5
+% per 100 AP
+from
+4% per 100 AP
+.
+Empowered healing against minions reduced to 30% from 35%.
+Undocumented/Bug Fix:
+Crimson Rush's bonus movement speed increased from 10% to
+10% / 20% / 30% / 40% (based on level)
+. (Tooltip bug?)
+Hemoplague
+Subsequent heal modifier reduced to 40% from 50%.
+V12.8
+Stats
+Base armor increased to 27 from 23.
+V11.22
+Tides of Blood
+Bug Fix:
+Charging SFX has now been restored for all skins.
+V11.16
+Crimson Pact
+Bonus AP increased to
+3.
+3
+%
+bonus
+health
+from
+2.
+5
+%
+.
+Bonus health increased to
+160% AP
+from
+140% AP
+.
+V11.10
+Sanguine Pool
+Bug Fix:
+No longer becomes targetable prematurely if another
+untargetability
+effect (e.g.
+Dash
+) ends during the ability.
+V11.9
+Transfusion
+Cooldown increased to 9 / 7.
+9
+/ 6.
+8
+/ 5.
+7
+/ 4.
+6
+seconds from 9 / 7.
+75
+/ 6.
+5
+/ 5.
+25
+/ 4.
+V11.8
+Transfusion
+Cooldown reduced to 9 / 7.
+75
+/ 6.
+5
+/ 5.
+25
+/ 4 seconds from 9 / 8 / 7 / 6 / 5.
+V11.5
+General
+Undocumented/Bug Fix:
+Blood Orb particle restored.
+V11.3
+Hemoplague
+Cooldown reduced to 120 seconds at all ranks from 150 / 135 / 120.
+V10.25
+Cosmic Devourer Vladimir
+Bug Fix:
+Orb now properly reappears upon revival.
+V10.23
+- November 12th Hotfix
+Tides of Blood
+Bug Fix:
+Cooldown now properly starts on cast, rather than on release.
+V10.23
+Hemoplague
+Bug Fix:
+Incoming heal indicator now properly appears even when non-champion targets are hit.
+V10.22
+Hemoplague
+Now has an "incoming health" UX added to the health bar, so the player can see how much health they will receive from
+Hemoplague's
+delayed heal.
+V10.20
+Transfusion
+Bug Fix:
+Corrected the tooltip to include information about his healing reduction versus minions.
+V8.13
+Tides of Blood
+Maximum AP ratio reduced to
+80% AP
+from
+100% AP
+.
+V8.7
+Blood Lord Vladimir
+Bug Fix:
+Idle blood orb VFX have been restored.
+V8.3
+Stats
+Base health regeneration reduced to 7 from 7.
+008
+.
+V8.2
+Transfusion
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V7.22
+Stats
+Base health increased to 537 from 525.
+Health growth increased to 96 from 84.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.6
+Tides of Blood
+Bug Fix:
+Attack-moving during it no longer causes it to immediately release.
+V7.4
+Blood Lord Vladimir
+Bug Fix:
+Now correctly gets audio quotes when he attacks.
+V7.3
+Stats
+Base attack damage increased to 55 from 52.
+Basic attack projectile speed increased to 1600 from 1400.
+Transfusion
+AP ratio increased to
+60% AP
+from
+55% AP
+.
+Base damage increased to 80 / 100 / 120 / 140 / 160 from 75 / 90 / 105 / 120 / 135.
+Crimson Rush's bonus damage reduced to 85% from 100%.
+V6.21
+General
+New splash artwork for
+Count Vladimir
+and
+Marquis Vladimir
+.
+V6.20
+Transfusion
+Heal AP ratio increased to
+35% AP
+from
+15% AP
+.
+Crimson Rush
+bonus heal against minion reduced to 35% from 50%.
+Tides of Blood
+Maximum magic damage AP ratio increased to
+100% AP
+from
+70% AP
+.
+Maximum magic damage health ratio reduced to
+6% maximum health
+from
+8% maximum health
+.
+Missile wifth increased to 60 from 40.
+Missiles spawned reduced to 15 from 20.
+V6.18
+Stats
+Base health reduced to 525 from 550.
+Transfusion
+Crimson rush healing bonus reduced to
+30 − 200 (based on level)
+from
+40 − 240 (based on level)
+.
+Tides of Blood
+Maximum health cost/bonus damage reduced to
+8% of maximum health
+from
+10%
+.
+Cooldown increased to 13 / 11 / 9 / 7 / 5 from 9 / 8 / 7 / 6 / 5.
+V6.15
+Stats
+Base movement speed reduced to 330 from 335.
+Sanguine Pool
+Cooldown increased to 28 / 25 / 22 / 19 / 16 seconds from 26 / 23 / 20 / 17 / 14.
+V6.14
+Blood Lord Vladimir
+Hemoplague
+Bug Fix:
+Slight flickering in cast visuals
+V6.13
+Crimson Pact
+Bonus AP reduced to
+2.
+5
+% bonus health
+from
+4%
+.
+Bonus health increased to
+140% AP
+from
+100% AP
+.
+Transfusion
+Base damage reduced to 75 / 90 / 105 / 120 / 135 from 80 / 100 / 120 / 140 / 160.
+Damage AP ratio increased to
+55% AP
+from
+45% AP
+.
+V6.11
+Transfusion
+Bug Fix:
+Related voice-over lines not playing.
+Tides of Blood
+Bug Fix:
+Related voice-over lines not playing.
+V6.10
+Crimson Rush
+New Effect:
+Particle delays until just before
+Transfusion
+becomes available.
+Tides of Blood
+Removed:
+Second cast canceling
+Sanguine Pool
+early.
+Hemoplague
+Base heal increased to 150 / 250 / 350 from 75 / 125 / 175.
+Heal AP ratio increased to
+70% AP
+from
+35% AP
+.
+Additional heal changed to 50% for each champion hit beyond the first, instead of 100% additively.
+Maximum heal increased to 450 / 750 / 1050
+(+ 210% AP)
+from 375 / 625 / 875
+(+ 175% AP)
+.
+May 9th Hotfix
+Crimson Rush
+Heal AP ratio increased to
+4% per 100 AP
+from
+2.
+5
+%
+.
+Tides of Blood
+Minimum damage increased to 30 / 45 / 60 / 75 / 90 from 30 / 40 / 50 / 60 / 70.
+Maximum damage increased to 60 / 90 / 120 / 150 / 180 from 60 / 80 / 100 / 120 / 140.
+V6.9
+Gameplay Update
+General
+New ability icons.
+Stats
+Base health increased to 550 from 543.
+Health growth reduced to 84 from 85.
+Base attack damage increased to 52 from 48.
+Base rmor increased to 23 from 21.
+88
+.
+Armor growth reduced to 3.
+3
+from 3.
+5
+.
+Crimson Pact
+Bonus AP increased to
+4% bonus health
+from
+2.
+5
+%
+.
+Bonus health reduced to
+100% AP
+from
+140% AP
+.
+Transfusion
+Base damage reduced to 80 / 100 / 120 / 140 / 160 from 90 / 125 / 160 / 195 / 230.
+Damage AP ratio reduced to
+45% AP
+from
+60% AP
+.
+Base heal changed to 20 / 25 / 30 / 35 / 40 from 15 / 25 / 35 / 45 / 55.
+Heal AP ratio reduced to
+15% AP
+from
+25% AP
+.
+New Effect:
+After two casts, and for the next one, Vladimir gains
+Crimson Rush
+for 2.
+5
+seconds. If used before it expires, Vladimir gains bonus movement speed and the empowered cast will deal 100% increased damage as well as heal for an additional
+60 − 315 (based on level)
+(+ 5%
+(+ 2.
+5
+% per 100 AP)
+missing health)
+but this healing is reduced to 50% against minions. The empowered cast will also count as the first stack toward the next
+Crimson Rush
+.
+Cooldown changed to 9 / 8 / 7 / 6 / 5 seconds from 10 / 8.
+5
+/ 7 / 5.
+5
+/ 4.
+Sanguine Pool
+Health ratio reduced to
+10% bonus health
+from
+15% bonus health
+.
+Tides of Blood
+-
+New E
+First Cast:
+Vladimir begins charging, increasing Tides of Blood's damage while rapidly consuming
+10% maximum health
+over the next second. Vladimir is slowed after this initial second if he continues to charge. After 1.
+5
+or if interrupted, Vladimir will automatically use the second cast.
+Second Cast:
+Vladimir unleashes the stored blood in a nova of bolts, each dealing between 30 / 40 / 50 / 60 / 70
+(+ 1.
+5
+% maximum health)
+(+ 35% AP)
+and 60 / 80 / 100 / 120 / 140
+(+ 10% maximum health)
+(+ 70% AP)
+magic damage to the first enemy they hit. Enemies can intercept multiple bolts but can only be damaged once. Minions cannot block more than 5 bolts and, if they do get hit by one, the bolt will deal area-of-effect damage that only affects other nearby minions. If charged for at least 1 second, enemies hit are also slowed by 40 / 45 / 50 / 55 / 60% for a few seconds.
+Tides of Blood's charge-up is not interrupted by casting
+Sanguine Pool
+but it will be canceled early if the second cast is used.
+Cooldown increased to 9 / 8 / 7 / 6 / 5 seconds from 4.
+5
+at all ranks.
+Range: 600
+Hemoplague
+Duration reduced to 4 seconds from 5.
+Damage amplification reduced to 10% from 12%.
+New Effect:
+Vladimir heals for 75 / 125 / 175
+(+ 35% AP)
+per champion damaged by the plague's detonation.
+Trivia
+[
+edit
+|
+edit source
+]
+Vladimir was the second champion released in
+Season One
+(the first being
+Xin Zhao
+).
+He was also the only champion labeled as
+Mage
+/
+Tank
+for his legacy
+champion classes
+.
+Vladimir is one of six champions who use health as a resource for abilities, the other five being
+Briar
+,
+Dr. Mundo
+,
+Olaf
+,
+Soraka
+, and
+Zac
+.
+The old icon for
+Tides of Blood
+is similar to the old one for
+Ravenous Flock
+.
+His name (Russian: Влади́мир) comes from
+Old Church Slavonic
+Владимѣръ
+Vladi
+měrŭ
+, meaning "great ruler".
+The name is either native Slavonic or loaned from Germanic
+Waldemar
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Battlemage
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Battlemages
+(also known as Warlocks) get into the middle of the fray, seeking to wreak havoc upon the entire enemy team with their overwhelming sustained area damage. Due to their relatively short (but not melee) combat ranges and the need to burn down their opponents over time, Battle Mages have significant defensive capabilities that range from sustaining endlessly to literally defying death for a short period of time.
+Examples
+Rumble
+Swain
+Vladimir
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Fury
+Fury
+is an umbrella term for many named resources that must be generated before being usable, compared to
+Mana
+or
+Energy
+that exist in some quantity beforehand. For most users, this resource is only required by a single ability or passive effect.
+It represents
+momentum
+and encourages sustained aggression from users, often gating a power-spike or empowerment.
+Fury
+generation varies between users, but is always generated
+in-combat
+(e.g. on-hit, ability casts or taking damage) and often decays when out of combat.
+Known as
+Fury
+Rage
+Battle Fury
+Dragon Fury
+Crimson Rush
+Courage
+Grit
+Awakening
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Stacks multiplicatively
+An effect that
+stacks multiplicatively
+can be calculated by multiplying the effects together.
+Most
+champion statistics
+that stack this way are expressed through percentages.
+
+The following stats
+stack multiplicatively
+:
+Attack speed reduction
+Damage modifiers
+Percent armor penetration and reduction
+Percent magic penetration and reduction
+Slow potency reduction
+League of Legends content
+Stacks additively
+An effect that
+stacks additively
+can be calculated by adding the effects together.
+Most
+champion statistics
+that stack this way are expressed through flat numbers, but the stats can also be percentages. The following stats
+stack additively
+:
+Ability haste
+Ability power
+Armor
+Lethality and flat armor reduction
+Attack damage
+Attack speed
+Critical strike chance
+Critical strike damage
+Heal and shield power
+Health
+Health regeneration
+Life steal
+Magic resistance
+Flat magic penetration and reduction
+Mana
+Mana regeneration
+Omnivamp
+Physical vamp
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Fury
+Fury
+is an umbrella term for many named resources that must be generated before being usable, compared to
+Mana
+or
+Energy
+that exist in some quantity beforehand. For most users, this resource is only required by a single ability or passive effect.
+It represents
+momentum
+and encourages sustained aggression from users, often gating a power-spike or empowerment.
+Fury
+generation varies between users, but is always generated
+in-combat
+(e.g. on-hit, ability casts or taking damage) and often decays when out of combat.
+Known as
+Fury
+Rage
+Battle Fury
+Dragon Fury
+Crimson Rush
+Courage
+Grit
+Awakening
+League of Legends content
+Sanguine Pool
+COOLDOWN:
+28 / 25 / 22 / 19 / 16
+Active:
+Vladimir
+sinks into a pool of blood for a short time, becoming
+untargetable
+,
+ghosted
+, and briefly gaining
+bonus
+decaying movement speed
+. He cannot use basic attacks and abilities, but can still move.
+Enemies within the pool are continually
+slowed
+, and dealt
+magic damage
+based on his
+bonus health
+.
+Vladimir
+heals
+for a portion of the damage dealt.
+League of Legends content
+Tides of Blood
+COOLDOWN:
+13 / 11 / 9 / 7 / 5
+Active:
+Vladimir
+charges
+up to a brief moment to ramp up a
+health cost
+.
+Tides of Blood
+can be recast within the duration, and does so automatically afterwards or if
+interrupted
+.
+Recast:
+Vladimir
+unleashes a nova of blood bolts that each deal
+magic damage
+to the first enemy hit based on
+his
+maximum
+health
+, which is further increased based on charge time. If he charged long enough, enemies hit are also briefly
+slowed
+.
+League of Legends content
+Stasis (buff)
+A unit that enters
+stasis
+becomes
+invulnerable
+and
+untargetable
+, but also unable to control its movement, declare basic attacks, cast abilities, use summoner spells, or activate items.
+Bard's
+Tempered Fate
+and
+Syndra's
+Force of Will
+are the only
+stasis
+effects that are considered
+crowd control
+against enemies. Some effects treat friendly (self/ally applied) and hostile (enemy applied)
+stasis
+the same.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Hemoplague
+COOLDOWN:
+120
+Active:
+Vladimir
+unleashes a plague at the target location that infects nearby enemies hit for a few seconds, increasing the damage they take from all sources.
+After the duration, infected targets are dealt
+magic damage
+, which heals
+Vladimir
+for each
+champion
+hit.
+League of Legends content
+Resurrection
+A unit that is protected by
+Resurrection
+will enter a revival state and dispel most debuffs upon taking
+fatal damage
+. After the state completes, the unit is revived.
+Resurrection
+effects do not count for kills or assists.
+Resurrection
+sources have a hierarchy, and will trigger in the following order:
+Zilean's
+Chronoshift
+Guardian Angel
+Anivia's
+Rebirth
+and
+Zac's
+Cell Division
+Resurrection
+will always take precedence over
+zombie state
+effects. Entering
+resurrection
+does not cancel cast times.
+Renata Glasc's
+Bailout
+always takes priority over
+resurrection
+.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Persistent area damage
+Persistent area damage
+is technically not a separate type of damage, but rather a hybrid classification that is applied to some spells.
+In situations where
+persistent damage
+and
+area damage
+would have conflicting outputs, the conflict is resolved by choosing the weakest possible outcome.
+Physical vamp
+and
+Spell vamp
+(where applicable) heals with one-third effectiveness, as with
+area damage
+.
+Arcane Comet's
+cooldown is reduced by 5%, as with
+persistent damage
+, per target affected.
+Counter Strike
+reduces the damage dealt by 25%, as with
+area damage
+.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Interrupt
+Interrupt
+is a quality of crowd control that
+interrupts
+an in-progress effect, preventing its completion or causing the effect to go off at an
+interrupted
+state.
+The following crowd control effects
+interrupt
+channeled and charged
+abilities (unless otherwise noted by the ability):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+The following crowd control effects
+interrupt
+dashes
+:
+Airborne
+Knockdown
+Stasis
+Basic attack windups
+are
+interrupted
+by all forms of crowd control that inhibit attacking.
+Ground
+and
+Root
+only
+interrupt
+channeled and charged movement abilities.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Transfusion
+COOLDOWN:
+9 / 7.
+9
+/ 6.
+8
+/ 5.
+7
+/ 4.
+6
+Vladimir
+drains blood from the target enemy, dealing
+magic damage
+and
+healing
+himself. He then generates 1 point of
+Crimson Rush
+over the
+cooldown
+.
+At 2 points of
+Crimson Rush
+,
+Vladimir
+surges, briefly gaining
+bonus
+movement speed
+and during which his
+Crimson Rush
+depletes over a short time.
+Casting
+Transfusion
+during the surge consumes all
+Crimson Rush
+to deal
+increased damage
+and heal
+Vladimir
+for an additional amount based on
+his
+missing
+health
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+True damage
+Applies:
+Corrupting Potion
+Omnivamp
+Mitigated by:
+Damage shields
+Invulnerability
+League of Legends content
+Unbreakable Will
+COOLDOWN:
+120 / 100 / 80
+Active:
+Alistar
+lets out a wild roar,
+cleansing
+all
+crowd control
+effects and gaining damage reduction for a few seconds.
+References
+[
+edit
+|
+edit source
+]
+↑
+Vladimir's profile page
+at
+LeagueOfLegends.com

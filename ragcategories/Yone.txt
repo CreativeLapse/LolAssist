@@ -1,0 +1,3128 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Yone
+the Unforgotten
+Release date
+2020-08-06
+Last changed
+V14.21
+Class(es)
+Assassin
+Skirmisher
+Legacy
+Fighter
+Assassin
+Position(s)
+Top
+Middle
+Resource
+Flow
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+3
+Utility
+1
+Style
+Difficulty
+Yone
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Yone
+Base statistics
+Edit
+Health
+620
++105
+Resource
+N/A
+Health regen. (per 5s)
+7.5
++0.75
+Secondary Bar
+Flow
+(500)
+Armor
+33
++4.6
+Attack damage
+60
++2
+Magic resist.
+32
++2.05
+Crit. damage
+175% ( ×  0.9)
+Move. speed
+345
+Attack range
+175
+Attack speed
+Base AS
+0.625
+Attack windup
+22%
+AS ratio
+N/A
+Bonus AS
++3.5
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+32
+Acq. radius
+400
+Special statistics
+Damage Dealt
++5%
+Damage Received
+-3%
+Total Attack Speed
++2.5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-2%
+Damage Received
++0%
+Damage Dealt
++10%
+Damage Received
+-10%
+Shielding
++20%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Way of the Hunter
+Innate - Intent:
+Yone
+gains increased
+critical strike chance
+, but his
+critical strikes
+deal reduced damage. He also gains
+attack damage
+from excess
+critical strike chance
+.
+Innate - Steel and Spirit:
+Yone's
+basic attacks alternate between his
+Steel Sword
+and
+Azakana Sword
+. His
+Azakana Sword
+deals equal parts
+physical
+and
+magic
+damage.
+Innate - Intent:
+Yone's
+total
+critical strike chance
+is doubled from all other sources, but his
+critical strikes
+deal only
+「
+(157.
+5
+% +
+36%
+) AD
+physical damage
+. 」
+「 90% of the
+critical damage
+champions usually have. 」
+Additionally,
+「 every
+1% critical strike chance
+in excess of
+100%
+is converted into
+0.
+5
+bonus
+attack damage
+. 」
+「 every
+50% critical strike chance
+in excess of
+100%
+is converted into
+25
+bonus
+attack damage
+. 」
+Innate - Steel and Spirit:
+Yone's
+basic attacks
+alternate between his
+Steel Sword
+and
+Azakana Sword
+on-attack
+.
+Yone
+begins attacking with
+Steel Sword
+, and basic attacks with
+Azakana Sword
+deal
+50% AD
+physical damage
+and
+50% AD
+magic damage
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Basic damage
+Sub-type
+Physical
+/
+Magic
+Counters
+Parries
+Blocked
+There is no attack time-out between alternating swords. It will
+persist through
+death
+.
+50% of
+Spellblade
+and
+Demolish
+damage will be converted to
+magic damage
+if applied by the
+Azakana Sword
+.
+This will also occur if applied by
+Guinsoo's Rageblade's
+Phantom Hit
+after having last attacked with the
+Azakana Sword
+.
+This will also occur if applied by
+Mortal Steel
+after having last attacked with the
+Azakana Sword
+.
+(bug)
+The mixed damage is dealt in two simultaneous instances of damage, but will pretend to be a single instance for most effects (such as
+Conqueror's
+stacks).
+Both instances deal
+basic damage
+and thus natively apply
+life steal
+.
+The attack applies
+on-hit
+effects only once, right at the start.
+Even if the target dies from the
+magic damage
+, the
+physical damage
+will still be applied to it.
+If the target dies from
+on-hit
+damage, the magic damage portion will be skipped and only the physical damage applied.
+(bug)
+Yone
+requires at least
+50% critical strike chance
+in order to reach
+100% critical strike chance
+from
+Way of the Hunter's
+multiplier.
+Edit
+Mortal Steel
+CAST TIME:
+0.
+35
+− 0.
+175
+(based on
+bonus
+attack speed)
+STATIC COOLDOWN
+:
+4 − 1.
+33
+(based on
+bonus
+attack speed)
+RANGE:
+450
+/
+450
+/
+1050
+COLLISION RADIUS:
+100
+WIDTH:
+80
+/
+160
+SPEED:
+1500
+Active:
+Yone
+thrusts his
+Steel Sword
+in a line in the target direction that deals
+physical damage
+to enemies hit and applies
+on-hit
+and
+on-attack
+effects to the first enemy hit. This can
+critically strike
+. If this hits an enemy,
+Yone
+generates a stack of
+Gathering Storm
+for a few seconds. At 2 stacks, the next
+Mortal Steel
+consumes them all to become empowered with a new effect.
+Gathering Storm Bonus:
+Yone
+dashes
+in the target direction and unleashes a whirlwind in the same direction, both deal
+physical damage
+and briefly
+knocks up
+enemies hit.
+Active:
+Yone
+thrusts his
+Steel Sword
+in a line in the target direction that deals
+physical damage
+to enemies hit and applies
+on-hit
+and
+on-attack
+effects at 100% effectiveness to the first enemy hit.
+Mortal Steel's
+damage can
+critically strike
+for
+「
+(60.
+375
+% +
+37.
+8
+%
+) AD
+bonus
+physical damage
+. 」
+「 90% of the
+critical damage
+champions usually have. 」
+Physical Damage:
+20 / 45 / 70 / 95 / 120
+(+ 105% AD)
+If this hits at least one enemy,
+Yone
+generates a
+stack
+of
+Gathering Storm
+for 6 seconds, stacking up to 2 times and refreshing on subsequent hits. At 2 stacks, the next
+Mortal Steel
+consumes them all to become empowered with a new effect.
+Gathering Storm Bonus:
+Yone
+dashes
+a fixed distance in the target direction and unleashes a whirlwind in the same direction, both dealing the same damage to enemies hit in their path and
+knocking them up
+for 0.
+75
+seconds, but being unable to affect the same target twice.
+Mortal Steel's
+thrust is
+interrupted
+if
+Yone
+is affected by
+disarming crowd control
+during the cast time but its
+cooldown
+is reset to 0.
+1
+seconds.
+Info
+Targeting input
+Direction
+Damage type
+Type
+See Notes
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Parries
+See Notes
+Projectile
+See Notes
+Grounded
+See Notes
+Knockdown
+Interrupted
+Mortal Steel
+applies
+basic damage
+for
+the first (closest) enemy hit
+and
+area damage
+for secondary enemies:
+Mortal Steel
+will apply
+on-hit
+effects to the first target hit, but will not do so to the secondary ones.
+Mortal Steel
+will not apply
+spell effects
+to the first target hit, but will do so to the secondary ones.
+Spell vamp
+will only grant
+healing
+from the damage dealt to secondary targets, and healing is reduced to 33% effectiveness, accordingly.
+Life steal
+will heal based on the damage dealt to the first target hit.
+Mortal Steel
+will not benefit from the bonus attack speed gained by
+Hail of Blades
+.
+(bug)
+After a successful crit roll against one of the targets,
+Mortal Steel's
+thrust is guaranteed to
+critically strike
+all further targets as well.
+(bug)
+This is unlike the behaviour of
+Yasuo's
+Steel Tempest
+.
+The whirlwind and dash roll their critical strike against each target individually.
+Blinking
+during
+Mortal Steel's
+cast with two stacks of
+Gathering Storm
+(after the cast time) will end the dash prematurely but enemies in range of
+Yone
+at the new location are affected. The whirlwind's trajectory cannot be changed once it has already been unleashed.
+Only the whirlwind can be
+intercepted
+.
+Each parry has different interactions with this ability, whether it's the first target of
+Mortal Steel
+or the secondary one. In either case
+Yone
+still gains a stack of
+Gathering Storm
+and his whirlwind
+knock up
+cannot be negated by parries:
+Dodge
+and
+Block
+: first target
+does not
+take damage, secondary target
+does
+take damage.
+Blind
+: both first target and secondary target take damage.
+Spell shield
+does not prevent
+Yone
+from receiving a stack.
+Mortal Steel
+is disabled while
+grounded
+or
+rooted
+if
+Yone
+has two stacks of
+Gathering Storm
+.
+While at two stacks, a range indicator will be shown for the effective range of the whirlwind.
+The
+dash
+can cross terrain.
+If Yone gets knocked back during the 3rd cast, the dash will only damage and knockup around Yone's current position then will stop colliding, making Yone play his 3rd Q end animation while still dashing.
+(bug)
+This ability will cast from wherever the caster is at the end of the cast time.
+Yone
+will always cast
+Mortal Steel
+in his facing direction, and he will turn to face the target direction at the start of the cast time. While at two stacks,
+Yone
+will always cast it in the target direction.
+Edit
+Spirit Cleave
+CAST TIME:
+0.
+5
+− 0.
+19
+(based on
+bonus
+attack speed)
+STATIC COOLDOWN
+:
+14 − 6 (based on
+bonus
+attack speed)
+EFFECT RADIUS:
+600
+ANGLE:
+80
+°
+Active:
+Yone
+cleaves his
+Azakana Sword
+in a cone in the target direction, dealing equal parts
+physical
+and
+magic
+damage to enemies hit based on
+their
+maximum
+health
+. If this hits an enemy,
+Yone
+briefly
+shields
+himself, increased per
+champion
+hit.
+Active:
+Yone
+cleaves his
+Azakana Sword
+in a cone in the target direction, dealing equal parts
+physical
+and
+magic
+damage to enemies hit. The
+total
+mixed damage has a minimum threshold of
+40 − 410 (based on level)
+against
+minions
+and a maximum threshold of
+150 − 320 (based on level)
+against
+monsters
+.
+Total Mixed Damage:
+10 / 20 / 30 / 40 / 50
+(+ 10 / 11 / 12 / 13 / 14% of target's
+maximum
+health)
+Physical Damage:
+5 / 10 / 15 / 20 / 25
+(+ 5 / 5.
+5
+/ 6 / 6.
+5
+/ 7% of target's
+maximum
+health)
+Magic Damage:
+5 / 10 / 15 / 20 / 25
+(+ 5 / 5.
+5
+/ 6 / 6.
+5
+/ 7% of target's
+maximum
+health)
+If this hits an enemy,
+Yone
+grants himself a
+shield
+for
+40 − 90 (based on level)
+(+ 65%
+bonus
+AD)
+for 1.
+5
+seconds, increased by 100% if it hits a
+champion
+and by 50% for each subsequent champion hit.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+/
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Despite
+Spirit Cleave
+generally hitting targets'
+edge range
+, it
+cannot
+hit targets whose center is behind him.
+This behaviour is common with
+missiles
+, however some cone spells such as this one also do it.
+Spirit Cleave
+will not benefit from the bonus attack speed gained by
+Hail of Blades
+.
+(bug)
+Spell shield
+does not prevent
+Yone
+from receiving and/or increasing the
+shield
+.
+The shield's amount will also increase for each
+clone
+hit.
+This ability will cast from wherever the caster is at the end of the cast time.
+Yone
+will always cast
+Spirit Cleave
+in his facing direction, and he will turn to face the target direction at the start of the cast time.
+The mixed damage is applied in two instances, and the
+physical damage
+will be dealt first within the same game tick.
+If the
+physical damage
+finishes off the unit, the
+magic damage
+will not be dealt against it.
+(bug)
+Map-Specific Differences
+Arena
+differences
+edit
+Shield bonus AD ratio changed to
+75%
+bonus
+AD
+.
+Edit
+Soul Unbound
+COOLDOWN
+:
+22 / 19 / 16 / 13 / 10
+CAST TIME:
+None
+/
+0.
+25
+RANGE:
+300
+EFFECT RADIUS:
+Global
+SPEED:
+1200
+Active:
+Yone
+dashes
+in the target direction, leaving his body behind and entering
+Spirit Form
+for a few seconds.
+Soul Unbound
+can be recast within the duration, and does so automatically afterwards.
+Recast:
+Yone
+ends
+Spirit Form
+to
+cleanse
+himself, then
+dash
+back to his body with
+displacement immunity
+. He detonates all
+marks
+, dealing
+true damage
+equal to the amount stored on each champion.
+Spirit Form:
+Yone
+becomes
+ghosted
+and gains
+bonus
+movement speed
+. Enemies he attacks are
+marked
+, storing a portion of the damage taken from
+Yone
+.
+displacement immunity
+:
+The dash cannot be deterred by
+crowd control
+.
+Active:
+Yone
+dashes
+a fixed distance in the target direction, including through terrain, discarding his body and entering
+Spirit Form
+for 5 seconds.
+Yone's
+body is
+untargetable
+and is sent the same distance behind the cast location, though not through terrain, and is reclaimed when
+Soul Unbound
+ends.
+Spirit Form:
+Yone
+becomes
+ghosted
+and gains
+10% − 30% (based on seconds active)
+bonus
+movement speed
+. Enemy champions damaged by his
+basic attacks
+or
+abilities
+are
+marked
+. Each
+mark
+stores a portion of the
+post-mitigation
+damage that
+Yone
+deals to the target with his basic attacks and abilities.
+Damage Stored:
+25 / 27.
+5
+/ 30 / 32.
+5
+/ 35% of damage dealt
+Activation resets
+Way of the Hunter's
+current sword state.
+Soul Unbound
+can be recast after 0.
+5
+seconds, and automatically does so after the duration.
+Recast:
+Yone
+dashes
+back to his body with
+displacement immunity
+, ending
+Spirit Form
+and detonating the
+marks
+on each champion to deal
+true damage
+equal to the amount stored against each of them. After the cast time, he will
+cleanse
+himself from all
+immobilizing
+effects and
+polymorphs
+*
+that were applied to him during it as well as all
+blinds
+,
+cripples
+and
+drowsy
+effects.
+The automatic recast is delayed if
+Yone
+is
+winding up
+a basic attack or is unable to recast Soul Unbound under any circumstances, which includes if he cannot move or cast abilities. Soul Unbound will also immediately recast upon
+death
+or entering
+resurrection
+.
+"Spirit unmoored!"
+Info
+Targeting input
+Direction
+/
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+True
+Counters
+Spell shield
+Not Blocked
+Grounded
+Disabled
+Knockdown
+See Notes
+The
+marks
+store
+physical damage
+,
+magic damage
+, and
+true damage
+.
+Soul Unbound
+stays on cooldown for the first 15 seconds of the game.
+Recall
+and
+Teleport
+are disabled during
+Soul Unbound
+.
+Only
+Yone's
+initial dash can be
+interrupted
+.
+Yone
+is
+displacement immune
+during the recast's cast time.
+Yone
+uses
+Flow
+as his
+resource
+to indicate the remaining amount of time in centiseconds (100 centiseconds = 1 second) that
+Soul Unbound
+can be active for before the ability automatically recasts.
+With 1 second remaining before the recast occurs automatically, a soft, dark vignette will pulse over the screen, accompanied by a
+distinct audio cue
+. This warning is only visible and audible to
+Yone
+.
+Yone's
+body unit cannot be interacted with by any means. It will despawn as soon as
+Yone's
+dash back ends.
+Soul Unbound's
+recast, even when cast automatically, counts as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Soul Unbound's
+recast does not interrupt
+Yone's
+last movement or attack order.
+Yone
+will place himself onto the ground and interrupt
+displacements
+affecting him upon recasting.
+Soul Unbound's
+recast is notable for being an ability that
+removes
+crowd control
+but cannot be activated while unable to cast abilities or mobility spells due to the same crowd control.
+Soul Unbound
+does
+not
+cleanse
+the following
+crowd control
+effects (ones not listed below are removed):
+Disarm
+Only the
+silence
+portion from
+polymorph
+will be removed.
+Ground
+Nearsight
+Silence
+Slow
+Wither
+will not be removed.
+Some examples of effects that can delay
+Soul Unbound's
+automatic recast:
+Attack windup
+Cast time
+Channels
+(excluding
+Hexflash
+)
+Lockouts
+Dashes
+Immobilizes
+,
+Silence
+,
+Ground
+, and
+Stasis
+Devour
+Fate's Call
+Yone
+instantly appears at his body's location the moment this effect ends.
+Realm Warp
+Soul Unbound's
+recast is disabled (cannot be manually nor automatically cast) while
+Yone
+is in the
+Realm of Death
+or
+The Hextech Ultimatum
+. The recast will be deferred until those effects end.
+The Hextech Ultimatum
+will specifically end if
+Yone
+recasts
+Soul Unbound
+.
+If
+Yone
+uses
+Mortal Steel
+at two
+Gathering Storm
+stacks to delay
+Soul Unbound's
+automatic recast, he will be able to basic attack once in a short time period before the automatic recast triggers.
+If
+Yone
+dies
+or enters
+resurrection
+with
+Spirit Form
+, he will immediately initiate the recast and dash back to his body while dead or resurrecting.
+If he dies during the recast, the dash back is not interrupted.
+His death animation will play upon arriving to his body.
+The marks do not store damage from
+items
+,
+runes
+and
+summoner spells
+.
+The mark also automatically detonates without
+Yone
+having to recast when the marked champion dies or enters
+resurrection
+.
+The detonation damage cannot be dodged by becoming
+untargetable
+.
+The marks will not store damage dealt to
+shields
+.
+If the mark's damage is higher than the target's
+current
+health, the mark indicator will have a slightly different appearance.
+This does not take into account effects that would amplify the damage of the mark, such as
+Coup de Grace
+.
+The following table refers for interactions while
+Yone
+is in cast time and dashing back to his body:
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+N/A
+Disabled
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Teleport
+Recall
+Hexflash
+Mark
+Dash
+Interrupted by
+N/A
+Interrupted by
+N/A
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 18 / 16 / 14 / 12 / 10 seconds.
+Edit
+Fate Sealed
+COOLDOWN:
+120 / 100 / 80
+CAST TIME:
+0.
+75
+RANGE:
+1000
+WIDTH:
+225
+Active:
+Yone
+prepares a strike over an area in the target direction,
+knocking down
+and briefly
+stunning
+enemies within. He then
+blinks
+behind the furthest target, else to max range. Afterwards, a gust rushes along the area that deals equal parts
+physical
+and
+magic
+damage to all targets,
+pulling
+them towards
+Yone
+.
+Active:
+Yone
+prepares a strike over the cast time, then
+marks
+all enemies within an area in the target direction,
+knocking them down
+and
+stunning
+them for 1 second. He
+blinks
+200 units
+beyond the center of the last enemy
+champion
+struck, or else to
+maximum range
+instead.
+After 0.
+3
+seconds, a gust rushes along the same area that deals equal parts
+physical
+and
+magic
+damage to
+marked
+enemies within and
+pulls
+them towards the location
+Yone
+blinked to, then
+knocks them up
+for 0.
+75
+seconds.
+Total Mixed Damage:
+200 / 400 / 600
+(+ 80%
+bonus
+AD)
+Physical Damage:
+100 / 200 / 300
+(+ 40%
+bonus
+AD)
+Magic Damage:
+100 / 200 / 300
+(+ 40%
+bonus
+AD)
+The
+stun
+ends prematurely upon the knock up.
+"My blades know your name!"
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+/
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+Not Blocked
+Grounded
+Disabled
+Marked
+enemies that are not within the area will not be affected by the second portion of the ability.
+If
+Fate Sealed's
+maximum range is inside terrain, enemies will not be
+pulled
+through walls.
+Fate Sealed
+pulls
+targets to the location
+Yone
+would
+blink
+to, and not towards his current position by the end of the cast time.
+Fate Sealed
+can
+hit targets whose center is behind
+Yone
+, if their
+radius
+overlaps with the rectangle hitbox in front of him.
+Enemies are
+pulled
+with 3000 speed.
+This ability will cast from wherever the caster is at the end of the cast time.
+Fate Sealed
+will not
+stun
+enemies that are
+displacement immune
+.
+Yone
+can blink up to 1200 units + enemy
+size
+, if the last enemy champion's radius intersects with the maximum range slightly.
+The mixed damage is applied in two instances, and the
+magic damage
+will be dealt first within the same game tick.
+If the
+magic damage
+finishes off the unit, the
+physical damage
+will not be dealt against it.
+(bug)
+Yone
+will
+reveal
+himself during the cast time if there is an enemy champion nearby.
+When striking against
+spell shield
+,
+Yone
+will still
+blink
+to the last champion hit even if they block the effects to themselves.
+The
+knock up
+starts once the pull ends.
+Yone
+is
+locked out
+of performing actions for 0.
+45
+seconds after the cast time. All abilities that have been buffered during this time will cast shortly before the lock out ends.
+The following table refers for interactions while
+Yone
+is in cast time:
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 70 / 60 / 50 seconds.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Yone (Collection)
+.
+Original
+View in 3D
+975
+06.08.2020
+In life, he was Yone—half-brother of Yasuo, and renowned student of his village's sword school. But upon his death at the hands of his brother, he found himself hunted by a malevolent entity of the spirit realm, and was forced to slay it with its own sword. Now, cursed to wear its demonic mask upon his face, Yone tirelessly hunts all such creatures in order to understand what he has become.
+Noshir Dalal
+Esben Lash Rasmussen
+Loot eligible
+Spirit Blossom
+View in 3D
+1350
+06.08.2020
+Long ago, two brothers fought a bitter war across Ionia. Yone, the older brother, was a warlord renowned for his adherence to honor and duty. He fought to defend the country against those who would break its rites and rituals - until he was forced to confront his own brother for his crimes. Both were fated to fall in their final duel… a lesson, perhaps, in pride and hubris.
+Noshir Dalal
+Bo 'chenbowow' Chen
+Spirit Blossom
+Loot eligible
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+Chromas
+Spirit Blossom Yone Chromas
+Aquamarine
+Catseye
+Emerald
+Night Blossom
+Obsidian
+Rose Quartz
+Ruby
+Tanzanite
+Battle Academia
+View in 3D
+1350
+18.03.2021
+Yone is a brooding, quiet member of the Assassin Club, one whose morose and serious attitude belies the colossal chip on his shoulder. The bad blood between him and his brother is well known, and even speaking about it casually has been known to invoke Yone's fury—something Caitlyn has picked up on for her own purposes.
+Noshir Dalal
+West Studio
+Battle Academia
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Battle Academia Yone Chromas
+Amethyst
+Aquamarine
+Citrine
+Emerald
+Obsidian
+Pearl
+Ruby
+Sapphire
+Dawnbringer
+View in 3D
+1820
+23.09.2021
+Prophecy dictates that the gods will destroy each other, ushering in the end of creation itself— but Yone is determined to defy fate. A half-mortal, half-god born of the clash between chaos and order, Yone wields the power of both night and dawn. He must rally his brethren, bring peace to the gods… or they will all perish.
+Noshir Dalal
+West Studio
+Nightbringer and Dawnbringer
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dawnbringer Yone Chromas
+Emerald
+Lifebringer
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Ocean Song
+View in 3D
+1350
+09.06.2022
+Yone is nervous. As a DJ he's calm, focused, and improvisational, but Ocean Song is his first concert as a DJ and lyricist. After finding his secret stash of lyrics, his friend Nidalee volunteered to belt them out herself when he refused. He may not be ready to sing, but they'll still hear his voice.
+Noshir Dalal
+Jeremy 'Jermu' Anninos
+Ocean Song
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Ocean Song Yone Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Inkshadow
+View in 3D
+1350
+03.05.2023
+Two brothers lost their home and became Inkshadow Warriors. One gave up his freedom, and the other his identity. Yone paid a steep price for his tattoo: no one remembers that he existed. Now known only as a faceless stranger called the “Man of Masks,” he shields refugees from the Cabal until they can be delivered into Yasuo's protection.
+Noshir Dalal
+Rudy Siswanto
+Inkshadow
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Inkshadow Yone Chromas
+Citrine
+Emerald
+Inked
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+HEARTSTEEL
+View in 3D
+1350
+08.11.2023
+Once a legendary DJ/producer, Yone grew disillusioned with the music industry and mysteriously dropped off the grid, leaving fans and critics alike wanting more. Meeting the other members of HEARTSTEEL pulled him out of his creative funk, and with his passion for music now reignited, Yone is determined to take this band straight to the top.
+Noshir Dalal
+Bo 'chenbowow' Chen, Julia Yurtsev, Jennifer Wuestling
+HEARTSTEEL
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+HEARTSTEEL Yone Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rockstar
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Prestige HEARTSTEEL
+View in 3D
+Special
+08.11.2023
+As an enigmatic music producer, Yone may say he doesn't enjoy the limelight, but he couldn't help but dress to impress for the band's chart-topping debut in a smart, sleek fit worthy of his sharp swordsmanship and even sharper style. It'd be a shame to hide behind a computer when you look this cool.
+Noshir Dalal
+Pandart Studio
+HEARTSTEEL
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+HEARTSTEEL
+. Store variants are discounted for multiple purchases.
+High Noon
+View in 3D
+1820
+20.03.2024
+The haunted man doesn't breathe, just leans against the hitching post and squints into the frontier dusk—but it ain't him. Not really. The real Yone is shadow and gunsmoke, roiling as it sinks back into the stillness of his corporeal form. “How'd you wind up split like that?” the young Powder Witch asks. Yone sighs, “It's a long story, kid.”
+Noshir Dalal
+Francis Tneh, West Studio
+High Noon
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+High Noon Yone Chromas
+Emerald
+Noonday
+Obsidian
+Rose Quartz
+Ruby
+Tanzanite
+Peacemaker High Noon
+View in 3D
+Special
+20.03.2024
+The haunted man doesn't breathe, just leans against the hitching post and squints into the frontier dusk—but it ain't him. Not really. The real Yone is shadow and gunsmoke, roiling as it sinks back into the stillness of his corporeal form. “How'd you wind up split like that?” the young Powder Witch asks. Yone sighs, “It's a long story, kid.”
+Noshir Dalal
+Su Fu, Kudos Productions
+High Noon
+Loot ineligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.21
+Spirit Cleave
+Health ratio reduced to
+10 / 11 / 12 / 13 / 14% of target's
+maximum
+health
+from
+11 / 12 / 13 / 14 / 15%
+.
+V14.20
+Mortal Steel
+Critical strike AD ratio increased to
+160.
+375
+% AD
+from
+147% AD
+.
+V14.17
+Mortal Steel
+Bug Fix:
+Using
+Mortal Steel
+after dashing or blinking and without inputting a new command while clamp casting is enabled no longer causes it to target the mouse position prior to their movement and thus cast in a wrong direction.
+V14.15
+Mortal Steel
+Base damage increased to 20 / 45 / 70 / 95 / 120 from 20 / 40 / 60 / 80 / 100.
+Fate Sealed
+Cooldown increased to 120 / 100 / 80 seconds from 120 / 90 / 60.
+V14.12
+Stats
+Base armor increased to 33 from 30.
+V14.10
+Way of the Hunter
+Critical strike chance multiplier reduced to 2 from 2.
+5
+.
+Bonus attack damage per excess critical strike chance increased to 0.
+5
+from 0.
+4
+.
+V14.9
+Stats
+Selection radius increased to 120 units from 75.
+Mortal Steel
+Bug Fix:
+No longer incorrectly gains a stack if the sole target [or all targets] within its area used spell shield against it.
+V14.7
+Fate Sealed
+Bug Fix:
+Knockup debuff is no longer applied prematurely on an enemy and lingers even if they successfully used an instant blink (e.g.
+Flash
+) to position themselves outside of its area of effect within a frame of Fate Sealed's cast time completing.
+V13.24
+- December 12th Hotfix
+Spirit Cleave
+Base shield changed to
+40 − 90 (based on level)
+from
+60 − 80 (based on level)
+.
+V13.19
+Soul Unbound
+Bug Fix:
+Now properly resists the application of the stasis effect from
+Bard's
+Tempered Fate
+during the displacement immunity in the cast time.
+V13.15
+Spirit Cleave
+Base shield increased to
+60 − 80 (based on level)
+from
+45 − 65 (based on level)
+.
+V13.14
+Way of the Hunter
+Bug Fix:
+Rageknife
+no longer disables the critical strike chance conversion.
+V13.12
+Spirit Cleave
+Bug Fix:
+Cast indicator now properly moves and follows in the direction of the cursor.
+V13.10
+- May 18th Hotfix
+Stats
+Base armor increased 30 from 28.
+Health growth increased to 105 from 99.
+Spirit Cleave
+Cooldown reduced to
+14 − 6 (based on
+bonus
+attack speed)
+seconds from
+16 − 6 (based on
+bonus
+attack speed)
+.
+Base shield increased to
+45 − 65 (based on level)
+from
+35 − 55 (based on level)
+.
+Bonus AD ratio increased to
+65%
+bonus
+AD
+from
+55%
+.
+V13.1
+General
+Bug Fix:
+No longer displays debug text in his tooltips on the ability bar and death recap.
+V12.15
+Soul Unbound
+Bug Fix:
+Fixed a bug where he could activate abilities while in his Spirit Form while locked in the
+Blast Cone
+knockback.
+V12.14
+Mortal Steel
+Bug Fix:
+VFX while at 2 stacks of
+Gathering Storm
+no longer disappears earlier than intended.
+Soul Unbound
+Bug Fix:
+Recast can no longer be buffered with other abilities while it is being delayed by either
+Camille's
+The Hextech Ultimatum
+or
+Mordekaiser's
+Realm of Death
+.
+The recast is still disabled while affected by either of them.
+V12.12
+General
+Adjusted splash artwork for
+Ocean Song Yone
+.
+V12.10
+Stats
+Base health increased to 620 from 550.
+Health growth increased to 99 from 85.
+Armor growth increased to 4.
+6
+from 3.
+4
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Spirit Cleave
+Base shield reduced to
+35 − 55 (based on level)
+from
+40 − 60 (based on level)
+.
+Shield bonus AD ratio reduced to
+55%
+bonus
+AD
+from
+60%
+.
+V12.7
+Fate Sealed
+Cooldown reduced to 120 / 90 / 60 seconds from 120 / 100 / 80.
+V12.2
+Mortal Steel
+AD ratio increased to
+105% AD
+from
+100% AD
+.
+Critical strike AD ratio increased to
+147% AD
+from
+140% AD
+.
+Soul Unbound
+Bug Fix:
+Fixed a bug where he could sometimes cast
+Unleashed Teleport
+while his
+Soul Unbound
+was active.
+V11.18
+Spirit Cleave
+Bonus shield per subsequent champion hit increased to 50% from 25%.
+V11.10
+Mortal Steel
+Bug Fix:
+Navori Quickblades'
+Deft Strikes
+now properly trigger on
+Yasuo's
+Steel Tempest's
+spin (if used while casting
+Sweeping Blade
+) and
+Yone's
+Mortal Steel's
+third cast (whirlwind).
+V11.7
+Battle Academia Yone
+Undocumented/Bug Fix:
+Yone's
+icon on the in-game scoreboard no longer uses the skin's portrait.
+Unknown patch
+Fate Sealed
+Undocumented/Bug Fix:
+Spell shield
+now fully blocks the effect, instead of
+either
+the initial
+stun
+or
+the damage, pull, and
+knock up
+.
+Can still block the damage, pull, and
+knock up
+on their own, if the
+spell shield
+is gained in the delay after the
+stun
+is applied.
+V11.4
+Soul Unbound
+Undocumented:
+Now automatically recasts the ability upon entering
+resurrection
+during Spirit Form.
+V11.1
+Stats
+Attack damage growth reduced to 2 from 3.
+Way of the Hunter
+Bonus critical strike chance increased to 150% from 100%.
+Bonus attack damage per excess critical strike chance reduced to
+0.
+4
+bonus
+attack damage
+from
+0.
+5
+.
+V10.25
+Stats
+Attack speed growth increased to 3.
+5
+% from 2.
+5
+%.
+V10.24
+Way of the Hunter
+New Effect:
+Way of the Hunter's
+critical strike-related effects now wait to activate until any other effects that care about critical strikes have been taken care of.
+Mortal Steel
+Bug Fix:
+Can no longer critically strike with
+Guinsoo's Rageblade
+if the dash is cast in melee range.
+V10.23
+Way of the Hunter
+New Effect:
+Now converts every 1% excess critical strike chance into
+0.
+5
+bonus
+AD
+.
+V10.19
+Fate Sealed
+Bug Fix:
+Allied party indicator no longer displays green when on cooldown.
+V10.18
+Mortal Steel
+Undocumented:
+Now properly applies a stack of
+Press the Attack
+.
+Soul Unbound
+Undocumented
+: Improved readability on execute visual effect.
+Undocumented
+: Now cannot be automatically nor manually reactivated during
+Realm of Death
+or
+The Hextech Ultimatum
+if cast in or outside of them.
+Undocumented
+: Recasting now ends
+The Hextech Ultimatum
+early.
+Spirit Blossom Yone
+Undocumented
+: More petals on his
+Azakana
+attack.
+Undocumented
+: Improved readability on
+Mortal Steel's
+visual effects.
+V10.17
+Mortal Steel
+Base damage reduced to 20 / 40 / 60 / 80 / 100 from 20 / 45 / 70 / 95 / 120.
+Fate Sealed
+Removed:
+No longer benefits from lifesteal.
+V10.16
+- Added
+Way of the Hunter
+(Innate)
+Innate - Intent:
+Yone
+doubles his
+total
+critical strike chance
+from all other sources, but his
+critical strikes
+only deal
+(80% +
+22.
+5
+%
+) AD
+bonus
+physical damage
+.
+Innate - Purpose:
+Yone's
+basic attacks alternate between using his
+Steel Sword
+and
+Azakana Sword
+on-attack.
+Yone
+begins attacking with his
+Steel Sword
+, and basic attacks with the
+Azakana Sword
+deal
+50% AD
+physical damage
+and
+50% AD
+magic damage
+.
+Mortal Steel
+(Q)
+Active:
+Yone
+thrusts his
+Steel Sword
+in the target direction, dealing 20 / 45 / 70 / 95 / 120
+(+ 100% AD)
+physical damage
+to enemies hit and applying on-hit and on-attack effects to the first enemy hit.
+Mortal Steel
+can
+critically strike
+for
+(60% +
+20%
+) AD
+bonus
+physical damage
+.
+If
+Mortal Steel
+hits an enemy with the thrust,
+Yone
+gains a
+Gathering Storm
+stack for 6 seconds.
+While
+Yone
+has two stacks of
+Gathering Storm
+,
+Mortal Steel
+consumes the stacks to instead cause him to
+dash
+a fixed distance in the target direction and unleash a whirlwind travelling the same direction, both dealing the same damage and
+knocking up
+all enemies hit in their path for 0.
+75
+seconds.
+Mortal Steel's
+thrust
+is
+interrupted
+if
+Yone
+is affected by hard crowd control during the cast time but its cooldown is reset to 0.
+1
+seconds.
+Target Range:
+475
+/
+450
+/
+950
+.
+Effect Radius:
+100
+.
+Width:
+160
+.
+Speed:
+1500
+.
+Cast Time:
+0.
+4
+− 0.
+133
+(based on
+bonus
+attack speed)
+seconds.
+Static Cooldown:
+4 − 1.
+33
+(based on
+bonus
+attack speed)
+seconds.
+Spirit Cleave
+(W)
+Active:
+Yone
+cleaves with his
+Azakana Sword
+in the target direction, dealing 10 / 20 / 30 / 40 / 50
+(+ 11 / 12 / 13 / 14 / 15% of target's
+maximum
+health)
+damage to enemies hit in a cone, with equal parts of
+physical damage
+and
+magic damage
+. The
+total
+mixed damage has a minimum threshold of
+40 − 410 (based on level)
+against minions and monsters.
+Yone
+shields himself for
+40 − 60 (based on level)
+(+ 60% AD)
+for 1.
+5
+seconds if
+Spirit Cleave
+hits an enemy, increased by
+100% − 200% (based on number of enemy champions hit)
+.
+Effect Radius:
+600.
+Angle:
+80
+°.
+Cast Time:
+0.
+5
+− 0.
+19
+(based on
+bonus
+attack speed)
+seconds.
+Static Cooldown:
+16 − 6 (based on
+bonus
+attack speed)
+seconds.
+Soul Unbound
+(E)
+Yone
+dashes
+a fixed distance in the target direction, gaining
+Spirit Form
+for 5 seconds as well as creating an
+untargetable
+clone
+a short distance behind the cast location, though not sending it through terrain. After a 0.
+5
+-second delay,
+Yone
+can recast
+Soul Unbound
+.
+Spirit Form:
+Yone's
+resets
+Way of the Hunter's
+state, gains
+10% − 30% (based on time active)
+bonus
+movement speed
+and
+marks
+champions damaged with basic attacks or abilities. Each mark stores 25 / 27.
+5
+/ 30 / 32.
+5
+/ 35% of the
+post-mitigation
+physical damage
+and
+magic damage
+that
+Yone
+deals to them with his basic attacks and abilities.
+Recast:
+Yone
+becomes
+displacement immune
+and, after the cast time,
+dashes
+back to his body, detonates the
+marks
+of each champion to deal
+true damage
+equal to the stored amount against them, and
+cleanses
+himself from all
+crowd control
+effects except
+disarm
+,
+ground
+,
+nearsight
+,
+silence
+, and
+slow
+.
+After the duration ends or upon
+dying
+,
+Soul Unbound
+will recast automatically.
+Target Range:
+300
+.
+Effect Radius:
+Global
+.
+Speed:
+1200
+.
+Cast Time:
+None
+/
+0.
+25
+seconds.
+Cooldown:
+22 / 19 / 16 / 13 / 10
+seconds.
+Fate Sealed
+(R)
+Active:
+Yone
+winds up a forward strike, then
+blinks
+in the target direction. After 0.
+125
+seconds, all enemies within a wide linear area are
+stunned
+for 0.
+15
+seconds, then immediately dealt 200 / 400 / 600
+(+ 80% AD)
+damage, with equal parts of
+physical damage
+and
+magic damage
+, and
+pulled
+towards
+Yone's
+blinking position and subsequently
+knocked up
+for 0.
+75
+seconds.
+Yone
+will attempt to
+blink
+a certain distance
+beyond
+the last enemy
+champion
+hit. If no enemy champions are hit,
+Yone
+will instead blink to maximum range.
+Target Range:
+1000
+/
+1000
+/
+200
+.
+Cast Time:
+0.
+75
+seconds.
+Cooldown:
+120 / 100 / 80 seconds.
+Trivia
+[
+edit
+|
+edit source
+]
+Yone
+is one of 21 champions without a single
+ability power
+ratio on any ability:
+Aatrox
+,
+Camille
+,
+Darius
+,
+Dr. Mundo
+,
+Draven
+,
+Garen
+,
+K'Sante
+,
+Kayn
+,
+Kled
+,
+Naafiri
+,
+Nilah
+,
+Olaf
+,
+Pyke
+,
+Riven
+,
+Samira
+,
+Sett
+,
+Talon
+,
+Urgot
+,
+Xayah
+, and
+Zed
+.
+Yone -
+Yasuo
+is one of seven pairs of sibling champions (the others being
+Cassiopeia
+-
+Katarina
+,
+Kayle
+-
+Morgana
+,
+Garen
+-
+Lux
+,
+Nasus
+-
+Renekton
+,
+Darius
+-
+Draven
+, and
+Vi
+-
+Jinx
+).
+Though not a pair,
+Anivia
+,
+Ornn
+, and
+Volibear
+are also siblings.
+Yone is the first non-champion in
+Legends of Runeterra
+to become a champion in
+League of Legends
+.
+Yone was first confirmed to be the next champion with
+Spirit Blossom Thresh's
+voice lines.
+On
+VPBE
+during the
+V11.24
+cycle
+[2]
+, a new feature was added where whenever Yone scored a pentakill, a dramatic scene of him performing his
+Toggle
+emote
+was played for 7 seconds.
+[3]
+This was later removed due to controversy.
+[4]
+During this time, Yone would become unable to act and negate all incoming damage and debuffs.
+[5]
+After the scene ended, his abilities' cooldowns would reset after 1 second.
+[6]
+Fate Sealed
+is based on an earlier exploration of
+Yasuo's
+ultimate ability.
+[7]
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Assassin
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Assassins
+specialize in infiltrating enemy lines with their unrivaled mobility to quickly dispatch high-priority targets. Due to their mostly melee nature, Assassins must put themselves into dangerous positions in order to execute their targets. Luckily, they often have defensive tricks up their sleeves that, if used cleverly, allow them to effectively avoid incoming damage.
+Examples
+Akali
+Evelynn
+Zed
+League of Legends content
+Skirmisher
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Skirmishers
+(also known as Duelists) aim to shred through any nearby enemy that approaches. Because Skirmishers lack high-end burst damage or reliable ways of closing in on high-priority targets, they are instead armed with situationally powerful defensive tools to survive in the fray, along with extreme sustained damage to cut down even the most durable targets.
+Examples
+Fiora
+Jax
+Yasuo
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Flow
+Flow
+is a resource that must be generated before being usable, compared to
+Mana
+that exists in some quantity beforehand. It is represented beneath the
+health bar
+that is
+blue
+until filled, and then
+white
+. Unlike
+Fury
+and its variants, however,
+Flow
+is not affected by the unit's
+combat status
+. With only one example of
+Flow
+, the validity of this exception may be called into question in the future.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Basic attack
+The
+basic attack
+(or
+auto-attack
+) is the most basic means of a unit to deal damage to another unit, usually dealing
+100% AD
+. It has a brief cooldown based on the caster's current
+attack speed
+.
+All
+basic attacks
+are normally unit-targeted with their range limited by the caster's
+attack range
+, and have a brief attack
+windup
+. Damage is then dealt depending on the caster's range type:
+Melee
+and some projectile-less ranged attacks deal damage immediately.
+Ranged
+attacks usually send a projectile that follows the target and deals damage upon striking them. Projectiles can be intercepted by certain
+blocking
+effects.
+The damage event will trigger
+on-hit effects
+from buffs the caster may hold. If damage cannot be dealt, on-hit effects will not be triggered.
+On-attack
+effects will always trigger when the attack's
+windup
+completes.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Mortal Steel
+STATIC CD:
+4 − 1.
+33
+(based on
+bonus
+attack speed)
+Active:
+Yone
+thrusts his
+Steel Sword
+in a line in the target direction that deals
+physical damage
+to enemies hit and applies
+on-hit
+and
+on-attack
+effects to the first enemy hit. This can
+critically strike
+.
+If this hits an enemy,
+Yone
+generates a stack of
+Gathering Storm
+for a few seconds. At 2 stacks, the next
+Mortal Steel
+consumes them all to become empowered with a new effect.
+Gathering Storm Bonus:
+Yone
+dashes
+in the target direction and unleashes a whirlwind in the same direction, both deal
+physical damage
+and briefly
+knocks up
+enemies hit.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Interrupt
+Interrupt
+is a quality of crowd control that
+interrupts
+an in-progress effect, preventing its completion or causing the effect to go off at an
+interrupted
+state.
+
+The following crowd control effects
+interrupt
+channeled and charged
+abilities (unless otherwise noted by the ability):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+The following crowd control effects
+interrupt
+dashes
+:
+Airborne
+Knockdown
+Stasis
+Basic attack windups
+are
+interrupted
+by all forms of crowd control that inhibit attacking.
+Ground
+and
+Root
+only
+interrupt
+channeled and charged movement abilities.
+League of Legends content
+Disarming crowd control
+A unit that is affected by
+disarming crowd control
+is unable to use basic attacks. The following crowd control effects disable attacking:
+Airborne
+Charm
+Disarm
+Flee
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Note that
+Berserk
+and
+Taunt
+do not fall under this category because they do not disable attacking altogether; they only inhibit attack commands from being followed.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Steel Tempest
+STATIC CD:
+4 − 1.
+33
+(based on
+bonus
+attack speed)
+Active:
+Yasuo
+thrusts his sword in a line in the target direction that deals
+physical damage
+to enemies hit and applies
+on-hit
+and
+on-attack
+effects to the first enemy hit. This can
+critically strike
+.
+If this hits an enemy,
+Yasuo
+generates a stack of
+Gathering Storm
+for a few seconds. At 2 stacks, the next
+Steel Tempest
+consumes them all to become empowered with a new effect.
+If
+Steel Tempest
+is cast during
+Sweeping Blade
+, it instead affects enemies around
+Yasuo
+.
+Gathering Storm Bonus:
+Yasuo
+unleashes a whirlwind in the target direction that deals
+physical damage
+and briefly
+knocks up
+enemies hit.
+League of Legends content
+Blink
+A
+blink
+refers to a form of movement whereby a unit displaces from point A to B without traversing the space between.
+League of Legends content
+Projectile
+A
+projectile
+or
+missile
+is any entity not classified as a unit (
+champion
+,
+minion
+,
+monster
+, etc.
+) that travels at any given velocity.
+Moving units are
+not
+considered projectiles under any circumstance (
+including
+dashing
+units,
+airborne
+units, or units thrown by some abilities such as
+Force of Will
+or
+Roar of the Slayer
+.
+).
+Braum's
+Unbreakable
+,
+Samira's
+Blade Whirl
+, and
+Yasuo's
+Wind Wall
+can block, destroy and / or stop projectiles.
+Some
+ranged
+basic attacks (
+including
+turrets
+) and abilities don't use projectiles and will bypass projectile-blocking effects.
+Some abilities will
+destroy
+all currently incoming homing projectiles.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Yone's profile page
+at
+LeagueOfLegends.com
+↑
+Vandiril showcasing Yone Pentakill scene
+↑
+EndlessPillows on Yone's Pentakill scene
+↑
+EndlessPillows on the removal of Yone's Pentakill scene
+↑
+Yone Pentakill scene lockout and immunity
+↑
+Yone Pentakill scene cooldown refresh
+↑
+LeagueOfLegends.com Nexus — bananaBand1t (30 June 2017)
+ORIGINS: Yasuo

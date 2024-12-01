@@ -1,0 +1,2967 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Rammus
+the Armordillo
+Release date
+2009-07-10
+Last changed
+V14.23
+Class(es)
+Vanguard
+Legacy
+Tank
+Fighter
+Position(s)
+Jungle
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+1350
+|
+585
+Crafting
++
+810
+Ratings
+Damage
+2
+Toughness
+3
+Control
+3
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Rammus
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Rammus
+Base statistics
+Edit
+Health
+675
++94
+Mana
+310
++33
+Health regen. (per 5s)
+8
++0.55
+Mana regen. (per 5s)
+7.85
++0.5
+Armor
+40
++5.5
+Attack damage
+55
++2.75
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+125
+Attack speed
+Base AS
+0.656
+Attack windup
+22.917%
+AS ratio
+0.625
+Bonus AS
++2.215
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+600
+Special statistics
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++5%
+Damage Received
++0%
+Damage Dealt
++10%
+Damage Received
+-15%
+Damage Dealt
++5%
+Damage Received
+-5%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Spiked Shell
+Innate:
+Rammus'
+basic attacks deal
+bonus
+magic damage
+based on his
+armor
+. This effect is increased during
+Defensive Ball Curl
+.
+Innate:
+Rammus'
+basic attacks
+deal
+10
+(+ 10% armor)
+bonus
+magic damage
+on-hit
+, increased to
+15
+(+ 15% armor)
+during
+Defensive Ball Curl
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+Magic
+Counters
+Parries
+Blocked
+Spiked Shell
+applies to
+structures
+.
+Edit
+Powerball
+COST:
+60 Mana
+COOLDOWN
+:
+12 / 10.
+5
+/ 9 / 7.
+5
+/ 6
+CAST TIME:
+none
+COLLISION RADIUS:
+75
+EFFECT RADIUS:
+250
+Active:
+Rammus
+channels
+for a few seconds to roll into a ball, gradually gaining
+bonus
+movement speed
+.
+Powerball
+can be recast within the duration, and does so automatically afterwards.
+Rammus
+stops rolling upon hitting an enemy, dealing
+magic damage
+to all nearby enemies and
+knocking them back
+. Enemies hit are then briefly
+stunned
+and
+slowed
+.
+Recast:
+Rammus
+ends
+Powerball
+.
+Active:
+Rammus
+channels
+for up to 6 seconds to roll into a ball, gaining
+25% − 39.
+17
+% (based on level)
+bonus total
+movement speed
+per second over the duration, up to a maximum of
+150% − 235% (based on level)
+.
+Powerball
+can be recast after 1 second within the duration, and does so automatically afterwards or upon casting
+Defensive Ball Curl
+.
+Rammus
+stops rolling upon colliding with an enemy, dealing
+magic damage
+to all nearby enemies and
+knocking them back
+125 units, though not through terrain. Enemies hit are then
+stunned
+and
+revealed
+for
+0.
+4
+seconds, as well as
+slowed
+for 1 second.
+Magic Damage:
+80 / 110 / 140 / 170 / 200
+(+ 100% AP)
+Slow:
+40 / 50 / 60 / 70 / 80%
+Recast:
+Rammus
+ends
+Powerball
+.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Grounded
+Not Disabled
+Disruption
+Interrupted
+The initial cast and the manual recast count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+If the ability is not manually recasted, the secondary effect will trigger without being considered as an ability activation.
+The
+bonus
+movement speed
+stacks multiplicatively
+with other sources of movement speed boosts.
+Powerball
+will still collide with enemies if
+Rammus
+is
+ghosted
+.
+For the purpose of moving closer to an enemy when right clicking them,
+Powerball
+also reduces
+Rammus'
+attack range
+「 to 0 」
+「 by 125 」
+for the duration.
+Regardless of this, during
+Powerball
+Rammus
+will also always attempt to path towards his target's center instead.
+Rammus
+will ignore
+unit collision
+for the purpose of pathfinding during
+Powerball
+.
+Rammus acts as if he were
+ghosted
+for the duration of
+Powerball
+.
+Powerball
+is not a
+movement channel
+, and so will not be
+interrupted
+by
+root
+and
+ground
+.
+Displacement immunity
+will also resist the application of the
+stun
+.
+The following table refers for interactions while
+Rammus
+is
+channeling
+:
+Type
+Channel
+Attacking
+Disabled
+Abilities
+Defensive Ball Curl
+interrupts.
+Frenzying Taunt
+is disabled.
+Soaring Slam
+modifies this ability. This ability recasts to end channel.
+Movement
+Allowed
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+Hextech Rocketbelt
+Interrupted by
+All item-actives not specified above interrupt
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Disabled
+N/A
+Interrupted by
+Teleport
+Recall
+Hexflash
+Interrupted by
+Death
+Cast-inhibiting effects
+Map-Specific Differences
+Arena
+differences
+edit
+Bonus movement speed changed to
+50% − 75% (based on level)
+.
+AP ratio changed to
+150% AP
+.
+Cooldown changed to 11 / 9.
+5
+/ 8 / 6.
+5
+/ 5 seconds.
+Edit
+Defensive Ball Curl
+COST:
+40 Mana
+COOLDOWN
+:
+7
+CAST TIME:
+none
+Active:
+Rammus
+enters a defensive stance for a few seconds, gaining
+bonus
+armor
+and
+bonus
+magic resist
+. During this time,
+Spiked Shell's
+damage is increased and also applies to enemies that land a basic attack against
+Rammus
+.
+Defensive Ball Curl
+can be recast within the duration, and does so automatically afterward.
+Rammus'
+basic attacks extend
+Defensive Ball Curl's
+duration up to a few seconds.
+Recast:
+Rammus
+ends
+Defensive Ball Curl
+.
+Active:
+Rammus
+enters a defensive stance for 6 seconds, gaining
+bonus
+armor
+and
+bonus
+magic resistance
+. While active, enemies that use a basic attack
+on-hit
+against
+Rammus
+are dealt
+magic damage
+equal to
+Spiked Shell's
+bonus
+damage.
+Bonus Armor:
+40
+(+ 35 / 45 / 55 / 65 / 75%
+total
+armor)
+Bonus Magic Resistance:
+10
+(+ 30 / 35 / 40 / 45 / 50%
+total
+magic resistance)
+Rammus'
+basic attacks extend the remaining duration of
+Defensive Ball Curl
+by 0.
+4
+seconds, up to a maximum of 4 additional seconds.
+Defensive Ball Curl
+can be recast after 1 second within the duration, and does so automatically upon casting
+Powerball
+or
+Soaring Slam
+.
+Recast:
+Rammus
+ends
+Defensive Ball Curl
+.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Not Blocked
+The initial cast counts as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Deactivating the ability manually does not.
+Defensive Ball Curl
+ends immediately if
+Powerball
+is cast.
+Defensive Ball Curl
+will return damage from attacks and/or abilities that apply
+on-hit effects
+(
+Mystic Shot
+) as well as from
+Runaan's Hurricane's
+Wind's Fury
+(will not return damage from
+turrets
+,
+H-28G Evolution Turret
+, or
+Jack in the Box
+).
+The resistance scaling will factor from all sources, including
+Defensive Ball Curl's
+flat bonus. This will recalculate over the duration.
+Edit
+Frenzying Taunt
+COST:
+50 Mana
+COOLDOWN:
+12
+CAST TIME:
+0.
+25
+TARGET RANGE:
+325
+Active:
+Rammus
+briefly
+taunts
+the target enemy
+champion
+or
+monster
+, and gains
+bonus
+attack speed
+for the same duration.
+Active:
+Rammus
+taunts
+the target enemy
+champion
+or
+monster
+for a duration and gains
+bonus
+attack speed
+for the same duration.
+Taunt/Bonus Attack Speed Duration:
+1.
+2
+/ 1.
+4
+/ 1.
+6
+/ 1.
+8
+/ 2 seconds
+Bonus Attack Speed:
+20 / 25 / 30 / 35 / 40%
+The duration of the
+bonus
+attack speed
+continuously refreshes during
+Powerball
+,
+Defensive Ball Curl
+and
+Soaring Slam
+.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Non-Damaging
+Counters
+Spell shield
+Blocked
+Frenzying Taunt
+, despite being usable on
+monsters
+, does not force them to attack
+Rammus
+. He does not draw aggro since the ability does not deal damage.
+The bonus attack speed duration is separate from the
+taunt
+duration.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+Map-Specific Differences
+Arena
+differences
+edit
+Taunt and bonus attack speed duration changed to 1.
+6
+/ 1.
+8
+/ 2 / 2.
+2
+/ 2.
+4
+seconds.
+Edit
+Soaring Slam
+COST:
+100 Mana
+COOLDOWN:
+90
+CAST TIME:
+None
+TARGET RANGE:
+800
+OR
+150% movement speed
+EFFECT RADIUS:
+400
+/
+200
+/
+400
+SPEED:
+900
+/
+2000
+Active:
+Rammus
+leaps
+to the target location with
+Cc-immunity
+, dealing
+magic damage
+to nearby enemies and briefly
+slowing
+them. The impact deals increased damage at the epicenter based on how far
+Soaring Slam
+was cast.
+Soaring Slam
+gains increased
+range
+based on
+Rammus'
+movement speed
+.
+Rammus
+can cast this ability during
+Powerball
+, which will additionally
+knock up
+enemies in the epicenter. The impact causes 3 aftershocks to burst from the area over a short time, each dealing
+magic damage
+and
+slowing
+nearby enemies.
+Soaring Slam's
+damage affects
+structures
+and is doubled against
+turrets
+.
+Cc-immunity
+:
+Crowd control
+cannot be applied during this time.
+Active:
+Rammus
+leaps
+to the target location with
+immunity to crowd control
+. Upon arrival, he creates an impact that deals
+magic damage
+to nearby enemies and
+slows
+them for 1.
+5
+seconds. The impact deals increased damage at the epicenter if
+Soaring Slam
+was cast further than 800 units, capped at 1700 units with 50% increased damage.
+Magic Damage:
+100 / 175 / 250
+(+ 60% AP)
+Center Increased Damage:
+150 / 262.
+5
+/ 375
+(+ 90% AP)
+Slow:
+15 / 17.
+5
+/ 20%
+If
+Soaring Slam
+was cast during
+Powerball
+, enemies within the epicenter are also
+knocked up
+for 0.
+75
+seconds and are dealt
+Powerball's
+damage.
+Powerball
+will not collide with enemies during the dash, and its channel will be maintained for the dash and end afterwards.
+Center Minimum Damage:
+100 / 175 / 250
+(+ 60% AP)
+(+
+80 / 110 / 140 / 170 / 200
+(+ 100% AP)
+)
+Center Maximum Damage:
+150 / 262.
+5
+/ 375
+(+ 90% AP)
+(+
+80 / 110 / 140 / 170 / 200
+(+ 100% AP)
+)
+The impact causes 3 aftershocks to burst from the area over 3.
+5
+seconds, each one dealing
+magic damage
+to enemies within and applying the initial
+slow
+, which stacks up to 4 times.
+Magic Damage per Hit:
+20 / 30 / 40
+(+ 10% AP)
+Total Magic Damage:
+60 / 90 / 120
+(+ 30% AP)
+Maximum Slow:
+60 / 70 / 80%
+Soaring Slam's
+damage affects
+structures
+and is doubled against
+turrets
+.
+Soaring Slam will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+See Notes
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Grounded
+Disabled
+Knockdown
+Not Interrupted
+Applies
+area damage
+for the impact and
+persistent area damage
+for the aftershocks.
+Spell shield
+will block the impact (including with
+Powerball
+) but not each aftershock.
+Rammus
+is required to have had at least
+461.
+5
+movement speed
+average
+over the last second to be able to cast
+Soaring Slam
+further than its minimum cast range and thereby deal the increased center damage.
+The maximum increased center damage is reachable once
+Rammus
+has had at least
+1307.
+69
+movement speed
+average
+for the past second.
+Soaring Slam
+will not impact nor generate aftershocks if the dash is interrupted.
+The following table refers for interactions while
+Rammus
+is dashing:
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio changed to
+100% AP
+.
+Cooldown changed to 40 seconds.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Rammus (Collection)
+.
+Original
+View in 3D
+585
+09.07.2009
+Idolized by many, dismissed by some, mystifying to all, the curious being Rammus is an enigma. Protected by a spiked shell, he inspires increasingly disparate theories on his origin wherever he goes—from demigod, to sacred oracle, to a mere beast transformed by magic. Whatever the truth may be, Rammus keeps his own counsel and stops for no one as he roams the Shuriman desert.
+Duncan Watt
+Unknown artist
+Loot eligible
+King
+View in 3D
+Special
+20.10.2009
+Duncan Watt
+Unknown artist
+Beta
+Loot ineligible
+New SFX/VFX
+Chrome
+View in 3D
+750
+17.05.2010
+Duncan Watt
+Unknown artist
+Legacy
+Loot eligible
+Molten
+View in 3D
+975
+13.07.2010
+An unstoppable warbeast drummed up from the Infernal hordes, Rammus simply chooses a direction and begins spinning—through homes, armies, and nations alike, burning everything to ashes.
+Duncan Watt
+Unknown artist
+Infernal
+Loot eligible
+Legacy
+New SFX/VFX
+Freljord
+View in 3D
+520
+22.11.2010
+Duncan Watt
+Unknown artist
+Freljord
+Loot eligible
+New SFX/VFX
+Ninja
+View in 3D
+975
+17.05.2011
+Duncan Watt
+Kienan 'Knockwurst' Lafferty
+Legacy
+Loot eligible
+Legacy
+New SFX/VFX
+Full Metal
+View in 3D
+975
+16.08.2012
+Those who make it to the Full Metal Robot Fighting League—the premier institution for gear-crunching, robot-on-robot violence—must often face off against the fearsome Full Metal Rammus. It is an initial rite of passage, faced by every contender-bot, that leaves entire arenas in tremors...
+Duncan Watt
+Pan Chengwei
+Heavy Metal
+Loot eligible
+New SFX/VFX
+Guardian of the Sands
+View in 3D
+975
+26.04.2015
+Rammus, the skewering wheel—ancient guardian of the sands, we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest they be broken beneath your unforgiving carapace.
+Duncan Watt
+Sixmorevodka Studio
+Guardian of the Sands
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Sweeper
+View in 3D
+975
+14.06.2018
+Be the ball.
+Duncan Watt
+Alvin Lee
+Soccer Cup
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Sweeper Rammus Chromas
+Aquamarine
+Emerald
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Hextech
+View in 3D
+Special
+15.08.2019
+Even the most renowned Hextech artificer must bow to the creativity and perfection of nature. After crafting each of Rammus's arcs to mimic the golden spiral, the creature proved so efficient at rolling... it escaped the moment its creator put down her wrench.
+Duncan Watt
+Unknown artist
+Hextech
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Astronaut
+View in 3D
+1350
+01.07.2021
+Rammus was supposed to be the Space Program's core asset for terraforming new planets, and he was—until his digging unearthed a purple surprise no one was ready for. Now he has become something wholly different, his power turned to nefarious ends at the hands of the evil invader-meeps.
+Duncan Watt
+West Studio
+Astronauts
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Astronaut Rammus Chromas
+Amethyst
+Catseye
+Citrine
+Emerald
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Durian Defender
+View in 3D
+1350
+03.04.2024
+Rammus roams the land in a pungent peel, and though he may look adorable, he gives new meaning to the phrase “silent but deadly.” Some say the effluvial enigma's armor reeks of sewage and sweaty socks, but strong-willed warriors know how sweet he can really be—if you can get past the smell.
+Duncan Watt
+Roanna Peroz, Kudos Productions
+Food Fight
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Durian Defender Rammus Chromas
+Aquamarine
+Citrine
+Jasper
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.23
+Powerball
+Cooldown reduced to 12 / 10.
+5
+/ 9 / 7.
+5
+/ 6 seconds from 16 / 13.
+5
+/ 11 / 8.
+5
+/ 6.
+V14.9
+General
+Adjusted splash artwork for
+Sweeper Rammus
+.
+V14.7
+General
+Adjusted splash artwork for
+Guardian of the Sands Rammus
+.
+V14.2
+Defensive Ball Curl
+Bug Fix:
+No longer interrupts attack windups when the effect ends.
+V13.22
+Defensive Ball Curl
+Base bonus armor increased to 40 from 30.
+V13.21
+Powerball
+Base damage reduced to 80 / 110 / 140 / 170 / 200 from 100 / 125 / 150 / 175 / 200.
+Defensive Ball Curl
+Base bonus armor reduced to 30 from 35.
+Armor ratio reduced to
+35 / 45 / 55 / 65 / 75%
+total
+armor
+from
+40 / 50 / 60 / 70 / 80%
+.
+V13.7
+Defensive Ball Curl
+Increased armor reduced to 40 / 50 / 60 / 70 / 80% from 40 / 55 / 70 / 85 / 100%.
+V13.5
+Stats
+Attack damage growth increased to 2.
+75
+from 3.
+5
+.
+Powerball
+Base damage reduced to 100 / 125 / 150 / 175 / 200 from 100 / 130 / 160 / 190 / 220.
+V13.1
+- January 12th Hotfix
+Stats
+Base health increased to 675 from 614.
+Base attack damage increased to 55 from 53.
+Base armor increased to 40 from 36.
+Defensive Ball Curl
+Base bonus armor increased to 35 from 25.
+V13.1
+Stats
+Base attack damage reduced to 53 from 56.
+Base health reduced to 614 from 634.
+Defensive Ball Curl
+Base bonus armor reduced to 25 from 40.
+Increased armor reduced to 40 / 55 / 70 / 85 / 100% from 60 / 70 / 80 / 90 / 100%.
+New Effect:
+Resistance ratios now factor in flat resistances from
+Defensive Ball Curl
+.
+V12.23
+- December 14th Hotfix
+Defensive Ball Curl
+Base bonus armor reduced to 40 from 50.
+Base bonus magic resistance reduced to 10 from 15.
+Cooldown increased to 7 seconds from 6.
+V12.22
+- November 17th Hotfix
+Defensive Ball Curl
+Base bonus armor increased to 50 from 40.
+Base bonus magic resistance increased to 15 from 10.
+V12.22
+Stats
+Base mana regeneration increased to 7.
+85
+from 7.
+84
+.
+V12.20
+Defensive Ball Curl
+Removed:
+No longer slows himself for 30% while active.
+Soaring Slam
+Dash speed growth increased to 110% from 105%.
+V12.19
+Defensive Ball Curl
+Undocumented:
+Increased resistances no longer apply to the flat bonus.
+V12.15
+Soaring Slam
+Cooldown changed to 90 seconds at all ranks from 110 / 95 / 80.
+Cast range increased to 800 units from 600.
+Dash range growth increased to 150% from 130%.
+Minimum dash speed increased to 900 from 700.
+Maximum dash speed increased to 2000 from 1800.
+V12.10
+Stats
+Base health increased to 634 from 564.
+Health growth increased to 94 from 80.
+Armor growth increased to 5.
+5
+from 4.
+3
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+V11.13
+Powerball
+Bug Fix:
+Fixed a bug where the SFX volume was affected by his VO.
+V11.12
+Defensive Ball Curl
+Base bonus armor increased to 40 from 30.
+Soaring Slam
+Cooldown reduced to 110 / 95 / 80 seconds from 130 / 110 / 90.
+V11.11
+Soaring Slam
+Bug Fix:
+No longer deals its damage instantly when cast at point zero.
+V11.8
+- April 15th Hotfix
+Powerball
+Bug Fix:
+Rammus'
+movement speed no longer increases much more quickly than intended when using the
+Powerball
+right after casting
+Predator
+.
+V11.8
+General
+Updated visual effects.
+Powerball
+Base damage reduced to 100 / 130 / 160 / 190 / 220 from 100 / 135 / 170 / 205 / 240.
+Defensive Ball Curl
+New Effect:
+Basic attacks now extend its duration by 0.
+4
+seconds, up to a maximum of 4 additional seconds.
+Frenzying Taunt
+Taunt and bonus attack speed duration reduced to 1.
+2
+/ 1.
+4
+/ 1.
+6
+/ 1.
+8
+/ 2 seconds from 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 / 2.
+25
+.
+Soaring Slam
+Renamed to
+Soaring Slam
+from
+Tremors
+.
+Active:
+Rammus
+leaps
+to the target location with
+immunity to crowd control
+, and upon impact he deals 100 / 175 / 250
+(+ 60% AP)
+magic damage to nearby enemies and
+slows
+them by 15 / 17.
+5
+/ 20% for 1.
+5
+seconds. Enemies in the center take increased damage if
+Soaring Slam
+was cast further than 600 units, capped at 1700 units with 50% increased damage. If
+Soaring Slam
+is cast while channeling
+Powerball
+, enemies within the center of the impact are also
+knocked up
+for 0.
+75
+seconds and take
+Powerball's
+collision damage.
+Powerball
+will not collide with enemies during the dash, and its channel will be maintained for the dash and end afterwards.
+Rammus'
+impact causes 3 aftershocks to burst from the area over 3.
+5
+seconds. Each aftershock deals 20 / 30 / 40
+(+ 10% AP)
+magic damage to enemies within the area and applies the initial
+slow
+, which stacks up to 4 times.
+Soaring Slam's
+damage applies to and is doubled against structures.
+Soaring Slam's
+minimum cast range is 600 units and is also equal to
+130% of his average movement speed
+over the past 1 second.
+Soaring Slam's
+center radius is 200 units and its slam and aftershock radius are 400 units.
+Cooldown increased to 130 / 110 / 90 seconds from 100 / 80 / 60.
+V11.5
+Stats
+Health growth reduced to 80 from 95.
+V11.3
+Frenzying Taunt
+Cooldown increased to 12 seconds at all ranks from 12 / 11.
+5
+/ 11 / 10.
+5
+/ 10.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+Base health reduced to 564 from 564.
+48
+.
+Base attack damage increased to 56 from 55.
+88
+.
+V10.5
+Stats
+Attack speed ratio reduced 0.
+625
+from 0.
+656
+.
+V10.4
+Stats
+Base attack speed increased to 0.
+656
+from 0.
+625
+.
+Attack speed ratio increased to 0.
+656
+from 0.
+625
+.
+V9.24
+Stats
+Health growth increased to 95 to 86.
+Frenzying Taunt
+Cooldown reduced to 12 / 11.
+5
+/ 11 / 10.
+5
+/ 10 seconds from 12 at all ranks.
+V9.14
+Powerball
+Bug Fix:
+Can no longer be interrupted by CC effects while under the effects of
+Edge of Night
+,
+Banshee's Veil
+, or
+Morgana's
+Black Shield
+.
+V9.13
+- June 27th Hotfix
+Defensive Ball Curl
+Bug Fix:
+Empowered damage now properly triggers
+Hunter's Talisman
+.
+Spiked Shell
+Bug Fix:
+Empowered damage now properly triggers
+Hunter's Talisman
+.
+V9.11
+Spiked Shell
+Bonus magic damage changed to 10 at all levels from
+8 − 20 (based on level)
+.
+Tremors
+Base damage per second reduced to 30 / 60 / 90 from 40 / 80 / 120.
+V9.7
+Guardian of the Sands Rammus
+Bug Fix:
+Buffs aura now properly follow the model during certain animations.
+V9.6
+Tremors
+New Effect:
+Now triggers effects that are triggered by DoT AoE abilities.
+V9.1
+Powerball
+New Effect:
+Ability icon HUD now shows the remaining duration of the ability.
+Defensive Ball Curl
+New Effect:
+Ability icon HUD now shows the remaining duration of the ability.
+Tremors
+New Effect:
+Ability icon HUD now shows the remaining duration of the ability.
+V8.24
+Guardian of the Sands Rammus
+Bug Fix:
+Recall SFX are no longer heard globally if he is in vision.
+V8.16
+Defensive Ball Curl
+Armor ratio increased to
+60 / 70 / 80 / 90 / 100% armor
+from
+50 / 60 / 70 / 80 / 90%
+.
+Magic resistance ratio increased to
+30 / 35 / 40 / 45 / 50% magic resistance
+from
+25 / 30 / 35 / 40 / 45%
+.
+V8.9
+Powerball
+Bug Fix:
+Rammus Bot no longer becomes dormant while in
+Powerball
+.
+Defensive Ball Curl
+Base armor increased to 30 from 20.
+V8.3
+Stats
+Base health regeneration increased to 8 from 7.
+924
+.
+V7.24b
+Stats
+Removed:
++15% bonus attack speed at level 1.
+V7.24
+Powerball
+Bug Fix:
+No longer loses the additional base armor he received in
+V7.22
+when using
+Powerball
+or
+Defensive Ball Curl
+.
+V7.23
+Stats
+Base armor reduced to 36 from 40.
+V7.22
+Stats
+New:
+Now has +15%
+bonus
+attack speed at level 1.
+Base armor increased to 40 from 31.
+384
+.
+V7.21
+Defensive Ball Curl
+Bonus armor ratio increased to
+50 / 60 / 70 / 80 / 90%
+from
+50 / 55 / 60 / 65 / 70%
+.
+Bonus magic resistance reduced to 10 from 20.
+Bonus magic resistance ratio reduced to
+25 / 30 / 35 / 40 / 45%
+from
+50 / 55 / 60 / 65 / 70%
+.
+V7.14
+Defensive Ball Curl
+Self-slow reduced to 30% from 60%.
+Bug Fix:
+Now properly increases the size of
+Iceborn Gauntlet's
+slow zone.
+V7.13
+General
+New Effect:
+Dance animation speed now increases with movement speed.
+V7.10
+Spiked Shell
+Removed:
+Grants
+25% of his armor
+as bonus attack damage.
+New Effect:
+Basic attacks deals
+8 − 20 (based on level)
+(+ 10% armor)
+bonus
+magic damage
+amplified by 50% to
+12 − 30 (based on level)
+(+ 15% armor)
+bonus
+magic damage
+while
+Defensive Ball Curl
+is active.
+Powerball
+Cooldown reduced to 16 / 13.
+5
+/ 11 / 8.
+5
+/ 6 seconds from 16 / 14.
+5
+/ 13 / 11.
+5
+/ 10.
+Duration reduced to 6 seconds from 7.
+New Effect:
+Is now a channeled spell, and thus is stopped by spells that interrupt channels.
+Maximum movement speed changed to
+150 − 235 (based on level)
+% from 155%.
+Base damage reduced to 100 / 135 / 170 / 205 / 240 from 100 / 150 / 200 / 250 / 300.
+Slow increased to 40 / 50 / 60 / 70 / 80% from 20 / 25 / 30 / 35 / 40%.
+Slow duration reduced to 1 second from 2.
+Undocumented:
+Mana cost reduced to 60 at all ranks from 60 / 65 / 70 / 75 / 80.
+Radius slightly reduced, allowing
+Rammus
+to better navigate through enemies. Collision check rate increased, making collision more consistent.
+Bug Fix:
+Rammus
+can now interact with Plants during Powerball
+Defensive Ball Curl
+Cooldown reduced to 6 seconds from 14.
+Bonus armor changed to 20
+(+ 50 / 55 / 60 / 65 / 70% armor)
+from 40 / 60 / 80 / 100 / 120.
+Bonus magic resistance changed to 20
+(+ 50 / 55 / 60 / 65 / 70% magic resistance)
+from 40 / 60 / 80 / 100 / 120.
+New Effect:
+Now slows
+Rammus
+by 60% during the effect.
+New Effect:
+Can be toggled off early.
+Damage when attacked changed to
+Spiked Shell's
+damage from 25 / 35 / 45 / 55 / 65
+(+ 10% armor)
+.
+Frenzying Taunt
+Renamed
+Frenzying Taunt
+from
+Puncturing Taunt
+.
+Removed:
+Reduces the target's armor by 5 / 10 / 15 / 20 / 25.
+New Effect:
+Grants 20 / 25 / 30 / 35 / 40% bonus attack speed for the duration of the taunt.
+New Effect:
+Attack speed bonus constantly refreshes while any of
+Rammus'
+other spells are active.
+Tremors
+Base damage reduced to 40 / 80 / 120 from 65 / 130 / 195.
+AP ratio reduced to
+20% AP
+from
+30% AP
+.
+New Effect:
+Slow enemies it damage by 8 / 10 / 12% for 1.
+5
+seconds, stacking up to 8 times, up to a maximum of 64 / 80 / 96%.
+New Effect:
+Deals double damage to structures.
+Damage against structure per second increased to 80 / 160 / 240
+(+ 40% AP)
+from 65 / 130 / 195
+(+ 30% AP)
+.
+V6.15
+Powerball
+Bug Fix:
+Displacement stun lasting longer than intended.
+V6.8
+General
+New splash artwork for
+Original Rammus
+.
+V6.7
+General
+Splash artwork for
+Molten Rammus
+and
+Freljord Rammus
+updated to the Chinese art.
+Tremors
+Cooldown increased to 100 / 80 / 60 seconds from 60 at all ranks.
+V5.24
+Powerball
+Collision radius reduced to 225 from 325.
+Slow duration reduced to 2 seconds from 3.
+Pathfinding updated to have Rammus go through units (rather than around them) while active.
+V5.16
+Stats
+Armor growth increased to 4.
+3
+from 3.
+8
+.
+Defensive Ball Curl
+Base return damage increased to 25 / 35 / 45 / 55 / 65 from 15 / 25 / 35 / 45 / 55.
+V5.6
+General
+New ability icons.
+Powerball
+Mana cost reduced to 60 / 65 / 70 / 75 / 80 from 70 / 80 / 90 / 100 / 110.
+V4.20
+Powerball
+Cooldown increased to 16 / 14.
+5
+/ 13 / 11.
+5
+/ 10 seconds from 10 at all ranks.
+Puncturing Taunt
+Armor reduction reduced to 5 / 10 / 15 / 20 / 25 from 10 / 15 / 20 / 25 / 30.
+V4.17
+Powerball
+Effects changed to persist for 1 second after switching to
+Defensive Ball Curl
+from ending instantly.
+Defensive Ball Curl
+Effects changed to persist for 1 second after switching to
+Powerball
+from ending instantly.
+V4.16
+General
+New lore.
+V4.13
+General
+Splash artwork for
+Chrome Rammus
+updated to the Chinese art.
+V4.5
+Stats
+Base armor increased to 25 from 21.
+V3.15
+Defensive Ball Curl
+Removed:
+Being able to reactivate to end the effects early (cooldown begins on-cast)
+Can still be done by using
+Powerball
+.
+Puncturing Taunt
+Duration changed to 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 / 2.
+25
+seconds from 1 / 1.
+5
+/ 2 / 2.
+5
+/ 3.
+Mana cost reduced to 50 at all ranks from 50 / 60 / 70 / 80 / 90.
+Tremors
+Mana cost reduced to 100 from 120.
+V3.13
+Texture Update
+V3.7
+Puncturing Taunt
+Removed:
+Being able to target minions.
+V1.0.0.152
+Stats
+Base health regeneration increased to 8 from 6.
+Base armor increased to 25 from 21.
+Movement speed increased to 335 from 310.
+V1.0.0.144
+Stats
+Magic resistance per level increased to 1.
+25
+from 0.
+V1.0.0.142
+Powerball
+Mana cost reduced to 70 / 80 / 90 / 100 / 110 from 80 / 90 / 100 / 110 / 120.
+Cast time reduced.
+Movement delay after collision reduced.
+Defensive Ball Curl
+Mana cost reduced to 40 from 50.
+V1.0.0.136
+Stats
+Base armor reduced to 20.
+8
+from 24.
+8
+.
+Base attack damage reduced to 53.
+5
+from 58.
+8
+.
+Powerball
+New Effect:
+Right-clicking while active moves Rammus close enough to hit his target.
+V1.0.0.134
+Defensive Ball Curl
+Bonus resistances reduced to 40 / 60 / 80 / 100 / 120 from 50 / 75 / 100 / 125 / 150.
+V1.0.0.133
+General
+Dance updated to make Rammus actually rotate around his center axis when on his back.
+V1.0.0.132
+Powerball
+Duration reduced to 7 seconds from 8.
+Initial bonus movement speed increased to 30% from 25%.
+Defensive Ball Curl
+Base damage return reduced to 15 / 25 / 35 / 45 / 55 from 20 / 30 / 40 / 50 / 60.
+V1.0.0.126
+General
+Bug Fix:
+Recommended items not displaying for Rammus.
+V1.0.0.125
+Stats
+Attack damage per level increased to 3.
+5
+from 2.
+75
+Powerball
+New Effect:
+Rammus can immediately switch to
+Defensive Ball Curl
+while active.
+Defensive Ball Curl
+Base damage return changed to 20 / 30 / 40 / 50 / 60 from 22 / 26 / 32 / 38 / 46.
+Removed:
+Cast time.
+New Effect:
+Rammus can immediately switch to
+Powerball
+while active.
+Bug Fix:
+Tooltip incorrectly displaying bonus armor values.
+V1.0.0.120
+Defensive Ball Curl
+Bug Fix:
+Having an AP ratio.
+V1.0.0.111
+Updated tooltips.
+Powerball
+Speed reduced by about 15%.
+V1.0.0.110
+Powerball
+Slow reduced to 20 / 25 / 30 / 35 / 40% from 28 / 36 / 44 / 52 / 60%.
+Slow duration reduced to 3 seconds from 4.
+Puncturing Taunt
+Cooldown increased to 12 seconds from 9.
+V1.0.0.105
+Puncturing Taunt
+Bug Fix:
+Enemies who blocked the taunt displaying the particle over their heads.
+V1.0.0.104
+Defensive Ball Curl
+Base damage return reduced to 22 / 28 / 34 / 40 / 46 from 26 / 32 / 38 / 44 / 50.
+Bug Fix:
+Tooltip not displaying correct bonus damage return value.
+V1.0.0.103
+General
+Movement speed increased to 310 from 305.
+Base mana regeneration increased to 4.
+5
+from 3.
+75
+.
+Powerball
+Cooldown reduced to 10 seconds from 11.
+Defensive Ball Curl
+Cooldown reduced to 14 seconds from 15.
+New Effect:
+Damage return has a
+(+ 10% armor)
+ratio.
+Puncturing Taunt
+Mana cost reduced to 50 / 60 / 70 / 80 / 90 from 50 / 65 / 80 / 95 / 110.
+Bug Fix:
+Several responsiveness errors.
+V1.0.0.101
+Defensive Ball Curl
+New Effect:
+Can be reactivated to end the effects early.
+V1.0.0.100
+General
+Bug Fix:
+Basic attack timer errors.
+Powerball
+Bug Fix:
+Sound continuing to play after Rammus hits his target.
+V1.0.0.87
+Powerball
+Bug Fix:
+Occasionally dealing double damage.
+V1.0.0.86
+Stats:
+Attack range increased to 125 from 100.
+Mana regeneration per level increased to 0.
+3
+from 0.
+25
+.
+Powerball
+Cooldown reduced to 11 seconds from 12.
+Defensive Ball Curl
+Cooldown reduced to 15 seconds from 18.
+Mana cost changed to 50 at all ranks from 40 / 50 / 60 / 70 / 80.
+Tremors
+Mana cost changed to 120 at all ranks from 100 / 150 / 200.
+V1.0.0.83
+Stats
+Base mana regeneration increased to 3.
+75
+from 2.
+5
+.
+Powerball
+Mana cost reduced to 80 / 90 / 100 / 110 / 120 from 90 / 100 / 110 / 120 / 130.
+Puncturing Taunt
+Mana cost reduced to 50 / 65 / 80 / 95 / 110 from 50 / 70 / 90 / 110 / 130.
+V1.0.0.82
+General
+Basic attack animation timing updated.
+Powerball
+New Effect:
+Ramps up in pitch to match Rammus' increased movement speed.
+Bug Fix:
+Rammus' movement speed being slightly too low while active.
+Defensive Ball Curl
+Bug Fix:
+Rammus' movement speed being slightly too low while active.
+V1.0.0.81
+Puncturing Taunt
+New Effect:
+Affected enemies display 'Taunted!' over their heads.
+V1.0.0.61
+Tremors
+Bug Fix:
+Damage being negated by
+Black Shield
+and/or
+Cleanse
+.
+V1.0.0.52
+Stats
+Base health increased to 420 from 400.
+Health per level increased to 86 from 76.
+Tremors
+Base damage per second increased to 65 / 130 / 195 from 55 / 110 / 165.
+V0.9.25.24
+Powerball
+Updated to hit immobile targets more easily.
+V0.9.22.16
+Powerball
+New Effect:
+Has a 1 second cooldown upon casting.
+Slow changed to 28 / 36 / 44 / 52 / 60% from 40 / 45 / 50 / 55 / 60%.
+Mana cost changed to 90 / 100 / 110 / 120 / 130 from 80 / 95 / 110 / 125 / 140.
+Tooltip updated.
+V0.9.22.15
+Stats
+Base health reduced to 400 from 430.
+Movement speed increased to 305 from 300.
+Defensive Ball Curl
+Bonus resistances changed to 50 / 75 / 100 / 125 / 150 from 40 / 80 / 120 / 160 / 200.
+Damage return increased to 26 / 32 / 38 / 44 / 50 from 24 / 30 / 36 / 42 / 48.
+Puncturing Taunt
+Armor reduction increased to 10 / 15 / 20 / 25 / 30 from 6 / 12 / 18 / 24 / 30.
+Tremors
+Base damage per second reduced to 55 / 110 / 165 from 64 / 128 / 192.
+V0.8.22.115
+Defensive Ball Curl
+Bonus resistances reduced to 40 / 80 / 120 / 160 / 200 from 50 / 100 / 150 / 200 / 250.
+V0.8.21.110
+General
+Recommended items updated.
+Stats
+Base health increased to 430 from 394.
+Health per level increased to 76 from 70.
+Spiked Shell
+Bug Fix:
+Bonus AD being removed after Rammus is revived by
+Guardian Angel
+.
+Defensive Ball Curl
+New Effect:
+Rammus gains bonus magic resistance equal to the bonus armor amount while active.
+Damage return increased to 24 / 30 / 36 / 42 / 48 from 16 / 20 / 24 / 28 / 32.
+Powerball
+Collision radius on minions reduced.
+Collision radius on champions increased.
+New Effect:
+Can be toggled off.
+Removed:
+Cast time.
+Initial bonus movement speed increased to 25% from 20%.
+Mana cost reduced to 80 / 95 / 110 / 125 / 140 from 85 / 105 / 125 / 145 / 160.
+Tremors
+AP ratio increased to
+(+ 30% AP)
+from
+(+ 20% AP)
+Mana cost reduced to 100 / 150 / 200 from 150 / 200 / 250.
+July 10, 2009 Patch
+Added
+Trivia
+[
+edit
+|
+edit source
+]
+Rammus
+possibly plays on English verb
+ram
+& Latin masculine suffix
+-us
+.
+His dance references the back spin, a
+breakdance move
+.
+A side-by-side comparison can be seen
+here.
+The
+ward skin
+Armordillo Ward
+references him.
+It is possible for Rammus to reach approximately 3104
+armor
+in an "ideal" scenario. Details can be seen
+here
+.
+In the
+V1.0.0.115
+April Fools' Day
+patch, he was jokingly listed to receive a skin called
+"Rammurf"
+, referencing
+Urf
+.
+Out of all the champions in the game, Rammus has gone the longest without an update to his base splash art up until
+2016
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Vanguard
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+Vanguards
+are offensive tanks. Vanguards lead the charge for their team and specialize at bringing the action. Their explosive team fight initiation seeks to catch enemies out of position while allowing allies to follow-up to devastating effect.
+Examples
+Amumu
+Leona
+Sejuani
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Defensive Ball Curl
+COOLDOWN:
+7
+Active:
+Rammus
+enters a defensive stance for a few seconds, gaining
+bonus
+armor
+and
+bonus
+magic resist
+. During this time,
+Spiked Shell's
+damage is increased and also applies to enemies that land a basic attack against
+Rammus
+.
+Defensive Ball Curl
+can be recast within the duration, and does so automatically afterward.
+Rammus'
+basic attacks extend
+Defensive Ball Curl's
+duration up to a few seconds.
+Recast:
+Rammus
+ends
+Defensive Ball Curl
+.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Standard sight
+Standard sight
+reveals units through
+fog of war
+and
+brush
+, but
+not
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Stacks multiplicatively
+An effect that
+stacks multiplicatively
+can be calculated by multiplying the effects together.
+Most
+champion statistics
+that stack this way are expressed through percentages.
+
+The following stats
+stack multiplicatively
+:
+Attack speed reduction
+Damage modifiers
+Percent armor penetration and reduction
+Percent magic penetration and reduction
+Slow potency reduction
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Interrupt
+Interrupt
+is a quality of crowd control that
+interrupts
+an in-progress effect, preventing its completion or causing the effect to go off at an
+interrupted
+state.
+The following crowd control effects
+interrupt
+channeled and charged
+abilities (unless otherwise noted by the ability):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+The following crowd control effects
+interrupt
+dashes
+:
+Airborne
+Knockdown
+Stasis
+Basic attack windups
+are
+interrupted
+by all forms of crowd control that inhibit attacking.
+Ground
+and
+Root
+only
+interrupt
+channeled and charged movement abilities.
+League of Legends content
+Root
+A unit that is
+rooted
+is unable to control its movement or activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Rooted
+units can still be displaced.
+Root
+is an
+immobilizing
+effect
+.
+Moving
+includes movement commands.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Ground
+A unit that is
+grounded
+is unable to activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Grounded
+units can still be displaced.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Ground
+is the only type of
+crowd control
+that is most commonly found in persistent area of effects, which will reapply the status effect continuously.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Displacement immune
+A unit that is
+displacement immune
+is
+immune
+to all
+Airborne
+effects in addition to the following effects:
+Crowd control
+Knockdown
+Suspension
+Kinematics
+Sleep
+Stasis
+Champion abilities
+Ambessa's
+Public Execution
+Mordekaiser's
+Realm of Death
+Skarner's
+Ixtal's Impact
+and
+Impale
+Sett's
+The Show Stopper
+Tahm Kench's
+Devour
+League of Legends content
+Frenzying Taunt
+COOLDOWN:
+12
+Active:
+Rammus
+briefly
+taunts
+the target enemy
+champion
+or
+monster
+, and gains
+bonus
+attack speed
+for the same duration.
+League of Legends content
+Soaring Slam
+COOLDOWN:
+90
+Active:
+Rammus
+leaps
+to the target location with
+Cc-immunity
+, dealing
+magic damage
+to nearby enemies and briefly
+slowing
+them. The impact deals increased damage at the epicenter based on how far
+Soaring Slam
+was cast.
+Soaring Slam
+gains increased
+range
+based on
+Rammus'
+movement speed
+.
+Rammus
+can cast this ability during
+Powerball
+, which will additionally
+knock up
+enemies in the epicenter.
+The impact causes 3 aftershocks to burst from the area over a short time, each dealing
+magic damage
+and
+slowing
+nearby enemies.
+Soaring Slam's
+damage affects
+structures
+and is doubled against
+turrets
+.
+Cc-immunity
+:
+Crowd control
+cannot be applied during this time.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Spiked Shell
+Innate:
+Rammus'
+basic attacks deal
+bonus
+magic damage
+based on his
+armor
+. This effect is increased during
+Defensive Ball Curl
+.
+League of Legends content
+Powerball
+COOLDOWN:
+12 / 10.
+5
+/ 9 / 7.
+5
+/ 6
+Active:
+Rammus
+channels
+for a few seconds to roll into a ball, gradually gaining
+bonus
+movement speed
+.
+Powerball
+can be recast within the duration, and does so automatically afterwards.
+Rammus
+stops rolling upon hitting an enemy, dealing
+magic damage
+to all nearby enemies and
+knocking them back
+. Enemies hit are then briefly
+stunned
+and
+slowed
+.
+Recast:
+Rammus
+ends
+Powerball
+.
+League of Legends content
+Mystic Shot
+COOLDOWN:
+5.
+5
+/ 5.
+25
+/ 5 / 4.
+75
+/ 4.
+5
+Active:
+Ezreal
+fires a bolt of energy that deals
+physical damage
+to the first enemy hit.
+If the bolt hits an enemy, all of
+Ezreal's
+ability cooldowns are
+reduced
+.
+Mystic Shot
+applies
+on-hit
+and
+on-attack
+effects.
+League of Legends content
+H-28G Evolution Turret
+RECHARGE:
+20
+Active:
+Heimerdinger
+deploys a rapid-fire turret that deals
+magic damage
+to his target, or a nearby enemy. The turret will become dormant while he leaves it alone.
+Heimerdinger
+periodically
+stocks
+a
+Turret Kit
+, up to a maximum of 3.
+The turret has a secondary beam attack that charges up over time, which deals
+magic damage
+to enemies hit.
+H-28Q Apex Turret
+COOLDOWN:
+1
+UPGRADE:
+Heimerdinger
+instead deploys a slow-fire turret that attacks a nearby enemy champion, dealing
+magic damage
+and
+slowing
+nearby enemies.
+The turret has a secondary beam attack that charges up over time and while it fires, which deals
+magic damage
+to enemies hit.
+League of Legends content
+Jack in the Box
+COOLDOWN:
+15
+Active:
+Shaco
+summons a
+box
+at the target location that becomes
+stealthed
+after a short time.
+The
+box
+will spring out upon enemy contact,
+fearing
+nearby enemies for a short time. Enemy
+champions
+hit are also briefly
+rooted
+.
+The
+box
+will remain for a few seconds to automatically fire at nearby enemies, dealing
+magic damage
+that is increased when attacking only one enemy.
+References
+[
+edit
+|
+edit source
+]
+↑
+Rammus's profile page
+at
+LeagueOfLegends.com

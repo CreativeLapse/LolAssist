@@ -1,0 +1,3280 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Zeri
+The Spark of Zaun
+Release date
+2022-01-20
+Last changed
+V14.18
+Class(es)
+Marksman
+Legacy
+Marksman
+Position(s)
+Bottom
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+2
+Toughness
+1
+Control
+2
+Mobility
+3
+Utility
+0
+Style
+Difficulty
+Zeri
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Zeri
+Base statistics
+Edit
+Health
+600
++110
+Mana
+250
++45
+Health regen. (per 5s)
+3.25
++0.7
+Mana regen. (per 5s)
+6
++0.8
+Armor
+24
++4.2
+Attack damage
+56
++2
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+500
+Attack speed
+Base AS
+0.658
+Attack windup
+15.625%
+AS ratio
+0.625
+Bonus AS
++2
+%
+Missile speed
+Non-projectile
+Unit radius
+Gameplay radius
+65
+Selection radius
+100
+Pathing radius
+40
+Acq. radius
+800
+Special statistics
+Damage Dealt
++10%
+Damage Received
+-5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Living Battery
+ATTACK RANGE:
+500
+SPEED:
+N/A
+Innate:
+Zeri
+generates charge when she moves and casts
+Burst Fire
+. Her next
+basic attack
+will consume charge to deal
+magic damage
+. At full charge, the attack consumes all charge to deal
+magic damage
+based on the
+target's
+maximum
+health
+.
+Zeri's
+basic attacks apply
+spell effects
+as
+spell damage
+and triggering on-cast effects, but
+cannot
+critically strike
+nor trigger
+on-hit
+and
+on-attack
+effects.
+Innate:
+Zeri
+generates 1 charge for every 40 units she travels by any means and 10 charge every time she casts
+Burst Fire
+, up to a maximum of 100 charge. Her
+basic attacks
+consume charge to deal
+modified
+damage.
+Zeri
+gains maximum charge when the game starts and upon
+respawning
+.
+Basic Attack:
+Zeri
+zaps the target, applying
+spell effects
+as
+spell damage
+, and triggering on-cast effects. This cannot
+critically strike
+nor trigger
+on-hit
+and
+on-attack
+effects.
+At full charge,
+Zeri's
+next attack is empowered to consume all charge to deal
+75 − 160 (based on level)
+(+ 110% AP)
+(+
+1% − 11% (based on level)
+of target's
+maximum
+health)
+magic damage
+. The damage based on the target's health ratio is capped at 300 against
+monsters
+.
+While not at full charge,
+Zeri's
+attacks deal
+10 − 25 (based on level)
+(+ 3% AP)
+magic damage
+, and
+execute
+targets
+below
+60 − 150 (based on level)
+(+ 18% AP)
+health
+. Each attack consumes 10 charge if she has enough already.
+"Electrocute!"
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Parries
+Bypass
+Projectile
+Not Blocked
+Charged attacks only deal the
+base
+damage to
+structures
+.
+Uncharged attacks do not execute enemies that are
+shielded
+or
+invulnerable
+while below the health threshold.
+Spell shield
+will only block a fully charged attack. Uncharged attacks are not blocked.
+The attack's range is
+not
+increased from attack range increases (
+Rapid Firecannon
+). Instead,
+Burst Fire's
+reach is.
+Uncharged and charged attacks trigger
+Tear of the Goddess'
+Mana Charge
+.
+The empowered attack will trigger but not be consumed against
+wards
+.
+Edit
+Burst Fire
+COST:
+None
+STATIC COOLDOWN
+:
+1 ÷
+Zeri's
+attack speed
+RANGE:
+750
++ 100%
+bonus
+attack range
+WIDTH:
+80
+ANGLE:
+5°
+/
+2°
+SPEED:
+2600
+/
+3400
+Active:
+Zeri
+fires a burst of 7 rounds in the target direction that each deal
+physical damage
+to the first enemy hit. This is treated as a
+basic attack
+, can
+critically strike
+, and applies
+on-hit
+and
+on-attack
+effects to the first enemy hit. The
+cooldown
+scales down with
+attack speed
+, up to a cap. A portion of the excess
+attack speed
+is converted into
+bonus
+attack damage
+.
+Active:
+Zeri
+fires a burst of 7 rounds in the target direction that each deal
+physical damage
+to the first enemy hit.
+Total Physical Damage:
+15 / 17 / 19 / 21 / 23
+(+ 104 / 108 / 112 / 116 / 120% AD)
+Physical Damage per Hit:
+2.
+14
+/ 2.
+43
+/ 2.
+71
+/ 3 / 3.
+29
+(+ 14.
+86
+/ 15.
+43
+/ 16 / 16.
+57
+/ 17.
+14
+% AD)
+Burst Fire's
+projectile is treated as a
+basic attack
+: it hits any enemy unit a typical basic attack can; deals
+basic damage
+; can
+critically strike
+for
+(175% +
+40%
+)
+physical damage
+; and applies
+on-hit
+and
+on-attack
+effects once at 100% effectiveness to the first enemy hit.
+Burst Fire's
+cooldown
+and cast time are reduced with
+attack speed
+, with the maximum of
+1.
+5
+attacks per second. 70% of
+attack speed
+in excess of the cap is converted into
+bonus
+attack damage
+.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Basic damage
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Not Blocked
+Parries
+See Notes
+Projectile
+Blocked
+Burst Fire
+is automatically learned with her first skill point upon spawning.
+Any of
+Burst Fire's
+rounds hitting a champion will draw minion aggro, regardless of whether or not other targets were hit first by
+Burst Fire's
+rounds.
+A lightning chain from a
+Lightning Crash
+empowered
+Burst Fire
+will not draw minion aggro.
+Burst Fire
+does not trigger
+Tear of the Goddess'
+Mana Charge
+.
+Burst Fire's
+cooldown is not reduced by
+Navori Flickerblade
+.
+Amumu's
+Tantrum's
+,
+Fizz's
+Nimble Fighter's
+, and
+Leona's
+Eclipse's
+flat damage reduction apply to
+each
+of the 7 instances of damage from
+Burst Fire
+.
+Warden's Mail's
+flat damage reduction and cap only apply to the first instance of damage.
+Guardian's Horn's
+flat damage reduction only applies to the first instance of damage, but handles it as damage-over-time (reduced to 25% effectiveness).
+Burst Fire
+still counts as an ability activation for the purposes of on-cast effects such as triggering
+Force Pulse's
+passive.
+It does
+not
+count as an ability activation for
+Spellblade
+.
+Burst Fire
+can hit
+all
+enemy units that a basic attack would be able to target. This does include
+jungle plants
+,
+structures
+, and
+wards
+.
+Wards will only be hit once by
+Burst Fire
+.
+Stealthed wards and traps
+will not be hit.
+Champion-summoned units behave differently depending on the unit.
+Gangplank's
+Powder Keg
+and
+Yorick’s
+Dark Procession
+are hit only once by
+Burst Fire
+, and any subsequent rounds not empowered by
+Spark Surge
+will stop upon reaching the same object.
+Kalista’s
+Sentinel
+is hit only once by
+Burst Fire
+, but any subsequent rounds will continue to travel through the
+Sentinel
+.
+If
+Burst Fire
+hits an enemy while
+Zeri
+is not visible to enemies, the area around her (400 units) will be revealed for 4.
+5
+seconds.
+Burst Fire
+rolls
+critical strike
+for all rounds as well as the additional physical damage dealt when
+Zeri
+is
+Overcharged
+.
+Burst Fire
+is parried by
+dodge
+and
+block
+.
+Blind
+causes
+Burst Fire
+to cast in a random direction. The rounds will still deal damage to enemies hit.
+Burst Fire's
+rounds are each fired in the target direction from where
+Zeri
+is at the time.
+Only
+attack speed granted by being
+Overcharged
+can exceed the cap of 1.
+5
+.
+Hail of Blades
+does not allow
+Zeri
+to exceed her attack speed cap.
+Items and runes that trigger off of attacking [eg
+Fleet Footwork
+,
+Kraken Slayer
+] will only trigger if
+Burst Fire
+hits a unit.
+If Zeri would get full
+Energized
+stacks from a
+Burst Fire
+, the rest of the rounds will trigger Energized.
+Burst Fire's
+cast-indicator does not show
+range
+increases; modified range VFX are still visible around the champion model.
+Burst Fire
+can apply the effect of
+Horizon Focus
+when the enemy hit is within the last 50 units of this ability.
+(note)
+Burst Fire
+uses a modified icon when empowered by
+Spark Surge
+(
+) and
+Lightning Crash
+(
+) as well as both (
+).
+Destroying a ward that is targetable but not visible to
+Zeri's
+team (e.g. a
+Control Ward
+in
+Fog of War
+) via
+Burst Fire
+uniquely allows her to remove its accompanying
+ward timer
+(if it exists) without seeing the ward being destroyed.
+Map-Specific Differences
+Howling Abyss
+differences
+edit
+Zeri
+will start the game with one point already ranked in
+Burst Fire!
+, allowing her to allocate the other two to her other abilities.
+Edit
+Ultrashock Laser
+COST:
+50 / 60 / 70 / 80 / 90 Mana
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+CAST TIME:
+0.
+55
+− 0.
+3
+(based on
+bonus
+attack speed)
+RANGE:
+1200
+/
+-50 – 1550
+WIDTH:
+80
+/
+200
+SPEED:
+2500
+Active:
+Zeri
+fires an electric pulse in the target direction that deals
+physical damage
+to the first enemy hit and
+slows
+them for a short duration. If this hits
+terrain
+, it transforms into a laser that fires in a line, dealing
+physical damage
+to enemies hit and
+critically striking
+against
+champions
+and
+monsters
+.
+Active:
+Zeri
+fires an electric pulse in the target direction that deals
+physical damage
+to the first enemy hit and
+slows
+them for 2 seconds.
+If the pulse hits
+terrain
+, it transforms into a laser in a line that grants
+sight
+of the area for 1.
+75
+seconds and fires after 0.
+85
+seconds, applying the same effects to enemies hit and
+critically striking
+for
+(175% +
+40%
+)
+physical damage
+against
+champions
+and
+monsters
+.
+Physical Damage:
+30 / 70 / 110 / 150 / 190
+(+ 130% AD)
+(+ 25% AP)
+Slow:
+30 / 35 / 40 / 45 / 50%
+Info
+Targeting input
+Direction
+Damage type
+Type
+See Notes
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+See Notes
+Applies
+spell damage
+for the pulse and
+area damage
+for the laser.
+The pulse missile is blocked by
+projectile-interception
+effects but not the laser.
+Ultrashock Laser
+interacts with
+player-generated terrain
+.
+This ability will cast from wherever the caster is at the start of the cast time.
+Edit
+Spark Surge
+COST:
+90 / 85 / 80 / 75 / 70 Mana
+COOLDOWN
+:
+22 / 21 / 20 / 19 / 18
+CAST TIME:
+None
+RANGE:
+300
+SPEED:
+600 +
+100% movement speed
+Active:
+Zeri
+dashes
+in the target direction, she will dash across any
+terrain
+she hits. Afterwards, she gains
+Lightning Rounds
+for a short time.
+Spark Surge's
+cooldown is
+reduced
+for every enemy
+champion
+hit by her
+charged
+basic attacks and abilities, increased on
+critical strikes
+.
+Lightning Rounds:
+Burst Fire
+deals
+bonus
+magic damage
+to the first enemy hit and will pierce through enemies to deal modified damage.
+Active:
+Zeri
+dashes
+in the target direction. She will dash farther across
+terrain
+if
+Spark Surge
+was cast within 50 units of any, gaining
+unobstructed vision
+of the surrounding 800 units and
+revealing
+herself while there are enemy champions within 1500 units of her.
+Afterwards, she gains
+Lightning Rounds
+for 5 seconds, empowering
+Burst Fire
+to deal
+bonus
+magic damage
+to the first enemy hit, increased by
+0% − 85% (based on critical strike chance)
+, and pierce through enemies, though dealing modified damage after the first and not applying attack effects nor
+life steal
+to secondary targets. This damage is affected by
+critical strike
+modifiers.
+Burst Fire
+Bonus Magic Damage:
+20 / 22 / 24 / 26 / 28
+(+ 12%
+bonus
+AD)
+(+ 20% AP)
+Burst Fire
+Modified Secondary Damage:
+80 / 85 / 90 / 95 / 100%
+Spark Surge's
+current
+cooldown
+is reduced by 0.
+5
+seconds for every
+champion
+Zeri
+hits with
+charged
+basic attacks or abilities, increased to 1.
+5
+seconds if she does so with a cast of
+Burst Fire
+or
+Ultrashock Laser
+that
+critically strikes
+.
+Spark Surge
+resets
+Zeri's
+basic attack timer and
+Burst Fire's
+cooldown.
+Ultrashock Laser
+and
+Lightning Crash
+can be cast during the dash.
+"Gotta zip!"
+Info
+Targeting input
+Direction
+Counters
+Grounded
+Disabled
+Knockdown
+Interrupted
+Spark Surge's
+extended dash travels based on the thickness of the terrain, up to a maximum distance.
+The following table refers for interactions while
+Zeri
+is dashing:
+Attacking
+Disabled
+Abilities
+Burst Fire
+is disabled.
+Ultrashock Laser
+and
+Lightning Crash
+are usable.
+Movement
+Disabled
+Items
+Usable
+All the other item-actives are usable
+Disabled
+N/A
+Interrupted by
+Hextech Rocketbelt
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Teleport
+Recall
+Disabled
+N/A
+Interrupted by
+Flash
+Interrupted by
+Death
+Edit
+Lightning Crash
+COST:
+100 Mana
+COOLDOWN
+:
+80 / 75 / 70
+CAST TIME:
+0.
+25
+EFFECT RADIUS:
+825
+Active:
+Zeri
+explodes to deal
+magic damage
+to nearby enemies. If this hits at least one enemy champion, she enters
+Overcharged
+for a few seconds. Damaging an enemy will extend
+Overcharged
+.
+Overcharged:
+Zeri
+gains
+bonus
+attack speed
+and
+bonus
+move speed
+.
+Burst Fire
+is empowered to instead fire 3 rounds that can chain up to 4 surrounding enemies to deal
+physical damage
+. During
+Overcharged
+,
+Zeri
+generates a stack of
+Overcharge
+for each enemy champion hit by her abilities and
+charged
+basic attacks, increased on abilities that
+critically strike
+. For each stack, she briefly gains
+bonus
+move speed
+.
+Active:
+Zeri
+discharges an electric nova that deals
+magic damage
+to nearby enemies. If this hits at least one enemy champion, she enters
+Overcharged
+for 5 seconds. Hitting an enemy champion with an ability or
+charged
+basic attack will extend the duration by 1.
+5
+seconds, up to its original duration.
+Magic Damage:
+175 / 275 / 375
+(+ 85%
+bonus
+AD)
+(+ 110% AP)
+Overcharged:
+Zeri
+gains
+30%
+bonus
+attack speed
+and
+10%
+bonus
+movement speed
+.
+Burst Fire
+is empowered to have a 20% shorter cast time and instead fire 3 rounds that travel with increased speed and chain to the nearest
+visible
+enemy within 650 units of the target, up to 4 subsequent targets, to deal
+25% AD
+physical damage
+. This damage can
+critically strike
+for
+(175% +
+40%
+)
+physical damage
+.
+During
+Overcharged
+,
+Zeri
+can generate
+stacks
+of
+Hypercharged
+from enemy champions that last 1.
+5
+seconds. She generates 1 stack for each one she hits with an ability or
+charged
+basic attack, increased to 3 on abilities that
+critically strike
+. Subsequent hits refresh the duration of
+Hypercharged
+.
+Burst Fire
+grants stacks only against the first target hit.
+Hypercharged:
+For each stack,
+Zeri
+gains
+0.
+5
+%
+bonus
+movement speed
+.
+"Lightning crash!"
+Info
+Targeting input
+Auto
+Damage type
+Type
+See Notes
+Sub-type
+Physical
+/
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+Not Blocked
+Zeri
+can move while casting
+Lightning Crash
+, and it does not interrupt her previous orders.
+Zeri
+can stack
+Overcharge
+up to 100,000 times.
+Applies
+area damage
+for the nova and
+proc damage
+for the chain lightning.
+Spell shield
+blocks
+Lightning Crash's
+initial nova but does not prevent
+Zeri
+from becoming
+Overcharged
+.
+It does not block
+Burst Fire's
+electricity chain.
+Clones
+count for granting
+Overcharge
+.
+Lightning Crash's
+and
+Spark Surge's
+empowerments to
+Burst Fire
+can combine together.
+Burst Fire
+electricity chain will not chain across structures.
+If
+Zeri
+enters
+resurrection
+during
+Overcharge
+, she will lose all stacks of the effect but
+Overcharge
+will not end prematurely.
+(note)
+She cannot gain stacks again after reviving while the buff is active.
+(bug)
+This ability will cast from wherever the caster is at the end of the cast time.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Zeri (Collection)
+.
+Original
+View in 3D
+975
+20.01.2022
+A headstrong, spirited young woman from Zaun’s working-class, Zeri channels her electric magic to charge herself and her custom-crafted gun. Her volatile power mirrors her emotions, its sparks reflecting her lightning-fast approach to life. Deeply compassionate toward others, Zeri carries the love of her family and her home into every fight. Though her eagerness to help can sometimes backfire, Zeri believes one truth to be certain: stand up for your community, and it will stand up with you.
+Vanille Velasquez
+Alex 'alexplank' Flores
+Loot eligible
+Withered Rose
+View in 3D
+1350
+20.01.2022
+Zeri's not one for the backstabbing schemes at the Festival of the Crystal Rose. She'd rather take action than formulate some complicated plan; and that's why partygoers will never suspect that this year, she's got one: Crash the party in the name of the rejects! No one—not even a dashing, would-be rival—will see her coming.
+Vanille Velasquez
+Jeremy 'Jermu' Anninos
+Withered Rose
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Withered Rose Zeri Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Ocean Song
+View in 3D
+1350
+09.06.2022
+An up and coming Water Tamer from the Southwest, Zeri is diving into the Ocean Song Festival headfirst. This is her first time handling a stage on her own, and she may have gone a little overboard with her showstopper plans in order to give herself a calling card. Everybody loves a little overstimulation, right?
+Vanille Velasquez
+Terence 'Terrylefruit' Cantal
+Ocean Song
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Ocean Song Zeri Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Immortal Journey
+View in 3D
+1350
+16.08.2023
+Orphaned as a baby, Zeri was taken in by a family of inventors who cultivated her tinkering tendencies. Their love ignited a deep desire to help others over herself, and because of her prodigious talents, her family paid her admission to the Tempered Faith School. A student full of dreams and curiosity, Zeri will use immortality to help everyone she can.
+Vanille Velasquez
+Nathaniel Himawan, West Studio
+Immortal Journey
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Immortal Journey Zeri Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Fright Night
+View in 3D
+1350
+25.09.2024
+Head counselor, nurse, and necromancer at Creepaway Camp, Zeri wears many hats. Always ready to graft a hand or stitch up a mess, Zeri never leaves a camper behind. So when she drowned, campers put on their thinking caps and did as she had taught: a few stitches, a ZAP, and Zeri was back!
+Vanille Velasquez
+Yuyu Wong, Kudos Productions
+Fright Night
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Fright Night Zeri Chromas
+Amethyst
+Aquamarine
+Catseye
+Emerald
+Ghoulish
+Meteorite
+Nightshade
+Obsidian
+Ruby
+Turquoise
+Prestige Fright Night
+View in 3D
+Special
+25.09.2024
+Striking fear into the hearts of the unfashionable with her bold asymmetrical hair and oversized coat crawling with fine spider silk, Zeri's shocking new look is just to die for.
+Vanille Velasquez
+Herbie Wang, Kudos Productions
+Fright Night
+Loot ineligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Fright Night
+. Store variants are discounted for multiple purchases.
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.18
+Living Battery
+Charged attack base damage changed
+75 − 160 (based on level)
+from
+90 − 200 (based on level)
+.
+Formula changed.
+Charged attack health ratio changed to
+1% − 11% (based on level)
+of target's
+maximum
+health
+from
+1% − 15% (based on level)
+.
+Formula changed.
+V14.8
+Stats
+Base health reduced to 600 from 630.
+V14.3
+Stats
+Base attack damage increased to 56 from 53.
+Lightning Crash
+Cooldown reduced to 80 / 75 / 70 seconds from 100 / 85 / 70.
+V13.24
+Stats
+Attack damage growth increased to 2 from 1.
+3
+.
+Ultrashock Laser
+Base damage increased to 30 / 70 / 110 / 150 / 190 from 20 / 60 / 100 / 140 / 180.
+V13.19
+Stats
+Base movement speed reduced to 330 from 335.
+V13.14
+Burst Fire
+Bug Fix:
+Now deals the correct amount of damage against
+Shaco's
+Jack in the Box
+.
+V13.12
+Stats
+Base movement speed increased to 335 from 330.
+Living Battery
+Tooltip now contains information about
+Zeri's
+basic attacks.
+Removed Innate:
+Zeri
+absorbs the energy of
+shields
+she damages, granting herself a shield equal to 45% of the
+post-mitigation damage
+dealt to the shield. Each instance of shield gained by
+Living Battery
+lasts for 3 seconds.
+Removed Innate - Gotta Zip!:
+Whenever
+Zeri
+gains a shield, she gains
+10%
+bonus
+movement speed
+for 2 seconds.
+Burst Fire
+Removed:
+No longer triggers
+Spellblade
+.
+Spark Surge
+Critical strike chance ratio increased to
+0% − 85% (based on critical strike chance)
+from
+0% − 65%
+.
+V13.7
+Stats
+Health growth reduced to 110 from 115.
+Living Battery
+Shield steal reduced to 45% from 60%.
+Lightning Crash
+Bonus AD ratio reduced to
+85%
+bonus
+AD
+from
+100%
+.
+V13.1
+Stats
+Attack damage growth reduced to 1.
+3
+from 1.
+5
+.
+Burst Fire
+Total base damage reduced to 15 / 17 / 19 / 21 / 23 from 15 / 18 / 21 / 24 / 27.
+Base damage per hit reduced to 2.
+14
+/ 2.
+43
+/ 2.
+71
+/ 3 / 3.
+29
+from 2.
+14
+/ 2.
+57
+/ 3 / 3.
+43
+/ 3.
+86
+.
+V12.23
+Stats
+Base movement speed increased to 330 from 325.
+Base attack damage increased to 53 from 50.
+Base armor increased to 24 from 20.
+Base health increased to 630 from 600.
+Attack speed ratio increased to 0.
+625
+from 0.
+568
+.
+Health growth increased to 115 from 109.
+Basic Attack
+Charged AP ratio increased to
+110% AP
+from
+90% AP
+.
+Living Battery
+Removed:
+Bonus movement speed is no longer multiplicative.
+Bonus movement speed duration reduced to 2 seconds from 3.
+Burst Fire
+Cast range reduced to 750 units from 825.
+Bonus attack damage increased to
+70% excess
+bonus
+attack speed
+from
+60%
+.
+Total base damage increased to 15 / 18 / 21 / 24 / 27 from 8 / 11 / 14 / 17 / 20.
+Base damage per hit increased to 2.
+14
+/ 2.
+57
+/ 3 / 3.
+43
+/ 3.
+86
+from 1.
+14
+/ 1.
+57
+/ 2 / 2.
+43
+/ 2.
+86
+.
+Total AD ratio increased to
+104 / 108 / 112 / 116 / 120% AD
+from
+100 / 105 / 110 / 115 / 120% AD
+.
+AD ratio per hit increased to
+14.
+86
+/ 15.
+43
+/ 16 / 16.
+57
+/ 17.
+14
+% AD
+from
+14.
+29
+/ 15 / 15.
+71
+/ 16.
+43
+/ 17.
+14
+% AD
+.
+Ultrashock Laser
+Damage type changed to physical from magic.
+Base damage increased to 20 / 60 / 100 / 140 / 180 from 20 / 55 / 90 / 125 / 160.
+AD ratio increased to
+130% AD
+from
+100% AD
+.
+AP ratio reduced to
+25% AP
+from
+40% AP
+.
+Cast time changed to
+0.
+55
+− 0.
+3
+(based on
+bonus
+attack speed)
+seconds from
+0.
+594
+(at base attack speed)
+.
+Cast winddown time removed.
+Missile speed increased to 2500 from 2200.
+Laser delay increased to 0.
+85
+seconds from 0.
+75
+.
+Spark Surge
+Mana cost changed to 90 / 85 / 80 / 75 / 70 from 80 at all ranks.
+Cooldown reduced to 22 / 21 / 20 / 19 / 18 seconds from 24 / 22.
+5
+/ 21 / 19.
+5
+/ 18.
+Removed:
+Effect no longer ends after 3 casts of
+Burst Fire
+.
+Duration reduced to 5 seconds from 6.
+New Effect:
+Now deals
+20 / 22 / 24 / 26 / 28
+(+ 12%
+bonus
+AD)
+(+ 20% AP)
+bonus
+magic damage
+on-hit to the first enemy hit by
+Burst Fire
+while active. This damage is increased by
+0% − 65% (based on critical strike chance)
+.
+Burst Fire
+pierce damage increased to 80 / 85 / 90 / 95 / 100% from 60 / 70 / 80 / 90 / 100%.
+Self reveal distance increased to 1500 units from 850.
+Lightning Crash
+New:
+Zeri
+discharges a nova of electricity around her that deals 175 / 275 / 375
+(+ 100%
+bonus
+AD)
+(+ 110% AP)
+magic damage
+to nearby enemies.
+If
+Lightning Crash
+hits at least one enemy champion,
+Zeri
+becomes
+Overcharged
+for 5 seconds. Damaging an enemy increases the duration by 1.
+5
+seconds, up to its original duration.
+Overcharge:
+Zeri
+gains
+30%
+bonus
+attack speed
+and
+10%
+bonus
+movement speed
+.
+Burst Fire
+is empowered to have a 20% shorter cast time and instead fire 3 rounds that travel with increased speed. These attacks chain to the nearest
+visible
+enemy within 650-units of the target, up to 4 subsequent targets, dealing
+25% AD
+physical damage
+, which can
+critically strike
+for
+(18.
+75
+% +
+8.
+75
+%
+) AD
+bonus
+physical damage
+.
+Additionally,
+Zeri
+generates stacks from hitting enemy champions, gaining
+0.
+5
+%
+bonus
+movement speed
+per stack for 1.
+5
+seconds. She generates 1 stack for each one she hits with a
+charged
+basic attack or ability, increased to 3 on abilities that
+critically strike
+.
+Burst Fire
+grants stacks only against the first target hit.
+Old:
+Zeri
+discharges a nova of electricity around her that deals 150 / 250 / 350
+(+ 80%
+bonus
+AD)
+(+ 80% AP)
+magic damage
+to nearby enemies.
+If
+Lightning Crash
+hits at least one enemy champion,
+Zeri
+becomes
+Overcharged
+for 6 seconds.
+Overcharge:
+Zeri
+gains
+30%
+bonus
+attack speed
+.
+Burst Fire
+is empowered to have a 20% shorter cast time and instead fire 3 rounds that travel with increased speed and deal 5 / 10 / 15
+(+ 15% AP)
+bonus
+magic damage
+to the first enemy hit and the nearest
+visible
+enemy within 450-units of the target, chaining up to 4 subsequent targets. Secondary targets are dealt
+25% AD
+physical damage
+, which can
+critically strike
+for
+(18.
+75
+% +
+8.
+75
+%
+) AD
+bonus
+physical damage
+. The
+bonus
+magic damage
+is affected by
+critical strike
+modifiers.
+Additionally,
+Zeri
+generates stacks of
+Overcharge
+from hitting enemy champions, gaining
+0.
+5
+%
+bonus
+movement speed
+per stack. She generates 1 stack for each one she hits with a
+charged
+basic attack or ability, increased to 3 on abilities that
+critically strike
+and 8 on
+Lightning Crash
+.
+Burst Fire
+grants stacks only against the first target hit.
+Overcharge's
+duration is extended by 2 seconds whenever
+Zeri
+generates a stack, up to its original duration.
+V12.18
+Ultrashock Laser
+Bug Fix:
+Missile no longer fails to transform into a laser when passing through certain spots of terrain.
+V12.17
+Burst Fire
+Bug Fix:
+Animation no longer leaves vision for longer than intended when it killed minions.
+V12.16
+Burst Fire
+Total AD ratio reduced to
+100 / 105 / 110 / 115 / 120% AD
+from
+105 / 110 / 115 / 120 / 125% AD
+.
+AD ratio per hit reduced to
+14.
+29
+/ 15 / 15.
+71
+/ 16.
+43
+/ 17.
+14
+% AD
+from
+15 / 15.
+71
+/ 16.
+43
+/ 17.
+14
+/ 17.
+86
+% AD
+.
+Ultrashock Laser
+AD ratio reduced to
+100% AD
+from
+130% AD
+.
+AP ratio reduced to
+40% AP
+from
+60% AP
+.
+V12.14
+Basic Attack
+Removed:
+Uncharged basic attacks no longer deal 600% damage against targets below
+35%
+maximum
+health
+.
+Damage at 600% was equivalent to
+60 − 150 (based on level)
+(+ 18% AP)
+.
+New Effect:
+Uncharged basic attacks now execute targets below
+60 − 150 (based on level)
+(+ 18% AP)
+health.
+Does not execute if the target is shielded or invulnerable.
+Lightning Crash
+Chain lightning base damage reduced to 5 / 10 / 15 from 10 / 15 / 20.
+V12.12
+- June 30th Hotfix
+Lightning Crash
+Bonus movement speed per stack reduced to 0.
+5
+% from 1%.
+V12.12
+Stats
+Health regeneration growth increased to 0.
+7
+from 0.
+55
+.
+Ultrashock Laser
+Base damage increased to 20 / 55 / 90 / 125 / 160 from 10 / 45 / 80 / 115 / 150.
+AD ratio reduced to
+130% AD
+from
+150% AD
+.
+AP ratio reduced to
+60% AP
+from
+70% AP
+.
+V12.11
+- June 9th Hotfix
+Basic Attack
+Charged health ratio reduced to
+1% − 15% (based on level)
+of target's
+maximum
+health
+(quadratic growth formula) from
+3% − 15% (based on level)
+(linear, reaching the maximum value before level 18).
+Burst Fire
+Total AD ratio reduced to
+105 / 110 / 115 / 120 / 125% AD
+from
+110 / 115 / 120 / 125 / 130% AD
+.
+AD ratio per hit reduced to
+15 / 15.
+71
+/ 16.
+43
+/ 17.
+14
+/ 17.
+86
+% AD
+from
+15.
+71
+/ 16.
+43
+/ 17.
+14
+/ 17.
+86
+/ 18.
+57
+% AD
+.
+Spark Surge
+Cooldown increased to 24 / 22.
+5
+/ 21 / 19.
+5
+/ 18 seconds from 22 / 20.
+5
+/ 19 / 17.
+5
+/ 16.
+V12.11
+Basic Attack
+Health ratio increased to
+3% − 15% (based on level)
+of target's
+maximum
+health
+from
+1% − 10% (based on level)
+.
+Charged AP ratio increased to
+90% AP
+from
+80% AP
+.
+Removed:
+Charged attack no longer slows by
+18 / 26 / 34 / 42 / 50% (based on
+Burst Fire's rank)
+for 1 second.
+Burst Fire
+Total base damage increased to 8 / 11 / 14 / 17 / 20 from 7 / 9 / 11 / 13 / 15.
+Base damage per hit increased to 1.
+14
+/ 1.
+57
+/ 2 / 2.
+43
+/ 2.
+86
+from 1 / 1.
+29
+/ 1.
+57
+/ 1.
+86
+/ 2.
+14
+.
+Total AD ratio increased to
+110 / 115 / 120 / 125 / 130% AD
+from
+110 / 112.
+5
+/ 115 / 117.
+5
+/ 120% AD
+.
+AD ratio per hit increased to
+15.
+71
+/ 16.
+43
+/ 17.
+14
+/ 17.
+86
+/ 18.
+57
+% AD
+from
+15.
+71
+/ 16.
+07
+/ 16.
+43
+/ 16.
+79
+/ 17.
+14
+% AD
+.
+Ultrashock Laser
+New Effect:
+Now critically strikes for (75% +
+35%
+)
+bonus
+damage against champions and monsters if it collides with terrain.
+Reduces
+Spark Surge's
+cooldown by 1.
+5
+seconds and grants 3 stacks of
+Lightning Crash
+.
+AD ratio increased to
+150% AD
+from
+140% AD
+.
+Slow reduced to 30 / 35 / 40 / 45 / 50% from 30 / 40 / 50 / 60 / 70%.
+Cooldown reduced to 12 / 11 / 10 / 9 / 8 seconds from 13 / 12 / 11 / 10 / 9.
+Spark Surge
+Cooldown reduced to 22 / 20.
+5
+/ 19 / 17.
+5
+/ 16 seconds from 26 / 24.
+5
+/ 23 / 21.
+5
+/ 20.
+Cooldown reduction reduced to 0.
+5
+seconds from 1.
+Cooldown reduction on critical strikes reduced to 1.
+5
+seconds from 3.
+Lightning Crash
+New Effect:
+Stacks are now capped at 100000 stacks.
+Stack per champion hit increased to 8 from 4.
+Bonus movement speed per stack reduced to 1% from 1.
+5
+%.
+Cooldown reduced to 100 / 85 / 70 seconds from 120 / 95 / 70.
+V12.10
+Stats
+Base health increased to 600 from 530.
+Health growth increased to 109 from 95.
+Armor growth increased to 4.
+2
+from 3.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V12.7
+- April 14th Hotfix
+Stats
+Base health increased to 530 from 500.
+Ultrashock Laser
+Slow duration increased to 2 seconds at all ranks from 1 / 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2.
+AD ratio increased to
+140% AD
+from
+120% AD
+.
+Spark Surge
+Cooldown reduced to 26 / 24.
+5
+/ 23 / 21.
+5
+/ 20 seconds from 28 / 26.
+5
+/ 25 / 23.
+5
+/ 22.
+Cooldown reduction per
+Burst Fire
+critical strike increased to 2 seconds from 1.
+Lightning Crash
+Stack per
+Burst Fire
+critical strike increased to 2 from 1.
+V12.7
+Stats
+Base armor reduced to 20 from 22.
+Base attack damage reduced to 50 from 53.
+Attack damage growth reduced to 1.
+5
+from 2.
+Health growth increased to 95 from 90.
+Burst Fire
+Total base damage reduced to 7 / 9 / 11 / 13 / 15 from 10 / 15 / 20 / 25 / 30.
+Base damage per hit reduced to 1 / 1.
+29
+/ 1.
+57
+/ 1.
+86
+/ 2.
+14
+from 1.
+43
+/ 2.
+14
+/ 2.
+86
+/ 3.
+57
+/ 4.
+29
+.
+Total AD ratio increased to
+110 / 112.
+5
+/ 115 / 117.
+5
+/ 120% AD
+from
+110% AD
+at all ranks.
+AD ratio per hit increased to
+15.
+71
+/ 16.
+07
+/ 16.
+43
+/ 16.
+79
+/ 17.
+14
+% AD
+from
+15.
+71
+% AD
+at all ranks.
+New Effect:
+Now only applies on-hit effects once per cast.
+Now only reduces
+Spark Surge's
+cooldown and stacks
+Lightning Crash
+once per cast.
+Ultrashock Laser
+Base damage reduced to 10 / 45 / 80 / 115 / 150 from 40 / 75 / 110 / 145 / 180.
+AD ratio increased to
+120% AD
+from
+100% AD
+.
+AP ratio increased to
+70% AP
+from
+60% AP
+.
+Spark Surge
+Cooldown changed to 28 / 26.
+5
+/ 25 / 23.
+5
+/ 22 seconds from 23 at all ranks.
+New Effect:
+Cooldown is now reduced by an extra second if
+Burst Fire
+critically strikes.
+Lightning Crash
+Cooldown changed to 120 / 95 / 70 seconds from 100 / 90 / 80.
+New Effect:
+Now grants an extra stack if
+Burst Fire
+critically strikes.
+V12.5
+- March 9th Hotfix
+Stats
+Base attack damage reduced to 53 from 58.
+Health growth increased to 90 from 85.
+Base armor reduced to 22 from 23.
+Armor growth reduced to 3 from 3.
+5
+.
+Basic Attack
+Health ratio reduced to
+1% − 10% (based on level)
+of target's
+maximum
+health
+from
+3% − 15% (based on level)
+.
+Burst Fire
+Total base damage increased to 10 / 15 / 20 / 25 / 30 from 9 / 13 / 17 / 21 / 25.
+Base damage per hit increased to 1.
+43
+/ 2.
+14
+/ 2.
+86
+/ 3.
+57
+/ 4.
+29
+from 1.
+29
+/ 1.
+86
+/ 2.
+43
+/ 3 / 3.
+57
+.
+Spark Surge
+Cooldown increased to 23 seconds at all ranks from 23 / 22 / 21 / 20 / 19.
+Lightning Crash
+Bonus movement speed per stack reduced to 1.
+5
+% from 2%.
+Stack per champion hit increased to 4 from 3.
+V12.4
+Basic Attack
+Uncharged base damage reduced to
+10 − 25 (based on level)
+from
+15 − 40 (based on level)
+.
+Uncharged AP ratio reduced to
+3% AP
+from
+4% AP
+.
+Uncharged bonus damage factor against low health targets increased to 500% from 300%.
+Uncharged base damage against low health targets reduced to
+60 − 150 (based on level)
+from
+60 − 160 (based on level)
+.
+Uncharged AP ratio against low health targets increased to
+18% AP
+from
+16% AP
+.
+Charged slow duration reduced to 1 second from 1.
+5
+.
+New Effect:
+Now stacks
+Tear of the Goddess'
+Mana Charge.
+Burst Fire
+Basic Attack
+slow changed to 14 / 23 / 32 / 41 / 50% from 20 / 25 / 30 / 35 / 40%.
+Total base damage reduced to 9 / 13 / 17 / 21 / 25 from 10 / 15 / 20 / 25 / 30.
+Base damage per hit reduced to 1.
+29
+/ 1.
+86
+/ 2.
+43
+/ 3 / 3.
+57
+from 1.
+43
+/ 2.
+14
+/ 2.
+86
+/ 3.
+57
+/ 4.
+29
+.
+Bonus attack damage per excess attack speed increased to 0.
+6
+from 0.
+5
+.
+Removed:
+Cooldown is no longer reduced by
+Navori Quickblades
+.
+Removed:
+No longer stacks
+Tear of the Goddess'
+Mana Charge.
+New Effect:
+Base damage is now factored into its
+critical strike damage
+.
+Ultrashock Laser
+Cooldown changed to 13 / 12 / 11 / 10 / 9 seconds from 10 at all ranks.
+Slow reduced to 30 / 40 / 50 / 60 / 70% from 50 / 55 / 60 / 65 / 70%.
+Spark Surge
+Cooldown increased to 23 / 22 / 21 / 20 / 19 seconds from 23 / 21.
+5
+/ 20 / 18.
+5
+/ 17.
+Cooldown reduction reduced to 1 second from 1.
+5
+.
+Lightning Crash
+Bonus attack speed reduced to 30% at all ranks from 30 / 35 / 40%.
+V12.3
+General
+Bug Fix:
+Several VFX now properly display correctly upon reconnecting to a game.
+Stats
+Base movement speed reduced to 325 from 330.
+Basic Attack
+Health ratio reduced to
+3% − 15% (based on level)
+of target's
+maximum
+health
+from
+3% − 20% (based on level)
+Burst Fire
+Bug Fix:
+Runaan's Hurricane
+Winds Fury now triggers even if she is facing away from the target when the rounds hit.
+Spark Surge
+Bug Fix:
+Now properly vaults over
+Anivia's
+Crystallize
+and
+Trundle's
+Pillar of Ice
+instead of dashing over them.
+Lightning Crash
+Chain lightning base damage reduced to 10 / 15 / 20 from 10 / 20 / 30.
+New Effect:
+Chain lightning magic damage can now critically strike.
+V12.2
+- January 26th Hotfix
+Lightning Crash
+New Effect:
+Bonus magic damage now only applies once per attack, rather than as an on-hit effect.
+V12.2
+- Added
+Basic Attack
+Zeri
+generates 1 charge for every 40 units she travels by any means and 10 charge every time she casts
+Burst Fire
+, up to a maximum of 100 charge. Her basic attacks consume charge to deal
+modified
+damage.
+Zeri
+gains maximum charge when the game starts and upon respawning.
+Basic Attack:
+Zeri
+zaps her target, becoming
+non-projectile
+and applying spell effects as
+spell damage
+.
+Zeri's
+basic attacks
+cannot
+critically strike
+nor trigger
+on-hit
+and
+on-attack
+effects.
+While not at full charge,
+Zeri's
+attacks consume 10 charge to deal
+15 − 40 (based on level)
+(+ 4% AP)
+magic damage
+. Against enemies
+below
+35% health
+, this is increased
+「 by 300%. 」
+「 to
+60 − 160 (based on level)
+(+ 16% AP)
+. 」
+She may still use an uncharged attack even while below 10 charge.
+At full charge,
+Zeri's
+next attack will consume all charge to deal
+90 − 200 (based on level)
+(+ 80% AP)
+(+
+3% − 20% (based on level)
+of target's
+maximum
+health)
+magic damage
+and
+slow
+the target by
+20 / 25 / 30 / 35 / 40% (based on
+Burst Fire's rank)
+for 1.
+5
+seconds. The damage based on the target's health ratio is capped at 300 against
+monsters
+.
+Zeri's
+basic attacks have 500 attack range and are non-projectiles.
+Living Battery
+(Innate)
+Innate:
+Zeri
+absorbs the energy of
+shields
+she damages, shielding herself equal to 60% of the
+post-mitigation damage
+dealt to the shield. Each instance of shield gained by
+Living Battery
+lasts for 3 seconds.
+Innate:
+Whenever
+Zeri
+receives a
+shield
+, she gains
+10%
+bonus
+movement speed
+for 3 seconds.
+Burst Fire
+(Q)
+Passive:
+Zeri's
+slow
+application from a
+charged
+basic attack has its strength increased to 20 / 25 / 30 / 35 / 40%.
+Active:
+Zeri
+fires a burst of 7 rounds in the target direction that deal a total of 10 / 15 / 20 / 25 / 30
+(+ 110% AD)
+physical damage
+to the first enemy hit.
+Burst Fire's
+effects are treated as a basic attack; it can hit any enemy unit a typical basic attack can, deals
+basic damage
+, can
+critically strike
+for
+(82.
+5
+% +
+38.
+5
+%
+) AD
+bonus
+damage and apply
+on-hit
+and
+on-attack
+effects at 100% effectiveness once on each target struck.
+Burst Fire's
+cooldown and cast time scale down with
+attack speed
+, with the maximum of 1.
+5
+attacks per second. 50% of
+attack speed
+in excess of the cap is converted into
+bonus
+attack damage
+.
+Cost:
+None
+Cooldown:
+(1/
+Zeri's
+attack speed
+) seconds.
+Range:
+825
+,
+Width:
+80
+,
+Speed:
+2600
+/
+3400
+.
+Ultrashock Laser
+(W)
+Active:
+Zeri
+fires an electric pulse in the target direction that deals 40 / 75 / 110 / 145 / 180
+(+ 100% AD)
+(+ 60% AP)
+magic damage
+to the first enemy hit and
+slows
+them by 50 / 55 / 60 / 65 / 70% for 1 / 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 seconds. If the pulse collides with terrain, it transforms into a laser in a line from the point of impact that grants
+sight
+of the area for 1.
+75
+seconds and fires after 0.
+75
+seconds, applying the same effects to all enemies caught within.
+Mana Cost:
+50 / 60 / 70 / 80 / 90.
+Cooldown:
+10 seconds.
+Range:
+1200
+/
+1500
+,
+Width:
+80
+/
+200
+,
+Speed:
+2200
+/
+Instant
+.
+Spark Surge
+(E)
+Active:
+Zeri
+dashes
+in the target direction. Afterwards, she empowers her next 3 casts of
+Burst Fire
+within 6 seconds, causing them to pierce through enemies, though dealing 80 / 85 / 90 / 95 / 100% damage after the first and not applying attack effects to secondary targets. This damage is affected by
+critical strike
+modifiers.
+Zeri
+will dash farther across terrain if
+Spark Surge
+was cast within 50 units of any, gaining
+unobstructed vision
+of the surrounding 800 units and
+revealing
+herself while there are enemy champions within 800 units of her.
+Spark Surge's
+cooldown is reduced by 1.
+5
+seconds for every champion
+Zeri
+hits with
+charged
+basic attacks or abilities.
+Spark Surge
+resets
+Zeri's
+basic attack timer and
+Burst Fire's
+cooldown.
+Zeri
+can cast
+Ultrashock Laser
+and
+Lightning Crash
+while
+dashing
+.
+Mana Cost:
+80.
+Cooldown:
+23 / 21.
+5
+/ 20 / 18.
+5
+/ 17
+seconds.
+Range:
+300
+,
+Speed:
+600 +
+100% movement speed
+,
+Cast Time:
+None.
+Lightning Crash
+(R)
+Active:
+Zeri
+discharges a nova of electricity around her, dealing 150 / 250 / 350
+(+ 80%
+bonus
+AD)
+(+ 80% AP)
+magic damage
+to all nearby enemies.
+If
+Lightning Crash
+hits at least one enemy champion,
+Zeri
+becomes
+Overcharged
+for 6 seconds, and gains 3 stacks of
+Overcharge
+per champion hit. Each stack grants her
+2%
+bonus
+movement speed
+. She gains a stack of
+Overcharge
+each time she hits an enemy champion with a
+charged
+basic attack or ability, refreshing the duration of
+Overcharge
+by 2 seconds in the process.
+While
+Overcharged
+,
+Zeri
+gains
+30 / 35 / 40%
+bonus
+attack speed
+and deals
+10 / 20 / 30
+(+ 15% AP)
+bonus
+magic damage
+on-hit
+, and empowers
+Burst Fire
+to instead fire 3 rounds over a 20% shorter cast time that are electrified and travelling with increased speed. These rounds deal the
+bonus
+magic damage
+to the target struck and the closest
+visible
+enemy, chaining up to 4 subsequent targets. Secondary targets are dealt
+25% AD
+physical damage
+, which can
+critically strike
+for
+(43.
+75
+% +
+18.
+375
+%
+) AD
+physical damage
+.
+Mana Cost:
+100.
+Cooldown:
+100 / 90 / 80
+seconds.
+Effect Radius:
+825
+,
+Cast Time:
+0.
+25
+seconds.
+Trivia
+[
+edit
+|
+edit source
+]
+When
+Zeri
+and
+Ekko
+are on the same team, they gain a buff named
+Zaunite Ingenuity
+, which reads
+"Kids from the
+undercity
+stick together."
+Zeri
+'s splash was different upon release. After a few days it was edited to show a darker skintone, smaller and more detailed eyes, among other changes.
+Gif comparison
+.
+She is the only champion with 0 point at a skill by the client classification.
+In this case, her Utility rating is 0.
+Her Q can destroy Control wards without having vision on them.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Marksman
+Marksmen
+(formerly "Carries") excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger. Although Marksmen have the ability to stay relatively safe by kiting their foes, they are very fragile and are extremely reliant on powerful item purchases to become true damage threats.
+At present, Marksmen do not have any official subclasses. The following have been considered:
+Demolisher
+Scrapper
+Examples
+Ashe
+Ezreal
+Lucian
+Kai'Sa
+Jhin
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Bottom
+Within a
+drafted team
+, the
+Bottom Carry
+is one of the two champions assigned to the bottom lane alongside the
+Support
+. Being the most vulnerable, the
+Bottom Carry
+has to acquire as much gold as possible to purchase key items that will greatly increase their fighting potential.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Bottom Carry
+is expected to fulfill the former designation: the position is made for champions that highly depend on item-based power spikes.
+Marksmen
+are the most likely champions to be selected in the
+Bottom Carry
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Burst Fire
+STATIC CD:
+1 ÷
+Zeri's
+attack speed
+Active:
+Zeri
+fires a burst of 7 rounds in the target direction that each deal
+physical damage
+to the first enemy hit. This is treated as a
+basic attack
+, can
+critically strike
+, and applies
+on-hit
+and
+on-attack
+effects to the first enemy hit.
+The
+cooldown
+scales down with
+attack speed
+, up to a cap. A portion of the excess
+attack speed
+is converted into
+bonus
+attack damage
+.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Invulnerability
+A unit that is
+Invulnerable
+reduces all damage taken to
+0
+and prevents effects that trigger from damage.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Basic attack
+The
+basic attack
+(or
+auto-attack
+) is the most basic means of a unit to deal damage to another unit, usually dealing
+100% AD
+. It has a brief cooldown based on the caster's current
+attack speed
+.
+All
+basic attacks
+are normally unit-targeted with their range limited by the caster's
+attack range
+, and have a brief attack
+windup
+. Damage is then dealt depending on the caster's range type:
+Melee
+and some projectile-less ranged attacks deal damage immediately.
+Ranged
+attacks usually send a projectile that follows the target and deals damage upon striking them. Projectiles can be intercepted by certain
+blocking
+effects.
+The damage event will trigger
+on-hit effects
+from buffs the caster may hold. If damage cannot be dealt, on-hit effects will not be triggered.
+On-attack
+effects will always trigger when the attack's
+windup
+completes.
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Lightning Crash
+COOLDOWN:
+80 / 75 / 70
+Active:
+Zeri
+explodes to deal
+magic damage
+to nearby enemies. If this hits at least one enemy champion, she enters
+Overcharged
+for a few seconds. Damaging an enemy will extend
+Overcharged
+.
+Overcharged:
+Zeri
+gains
+bonus
+attack speed
+and
+bonus
+move speed
+.
+Burst Fire
+is empowered to instead fire 3 rounds that can chain up to 4 surrounding enemies to deal
+physical damage
+.
+During
+Overcharged
+,
+Zeri
+generates a stack of
+Overcharge
+for each enemy champion hit by her abilities and
+charged
+basic attacks, increased on abilities that
+critically strike
+. For each stack, she briefly gains
+bonus
+move speed
+.
+League of Legends content
+Tantrum
+COOLDOWN:
+9 / 8 / 7 / 6 / 5
+Passive:
+Amumu
+gains damage reduction against
+physical damage
+.
+Tantrum's
+cooldown is reduced whenever he is hit by a
+basic attack
+.
+Active:
+Amumu
+releases his anger, dealing
+magic damage
+to nearby enemies.
+League of Legends content
+Nimble Fighter
+Innate:
+Fizz
+ignores
+unit collision
+, and takes reduced damage.
+League of Legends content
+Eclipse
+COOLDOWN:
+14 / 13 / 12 / 11 / 10
+Active:
+Leona
+raises her
+guard
+for a short time, gaining flat damage reduction,
+bonus
+armor
+and
+bonus
+magic resistance
+.
+Her shield detonates afterward, dealing
+magic damage
+to all nearby enemies. If this hits an enemy,
+Leona's
+guard
+is extended for a short time.
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Powder Keg
+RECHARGE:
+17 / 16 / 15 / 14 / 13
+Active:
+Gangplank
+places a
+Powder Keg
+at the target location, which can be basic attacked or
+shot
+to damage it. If an enemy destroys a
+Powder Keg
+, it is safely dismantled.
+If
+Gangplank
+destroys a
+Powder Keg
+, it will explode to deal the
+attack's damage
+to nearby enemies and
+slow
+them. Against an enemy
+champion
+, the explosion additionally deals
+bonus
+physical damage
+and ignores a
+portion of their armor
+.
+The explosion will cause nearby
+Powder Kegs
+to also explode.
+Gangplank
+stocks a
+Powder Keg
+every few seconds, up to a maximum.
+League of Legends content
+Dark Procession
+COOLDOWN:
+20 / 18 / 16 / 14 / 12
+Active:
+Yorick
+summons a destructible ring of spirits at the target location that
+knocks aside
+enemies hit. It remains as
+terrain
+against enemies for a few seconds,
+League of Legends content
+Spark Surge
+COOLDOWN:
+22 / 21 / 20 / 19 / 18
+Active:
+Zeri
+dashes
+in the target direction, she will dash across any
+terrain
+she hits. Afterwards, she gains
+Lightning Rounds
+for a short time.
+Spark Surge's
+cooldown is
+reduced
+for every enemy
+champion
+hit by her
+charged
+basic attacks and abilities, increased on
+critical strikes
+.
+Lightning Rounds:
+Burst Fire
+deals
+bonus
+magic damage
+to the first enemy hit and will pierce through enemies to deal modified damage.
+League of Legends content
+Sentinel
+RECHARGE:
+90 / 80 / 70 / 60 / 50
+Passive - Soul-Marked:
+While
+Kalista
+and her
+Oathsworn
+are
+tethered
+, their basic attacks and
+Pierce
+apply a
+Soul-Mark
+to their targets for a few seconds. If both
+Soul-Marks
+are applied to the same target, they take
+bonus
+magic damage
+.
+Passive:
+Kalista
+periodically
+stocks
+a
+Sentinel
+charge, up to a cap.
+Active:
+Kalista
+summons a
+Sentinel
+that patrols back and forth on a path to the target location, granting
+sight
+along its trajectory as it travels.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Zeri's profile page
+at
+LeagueOfLegends.com

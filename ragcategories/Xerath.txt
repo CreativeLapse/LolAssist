@@ -1,0 +1,2320 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Xerath
+the Magus Ascendant
+Release date
+2011-10-05
+Last changed
+V14.9
+Class(es)
+Artillery
+Legacy
+Mage
+Support
+Position(s)
+Middle
+Support
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+1350
+|
+585
+Crafting
++
+810
+Ratings
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+1
+Utility
+1
+Style
+Difficulty
+Xerath
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Xerath
+Base statistics
+Edit
+Health
+596
++106
+Mana
+400
++22
+Health regen. (per 5s)
+5.5
++0.55
+Mana regen. (per 5s)
+6.85
++0.8
+Armor
+22
++4.7
+Attack damage
+55
++3
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+340
+Attack range
+525
+Attack speed
+Base AS
+0.658
+Attack windup
+20%
+AS ratio
+0.625
+Bonus AS
++1.36
+%
+Missile speed
+2000
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+600
+Special statistics
+Damage Dealt
+-7%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++3%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Mana Surge
+STATIC COOLDOWN
+:
+16
+Innate:
+Periodically,
+Xerath's
+next basic attack restores
+mana
+, doubled against an enemy
+champion
+. Killing enemies
+reduces
+this ability's
+cooldown
+.
+Innate:
+Periodically,
+Xerath
+empowers his next
+basic attack
+to restore
+30 − 195 (based on level)
+mana
+, doubled to
+60 − 390 (based on level)
+against enemy
+champions
+.
+Mana Surge's
+cooldown
+is reduced by 2.
+5
+seconds whenever
+Xerath
+kills an enemy.
+Mana Surge does not trigger if
+Xerath
+would restore above
+his
+maximum
+mana
+.
+Info
+Targeting input
+Passive
+Counters
+Parries
+Missing
+Mana Surge
+triggers against structures.
+Mana Surge
+will trigger even if the attack is
+blocked
+.
+The empowered attack will not trigger against
+structures
+.
+PENDING FOR TEST:
+:
+Mana Surge's
+interactions with
+dodging
+, and
+blinding
+effects.
+Map-Specific Differences
+Arena
+differences
+edit
+Passive damage to plants changed to 2.
+Edit
+Arcanopulse
+COST:
+80 / 90 / 100 / 110 / 120 mana
+COOLDOWN
+:
+9 / 8 / 7 / 6 / 5
+CAST TIME:
+none
+RANGE:
+700 − 1450 (based on channel time)
+WIDTH:
+140
+Active:
+Xerath
+charges
+up to a short time, increasing the
+range
+of his beam.
+Arcanopulse
+can be recast within the duration and will cancel automatically afterwards, refunding half the
+mana cost
+.
+Recast:
+After a brief delay,
+Xerath
+fires a beam of energy in a line in the target direction that deals
+magic damage
+to enemies hit.
+Active:
+Xerath
+charges
+while being
+slowed
+by
+0% − 40% (based on channel time)
+for up to 3 seconds to increase
+Arcanopulse's
+range
+over the first 1.
+5
+to 1.
+75
+seconds of the channel.
+Arcanopulse
+can be recast within the duration. If the charge is
+interrupted
+or completes without reactivation,
+Arcanopulse
+is cancelled and refunds
+half the mana cost
+.
+Mana Refunded:
+40 / 45 / 50 / 55 / 60
+Recast:
+Xerath
+becomes
+unable to act
+for
+0.
+528
+seconds
+and afterwards fires a beam of energy in a line in the target direction that deals
+magic damage
+to enemies hit.
+Magic Damage:
+70 / 110 / 150 / 190 / 230
+(+ 85% AP)
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Disruption
+Interrupted
+The onset of
+Arcanopulse's
+self-
+slow
+and first range increase is at a random interval of 0 to 0.
+25
+seconds. The real time to maximum self-slow and range is thus 1.
+5
+to 1.
+75
+seconds.
+The rectangle hitbox's minimum range is
+0, right through
+Xerath's
+center.
+Arcanopulse
+will not fire and deal damage if
+Xerath
+dies during the
+0.
+528
+seconds
+recast delay.
+(bug)
+The following table refers for interactions while
+Xerath
+is
+channeling
+:
+Type
+Charge channel
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Allowed
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled, but can still use trinkets.
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Disabled
+Teleport
+Recall
+Interrupted by
+Hexflash
+(Recasts)
+Interrupted by
+Death
+Cast-inhibiting effects
+The following table refers for interactions while
+Xerath
+is locked out during the
+0.
+528
+seconds
+recast delay:
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 100 / 140 / 180 / 220 / 260.
+Edit
+Eye of Destruction
+COST:
+80 / 90 / 100 / 110 / 120 mana
+COOLDOWN:
+14 / 13 / 12 / 11 / 10
+CAST TIME:
+0.
+25
+TARGET RANGE:
+1000
+EFFECT RADIUS:
+275
+/
+125
+/
+250
+Active:
+Xerath
+casts down a blast of energy that strikes the target location after a brief delay, dealing
+magic damage
+and
+slowing
+enemies hit. The effects are increased against enemies in the epicenter.
+Active:
+Xerath
+casts down a blast of arcane energy that strikes the target location after
+0.
+528
+seconds
+, briefly granting
+sight
+of the area and dealing
+magic damage
+to enemies hit and
+slowing
+them by 25% for 2.
+5
+seconds.
+Magic Damage:
+60 / 95 / 130 / 165 / 200
+(+ 60% AP)
+Enemies in the epicenter take 66.
+7
+% increased damage and are
+slowed
+by a greater amount, decaying to 25% over the duration.
+Increased Damage:
+100.
+02
+/ 158.
+365
+/ 216.
+71
+/ 275.
+055
+/ 333.
+4
+(+ 100.
+02
+% AP)
+Increased Slow:
+60 / 65 / 70 / 75 / 80%
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Xerath's
+location gets
+revealed
+to the enemy (400 radius for 4.5 seconds) if
+Eye of Destruction's
+cast location is within 100 units of a valid enemy at the start of the cast time due to something related to targeting types.
+(bug)
+Eye of Destruction'
+s
+targeting
+indicator appears on the player's minimap, despite the ability not having the longer range of others with this quality.
+Eye of Destruction
+will not fire and deal damage if
+Xerath
+dies during the 0.25s cast time.
+(note)
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 90 / 125 / 160 / 195 / 230.
+Base slow changed to 40%.
+Enhanced slow is unchanged.
+Cooldown changed to 10 seconds at all ranks.
+Edit
+Shocking Orb
+COST:
+60 / 65 / 70 / 75 / 80 mana
+COOLDOWN:
+13 / 12.
+5
+/ 12 / 11.
+5
+/ 11
+CAST TIME:
+0.
+25
+RANGE:
+1125
+WIDTH:
+120
+SPEED:
+1400
+Active:
+Xerath
+fires an orb of energy in the target direction that deals
+magic damage
+to the first enemy hit,
+stunning
+them based on travel distance.
+Active:
+Xerath
+fires an orb of energy in the target direction that deals
+magic damage
+to the first enemy hit and
+stuns
+them for
+0.
+75
+− 2.
+25
+(based on orb travel distance)
+seconds.
+Magic Damage:
+80 / 110 / 140 / 170 / 200
+(+ 45% AP)
+Info
+Targeting input
+Direction
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+This ability will cast from wherever the caster is at the end of the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+Minimum stun duration changed to 1.
+25
+seconds.
+Maximum stun duration changed to 2.
+5
+seconds.
+Cooldown changed to 11 / 10.
+5
+/ 10 / 9.
+5
+/ 9 seconds.
+Edit
+Rite of the Arcane
+COST:
+100 mana
+COOLDOWN
+:
+130 / 115 / 100
+CAST TIME:
+none
+TARGET RANGE:
+5000
+EFFECT RADIUS:
+200
+Active:
+Xerath
+channels
+up to a period, being able to fire several arcane missiles across the surrounding area. If
+Rite of the Arcane
+ends without using any recasts, half of the cooldown is
+refunded
+.
+Recast - Arcane Barrage:
+Xerath
+catapults an arcane missile to the target location that deals
+magic damage
+to enemies hit. Hitting enemy champions increases the damage of the following missiles, up to a cap.
+Rite of the Arcane's
+range is always
+visible
+.
+Xerath
+will
+reveal
+himself if a missile lands near an enemy.
+Active:
+Xerath
+channels
+for up to 10 seconds, gaining the ability to recast
+Rite of the Arcane
+multiple times after 0.
+5
+seconds within the duration. If
+Rite of the Arcane
+ends without any of the recasts being used, half of its
+cooldown
+is refunded.
+Number of Recasts:
+4 / 5 / 6
+Recast - Arcane Barrage:
+Xerath
+catapults an arcane missile that strikes the target location after a
+0.
+627
+seconds
+delay, briefly granting
+sight
+of the area and dealing
+magic damage
+to enemies hit. Each cast has a
+static cooldown
+of 0.
+5
+seconds.
+Magic Damage:
+180 / 230 / 280
+(+ 40% AP)
+Total Magic Damage:
+720 / 1150 / 1680
+(+ 160 / 200 / 240% AP)
+Hitting at least one enemy champion grants a stack of
+Arcane Perfection
+during the channel, stacking up to a maximum amount. Each stack increases
+Arcane Barrage's
+damage.
+Maximum Stacks:
+3 / 4 / 5
+Increased Damage per Stack:
+20 / 25 / 30
+(+ 5% AP)
+Xerath
+will
+reveal
+himself if a missile strikes near an enemy.
+Distance:
+175 / 200 / 225
+Rite of the Arcane's recast will cast at max range if cast beyond that.
+Info
+Targeting input
+Auto
+/
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Disruption
+Interrupted
+Each cast counts as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Arcane Barrage
+will not apply its increased damage per stack to the cast that granted the stack.
+Only successive casts of the ability will benefit from the damage increase.
+A circular indicator will be displayed at the target location to signify that the area will be blasted.
+A circle indicating the ability's maximum range forms on the map over 1 second (starting small and rapidly expanding to the maximum range over the delay) for the channel's duration.
+The maximum-range indicator is visible to both allies and enemies and is color coded for friendly (blue) or hostile (red).
+Rite of the Arcane
+uses a
+barrage system
+so that it can be recast multiple times within a given period at no additional cost.
+Xerath
+will turn to face toward the direction of the target location after using a recast.
+Xerath
+gains a wider field of view during
+Rite of the Arcane
+.
+Xerath
+can use
+Dark Passage
+while channeling.
+The following table refers for interactions while
+Xerath
+is
+channeling
+:
+Teleport
+and
+Recall
+are disabled for the first 1.
+25
+seconds and otherwise interrupt the channel if they are used.
+Type
+Channel
+Attacking
+Interrupts
+Abilities
+Disabled
+Movement
+Disabled for the first 1.
+25
+seconds, otherwise, interrupts.
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+Hextech Rocketbelt
+Interrupted by
+All item-actives not specified above interrupt
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Hexflash
+Interrupted by
+Teleport
+Recall
+Interrupted by
+Death
+Cast-inhibiting effects
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 85 / 120 / 155.
+Total base damage changed to 340 / 600 / 930.
+Bonus damage per stack changed to 30 / 35 / 40.
+Cooldown changed to 50 seconds at all ranks.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Xerath (Collection)
+.
+Original
+View in 3D
+880
+05.10.2011
+Xerath is an Ascended Magus of ancient Shurima, a being of arcane energy writhing in the broken shards of a magical sarcophagus. For millennia, he was trapped beneath the desert sands, but the rise of Shurima freed him from his ancient prison. Driven insane with power, he now seeks to take what he believes is rightfully his and replace the upstart civilizations of the world with one fashioned in his image.
+Michael McConnohie
+Michal Ivan, Puppetworks Animation Studio
+Loot eligible
+Runeborn
+View in 3D
+750
+05.10.2011
+Michael McConnohie
+Unknown artist
+Legacy
+Loot eligible
+New SFX/VFX
+Battlecast
+View in 3D
+520
+05.10.2011
+The question of the human soul has always intrigued Viktor, and so he set to work building a Battlecast machine capable of harnessing it. The resulting Xerath units are twisted, hellish monsters imprisoned in a cage of psychic energy, constantly discharging superheated plasma toward any opponent in range.
+Michael McConnohie
+Unknown artist
+Battlecast
+Loot eligible
+New SFX/VFX
+Scorched Earth
+View in 3D
+1350
+13.07.2012
+A highly unstable creature born from roiling magma, Xerath possesses a keen intellect, awaiting the day he might ascend through the ranks of the Infernal war machine, and usurp the Ashen Lord himself. For now his ambitions remain secret, but… soon… soon…
+Michael McConnohie
+Unknown artist
+Infernal
+Loot eligible
+New SFX/VFX
+Guardian of the Sands
+View in 3D
+1350
+26.04.2015
+Xerath, the liquid light—ancient guardian of the sands, we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest you drown them in your purifying radiance.
+Michael McConnohie
+Sixmorevodka Studio
+Guardian of the Sands
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Dark Star
+View in 3D
+1350
+26.03.2020
+As the Dark Star continued on its path across space, it passed through a vibrant system orbiting a supergiant star. Consuming all life and light as it passed , the Dark Star twisted the supergiant into a wrathful corruptant. Thus, Xerath was born—a dark being of malice and annihilation.
+Michael McConnohie
+Katya Cyan, West Studio
+Dark Star
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dark Star Xerath Chromas
+Antimatter
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Arcana
+View in 3D
+1350
+13.05.2021
+Ensnared by his own desires, Xerath leads citizens of Low Arcana to act on their basest urges. The more they are entranced by the forbidden, the more his power grows. But while Xerath believes their temptation will lead to his deliverance, he does not realize that the stronger he becomes, the more tightly his chains bind him.
+Michael McConnohie
+David Villegas, West Studio
+Arcana
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Arcana Xerath Chromas
+Amethyst
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Astronaut
+View in 3D
+1350
+24.02.2023
+An obsessive chemist driven by power, Xerath discovered the invader meeps and devoted his life to researching how to harness their energy. After an explosion during one of his experiments, his body was permanently mutated. Now, fully consumed by the corrupted meeps, Xerath traverses the galaxy, seeking to spread his malice across the cosmos.
+Michael McConnohie
+Lejia Chan, Kudos Productions
+Astronauts
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Astronaut Xerath Chromas
+Amethyst
+Catseye
+Obsidian
+Rose Quartz
+Ruby
+Sandstone
+Sapphire
+Turquoise
+Crystalis Indomitus
+View in 3D
+Special
+12.06.2024
+Once a humble fisherman, Xerath returned from a voyage with a multitude of magical crystals in tow. Their power elevated him to become a leader of his people, ushering in what he hoped would be a new era of the Prismae Crystals' rule. But the cost of such power damaged his mind, leaving him suspicious that no thoughts are to be trusted… even his own.
+Michael McConnohie
+Zoe Zhu, West Studio
+Crystalis Indomitus
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Crystalis Indomitus Xerath Chromas
+Fractured
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.9
+Stats
+Selection radius increased to 120 units from 88.
+8889007568359
+.
+Arcanopulse
+,
+Eye of Destruction
+,
+Shocking Orb
+Bug Fix:
+No longer reference to his long-deprecated ammo system.
+Eye of Destruction
+Bug Fix:
+Vision bubble is no longer inconsistent inside terrain, causing some targets to remain undetected in its radius.
+V14.7
+General
+Adjusted splash artwork for
+Guardian of the Sands Xerath
+.
+V13.22
+General
+The two basic attack animations now have a 50% chance to play instead of 75% for the first and 25% for the second.
+Stats
+Base attack speed increased to 0.
+658
+from 0.
+625
+.
+Attack windup reduced to 20% from 25.
+074
+%.
+V13.17
+Stats
+Base mana regeneration reduced to 6.
+85
+from 8.
+Mana Surge
+Cooldown refund increased to 2.
+5
+seconds from 2.
+Eye of Destruction
+Mana cost increased to 80 / 90 / 100 / 110 / 120 from 70 / 80 / 90 / 100 / 110.
+V13.15
+Rite of the Arcane
+Bug Fix:
+Stacking damage buff is now properly applied to the last recast.
+V13.14
+Stats
+Base mana reduced to 400 from 459.
+Mana Surge
+Cooldown increased to 16 seconds from 12.
+New Effect:
+Cooldown is now reduced by 2 seconds per unit killed.
+New Effect:
+Now triggers against structures.
+Rite of the Arcane
+Number of recasts increased to 4 / 5 / 6 from 3 / 4 / 5.
+Base damage reduced to 180 / 230 / 280 from 200 / 250 / 300.
+AP ratio reduced to
+40% AP
+from
+45% AP
+.
+New Effect:
+Hitting at least one enemy champion grants a stack of Arcane Perfection during the channel, stacking up to 4 / 5 / 6 times. Each stack increases Arcane Barrage's damage by 20 / 25 / 30
+(+ 5% AP)
+.
+V13.4
+General
+Bug Fix:
+Emote SFX no longer continue to play even after the animation was interrupted halfway.
+V13.1
+Arcanopulse
+Undocumented:
+Now fizzles if Xerath dies after releasing the charge.
+V12.18
+Rite of the Arcane
+Bug Fix:
+Range indicator when the ability is hovered in the HUD with the cursor is no longer unintentionally removed.
+V12.14
+General
+Bug Fix:
+Knocked up/stunned animation is now correctly played.
+V12.10
+Stats
+Base health increased to 596 from 526.
+Health growth increased to 106 from 92.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V12.8
+Shocking Orb
+Stun duration increased to
+0.
+75
+− 2.
+25
+(based on distance the orb traveled)
+from
+0.
+5
+− 2 (based on distance the orb traveled)
+.
+V11.22
+Rite of the Arcane
+Bug Fix:
+Can no longer redirect the damage of the missiles before they land.
+V11.9
+Arcanopulse
+Base damage reduced to 70 / 110 / 150 / 190 / 230 from 80 / 120 / 160 / 200 / 240.
+AP ratio increased to
+85% AP
+from
+75% AP
+.
+Eye of Destruction
+Base damage increased to 60 / 95 / 130 / 165 / 200 from 60 / 90 / 120 / 150 / 180.
+Maximum base damage increased to 100.
+02
+/ 158.
+365
+/ 216.
+71
+/ 275.
+055
+/ 333.
+4
+from 100.
+02
+/ 150.
+03
+/ 200.
+04
+/ 250.
+05
+/ 300.
+06
+.
+V11.1
+Stats
+Base attack damage increased to 55 from 54.
+7
+.
+Base armor increased to 22 from 21.
+88
+.
+V10.9
+General
+New voice lines from Ascension added.
+V10.6
+General
+Recommended items updated.
+Eye of Destruction
+Bonus damage increased to 66.
+7
+% from 50%.
+Rite of the Arcane
+Base damage increased to 200 / 250 / 300 from 200 / 240 / 280.
+AP ratio increased to
+45% AP
+from
+43% AP
+.
+V9.15
+Arcanopulse
+Bug Fix:
+No longer causes small hitches to characters on or sometimes off-screen when cast.
+Rite of the Arcane
+Target range changed to 5000 at all ranks from 3200 / 4400 / 5600.
+V9.1
+Rite of the Arcane
+New Effect:
+Can now ping whether the ability is within range or not.
+V8.9
+Stats
+Base mana increased to 459 from 366.
+96
+.
+Mana growth reduced to 22 from 44.
+Base mana regeneration increased to 8 from 6.
+V8.3
+Stats
+Base health regeneration increased to 5.
+5
+from 5.
+424
+.
+V7.22
+Stats
+Base health increased to 526 from 514.
+4
+.
+Health growth increased to 92 from 80.
+V7.19
+September 27th Hotfix
+Arcanopulse
+Bug Fix:
+Fixed a bug where only half of the particles were displayed on cast.
+V7.18
+Eye of Destruction
+Bug Fix:
+Slow now correctly decays from 25% to 13% once, not twice.
+V7.15
+Eye of Destruction
+Slow increased to 25% from 10%.
+Rite of the Arcane
+Base damage increased to 200 / 240 / 280 from 200 / 230 / 260.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V6.24
+Rite of the Arcane
+Bug Fix:
+Re-fixed a bug preventing
+Rite of the Arcane
+from damaging
+Baron Nashor
+if cast from too far away.
+V6.16
+Eye of Destruction
+Bug Fix:
+No longer fires in weird directions when cast while the cursor is hovering over the minimap.
+V6.9
+Arcanopulse
+Width reduced to 145 from 150.
+Warning indicator now better matches the damage zone.
+Shocking Orb
+Stun
+duration changed to 0.
+5
+-2 seconds from 0.
+75
+-1.
+75
+.
+Rite of the Arcane
+Number of barrages increased to 3 / 4 / 5 from 3 at all ranks.
+Base damage changed to 200 / 230 / 260 from 190 / 245 / 300.
+Total damage increased to 600 / 920 / 1300
+(+ 129 / 172 / 215% AP)
+from 570 / 735 / 900
+(+ 129% AP)
+.
+Range increased to 3520 / 4840 / 6160 from 3200 / 4400 / 5600
+Impact radius increased to 200 from 190.
+Delay between shots increased to 0.
+8
+seconds from 0.
+6
+.
+New Effect:
+Camera now zooms out a bit when casting this spell.
+Updated particles.
+V6.7
+Rite of the Arcane
+Bug Fix:
+The cast range indicator for
+Rite of the Arcane
+has been shrunk to match the ability’s actual range.
+Bug Fix:
+Rite of the Arcane
+no longer fails to deal damage to
+Baron Nashor
+at extreme ranges.
+V5.22
+Stats
+Base mana increased to 366.
+96
+from 316.
+96
+.
+Mana growth reduced to 44 from 47.
+V5.8
+Rite of the Arcane
+Fixed a bug where Xerath could accidentally fire his first
+Arcane Barrage
+on top of himself if he pressed R too fast.
+V5.4
+Shocking Orb
+Maximum stun duration reduced from 2.
+25
+seconds to 1.
+75
+seconds.
+V5.1
+Shocking Orb
+Tooltip updated to reflect the actual maximum stun duration of 2.
+25
+seconds from incorrectly listing 2 seconds.
+V4.17
+General
+Texture updates to Classic, Battlecast, and Runeborn Xerath.
+V4.16
+General
+New lore.
+Additional quotes, including special quotes for Ascension.
+V4.15
+Eye of Destruction
+Spellthief's Edge
+,
+Frostfang
+and
+Frost Queen's Claim
+no longer proc twice when Xerath hits targets in the center of his spell.
+V4.14
+Rite of the Arcane
+The 0.6 second cooldown between casts no longer benefits from cooldown reduction.
+V4.5
+Base armor increased to 16 from 12.
+V4.2
+Reworked
+Additional quotes, including special taunts for
+Syndra
+and
+Thresh
+.
+Stats
+Base mana reduced to to 238 from 250.
+Mana per level increased to 47 from 45.
+Base mana regeneration reduced to 6 from 7.
+Mana regeneration per 5 per level increased to 0.
+65
+from 0.
+6
+.
+Attack range reduced to 525 from 550.
+Attack animation slightly shortened.
+Mana Surge
+(Innate)
+Every 12 seconds, Xerath's next basic attack will restore 30 - 195 mana. The amount of mana restored is doubled if the attack target is a champion
+Arcanopulse
+(Q)
+First Cast:
+Xerath starts charging, gradually increasing Arcanopulse's range from 700 to 1400 while slowing down movement speed by up to 50% over the next 1.
+5
+seconds seconds. After 3 seconds, Arcanopulse cancels and half the mana cost is refunded.
+Second Cast:
+After a brief cast time, Xerath fires a beam of energy in a line the deals magic damage to all enemies hit.
+Base damage increased to 80 / 120 / 160 / 200 / 240
+(+ 75% AP)
+from 75 / 115 / 155 / 195 / 235
+(+ 60% AP)
+.
+Cooldown adjusted to 9 / 8 / 7 / 6 / 5 from 7 / 6.
+5
+/ 6 / 5.
+5
+/ 5.
+Mana cost increased to 80 / 90 / 100 / 110 / 120 from 65 / 70 / 75 / 80 / 85.
+Eye of Destruction
+(W)
+Active:
+Calls down a ground-targeted blast of energy, dealing 60 / 90 / 120 / 150 / 180
+(+ 60% AP)
+magic damage to all enemies caught within the blast and slowing them by 10%. Enemies caught in the middle of the blast instead take 90 / 135 / 180 / 225 / 270
+(+ 90% AP)
+magic damage and are slowed by 60 / 65 / 70 / 75 / 80% instead.
+Cooldown: 14 / 13 / 12 / 11 / 10 seconds
+Mana cost: 70 / 80 / 90 / 100 / 110
+Range: 1000
+Shocking Orb
+(E)
+Active:
+Xerath fires a orb of energy forward in a line that detonates on striking an enemy, dealing magic damage and stunning them for between 0.
+75
+and 2 seconds. The stun duration is longer the further the Shocking Orb has travelled.
+Cooldown: 18 / 16 / 14 / 12 / 10 seconds
+Mana cost: 60 / 65 / 70 / 75 / 80
+Range: 1000
+Rite of the Arcane
+(Ultimate)
+Active:
+Xerath roots himself in place and gains three shots of Arcane Barrage, a very long range magic artillery that does 190 / 245 / 300
+(+43% AP)
+magic damage to all enemies hit. Xerath can cancel this effect early. Half of the cooldown is refunded if no shots of Arcane Barrage were used.
+Cooldown: 130 / 115 / 100 seconds
+Mana cost: 100 at all ranks
+Range: 3200 / 4400 / 5600
+Trivia
+[
+edit
+|
+edit source
+]
+When Xerath
+dies
+, his body quickly becomes unstable and overly shiny, just to blow up a moment later, much like a nuclear-powered machine.
+The icon for Xerath's ability,
+Arcanopulse
+is slightly similar to that of the Season 3 mastery
+Blast
+.
+Xerath's dance is a reference "industrial dancing", which is evident in the song
+Pong by Eisenfunk
+.
+A side-by-side comparison can be seen
+here
+.
+Xerath himself can be seen when he performs his taunt. As he disarms the parts of his sarcophagus, a person made of pure energy or electricity can be briefly seen.
+When he dies this "person" disappears, what remains on the ground are the shattered remains of his sarcophagus.
+It's likely that that form was his actual look before he got locked away.
+Some speculate that Xerath is ambidextrous as he uses both left and right hands for different attacks and abilities, unlike most champions who almost always use their dominant hand (usually their right one).
+Xerath,
+Blitzcrank
+,
+Caitlyn
+,
+Lissandra
+,
+Rumble
+,
+Sion
+,
+Varus
+,
+Vi
+,
+Viego
+, and
+Ziggs
+are the only champions who can apply
+crowd control
+on themselves.
+Xerath's ethereal form imprisoned in a human-shapen sarcophagus also resembles
+Battle Realms
+'
+Master Warlock
+, consisting of an ethereal warlock inside another warlock's skeletal remains.
+Xerath features as the
+Ancient Ascendant
+in the
+Ascension
+featured game mode
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Artillery
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Artillery Mages
+are the masters of range, and they leverage that advantage to whittle down their opponents over time from great distances. In turn, Artillery Mages are severely punished when enemies finally succeed in closing in on them, due to their extreme fragility and limited mobility.
+Examples
+Jayce
+Xerath
+Ziggs
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Interrupt
+Interrupt
+is a quality of crowd control that
+interrupts
+an in-progress effect, preventing its completion or causing the effect to go off at an
+interrupted
+state.
+The following crowd control effects
+interrupt
+channeled and charged
+abilities (unless otherwise noted by the ability):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+The following crowd control effects
+interrupt
+dashes
+:
+Airborne
+Knockdown
+Stasis
+Basic attack windups
+are
+interrupted
+by all forms of crowd control that inhibit attacking.
+Ground
+and
+Root
+only
+interrupt
+channeled and charged movement abilities.
+League of Legends content
+Lockout
+A champion that is
+locked out
+is unable to perform certain actions such as casting abilities, moving, or attacking. The prevented actions can vary per instance.
+Lockout does not interact with
+crowd control
+mechanics unless otherwise stated.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Obscured vision
+An
+obscured
+target only has their position revealed to the enemy—such as through a silhouette or movement pattern as a visual effect—but their unit remains an un-rendered target for selection (i.e. they cannot be selected for
+unit-targeted
+attacks, draw
+monster
+aggro). The revealed silhouettes' color is different among
+champions
+, wards, and all other non-champion units (default:
+red
+,
+blue
+, and
+purple
+; respectively).
+This is distinct from being
+untargetable
+, as an
+obscured unit
+is still vulnerable to
+auras
+,
+direction-targeted
+and
+ground-targeted
+effects, and
+auto-targeted
+effects that do not require
+sight
+of targets.
+Obscured vision
+is not concealed by
+nearsight
+.
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Dark Passage
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Active:
+Thresh
+throws his lantern to the target location that remains for a few seconds while he remains nearby. He and the first allied champion to come near the lantern are granted a
+shield
+for a few seconds, with the amount based on
+Souls
+.
+An ally can grab the lantern to
+dash
+to
+Thresh
+and gain the shield, but cannot do so while
+immobilized
+,
+grounded
+, or
+silenced
+.
+League of Legends content
+Arcanopulse
+COOLDOWN:
+9 / 8 / 7 / 6 / 5
+Active:
+Xerath
+charges
+up to a short time, increasing the
+range
+of his beam.
+Arcanopulse
+can be recast within the duration and will cancel automatically afterwards, refunding half the
+mana cost
+.
+Recast:
+After a brief delay,
+Xerath
+fires a beam of energy in a line in the target direction that deals
+magic damage
+to enemies hit.
+League of Legends content
+Eye of Destruction
+COOLDOWN:
+14 / 13 / 12 / 11 / 10
+Active:
+Xerath
+casts down a blast of energy that strikes the target location after a brief delay, dealing
+magic damage
+and
+slowing
+enemies hit. The effects are increased against enemies in the epicenter.
+League of Legends content
+Shocking Orb
+COOLDOWN:
+13 / 12.
+5
+/ 12 / 11.
+5
+/ 11
+Active:
+Xerath
+fires an orb of energy in the target direction that deals
+magic damage
+to the first enemy hit,
+stunning
+them based on travel distance.
+League of Legends content
+Mana Surge
+STATIC CD:
+16
+Innate:
+Periodically,
+Xerath's
+next basic attack restores
+mana
+, doubled against an enemy
+champion
+.
+Killing enemies
+reduces
+this ability's
+cooldown
+.
+League of Legends content
+Rite of the Arcane
+COOLDOWN:
+130 / 115 / 100
+Active:
+Xerath
+channels
+up to a period, being able to fire several arcane missiles across the surrounding area.
+If
+Rite of the Arcane
+ends without using any recasts, half of the cooldown is
+refunded
+.
+Recast - Arcane Barrage:
+Xerath
+catapults an arcane missile to the target location that deals
+magic damage
+to enemies hit. Hitting enemy champions increases the damage of the following missiles, up to a cap.
+Rite of the Arcane's
+range is always
+visible
+.
+Xerath
+will
+reveal
+himself if a missile lands near an enemy.
+References
+[
+edit
+|
+edit source
+]
+↑
+Xerath's profile page
+at
+LeagueOfLegends.com

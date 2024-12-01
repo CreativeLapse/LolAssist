@@ -1,0 +1,2701 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Twitch
+the Plague Rat
+Release date
+2009-05-01
+Last changed
+V14.12
+Class(es)
+Marksman
+Legacy
+Marksman
+Assassin
+Position(s)
+Bottom
+Support
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Twitch
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Twitch
+Base statistics
+Edit
+Health
+630
++104
+Mana
+300
++40
+Health regen. (per 5s)
+3.75
++0.6
+Mana regen. (per 5s)
+7.25
++0.7
+Armor
+27
++4.2
+Attack damage
+59
++3.1
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+550
+Attack speed
+Base AS
+0.679
+Attack windup
+20.192%
+AS ratio
+N/A
+Bonus AS
++3.38
+%
+Missile speed
+2500
+Unit radius
+Gameplay radius
+65
+Selection radius
+135
+Pathing radius
+35
+Acq. radius
+575
+Special statistics
+Damage Dealt
++0%
+Damage Received
+-5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-2%
+Damage Received
++0%
+Damage Dealt
+-8%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Deadly Venom
+Innate:
+Twitch's
+basic attacks apply stacks of
+Deadly Venom
+for a few seconds, which stacks up to a cap.
+Deadly Venom:
+For each stack, the target is continually dealt
+true damage
+. This effect is considered a
+poison
+.
+Innate:
+Twitch's
+basic attacks
+on-hit
+apply a
+stack
+of
+Deadly Venom
+for 6 seconds, refreshing on subsequent applications and stacking up to 6 times.
+Deadly Venom:
+For each stack, the target is dealt
+「
+1 / 2 / 3 / 4 / 5 (based on level)
+(+ 3% AP)
+true damage
+per second over the duration, 」
+「
+6 / 12 / 18 / 24 / 30 (based on level)
+(+ 18% AP)
+total
+true damage
+over the duration, 」
+for a maximum of
+「
+6 / 12 / 18 / 24 / 30 (based on level)
+(+ 18% AP)
+true damage
+with each tick. 」
+「
+36 / 72 / 108 / 144 / 180 (based on level)
+(+ 108% AP)
+total
+true damage
+over the duration. 」
+This effect is considered a
+poison
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Default damage
+Sub-type
+True
+Counters
+Spell shield
+Not Blocked
+Parries
+See Notes
+The first 5 stacks on a target are indicated each by a small mark around them, while a target affected by the maximum stacks of 6 is indicated by a single large mark above them instead.
+Deadly Venom
+does not affect
+structures
+.
+Being applied on-hit,
+Deadly Venom
+stacks will still be applied if the attack was
+parried
+or
+blocked
+, but not if
+dodged
+and/or missed if
+Twitch
+is
+blinded
+.
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio per tick changed to
+4% AP
+.
+Edit
+Ambush
+COST:
+40 Mana
+COOLDOWN
+:
+16
+CAST TIME:
+none
+Detection Radius:
+500
+Active:
+Twitch
+becomes
+camouflaged
+for some time, gaining
+bonus
+movement speed
+, increased while facing enemy
+champions
+that cannot see him. Upon breaking stealth,
+Twitch
+gains
+bonus
+attack speed
+for a few seconds. When an enemy
+champion
+dies while afflicted with
+Deadly Venom
+,
+Ambush's
+cooldown is
+reset
+.
+Active:
+After a 1-second delay,
+Twitch
+becomes
+camouflaged
+for a duration. Attacking or casting
+Venom Cask
+or
+Contaminate
+ends
+Ambush
+immediately.
+Stealth Duration:
+10 / 11 / 12 / 13 / 14 seconds
+During this time,
+Twitch
+gains
+10%
+bonus
+movement speed
+, increased to
+30%
+while facing enemy
+champions
+within a 1000-unit radius who cannot see him.
+Upon breaking stealth,
+Twitch
+gains
+bonus
+attack speed
+for 5 seconds.
+Bonus Attack Speed:
+40 / 45 / 50 / 55 / 60%
+When an enemy
+champion
+dies while afflicted with
+Deadly Venom
+,
+Ambush's
+cooldown
+is reset.
+(Entering stealth)
+"Sneaky, sneaky... "
+(Exiting stealth)
+"I was hiding! Hehehahaa, grr!"
+Info
+Targeting input
+Auto
+Entering stealth cancels
+Twitch's
+current basic attack.
+Ambush
+follows the same rules as stealth but he can still perform actions normally before entering
+camouflage
+. Activating
+Recall
+during the 1-second delay allows him to
+channel
+it while stealthed.
+If
+Twitch
+enters
+stasis
+during the delay, he will gain the
+camouflage
+after the stasis ends.
+Using a basic attack breaks the stealth at the start of the attack windup.
+Edit
+Venom Cask
+COST:
+70 Mana
+COOLDOWN:
+13 / 12 / 11 / 10 / 9
+CAST TIME:
+0.
+25
+TARGET RANGE:
+950
+SPEED:
+1400
+Active:
+Twitch
+tosses a cask that explodes at the target location, inflicting
+Deadly Venom
+to enemies hit. The area then becomes contaminated for a short time, which continually
+slows
+enemies and inflicts
+Deadly Venom
+.
+Active:
+Twitch
+hurls a cask of venom that explodes at the target location, applying
+Deadly Venom
+to enemies hit and granting
+sight
+of the area.
+The area then becomes contaminated for 3 seconds, applying a
+Deadly Venom
+stack each second to enemies within and
+slowing
+them.
+Slow:
+30 / 35 / 40 / 45 / 50%
+(+ 5% per 100 AP)
+Info
+Targeting input
+Location
+Damage type
+Type
+Non-Damaging
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Venom Cask
+can apply a maximum of 4
+Deadly Venom
+stacks per enemy.
+Venom Cask's
+missile will fail to fire if
+Twitch
+is
+suppressed
+during the cast time.
+(note)
+Edit
+Contaminate
+COST:
+50 / 60 / 70 / 80 / 90 Mana
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+CAST TIME:
+0.
+25
+EFFECT RADIUS:
+1200
+Active:
+Twitch
+spreads a toxin to nearby enemies afflicted with
+Deadly Venom
+, dealing
+physical damage
+. This deals additional
+physical
+and
+magic damage
+based on stacks of
+Deadly Venom
+.
+Active:
+Twitch
+sends out a lethal toxin to each nearby enemy afflicted by
+Deadly Venom
+, dealing them
+physical damage
+.
+Base Physical Damage:
+20 / 30 / 40 / 50 / 60
+Contaminate
+deals additional
+physical damage
+and
+30% AP
+magic damage
+for each stack of
+Deadly Venom
+on the target.
+Physical Damage Per Stack:
+15 / 20 / 25 / 30 / 35
+(+ 35%
+bonus
+AD)
+Minimum Mixed Damage:
+35 / 50 / 65 / 80 / 95
+(+ 35%
+bonus
+AD)
+(+ 30% AP)
+Maximum Mixed Damage:
+110 / 150 / 190 / 230 / 270
+(+ 210%
+bonus
+AD)
+(+ 180% AP)
+A nearby enemy with
+Deadly Venom
+is required to cast this ability. The target does not have to be
+visible
+to be targeted by this ability.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Contaminate
+will deal the additional damage to targets based on the number of
+Deadly Venom
+stacks they had at the start of the cast time.
+Twitch
+is given a range indicator for
+Contaminate's
+radius upon infecting an enemy champion with
+Deadly Venom
+(actual range is slightly larger than shown by the indicator).
+Contaminate
+will not deal damage to enemies that are not within range of the ability before the cast time completes.
+If the target moves out of range after the cast time, they are still dealt the damage.
+Map-Specific Differences
+Arena
+differences
+edit
+Bonus AD ratio per stack changed to
+40%
+bonus
+AD
+.
+AP ratio per stack changed to
+35% AP
+.
+Edit
+Spray and Pray
+COST:
+100 Mana
+COOLDOWN
+:
+90
+CAST TIME:
+none
+TARGET RANGE:
+Twitch's
+attack range
+RANGE:
+1100
+WIDTH:
+120
+SPEED:
+5000
+Active:
+Twitch
+gains
+bonus
+attack damage
+and
+bonus
+attack range
+for a few seconds, during which his basic attacks are replaced with bolts that deal the
+attack's damage
+to enemies hit.
+Active:
+Twitch
+gains
+bonus
+attack damage
+and
+300
+bonus
+attack range
+for 6 seconds, during which his
+basic attacks
+are replaced by
+bolts
+that travel slightly further than his attack range in a straight line, dealing damage to
+every enemy unit
+hit.
+Bonus Attack Damage:
+30 / 45 / 60
+The
+bolts
+deal
+100% − 60% (based on enemies hit)
+of the
+attack's damage
+, apply
+on-hit
+effects at 100% effectiveness, and can
+critically strike
+.
+"Pins and needles!"
+Info
+Targeting input
+Auto
+Damage type
+Type
+Basic damage
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Parries
+Blocked
+Projectile
+Blocked
+The extra distance that the bolts travel scales with
+bonus
+attack range.
+Spray and Pray
+allows
+Twitch
+to outrange
+turrets
+by 50 units, allowing him to hit them without them returning fire.
+Twitch
+targets his line attack at his target's location at the
+start
+of his attack windup.
+The
+bolts
+reach targets at a delay, composed of
+Twitch's
+windup time and distance the
+bolt
+has to travel at finite speed. Even the primary target can dodge the attack if they are moving quickly enough.
+The
+bolt
+projectiles will naturally pass through terrain and enemy structures (the latter will be damaged by
+bolts
+even if they are not directly targeted).
+If
+Twitch
+is
+blinded
+before winding up the attack, the hits will
+miss
+against
+all
+targets.
+Runaan's Hurricane's
+Wind's Fury
+interacts with
+Spray and Pray's
+bonus
+attack range
+but not with the modified missile effect (the secondary bolts will not have pass-through effects).
+Whenever the
+bolts
+penetrate a target, a small elongated cloud appears at the location, which's VFX and SFX
+can
+be seen and heard inside the Fog of War.
+The
+bolts'
+travel distance scales with the full value of
+Twitch's
+attack range
+increases such as
+Rapid Firecannon
+, but not with size increases (which only increase his effective attack range, thereby the target range).
+(Outdated as of
+V10.13
+, now can hit everything with edge range, except for turrets) The
+center of a unit must be within the maximum travel distance of the
+bolt
+missile, and in front of the spawn location (
+Twitch's
+center) for the
+bolt
+to be able to hit them.
+Other than this condition, the
+bolt
+missile has to only touch (pass within its half width of 60 units) the
+edge of the unit's radius.
+This is standard behaviour for
+linear skillshots
+.
+Tips & Tricks
+Runaan's Hurricane's
+bolts can target the same units that are hit by
+Twitch's
+penetrated
+bolt
+, increasing the total damage dealt to them and applying
+on-hit
+effects twice.
+Map-Specific Differences
+Arena
+differences
+edit
+Bonus attack damage changed to 30 / 45 / 60.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Twitch (Collection)
+.
+Original
+View in 3D
+790
+30.04.2009
+A Zaunite plague rat by birth, but a connoisseur of filth by passion, Twitch is not afraid to get his paws dirty. Aiming a chem-powered crossbow at the gilded heart of Piltover, he has vowed to show those in the city above just how filthy they really are. Always a sneaky sneak, when he’s not rooting around in the Sump, he’s digging deep into other people’s garbage for discarded treasures… and perhaps a moldy sandwich.
+Doug Boyd
+Joshua 'HUGEnFAST' Brian Smith
+Loot eligible
+Kingpin
+View in 3D
+520
+20.11.2009
+Many in Bilgewater get called a filthy rat, but none deserve the title more than the Kingpin himself. While other crime bosses in the port city may loathe to get their hands dirty, Twitch revels in wading into the filth himself—crossbow in hand, and a finely aged egg in his pocket.
+Doug Boyd
+Xi Zhang
+Bilgewater: Burning Tides
+Loot eligible
+Legacy
+Whistler Village
+View in 3D
+520
+12.02.2010
+Whistler Village is an idyllic mountain hamlet known for spiced cocoa, competitive winter sports, and rumors of an insane man-rat living in the woods. Attempts to appease the creature with spiced cocoa and competitive winter sports have been unsuccessful.
+Doug Boyd
+Max Grecke
+Winter Sports
+Loot eligible
+Legacy
+Medieval
+View in 3D
+Special
+15.12.2009
+An assassin-for-hire living beneath Dread Fortress Zaun, Twitch is a disgusting malefactor who has tipped every one of his killing implements in moist, toxic garbage. He excitedly awaits each contract, eager to kill, steal, and destroy as much as he can.
+Doug Boyd
+Bo 'chenbowow' Chen
+Medieval
+Loot ineligible
+Chromas
+Medieval Twitch Chromas
+Amethyst
+Obsidian
+Sapphire
+Crime City
+View in 3D
+975
+13.10.2010
+Deeply violent and severely paranoid, Twitch runs one of the largest crime syndicates in the nation. His orders are carried out by a literal army of rat-men, the only creatures he even comes close to trusting.
+Doug Boyd
+Izzy Medrano
+Crime City
+Loot eligible
+Vandal
+View in 3D
+975
+22.02.2011
+An irradiated humanoid rat with an appetite for wanton collateral damage, Twitch is the number one provider of putrefied nuclear slime grenades to unsuspecting settlements everywhere. Equal parts audacious and paranoid, it is nearly impossible to stop his reckless rampages.
+Doug Boyd
+Kan Liu
+Vandal
+Loot eligible
+Legacy
+Pickpocket
+View in 3D
+750
+28.11.2014
+Doug Boyd
+Unknown artist
+Cops and Robbers
+Loot eligible
+SSW
+View in 3D
+750
+13.05.2015
+Honoring imp's winning performance as Twitch during the 2014 World Championship.
+Doug Boyd
+Alvin Lee, Pan Chengwei
+World Champions: 2014
+Loot eligible
+Legacy
+New Animations/Recall
+Omega Squad
+View in 3D
+1350
+26.07.2017
+Squad medic—and deranged lunatic—Twitch has been deeply and irreversibly affected by war. It's been a long time since he was a competent medical professional, as he no longer abides by the adage “do no harm.”
+Doug Boyd
+Rudy Siswanto
+Omega Squad
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Omega Squad Twitch Chromas
+Obsidian
+Pearl
+Sandstone
+Ice King
+View in 3D
+1350
+06.12.2018
+Twitch is a bitter, hateful creature who has jealously watched the Winterlands from his frozen burrow since time immemorial. Finally driven to the surface by twisted delusions of grandeur, he now seeks to usurp the Poro King, corrupting his subjects with an ancient, icy curse.
+Doug Boyd
+Mingchen Shen, West Studio
+Winter Wonder
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Ice King Twitch Chromas
+Obsidian
+Rainbow
+Rose Quartz
+Ruby
+Tanzanite
+Twitch Shadowfoot
+View in 3D
+1350
+19.03.2020
+An extremely aggravating presence both in-game and at the table, Twitch Shadowfoot is the adorable Rift Quest counterpart to the actual Twitch, who is insane. Unsurprisingly, the cuddly rat-man rogue spends nearly every turn stealing his companions' equipment, mumbling of a vast conspiracy to overthrow him from his 'toilet kingdom'.
+Doug Boyd
+Francis Tneh, West Studio
+Rift Quest
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Twitch Shadowfoot Chromas
+Amethyst
+Aquamarine
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Dragonslayer
+View in 3D
+1350
+15.04.2021
+A lesser dragon who has learned to blend in among humans… poorly. Twitch worships the true dragons and plans to one day become one himself, though he isn't sure how just yet.
+Doug Boyd
+West Studio
+Dragon World
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dragonslayer Twitch Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+High Noon
+View in 3D
+1350
+26.05.2022
+It starts like this: An ill wind blows across the desert, dessicated rats turn up in the streets, rotting under the hot sun. Then the traveling undertaker arrives. No one knows who (or what) he is, nor where he hails from… But it seems even Death has a bone to pick with the King of the Sulfur Rail. Another Harbinger arrives.
+Doug Boyd
+Park Jun Seong, West Studio
+High Noon
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+High Noon Twitch Chromas
+Citrine
+Nomad
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Cheddar Chief
+View in 3D
+1350
+03.04.2024
+During a daring heist at the local cheesery, Twitch dove headfirst into a wedge of aged Swiss and was trapped. He escaped, but with his head encased! Over time food and rat became one, and Twitch now revels in his role as the "big cheese" of the criminal underworld, proclaiming to all who question his dairy dominance: "Brie-ware!
+Doug Boyd
+Rudy Siswanto
+Food Fight
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Cheddar Chief Twitch Chromas
+Berry Cake
+Bleu
+Cheddar
+Cheesecake
+Chocolate Pie
+Matcha Cake
+Rainbow Cake
+Ruby
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.12
+Spray and Pray
+Bug Fix:
+Fixed a bug that caused attacks that tag multiple targets to not receive the damage amp from
+Press the Attack
+.
+V14.9
+Stats
+Base health reduced to 630 from 682.
+Health growth increased to 104 from 100.
+Venom Cask
+Slow AP ratio reduced to
+5% per 100 AP
+from
+6% per 100 AP
+.
+Spray and Pray
+Bonus attack damage reduced to 30 / 45 / 60 from 40 / 55 / 70.
+V14.7
+Dragonslayer Twitch
+,
+High Noon Twitch
+,
+Twitch Shadowfoot
+Ambush
+Bug Fix:
+Camouflage detection indicator is now properly visible when rendered on terrain.
+V14.5
+General
+Bug Fix:
+Emote SFX no longer continues to play even after the emote was stopped.
+V14.3
+Venom Cask
+Bug Fix:
+Corrected the phantom missile's cast timing to properly coincide with the VFX, which would previously break spell shields earlier than expected.
+Contaminate
+New Effect:
+Now calculates its damage based on the number of
+Deadly Venom
+stacks the target had at the time of cast rather than after the cast time.
+V13.19
+Spray and Pray
+Missile speed increased to 5000 from 4000.
+V13.8
+Spray and Pray
+Bug Fix:
+No longer deals damage to himself while affected by
+berserk
+.
+V13.5
+Contaminate
+AP ratio per stack reduced to
+30% AP
+from
+35% AP
+.
+Maximum AP ratio reduced to
+180% AP
+from
+210% AP
+.
+V13.4
+General
+Bug Fix:
+Visibility for basic attack VFX and
+Spray and Pray's
+VFX on
+Crime City Twitch
+have been restored.
+V13.1b
+Stats
+Base mana increased to 300 from 287.
+2
+.
+Mana regeneration growth increased to 0.
+7
+from 0.
+45
+.
+V12.22
+Stats
+Attack damage growth reduced to 3.
+1
+from 3.
+11
+.
+Base mana regeneration reduced to 7.
+25
+from 7.
+26
+.
+V12.19
+Deadly Venom
+AP ratio per tick per stack increased to
+3% AP
+from
+2.
+5
+% AP
+.
+Maximum AP ratio per tick increased to
+18% AP
+from
+15% AP
+.
+Contaminate
+AP ratio per stack increased to
+35% AP
+from
+33% AP
+.
+Maximum AP ratio increased to
+210% AP
+from
+198% AP
+.
+V12.10
+Stats
+Base health increased to 682 from 612.
+Health growth increased to 100 from 86.
+Armor growth increased to 4.
+2
+from 3.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V11.24
+Spray and Pray
+New Effect:
+The extra distance that the bolts travel now scales with his
+bonus
+attack range.
+V11.23
+Contaminate
+Bug Fix:
+SFX for base skin and
+Twitch Shadowfoot
+have been restored.
+V11.18
+Spray and Pray
+Bonus attack damage increased to 40 / 55 / 70  from 30 / 45 / 60.
+V11.8
+- April 14th Hotfix
+Spray and Pray
+Bug Fix:
+Missile can once again
+critically strike
+and
+miss
+on collision with enemy.
+V11.8
+General
+Updated chroma assets for
+Medieval Twitch
+.
+V11.5
+Deadly Venom
+Damage per tick AP ratio per stack reduced to
+2.
+5
+% AP
+from
+3% AP
+.
+Total damage AP ratio per stack reduced to
+15% AP
+from
+18% AP
+.
+Spray and Pray
+Bonus attack damage increased to 30 / 45 / 60 from 25 / 40 / 55.
+Duration increased to 6 seconds from 5.
+V10.25
+Ambush
+Bonus attack speed increased to 40 / 45 / 50 / 55 / 60% from 30 / 35 / 40 / 45 / 50%.
+Venom Cask
+Slow increased to 30 / 35 / 40 / 45 / 50% from 25 / 30 / 35 / 40 / 45%.
+Spray and Pray
+Bonus attack damage increased to 25 / 40 / 55 from 20 / 35 / 50.
+V10.23
+Deadly Venom
+New Effect:
+Now scales with
+3% AP
+per stack, up to
+18% AP
+at 6 stacks.
+Venom Cask
+New Effect:
+Slow now scales with
+6% per 100 AP
+.
+Contaminate
+Removed:
+No longer deals
+33.
+3
+% AP
+physical damage per stack.
+New Effect:
+Now deals
+33.
+3
+% AP
+magic damage per stack.
+V10.18
+Contaminate
+AP ratio per stack increased to
+33.
+3
+% AP
+from
+20% AP
+.
+Spray and Pray
+Damage fall off reduced to
+100% − 60% (based on enemy hit)
+from
+100% − 40% (based on enemy hit)
+.
+V10.13
+Spray and Pray
+Bug Fix:
+Empowered attacks now properly deal damage to the Nexus and enemy inhibitors regardless of range or angle.
+Undocumented:
+Line missile longer requires the
+center
+of
+any
+unit to be within the missile's maximum distance in order of it to be stuck, now only requires
+edge range.
+The condition that
+target center must be at or in front of missile origin
+still applies.
+Crime City Twitch
+Skin renamed to
+Crime City Twitch
+from
+Gangster Twitch
+.
+V10.11
+Stats
+Base health increased to 612 from 582.
+Health growth increased to 86 from 84.
+V9.16
+Ambush
+Bug Fix:
+Is no longer able to cast
+Ambush
+without consuming any mana 3 seconds after its cooldown resets when an enemy champion dies from his
+Deadly Venom
+.
+V9.4
+Spray and Pray
+Bug Fix:
+Now properly triggers
+Energized
+effects when attacking from
+Rapid Firecannon's
+maximum range.
+V9.1
+Ambush
+New Effect:
+Ability icon HUD now shows the remaining duration of the ability.
+Spray and Pray
+New Effect:
+Ability icon HUD now shows the remaining duration of the ability.
+V8.14
+Stats
+Base health increased to 582 from 542.
+Health growth reduced to 84 from 87.
+V8.13
+Contaminate
+Bonus AD ratio increased to
+35%
+bonus
+AD
+from
+25%
+.
+V8.11
+Stats
+Base health increased to 542 from 525.
+08
+.
+Health growth increased to 87 from 81.
+Base armor reduced to 27 from 32.
+Base health regeneration reduced to 3.
+75
+from 6.
+Base attack damage reduced to 59 from 63.
+Attack damage growth increased to 3.
+11
+from 2.
+41
+.
+V8.5
+Contaminate
+Base damage increased to 20 / 30 / 40 / 50 / 60 from 20 / 25 / 30 / 35 / 40.
+V8.4
+Contaminate
+Base damage reduced to 20 / 25 / 30 / 35 / 40 from 20 / 35 / 50 / 65 / 80.
+V8.3
+Stats
+Base health regeneration reduced to 6 from 6.
+008
+.
+V8.2
+Omega Squad Twitch
+Ambush
+Bug Fix:
+Camouflage VO lines have been restored.
+V7.22
+Stats
+Base attack damage increased to 63 from 55.
+46
+.
+Base armor increased to 32 from 23.
+04
+.
+V7.20
+General
+Adjusted splash artwork for
+Pickpocket Twitch
+.
+V7.19
+Ambush
+Bug Fix:
+Visual effects no longer stay visible indefinitely if
+Tahm Kench
+uses
+Devour
+on him as he enters stealth.
+Omega Squad Twitch
+Bug Fix:
+Once again has his helicopter shadows during their recall animations.
+V7.16
+Spray and Pray
+Bug Fix:
+Fixed a bug where it dealt two instances of damage to inhibitors and the Nexus if he attacked from slightly outside his normal basic attack range.
+V7.14
+Ambush
+Bug Fix:
+No longer gets stuck as visually translucent if
+Guardian Angel
+triggers during the camouflage duration.
+V7.9
+May 5th Hotfix
+Venom Cask
+Bug Fix:
+Once again properly adds a stack of
+Deadly Venom
+as the cask explodes.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.3
+Ambush
+Bug Fix:
+Fixed a bug where entering stealth with
+Ambush
+was causing
+Twitch
+to stop attacking when
+taunted
+.
+V6.24
+Deadly Venom
+True damage per second per stack reduced to
+1 / 2 / 3 / 4 / 5 (based on level)
+from
+2 / 3 / 4 / 5 / 6 (based on level)
+.
+Venom Cask
+Mana cost increased to 70 from 50.
+V6.23
+General
+Bug Fix:
+Error on
+Recall
+voiceover effects for Crime City, Vandal, and Pickpocket.
+V6.22
+Generall
+New splash artwork for
+Kingpin Twitch
+,
+Whistler Village Twitch
+,
+Medieval Twitch
+,
+Crime City Twitch
+and
+Vandal Twitch
+.
+Ambush
+Stealth reclassified as
+Camouflage
+.
+Stealth delay reduced to 1 second at all times from 1.
+5
+while not taking damage or 4.
+5
+while so.
+Duration increased to 10 / 11 / 12 / 13 / 14 seconds from 4 / 5 / 6 / 7 / 8.
+Bonus movement speed reduced to 10% from 20%.
+New Effect:
+Bonus movement speed is tripled to 30% when Twitch moves towards nearby enemy champions who cannot see him.
+Venom Cask
+Removed:
+Slowing on impact.
+New Effect:
+Upon impact, creates a persistent area of effect for 3 seconds that
+slows
+and applies a
+Deadly Venom
+per second.
+Impact
+Deadly Venom
+stacks reduced to 1 from 2.
+Spray and Pray
+Renamed from
+Rat-Ta-Tat-Tat
+.
+V6.19
+Ambush
+Bonus attack speed reduced to 30 / 35 / 40 / 45 / 50% from 30 / 40 / 50 / 60 / 70%.
+V6.17
+Contaminate
+Bug Fix:
+Sometimes not damaging enemies acquired at edge of range.
+V6.13
+Ambush
+Bug Fix:
+Stealth delay instantly completing if Twitch kills an enemy champion.
+V6.8
+General
+Splash artwork for
+Kingpin Twitch
+,
+Whistler Village Twitch
+and
+Crime City Twitch
+updated to the Chinese art.
+V5.22
+Stats
+Base attack damage increased to 55.
+46
+from 49.
+04
+.
+Attack damage growth reduced to 2.
+41
+from 3.
+Ambush
+New Effect:
+Cooldown resets when an enemy champion affected by
+Deadly Venom
+dies.
+New Effect:
+Entering stealth cancels Twitch's current basic attack command.
+Rat-Ta-Tat-Tat
+Duration reduced to 5 seconds from 7.
+Mana cost reduced to 100 at all ranks from 100 / 125 / 150.
+Cooldown reduced to 90 seconds at all ranks from 120 / 110 / 100.
+Removed:
+Ambush's
+stealth being removed on-cast.
+V5.18
+Ambush
+Stealth delay while taking damage reduced to 4.
+5
+seconds from 6.
+V5.16
+Ambush
+Mana cost reduced to 40 from 60.
+Rat-Ta-Tat-Tat
+Bonus attack damage increased to 20 / 30 / 40 from 20 / 28 / 36.
+V5.8
+Rat-Ta-Tat-Tat
+Bug Fix:
+Twitch being unable to damage structures while active.
+V5.6
+Deadly Venom
+Damage per stack changed to
+2 / 3 / 4 / 5 / 6 (based on level)
+from
+1 − 6 (based on level)
+V4.10
+General
+Base attack damage reduced to 46 from 49.
+Deadly Venom
+Damage per stack changed to
+1 − 6 (based on level)
+from
+2 / 4 / 6 / 8 (based on level)
+.
+Ambush
+Stealth delay while not taking damage increased to 1.
+5
+seconds from 1.
+25
+.
+Stealth delay while taking damage increased to 6 seconds from 3.
+V4.6
+Visual Update
+New models and textures for all skins.
+New splash artwork for
+Original Twitch
+.
+New voiceover.
+New lore.
+Ambush
+New particles and sounds for when Twitch enters stealth.
+Contaminate
+Renamed from
+Expunge
+New Effect:
+Has a range indicator.
+Particles updated to shoot from Twitch to his victims.
+Rat-Ta-Tat-Tat
+Renamed from
+Spray and Pray
+.
+Particles updated for visibility when secondary targets are hit by the splash damage.
+V4.5
+Stats
+Base armor increased to 18 from 14.
+V3.10a
+Expunge
+Base damage reduced to 20 / 35 / 50 / 65 / 80 from 40 / 50 / 60 / 70 / 80.
+V1.0.0.152
+Stats
+Movement speed increased to 330 from 305.
+V1.0.0.151
+Deadly Venom
+New Effect:
+Has a particle for when maximum stacks are applied on a target.
+Ambush
+Tooltip updated.
+V1.0.0.146
+Expunge
+Base damage increased to 40 / 50 / 60 / 70 / 80 from 20 / 35 / 50 / 65 / 80.
+Mana cost reduced to 50 / 60 / 70 / 80 / 90 from 70 / 75 / 80 / 85 / 90.
+Spray and Pray
+Cast frame reduced to make Twitch's enhanced basic attacks more responsive.
+V1.0.0.144
+Stats
+Base attack damage increased to 52 from 50.
+Venom Cask
+Projectile speed increased to 1400 from 1300.
+V1.0.0.143
+Gameplay Update
+Stats
+Attack range increased to 550 from 500.
+Base health increased to 389 from 356.
+Health per level increased to 81 from 78.
+Base mana increased to 220 from 180.
+Mana per level increased to 40 from 35.
+Base attack damage reduced to 47 from 51.
+56
+.
+Attack damage per level reduced to 3 from 3.
+3
+.
+Basic attack animation updated.
+Deadly Venom
+Damage per stack reduced to
+2 / 4 / 6 / 8 (based on level)
+from
+2.
+5
+/ 5 / 7.
+5
+/ 10 (based on level)
+.
+Ambush
+After a short delay, Twitch becomes invisible for a few seconds and gains 20% bonus movement speed for the duration. Upon breaking stealth, Twitch gains 30 / 40 / 50 / 60 / 70% bonus attack speed for 5 seconds.
+Stealth delay while not taking damage reduced to 1.
+25
+.
+Stealth delay while taking damage reduced to 3 seconds from 5.
+Stealth duration reduced to 4 / 5 / 6 / 7 / 8 seconds from 10 / 20 / 30 / 40 / 50 seconds.
+Cooldown increased to 16 seconds from 11.
+Mana cost: 60
+Venom Cask
+-
+New W
+Twitch hurls a cask full of venom to the target area that slows enemies within by 25 / 30 / 35 / 40 / 45% for 3 seconds and adds 2
+Deadly Venom
+stacks.
+Mana cost: 50
+Cooldown: 13 / 12 / 11 / 10 / 9
+Expunge
+Upon activation, enemies afflicted by
+Deadly Venom
+take 20 / 35 / 50 / 65 / 80 + 15 / 20 / 25 / 30 / 35
+(+ 20% AP)
+(+ 25%
+bonus
+AD)
+per stack.
+Cost: 70 / 75 / 80 / 85 / 90
+Cooldown: 12 / 11 / 10 / 9 / 8
+Removed:
+Cleansing
+Deadly Venom
+stacks from enemies upon activation.
+Spray and Pray
+Upon activation, Twitch gains bonus attack damage and 300 bonus attack range, and his basic attacks become powerful piercing bolts.
+Damage changed to 20% less to secondary targets hit (minimum 40%) from 100% damage to all targets.
+Bonus attack damage increased to 20 / 28 / 36 from 15 / 25 / 35.
+Duration reduced to 7 seconds from 12.
+Cooldown increased to 120 / 110 / 100 seconds from 105 / 90 / 75.
+Mana cost: 100 / 125 / 150 Mana
+V1.0.0.122
+General
+Animations updated.
+V1.0.0.112
+General
+New splash artwork for
+Original Twitch
+.
+V1.0.0.109
+Stats
+Attack range increased to 500 from 475.
+Ambush
+Duration reduced to 10 / 20 / 30 / 40 / 50 seconds from 20 / 30 / 40 / 50 / 60.
+New Effect:
+Bonus attack speed reaches its maximum duration twice as fast.
+V1.0.0.107
+Spray and Pray
+Removed:
+Granting Twitch 30 / 45 / 60% bonus attack speed for the duration upon activation.
+New Effect:
+Upon activation, Twitch gains 15 / 25 / 35 bonus attack damage for the duration.
+New Effect:
+Fires a maximum of 5 / 6 / 7 shots.
+Duration increased to 12 seconds from 6.
+V1.0.0.106
+Stats
+Base movement speed reduced to 305 from 310.
+Spray and Pray
+Duration reduced to 6 seconds from 7.
+V1.0.0.105
+Debilitating Poison
+Slow duration reduced to 2 / 2.
+6
+/ 3.
+2
+/ 3.
+8
+/ 4.
+4
+seconds from 2.
+5
+/ 3.
+25
+/ 4 / 4.
+75
+/ 5.
+25
+.
+Spray and Pray
+Bonus attack speed reduced to 30 / 45 / 60% from 40 / 60 / 80%.
+V1.0.0.104
+Ambush
+Maximum bonus attack speed reduced to 30 / 40 / 50 / 60 / 70% from 30 / 45 / 60 / 80 / 100%.
+V1.0.0.103
+Deadly Venom
+Duration reduced to 6 seconds from 8.
+Debilitating Poison
+New Effect:
+Has a range indicator.
+Expunge
+New Effect:
+Has a range indicator.
+V1.0.0.101
+Ambush
+New Effect:
+The first attack after breaking stealth will benefit from the bonus attack speed.
+New Effect:
+Twitch will gain the bonus attack speed when he breaks stealth by using an ability.
+V1.0.0.100
+Spray and Pray
+Buff text updated.
+V1.0.0.86
+Ambush
+Stealth updated to break after Twitch lands a basic attack from when he begins his basic attack animation.
+V1.0.0.85
+Stats
+Base magic resistance increased to 30 from 25.
+Ambush
+Tooltip updated.
+V1.0.0.75
+Debilitating Poison
+Slow changed to 30% + 6% per
+Deadly Venom
+stack from 20% + 10% per stack.
+V1.0.0.72
+Spray and Pray
+Bonus attack range reduced to 375 from 525.
+Projectile range reduced to 1100 from 1300.
+V1.0.0.70
+General
+Particles updated.
+Spray and Pray
+Cooldown increased to 105 / 90 / 75 seconds from 90 / 75 / 60.
+Bonus attack speed reduced to 40 / 60 / 80% from 60 / 100 / 140%.
+V1.0.0.61
+General
+Removed:
+Fighter secondary tag.
+Assassin secondary tag added.
+V0.9.25.24
+Stats
+Attack range increased to 600 from 475.
+Spray and Pray
+Projectile speed to 2800 from 1600.
+Projectile width increased to 60 from 50.
+Tooltip updated.
+Accuracy updated.
+V0.9.22.16
+Ambush
+Removed:
+Mana cost to cancel stealth early.
+V0.9.22.15
+Stats
+Base attack damage increased to 52.
+4
+from 50.
+Ambush
+Bonus attack speed increased to 30 / 45 / 60 / 80 / 100% from 20 / 40 / 60 / 80 / 100%.
+Stealth duration increased to 20 / 30 / 40 / 50 / 60 seconds from 12 / 18 / 24 / 30 / 36.
+Debilitating Poison
+Duration increased to 2.
+5
+/ 3.
+25
+/ 4 / 4.
+75
+/ 5.
+25
+seconds from 2.
+25
+/ 3 / 3.
+75
+/ 4.
+5
+/ 5.
+25
+.
+Spray and Pray
+Damage changed to 100% to all targets hit from 100% to first one and 70% to secondary ones.
+V0.8.22.115
+Stats
+Attack range reduced to 475 from 500.
+June 26, 2009 Patch
+Ambush
+Removed:
+30% self slow during stealth delay.
+June 12, 2009 Patch
+Ambush
+New Effect:
+Stealth can only be delayed by a maximum of 5 seconds while Twitch takes damage.
+Spray and Pray
+Damage changed to 100% to first target hit and 70% to secondary ones.
+June 6, 2009 Patch
+Spray and Pray
+Projectile speed increased to 1600 from 1400.
+May 29, 2009 Patch
+Spray and Pray
+Projectile speed increased to 1400 from 1200.
+May 15, 2009 Patch
+Ambush
+Self slow reduced to 30% from 35%.
+May 9, 2009 Patch
+General
+Selection size updated.
+Pathfinding radius updated.
+Champion chasing updated.
+Deadly Venom
+Damage per stack reduced to 2 / 4 / 6 / 8 from 3 / 5 / 7.
+Ambush
+Cooldown increased to 11 seconds from 10.
+Bug Fix:
+Stealth delay being longer than intended.
+Debilitating Poison
+Bug Fix:
+Slow debuff being incorrectly removed by
+Highlander
+.
+Expunge
+Range reduced.
+Spray and Pray
+Hit particle updated.
+Projectile speed increased.
+Projectile width increased to 40 from 25.
+Removed:
+Applying on-hit effects.
+May 1, 2009 Patch
+Added
+Trivia
+[
+edit
+|
+edit source
+]
+Twitch was
+voiced
+by the late
+Doug Boyd
+.
+Twitch is voiced by an unknown voice actor in the
+Wild Rift Chat shorts
+.
+Deadly Venom
+displaying an X when fully stacked on a target might be referencing the
+Black Death
+(the doors of those afflicted were marked as such)
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Marksman
+Marksmen
+(formerly "Carries") excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger. Although Marksmen have the ability to stay relatively safe by kiting their foes, they are very fragile and are extremely reliant on powerful item purchases to become true damage threats.
+At present, Marksmen do not have any official subclasses. The following have been considered:
+Demolisher
+Scrapper
+Examples
+Ashe
+Ezreal
+Lucian
+Kai'Sa
+Jhin
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Bottom
+Within a
+drafted team
+, the
+Bottom Carry
+is one of the two champions assigned to the bottom lane alongside the
+Support
+. Being the most vulnerable, the
+Bottom Carry
+has to acquire as much gold as possible to purchase key items that will greatly increase their fighting potential.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Bottom Carry
+is expected to fulfill the former designation: the position is made for champions that highly depend on item-based power spikes.
+Marksmen
+are the most likely champions to be selected in the
+Bottom Carry
+position.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Poison
+Poison
+is the buff type for few select debuffs.
+Cassiopeia's
+Twin Fang
+has additional effects if it is cast on a
+poisoned
+target.
+The following inflict
+poison
+:
+Cassiopeia's
+Noxious Blast
+and
+Miasma
+Singed's
+Poison Trail
+Teemo's
+Toxic Shot
+and
+Noxious Trap
+Twitch's
+Deadly Venom
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Default damage
+Default damage
+is dealt by effects that are not otherwise classified, or are deliberately left unclassified. This most common source of
+default damage
+is splash damage from basic attacks.
+Default damage
+does not interact with most other effects, such as
+Conqueror
+stacking,
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of the damage's non-reactive nature (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+True damage
+Applies:
+Corrupting Potion
+Omnivamp
+Mitigated by:
+Damage shields
+Invulnerability
+League of Legends content
+Riposte
+COOLDOWN:
+24 / 22 / 20 / 18 / 16
+Active:
+Fiora
+briefly parries all incoming damage, debuffs, and
+disables
+, then stabs in a direction, dealing
+magic damage
+to enemies hit.
+The stab
+slows
+the first enemy champion hit, or
+stuns
+them if
+Fiora
+parried an
+immobilizing
+effect.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Camouflage
+Camouflage
+is a form of stealth that renders a unit hidden from enemy
+vision
+for a
+long
+period of time. It is usually activated preemptively in order to ambush an enemy or to bypass the surveillance of hostile
+wards
+patrolling an area. It also grants
+ghosting
+.
+Camouflaged
+units are revealed while being inside the line of sight (e.g. not in the fog of war, behind terrain, or blocked by
+nearsight
+) of a nearby enemy
+champion
+(with the range depending on the ability), when within the vision radius of an enemy
+Control Ward
+(900 units), or from sources of
+True Sight
+.
+Stealthed
+units shimmer their character model for 0.
+6
+seconds whenever they take damage.
+A unit will shimmer for every instance of damage they take, and shimmering does not make the unit targetable nor remove the
+stealth
+effect, but grants positional information to the enemy.
+When a
+camouflaged
+unit can be seen, they will be warned by an exclamation mark above them indicating they have been spotted.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Deadly Venom
+Innate:
+Twitch's
+basic attacks apply stacks of
+Deadly Venom
+for a few seconds, which stacks up to a cap.
+Deadly Venom:
+For each stack, the target is continually dealt
+true damage
+. This effect is considered a
+poison
+.
+League of Legends content
+Venom Cask
+COOLDOWN:
+13 / 12 / 11 / 10 / 9
+Active:
+Twitch
+tosses a cask that explodes at the target location, inflicting
+Deadly Venom
+to enemies hit.
+The area then becomes contaminated for a short time, which continually
+slows
+enemies and inflicts
+Deadly Venom
+.
+League of Legends content
+Contaminate
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+Active:
+Twitch
+spreads a toxin to nearby enemies afflicted with
+Deadly Venom
+, dealing
+physical damage
+. This deals additional
+physical
+and
+magic damage
+based on stacks of
+Deadly Venom
+.
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Stasis
+A unit that is in
+stasis
+is unable to control its movement, declare attacks, cast abilities, activate items or use
+any
+summoner spell
+for the duration, while also being
+invulnerable
+and
+untargetable
+.
+Stasis
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), all
+channeled and charged
+abilities and all
+dashes
+and
+displacements
+. Units that are being
+knocked up
+will be placed on the ground, but aren't
+knocked down
+(the
+airborne
+status is not removed in this case).
+Reduction:
+The
+duration
+is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Epic monsters
+and
+turrets
+are special cased to be affected by
+stasis
+despite them being
+crowd control immune
+.
+Removal:
+Cannot be removed by any means (except through
+death
+), and will prevent the activation of abilities that would usually remove
+crowd control
+effects.
+Quicksilver
+will either be placed on a short cooldown, remain usable, or become disabled.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Suppression
+A unit that is
+suppressed
+is unable to control its movement, declare attacks, cast abilities, activate items or use
+any
+summoner spell
+for the duration.
+Suppression
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Cleanse
+and
+Mikael's Blessing
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Basic attack
+The
+basic attack
+(or
+auto-attack
+) is the most basic means of a unit to deal damage to another unit, usually dealing
+100% AD
+. It has a brief cooldown based on the caster's current
+attack speed
+.
+All
+basic attacks
+are normally unit-targeted with their range limited by the caster's
+attack range
+, and have a brief attack
+windup
+. Damage is then dealt depending on the caster's range type:
+Melee
+and some projectile-less ranged attacks deal damage immediately.
+Ranged
+attacks usually send a projectile that follows the target and deals damage upon striking them. Projectiles can be intercepted by certain
+blocking
+effects.
+The damage event will trigger
+on-hit effects
+from buffs the caster may hold. If damage cannot be dealt, on-hit effects will not be triggered.
+On-attack
+effects will always trigger when the attack's
+windup
+completes.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+References
+[
+edit
+|
+edit source
+]
+↑
+Twitch's profile page
+at
+LeagueOfLegends.com

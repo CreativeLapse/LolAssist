@@ -1,0 +1,2897 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Udyr
+the Spirit Walker
+Release date
+2009-12-02
+Last changed
+V14.22
+Class(es)
+Juggernaut
+Legacy
+Fighter
+Tank
+Position(s)
+Top
+Jungle
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+1350
+|
+585
+Crafting
++
+810
+Ratings
+Damage
+2
+Toughness
+3
+Control
+2
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Udyr
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Udyr
+Base statistics
+Edit
+Health
+664
++92
+Mana
+271
++50
+Health regen. (per 5s)
+6
++0.75
+Mana regen. (per 5s)
+7.5
++0.45
+Armor
+31
++4.7
+Attack damage
+62
++4
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+350
+Attack range
+125
+Attack speed
+Base AS
+0.65
+Attack windup
+19.8%
+AS ratio
+N/A
+Bonus AS
++3
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+125
+Pathing radius
+35
+Acq. radius
+400
+Special statistics
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++10%
+Damage Received
+-8%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Bridge Between
+Cooldown
+:
+50 / 40 / 30 / 20 (based on level)
+Innate - Awakened Spirit:
+Udyr
+has no ultimate ability and instead he has 4 basic abilities that each incur a
+brief
+global cooldown. Each ability grants a
+Stance
+that empowers his next two basic attacks. Periodically, after
+Udyr
+enters a
+Stance
+, he can cast it again to
+Awaken
+it: empowering the
+Stance
+with an additional effect.
+Innate - Monk Training:
+After casting any of his abilities,
+Udyr's
+next two basic attacks gain
+attack speed
+and reduce
+Awakened Spirit's
+cooldown.
+Innate - Awakened Spirit:
+Udyr
+has no
+ultimate ability
+and instead has 4
+basic abilities
+that each incur a
+1.
+5
+-second global cooldown
+when cast. Each ability grants a
+Stance
+that empowers his next two basic attacks, and switching
+Stances
+will replace the empowered attacks from the previous
+Stance
+.
+Periodically, after
+Udyr
+enters a
+Stance
+, he can cast it again at no cost after 0.
+25
+seconds and within the following 5 seconds to
+Awaken
+it, empowering the
+Stance
+with an additional effect and placing the effect on cooldown.
+If
+Udyr
+does not consume the
+Awaken
+cast within the duration and has not switched
+Stances
+, his current
+Stance's
+respective ability incurs a 0.
+25
+-second cooldown.
+Awakened Spirit
+is placed on full cooldown at the start of the game.
+Innate - Monk Training:
+After casting an ability,
+Udyr
+empowers his next two
+basic attacks
+within 4 seconds to gain
+30%
+bonus
+attack speed
+and refund 5% of
+Awakened Spirit's
+total
+cooldown, though not if the remaining cooldown is less than 1 second.
+Info
+Targeting input
+Passive
+Counters
+Parries
+Blocked
+Awakened Spirit's
+cooldown is affected by
+ultimate haste
+.
+Awakened
+ability casts are special cased to trigger
+Experimental Hexplate's
+Overdrive
+,
+Zeke's Convergence's
+Frostfire Tempest
+, and
+Cloud Dragon Soul's
+increased movement speed.
+The
+Awakened
+casts of
+Wilding Claw
+and
+Wingborne Storm
+are special cased to trigger
+Malignance's
+Hatefog
+from their damage.
+Axiom Arc's
+Flux
+does not count neither
+Awakened Spirit
+nor
+Wingborne Storm
+as ultimate abilities.
+Awakened Spirit's
+cooldown is tracked on his
+health bar
+by an
+Awakening
+resource, visible to all teams. This secondary resource bar is non-descript and represents the effect's percentage charge.
+The bar has a
+white
+color when
+Awakened Spirit
+is under 80% charge, a
+yellow
+color when at 80% charge or above, and a
+red
+color when an
+Awaken
+cast is available.
+Switching
+Stances
+will not cause any additional effects granted by the previous one to end prematurely.
+The global cooldown will not incur on abilities that are currently on a greater cooldown.
+The empowered attacks will not get consumed if they are parried.
+Awakened Spirit's
+cast also activates
+Monk Training
+and empowers the next 2 attacks by the stances unawakened effects as well, overriding unused unawakened stance attacks.
+Map-Specific Differences
+Ultra Rapid Fire
+differences
+edit
+Cooldown reduced by 50%.
+Cooldown refund changed to 10%.
+Arena
+differences
+edit
+Can't Touch This
+and
+Ultimate Revolution
+augments can be triggered by casting an
+Awakened
+ability.
+Edit
+Wilding Claw
+COST:
+20 mana
+COOLDOWN
+:
+6
+CAST TIME:
+none
+EFFECT RADIUS:
+450
+Claw Stance:
+Udyr
+first two basic attacks deal bonus
+physical damage
+equal to a portion of the
+target's
+maximum
+health
+. Additionally, he gains
+attack speed
+and bonus on-hit
+physical damage
+for a few seconds.
+Awaken:
+The next two basic attacks release a chain of lighting that bounces to nearby enemies, dealing
+magic damage
+equal to a portion of
+their
+maximum
+health
+and can bounce to the same enemy multiple times for a lack of targets. Additionally, he gains even greater
+attack speed
+for a few seconds.
+Active - Stance:
+Udyr
+enters
+Claw Stance
+, empowering his next two basic attacks to gain
+50
+bonus
+range and deal
+bonus
+physical damage
+.
+Bonus Physical Damage:
+3 / 4 / 5 / 6 / 7 / 8%
+(+ 4% per 100
+bonus
+AD)
+of target's
+maximum
+health
+Total Physical Damage:
+6 / 8 / 10 / 12 / 14 / 16%
+(+ 8% per 100
+bonus
+AD)
+of target's
+maximum
+health
+Additionally,
+Udyr
+gains
+bonus
+attack speed
+and deals
+bonus
+physical damage
+on-hit
+for 4 seconds.
+Bonus Attack Speed:
+20 / 32 / 44 / 56 / 68 / 80%
+Bonus Physical Damage On-Hit:
+5 / 11 / 17 / 23 / 29 / 35
+(+ 25%
+bonus
+AD)
+Recast - Awaken:
+Udyr
+gains an additional
+20% − 70% (based on level)
+bonus
+attack speed
+. The empowered attacks deal an additional
+2% − 4% (based on level)
+(+ 2% per 100
+bonus
+AD)
+of the target's
+maximum
+health
+bonus
+physical damage
+.
+Udyr's
+next two basic attacks in any
+Stance
+within 4 seconds are empowered to strike with lightning
+「 6 times over 1 second, 」
+「 every
+0.
+2
+seconds over 1 second, 」
+dealing
+bonus
+magic damage
+equal to
+1.
+5
+% − 3% (based on level)
+(+ 0.
+8
+% per 100 AP)
+of the target's
+maximum
+health
+per hit, chaining to up to 3 nearby
+visible
+enemies and being able to hit the same target multiple times, for a total of
+9% − 18% (based on level)
+(+ 4.
+8
+% per 100 AP)
+of the target's
+maximum
+health
+. Each lightning strike deals a minimum of
+40 − 160 (based on level)
+against
+minions
+and is capped at 15
+(+ 100%
+bonus
+AD)
+(+ 50% AP)
+against
+monsters
+.
+Info
+Targeting input
+Auto
+Damage type
+Type
+See Notes
+Sub-type
+Physical
+/
+Magic
+Counters
+Spell shield
+See Notes
+Parries
+Blocked
+Projectile
+Blocked
+Deals
+spell damage
+to the primary target and applies
+area damage
+on the lightning strikes.
+The lightning strikes can deal up to
+9% − 18% (based on level)
+(+ 4.
+8
+% per 100 AP)
+of the target's
+maximum
+health
+bonus
+magic damage
+per empowered basic attack against an isolated target.
+If both empowered attacks are used on the same isolated target, the lightning strikes can deal up to
+18% − 36% (based on level)
+(+ 9.
+6
+% per 100 AP)
+of the target's
+maximum
+health
+bonus
+magic damage
+.
+The lightning strikes from two separate empowered attacks can overlap with each other on the same target for additional damage.
+Spell shield
+will only block an empowered attack's application of the lightning strikes.
+The empowered attacks will not trigger nor be consumed if they hit a structure or ward or are parried.
+Map-Specific Differences
+Arena
+differences
+edit
+Bonus AD ratio changed to
+2% per 100
+bonus
+AD
+.
+Awaken bonus AD ratio changed to
+4% per 100
+bonus
+AD
+.
+Edit
+Iron Mantle
+COST:
+40 − 23 (based on level)
+mana
+COOLDOWN
+:
+6
+CAST TIME:
+none
+Mantle Stance:
+Udyr
+gains a
+shield
+and his next two basic attacks gain
+life steal
+and
+heal
+him.
+Awaken:
+Gain an even greater shield. The next two basic attack's
+life steal
+and
+healing
+is also greatly increased.
+Active - Stance:
+Udyr
+enters
+Mantle Stance
+, empowering his next two basic attacks to gain
+life steal
+and
+heal
+him for
+1.
+2
+% of his
+maximum
+health
+(+ 8% AP)
+on-hit.
+Life Steal:
+15 / 16 / 17 / 18 / 19 / 20%
+Additionally,
+Udyr
+grants himself a
+shield
+for 4 seconds.
+Shield Strength:
+45 / 60 / 75 / 90 / 105 / 120
+(+ 40% AP)
+(+ 2 / 2.
+3
+/ 2.
+6
+/ 2.
+9
+/ 3.
+2
+/ 3.
+5
+%
+maximum
+health)
+Recast - Awaken:
+Udyr
+increases the
+shield's
+strength, stacking with the remaining shield from the first cast, and
+heals
+every 0.
+25
+seconds over the next 4 seconds, as well as causes the empowered attacks to instead gain doubled
+life steal
+and
+heal
+him for
+2.
+4
+% of his
+maximum
+health
+(+ 16% AP)
+on-hit.
+Increased Shield Strength:
+20 − 150 (based on level)
+(+ 45 / 60 / 75 / 90 / 105 / 120)
+(+ 65% AP)
+(+ 8%
+maximum
+health)
+Total Healing:
+10 − 75 (based on level)
+(+ 22.
+5
+/ 30 / 37.
+5
+/ 45 / 52.
+5
+/ 60)
+(+ 32.
+5
+% AP)
+(+ 4%
+maximum
+health)
+Heal per Tick:
+0.
+63
+− 4.
+69
+(based on level)
+(+ 1.
+41
+/ 1.
+88
+/ 2.
+34
+/ 2.
+81
+/ 3.
+28
+/ 3.
+75
+)
+(+ 2.
+03
+% AP)
+(+ 0.
+25
+%
+maximum
+health)
+Increased Life Steal:
+30 / 32 / 34 / 36 / 38 / 40%
+Healing
+on-hit
+is reduced to 60% against
+minions
+.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Spell damage
+Counters
+Parries
+Blocked
+The empowered attacks apply
+spell effects
+to the target.
+The empowered attacks will not trigger nor be consumed if they hit a structure or ward or are parried.
+Map-Specific Differences
+Arena
+differences
+edit
+Shield AP ratio changed to
+60% AP
+.
+On-hit heal AP ratio changed to
+12% AP
+.
+Edit
+Blazing Stampede
+COST:
+40 − 23 (based on level)
+mana
+COOLDOWN
+:
+6
+CAST TIME:
+none
+TARGET IMMUNITY
+:
+6 / 5.
+6
+/ 5.
+2
+/ 4.
+8
+/ 4.
+4
+/ 4
+Stampede Stance:
+Udyr
+gains a burst of
+movement speed
+that decays over a few seconds. His attacks in this stance briefly
+stun
+his target, but this cannot affect them more than once every few seconds.
+Awaken:
+Udyr
+gains an even greater burst of
+movement speed
+and
+cc-immunity
+for a brief duration.
+Cc-immunity
+:
+Crowd control
+cannot be applied during this time.
+Active - Stance:
+Udyr
+enters
+Stampede Stance
+, empowering his basic attacks to have an
+uncancellable windup
+and
+pounce
+on the target
+to
+stun
+them for 0.
+75
+seconds. This cannot affect the same target more than once every few seconds.
+Additionally,
+Udyr
+becomes
+ghosted
+and gains
+bonus
+movement speed
+for 4 seconds, which decays to 30% effectiveness over 1.
+5
+seconds.
+Bonus Movement Speed:
+25 / 31 / 37 / 43 / 49 / 55%
+Decayed Bonus Movement Speed:
+7.
+5
+/ 9.
+3
+/ 11.
+1
+/ 12.
+9
+/ 14.
+7
+/ 16.
+5
+%
+Recast - Awaken:
+Udyr
+gains
+75
+bonus
+attack range and an additional
+30% − 40% (based on level)
+bonus
+movement speed
+. He also gains
+immunity to crowd control
+for 1.
+5
+seconds.
+Info
+Targeting input
+Auto
+Counters
+Spell shield
+Blocked
+Parries
+Blocked
+Grounded
+See Notes
+Knockdown
+See Notes
+Udyr
+cannot dash while
+grounded
+or
+rooted
+, but he will still declare the empowered attack.
+The empowered attack will still apply its effects even if the dash is interrupted.
+The empowered attacks will not trigger nor be consumed if they hit a structure or ward or are parried.
+The immunity to the stun is not applied in any case.
+Edit
+Wingborne Storm
+COST:
+40 − 23 (based on level)
+mana
+COOLDOWN
+:
+6
+CAST TIME:
+none
+EFFECT RADIUS:
+370
+/
+1300
+SPEED:
+109.
+5
+− 250 (based on level)
+Storm Stance:
+Udyr
+summons a blizzard around himself for a few seconds that continuously deals
+magic damage
+and
+slows
+enemies inside. His next two basic attacks each cause the blizzard to deal a burst of additional
+magic damage
+to enemies inside it.
+Awaken:
+Udyr
+unleashes the blizzard to seek out the enemy, prioritizing the target of
+Udyr's
+attacks. It also deals increased
+magic damage
+equal to a portion of
+their
+maximum
+health
+.
+Active - Stance:
+Udyr
+enters
+Storm Stance
+, empowering his next two basic attacks to deal
+10 − 30 (based on level)
+(+ 30% AP)
+magic damage
+to nearby enemies.
+Additionally,
+Udyr
+summons a blizzard around himself for 4 seconds that deals
+magic damage
+every 0.
+5
+seconds to nearby enemies and
+slows
+them.
+Minions
+take
+50 / 60 / 70 / 80% (based on level)
+damage.
+Magic Damage per Tick:
+10 / 17 / 24 / 31 / 38 / 45
+(+ 17.
+5
+% AP)
+Total Magic Damage:
+80 / 136 / 192 / 248 / 304 / 360
+(+ 140% AP)
+Slow:
+15 / 18 / 21 / 24 / 27 / 30%
+Recast - Awaken:
+Udyr
+ends the blizzard if it is active and unleashes a glacial storm for 4 seconds that is able to move on its own, as well as causes the empowered attacks to instead deal their damage to enemies within that storm. The storm follows the closest nearby
+visible
+target and applies the same effects but deals
+bonus
+magic damage
+equal to
+「
+1% − 1.
+75
+% (based on level)
+(+ 0.
+4375
+% per 100 AP)
+of the target's
+maximum
+health
+per tick, capped at
+10 − 50 (based on level)
+」
+「
+8% − 14% (based on level)
+(+ 3.
+5
+% per 100 AP)
+of the target's
+maximum
+health
+over the duration, capped at
+80 − 400 (based on level)
+」
+against
+monsters
+, and
+slows
+by an additional 5%.
+Increased Slow:
+20 / 23 / 26 / 29 / 32 / 35%
+The unleashed storm grants
+sight
+of its
+surroundings
+and prioritizes following the last enemy
+Udyr
+has attacked while he is nearby, then enemy
+champions
+, then non-champions, then
+Udyr
+.
+Info
+Targeting input
+Auto
+Damage type
+Type
+AOE DOT damage
+Sub-type
+Magic
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+The storm that
+Udyr
+surrounds himself with is independent from the unleashed storm.
+He can still cast
+Wingborne Storm
+to surround himself with a storm while an unleashed storm from an
+Awakened
+cast is active.
+Using the
+Awakened
+cast ends the storm around
+Udyr
+if it is active and summons a separate storm that is able to move on its own.
+The slow debuff has a duration equal to the storm's remaining duration and is removed immediately when the unit leaves the storm's area of effect.
+Units receive the debuff whenever they are in the storm, even after having it removed from leaving the area.
+If the target
+Udyr
+has most recently attacked is invalid and there are no nearby enemies then the storm will follow him instead.
+The storm can follow
+Udyr
+regardless of how far away he is from it.
+The storm will remain active even if
+Udyr
+dies. Any commands it was issued to follow a target will not be interrupted.
+The storm will follow its target even if they are not
+visible
+, but only for up to 1 second.
+If it does not gain vision of its target within that time, it changes its target.
+The storm is obstructed by terrain. If it encounters terrain, then it will automatically navigate its path towards the target.
+The empowered attacks will not trigger nor be consumed if they hit a structure or ward or are parried.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage per second changed to 25 / 45 / 65 / 85 / 105 / 125.
+Awakened total ratio changed to
+5% per 100 AP
+.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Udyr (Collection)
+.
+Original
+View in 3D
+585
+02.12.2009
+The most powerful spirit walker alive, Udyr communes with all the spirits of the Freljord, whether by empathically understanding their needs, or by channeling and transforming their ethereal energy into his own primal fighting style. He seeks balance within, so that his mind does not get lost amidst others, but he also seeks balance without—for the Freljord's mystical landscape can only thrive with the growth that comes from conflict and struggle, and Udyr knows that sacrifices must be made to keep peaceful stagnance at bay.
+Sean Rohani
+Terence 'Terrylefruit' Cantal
+Loot eligible
+Black Belt
+View in 3D
+520
+18.07.2010
+Students of the Hiraclaw Dojo know that the best way to tell people you're good at punching is to have a giant screen-printed fist on your clothes. That's a karate fact, according to sensei Udyr. Which is why their parents all buy them the special Hiraclaw gi (only $89.95).
+Sean Rohani
+Silvia Meiliani, Caravan Studio
+Day Job
+Loot eligible
+Primal
+View in 3D
+975
+06.12.2010
+Cursed to roam the land as something between man and beast, Udyr no longer distinguishes between hunters and hunted. Once he gets close enough to strike, they are all his prey.
+Sean Rohani
+Rio Sabda, Caravan Studio
+Prehistoric Hunters
+Loot eligible
+Legacy
+Spirit Guard
+View in 3D
+3250
+16.07.2013
+Udyr's time in Ionia, training at Hirana Monastery, taught him control and calmed the storm in his heart. Though the Freljord called him home, Udyr chose to stay and help Ionia regain spiritual harmony, as it had done for him. As he gets closer to this goal, he knows that his work to do the same for the whole of Runeterra has only just begun.
+Sean Rohani
+Rudy Siswanto
+Spirit Guard
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Transforming
+Includes Extras
+Chromas
+Spirit Guard Udyr forms
+Bear
+Phoenix
+Tiger
+Turtle
+Definitely Not
+View in 3D
+975
+31.03.2015
+Wear the onesie. Become the beast.
+Sean Rohani
+Unknown artist
+Definitely Not
+Loot eligible
+New Animations/Recall
+Dragon Oracle
+View in 3D
+1350
+15.08.2019
+Every dragon that dies leaves behind a blazing spirit. Through Udyr, a mystic who doubted the old tales, these dragon spirits have the chance to touch life once again. He believes that dragons are only as evil as those who command them and, in channeling the spirits and their flames, seeks to prove it to the slayers.
+Sean Rohani
+Unknown artist
+Dragon World
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Inkshadow
+View in 3D
+1350
+03.05.2023
+Udyr has given up much as tattoo artist for the Inkshadow Warriors, sacrificing pieces of himself to multiple spirits and covering his body in their arcane contracts to enhance his natural second sight. He sees the souls of his canvases, knows the price they must pay, and connects them to the spirits who will give them the power to do what must be done.
+Sean Rohani
+Augusto Quirino, West Studio
+Inkshadow
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Inkshadow Udyr Chromas
+Inked
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.22
+General
+Bug Fix:
+Non-
+Awakened
+ability casts no longer trigger
+Experimental Hexplate's
+Overdrive and
+Zeke's Convergence's
+Frostfire Tempest.
+Wingborne Storm
+Base damage per tick reduced to 10 / 17 / 24 / 31 / 38 / 45 from 10 / 19 / 28 / 37 / 46 / 55.
+Total base damage reduced to 80 / 136 / 192 / 248 / 304 / 360 from 80 / 152 / 224 / 296 / 368 / 440.
+Awaken health ratio reduced to
+1% − 1.
+75
+% (based on level)
+target
+maximum
+health
+from
+1% − 2% (based on level)
+.
+Monster damage cap per tick changed to
+10 − 50 (based on level)
+per tick from
+5 − 35 (based on level)
+.
+Total monster damage cap changed to
+80 − 400 (based on level)
+per tick from
+40 − 280 (based on level)
+.
+V14.20
+Wilding Claw
+Awaken base monster damage reduced to 15 from 20.
+Blazing Stampede
+Bonus movement speed reduced to 25 / 31 / 37 / 43 / 49 / 55% from 30 / 36 / 42 / 48 / 54 / 60%.
+Wingborne Storm
+Monster damage cap reduced to
+5 − 35 (based on level)
+from
+10 − 50 (based on level)
+.
+V14.19
+Blazing Stampede
+Bug Fix:
+Fixed an issue that caused him to gain a redundant buff when casting it.
+V14.3
+Bridge Between
+New Effect:
+Cooldown is now affected by Ultimate haste.
+New Effect:
+Entering a stance is now special-cased to trigger
+Experimental Hexplate's
+Overdrive and
+Cloud Dragon Soul's
+increased movement speed.
+New Effect:
+Awakened
+Wilding Claw
+and
+Wingborne Storm
+are now special-cased to trigger
+Malignance's
+Hatefog.
+V13.18
+Blazing Stampede
+Bug Fix:
+Spell shield
+no longer blocks the application of the on-target cooldown marker for the empowered attack.
+V13.14
+Blazing Stampede
+Bug Fix:
+Hail of Blades
+now properly triggers from the empowered attack.
+V13.4
+Stats
+Health growth reduced to 92 from 98.
+Base armor reduced to 31 from 34.
+Wilding Claw
+On-hit bonus AD ratio reduced to
+25%
+bonus
+AD
+from
+30%
+.
+Wingborne Storm
+Empowered slow reduced to 20 / 23 / 26 / 29 / 32 / 35% from 25 / 28 / 31 / 34 / 37 / 40%.
+V13.1b
+Wilding Claw
+Bonus AD ratio reduced to
+4% per 100
+bonus
+AD
+from
+5%
+.
+Bonus attack speed increased to 20 / 32 / 44 / 56 / 68 / 80% from 20 / 30 / 40 / 50 / 60 / 70%.
+Wingborne Storm
+Base damage per tick reduced to 10 / 19 / 28 / 37 / 46 / 55 from from 10 / 20 / 30 / 40 / 50 / 60.
+Total base damage reduced to 80 / 152 / 224 / 296 / 368 / 440 from 80 / 160 / 240 / 320 / 400 / 480.
+V12.23
+- December 14th Hotfix
+Wilding Claw
+Base damage reduced to
+3 / 4 / 5 / 6 / 7 / 8%
+maximum
+health
+from
+3 / 4.
+4
+/ 5.
+8
+/ 7.
+2
+/ 8.
+6
+/ 10%
+Bonus AD ratio reduced to
+5% per 100
+bonus
+AD
+from
+6%
+.
+Awaken base damage reduced to
+2% − 4% (based on level)
+maximum
+health
+from
+2% − 5% (based on level)
+.
+Awaken bonus AD ratio reduced to
+2% per 100
+bonus
+AD
+from
+3%
+.
+On-hit base damage reduced to to 5 / 11 / 17 / 23 / 29 / 35 from 5 / 13 / 21 / 29 / 37 / 45.
+On-hit bonus AD ratio increased to
+30%
+bonus
+AD
+from
+20%
+.
+Iron Mantle
+Mana cost reduced to
+40 − 23 (based on level)
+from
+45 − 28 (based on level)
+.
+Blazing Stampede
+Mana cost reduced to
+40 − 23 (based on level)
+from
+45 − 28 (based on level)
+.
+Wingborne Storm
+Mana cost reduced to
+40 − 23 (based on level)
+from
+45 − 28 (based on level)
+.
+Base damage per tick increased to 10 / 20 / 30 / 40 / 50 / 60 from 10 / 18 / 26 / 34 / 42 / 50.
+Total base damage increased to 80 / 160 / 240 / 320 / 400 / 480 from 80 / 144 / 208 / 272 / 336 / 400.
+V12.19
+Wilding Claw
+New Effect:
+Awakened cast lightning strikes now each deal a minimum of
+40 − 160 (based on level)
+against minions.
+Iron Mantle
+On-hit heal against minions increased to 60% from 50%.
+Wingborne Storm
+Damage against minions changed to
+50 / 60 / 70 / 80% (based on level)
+from
+40 / 55 / 70 / 85% (based on level)
+.
+V12.18
+Stats
+Armor growth reduced to 4.
+7
+from 5.
+2
+Health growth reduced to 98 from 106.
+Wilding Claw
+Mana cost reduced to 20 at all levels from
+45 − 28 (based on level)
+.
+New Effect:
+Next two empowered attacks now always gain 50 bonus range, rather than only during the
+Awakened
+cast.
+New Effect:
+Next two empowered attacks during an
+Awakened
+cast now deal an additional
+2% − 5% (based on level)
+(+ 3% per 100
+bonus
+AD)
+of target's
+maximum
+health
+bonus
+physical damage
+.
+Awaken AP ratio increased to
+0.
+8
+% per 100% AP
+from
+0.
+6
+% per 100% AP
+.
+Iron Mantle
+On-hit base heal reduced to
+1.
+2
+%
+maximum
+health
+at all ranks from
+1.
+2
+/ 1.
+26
+/ 1.
+32
+/ 1.
+38
+/ 1.
+44
+/ 1.
+5
+%
+.
+Awakened on-hit base heal reduced to
+2.
+4
+%
+maximum
+health
+from
+2.
+4
+/ 2.
+52
+/ 2.
+64
+/ 2.
+76
+/ 2.
+88
+/ 3%
+Shield health ratio reduced to
+2 / 2.
+3
+/ 2.
+6
+/ 2.
+9
+/ 3.
+2
+/ 3.
+5
+%
+maximum
+health
+from
+2 / 2.
+4
+/ 2.
+8
+/ 3.
+2
+/ 3.
+6
+/ 4%
+.
+Life steal increased to 15 / 16 / 17 / 18 / 19 / 20% from 15% at all ranks.
+Wingborne Storm
+Base damage per tick reduced to 10 / 18 / 26 / 34 / 42 / 50 from 10 / 19 / 28 / 37 / 46 / 55.
+Maximum base damage reduced to 80 / 144 / 208 / 272 / 336 / 400 from 80 / 152 / 224 / 296 / 368 / 440.
+AP ratio per tick reduced to
+17.
+5
+% AP
+from
+20% AP
+.
+Maximum AP ratio reduced to
+140% AP
+from
+160% AP
+.
+Damage against minions changed to
+40 / 55 / 70 / 85% (based on level)
+from
+50 / 60 / 70 / 80% (based on level)
+.
+V12.16
+- August 26th Hotfix
+Wilding Claw
+Base damage increased to
+3 / 4.
+4
+/ 5.
+8
+/ 7.
+2
+/ 8.
+6
+/ 10% of target's
+maximum
+health
+from
+3 / 4.
+2
+/ 5.
+4
+/ 6.
+6
+/ 7.
+8
+/ 9%
+.
+Bonus AD ratio increased to
+6% per 100
+bonus
+AD
+from
+4%
+.
+On-hit base damage increased to 5 / 13 / 21 / 29 / 37 / 45 from 5 / 9 / 13 / 17 / 21 / 25.
+On-hit bonus AD ratio increased to
+20%
+bonus
+AD
+from
+10%
+.
+Iron Mantle
+Shield health ratio reduced to
+2 / 2.
+4
+/ 2.
+8
+/ 3.
+2
+/ 3.
+6
+/ 4%
+maximum
+health
+from
+2 / 2.
+6
+/ 3.
+2
+/ 3.
+8
+/ 4.
+4
+/ 5%
+.
+On-hit base heal reduced to
+1.
+2
+/ 1.
+26
+/ 1.
+32
+/ 1.
+38
+/ 1.
+44
+/ 1.
+5
+%
+maximum
+health
+from
+1.
+2
+/ 1.
+32
+/ 1.
+44
+/ 1.
+56
+/ 1.
+68
+/ 1.
+8
+%
+.
+Blazing Stampede
+Bonus movement speed increased to 30 / 37 / 44 / 51 / 58 / 65% from 30 / 34 / 38 / 42 / 46 / 50%.
+On-target cooldown reduced to 6 / 5.
+6
+/ 5.
+2
+/ 4.
+8
+/ 4.
+4
+/ 4 seconds from 6 / 5.
+7
+/ 5.
+4
+/ 5.
+1
+/ 4.
+8
+/ 4.
+5
+.
+V12.16
+- Full Relaunch
+General
+New splash artwork for
+Original Udyr
+,
+Black Belt Udyr
+,
+Primal Udyr
+, and
+Spirit Guard Udyr
+.
+Adjusted splash artwork for
+Definitely Not Udyr
+and
+Dragon Oracle Udyr
+.
+Stats
+Base attack damage reduced to 62 from 64.
+Attack damage growth reduced to 4 from 5.
+Base attack speed reduced to 0.
+65
+from 0.
+658
+.
+Attack speed ratio reduced to 0.
+65
+from 0.
+658
+.
+Attack speed growth increased to 3% from 2.
+67
+%.
+Bridge Between
+(Innate)
+Innate - Awakened Spirit:
+Udyr
+has no ultimate ability and instead has 4 basic abilities. Each ability grants a
+Stance
+that empowers his next two basic attacks and grants an additional effect. Switching
+Stances
+will replace the empowered attacks from the previous
+Stance
+, and incurs a
+1.
+5
+-second global cooldown
+on his other abilities. Periodically, after
+Udyr
+enters a
+Stance
+, he can cast it again at no cost after 0.
+25
+seconds and within the following 5 seconds to
+Awaken
+it, empowering the
+Stance
+with an additional effect and placing the effect on cooldown. If
+Udyr
+does not consume the
+Awaken
+cast within the duration and has not switched
+Stances
+, his current
+Stance's
+respective ability incurs a 0.
+25
+-second cooldown.
+Awakened Spirit
+is placed on full cooldown at the start of the game.
+Innate - Monk Training:
+After casting an ability,
+Udyr
+empowers his next two basic attacks within 4 seconds to gain
+30%
+bonus
+attack speed
+and refund 5% of
+Awaken's
+total
+cooldown.
+Static Cooldown:
+50 / 40 / 30 / 20 (based on level)
+seconds.
+Wilding Claw
+(Q)
+Active - Stance:
+Udyr
+enters
+Claw Stance
+, empowering his next two basic attacks to maul the target, dealing
+3 / 4.
+2
+/ 5.
+4
+/ 6.
+6
+/ 7.
+8
+/ 9%
+(+ 4% per 100
+bonus
+AD)
+of target's
+maximum
+health
+bonus
+physical damage
+.
+Additionally,
+Udyr
+gains 20 / 30 / 40 / 50 / 60 / 70%
+bonus
+attack speed
+and deals 5 / 9 / 13 / 17 / 21 / 25
+(+ 10%
+bonus
+AD)
+bonus
+physical damage
+on-hit
+for 4 seconds.
+Recast - Awaken:
+Udyr
+gains an additional
+20% − 70% (based on level)
+bonus
+attack speed
+and causes the empowered attacks to strike with lightning 6 times, dealing
+magic damage
+equal to
+1.
+5
+% − 3% (based on level)
+(+ 0.
+6
+% per 100 AP)
+of the target's
+maximum
+health
+per hit, chaining to up to 3 nearby
+visible
+enemies, and being able to hit the same target multiple times. This is capped at 20
+(+ 100%
+bonus
+AD)
+(+ 50% AP)
+against
+monsters
+.
+Mana Cost:
+45 − 28 (based on level)
+.
+Cooldown:
+6
+seconds.
+Effect Radius:
+450
+,
+Cast Time:
+None.
+Iron Mantle
+(W)
+Active - Stance:
+Udyr
+enters
+Mantle Stance
+, empowering his next two basic attacks to gain 15% life steal and
+heal
+him for
+1.
+2
+/ 1.
+32
+/ 1.
+44
+/ 1.
+56
+/ 1.
+68
+/ 1.
+8
+%
+maximum
+health
+(+ 8% AP)
+each.
+Additionally,
+Udyr
+gains a
+shield
+for 45 / 60 / 75 / 90 / 105 / 120
+(+ 40% AP)
+(+ 2 / 2.
+6
+/ 3.
+2
+/ 3.
+8
+/ 4.
+4
+/ 5%
+maximum
+health)
+for 4 seconds.
+Recast - Awaken:
+Udyr
+increases the
+shield's
+strength to
+20 − 150 (based on level)
+(+ 45 / 60 / 75 / 90 / 105 / 120)
+(+ 65% AP)
+(+ 8%
+maximum
+health)
+(stacking with the remaining shield from the first cast), and
+heals
+every 0.
+25
+seconds over the next 4 seconds, for a total of
+10 − 75 (based on level)
+(+ 22.
+5
+/ 30 / 37.
+5
+/ 45 / 52.
+5
+/ 60)
+(+ 32.
+5
+% AP)
+(+ 4%
+maximum
+health)
+, as well as causes the empowered attacks to instead gain 30% life steal and grant doubled
+healing
+.
+Healing on-hit is reduced to 50% against
+minions
+.
+Mana Cost:
+45 − 28 (based on level)
+.
+Cooldown:
+6
+seconds.
+Cast Time:
+None.
+Blazing Stampede
+(E)
+Active - Stance:
+Udyr
+enters
+Stampede Stance
+, empowering his basic attacks to have an
+uncancellable windup
+and
+pounce
+on the target
+to
+stun
+them for 0.
+75
+seconds. This cannot affect the same target more than once every few seconds.
+Additionally,
+Udyr
+becomes
+ghosted
+and gains 30 / 34 / 38 / 42 / 46 / 50%
+bonus
+movement speed
+for 4 seconds, which decays to 30% effectiveness over 1.
+5
+seconds.
+Recast - Awaken:
+Udyr
+gains an additional
+30% − 40% (based on level)
+bonus
+movement speed
+and
+immunity to crowd control
+for 1.
+5
+seconds.
+Mana Cost:
+45 − 28 (based on level)
+.
+Cooldown:
+6
+seconds.
+Target Immunity:
+6 / 5.
+7
+/ 5.
+4
+/ 5.
+1
+/ 4.
+8
+/ 4.
+5
+seconds (unaffected by ability haste).
+Cast Time:
+None.
+Wingborne Storm
+(R)
+Active - Stance:
+Udyr
+enters
+Storm Stance
+, empowering his next two basic attacks to deal
+10 − 30 (based on level)
+(+ 30% AP)
+bonus
+magic damage
+to nearby enemies.
+Additionally,
+Udyr
+summons a blizzard around himself for 4 seconds that deals 10 / 19 / 28 / 37 / 46 / 55
+(+ 20% AP)
+magic damage
+every 0.
+5
+seconds to nearby enemies and
+slows
+them.
+Minions
+take
+50 / 60 / 70 / 80% (based on level)
+damage.
+Recast - Awaken:
+Udyr
+ends the blizzard if it is active and unleashes a glacial storm for 4 seconds that is able to move on its own. The storm follows the closest nearby
+visible
+target and applies the same effects but deals
+bonus
+magic damage
+equal to
+「
+1% − 2% (based on level)
+(+ 0.
+4375
+% per 100 AP)
+of the target's
+maximum
+health
+per tick, capped at
+10 − 50 (based on level)
+」
+「
+8% − 16% (based on level)
+(+ 3.
+5
+% per 100 AP)
+of the target's
+maximum
+health
+over the duration, capped at
+80 − 400 (based on level)
+」
+against
+monsters
+, and
+slows
+by an additional 10%.
+The unleashed storm grants
+sight
+of its
+surroundings
+and prioritizes following the last enemy
+Udyr
+has attacked while he is nearby, then enemy
+champions
+, then non-champions, then
+Udyr
+.
+Mana Cost:
+45 − 28 (based on level)
+.
+Cooldown:
+6
+seconds.
+Effect Radius:
+370
+/
+1300
+,
+Cast Time:
+None.
+Trivia
+[
+edit
+|
+edit source
+]
+He is the only character that cannot max out all of his skills, as each of his skills have six
+levels
+and the max character level is 18 (18 points for a total of 24 possible ranks).
+However, in the
+Ultra Rapid Fire
+(2015) featured mode, there is no limit to a champion's level, so Udyr is able to have 6 levels for his abilities.
+He is one of the few characters without an ultimate along with
+Jayce
+. Udyr has 4 skills that can be leveled up to the maximum rank of 6.
+Udyr is one of a few champions to have multiple textures in one
+skin
+. Udyr however has more different textures in one skin than any other champion, as he has a different one for each of his stances.
+Udyr's dance references the
+Drunken Master Kung Fu Style
+.
+A side-by-side comparison can be seen
+here
+.
+Udyr is one of two champions that went into the weekly
+champion rotation
+on the day of their release. The other one is
+Poppy
+.
+Udyr was one of the champions chosen for the Ionian pool available during the
+Ionia vs. Noxus match
+.
+He was one of the selected champions, and was voted the MVP.
+In the
+V1.0.0.115
+April Fools' Day
+patch, he was jokingly listed to receive a skin called
+"Urfdyr"
+, referencing
+Urf
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Juggernaut
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+Juggernauts
+are melee titans who relentlessly march down the opposition and devastate those foolish enough to get within their grasp. They are the only subclass who excel at both dealing and taking significant amounts of damage, but in turn they have a tough time closing in on targets due to their low range and extremely limited mobility.
+Examples
+Dr. Mundo
+Darius
+Mordekaiser
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Wilding Claw
+COOLDOWN:
+6
+Claw Stance:
+Udyr
+first two basic attacks deal bonus
+physical damage
+equal to a portion of the
+target's
+maximum
+health
+. Additionally, he gains
+attack speed
+and bonus on-hit
+physical damage
+for a few seconds.
+Awaken:
+The next two basic attacks release a chain of lighting that bounces to nearby enemies, dealing
+magic damage
+equal to a portion of
+their
+maximum
+health
+and can bounce to the same enemy multiple times for a lack of targets. Additionally, he gains even greater
+attack speed
+for a few seconds.
+League of Legends content
+Wingborne Storm
+COOLDOWN:
+6
+Storm Stance:
+Udyr
+summons a blizzard around himself for a few seconds that continuously deals
+magic damage
+and
+slows
+enemies inside. His next two basic attacks each cause the blizzard to deal a burst of additional
+magic damage
+to enemies inside it.
+Awaken:
+Udyr
+unleashes the blizzard to seek out the enemy, prioritizing the target of
+Udyr's
+attacks. It also deals increased
+magic damage
+equal to a portion of
+their
+maximum
+health
+.
+League of Legends content
+Fury
+Fury
+is an umbrella term for many named resources that must be generated before being usable, compared to
+Mana
+or
+Energy
+that exist in some quantity beforehand. For most users, this resource is only required by a single ability or passive effect.
+It represents
+momentum
+and encourages sustained aggression from users, often gating a power-spike or empowerment.
+Fury
+generation varies between users, but is always generated
+in-combat
+(e.g. on-hit, ability casts or taking damage) and often decays when out of combat.
+Known as
+Fury
+Rage
+Battle Fury
+Dragon Fury
+Crimson Rush
+Courage
+Grit
+Awakening
+League of Legends content
+Ultra Rapid Fire (U.R.F.)
+Ultra Rapid Fire
+is a
+Featured Game Mode
+that takes place on
+Summoner's Rift
+with the same objective as
+Classic 5v5
+, except all
+champions
+benefit from the
+Awesome Buff of Awesomely Awesome Buffing
+that grants excessive  ability haste and removes ability costs. The gameplay is
+explosive
+. The game mode can be played as
+All Random
+or
+Blind pick
+depending on the year.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Cc-Immune
+Crowd control immunity
+prevents
+any
+type of
+crowd control
+from being
+applied
+to the unit. CC which has already been applied will still have an effect on the unit. Epic
+monsters
+(excluding a summoned
+Rift Herald
+) and
+turrets
+are always immune to all crowd control, with the exception of
+stasis
+.
+League of Legends content
+Crowd control
+A unit that is
+disabled
+is affected by a status effect that prevents certain actions – such as movement, attacking, casting and/or seeing–blocked, reduced or controlled.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Ground
+A unit that is
+grounded
+is unable to activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Grounded
+units can still be displaced.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Ground
+is the only type of
+crowd control
+that is most commonly found in persistent area of effects, which will reapply the status effect continuously.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Root
+A unit that is
+rooted
+is unable to control its movement or activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Rooted
+units can still be displaced.
+Root
+is an
+immobilizing
+effect
+.
+Moving
+includes movement commands.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Udyr's profile page
+at
+LeagueOfLegends.com

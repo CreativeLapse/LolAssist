@@ -1,0 +1,2056 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Zilean
+the Chronokeeper
+Release date
+2009-04-18
+Last changed
+V14.20
+Class(es)
+Specialist
+Legacy
+Support
+Mage
+Position(s)
+Support
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+1350
+|
+585
+Crafting
++
+810
+Ratings
+Damage
+2
+Toughness
+1
+Control
+2
+Mobility
+2
+Utility
+3
+Style
+Difficulty
+Zilean
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Zilean
+Base statistics
+Edit
+Health
+574
++96
+Mana
+452
++50
+Health regen. (per 5s)
+5.5
++0.5
+Mana regen. (per 5s)
+11.35
++0.8
+Armor
+24
++5
+Attack damage
+52
++3
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+550
+Attack speed
+Base AS
+0.658
+Attack windup
+18%
+AS ratio
+0.625
+Bonus AS
++2.13
+%
+Missile speed
+1500
+Unit radius
+Gameplay radius
+65
+Selection radius
+135
+Pathing radius
+35
+Acq. radius
+550
+Special statistics
+Damage Dealt
++5%
+Damage Received
+-5%
+Ability Haste
++10
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++5%
+Damage Received
+-5%
+Damage Dealt
++5%
+Damage Received
+-10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Time in a Bottle
+STATIC COOLDOWN
+:
+120
+TARGET RANGE:
+875
+Innate:
+Zilean
+generates a storage of
+experience
+over time. When he has enough to level up an allied
+champion
+, he can
+channel
+by
+selecting them to split the stored
+experience
+between himself and the ally.
+Innate:
+Zilean
+generates
+2 / 3.
+5
+/ 5 / 6 / 12 (based on level)
+experience
+(does not count towards his own
+level up
+) every 5 seconds.
+Time in a Bottle
+is on cooldown when the game starts and becomes disabled when everyone on
+Zilean's
+team including himself has reached level 18.
+When he has stored enough to level up an allied
+champion
+and grant the same amount of experience to himself, he can
+select them
+to
+channel
+for 1.
+2
+seconds after a 0.
+5
+-second
+cast time
+. The channel is
+interrupted
+and disabled upon entering
+combat
+with enemy champions or taking damage from
+turrets
+, placing it on a
+10-second cooldown
+. If
+Zilean
+interrupts it himself, it is placed on a 1-second cooldown, increased to 2 if he used a
+basic attack
+against a turret to do so.
+A successful channel will grant an equal amount of
+experience
+to the ally to-level-up and
+Zilean
+, with a combined minimum of 15% his stored
+experience
+.
+Info
+Targeting input
+Unit
+Counters
+Disruption
+Interrupted
+Zilean
+has a hidden passive that grants him
+1 ability power
+for every enemy
+Volibear
+within 800 range of him.
+Likewise,
+Volibear
+gains
+1 armor
+for every nearby
+Zilean
+.
+Neither
+Volibear
+nor
+Zilean
+need
+sight
+of one another to gain these bonuses.
+Time in a Bottle
+marks allied champions with two circles beneath them; the inner one represents how close they are to leveling up, turning golden when able to activate
+Time in a Bottle
+on them.
+The target allied champion is not required to be out of combat to be leveled up by
+Time in a Bottle
+- only
+Zilean
+is.
+Zilean
+only consumes the amount of
+experience
+required to level up an allied champion. He retains the excess for later use.
+The target allied champion is not required to be within range of
+Zilean
+for the channel to complete successfully, it will complete regardless of if they move to a far distance.
+The channel from
+Time in a Bottle
+is not interrupted even if the allied champion suddenly levels up. However, no experience will be granted to either player, and the passive will not go on cooldown.
+The following table refers for interactions while
+Zilean
+is
+channeling
+:
+Type
+Channel
+Attacking
+Interrupts
+Abilities
+Interrupts
+Movement
+Interrupts
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+Hextech Rocketbelt
+Interrupted by
+All item-actives not specified above interrupt
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+N/A
+Interrupted by
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+Death
+Cast-inhibiting effects
+Edit
+Time Bomb
+COST:
+60 / 65 / 70 / 75 / 80 Mana
+COOLDOWN:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8
+CAST TIME:
+0.
+25
+TARGET RANGE:
+900
+COLLISION RADIUS:
+140
+EFFECT RADIUS:
+350
+Active:
+Zilean
+throws a ticking time bomb to the target location that will attach upon enemy contact,
+revealing
+them. It will detonate after a short time or when the attached unit dies, dealing
+magic damage
+to nearby enemies hit. The bomb will detonate immediately if another bomb attaches to the same target, briefly
+stunning
+enemies hit.
+Active:
+Zilean
+throws a ticking time bomb to the target location that grants
+sight
+of its surroundings. The bomb will attach itself to units that move within the epicenter, or those hit directly,
+revealing
+them.
+After 3 seconds, or when the attached unit dies, the bomb explodes to deal
+magic damage
+to nearby enemies.
+Magic Damage:
+75 / 115 / 165 / 230 / 300
+(+ 90% AP)
+The bomb detonates immediately if another bomb attaches itself to the same unit,
+stunning
+nearby enemies for a duration.
+Stun Duration:
+1.
+1
+/ 1.
+2
+/ 1.
+3
+/ 1.
+4
+/ 1.
+5
+seconds
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Time Bombs
+landing directly on top of multiple units follow a priority order for whom to attach themselves to.
+Units already carrying a bomb
+Enemy champions
+Allied champions
+Enemy minions
+Allied minions
+Time Bombs
+are not visible to enemies if they attach to an ally that is
+stealthed
+and vice versa.
+When
+Time Bomb
+snaps onto an enemy, it  deals 0
+proc damage
+.
+This triggers
+in-combat
+effects such as drawing turret aggro and drawing
+monster aggression
+.
+It also triggers
+Sudden Impact
+and applies
+Elixir of Sorcery
+.
+It does not trigger
+Cheap Shot
+, however, as
+proc damage
+doesn't trigger
+Cheap Shot
+.
+Zilean
+can detonate an enemy counterpart's
+Time Bomb
+by placing his own on the same unit (the first bomb still deals damage).
+Time Bomb
+will be dispelled if the holder takes fatal damage and is saved by
+resurrection
+before it explodes.
+Time Bomb
+can deal damage to the enemy holder through
+untargetablility
+.
+Spell shield
+will prevent the application of
+Time Bomb
+and it's detonation damage as well as block the
+stun
+, but not it's immediate detonation if the target already has a
+Time Bomb
+on them.
+Map-Specific Differences
+Ultra Rapid Fire
+differences
+edit
+Stun duration reduced by 0.
+6
+seconds.
+Cooldown changed to 18 / 17.
+1
+/ 16.
+2
+/ 15.
+3
+/ 14.
+4
+seconds.
+Arena
+differences
+edit
+Base damage changed to 100 / 165 / 230 / 295 / 360.
+AP ratio changed to
+100% AP
+.
+Edit
+Rewind
+COST:
+35 Mana
+COOLDOWN:
+14 / 12 / 10 / 8 / 6
+CAST TIME:
+none
+Active:
+Zilean
+reduces
+the
+remaining
+cooldowns of his other basic abilities.
+Active:
+Zilean
+reduces the
+remaining
+cooldowns of
+Time Bomb
+and
+Time Warp
+by 10 seconds each.
+Either
+Time Bomb
+or
+Time Warp
+must be on cooldown to cast this ability
+.
+Info
+Targeting input
+Auto
+No additional details.
+Map-Specific Differences
+Ultra Rapid Fire
+differences
+edit
+Cooldown changed to 25.
+2
+/ 21.
+6
+/ 18 / 14.
+4
+/ 10.
+8
+seconds.
+Edit
+Time Warp
+COST:
+50 Mana
+COOLDOWN:
+15
+CAST TIME:
+none
+TARGET RANGE:
+550
+Active:
+Zilean
+applies
+Time Warp
+to the target champion that lasts for a short time.
+Time Warp:
+If the target is an ally, they gain
+bonus
+movement speed
+. If the target is an enemy, they are
+slowed
+.
+Active:
+Zilean
+applies
+Time Warp
+to the target champion which lasts for 2.
+5
+seconds.
+Time Warp:
+If the target is an ally, they gain
+bonus
+movement speed
+. If the target is an enemy, they are
+slowed
+.
+Movement Speed Modifier:
+40 / 55 / 70 / 85 / 99%
+Info
+Targeting input
+Unit
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+No additional notes.
+Map-Specific Differences
+One for All
+differences
+edit
+The movement speed boost
+stacks
+if
+Time Warp
+is cast on the same target more than once by
+other sources
+.
+Edit
+Chronoshift
+COST:
+125 / 150 / 175 Mana
+COOLDOWN:
+120 / 90 / 60
+CAST TIME:
+none
+TARGET RANGE:
+900
+Active:
+Zilean
+places a protective time rune on himself or the target allied champion for a few seconds. If the target would die, they enter
+resurrection
+for a short time, becoming
+invulnerable
+,
+untargetable
+, and
+unable to act
+. They are
+healed
+afterwards.
+Active:
+Zilean
+places a protective time rune on the target allied
+champion
+or himself for 5 seconds.
+If the target takes
+fatal damage
+within the duration, they enter
+resurrection
+for 3 seconds, becoming
+invulnerable
+,
+untargetable
+, and
+unable to act
+. Afterwards, they revive while being
+healed
+.
+Heal:
+600 / 850 / 1100
+(+ 200% AP)
+Buff SFX
+Revive SFX
+Info
+Targeting input
+Unit
+Damage type
+Type
+Upon trigger,
+Chronoshift
+places all
+summoner spells
+that are not already on cooldown on a 3-second
+cooldown
+.
+Chronoshift's
+untargetability
+does not
+destroy
+in-flight
+projectiles
+.
+Chronoshift
+cannot target
+clones
+.
+Chronoshift
+takes priority over all other
+resurrection
+effects as well as all
+zombie state
+effects.
+Chronoshift
+does not activate if the target is killed by the
+Nexus Obelisk
+.
+Chronoshift
+has a
+forgiveness radius
+of 175 units.
+While in resurrection, the target's
+health regeneration
+is set to 0.
+The target's screen will have a white tint.
+The following table refers for interactions while the target is unable to act:
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Mark
+Dash
+Interrupted by
+N/A
+Interrupted by
+Death
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Zilean (Collection)
+.
+Original
+View in 3D
+585
+17.04.2009
+Once a powerful Icathian mage, Zilean became obsessed with the passage of time after witnessing his homeland’s destruction by the Void. Unable to spare even a minute to grieve the catastrophic loss, he called upon ancient temporal magic to divine all possible outcomes. Having become functionally immortal, Zilean now drifts through the past, present, and future, bending and warping the flow of time around him, always searching for that elusive moment that will turn back the clock and undo Icathia’s destruction.
+Unknown voice actor
+Esben Lash Rasmussen, Sixmorevodka Studio
+Loot eligible
+Old Saint
+View in 3D
+520
+23.12.2009
+Though many Santas compete to give the most holiday cheer, Zilean's mastery over the flow of time lets him deliver huge numbers of presents in an instant. So far this has not created a reality-annihilating Snowdown paradox.
+Unknown voice actor
+Unknown artist
+Snowdown Showdown
+Loot eligible
+Legacy
+Groovy
+View in 3D
+520
+27.07.2010
+Consistently in a near-comatose state from peering across the space-time continuum, Zilean's more recent hobbies include being terrible at hacky-sack, paying way too much for a ticket for awful music festivals, and ordering too many pizzas. He also owns New Age bookstore, which is closed most days.
+Unknown voice actor
+Unknown artist
+Day Job
+Loot eligible
+Shurima Desert
+View in 3D
+975
+08.09.2010
+Unknown voice actor
+Unknown artist
+Chronicle
+Loot eligible
+New SFX/VFX
+Time Machine
+View in 3D
+520
+12.04.2011
+Unknown voice actor
+Unknown artist
+Mad Scientists
+Loot eligible
+Legacy
+Blood Moon
+View in 3D
+975
+10.05.2015
+Manipulating the lunar cycle by fueling his temporal magic with human blood, Zilean is the face of the Blood Moon cult, and a hellish warlock of unimaginable power. His mind exists across the flow of time, communing with legions of demons from the past, present, and future.
+Unknown voice actor
+Christian Fell
+Blood Moon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Sugar Rush
+View in 3D
+1350
+17.12.2019
+For most denizens of Candy Kingdom, there's never enough time to eat all the sweets. For Zilean, there's never enough candy to fill all the time.
+Unknown voice actor
+Horace 'Hozure' Hsu
+Sugar Rush
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Sugar Rush Zilean Chromas
+Aquamarine
+Citrine
+Meteorite
+Peridot
+Rose Quartz
+Ruby
+Sweet Tooth
+Winterblessed
+View in 3D
+1350
+08.12.2022
+Sage Zilean bowed his head in supplication as he took the Hunter's place before the Aurora's judge. His request was for more power to help calm the spirits of his followers. As he talked, he was oblivious to the Aurora sheen of Polaris' hair flickering red as she watched his pronounced humility. Something was stirring inside her, a roiling winter storm.
+Unknown voice actor
+Exia Xiaotong, West Studio
+Winterblessed
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Winterblessed Zilean Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Wreathguard
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.20
+Chronoshift
+New Effect:
+Cast now has a forgiveness radius of 175 units.
+V13.22
+Stats
+Base attack speed increased to 0.
+658
+from 0.
+625
+.
+Basic attack missile speed increased to 1500 from 1200.
+V13.3
+Chronoshift
+Bug Fix:
+Now properly triggers after being consumed at the same time that the target's
+spell shield
+was consumed.
+V12.22
+Stats
+Base mana regeneration increased to 11.
+35
+from 11.
+34
+.
+V12.10
+Stats
+Base health increased to 574 from 504.
+Health growth increased to 96 from 82.
+Armor growth increased to 5 from 3.
+8
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V11.22
+General
+Base voice lines have been remastered to sound clearer, cleaner, and smoother.
+V11.14
+General
+Updated visual effects.
+Now matches his aesthetics from
+Legends of Runeterra
+.
+All skins cleaned up to match the new effects on the base skin.
+Time Bomb
+New VFX; AoE stun effects are now easier to identify.
+Rewind
+New cast effect.
+Time Warp
+Cleaned up; textures adjusted to match overall changes.
+Chronoshift
+Modernized to match overall changes.
+Shurima Desert Zilean
+Time Bomb
+Now has a subtle sand effect.
+Blood Moon Zilean
+and
+Sugar Rush Zilean
+Chronoshift
+Modernized revive effect to match base changes.
+V11.1
+Stats
+Base attack damage increased to 52 from 51.
+64
+.
+V10.23
+Stats
+Mana growth increased to 50 from 30.
+V10.14
+Chronoshift
+Bug Fix:
+Abilities with damaging auras (e.g.
+Renekton's
+Dominus
+) no longer continue to damage nearby enemies while the champion is in a revive state.
+V10.6
+General
+Recommended items updated.
+V10.5
+- March 5th Hotfix
+Chronoshift
+Bug Fix:
+Summoner spells no longer go on cooldown while reviving.
+V10.3
+Chronoshift
+Bug Fix:
+Yuumi
+no longer gets stuck in her ally
+Mordekaiser's
+Realm of Death
+when she casts
+You and Me!
+towards him as he is reviving via
+Chronoshift
+.
+V8.9
+Stats
+Base mana increased to 452 from 360.
+8
+.
+Mana growth reduced to 30 from 60.
+Base mana regeneration increased to 11.
+335
+from 8.
+5
+.
+Time Bomb
+Bug Fix:
+Time Bomb's
+expiration VFX have been restored.
+Bug Fix:
+Is no longer absorbed by
+Braum's
+Unbreakable
+.
+V8.3
+Stats
+Base health regeneration increased to 5.
+5
+from 5.
+44
+.
+V7.22
+Stats
+Base armor increased to 28 from 19.
+134
+.
+V7.14
+Time in a Bottle
+Bug Fix:
+When he tries to walk into range to activate
+Time in a Bottle
+on an out-of-range ally, he'll no longer cast his most recently-used ability instead once he gets into range.
+Time Warp
+Bug Fix:
+Cast range indicator has been reduced to match the actual range.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V6.17
+Time Bomb
+Bug Fix:
+Not damaging attached enemies if they are untargetable when the bomb explodes.
+V6.13
+Chronoshift
+Bug Fix:
+Revival not triggering on-heal effects (
+Ardent Censer
+)
+V6.8
+General
+Splash artwork for
+Groovy Zilean
+updated to the Chinese art.
+V5.23
+Time in a Bottle
+New Effect:
+Gives a minimum 15% bottled experience (excess amount remains for next cast)
+V5.22
+Stats
+Base mana regeneration increased to 8.
+5
+from 6.
+V5.21
+General
+Recommended items updated.
+Time in a Bottle
+Renamed from
+Heightened Learning
+.
+Removed:
+Granting Zilean and his allies
+8%
+bonus
+experience
+from all sources.
+New Effect:
+Zilean stores
+2 / 3.
+5
+/ 5 / 6 / 12 (based on level)
+experience
+every 5 seconds. When the amount is enough to level up an ally, he can right-click them to give it, with Zilean also gaining the same amount. Zilean cannot give stored experience while he or his target are in combat.
+Range reduced to 1000 from 1500.
+Cooldown: 120 seconds
+Time Bomb
+Bomb attachment range changed to edge from center.
+New Effect:
+Bombs have increased attachment radius for allied chapions (enemy priority unchanged)
+New bomb attachment particle effect.
+Explosion visual effects updated.
+Explosion sound effects updated.
+V5.14
+Time Bomb
+New Effect:
+Bombs interrupt an enemy champion
+recalling
+when attaching themselves to them.
+V5.13
+Rewind
+New Effect:
+Cannot be cast if Zilean has neither
+Time Bomb
+or
+Time Warp
+on cooldown.
+V5.12
+Rewind
+Bug Fix:
+Combo involving activation in-between
+Time Bomb
+casts firing slower than intended.
+V5.6
+Time Bomb
+AP ratio increased to
+(+ 90% AP)
+from
+(+ 80% AP)
+Rewind
+Cooldown reduced to 14 / 12 / 10 / 8 / 6 seconds from 18 / 15 / 12 / 9 / 6.
+Time Warp
+Mana cost reduced to 50 at all ranks from 50 / 55 / 60 / 65 / 70.
+V5.5
+Time Bomb
+Cooldown reduced to 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8 seconds from 12 / 11 / 10 / 9 / 8.
+V5.4
+Stats
+Base armor increased to 19 from 17.
+Attack range reduced to 550 from 600.
+Attack delay reduced slightly.
+New basic attacks particles.
+New ability icons.
+Time Bomb
+Targeting changed to ground (fixed travel time) from unit.
+New Effect:
+Bombs attach themselves to the nearest unit (explodes normally otherwise)
+New Effect:
+Landing two bombs on the same unit detonates the first one immediately, stunning all surrounding enemies for 1.
+1
+/ 1.
+2
+/ 1.
+3
+/ 1.
+4
+/ 1.
+5
+seconds
+Bomb arm time reduced to 3 seconds from 4.
+Base damage reduced to 75 / 115 / 165 / 230 / 300 from 90 / 145 / 200 / 260 / 320.
+AP ratio reduced to
+(+ 80% AP)
+from
+(+ 90% AP)
+Range increased to 900 from 700.
+Cooldown changed to 12 / 11 / 10 / 9 / 8 seconds from 10 at all ranks.
+Mana cost changed to 60 / 70 / 80 / 90 / 100 from 70 / 85 / 100 / 115 / 130.
+Rewind
+Removed:
+Interacting with
+Chronoshift
+.
+Time Warp
+Duration reduced to 2.
+5
+seconds at all ranks from 2.
+5
+/ 3.
+25
+/ 4 / 4.
+75
+/ 5.
+5
+.
+Movement speed modifier changed to 40 / 55 / 70 / 85 / 99% from 55% at all ranks.
+Cooldown reduced to 15 seconds from 20.
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 80.
+Range changed to 550 (edge to edge) from 700 (center to center)
+Chronoshift
+Duration reduced to 5 seconds from 7.
+Cooldown reduced to 120 / 90 / 60 seconds from 180 at all ranks.
+Trivia
+[
+edit
+|
+edit source
+]
+The
+original icon for
+Time Bomb
+featured a soldier that was mirrored from the icon art of
+Jax's
+Grandmaster's Might
+.
+Zilean is one of the four champions with a single damaging ability (
+Time Bomb
+) the others being
+Bard
+(
+Cosmic Binding
+)
+Taric
+(
+Dazzle
+) and
+Tryndamere
+(
+Spinning Slash
+).
+Time Bomb
+is the only in-game ability to scale non-linearly per rank (75 / 40 / 50 / 65 / 70).
+Time in a Bottle
+references
+the eponymous song
+by
+Jim Croce
+.
+Zilean is the first champion to have a basic ability that cannot be ranked up at level 1 (
+Rewind
+) the second being
+Azir
+(
+Conquering Sands
+,
+Shifting Sands
+).
+Zilean's backstory resembles
+Slaughterhouse-Five
+by
+Kurt Vonnegut
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Specialist
+Specialists
+are champions that do not fit into the "neat little boxes" of the other classes, and represent Riot's ideal of having a champion roster with a lot of distinctiveness and diversity.
+Examples
+Azir
+Teemo
+Heimerdinger
+Singed
+Gangplank
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Interrupt
+Interrupt
+is a quality of crowd control that
+interrupts
+an in-progress effect, preventing its completion or causing the effect to go off at an
+interrupted
+state.
+The following crowd control effects
+interrupt
+channeled and charged
+abilities (unless otherwise noted by the ability):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+The following crowd control effects
+interrupt
+dashes
+:
+Airborne
+Knockdown
+Stasis
+Basic attack windups
+are
+interrupted
+by all forms of crowd control that inhibit attacking.
+Ground
+and
+Root
+only
+interrupt
+channeled and charged movement abilities.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Standard sight
+Standard sight
+reveals units through
+fog of war
+and
+brush
+, but
+not
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Stealth
+Stealth
+renders a unit invisible to enemies and grants
+ghosting
+, allowing a unit to tread without being
+visible
+to enemies.
+Stealthed
+units within sight will briefly shimmer their silhouette upon taking damage, exposing their current position.
+Stealth
+is split into three categories:
+Invisibility
+: The unit
+can
+only
+be
+revealed by
+True Sight
+.
+Camouflage
+: The unit
+can
+only
+be
+revealed by
+True Sight
+, being within a certain detection radius of enemy
+champions
+, and nearby
+Control Wards
+.
+Stealthed trap
+: The unit
+can
+only
+be
+revealed by
+True Sight
+,
+Control Wards
+,
+Oracle Lens
+, and
+A Harmless Scarecrow
+.
+Unit-targeted
+effects cannot be cast upon stealthed units as the caster is unable to select the target without seeing them.
+Stealth
+is not a form of
+untargetability
+; units can still be hit by effects that do not require vision of targets, such as skill-shots,
+auto-targeted
+, and
+location-targeted
+effects.
+Certain actions break
+stealth
+. This can include, but is not limited to:
+basic attacking
+, casting an
+ability
+, activating an
+item
+, using a
+summoner spell
+, and taking damage. The interaction can vary among certain cases.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Resurrection
+A unit that is protected by
+Resurrection
+will enter a revival state and dispel most debuffs upon taking
+fatal damage
+. After the state completes, the unit is revived.
+Resurrection
+effects do not count for kills or assists.
+Resurrection
+sources have a hierarchy, and will trigger in the following order:
+Zilean's
+Chronoshift
+Guardian Angel
+Anivia's
+Rebirth
+and
+Zac's
+Cell Division
+Resurrection
+will always take precedence over
+zombie state
+effects. Entering
+resurrection
+does not cancel cast times.
+Renata Glasc's
+Bailout
+always takes priority over
+resurrection
+.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Ultra Rapid Fire (U.R.F.)
+Ultra Rapid Fire
+is a
+Featured Game Mode
+that takes place on
+Summoner's Rift
+with the same objective as
+Classic 5v5
+, except all
+champions
+benefit from the
+Awesome Buff of Awesomely Awesome Buffing
+that grants excessive  ability haste and removes ability costs. The gameplay is
+explosive
+. The game mode can be played as
+All Random
+or
+Blind pick
+depending on the year.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Time Bomb
+COOLDOWN:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8
+Active:
+Zilean
+throws a ticking time bomb to the target location that will attach upon enemy contact,
+revealing
+them. It will detonate after a short time or when the attached unit dies, dealing
+magic damage
+to nearby enemies hit.
+The bomb will detonate immediately if another bomb attaches to the same target, briefly
+stunning
+enemies hit.
+League of Legends content
+Time Warp
+COOLDOWN:
+15
+Active:
+Zilean
+applies
+Time Warp
+to the target champion that lasts for a short time.
+Time Warp:
+If the target is an ally, they gain
+bonus
+movement speed
+. If the target is an enemy, they are
+slowed
+.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+One For All
+Players battle in a 5v5
+Draft Pick
+in
+Summoner's Rift
+, with the only difference being that all
+champions
+on each team are the same.
+During champion select, all players have the power to ban one champion from being picked at the start. After bans from both teams have been declared, players can choose to vote for a champion they want to play by a percent chance, or by majority rule if no other champions have been contested.
+All champions receive the
+One for All buff
+, which grants 70
+summoner spell haste
+and
+40
+bonus
+movement speed
+.
+Karthus
+and
+Teemo
+are disabled in this mode.
+League of Legends content
+Invulnerability
+A unit that is
+Invulnerable
+reduces all damage taken to
+0
+and prevents effects that trigger from damage.
+League of Legends content
+Lockout
+A champion that is
+locked out
+is unable to perform certain actions such as casting abilities, moving, or attacking. The prevented actions can vary per instance.
+Lockout does not interact with
+crowd control
+mechanics unless otherwise stated.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Homing projectile destruction
+Destroying
+or
+popping of a projectile
+references an effect that destroys all homing
+missiles
+currently targeting a specific unit, such as ranged projectile-based
+basic attacks
+. Destroyed missiles will do the same thing as if they were destroyed by
+Wind Wall
+or
+Blade Whirl
+(usually vanishing without any effect).
+The following abilities perform one or more
+projectile popping events
+:
+Most
+abilities and effects that grant
+untargetability
+pop projectiles when the unit gains the status effect.
+Master Yi's
+Alpha Strike
+in particular pops targeted projectiles on each game tick for its duration.
+Gwen's
+Hallowed Mist
+pops all projectiles (from enemy champions outside of its area of effect) targeted at her that attempt to pass through or be inside its area of effect.
+Upon entering or leaving
+Mordekaiser's
+Realm of Death
+.
+Upon successfully completing the
+channel
+of:
+Shen's
+Stand United
+Twisted Fate's
+Gate
+Teleport
+References
+[
+edit
+|
+edit source
+]
+↑
+Zilean's profile page
+at
+LeagueOfLegends.com

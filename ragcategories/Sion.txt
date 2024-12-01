@@ -1,0 +1,3628 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Sion
+The Undead Juggernaut
+Release date
+2009-02-21
+Last changed
+V14.20
+Class(es)
+Vanguard
+Legacy
+Tank
+Fighter
+Position(s)
+Top
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+1350
+|
+585
+Crafting
++
+810
+Ratings
+Damage
+2
+Toughness
+3
+Control
+3
+Mobility
+1
+Utility
+1
+Style
+Difficulty
+Sion
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Sion
+Base statistics
+Edit
+Health
+655
++87
+Mana
+400
++52
+Health regen. (per 5s)
+7.5
++0.8
+Mana regen. (per 5s)
+8
++0.6
+Armor
+32
++4.2
+Attack damage
+68
++4
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+345
+Attack range
+175
+Attack speed
+Base AS
+0.679
+Attack windup
+24.909%
+AS ratio
+N/A
+Bonus AS
++1.3
+%
+Unit radius
+Gameplay radius
+80
+Selection radius
+125
+Pathing radius
+26
+Acq. radius
+600
+Special statistics
+Damage Dealt
+-10%
+Damage Received
++10%
+Ability Haste
+-10
+Damage Dealt
++0%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++10%
+Damage Received
+-8%
+Shielding
++20%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Glory in Death
+Innate:
+Upon dying,
+Sion
+reanimates
+into a frenzy where he is restored to
+max health
+that rapidly decays, and
+reduces
+incoming
+healing
+.
+Sion
+can cast
+Death Surge
+, move and basic attack. His attacks become very rapid, gain
+life steal
+, and deal
+bonus
+physical damage
+based on the
+target's
+maximum
+health
+.
+Innate:
+Upon taking
+fatal damage
+,
+Sion
+enters
+stasis
+for 1.
+5
+seconds to
+reanimate
+into a frenzy, restoring
+100% of his
+maximum
+health
+but
+losing
+2.
+3
+− 24.
+4
+(based on level)
+health
+every
+0.
+264
+seconds
+, increasing by
+「 70% of the
+base
+value 」
+「
+1.
+61
+− 17.
+08
+(based on level)
+」
+per subsequent tick.
+Sion's
+health regeneration
+and any
+healing
+(except life steal) he receives during this time is
+0% effective
+.
+Sion
+can only move and use his
+basic attacks
+and
+item actives
+, and empowers himself with the following effects:
+1.
+75
+attack speed
+minimum and maximum
+100%
+life steal
+Deals
+bonus
+physical damage
+on-hit
+equal to
+10% of the target's
+maximum
+health
+, capped at 75 against non-champions
+Ghosting
+One cast of
+Death Surge
+, which replaces all of his
+abilities
+Sion's
+damage to
+structures
+is reduced to 40% under the effects of
+Glory in Death
+.
+Edit
+Death Surge
+COOLDOWN:
+100
+Active:
+Sion
+gains a burst of
+movement speed
+for a short time.
+Active:
+Sion
+gains
+75% - 8%
+(bug)
+bonus
+movement speed
+(See Death Surge details.) that decays over 2.
+376
+seconds.
+Once at least one ability has been learned, Death Surge can be cast using any ability key, even for the abilities that haven't been learned yet.
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+Physical
+Counters
+Parries
+Blocked
+Notes
+Details
+Sion's
+death timer starts when he dies and not when
+Glory in Death
+ends.
+If
+Sion
+lives longer than what his death timer lasts for, he will not revive until
+Glory in Death
+has ended. When it ends, he instantly revives. This may result in some odd interactions and bugs at times.
+The effect that heals
+Sion
+back to full health at the start of
+Glory in Death
+cannot be modified by
+healing reductions
+and does not count towards the 'Damage Healed' statistic at the end of game lobby.
+The health loss is unaffected by
+Invulnerability
+.
+Glory in Death
+has a capped 60 seconds duration. If the player manages to survive for so long,
+Sion
+dies instantly, regardless of his current health.
+The healing modifier during
+Glory in Death
+reduces all incoming healing, it does not matter if they are sourced from
+Sion
+himself or an ally. This does not affect life steal.
+This healing modifier stacks additively with
+Spirit Visage
+and does not stack with heal and shield power.
+This means that purchasing
+Spirit Visage
+enables
+Sion
+to have regeneration and use healing effects at 25% effectiveness, and the life steal gained will be increased to 125% as expected.
+The
+fixed
+attack speed is achieved by lowering and increasing the maximum and minimum attack speed to
+1.75
+, respectively.
+This also means that it's unaffected by other attack speed modifiers for the duration, such as bonus attack speed or
+cripples
+.
+However,
+Hail of Blades
+, which allows for the normal attack speed cap (
+2.5
+) to be surpassed, will also break this limit. This means that while it is active,
+Sion
+may exceed his
+1.75
+cap, but cannot fall below it.
+When
+Hail of Blades
+ends, the attack speed cap will revert to
+2.5
+and not to
+1.75
+, however
+Sion
+still can't fall below
+1.75
+.
+Some
+item
+passives do not persist through death and will be lost for the initial few seconds of
+Glory in Death
+.
+Phase Rush
+cooldown is reset upon entering
+Glory in Death
+.
+The bonus on-hit damage granted by
+Glory in Death
+is unaffected by life steal, but is applied against structures that are not turrets.
+However, it can be applied against structures that are not turrets.
+(bug)
+The reduction of damage against structures includes
+Sion's
+attacks as well as on-hit effects that can be applied to structures, such as
+Demolish
+,
+Titanic Hydra
+and the magic damage based on
+AP
+conversion based on
+adaptive force
+.
+It even includes
+true damage
+from sources such as
+Elixir of Sorcery
+.
+(note)
+Sion
+, during
+Glory in Death
+, will not lose health while being carried by
+Fate's Call
+.
+Glory in Death
+does not trigger on
+clones
+of
+Sion
+, such as with
+Test of Spirit
+.
+Glory in Death's
+untargetability
+from the
+stasis
+does not
+destroy
+in-flight
+projectiles
+.
+Projectiles created while
+Sion
+is in the zombie form will still travel to him even after he dies.
+Upon death, the current cooldowns of
+Sion's
+summoner spells are increased to 4 seconds. Afterwards, he is still unable to use them until he respawns.
+However, it is possible for another lock-out effect to unlock them when their duration ends (excluding
+crowd control
+with the exception of
+stasis
+).
+After
+Glory in Death
+ends, the corpse of
+Sion
+will retain
+unit collision
+despite being dead on the ground.
+Buffs from jungle monsters that
+Sion
+acquired during
+Glory in Death
+will not be lost when the duration ends. (
+Crest of Cinders
+,
+Crest of Insight
+)
+Interactions & Other
+By surviving for the full duration of 60 seconds,
+Sion
+will have suffered
+41.
+8
+k − 443.
+7
+k (based on level)
+in health costs.
+Sion
+can also heal from
+spell vamp
+, althought the stat is currently unobtainable and it would be also unusable during
+Glory in Death
+, since there would be no available abilities that would apply it.
+Even though its visuals are present,
+Dark Harvest
+can never be gained from
+Sion
+under the effect of
+Glory in Death
+.
+At the start of
+Glory in Death
+,
+Sion's
+mana
+drops to 0, but his
+mana regeneration
+will remain in effect.
+Zombie info
+Zombie states trigger upon taking
+lethal damage
+.
+Raw damage
+effects will not prevent zombie states from triggering.
+All
+resurrection
+effects will take precedence over effects that reanimate as a zombie.
+A champion that enters a zombie state will start their death timer upon triggering the effect.
+Most buffs and debuffs will be lost upon transitioning into a zombie state.
+Those that persist through death, such as
+Brand's
+Blaze
+, will remain.
+Undisplayed marker buffs, such as those imposed by
+Veigar's
+Event Horizon
+and
+Viktor's
+Gravity Field
+to prevent being affected multiple times by the same effect, will be lost.
+(bug)
+This does not apply when transitioning from one zombie state to another zombie state.
+(bug)
+Units within a zombie state cannot:
+Use
+Recall
+or
+Refillable Potion
+.
+Activate
+resurrection
+effects.
+Take
+Dark Passage
+,
+Catapult
+, or
+gates
+.
+Pick up the
+Eye of the Herald
+.
+Be targeted by the following:
+Bailout
+Chronoshift
+Umbral Trespass
+.
+Be affected by the following:
+Curse of the Black Mist
+Fear Beyond Death's
+chain missile
+Test of Spirit's
+initial missile
+Lamb's Respite
+Realm of Death
+Fountain
+health restore
+Targeting input
+Auto
+Notes
+Death Surge
+will grant the bonus movement speed after a brief delay.
+The buff is intended to grant 75% decaying movement speed, but instead grants 67% movement speed decaying with -8% per stat update.
+Precisely this leaves him at
+0% − 0% (based on time passed)
+bonus movement speed.
+Death Surge
+has a shared cooldown across each ability key, regardless of which key is used to activate it. Thus, activating
+Death Surge
+with any ability key will put the others on cooldown.
+Death Surge's
+cooldown resets upon death.
+Death Surge's
+cooldown is affected by
+ability haste
+and thus the ability is technically able to be used up to twice during a single instance of
+Glory in Death
+, but this isn't practical.
+Death Surge
+is not affected by
+Ultimate Hunter
+, even if cast from the ultimate ability slot.
+Despite showing the cooldown being reduced,
+Death Surge
+in the ultimate ability slot will be not reduced by
+Axiom Arc's
+Flux
+on
+takedown
+.
+(bug)
+Death Surge's
+cooldown is not reduced by
+Navori Flickerblade's
+.
+Howling Abyss
+differences
+edit
+Life steal changed to 50%.
+Edit
+Decimating Smash
+COST:
+45 Mana
+COOLDOWN
+:
+10 / 9 / 8 / 7 / 6
+CAST TIME:
+none
+RANGE:
+500 − 850 (based on channel time)
+Active:
+Sion
+charges
+for a short time, increasing the
+range
+of his strike over an area. After a brief moment, it becomes empowered with a new effect.
+Decimating Smash
+can be recast within the duration, and automatically does so afterwards.
+Recast:
+Sion
+flails his axe in the target direction that deals
+physical damage
+and briefly
+slows
+enemies hit.
+Empowered Recast:
+Sion
+slams his axe in the target direction that deals
+physical damage
+to enemies hit and briefly
+knocks them up
+and
+stuns
+them.
+Active:
+Sion
+prepares a strike in the target direction,
+charging
+for up to 2 seconds to increase
+Decimating Smash's
+range
+over an area,
+knock up
+duration,
+stun
+duration, and damage every 0.
+25
+seconds, which has up to a maximum
+bonus
+for the
+base
+damage and up to a 200%
+bonus
+for the
+scaling
+damage.
+Maximum Base Damage Increase:
+125 / 158.
+33
+/ 175 / 185 / 191.
+67
+%
+Minimum Physical Damage:
+40 / 60 / 80 / 100 / 120
+(+ 40 / 50 / 60 / 70 / 80% AD)
+Maximum Physical Damage:
+90 / 155 / 220 / 285 / 350
+(+ 120 / 150 / 180 / 210 / 240% AD)
+Decimating Smash
+can be recast within the duration, and does so automatically afterwards. If the charge is
+interrupted
+,
+Decimating Smash
+is placed on a
+2-second
+cooldown.
+Recast:
+Sion
+flails his axe in the direction he targeted at the time of cast, dealing
+physical damage
+to enemies hit and
+slowing
+them by 50% for 0.
+25
+seconds.
+Decimating Smash
+deals 150% damage against
+monsters
+and 60% damage against
+minions
+.
+Minimum Monster Damage:
+60 / 90 / 120 / 150 / 180
+(+ 60 / 75 / 90 / 105 / 120% AD)
+Maximum Monster Damage:
+135 / 232.
+5
+/ 330 / 427.
+5
+/ 525
+(+ 180 / 225 / 270 / 315 / 360% AD)
+Minimum Minion Damage:
+24 / 36 / 48 / 60 / 72
+(+ 24 / 30 / 36 / 42 / 48% AD)
+Maximum Minion Damage:
+54 / 93 / 132 / 171 / 210
+(+ 72 / 90 / 108 / 126 / 144% AD)
+If
+Decimating Smash
+was charged for at least 1 second,
+Sion
+instead slams his axe down, dealing
+physical damage
+to enemies hit,
+knocking them up
+for
+0.
+5
+− 1 (based on channel time)
+seconds, and
+stunning
+them for
+1.
+25
+− 2.
+25
+(based on channel time)
+seconds.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Disruption
+Interrupted
+For the target to be hit, their center needs to be inside the red or blue areas (based on charge time), and their edge must hit the yellow part of the cone. If their edge also hits the white part of the cone they will be excluded from being hit. Cone is at 16 degrees and starts 800 range behind Sion's center. White cone has a radius of 720, while yellow cone has a radius of 1550.
+Sion
+himself remains
+locked out
+of all actions for 0.
+25
+seconds when releasing
+Decimating Smash
+.
+Soul Furnace
+can be cast during this time, but
+Roar of the Slayer
+and
+Unstoppable Onslaught
+cannot and neither will they be buffered.
+Displacement immunity
+will also resist the application of the
+stun
+.
+Since the
+stun
+duration is longer than the
+airborne
+duration, and both start at the same time,
+Tenacity
+is still fully effective against
+Decimating Smash
+up to a cap.
+This virtual cap is 60%-55.5%
+Tenacity
+based on channel time beyond 1 second. Every value below this cap will lower the CC duration with no diminished returns.
+A flash of the axe and change in brightness of the indicator on the ground indicates when the 1 second time frame is reached.
+The damage of
+Decimating Smash
+is calculated when it is released. Gaining
+AD
+or upgrading the ability during its channel will update the damage of the coming hit.
+Even though the
+cooldown
+starts when the ability is released, it will not be changed by gaining or losing
+AH
+, or upgrading the ability, during the cast time.
+The indicator is visible to the enemy only if they
+see
+Sion
+himself.
+If the channel is released before 1 second, enemies may see a particle at the far end of the hitbox, if it itself isn't outside of their
+vision
+.
+If the channel is released after 1 second, the only remaining indication is the visual effects and audio that plays on any units the spell strikes (these play on-target), provided the enemy does have
+vision
+on those.
+Forced movement without a
+stun
+component (or the stun being
+cleansed
+previously) will not stop
+Sion
+from starting or continuing to channel. Its direction will not change with
+Sion's
+travel, however the location will update with him.
+The location of the indicator updates at the
+beginning
+of the ability, at
+1 second
+and at
+release
+.
+The indicator of the ability is slightly shorter at its front than the hitbox of the ability is for
+Original Sion
+,
+Mecha Zero Sion
+and related skins and chromas, while on
+Worldbreaker Sion
+, the indicator is slightly thinner at the front than the hitbox is, instead.
+The following table refers for interactions while
+Sion
+is
+channeling
+:
+Type
+Charge channel
+Attacking
+Disabled
+Abilities
+Soul Furnace
+and its
+recast
+are usable.
+Roar of the Slayer
+and
+Unstoppable Onslaught
+are disabled. This ability recasts to end channel.
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Interrupted by
+Hexflash
+(Recasts)
+Interrupted by
+Death
+Cast-inhibiting effects
+Map-Specific Differences
+Arena
+differences
+edit
+Minimum base damage changed to 65 / 85 / 105 / 125 / 145.
+Minimum AD ratio changed to
+60 / 70 / 80 / 90 / 100% AD
+.
+Maximum base damage changed to 130 / 195 / 260 / 325 / 390.
+Maximum AD ratio changed to
+180 / 210 / 240 / 270 / 300% AD
+.
+Base stun duration changed to 1.
+75
+seconds.
+Edit
+Soul Furnace
+COST:
+65 / 70 / 75 / 80 / 85 Mana
+COOLDOWN
+:
+15 / 14 / 13 / 12 / 11
+CAST TIME:
+none
+EFFECT RADIUS:
+525
+Passive:
+Sion
+gains
+bonus
+health
+whenever he kills an enemy, increased against large enemies and
+champion
+takedowns
+.
+Active:
+Sion
+gains a
+shield
+based on
+his
+maximum
+health
+that lasts a few seconds.
+Soul Furnace
+can be recast while the shield holds, and does so automatically after the duration.
+Recast:
+Sion
+consumes the shield to deal
+magic damage
+to nearby enemies based on
+their
+maximum
+health
+.
+Passive:
+Sion
+gains
+4
+bonus
+health
+whenever he kills an
+enemy
+, increased to
+15
+for large enemies and
+takedowns
+against enemy
+champions
+.
+Active:
+Sion
+grants himself a
+shield
+that lasts for up to 6 seconds.
+Soul Furnace
+can be recast after 3 seconds while the shield holds, and does so automatically at the end of the duration.
+Shield Strength:
+60 / 75 / 90 / 105 / 120
+(+ 40% AP)
+(+ 8 / 10 / 12 / 14 / 16%
+maximum
+health)
+Recast:
+Sion
+consumes the shield to deal
+magic damage
+to nearby enemies, capped at 400 against
+minions
+and
+monsters
+.
+Magic Damage:
+40 / 65 / 90 / 115 / 140
+(+ 40% AP)
+(+ 14% of target's
+maximum
+health)
+Both of Soul Furnace's casts can be activated during
+Sion's
+other abilities.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+A buff icon in the HUD will show the current shield strength, so that the player can better calculate the timing of the second cast.
+The initial shown value does not interact with
+shield strength modifiers
+. Whenever the shield takes damage, it updates to the proper current shield amount, however.
+The initial cast counts as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Detonating the ability manually does not.
+Gaining or losing AP or health, or ranking up the skill while the shield is active will not change its shield value but it will change the damage of the shield's detonation.
+The
+cooldown
+of
+Soul Furnace
+begins once the shield is removed.
+Gaining or losing
+ability haste
+between the first cast and breaking of the shield will affect the resuming cooldown accordingly.
+Soul Furnace
+also automatically detonates if
+Sion
+is killed without the shield being destroyed, e.g. by dying to the
+Nexus Obelisk
+,
+even if
+Sion could not have detonated it manually yet.
+Soul Furnace's
+bonus health can be obtained by any of
+Sion's
+damage sources (basic attacks, abilities, summoner spells, item actives).
+This does not include
+last hits
+transferred to
+Sion
+artificially.
+If the
+gold efficiency
+of a
+Ruby Crystal
+is considered 100%, each
+last hit
+or
+takedown
+after
+Soul Furnace
+has been learned can be considered worth an extra
+10.
+6
+or
+40g
+, respectively.
+Sion
+must learn
+Soul Furnace
+before he can stack up its passive.
+Sion
+does not gain bonus health from units that enter
+resurrection
+on-death.
+Killing the following unit types grants
+Sion
+15
+bonus
+health
+:
+Champions
+(
+kills
+and
+assists
+)
+Large minions
+and
+large monsters
+(including both summoned and pit
+Rift Herald
+)
+Large pets
+- Explicitly
+Tibbers
+,
+Daisy
+and
+The Maiden
+Killing the following unit types grants
+Sion
+4
+bonus
+health
+:
+Minions
+and
+small monsters
+, with the exceptions of those listed below
+Wards
+and other
+champion summoned units
+(e.g.
+Noxious Trap
+,
+Powder Keg
+,
+Dark Procession
+)
+All
+pets
+, with the exceptions of those listed above and below
+Clones
+Killing the following unit types grants
+Sion
+no
+bonus
+health
+:
+Turrets
+(including
+Sun Disk
+) and other
+structures
+Jungle plants
+(destroying which does not grant kill credit).
+Voidmites
+(including both summoned and pit
+Voidmites
+)
+Units destroyed by 'trampling' such as
+Zyra's
+seeds
+,
+Zac's
+goo
+or
+Rek'Sai's
+tunnels
+.
+Map-Specific Differences
+Howling Abyss
+differences
+edit
+Health
+per lesser unit kill changed to 2.
+Health
+per greater unit kill changed to 8.
+Shield health ratio changed to
+6 / 8 / 10 / 12 / 14%
+maximum
+health
+.
+Nexus Blitz
+differences
+edit
+On-unit-kill bonus health doubled.
+(On-
+takedown
+bonus health unchanged).
+Arena
+differences
+edit
+Bonus health per champion takedown changed to 45.
+New Effect:
+Gains 1200
+bonus
+health
+over the first 8 rounds.
+Edit
+Roar of the Slayer
+COST:
+35 / 40 / 45 / 50 / 55 Mana
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+CAST TIME:
+0.
+25
+RANGE:
+800
+/
+1350
+EFFECT RADIUS:
+130
+WIDTH:
+160
+SPEED:
+1800
+Active:
+Sion
+bellows a shockwave in the target direction that deals
+magic damage
+and shortly
+slows
+the first enemy hit,
+reducing their armor
+for a few seconds. If the target is a
+minion
+or non-epic
+monster
+, they are also briefly
+stunned
+and
+knocked back
+, applying
+Roar of the Slayer's
+effects to enemies they pass through.
+Active:
+Sion
+bellows a shockwave in the target direction that deals
+magic damage
+to the first enemy hit,
+slows
+them for 2.
+5
+seconds and inflicts them with
+20% armor reduction
+for 4 seconds.
+Magic Damage:
+65 / 100 / 135 / 170 / 205
+(+ 55% AP)
+Slow:
+40 / 45 / 50 / 55 / 60%
+If the target is a
+minion
+or non-epic
+monster
+, they are also
+stunned
+for 0.
+75
+seconds and
+knocked back
+for up to 1350 units further, though not through terrain, applying
+Roar of the Slayer's
+effects to enemies they pass through as well as briefly granting
+sight
+of the area around their trajectory.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+See Notes
+Minions or monsters that are flung away are immune to minion damage and take their damage once they are stopped if they would die to
+Roar of the Slayer's
+damage, by either colliding with terrain, reaching the end of their trajectory, or having their displacement interrupted.
+Unlike the intial single-target
+projectile
+, a thrown minion or monster is not blocked by
+Wind Wall
+or
+Unbreakable
+.
+Gaining or losing
+AP
+, or upgrading the ability while its projectile is traveling will change its damage for every future hit. This applies to both the intial single-target projectile, as well as the minion-projectile.
+This ability will cast from wherever the caster is at the end of the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 80 / 135 / 190 / 245 / 300.
+AP ratio changed to
+80% AP
+.
+Armor reduction changed to 40%.
+Slow strength changed to 55 / 60 / 65 / 70 / 75%.
+Edit
+Unstoppable Onslaught
+COST:
+100 Mana
+COOLDOWN
+:
+140 / 100 / 60
+CAST TIME:
+none
+Active:
+Sion
+becomes
+Cc-immune
+and
+charges
+forward for a period, gradually gaining
+bonus
+movement speed
+and dealing
+physical damage
+to enemies hit based on the charge time.
+Sion
+can steer himself during the charge, but will slam upon hitting an enemy
+champion
+or
+terrain
+; crashing into terrain will briefly
+stun
+him.
+Unstoppable Onslaught
+can be recast within the duration, and automatically does so afterwards.
+Recast:
+Sion
+lunges
+forward and slams the ground beneath him, dealing
+physical damage
+and slowing nearby enemies. Closer enemies are also briefly
+pulled
+and
+stunned
+based on the charge time.
+Cc-immunity
+:
+Crowd control
+cannot be applied during this time.
+Active:
+Sion
+becomes
+immune to crowd control
+and
+ghosted
+and, after a
+brief delay
+,
+charges
+forward in the direction of the cursor for up to 8 seconds, during which he is able to steer at a slow turn rate while automatically navigating his movement.
+Unstoppable Onslaught
+can be recast after
+0.
+4
+seconds during the channel.
+The charge ramps up
+Sion's
+movement speed
+at the time of cast by
+40 movement speed
+every 0.
+1
+seconds, up to
+950
+total
+movement speed
+.
+At the end of the charge's duration,
+Sion
+leaps
+forward
+300
+units, landing after 0.
+55
+seconds and slamming the
+ground
+beneath him.
+Sion
+will stop upon
+colliding
+with an enemy champion or
+terrain
+during the charge, ending
+Unstoppable Onslaught
+with a slam. Crashing into terrain
+stuns
+Sion
+for 0.
+5
+seconds.
+Enemies hit by
+Sion's
+charge are dealt
+physical damage
+. The
+base
+damage increases by
+0% − 166.
+67
+% (based on channel time)
+and the
+scaling
+increases by
+0% − 100% (based on channel time)
+.
+Minimum Physical Damage:
+150 / 300 / 450
+(+ 40%
+bonus
+AD)
+Maximum Physical Damage:
+400 / 800 / 1200
+(+ 80%
+bonus
+AD)
+Enemies, including
+turrets
+, hit by the slam are dealt the same damage and are
+slowed
+for 3 seconds. Enemies in a
+smaller radius
+are also
+pulled
+towards
+Sion
+over 0.
+5
+seconds and become
+stunned
+after a brief delay for
+0.
+25
+− 1.
+75
+(based on channel time)
+seconds.
+Slow:
+40 / 45 / 50%
+Recast:
+Sion
+stops charging, causing him to leap forward and slam the ground beneath him as if
+Unstoppable Onslaught
+had reached the end of its duration.
+"Chaaaaaaaarge!"
+Charge alert.
+Info
+Targeting input
+Direction
+/
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Disruption
+Not Interrupted
+When
+Sion
+casts
+Unstoppable Onslaught
+a global warning can be heard.
+Unstoppable Onslaught
+does not apply the knock up nor stun to enemies from slamming on collision with terrain.
+Unstoppable Onslaught
+does not
+knock up
+non-champions hit by the charge.
+(bug)
+Unstoppable Onslaught
+can be activated twice
+or
+held down and released on
+both
+normal cast and quick cast. There is no other difference between normal cast and quick cast for this ability, either.
+The initial cast counts as an ability activation for the purposes of on-cast effects such as
+Spellblade
+.
+The recast does not.
+An enemy can only be affected by
+Unstoppable Onslaught
+once every 1 second.
+After reaching maximum damage and stun duration (at 3 seconds)
+Sion
+will transition from using his
+haste
+animation to his unique
+charging
+one.
+Reaching the threshold on
+Mecha Zero Sion
+changes his particle effects instead, most notably the 'Boosters' behind the vehicle.
+The turning angle is not based on time and can easily be seen in practice when a
+Sion
+charges
+in-place due to bugs.
+Sion's
+movement speed gains during the charge are unaffected by
+movement speed caps
+. Effects that would increase or decrease his movement speed do not affect him as well.
+Nami's
+Surging Tides
+is the only known effect that can affect
+Sion's
+movement speed
+during the
+charge
+and that can place him above the normal MS value. However, without further multipliers, surpassing the
+950 movement speed
+cap will require
+Nami
+to have over
+2150 ability power
+.
+Sion
+does not always crash with terrain immediately upon touching it, enabling the player to turn beyond his maximum turning angle.
+Casting the ability at point blank of a terrain will most often automatically change the
+charge's
+direction.
+This is not usually possible with player-generated terrain.
+Unstoppable Onslaught
+cannot
+charge
+through but can
+leap
+over
+player-generated terrain
+.
+Sion
+loses the
+crowd control immunity
+after finishing the
+leap
+.
+Sion
+is not immune to an
+allied
+Bard's
+Tempered Fate
+if it hits
+Sion
+during the 0.
+05
+-second delay before he starts the channel, he will not resist the effect and will initiate the
+slam
+immediately while in
+stasis
+.
+(bug)
+Unstoppable Onslaught
+cannot strike the same non-champion twice in less than 1 second
+.
+Even though the
+cooldown
+of
+Unstoppable Onslaught
+starts at the end of the effect, gaining or losing
+ability haste
+, or upgrading the ability during the effect, will not change the resuming cooldown.
+Removing
+the
+airborne
+before 0.
+5
+seconds will
+not
+prevent the
+stun
+from being applied.
+Displacement immunity
+will also resist the application of the
+stun
+.
+Sion
+can occasionally cast
+Unstoppable Onslaught
+while
+rooted
+. In this case, he will stand in place until the root's debuff duration ends. During this time, the damage, stun duration and movement speed granted by the ability will still ramp up, and enemies that come into contact with him will be affected by the collision normally.
+(bug)
+A similar case allows him to cast it during crowd control that would disable it. However, the channel would be interrupted almost immediately, and he will initiate the leap as well.
+Fate's Call
+deferment of
+Unstoppable Onslaught
+will still allow
+Sion
+to leap forward at the end of the channel.
+Moving the cursor onto HUD elements (e.g
+mini map
+/ champion portraits) does
+not
+jeopardize the cast and steering of
+Unstoppable Onslaught
+. The targeting will act as if the ground was targeted below the display element.
+PENDING FOR TEST:
+The distance between
+Sion's
+center and the center of the ground
+slam
+scales slightly with movement speed. This is suspected because running into a wall within half a second of
+charge
+time after starting at multiple thousands of movement speed shows a considerable difference, however this could also be due to a bug.
+PENDING FOR TEST:
+The
+leap
+appears to always have the same speed regardless of
+Sion's
+, at roughly 750.
+The following table refers for interactions while
+Sion
+is
+channeling
+:
+Type
+Channel
+Attacking
+Disabled
+Abilities
+Soul Furnace
+and its
+recast
+are usable.
+Decimating Smash
+and
+Roar of the Slayer
+are disabled. This ability recasts to end channel.
+Movement
+Allowed, but cannot input movement commands.
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+N/A
+Disabled
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Teleport
+Recall
+Hexflash
+Mark
+Dash
+Interrupted by
+N/A
+Interrupted by
+Death
+If
+Unstoppable Onslaught's
+channel is interrupted despite the immunity to crowd control or
+Decimating Smash
+is cast within 0.
+25
+seconds after starting the charge, it will also initiate the leap. If the channel ends due to collision or death, there is no
+leap
+and the effect occurs immediately.
+Map-Specific Differences
+Arena
+differences
+edit
+Minimum base damage changed to 250 / 500 / 750.
+Maximum base damage changed to 700 / 1400 / 2100.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Sion (Collection)
+.
+Original
+View in 3D
+585
+21.02.2009
+A war hero from a bygone era, Sion was revered in Noxus for choking the life out of a Demacian king with his bare hands—but, denied oblivion, he was resurrected to serve his empire even in death. His indiscriminate slaughter claimed all who stood in his way, regardless of allegiance, proving he no longer retained his former humanity. Even so, with crude armor bolted onto rotten flesh, Sion continues to charge into battle with reckless abandon, struggling to remember his true self between the swings of his mighty axe.
+Scott McNeil
+Joshua 'HUGEnFAST' Brian Smith
+Loot eligible
+Hextech
+View in 3D
+520
+01.06.2010
+Over the years, many have asked—should art be chained by the fleeting concept of morality? Or should science bend a knee to the laws of man? Some believe progress is not made by holding ourselves back, and though we may give birth to monsters… Hextech will always guide our path...
+Scott McNeil
+Izzy Medrano
+Hextech
+Loot eligible
+Legacy
+Barbarian
+View in 3D
+750
+26.09.2010
+Avoiding every social cue his roleplaying group throws his way, Sion has repeatedly rolled barbarians only to die immediately after rejoining the table. At this point he's spent more time working on character sheets than actually playing Rift Quest, and it shows: his newest barbarian's backstory reads, “Is a barbarian.”
+Scott McNeil
+Jessica 'OwleyCat' Oyhenart, Christian Fell
+Rift Quest
+Loot eligible
+Lumberjack
+View in 3D
+520
+24.01.2011
+He's a lumberjack, and he's okay.
+Scott McNeil
+Christian Fell
+Day Job
+Loot eligible
+Warmonger
+View in 3D
+975
+18.07.2011
+No memory of the man that Sion was remains. His life is spite, a curse on those who would dare to strike him down. But through it all—each ill-fated century—he remains, his decaying form bound together by his armor's dark magic.
+Scott McNeil
+Unknown artist
+Legacy
+Loot eligible
+Mecha Zero
+View in 3D
+1820
+13.04.2016
+The ultimate ground-based mecha unit, 0-SION becomes like a freight train once given a combat directive, and will literally stop at nothing to dismantle an opponent—no matter how much damage it takes. There are lingering concerns that it could go rogue, but so far these worries have been unfounded.
+Scott McNeil
+Christian Fell
+Mecha
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+Mecha Zero Sion Chromas
+Catseye
+Meteorite
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Worldbreaker
+View in 3D
+1350
+09.04.2020
+A once towering fortress toppled during the last annihilation, the thing called Sion was given consciousness by Malzahar, and raised up to become the purest titan of death and destruction. Now, imbued with ravenous hatred, he blasts the terrain with every step, hellbent on culling any instance of life.
+Scott McNeil
+Zuoan Dong, Kudos Productions
+Worldbreaker
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Worldbreaker Sion Chromas
+Amethyst
+Aquamarine
+Citrine
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Blackfrost
+View in 3D
+1350
+15.04.2021
+A fearsome jötunn who once stood at the front of Lissandra's vast armies, Sion fell in battle only for his master's magic to weave itself beneath his massive frame, resurrecting him as a monster of rage and cold.
+Scott McNeil
+Sora Kim, West Studio
+Blackfrost
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Blackfrost Sion Chromas
+Amethyst
+Aquamarine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+High Noon
+View in 3D
+1350
+26.05.2022
+As soon as Sion knew life, he knew rage: rage that ripped the restraints from the operating table; rage that crushed the bones of those men who tried to play at the miracle of Creation; rage that he ain't, nor ever would be, the second clockwork angel they had hoped to construct. Sion knows rage, and so will the world.
+Scott McNeil
+Jiunn Kuo, West Studio
+High Noon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+High Noon Sion Chromas
+Aquamarine
+Citrine
+Emerald
+Nomad
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Turquoise
+Cosmic Paladin
+View in 3D
+1350
+30.08.2023
+Sion was a warrior who found a way to fight his planet's destruction at the hands of the Dark Star to his dying breath. Bel'Veth, fascinated by his stubborn tenacity, raised him from that dying world. Now he fights by her side, a battering ram of force and violence turned towards a singular purpose: eliminating the Dark Star.
+Scott McNeil
+Sora Kim, West Studio
+Cosmic
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Cosmic Paladin Sion Chromas
+Amethyst
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.20
+Decimating Smash
+Bug Fix:
+Fixed a bug that caused him to fully charge the ability upon respawning.
+V14.19
+Decimating Smash
+Bug Fix:
+Fixed an issue that caused him to sometimes uncontrollably fully charge Q when respawning.
+V14.14
+Glory in Death
+Bug Fix:
+Is no longer sometimes unable to issue movement commands after the zombie state has expired.
+Soul Furnace
+Damage health ratio increased to
+14% of target's
+maximum
+health
+at all ranks from
+10 / 11 / 12 / 13 / 14%
+.
+V14.13
+Glory in Death
+Bug Fix:
+Corpse is no longer sometimes a valid movement collision target.
+V14.10
+Unstoppable Onslaught
+Bug Fix:
+Is no longer interrupted by
+Kassadin's
+Null Sphere
+.
+V14.6
+Decimating Smash
+Minimum AD ratio changed to
+40 / 50 / 60 / 70 / 80% AD
+from
+45 / 52.
+5
+/ 60 / 67.
+5
+/ 75%
+.
+Maximum AD ratio changed to
+120 / 150 / 180 / 210 / 240% AD
+from
+135 / 157.
+5
+/ 180 / 202.
+5
+/ 225%
+.
+Soul Furnace
+Base shield reduced to 60 / 75 / 90 / 105 / 120 from 60 / 85 / 110 / 135 / 160.
+Shield health ratio increased to
+8 / 10 / 12 / 14 / 16%
+maximum
+health
+from
+8 / 9 / 10 / 11 / 12%
+.
+V14.4
+(Announced in
+V14.5
+)
+Soul Furnace
+Undocumented / Bug Fix:
+No longer grants stacks from killing
+Voidmites
+.
+V14.2
+Glory in Death
+Bug Fix:
+Movement speed no longer decays faster if other effects forcing stat updates acted on him at the same time.
+V13.9
+Glory in Death
+Base health cost per tick increased to
+2.
+3
+− 24.
+4
+(based on level)
+from
+2 − 19 (based on level)
+.
+V13.6
+Unstoppable Onslaught
+Bug Fix:
+Crowd control immunity now properly resists allied crowd control as well.
+V13.1
+Stats
+Base health increased to 655 from 615.
+Decimating Smash
+Maximum base damage increased to 90 / 155 / 220 / 285 / 350 from 70 / 135 / 200 / 265 / 330.
+V12.23
+Stats
+Base mana increased to 400 from 330.
+Mana growth increased to 52 from 42.
+Decimating Smash
+Minimum base damage increased to 40 / 60 / 80 / 100 / 120 from 30 / 50 / 70 / 90 / 110.
+Maximum base damage unchanged.
+V12.16
+Unstoppable Onslaught
+Bug Fix:
+Fixed an oversight where the server would still accept attack commands to alter
+Sion's
+otherwise-restricted movement.
+This fixes an exploit where cheaters could deliberately input these orders through their means to fully control
+Sion's
+movement.
+V12.14
+General
+Bug Fix:
+No longer becomes unable to attack for 0.
+25
+seconds shortly after entering champion combat.
+Decimating Smash
+Bug Fix:
+No longer prevents
+Soul Furnace
+and its
+recast
+from being cast for a brief moment after releasing the charge.
+Roar of the Slayer
+Bug Fix:
+No longer locks Sion out of attacking, moving and casting movement spells for up-to 0.
+25
+seconds after the missile is fired.
+This fixes several bugs where non-crowd control effects that prevent Sion from attacking or moving (e.g.
+Decimating Smash
+,
+Teleport
+) were having those disables ignored for 0.
+25
+seconds after the disable from
+Roar of the Slayer
+wore off.
+Moving during
+Decimating Smash
+for this reason cancelled the channel.
+Unstoppable Onslaught
+Bug Fix:
+Stun
+duration is no longer
+0.
+75
+− 1.
+75
+(based on channel time)
+seconds instead of the normal
+0.
+25
+− 1.
+75
+(based on channel time)
+when colliding with
+the recast leap
+.
+Bug Fix:
+Fixed an oversight where the server would still accept attack move commands to alter
+Sion's
+otherwise-restricted movement.
+This fixes an exploit where cheaters could deliberately input these orders through their means to fully control
+Sion's
+movement.
+Delayed attack move packets can thus also no longer change
+Sion's
+movement during
+Unstoppable Onslaught
+a single time.
+V12.12
+Glory in Death
+Bug Fix:
+Corpse is no longer an obstacle to other units' pathing.
+V12.10
+Stats
+Base health increased to 615 from 545.
+Health growth increased to 87 from 73.
+Armor growth increased to 4.
+2
+from 3.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Soul Furnace
+Shield health ratio reduced to
+8 / 9 / 10 / 11 / 12%
+maximum
+health
+from
+10 / 11 / 12 / 13 / 14%
+.
+Roar of the Slayer
+Bug Fix:
+Can no longer knockback
+Rift Herald
+.
+This includes the player-summoned
+Rift Herald
+which is otherwise not immune to CC.
+(bug)
+V12.9
+- May 11th Hotfix
+Glory in Death
+Bug Fix:
+Fixed a bug where he wasn't dealing reduced damage against structures despite displaying the correct numbers.
+V12.9
+Glory in Death
+New Effect:
+Damage against structures is now reduced to 40% damage while in zombie form.
+This includes attacks as well as on-hit effects that can be applied to structures, such as
+Demolish
+,
+Titanic Hydra
+and the magic damage based on
+AP
+conversion based on
+adaptive force
+.
+This includes
+true damage
+from sources such as
+Elixir of Sorcery
+.
+(note)
+Roar of the Slayer
+Bug Fix:
+Tooltip now displays the proper duration of the armor reduction debuff.
+V12.8
+Glory in Death
+Bug Fix:
+Enemy champions that deal lethal damage to trigger the zombie state are no longer considered to deal damage to the source when the effect ends.
+V11.21
+Soul Furnace
+Shield health ratio increased to
+10 / 11 / 12 / 13 / 14%
+maximum
+health
+from
+8 / 9 / 10 / 11 / 12%
+.
+V11.20
+Decimating Smash
+Undocumented/Bug Fix:
+Tooltip no longer incorrectly uses a higher AD ratio on ranks 2-5 of the damage calculation.
+Soul Furnace
+Undocumented/Bug Fix:
+Tooltip no longer incorrectly factors in
+Sion's
+maximum health as bonus damage on the recast's damage calculation.
+V11.19
+Soul Furnace
+Shield strength increased to 60 / 85 / 110 / 135 / 160 from 50 / 75 / 100 / 125 / 150.
+V11.14
+Glory in Death
+Bug Fix:
+Sterak's Gage's
+Lifeline no longer refreshes its readiness upon death, which caused it to always trigger again during
+Glory in Death
+even if on cooldown.
+V11.13
+Glory in Death
+Bug Fix:
+Fixed a bug where the respawned
+Sion
+could be knocked back to his previous location by certain abilities, if
+Glory in Death
+lasted longer than his death timer's duration.
+Dr. Mundo's
+Blunt Force Trauma
+no longer pulls a vanished
+Sion
+from his respawn location.
+Urgot's
+Disdain
+no longer pulls respawned
+Sion
+if he is more than
+2000
+units away.
+Zac's
+Stretching Strikes
+still has this issue.
+V11.8
+Unstoppable Onslaught
+Undocumented/New Effect:
+Now causes the player's HUD to become transparent during the channel.
+Bug Fix:
+Now properly knocks up really big targets.
+V11.3
+Decimating Smash
+Bug Fix:
+Hitbox can no longer be manipulated to appear in a different location further away.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.23
+Roar of the Slayer
+Bug Fix:
+Is no longer able to regain control during certain types of
+disables
+for a moment shortly after casting
+Roar of the Slayer
+.
+However, he can still interrupt
+Decimating Smash's
+channel
+like this.
+V10.22
+Roar of the Slayer
+Bug Fix:
+Aphelios'
+Sentry
+turrets are no longer pushed towards their facing direction by
+Roar of the Slayer
+.
+V10.20
+Decimating Smash
+New Effect:
+Now deals 50%
+bonus
+damage against monsters.
+V10.19
+- September 21st Hotfix
+Soul Furnace
+Bug Fix:
+Now properly grants bonus health from kills while active.
+V10.13
+Soul Furnace
+Bug Fix:
+Tooltip while the shield is active now properly indicates that its passive grants
+4
+maximum
+health
+/
+15
+maximum
+health
+per unit kill.
+V10.12
+Decimating Smash
+Bug Fix:
+Tooltip now properly indicates that his total attack damage modifier is increased by spent skill points.
+V10.5
+Unstoppable Onslaught
+Bug Fix:
+Enemy champions hit by the charge are now correctly stunned for
+0.
+25
+− 1.
+75
+(based on charge time)
+seconds instead of
+0.
+25
+− 1.
+25
+(based on charge time)
+seconds.
+V9.22
+Unstoppable Onslaught
+Bug Fix:
+When cast outside of its maximum range, Sion will no longer attempt to walk into cast range first.
+(Cast range increased from 7500 to 25000 units.)
+V9.21
+Glory in Death
+Undocumented:
+When
+Sion
+dies again, he will now only briefly reveal areas in his vision range that are not obstructed by terrain or bush, instead of the entire radius.
+Roar of the Slayer
+Undocumented:
+Spell shields
+now correctly prevent the damage from being applied by a pushed minion. (Armor reduction is still applied incorrectly).
+V9.19
+Soul Furnace
+Shield strength increased 50 / 75 / 100 / 125 / 150 from 30 / 55 / 80 / 105 / 130.
+V9.16
+Stats
+Base mana increased to 330 from 325.
+6
+.
+Base health increased to 545 from 542.
+64
+.
+Base mana regeneration reduced to 8 from 8.
+008
+.
+Decimating Smash
+Minimum base damage increased to 30 / 50 / 70 / 90 / 110 from 20 / 40 / 60 / 80 / 100.
+Maximum base damage increased to 70 / 135 / 200 / 265 / 330 from 60 / 120 / 180 / 240 / 300
+Removed:
+No longer deals 20% reduced damage against monsters.
+V9.15
+Glory in Death
+Undocumented:
+% enemy hp max health damage
+on-hit is once again capped to
+75
+against non-champions.
+V9.13
+Glory in Death
+(partially rescripted)
+Undocumented:
+% enemy hp max health damage
+on-hit now uncapped against non-champions and applies against structures (except for
+turrets
+).
+V9.3
+Decimating Smash
+Minimum base damage reduced to 20 / 40 / 60 / 80 / 100 from 30 / 50 / 70 / 90 / 110.
+Soul Furnace
+Cooldown increased to 15 / 14 / 13 / 12 / 11 seconds from 11 at all ranks.
+V8.20
+Stats
+Base health regeneration reduced to 7.
+5
+from 9.
+V8.16
+Soul Furnace
+Bonus health on enemy kill increased to 4 from 3.
+Bonus health on large-enemies and champion takedowns increased to 15 from 10.
+V8.14
+Decimating Smash
+Minimum base damage increased to 30 / 50 / 70 / 90 / 110 from 30 / 47.
+5
+/ 65 / 82.
+5
+/ 100.
+Maximum base damage increased to 90 / 150 / 210 / 270 / 330 from 90 / 142.
+5
+/ 195 / 247.
+5
+/ 300.
+Minimum AD ratio increased to
+45 / 52.
+5
+/ 60 / 67.
+5
+/ 75% AD
+from
+45 / 50 / 55 / 60 / 65% AD
+.
+Maximum AD ratio increased to
+135 / 157.
+5
+/ 180 / 202.
+5
+/ 225% AD
+from
+135 / 150 / 165 / 180 / 195% AD
+.
+V8.10
+Stats
+Base health regeneration reduced to 9 from 10.
+Roar of the Slayer
+Base damage reduced to 65 / 100 / 135 / 170 / 205 from 70 / 105 / 140 / 175 / 210.
+AP ratio increased to
+55% AP
+from
+40% AP
+.
+Removed:
+Enemies that the knocked back unit collides with take 30%
+bonus
+damage.
+Armor reduction now applies to all units hit, not just the primary target.
+Armor reduction duration increased to 4 seconds from 2.
+5
+.
+Slow duration remains 2.
+5
+seconds.
+Unstoppable Onslaught
+Bug Fix:
+Is no longer obstructed by an allied
+Azir's
+Emperor's Divide
+.
+V8.9
+Decimating Smash
+Bug Fix:
+Decimating Smash
+will no longer sometimes have
+Sion
+face and/or swing in the wrong direction, nor fail to apply the
+knockup
+and damage on its release under certain conditions.
+V8.8
+Decimating Smash
+Base damage increased to 30 / 47.
+5
+/ 65 / 82.
+5
+/ 100 from 20 / 40 / 60 / 80 / 100.
+AD ratio reduced to
+45 / 50 / 55 / 60 / 65% AD
+from
+65% AD
+at all ranks.
+Maximum AD ratio reduced to
+135 / 150 / 165 / 180 / 195% AD
+from
+195% AD
+at all ranks.
+V8.7
+Unstoppable Onslaught
+Bug Fix:
+When disconnecting during the charge
+Sion
+will stop instead of automatically steering towards his base.
+V8.5
+Roar of the Slayer
+Bug Fix:
+Fixed a bug that made
+Roar of the Slayer's
+pass-through damage radius much wider than intended.
+Bug Fix:
+Jungle monsters launched by
+Roar of the Slayer
+now properly damage enemy champions.
+V8.3
+Stats
+Base health regeneration reduced to 10 from 10.
+18
+.
+Glory in Death
+Bug Fix:
+First death no longer drops one or more
+Soul Essences
+.
+Decimating Smash
+Bug Fix:
+Now correctly refunds its cooldown to 2 seconds when
+Sion
+is crowd-controlled during its cast.
+Soul Furnace
+Bug Fix:
+Fixed a bug where levelling
+Soul Furnace
+while in
+Glory in Death
+caused issues with the amount of maximum health he gains from killing enemy units.
+Roar of the Slayer
+Bug Fix:
+Fixed a bug where the minion targeted by
+Roar of the Slayer
+was incorrectly not made invulnerable to minion attacks.
+Unstoppable Onslaught
+New effect:
+No longer changes direction when hovering over minimap or teammate portraits.
+V7.24
+General
+Bug Fix:
+Dying before using the
+Guardian
+keystone no longer causes him to lose its functionality.
+V7.22
+Stats
+Base attack damage increased to 68 from 59.
+72
+.
+Base armor increased to 32 from 23.
+04
+.
+V7.16
+Soul Furnace
+Bonus health on enemy kill increased to 3 from 2.
+Unstoppable Onslaught
+Maximum base damage increased to 400 / 800 / 1200 from 300 / 600 / 900.
+Bug Fix:
+Is now properly immune to
+Lulu's
+Whimsy
+during
+Unstoppable Onslaught
+.
+V7.14
+Mecha Zero Sion
+Bug Fix:
+Custom VO now plays on kills.
+V7.11
+Soul Furnace
+Cooldown reduced to 11 seconds from 13.
+Shield strength health ratio increased to
+8 / 9 / 10 / 11 / 12% of
+Sion's
+maximum
+health
+from
+6 / 7 / 8 / 9 / 10% of
+Sion's
+maximum
+health
+.
+V7.5
+- March 10th Hotfix
+Decimating Smash
+Bug Fix:
+Fixed a bug that caused
+Sion
+to stand still for a brief moment after casting
+Decimating Smash
+.
+V7.5
+Decimating Smash
+Bug Fix:
+Fixed a bug where casting it could remove spell shield effects from enemies behind him.
+Bug Fix:
+Fixed a bug where casting it right before an basic attack against a turret would cancel the basic attack.
+V7.1
+General
+Bug Fix:
+Realigned
+Mecha Zero Sion's
+jet thruster particles with his model during his homeguard animation.
+Unstoppable Onslaught
+Bug Fix:
+Fixed a bug causing certain buff visuals (ex.
+Banshee's Veil
+) to bounce upward during
+Mecha Zero Sion's
+Unstoppable Onslaught
+animation.
+V6.17
+General
+New splash artwork for
+Barbarian Sion
+,
+Hextech Sion
+,
+Lumberjack Sion
+, and
+Warmonger Sion
+.
+Decimating Smash
+.
+Bug Fix:
+Snap-casting using the fully-charged area of effect instead of the intended minimum one.
+Roar of the Slayer
+.
+Bug Fix:
+Displaced minions first affected by
+Decimating Smash
+sometimes not damaging units they pass through.
+V6.12
+Decimating Smash
+Bug Fix:
+Restarting in a different direction by pressing
+R
++
+Q
+during channel.
+V6.8
+General
+Splash artwork for
+Hextech Sion
+updated to the Chinese art.
+Adjusted splash artwork for
+Warmonger Sion
+.
+V5.23
+Stats
+Attack range increased to 175 from 150.
+Model size reduced by ~5%
+V5.22
+Stats
+Mana increased to 325.
+6
+from 275.
+6
+.
+Mana growth reduced to 42 from 45.
+Roar of the Slayer
+Bug Fix:
+Displaced minions not being damaged.
+V5.10
+Unstoppable Onslaught
+Bug Fix:
+Damage being calculated with target's Bonus AD instead of Sion's.
+V5.8
+Soul Furnace
+Shield health ratio reduced to
+(+ 6 / 7 / 8 / 9 / 10% maximum health)
+from 10 at all ranks.
+Reactivation delay increased to 3 seconds from 2.
+V5.6
+Decimating Smash
+Damage to monsters reduced to 80% from 90.
+Roar of the Slayer
+Projectile bonus damage reduced to 30% from 50.
+Projectile total damage reduced to 91 / 136.
+5
+/ 182 / 227.
+5
+/ 273
+(+ 52% AP)
+from 105 / 157.
+5
+/ 210 / 262.
+5
+/ 315
+(+ 60% AP)
+.
+V5.5
+Decimating Smash
+Mana cost reduced to 45 at all ranks from 45 / 50 / 55 / 60 / 65.
+Champion-damage minimum AD ratio increased to
+(+ 65% AD)
+from
+(+ 60% AD)
+.
+Champion-damage maximum AD ratio increased to
+(+ 195% AD)
+from
+(+ 180% AD)
+.
+Roar of the Slayer
+Mana cost increased to 35 / 40 / 45 / 50 / 55 from 35 at all ranks.
+V5.1
+Glory in Death
+Bug Fix:
+Sion reviving with reduced health if affected by
+Grievous Wounds
+when he dies.
+V4.20
+Stats
+Health regen growth reduced to 0.
+8
+from 1.
+Glory in Death
+Health decay changed to
+2 − 19 (based on level)
+from
+2 − 36 (based on level)
+.
+Per-tick health decay growth changed to
+1.
+4
+− 13.
+3
+(based on level)
+from
+1.
+4
+− 25.
+2
+(based on level)
+.
+V4.19
+Stats
+Health per level increased to 73 from 70.
+Glory in Death
+Health decay changed to
+2 − 36 (based on level)
+from
+0.
+5
+% maximum health
+.
+Per-tick health decay changed to
+1.
+4
+− 25.
+2
+(based on level)
+from
+0.
+4
+% maximum health
+.
+Bug Fix:
+Sunfire Cape
+'s
+Immolate
+now persists past his original death.
+Decimating Smash
+Mana cost reduced to 45 / 50 / 55 / 60 / 65 from 50 / 55 / 60 / 65 / 70.
+Bug Fix:
+Some crowd control effects not reducing cooldown to 2 seconds when they interrupt charge-up.
+Soul Furnace
+Per-large-kill bonus health increased to 10 from 8.
+Mana cost reduced to 65 / 70 / 75 / 80 / 85 from 70 / 75 / 80 / 85 / 90.
+Roar of the Slayer
+Mana cost increased to 35 from 25.
+Removed:
+Minions being invulnerable while being displaced (can only be killed before landing by using
+Smite
+).
+V4.18
+Full Relaunch
+Title changed to
+the Undead Juggernaut
+from
+the Undead Champion
+Complete visual upgrade across all skins.
+New splash artwork for
+Original Sion
+.
+New voiceover
+New lore
+Glory in Death
+-
+New I
+Sion turns berserk once he loses all his health, gaining a full life bar along with significant attack damage, attack speed, and lifesteal as he bleeds out. His abilities are all replaced by
+Death Surge
+, which gives him a huge but brief movement speed boost. Sion dies once his health drains out.
+Decimating Smash
+-
+New Q
+Sion plants his feet, rooting himself as he winds up and swings his axe in a broad area before him. Decimating Smash deals increasing damage the longer it's charged, and once it's at least half-charged, knocks up all caught enemies when unleashed.
+Soul Furnace
+-
+New W
+Passive:
+Sion earns bonus max health every time he kills a unit.
+Active:
+Sion creates a bloody shield around him. If the shield stays intact for its duration, it explodes, dealing magic damage to all nearby enemies. Sion can also detonate the shield early by
+reactivating the ability.
+Roar of the Slayer
+-
+New E
+Sion bellows in a target direction, damaging, slowing, and shredding the armor of the first enemy struck. If Roar of the Slayer hits an enemy minion or jungle monster, Sion's scream also knocks them back a significant distance. The thrown minion or monster then damages and slows all other enemy units hit.
+Unstoppable Onslaught
+-
+New R
+Sion starts charging in a target direction, building up speed as he moves and trampling enemy minions along his path. He can
+cancel his charge early, at which point he slams the ground, dealing area of effect damage to all nearby enemies. Otherwise, Sion charges an extremely long distance, only stopping once he hits an enemy champion, wall, or reaches the end of his charge. If Sion charges into an enemy champion, he knocks them up and deals area of effect damage; if he hits a wall, Sion stuns himself briefly and deals area of effect damage around him.
+Trivia
+[
+edit
+|
+edit source
+]
+Sion, the Undead Champion
+When permanent
+health
+stacking was added to
+Enrage
+in the
+May 9, 2009 Patch
+, Sion became the first champion to have an ability that could infinitely stack an effect.
+Sion was one of the first six champions designed, together with
+Annie
+,
+Lee Sin
+,
+Singed
+,
+Sivir
+, and
+Twisted Fate
+.
+[2]
+[3]
+Of these, he was however the first and only one to recieve a
+full relaunch
+after his initial release, completely remaking the original appearance and gameplay.
+Sion, the Undead Juggernaut
+Sion
+is one of 15 champions that have an ability that infinitely stacks an effect:
+Aurelion Sol
+,
+Bard
+,
+Bel'Veth
+,
+Cho'Gath
+,
+Draven
+,
+Kindred
+,
+Nasus
+,
+Senna
+,
+Shyvana
+,
+Smolder
+,
+Swain
+,
+Sylas
+,
+Thresh
+, and
+Veigar
+.
+In Sion's case,
+Soul Furnace
+infinitely stacks his
+health
+.
+Sion's updated '
+Champion Spotlight
+' was the last to feature the old
+Summoner's Rift
+map.
+Unstoppable Onslaught
+was inspired by
+Juggernaut
+from
+X-Men
+.
+[4]
+Sion,
+Blitzcrank
+,
+Caitlyn
+,
+Lissandra
+,
+Rumble
+,
+Varus
+,
+Vi
+,
+Viego
+,
+Xerath
+, and
+Ziggs
+are the only champions who can apply
+crowd control
+on themselves.
+Glory in Death
+is one of three abilities which allow their casters to
+continue fighting after death
+, the others being
+Death Defied
+and
+Icathian Surprise
+.
+Sion's passive is the only of these three that lasts a variable time, determined by his health running out.
+Sion is also the only targetable 'Zombie-state' of the three, which was previously shared with
+Omen of Death
+,
+Yorick's
+original ultimate.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Vanguard
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+Vanguards
+are offensive tanks. Vanguards lead the charge for their team and specialize at bringing the action. Their explosive team fight initiation seeks to catch enemies out of position while allowing allies to follow-up to devastating effect.
+Examples
+Amumu
+Leona
+Sejuani
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Zombie state
+A buff that allows a player to keep controlling their
+champion
+after
+Death
+always flags the champion to be in a
+zombie state
+. It prevents enemies from gaining full kill credit or triggering most on-kill effects from the champion a second time, and some abilities (e.g.
+You and Me!
+) interact differently with champions in this state.
+Renata Glasc's
+Bailout
+and
+Resurrection
+will always take precedence over
+zombie state
+effects.
+The following effects trigger a champion to enter a
+zombie state
+:
+Karthus'
+Death Defied
+Kog'Maw's
+Icathian Surprise
+Sion's
+Glory in Death
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Stasis
+A unit that is in
+stasis
+is unable to control its movement, declare attacks, cast abilities, activate items or use
+any
+summoner spell
+for the duration, while also being
+invulnerable
+and
+untargetable
+.
+Stasis
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), all
+channeled and charged
+abilities and all
+dashes
+and
+displacements
+. Units that are being
+knocked up
+will be placed on the ground, but aren't
+knocked down
+(the
+airborne
+status is not removed in this case).
+Reduction:
+The
+duration
+is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Epic monsters
+and
+turrets
+are special cased to be affected by
+stasis
+despite them being
+crowd control immune
+.
+Removal:
+Cannot be removed by any means (except through
+death
+), and will prevent the activation of abilities that would usually remove
+crowd control
+effects.
+Quicksilver
+will either be placed on a short cooldown, remain usable, or become disabled.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Health
+Some champions use
+Health
+as a resource to cast abilities.
+While these champions can cast their abilities more freely than most, their disadvantage is that frequent ability usage will bring them closer to taking
+fatal damage
+.
+Health costs
+ignore
+invulnerability
+as well as effects that
+prevent
+falling below a certain health value.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Glory in Death
+Innate:
+Upon dying,
+Sion
+reanimates
+into a frenzy where he is restored to
+max health
+that rapidly decays, and
+reduces
+incoming
+healing
+.
+Sion
+can cast
+Death Surge
+, move and basic attack. His attacks become very rapid, gain
+life steal
+, and deal
+bonus
+physical damage
+based on the
+target's
+maximum
+health
+.
+Death Surge
+COOLDOWN:
+100
+Active:
+Sion
+gains a burst of
+movement speed
+for a short time.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Grievous Wounds
+Grievous Wounds
+is a debuff that reduces self-healing, incoming healing, and health regeneration by 40%.
+Grievous Wounds
+does not
+stack
+, the duration of the
+debuff
+will overlap on separate effects and refresh on the same effect.
+League of Legends content
+Invulnerability
+A unit that is
+Invulnerable
+reduces all damage taken to
+0
+and prevents effects that trigger from damage.
+League of Legends content
+Cripple
+A unit that is
+crippled
+has reduced
+total
+attack speed
+for the duration.
+Sources of
+cripple
+stack multiplicatively with each other.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+cripple immunity
+.
+Removal:
+Removed by
+Cleanses
+and specifically
+Master Yi's
+Highlander
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Adaptive force
+Adaptive Force
+is a stat that grants champions either
+attack damage
+or
+ability power
+, depending on the current amount of bonus attack damage and ability power of the champion, as follows:
+Higher Bonus
+AD
+→
+Attack damage
+Higher
+AP
+→
+Ability power
+1 point of Adaptive Force provides
+0.
+6
+bonus
+AD
+or
+1 AP
+.
+
+If the attack damage and the ability power of the unit are equal, the stat granted depends on the champion.
+League of Legends content
+True damage
+Applies:
+Corrupting Potion
+Omnivamp
+Mitigated by:
+Damage shields
+Invulnerability
+League of Legends content
+Fate's Call
+COOLDOWN:
+160 / 140 / 120
+Active:
+Kalista
+invokes her
+tether
+to retrieve her
+Oathsworn
+,
+vanishing
+and
+cleansing
+them from all
+crowd control
+, and hold them for a few seconds.
+While held, the
+Oathsworn
+may
+dash
+to reappear at the target location. If they collide with an enemy
+champion
+, they
+knock up
+all nearby enemies.
+League of Legends content
+Test of Spirit
+COOLDOWN:
+16 / 15 / 14 / 13 / 12
+Active:
+Illaoi
+reaches with a tendril in the target direction that stops upon the first enemy hit. If the target is a
+champion
+, she rips their
+Spirit
+out from them to stand before her.
+The
+Spirit
+tethers
+to the target for a duration, dealing a portion of any damage it takes. If the
+Spirit
+is killed or the target leaves its range, the target will be
+slowed
+and marked as a
+Vessel
+for a duration or until they
+takedown
+Illaoi
+, spawning
+Tentacles
+while marked.
+Tentacles
+will autonomously attack the nearest
+Spirit
+or
+Vessel
+.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Stasis (buff)
+A unit that enters
+stasis
+becomes
+invulnerable
+and
+untargetable
+, but also unable to control its movement, declare basic attacks, cast abilities, use summoner spells, or activate items.
+Bard's
+Tempered Fate
+and
+Syndra's
+Force of Will
+are the only
+stasis
+effects that are considered
+crowd control
+against enemies. Some effects treat friendly (self/ally applied) and hostile (enemy applied)
+stasis
+the same.
+League of Legends content
+Homing projectile destruction
+Destroying
+or
+popping of a projectile
+references an effect that destroys all homing
+missiles
+currently targeting a specific unit, such as ranged projectile-based
+basic attacks
+. Destroyed missiles will do the same thing as if they were destroyed by
+Wind Wall
+or
+Blade Whirl
+(usually vanishing without any effect).
+The following abilities perform one or more
+projectile popping events
+:
+Most
+abilities and effects that grant
+untargetability
+pop projectiles when the unit gains the status effect.
+Master Yi's
+Alpha Strike
+in particular pops targeted projectiles on each game tick for its duration.
+Gwen's
+Hallowed Mist
+pops all projectiles (from enemy champions outside of its area of effect) targeted at her that attempt to pass through or be inside its area of effect.
+Upon entering or leaving
+Mordekaiser's
+Realm of Death
+.
+Upon successfully completing the
+channel
+of:
+Shen's
+Stand United
+Twisted Fate's
+Gate
+Teleport
+League of Legends content
+Projectile
+A
+projectile
+or
+missile
+is any entity not classified as a unit (
+champion
+,
+minion
+,
+monster
+, etc.
+) that travels at any given velocity.
+Moving units are
+not
+considered projectiles under any circumstance (
+including
+dashing
+units,
+airborne
+units, or units thrown by some abilities such as
+Force of Will
+or
+Roar of the Slayer
+.
+).
+Braum's
+Unbreakable
+,
+Samira's
+Blade Whirl
+, and
+Yasuo's
+Wind Wall
+can block, destroy and / or stop projectiles.
+Some
+ranged
+basic attacks (
+including
+turrets
+) and abilities don't use projectiles and will bypass projectile-blocking effects.
+Some abilities will
+destroy
+all currently incoming homing projectiles.
+League of Legends content
+Crowd control
+A unit that is
+disabled
+is affected by a status effect that prevents certain actions – such as movement, attacking, casting and/or seeing–blocked, reduced or controlled.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Raw damage
+Raw damage
+is a type of damage that normally ignores resistances,
+shields
+, and
+minimum health threshold
+and
+resurrection
+effects on the target.
+Invulnerability
+and
+spell shields
+,  where applicable, are the only ways to reduce or negate
+raw damage
+. Current champion-sources of
+raw damage
+against an enemy always deal more than
+100% of the target's
+current
+health
+(
+"execution damage"
+). Current champion-sources of
+raw damage
+against the player's own champion or an ally are special-cased to take place during effects that protect champions from death. Current implementations of
+minimum health thresholds
+are special-cased to leave units at
+1 health
+rather than the threshold, when they are dealt lethal
+raw damage
+.
+Raw damage
+does not interact with
+any
+effect.
+Internal raw
+damage is a form of
+raw damage
+that also bypasses
+invulnerability
+and has no overrides in place to prevent it from killing death-protected champions. The
+Nexus Obelisk
+,
+Zac's
+Cell Division
+redirected damage, and
+Rift Herald's
+self-damage also have this modified form.
+League of Legends content
+Resurrection
+A unit that is protected by
+Resurrection
+will enter a revival state and dispel most debuffs upon taking
+fatal damage
+. After the state completes, the unit is revived.
+Resurrection
+effects do not count for kills or assists.
+Resurrection
+sources have a hierarchy, and will trigger in the following order:
+Zilean's
+Chronoshift
+Guardian Angel
+Anivia's
+Rebirth
+and
+Zac's
+Cell Division
+Resurrection
+will always take precedence over
+zombie state
+effects. Entering
+resurrection
+does not cancel cast times.
+Renata Glasc's
+Bailout
+always takes priority over
+resurrection
+.
+League of Legends content
+Blaze
+Innate:
+Brand's
+abilities apply a stack of
+Ablaze
+to enemies hit. Subsequent abilities used against a target with
+Ablaze
+are empowered. Killing an enemy afflicted with
+Ablaze
+or with an ability restores
+mana
+.
+At three stacks,
+champions
+and large
+monsters
+become unstable and explode, dealing
+magic damage
+to nearby enemies and applying a stack of
+Ablaze
+.
+Ablaze
+cannot stack more than once on enemies who have recently exploded.
+Ablaze:
+While afflicted with
+Ablaze
+, the target is continually dealt
+magic damage
+equal to a portion of
+their
+maximum
+health
+.
+League of Legends content
+Event Horizon
+COOLDOWN:
+20 / 18.
+5
+/ 17 / 15.
+5
+/ 14
+Active:
+After a brief delay,
+Veigar
+erects a cage at the target location that lasts for a short time. Enemies that touch the cage edges are briefly
+knocked down
+and
+stunned
+.
+League of Legends content
+Gravity Field
+COOLDOWN:
+17 / 16 / 15 / 14 / 13
+Active:
+Viktor
+deploys a gravity field that remains at the target location for a few seconds. After a brief delay, it activates to continually
+slow
+enemies within and inflict stacks of
+Gravity Field
+.
+The third stack consumes them all to briefly
+knock down
+and
+stun
+the target.
+Augment: Magnetize
+:
+Viktor's
+other basic abilities will also briefly
+slow
+enemies hit.
+League of Legends content
+Dark Passage
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Active:
+Thresh
+throws his lantern to the target location that remains for a few seconds while he remains nearby. He and the first allied champion to come near the lantern are granted a
+shield
+for a few seconds, with the amount based on
+Souls
+.
+An ally can grab the lantern to
+dash
+to
+Thresh
+and gain the shield, but cannot do so while
+immobilized
+,
+grounded
+, or
+silenced
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Sion's profile page
+at
+LeagueOfLegends.com
+↑
+@Riot, the first champion EVER made
+↑
+Guinsoo expanding first roster to six champions
+↑
+Sion Q&A 1

@@ -1,0 +1,2051 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Taric
+the Shield of Valoran
+Release date
+2009-08-19
+Last changed
+V14.21
+Class(es)
+Enchanter
+Warden
+Legacy
+Support
+Tank
+Position(s)
+Support
+Middle
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+1350
+|
+585
+Crafting
++
+810
+Ratings
+Damage
+1
+Toughness
+2
+Control
+2
+Mobility
+1
+Utility
+3
+Style
+Difficulty
+Taric
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Taric
+Base statistics
+Edit
+Health
+645
++99
+Mana
+300
++60
+Health regen. (per 5s)
+6
++0.5
+Mana regen. (per 5s)
+8.5
++0.8
+Armor
+40
++4.3
+Attack damage
+55
++3.5
+Magic resist.
+28
++2.05
+Crit. damage
+175%
+Move. speed
+340
+Attack range
+150
+Attack speed
+Base AS
+0.625
+Attack windup
+18% (mod. 0.25)
+AS ratio
+N/A
+Bonus AS
++2
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+135
+Pathing radius
+35
+Acq. radius
+350
+Special statistics
+Damage Dealt
++0%
+Damage Received
++10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
+-8%
+Damage Dealt
++0%
+Damage Received
++0%
+Healing
+-15%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Bravado
+Innate:
+After casting an ability,
+Taric
+empowers his next two basic attacks to gain tremendous
+total
+attack speed
+, deal
+bonus
+magic damage
+based on
+his
+bonus
+armor
+, and
+reduce
+the cooldowns of his basic abilities.
+Innate:
+After casting an
+ability
+,
+Taric
+empowers his next two
+basic attacks
+within 5 seconds to each gain
+100%
+total
+attack speed
+, deal
+25 − 93 (based on level)
+(+ 15%
+bonus
+armor)
+bonus
+magic damage
+, and reduce the
+remaining
+cooldowns
+of his basic abilities by
+1 − 2 (based on ability haste)
+seconds.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+Magic
+Counters
+Parries
+See Notes
+The first attack refreshes
+Bravado's
+duration.
+The bonus damage will not apply against
+structures
+.
+Bravado
+can be
+dodged
+and
+blocked
+but it cannot miss if
+Taric
+is
+blinded
+. The cooldown reduction cannot be negated in any cases.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to
+12.
+5
+− 46.
+5
+(based on level)
+.
+Armor ratio changed to
+15%
+bonus
+armor
+.
+Edit
+Starlight's Touch
+COST:
+60 Mana + all charges
+COOLDOWN:
+3
+CAST TIME:
+0.
+25
+RECHARGE:
+15
+EFFECT RADIUS:
+325
+Active:
+Taric
+heals
+himself and nearby allied champions based on
+his
+maximum
+health
+per charge of
+Starlight's Touch
+that he periodically
+stocks
+, up to a cap.
+Bravado
+-empowered attacks each grant one charge.
+Active:
+Taric
+heals
+himself and nearby allied champions for 25
+(+ 15% AP)
+(+ 1% of his
+maximum
+health)
+per charge of
+Starlight's Touch
+that he periodically
+stocks
+, up to a maximum amount.
+Bravado's
+empowered attacks each grant one charge.
+Maximum Charges:
+1 / 2 / 3 / 4 / 5
+Starlight's Touch
+can heal up to a maximum of 125
+(+ 75% AP)
+(+ 5% of
+Taric's
+maximum
+health)
+at 5 charges.
+Info
+Targeting input
+Auto
+Damage type
+Type
+The healing will apply heal effects (such as
+Summon Aery
+) prioritizing targets in
+Taric's
+circle, based on proximity to him, then in the
+Bastioned
+ally's circle, based on proximity to that ally (including it).
+Map-Specific Differences
+Arena
+differences
+edit
+Base heal changed to 20.
+Heal AP ratio changed to
+7% AP
+.
+Heal health ratio changed to
+0.
+5
+%
+maximum
+health
+.
+Edit
+Bastion
+COST:
+60 Mana
+COOLDOWN:
+15
+CAST TIME:
+0.
+25
+TARGET RANGE:
+800
+TETHER RADIUS:
+1300
+Passive:
+Taric
+gains
+bonus
+armor
+and forms a
+tether
+to the ally bound by
+Bastion
+. While the tether persists, the ally gains the
+bonus
+armor
+and
+Taric's
+abilities are mimicked to them.
+Active:
+Taric
+shields
+himself and the target allied champion for a short time, with the amount based on each
+target's
+maximum
+health
+. He also binds them with
+Bastion
+.
+Taric
+can also
+self-cast
+to shield himself. Only one ally can be bound at a time, and selecting a new ally overrides the previous bind.
+Passive:
+Taric
+gains
+bonus
+armor
+and forms a
+tether
+between him and the ally bound by
+Bastion
+. While the tether persists, the ally also gains the
+bonus
+armor
+and
+Taric's
+abilities are mimicked to them, though the effects do not stack.
+Bonus Armor:
+6 / 7 / 8 / 9 / 10% of
+Taric's
+armor
+Active:
+Taric
+grants himself and the target allied champion a
+shield
+for 2.
+5
+seconds, binding them with
+Bastion
+.
+Shield Strength:
+7 / 8 / 9 / 10 / 11% of target's
+maximum
+health
+Taric
+can also
+self-cast
+to shield himself; if he self-casts and is untethered, he will become tethered to the nearest ally. Only one ally can be bound at a time, and selecting a new ally overrides the previous bind.
+Info
+Targeting input
+Unit
+Damage type
+Type
+The mimicked abilities will still complete even if
+Taric
+dies or leaves range.
+Abilities are not mimicked to the bound ally if they are
+vanished
+via
+Alpha Strike
+,
+Hallucinate
+,
+Rappel
+, or
+Void Rush
+.
+Mimicked abilities will also cancel if they vanish as above.
+Bastion
+has a
+forgiveness radius
+of 175 units.
+Map-Specific Differences
+Arena
+differences
+edit
+Bonus armor changed to
+5 / 5.
+5
+/ 6 / 6.
+5
+/ 7% of
+Taric's
+armor
+.
+Edit
+Dazzle
+COST:
+40 Mana
+COOLDOWN:
+16 / 15 / 14 / 13 / 12
+CAST TIME:
+none
+RANGE:
+575
+WIDTH:
+140
+Active:
+Taric
+winds up over a brief moment, then projects a beam of starlight in the target direction that briefly
+stuns
+enemies hit, dealing
+magic damage
+based on his
+bonus
+armor
+.
+Taric
+can move during
+Dazzle
+.
+Active:
+Taric
+winds up over 1 second, granting
+ghosting
+to nearby units, then projects a beam of starlight in the target direction that deals
+magic damage
+to enemies hit and
+stuns
+them for 1.
+5
+seconds.
+Magic Damage:
+90 / 130 / 170 / 210 / 250
+(+ 50% AP)
+(+ 50%
+bonus
+armor)
+Taric
+can move during Dazzle.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Dazzle
+will aim towards the target direction on-cast when firing from both his and his
+Bastion's
+positions.
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 19 / 17.
+5
+/ 16 / 14.
+5
+/ 13 seconds.
+Edit
+Cosmic Radiance
+COST:
+100 Mana
+COOLDOWN:
+180 / 150 / 120
+CAST TIME:
+0.
+25
+EFFECT RADIUS:
+400
+Active:
+Taric
+calls down a star that descends to him over a short time. Afterwards, he and nearby allied champions become
+invulnerable
+for a short time.
+Active:
+Taric
+calls down a star from above that descends to him over 2.
+5
+seconds. Afterwards, he and nearby allied champions become
+invulnerable
+for 2.
+5
+seconds.
+"Embrace the cosmos."
+Info
+Targeting input
+Auto
+Cosmic Radiance
+has no effect on
+untargetable
+allies.
+It will affect the primary unit (the one the star is falling down on) even if they are untargetable.
+Map-Specific Differences
+Arena
+differences
+edit
+Invulnerability duration changed to 1.
+75
+seconds.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Taric (Collection)
+.
+Original
+View in 3D
+585
+18.08.2009
+Taric is the Aspect of the Protector, wielding incredible power as Runeterra’s guardian of life, love, and beauty. Shamed by a dereliction of duty and exiled from his homeland Demacia, Taric ascended Mount Targon to find redemption, only to discover a higher calling among the stars. Imbued with the might of ancient Targon, the Shield of Valoran now stands ever vigilant against the insidious corruption of the Void.
+Yuri Lowenthal
+Joshua 'HUGEnFAST' Brian Smith
+Loot eligible
+Emerald
+View in 3D
+520
+20.11.2009
+The Knights of the Emerald Chapel are the once-human stewards of the Elderwood—men and women who swore an oath to the land itself, and in return were granted unnaturally long life. Now led by a man named Taric, a handful reside there still, protecting the forest from all manner of invaders.
+Yuri Lowenthal
+Bo 'chenbowow' Chen
+Elderwood
+Loot eligible
+Legacy
+Armor of the Fifth Age
+View in 3D
+750
+08.04.2010
+Yuri Lowenthal
+Xi Zhang
+Demacia Vice
+Loot eligible
+Bloodstone
+View in 3D
+975
+09.08.2011
+Considered to be the most handsome and cunning acolyte of his Bloodstone cult, Taric seized power after the former leader took to the hunt. Now fully in control of his Bloodstone artifact, he uses his powers to maintain his youth and beauty at all costs—even if it means getting his hands a little bloody.
+Yuri Lowenthal
+Unknown artist
+Bloodstone
+Loot eligible
+New SFX/VFX
+Pool Party
+View in 3D
+1350
+13.07.2016
+Always on the alert, Taric will run in cinematic slow motion to save any swimmer in distress. Although, Taric has failed to save a distressing number of them.
+Yuri Lowenthal
+Christian Fell
+Pool Party
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Pool Party Taric Chromas
+Catseye
+Obsidian
+Pearl
+Rose Quartz
+Taric Luminshield
+View in 3D
+1350
+19.03.2020
+A battle cleric who has to simultaneously tank and heal for a pair of bumbling rogues, Taric Luminshield may be the only thing keeping his table from a total party wipe. In-universe he's a devout warrior of the Divine Goddess Targonius, but out of universe he'd rather be in a different campaign.
+Yuri Lowenthal
+Francis Tneh, West Studio
+Rift Quest
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Taric Luminshield Chromas
+Amethyst
+Aquamarine
+Obsidian
+Pearl
+Peridot
+Rainbow
+Rose Quartz
+Ruby
+Space Groove
+View in 3D
+1350
+17.11.2022
+Taric always found himself wanting more out of life and dreamed of discovering what was beyond his mundane world. His wish was granted when Teemo arrived on his planet and swept him off on an adventure. He's now found a place for himself as Ornn's apprentice as he works to understand the concept of Groove.
+Yuri Lowenthal
+Silvia Meiliani, Caravan Studio
+Space Groove
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Space Groove Taric Chromas
+Catseye
+Emerald
+Obsidian
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.21
+Bastion
+Armor ratio reduced to
+6 / 7 / 8 / 9 / 10% of
+Taric's
+armor
+from
+9 / 10 / 11 / 12 / 13%
+.
+V14.20
+Bastion
+New Effect:
+Cast now has a forgiveness radius of 175 units.
+V14.15
+Starlight's Touch
+Bug Fix:
+No longer fails to cast on an ally tethered by
+Bastion
+at max tether range.
+Bug Fix:
+Using
+Navori Flickerblade's
+Transcendence no longer incorrectly increases its current cooldown.
+Bastion
+Bug Fix:
+No longer fails to cast on an ally tethered by
+Bastion
+at max tether range.
+Bug Fix:
+Self-casting after a previously tethered ally has died no longer seeks for ally corpse targets instead of only alive allies.
+Bug Fix:
+Tether link and unlink SFX now has a delay to prevent it from repeatedly playing when the tethered ally also repeatedly enters and exits the tether's max range.
+V14.2
+Dazzle
+New Effect:
+Now grants
+ghosting
+to nearby units during the windup.
+V14.1
+- January 12th Hotfix
+Stats
+Armor growth reduced to 4.
+3
+from 4.
+6
+.
+Bastion
+Armor ratio reduced to
+9 / 10 / 11 / 12 / 13% of
+Taric's
+armor
+from
+10 / 11 / 12 / 13 / 14%
+.
+V12.17
+Stats
+Base magic resistance reduced to 28 from 32.
+Dazzle
+Cooldown increased to 16 / 15 / 14 / 13 / 12 seconds from 15 / 14 / 13 / 12 / 11.
+V12.11
+Starlight's Touch
+Heal health ratio per stack increased to
+1% of his
+maximum
+health
+from
+0.
+75
+%
+.
+Mana cost reduced to 60 at all ranks from 65 / 70 / 75 / 80 / 85.
+Dazzle
+Stun duration increased to 1.
+5
+seconds from 1.
+25
+.
+Cooldown reduced to 15 / 14 / 13 / 12 / 11 seconds from 17 / 16 / 15 / 14 / 13.
+V12.10
+Stats
+Base health increased to 645 from 575.
+Health growth increased to 99 from 85.
+Armor growth increased to 4.
+6
+from 3.
+4
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Starlight's Touch
+Base heal per stack reduced to 25 from 30.
+Heal AP ratio per stack reduced to
+15% AP
+from
+20% AP
+.
+Heal health ratio per stack reduced to
+0.
+75
+% of his
+maximum
+health
+from
+1%
+.
+Bastion
+Shield health ratio reduced to
+7 / 8 / 9 / 10 / 11%
+maximum
+health
+from
+8 / 9 / 10 / 11 / 12%
+.
+V11.14
+General
+Undocumented/Bug Fix:
+First move voice line now always triggers.
+Undocumented/Bug Fix:
+Generic item purchase lines have been restored.
+Undocumented/Bug Fix:
+Missing item specific voice interactions have been repurposed.
+Starlight's Touch
+Mana cost reduced to 65 / 70 / 75 / 80 / 85 from 70 / 75 / 80 / 85 / 90.
+Dazzle
+Mana cost reduced to 40 from 60.
+Cosmic Radiance
+Undocumented/Bug Fix:
+Voice lines have been made more frequent to trigger.
+V11.9
+Starlight's Touch
+Mana cost reduced to 70 / 75 / 80 / 85 / 90 from 70 / 80 / 90 / 100 / 110.
+Bastion
+Removed:
+Bound allies no longer mimic abilities if they are
+vanished
+via
+Alpha Strike
+,
+Hallucinate
+,
+Rappel
+, or
+Void Rush
+. Mimicked abilities will be removed if the ally becomes vanished via those abilities as well.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+General
+Bug Fix:
+With
+Moonstone Renewer
+, now properly heals ally champions only once per attack or ability cast in combat.
+Bastion
+Undocumented/Bug Fix:
+Periodic VFX missile to signify link to ally no longer "considered as auto attack"; no longer generates or consumes
+Kraken Slayer
+stacks.
+V10.14
+General
+Bug Fix:
+Gems above his right shoulder no longer disappears after he dies for the first time in a game.
+V10.10
+Stats
+Health growth reduced to 85 from 90.
+Bastion
+Bonus armor reduced to
+10 / 11 / 12 / 13 / 14% of
+Taric's
+armor
+from
+10 / 12.
+5
+/ 15 / 17.
+5
+/ 20%
+.
+V10.6
+General
+Recommended items updated.
+V9.22
+Cosmic Radiance
+Bug Fix:
+If he casts it and dies during the cast window, the cooldown will now reflect the proper time and not reflect his
+Bastion
+cooldown.
+V9.2
+- January 31st Hotfix
+Dazzle
+Bug Fix:
+No longer hits everything on the map if he casts it while linked to a
+Zed
+who's dashing to his
+Living Shadow
+.
+V8.17
+General
+Default adaptive damage changed to physical from magic.
+V8.13
+Bastion
+Bug Fix:
+Fixed a bug where it was granting more armor than intended.
+Dazzle
+Base damage reduced to 90 / 130 / 170 / 210 / 250 from 105 / 150 / 195 / 240 / 285.
+Bonus armor ratio increased to
+50%
+bonus
+armor
+from
+30%
+.
+Cosmic Radiance
+Cooldown increased to 180 / 150 / 120 seconds from 160 / 130 / 100.
+V7.24
+Stats
+Base armor reduced to 40 from 45.
+Bastion
+Bug Fix:
+Now correctly grants the shield from
+Summon Aery
+when cast on an ally.
+V7.22
+Stats
+Base armor increased to 45 from 25.
+Bravado
+Base damage increased to
+25 − 93 (based on level)
+from
+22 − 90 (based on level)
+.
+Dazzle
+Base damage increased to 105 / 150 / 195 / 240 / 285 from 100 / 145 / 190 / 235 / 280.
+V7.14
+Stats
+Base mana regeneration increased to 8.
+5
+from 5.
+Mana regeneration growth reduced to 0.
+8
+from 1.
+Starlight's Touch
+Base heal per charge changed to 30 at all ranks from 20 / 30 / 40 / 50 / 60.
+Health ratio per charge changed to
+1%
+maximum
+health
+from
+1.
+5
+%
+bonus
+health
+.
+Maximum charges changed to 1 / 2 / 3 / 4 / 5 from 3 at all ranks.
+Mana cost changed to 70 / 80 / 90 / 100 / 110 from 60 / 80 / 100 / 120 / 140.
+New Effect:
+Now has a 3 second cooldown.
+Recharge time unchanged.
+Removed:
+Bravado
+empowered attacks reduces
+Starlight's Touch's
+recharge timer.
+New Effect:
+Bravado
+empowered attacks now grant 1 charge of
+Starlight's Touch
+and reduce
+Starlight's Touch's
+cooldown by 1 second.
+Dazzle
+Base damage increased to 100 / 145 / 190 / 235 / 280 from 60 / 105 / 150 / 195 / 240.
+Cooldown changed to 17 / 16 / 15 / 14 / 13 seconds from 15 at all ranks.
+Stun duration changed to 1.
+25
+seconds at all ranks from 1 / 1.
+125
+/ 1.
+25
+/ 1.
+375
+/ 1.
+5
+.
+V6.15
+Pool Party Taric
+Bug Fix:
+No longer briefly reappears after diving into the floor at the end his recall animation.
+V6.9
+Stats
+Base mana increased to 300 from 250.
+Mana growth reduced to 60 from 75.
+Bastion
+Cast range reduced to 800 from 1100.
+Tether range reduced to 1300 from 1600.
+Dazzle
+Range reduced to 575 from 650.
+Width reduced to 140 from 150.
+V6.8
+General
+Full Relaunch
+Title changed to
+the Shield of Valoran
+from
+the Gem Knight
+.
+Complete visual upgrade across all skins.
+New splash artwork for
+Original Taric
+,
+Emerald Taric
+,
+Armor of the Fifth Age Taric
+and
+Bloodstone Taric
+.
+New voiceover.
+New lore.
+Stats
+Range increased to 150 from 125.
+Base health reduced to 575 from 619.
+2
+.
+Base health regeneration reduced to 6 from 7.
+94
+.
+Base mana reduced to 250 from 349.
+08
+.
+Base mana regeneration reduced to 5 from 8.
+5
+.
+Base armor reduced to 25 from 25.
+876
+.
+Base attack damage reduced to 55 from 57.
+88
+.
+Mana growth increased to 75 from 56.
+Mana regeneration growth increased to 1 from 0.
+8
+.
+Armor growth reduced to 3.
+4
+from 3.
+7
+.
+Bravado
+-
+New I
+Renamed from
+Gemcraft
+.
+Empowered attacks increased to 2 from 1.
+Damage adjusted to
+22 − 90 (based on level)
+(+ 15%
+bonus
+armor)
+from
+20%
+total
+armor
+.
+On-hit cooldown reduction reduced to
+1 − 0.
+55
+(based on cooldown reduction)
+seconds from 2.
+Removed:
+On-hit cooldown reduction reducing
+R
+'s.
+New Effect:
+Grants
+100%
+total
+attack speed
+for the 2 next empowered attacks.
+Starlight's Touch
+-
+New Q
+Taric
+expends all his current charges to heal himself and surrounding allied champions, as well as those surrounding his
+Bastion-protected
+champion, for 20 / 30 / 40 / 50 / 60
+(+ 20% AP)
+(+ 1.
+5
+%
+bonus
+health)
+per charge.
+Taric
+can store up to 3 charges, for a maximum heal of 60 / 90 / 120 / 150 / 180
+(+ 60% AP)
+(+ 4.
+5
+%
+bonus
+health)
+.
+Bravado's
+on-hit cooldown reduction is increased to
+6 − 3.
+3
+(based on cooldown reduction)
+for
+Starlight's Touch's
+cooldown.
+Cost:
+60 / 80 / 100 / 120 / 140 mana
+Recharge time:
+15 seconds
+Bastion
+-
+New W
+New Passive:
+Both
+Taric
+and the
+Bastion-protected
+champion's armor are increased by
+10 / 12.
+5
+/ 15 / 17.
+5
+/ 20% of
+Taric's
+armor
+.
+New Active:
+Taric
+shields himself and the target allied champion for
+8 / 9 / 10 / 11 / 12%
+maximum
+health
+for 2.
+5
+seconds, granting them
+Bastion
+and lasting so long as they remain in range or
+Taric
+targets a new champion.
+Taric's
+abilities will also cast from nearby allies protected by
+Bastion
+but the effects do not stack.
+Taric
+can target himself to gain a shield, which will remove his current
+Bastion
+.
+Cost:
+60 mana
+Cooldown:
+15 seconds
+Dazzle
+-
+E
+New Active:
+Taric
+and his
+Bastion-protected
+champion project beams of starlight toward the target location, which persists in the given direction for the next 1 second. After that time, the beams erupt dealing 60 / 105 / 150 / 195 / 240
+(+ 50% AP)
+(+ 30%
+bonus
+armor)
+magic damage to enemies hit and stunning them for 1 / 1.
+125
+/ 1.
+25
+/ 1.
+375
+/ 1.
+5
+seconds.
+Cost:
+60 mana
+Cooldown:
+15 seconds
+Cosmic Radiance
+-
+New R
+After a 2.
+5
+seconds delay, cosmic energy radiates outward from
+Taric
+and his
+Bastion
+, granting invulnerability to all allied champions hit for 2.
+5
+seconds.
+Cost:
+100 mana
+Cooldown:
+160 / 130 / 100 seconds
+Trivia
+[
+edit
+|
+edit source
+]
+Taric
+comes from طارق Arabic
+Ṭariq
+"striker" < Semitic root
+ṭ-r-q
+"to strike".
+[2]
+Ṭariq
+later underwent semantic shift from "striker" to "One knocking at the door; wayfarer, traveller by night" and thus "star".
+Surfer Singed
+carries a giant bottle of "
+Taric's
+Tropical Tan" sunscreen.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Enchanter
+Controllers
+are defensive casters that oversee the battlefield by protecting and opening up opportunities for their allies.
+Enchanters
+focus on amplifying their allies' effectiveness by directly augmenting them and defending them from incoming threats. Enchanters themselves are often quite fragile and bring relatively low damage to the table, meaning they really only shine when grouped together with others.
+Examples
+Janna
+Sona
+Soraka
+League of Legends content
+Warden
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+Wardens
+are defensive tanks. Wardens stand steadfast, seeking to hold the line by persistently locking down any on-comers who try to pass them. Wardens keep their allies out of harm’s way and allow them to safely deal with enemies caught in the fray.
+Examples
+Braum
+Shen
+Tahm Kench
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Bravado
+Innate:
+After casting an ability,
+Taric
+empowers his next two basic attacks to gain tremendous
+total
+attack speed
+, deal
+bonus
+magic damage
+based on
+his
+bonus
+armor
+, and
+reduce
+the cooldowns of his basic abilities.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Bastion
+COOLDOWN:
+15
+Passive:
+Taric
+gains
+bonus
+armor
+and forms a
+tether
+to the ally bound by
+Bastion
+. While the tether persists, the ally gains the
+bonus
+armor
+and
+Taric's
+abilities are mimicked to them.
+Active:
+Taric
+shields
+himself and the target allied champion for a short time, with the amount based on each
+target's
+maximum
+health
+. He also binds them with
+Bastion
+.
+Taric
+can also
+self-cast
+to shield himself.
+Only one ally can be bound at a time, and selecting a new ally overrides the previous bind.
+League of Legends content
+Tether
+A
+tether
+is an effect that applies a
+bind
+buff on both the source and the target(s), which then creates the actual tether that requires both to remain in close proximity so any accompanying effects (
+damage
+,
+crowd control
+,
+heals
+,
+buffs
+, etc) can apply.
+The tether breaks if it exceeds maximum range, or either conduit is removed (e.g.
+Death
+). The tether will also break from a transition into the
+zombie state
+due to the target already dying.
+Generally, a
+bind
+with an enemy will break along with the tether, whereas a bind with an ally will last indefinitely and automatically reapply the tether when within range.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Vanish
+In addition to granting
+untargetability
+,
+vanish
+briefly hides a unit from the game's renderer, which causes it to become completely undetectable and invisible even to effects such as
+Oracle Lens
+.
+Vanished
+units are
+unable to act
+. As with all untargetability,
+tethers
+will still persist on a target that
+vanishes
+.
+Vanish
+is not considered
+stealth
+and does not interact with
+sight
+effects.
+League of Legends content
+Alpha Strike
+COOLDOWN:
+20 / 19.
+5
+/ 19 / 18.
+5
+/ 18
+Active:
+Master Yi
+briefly
+vanishes
+and marks the target enemy, then rapidly marks up to 3 other nearby enemies. If there are no other eligible targets before then,
+Master Yi
+can mark the same enemies again.
+Upon finishing marking, he
+reappears
+and detonates the marks, dealing
+physical damage
+and applying
+on-hit
+effects. Subsequent marks on a target have less effect.
+Basic attacks
+reduce
+Alpha Strike's
+cooldown.
+League of Legends content
+Hallucinate
+COOLDOWN:
+100 / 90 / 80
+Active:
+Shaco
+briefly
+vanishes
+and
+blinks
+in the target direction, creating a
+clone
+of himself for some time.
+The clone will explode upon dying or expiring, which deals
+magic damage
+to nearby enemies and deploys three
+mini-boxes
+that activate instantly, briefly
+fearing
+nearby enemies.
+Recast:
+Shaco
+commands the clone to move to the target location.
+League of Legends content
+Rappel
+COOLDOWN:
+22 / 21 / 20 / 19 / 18
+Active:
+Elise
+and her
+Spiderlings
+vanish
+into the air for a short time.
+Rappel
+can be recast on a target enemy within the duration, and does so automatically after the duration without a target.
+Recast:
+Elise
+and her
+Spiderlings
+descend
+upon the target enemy, or their current position if there is no target.
+If
+Rappel
+is cast directly on a target enemy, she will automatically recast upon the target and
+Spider Queen's
+effects are increased for a few seconds.
+League of Legends content
+Void Rush
+COOLDOWN:
+100 / 90 / 80
+Passive:
+Rek'Sai
+marks enemy champions she damages with
+Marked as Prey
+, which lasts a few seconds.
+Active:
+Rek'Sai
+selects the target
+Marked as Prey
+, becoming
+displacement immune
+and
+vanishing
+into the ground. After a brief delay, she emerges
+Un-Burrowed
+and
+pounces
+at the target, dealing
+physical damage
+based on
+their
+missing
+health
+.
+displacement immunity
+:
+The dash cannot be deterred by
+crowd control
+.
+League of Legends content
+Targeting forgiveness
+Certain unit-targeted abilities present an accuracy-grace system called
+targeting forgiveness
+.
+When no valid target is
+directly selected
+upon using the ability, it will automatically search for one within a certain
+center-to-center
+forgiveness radius
+. If a valid target is found within the forgiveness radius, the ability will automatically acquire them and cast on them. If multiple targets are found, the nearest one to the forgiveness radius' center is chosen.
+Only ally-targeted abilities may utilize this system. Not to be confused with a different, priority-based system that a few other spells (e.g.
+Smite
+) use.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Bastion
+COOLDOWN:
+15
+Passive:
+Taric
+gains
+bonus
+armor
+and forms a
+tether
+to the ally bound by
+Bastion
+. While the tether persists, the ally gains the
+bonus
+armor
+and
+Taric's
+abilities are mimicked to them.
+Active:
+Taric
+shields
+himself and the target allied champion for a short time, with the amount based on each
+target's
+maximum
+health
+. He also binds them with
+Bastion
+.
+Taric
+can also
+self-cast
+to shield himself.
+Only one ally can be bound at a time, and selecting a new ally overrides the previous bind.
+References
+[
+edit
+|
+edit source
+]
+↑
+Taric's profile page
+at
+LeagueOfLegends.com
+↑
+H. Anthony Salmoné. An Advanced Learner's Arabic-English Dictionary Root Ṭ-R-Q

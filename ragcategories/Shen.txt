@@ -1,0 +1,2468 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Shen
+the Eye of Twilight
+Release date
+2010-03-24
+Last changed
+V14.22
+Class(es)
+Warden
+Legacy
+Tank
+Position(s)
+Top
+Support
+Resource
+Energy
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+2
+Toughness
+3
+Control
+2
+Mobility
+2
+Utility
+3
+Style
+Difficulty
+Shen
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Shen
+Base statistics
+Edit
+Health
+610
++99
+Energy
+400
++0
+Health regen. (per 5s)
+8.5
++0.75
+Energy regen. (per 5s)
+50
+Armor
+34
++4.2
+Attack damage
+64
++3
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+340
+Attack range
+125
+Attack speed
+Base AS
+0.751
+Attack windup
+17.361%
+AS ratio
+0.651
+Bonus AS
++3
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+100
+Pathing radius
+35
+Acq. radius
+400
+Special statistics
+Damage Dealt
+-5%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Ki Barrier
+STATIC COOLDOWN
+:
+11
+Innate:
+Shen
+manifests a
+Spirit Blade
+that he can control with his abilities.
+Passive:
+Shen's
+ability casts grant him a
+shield
+based on
+his
+bonus
+health
+for a short time. If he affects at least one other
+champion
+with an ability,
+Ki Barrier's
+cooldown is
+reduced
+.
+Innate:
+After completing an
+ability's
+effects,
+Shen
+grants himself a
+shield
+for
+47 − 120 (based on level)
+(+ 13%
+bonus
+health)
+for 2.
+5
+seconds. If
+Shen
+affects at least one other
+champion
+with an ability,
+Ki Barrier's
+cooldown
+is reduced by
+4 − 8 (based on level)
+seconds.
+Shen
+manifests a
+Spirit Blade
+that he can control with
+Twilight Assault
+and
+Spirit's Refuge
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+The
+Spirit Blade
+spawns with
+Shen
+, teleports closer to him if he gets too far away, and instantly blinks to him if he uses any global
+blink
+(
+Teleport
+,
+Recall
+, or
+Stand United
+). It will also dissappear if
+Shen
+dies and reappear upon
+respawning
+.
+Enemies see an arrow pointing from
+Shen
+to the location of his
+Spirit Blade
+even if it is not visible.
+Twilight Assault
+will grant the shield if the
+Spirit Blade
+reaches
+Shen
+. If it is stopped, no shield is granted. It will grant the cooldown reduction upon hitting an enemy champion.
+Spirit's Refuge
+will grant the shield and/or the cooldown reduction after the protective zone disappears. It does not need to block attacks to trigger the cooldown reduction, just touch an ally champion at any point of the duration.
+Shadow Dash
+will grant the shield when the dash ends. It will grant the cooldown reduction upon hitting an enemy champion.
+If the dash is
+interrupted
+, the shield will instead be received the moment the
+crowd control
+source is applied, before damage calculation (if any).
+Stand United
+will give the shield and/or the cooldown reduction upon completing the channel.
+Edit
+Twilight Assault
+COST:
+140 / 130 / 120 / 110 / 100 energy
+COOLDOWN
+:
+8 / 7.
+25
+/ 6.
+5
+/ 5.
+75
+/ 5
+CAST TIME:
+none
+EFFECT RADIUS:
+Global
+WIDTH:
+160
+SPEED:
+2000 - 5000
+Active:
+Shen
+recalls his
+Spirit Blade
+to his location, which shortly
+slows
+enemies hit while moving away from him. Once it arrives,
+Shen
+empowers his next three basic attacks within a period to gain
+bonus
+range
+and deal
+bonus
+magic damage
+based on the
+target's
+maximum
+health
+. If the
+Spirit Blade
+hit at least one enemy
+champion
+during the travel, the empowerment is enhanced and additionally grants him
+bonus
+attack speed
+.
+Active:
+Shen
+recalls his
+Spirit Blade
+to his location. Enemy champions hit are
+slowed
+for the next 2 seconds while moving away from
+Shen
+.
+Slow:
+15 / 20 / 25 / 30 / 35%
+Once it arrives,
+Shen
+empowers his next 3
+basic attacks
+within 8 seconds to gain
+75
+bonus
+range
+and deal
+bonus
+magic damage
+.
+Bonus Magic Damage:
+10 − 40 (based on level)
+(+ 2 / 2.
+5
+/ 3 / 3.
+5
+/ 4%
+(+ 1.
+5
+% per 100 AP)
+of target's
+maximum
+health)
+Total Magic Damage:
+30 − 120 (based on level)
+(+ 6 / 7.
+5
+/ 9 / 10.
+5
+/ 12%
+(+ 4.
+5
+% per 100 AP)
+of target's
+maximum
+health)
+If the
+Spirit Blade
+hit at least one enemy
+champion
+during the travel, the empowerment is enhanced to deal increased
+bonus
+magic damage
+and additionally grant
+Shen
+50%
+bonus
+attack speed
+.
+Increased Bonus Damage:
+10 − 40 (based on level)
+(+ 4 / 4.
+5
+/ 5 / 5.
+5
+/ 6%
+(+ 2% per 100 AP)
+of target's
+maximum
+health)
+Total Increased Damage:
+30 − 120 (based on level)
+(+ 12 / 13.
+5
+/ 15 / 16.
+5
+/ 18%
+(+ 6% per 100 AP)
+of target's
+maximum
+health)
+Empowered attacks against
+monsters
+deal 100%
+bonus
+damage, but their
+total
+damage is capped.
+Maximum Monster Damage:
+120 / 140 / 160 / 180 / 200
+Info
+Targeting input
+Auto
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Parries
+Blocked
+Projectile
+See Notes
+The
+Spirit Blade
+will stop in place upon colliding with
+Wind Wall
+or
+Unbreakable
+. If this occurs,
+Shen
+will not receive the empowered attacks.
+When it is called, the
+Spirit Blade
+also checks for units which's
+gameplay radius
+it overlaps which (equal to a
+0 radius check) before flying off, allowing it to hit enemies whose center is behind the missile origin.
+The empowered attack will not trigger against
+structures
+nor
+wards
+.
+Edit
+Spirit's Refuge
+COST:
+40 energy
+COOLDOWN
+:
+18 / 16.
+5
+/ 15 / 13.
+5
+/ 12
+CAST TIME:
+none
+EFFECT RADIUS:
+350
+Active:
+Shen
+primes his
+Spirit Blade
+, creating an area around it. After a short time, or when
+Shen
+or allied champions enter the area, the
+Spirit Blade
+briefly erupts a protective zone that
+blocks
+enemy basic attacks that hit
+Shen
+or allied champions in the area.
+Active:
+Shen
+primes his
+Spirit Blade
+, creating an area around it. After 2 seconds, or when
+Shen
+or an allied champion enters the area, the
+Spirit Blade
+generates a protective zone for 1.
+75
+seconds,
+blocking
+all non-
+turret
+basic attacks that hit
+Shen
+or allied champions in the area.
+Info
+Targeting input
+Auto
+Spirit's Refuge's
+protective zone can be moved while active if
+Shen
+uses
+Twilight Assault
+.
+Spirit's Refuge
+cannot be ranked up at
+Level
+1.
+Spirit's Refuge
+will also block damage from all abilities that use
+basic damage
+(
+Lunge
+,
+Mystic Shot
+,
+Steel Tempest
+).
+Edit
+Shadow Dash
+COST:
+150 energy
+COOLDOWN
+:
+18 / 16 / 14 / 12 / 10
+CAST TIME:
+none
+TARGET RANGE:
+600
+/
+300
+COLLISION RADIUS:
+60
+/
+150
+SPEED:
+800 +
+100% movement speed
+Passive:
+Dealing damage with
+Twilight Assault
+or
+Shadow Dash
+will restore
+energy
+.
+Active:
+Shen
+dashes
+to the target location, briefly
+taunting
+enemy
+champions
+and
+monsters
+he passes through and dealing
+physical damage
+based on
+his
+bonus
+health
+.
+Passive:
+Dealing damage with
+Twilight Assault
+or
+Shadow Dash
+restores
+30 / 40 / 50 (based on level)
+energy
+.
+Active:
+Shen
+dashes
+to the target location, dealing
+physical damage
+to enemy
+champions
+and
+monsters
+he passes through and
+taunting
+them for 1.
+5
+seconds.
+Physical Damage:
+60 / 85 / 110 / 135 / 160
+(+ 15%
+bonus
+health)
+Twilight Assault
+and
+Spirit's Refuge
+can be cast during the dash. Shadow Dash will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Casting
+Flash
+during
+Shadow Dash
+will end the dash prematurely, but the end-of-dash collision check will hit enemies at the
+blink's
+location still.
+This still cannot affect the same enemy more than once.
+The energy restore from
+Shadow Dash
+may only occur once.
+Edit
+Stand United
+COOLDOWN
+:
+200 / 180 / 160
+CAST TIME:
+none
+TARGET RANGE:
+Global
+Active:
+Shen
+channels
+for a short time,
+shielding
+the target allied champion for a few seconds. The
+shield
+is based on
+his
+bonus
+health
+and increases based on the
+target's
+missing
+health
+. Upon completing the channel,
+Shen
+and his
+Spirit Blade
+blink
+to the target ally, placed between them and the nearest enemy champion.
+Active:
+Shen
+focuses his will,
+channeling
+for 3 seconds and granting the target allied champion a
+shield
+for 5 seconds at the time of cast, increased by
+0% − 60% (based on target's
+missing
+health)
+.
+Minimum Shield Strength:
+120 / 220 / 320
+(+ 135% AP)
+(+ 15% of his
+bonus
+health)
+Maximum Shield Strength:
+192 / 352 / 512
+(+ 216% AP)
+(+ 24% of his
+bonus
+health)
+Upon completing the channel,
+Shen
+and his
+Spirit Blade
+blink
+to the target ally's location, placed between them and the nearest enemy champion.
+Shen
+also
+destroys
+any
+projectiles
+targeting him at the time of completion.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Counters
+Grounded
+Disabled
+Disruption
+Interrupted
+Due to several character stats needing to be recalculated each time a character spawns, casting
+Stand United
+immediately upon respawning will cause its cooldown to be unaffected by ability haste, and the shielding will not be increased by
+Shen's
+ability power
+, but will be increased by his
+bonus
+maximum health
+.
+(bug)
+Stand United
+can target allies via the
+mini map
+or on their portraits or by using the
+F2 - F5
+keys (none of this can be done if
+Shen
+is affected by
+nearsight
+or his target is
+untargetable
+).
+Shen
+will turn to face towards his target ally at the start of the channel.
+If the target is
+stealthed
+, enemies could, in theory, use this to estimate their location.
+Shen
+will channel so long as his target is alive (even if the granted shield is broken). If his target dies, the channel is canceled and
+Stand United
+goes on full cooldown.
+Interrupting
+Stand United's
+channel will not remove the shield prematurely.
+The target's screen will glow purple to telegraph that
+Shen
+has targeted them with
+Stand United
+.
+It will change back when the channel ends.
+Shen finds the nearest visible enemy champion within 2000 range from the ally or the nearest invisible champion within 600 range to place himself 175 units from his ally towards that enemy.
+Stand United
+has a
+forgiveness radius
+of 100 units.
+The following table refers for interactions while
+Shen
+is
+channeling
+:
+Type
+Channel
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+N/A
+Disabled
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Teleport
+Recall
+Hexflash
+Mark
+Dash
+Interrupted by
+N/A
+Interrupted by
+Death
+Grounding effects
+Immobilizing effects
+Cast-inhibiting effects
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 60 seconds at all ranks.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Shen (Collection)
+.
+Original
+View in 3D
+790
+24.03.2010
+Among the secretive, Ionian warriors known as the Kinkou, Shen serves as their leader, the Eye of Twilight. He longs to remain free from the confusion of emotion, prejudice, and ego, and walks the unseen path of dispassionate judgment between the spirit realm and the physical world. Tasked with enforcing the equilibrium between them, Shen wields blades of steel and arcane energy against any who would threaten it.
+Keith Silverstein
+Kelly Aleshire, Alex 'alexplank' Flores
+Loot eligible
+Frozen
+View in 3D
+520
+24.03.2010
+Enduring the bitter cold, Shen roams the ice caps with his twin blades, hunting the terrifying demon hidden deep underneath.
+Keith Silverstein
+Xi Zhang
+Glacial
+Loot eligible
+Legacy
+Yellow Jacket
+View in 3D
+520
+24.03.2010
+Keith Silverstein
+Unknown artist
+Legacy
+Loot eligible
+Legacy
+Surgeon
+View in 3D
+975
+04.01.2011
+Rest assured, anesthesia won't be part of the operation.
+Keith Silverstein
+Bo 'chenbowow' Chen
+Rift Hospital
+Loot eligible
+New SFX/VFX
+Chromas
+Surgeon Shen Chromas
+Emerald
+Obsidian
+Pearl
+Rainbow
+Rose Quartz
+Ruby
+Sandstone
+Sapphire
+Blood Moon
+View in 3D
+750
+07.06.2011
+The most indomitable disciple, in mind and body, Shen's loyalty to the Blood Moon cult can never be shaken. He serves as the personal bodyguard of the group's most important figures, executing interlopers with a cool dispassion, suggesting part of his humanity has already been consumed.
+Keith Silverstein
+Viktor Titov, Grafit Studio
+Blood Moon
+Loot eligible
+Warlord
+View in 3D
+975
+17.04.2012
+Keith Silverstein
+Mist XG
+Legacy
+Loot eligible
+Chromas
+Warlord Shen Chromas
+Amethyst
+Catseye
+Emerald
+Obsidian
+Pearl
+Ruby
+Sapphire
+Tanzanite
+TPA
+View in 3D
+750
+23.05.2013
+Honoring Stanley's winning performance as Shen during the 2012 World Championship.
+Keith Silverstein
+Bo Lu
+World Champions: 2012
+Loot eligible
+Legacy
+New SFX/VFX
+Pulsefire
+View in 3D
+1350
+17.05.2018
+Over the millennia, Shen has been called many names: warlord, trespasser, conqueror. Even so, his mission to build an army for the ages seems never-ending. Seeking only the smartest and the strongest to join his ranks, he remains untroubled by emotion, casting his timeless gaze over those with hidden potential.
+Keith Silverstein
+Alex 'alexplank' Flores
+Pulsefire
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Pulsefire Shen Chromas
+Chrono
+Infernal
+View in 3D
+1350
+05.09.2019
+An Infernal warrior risen from the raging depths of the underworld, Shen appears on battlefields in the blink of an eye, shielding his fellow titans from even the most well-organized resistance.
+Keith Silverstein
+West Studio
+Infernal
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Infernal Shen Chromas
+Catseye
+Pearl
+Peridot
+Rose Quartz
+Ruby
+PsyOps
+View in 3D
+1350
+03.09.2020
+A psychic soldier and field lieutenant within PsyOps, Shen's power is connected to a phantom child that follows him wherever he goes -- granting him insight into the middens between the living and the dead. Where the boy came from only High Command knows, and they aren't talking.
+Keith Silverstein
+Xiao Guang Sun, West Studio
+PsyOps
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+PsyOps Shen Chromas
+Emerald
+Hunter
+Obsidian
+Ruby
+Sandstone
+Sapphire
+Tanzanite
+Turquoise
+Shockblade
+View in 3D
+1350
+17.02.2022
+Once half of an elite operative duo for the Shockblade order, Shen stepped away from combat after he made a mistake that nearly cost the life of his partner, Zed. Now Shen mentors young shinobi training to join their ranks – but his new charge may inspire him to take up his sword and join the fight once more.
+Keith Silverstein
+Félix Donadio, West Studio
+Shockblade
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Shockblade Shen Chromas
+Amethyst
+Aquamarine
+Catseye
+Emerald
+Obsidian
+Rose Quartz
+Ruby
+Turquoise
+Ashen Guardian
+View in 3D
+Special
+23.03.2023
+A devotee of the principles of his now slain leader, Shen still walks the castle grounds, wielding his master's blade alongside his own. Perhaps some small part of him recognizes, with each blow to his armor from travelers seeking ancient riches, that his guard is senseless. But life must have meaning. Even life as endless as this.
+Keith Silverstein
+Huyy Nguyen, West Studio
+Ashen Knights
+Loot ineligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Ashen Guardian Shen Chromas
+Emberwoken
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.22
+Ki Barrier
+Cooldown increased to 11 seconds from 10.
+Cooldown refund increased to
+4 − 8 (based on level)
+seconds from
+4 − 7.
+5
+(based on level)
+.
+Stand United
+Minimum base shield reduced to 120 / 220 / 320 from 130 / 290 / 450.
+Minimum shield health ratio reduced to
+15%
+bonus
+health
+from
+16%
+.
+V14.20
+Stand United
+New Effect:
+Cast now has a forgiveness radius of 100 units.
+V14.18
+Ki Barrier
+Base shield increased to
+47 − 120 (based on level)
+from
+47 − 101 (based on level)
+.
+Health ratio increased to
+13%
+bonus
+health
+from
+12%
+.
+V14.6
+Ki Barrier
+Cooldown refund increased to
+4 − 7.
+5
+(based on level)
+seconds from
+4 − 7.
+5
+(based on level)
+.
+Now scales linearly instead of at breakpoints.
+V14.2
+Stats
+Base attack damage increased to 64 from 60.
+V13.20
+Spirit's Refuge
+Bug Fix:
+Now properly blocks the on-hit damage dealt by
+Kraken Slayer's
+Bring It Down and
+Stormrazor's
+Bolt.
+V12.15
+Shadow Dash
+Energy restore increased to
+30 / 40 / 50 (based on level)
+from
+30 / 35 / 40 (based on level)
+.
+V12.10
+Stats
+Base health increased to 610 from 540.
+Health growth increased to 99 from 85.
+Armor growth increased to 4.
+2
+from 3.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Ki Barrier
+Shield health ratio reduced
+12%
+bonus
+health
+from
+14%
+.
+Stand United
+Minimum base shield reduced to 130 / 290 / 450 from 140 / 320 / 500.
+Minimum shield health ratio reduced to
+16%
+bonus
+health
+from
+17.
+5
+%
+.
+V12.2
+Twilight Assault
+Empowered health ratio reduced to
+4 / 4.
+5
+/ 5 / 5.
+5
+/ 6%
+maximum
+health
+from
+5 / 5.
+5
+/ 6 / 6.
+5
+/ 7%
+.
+V11.20
+Ki Barrier
+Base shield reduced to
+50 − 101 (based on level)
+from
+60 − 111 (based on level)
+.
+V11.18
+Ki Barrier
+Bug Fix:
+Block effect now properly takes priority over
+shield
+mitigations.
+V11.12
+General
+Adjusted splash artwork for
+TPA Shen
+.
+V11.9
+Stand United
+Minimum base shield reduced to 140 / 320 / 500 from 175 / 350 / 525.
+Maximum base shield reduced to 224 / 512 / 800 from 280 / 560 / 840.
+New Effect:
+Shield now scales with
+17.
+5
+%
+bonus
+health
+, increased up to
+28%
+based on target's missing health.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.25
+Spirit's Refuge
+Bug Fix:
+No longer blocks
+Katarina's
+Daggers
+,
+Shunpo
+, and
+Death Lotus
+.
+V10.18
+Ki Barrier
+Base shield reduced to
+60 − 111 (based on level)
+from
+70 − 121 (based on level)
+.
+V10.16
+Stand United
+Bug Fix:
+Documented 10.15 mid-patch hotfix below
+V10.15
+Hotfix
+Stand United
+Undocumented
+: Cast now properly clears the item shop's Undo history.
+V10.15
+Ki Barrier
+Base shield increased to
+70 − 121 (based on level)
+from
+50 − 101 (based on level)
+.
+V10.13
+Surgeon Shen
+Updated visual effects.
+V10.6
+Twilight Assault
+Damage cap against monsters increased to 120 / 140 / 160 / 180 / 200 from 75 / 100 / 125 / 150 / 175.
+V9.16
+Twilight Assault
+Increased health ratio increased to
+5 / 5.
+5
+/ 6 / 6.
+5
+/ 7% of his target's
+maximum
+health
+from
+4 / 4.
+5
+/ 5 / 5.
+5
+/ 6%
+.
+Shadow Dash
+Base damage increased to 60 / 85 / 110 / 135 / 160 from 50 / 75 / 100 / 125 / 150.
+V9.9
+Stats
+Attack speed growth increased to 3% from 2%.
+Shadow Dash
+Bonus health ratio increased to
+15% of his
+bonus
+health
+from
+12%
+.
+V9.6
+Twilight Assault
+Base damage increased to
+10 − 40 (based on level)
+from
+5 − 30 (based on level)
+.
+Stand United
+Bug Fix:
+Fixed a bug where he was not saying his signature wind-up voiceover when casting the ability.
+V9.4
+General
+Bootless walk animation added.
+V8.20
+General
+Adjusted splash artwork for
+TPA Shen
+.
+V8.17
+General
+Adjusted splash artwork for
+TPA Shen
+.
+V8.15
+General
+Adjusted splash artwork for
+Surgeon Shen
+.
+V8.14
+Twilight Assault
+Spirit Blade collision slow reduced to 15 / 20 / 25 / 30 / 35% from 35% at all ranks.
+V7.24
+Twilight Assault
+Base damage reduced to
+5 − 30 (based on level)
+from
+15 − 40 (based on level)
+.
+V7.22
+Stats
+New:
+Now has +15%
+bonus
+attack speed at level 1.
+Base armor increased to 34 from 25.
+V7.9
+Twilight Assault
+Removed:
+Empowered attacks counting as spell hits.
+V7.8
+Twilight Assault
+Removed:
+Empowered attack dealing 30 / 50 / 70 / 90 / 110 bonus magic damage to non-champions.
+New Effect:
+Empowered attack now deal an additional
+15 − 40 (based on level)
+magic damage.
+New Effect:
+Empowered attack against monsters deals double damage,
+30 − 80 (based on level)
+magic damage, but is still capped.
+Shadow Dash
+Energy cost reduced to 150 from 180.
+Width increased to 120 from 100.
+Stand United
+Cooldown increased to 200 / 180 / 160 seconds from 180 / 150 / 120.
+Base shield value reduced to 175 / 350 / 525 from 250 / 550 / 850.
+New Effect:
+Shield now increases by 1% for every
+1% of target's
+missing
+health
+, up to  280 / 560 / 840 total shield at
+40% health
+.
+V6.23
+Stats
+Armor growth increased to 3 from 2.
+6
+.
+Health growth increased to 85 from 73.
+V6.18
+Ki Barrier
+Shield health reduced to
+50 − 101 (based on level)
+from
+52 − 120 (based on level)
+.
+Twilight Assault
+Maximum health damage reduced to
+2 / 2.
+5
+/ 3 / 3.
+5
+/ 4%
+from
+3 / 3.
+5
+/ 4 / 4.
+5
+/ 5%
+.
+Enhanced maximum health damage reduced to
+4 / 4.
+5
+/ 5 / 5.
+5
+/ 6%
+from
+5 / 5.
+5
+/ 6 / 6.
+5
+/ 7%
+.
+V6.15
+Stats
+Base health regen reduced to 8.
+5
+from 10.
+V6.5
+Stand United
+Clarity:
+Ally shield visibility while Shen channels increased.
+Clarity:
+The targeted ally's screen is now color-tinted while Shen channels.
+Bug Fix:
+Channeling through
+Chronoshift
+'s revive.
+V6.4
+Shadow Dash
+New Effect:
+Taunts neutral monsters
+V6.2
+- Rework
+Visual Update
+Complete visual upgrade across all skins.
+New splash artwork for
+Frozen Shen
+,
+Yellow Jacket Shen
+,
+Surgeon Shen
+,
+Blood Moon Shen
+and
+Warlord Shen
+.
+Adjusted splash artwork for
+Original Shen
+.
+Stats
+Base health reduced to 540 from 570.
+8
+Health growth reduced to 73 from 85.
+Base health regen increased to 10 from 8.
+37
+Health regen growth increased to 0.
+75
+from 0.
+55
+Armor growth reduced to 2.
+6
+from 4.
+Base attack damage reduced to 60 from 60.
+17
+Base attack damage growth reduced to 3 from 3.
+375
+Attack speed growth reduced to 2% from 3.
+4
+Maximum energy increased to 400 from 200.
+Movement speed increased to 340 from 335.
+Ki Barrier
+-
+New I
+Shen shields himself from
+52 − 120 (based on level)
+(+ 14% bonus health)
+damage for 2.
+5
+seconds whenever he activates
+Twilight Assault
+/
+Shadow Dash
+, or upon completing
+Spirit's Refuge
+/
+Stand United
+. The cooldown is reduced by
+4 − 7.
+5
+(based on level)
+seconds whenever his abilities affect an allied or enemy champion.
+Cooldown: 10 seconds
+Shen is accompanied by an immobile, untargetable
+Spirit Blade
+connected to him by a tether. The Spirit Blade remains idle on the ground unless commanded to move or forced to move to Shen's current location when they get too far apart.
+Twilight Assault
+-
+New Q
+Shen calls his Spirit Blade to himself, slowing all enemies along its tether that are facing away from him by 35% for 2 seconds, as well as
+empowering
+his next three basic attacks to deal
+3 / 3.
+5
+/ 4 / 4.
+5
+/ 5%
+(+ 1.
+5
+% per 100 AP)
+of target's maximum health
+bonus damage.
+If at least one enemy champion was caught in the tether the bonus damage is
+increased
+「 by
+2%
+(+ 0.
+5
+% per 100 AP)
+of target's maximum health
+」
+「 to
+5 / 5.
+5
+/ 6 / 6.
+5
+/ 7%
+(+ 2% per 100 AP)
+of target's maximum health
+」
+and Shen also gains
+50% attack speed
+for those attacks.
+Non-champions take 30 / 50 / 70 / 90 / 110 bonus damage.
+Cost: 140 / 130 / 120 / 110 / 100 energy
+Cooldown: 8 / 7.
+25
+/ 6.
+5
+/ 5.
+75
+/ 5 seconds
+Spirit's Refuge
+-
+New W
+Shen primes his Spirit Blade for 2 seconds, causing it to project a protective zone around it for 1.
+75
+seconds if he or an allied champion move nearby. Once the zone is active, all allies within the area gain 100% dodge chance for the duration.
+Cost: 40 energy
+Cooldown: 18 / 16.
+5
+/ 15 / 13.
+5
+/ 11 seconds
+Shadow Dash
+Energy refund is now a
+Passive
+component.
+Shen recovers
+30 / 35 / 40 (based on level)
+energy whenever he deals damage with
+Twilight Assault
+/ Shadow Dash.
+Removed:
+Damage reduction from taunted enemies.
+Energy cost increased to 180 at all ranks from 100 / 95 / 90 / 85 / 80.
+Cooldown increased to 18 / 16 / 14 / 12 / 10 seconds from 16 / 14 / 12 / 10 / 8.
+Removed:
+(+ 50% AP)
+ratio
+New Effect:
+(+ 12% bonus health)
+ratio
+Stand United
+AP ratio reduced to
+(+ 130% AP)
+from
+(+ 135% AP)
+Cooldown changed to 180 / 150 / 120 seconds from 180 / 160 / 120.
+Clarity:
+The Spirit Blade will arrive with Shen.
+Trivia
+[
+edit
+|
+edit source
+]
+Shen
+is written 慎
+shèn
+[ʂə̃n˥˩] "caution" in Chinese localization.
+Shen was the first champion to use energy as a resource for abilities.
+Before the release of
+Pulsefire Shen
+, neither him nor
+Zed
+reveal their faces in any of their skins, unlike
+Akali
+(
+All-star
+,
+Nurse
+,
+Blood Moon
+) and
+Kennen
+(
+Karate
+,
+M.D.
+). However, Shen has never revealed his full face in any skin.
+Shen's dance references
+Tai chi
+24-form
+.
+A side-by-side comparison can be seen
+here
+.
+Shen is the first dark-themed Ionian champion, before
+Varus
+,
+Syndra
+,
+Zed
+,
+Jhin
+,
+Xayah
+, &
+Kayn
+(Noxian-born).
+Shen,
+Pantheon
+, and
+Twisted Fate
+were the first to have a global-range teleport ability.
+After the other two's were heavily changed Shen remained the only one left with such an ability until
+Rek'Sai
+was released.
+Rek'Sai
+would then later lose her global-range teleport capabilities as well.
+Shen used to gain the
+'Law of Inverse Ninja Strength'
+cosmetic
+Easter egg
+debuff (
+"This unit is a flippin' ninja!"
+-
+"Ninjas are more effective when they work alone. For every Ninja on your team beyond yourself, you lose 1 health."
+) when he,
+Akali
+,
+Kennen
+, and/or
+Zed
+found themselves on the same team. It was removed in
+V3.14
+for unknown reasons.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Warden
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+Wardens
+are defensive tanks. Wardens stand steadfast, seeking to hold the line by persistently locking down any on-comers who try to pass them. Wardens keep their allies out of harm’s way and allow them to safely deal with enemies caught in the fray.
+Examples
+Braum
+Shen
+Tahm Kench
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Energy
+Energy
+is a resource designed to limit how much a champion is able to use their
+basic
+abilities during a set time frame rather than through the use of
+mana
+. It is represented by a
+yellow
+bar instead of
+blue
+.
+Energy
+has a maximum of
+200
+(except for
+Shen
+, with
+400
+), and regenerates rapidly, at a rate of
+10 energy
+per second. This means that energy champions are not at risk of depleting their resource over a long period of time, however the small capacity restricts the rapid usage of multiple spells.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Twilight Assault
+COOLDOWN:
+8 / 7.
+25
+/ 6.
+5
+/ 5.
+75
+/ 5
+Active:
+Shen
+recalls his
+Spirit Blade
+to his location, which shortly
+slows
+enemies hit while moving away from him.
+Once it arrives,
+Shen
+empowers his next three basic attacks within a period to gain
+bonus
+range
+and deal
+bonus
+magic damage
+based on the
+target's
+maximum
+health
+.
+If the
+Spirit Blade
+hit at least one enemy
+champion
+during the travel, the empowerment is enhanced and additionally grants him
+bonus
+attack speed
+.
+League of Legends content
+Spirit's Refuge
+COOLDOWN:
+18 / 16.
+5
+/ 15 / 13.
+5
+/ 12
+Active:
+Shen
+primes his
+Spirit Blade
+, creating an area around it. After a short time, or when
+Shen
+or allied champions enter the area, the
+Spirit Blade
+briefly erupts a protective zone that
+blocks
+enemy basic attacks that hit
+Shen
+or allied champions in the area.
+League of Legends content
+Blink
+A
+blink
+refers to a form of movement whereby a unit displaces from point A to B without traversing the space between.
+League of Legends content
+Stand United
+COOLDOWN:
+200 / 180 / 160
+Active:
+Shen
+channels
+for a short time,
+shielding
+the target allied champion for a few seconds. The
+shield
+is based on
+his
+bonus
+health
+and increases based on the
+target's
+missing
+health
+.
+Upon completing the channel,
+Shen
+and his
+Spirit Blade
+blink
+to the target ally, placed between them and the nearest enemy champion.
+League of Legends content
+Shadow Dash
+COOLDOWN:
+18 / 16 / 14 / 12 / 10
+Passive:
+Dealing damage with
+Twilight Assault
+or
+Shadow Dash
+will restore
+energy
+.
+Active:
+Shen
+dashes
+to the target location, briefly
+taunting
+enemy
+champions
+and
+monsters
+he passes through and dealing
+physical damage
+based on
+his
+bonus
+health
+.
+League of Legends content
+Interrupt
+Interrupt
+is a quality of crowd control that
+interrupts
+an in-progress effect, preventing its completion or causing the effect to go off at an
+interrupted
+state.
+The following crowd control effects
+interrupt
+channeled and charged
+abilities (unless otherwise noted by the ability):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+The following crowd control effects
+interrupt
+dashes
+:
+Airborne
+Knockdown
+Stasis
+Basic attack windups
+are
+interrupted
+by all forms of crowd control that inhibit attacking.
+Ground
+and
+Root
+only
+interrupt
+channeled and charged movement abilities.
+League of Legends content
+Crowd control
+A unit that is
+disabled
+is affected by a status effect that prevents certain actions – such as movement, attacking, casting and/or seeing–blocked, reduced or controlled.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Wind Wall
+COOLDOWN:
+25 / 23 / 21 / 19 / 17
+Active:
+Yasuo
+raises a wind wall that drifts in the target direction for a few seconds, blocking all enemy
+projectiles
+that hit it.
+League of Legends content
+Unbreakable
+COOLDOWN:
+16 / 14 / 12 / 10 / 8
+Active:
+Braum
+sets his shield in a direction for a few seconds, intercepting any enemy
+projectiles
+to hit him and be destroyed.
+He gains damage reduction and negates the first instance of damage dealt by a champion completely from this direction.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Lunge
+COOLDOWN:
+13 / 11.
+25
+/ 9.
+5
+/ 7.
+75
+/ 6
+Active:
+Fiora
+dashes
+in the target direction and then stabs a nearby enemy, dealing
+physical damage
+and applying
+on-hit
+effects.
+If she stabs a target, the cooldown is
+reduced
+.
+League of Legends content
+Mystic Shot
+COOLDOWN:
+5.
+5
+/ 5.
+25
+/ 5 / 4.
+75
+/ 4.
+5
+Active:
+Ezreal
+fires a bolt of energy that deals
+physical damage
+to the first enemy hit.
+If the bolt hits an enemy, all of
+Ezreal's
+ability cooldowns are
+reduced
+.
+Mystic Shot
+applies
+on-hit
+and
+on-attack
+effects.
+League of Legends content
+Steel Tempest
+STATIC CD:
+4 − 1.
+33
+(based on
+bonus
+attack speed)
+Active:
+Yasuo
+thrusts his sword in a line in the target direction that deals
+physical damage
+to enemies hit and applies
+on-hit
+and
+on-attack
+effects to the first enemy hit. This can
+critically strike
+.
+If this hits an enemy,
+Yasuo
+generates a stack of
+Gathering Storm
+for a few seconds. At 2 stacks, the next
+Steel Tempest
+consumes them all to become empowered with a new effect.
+If
+Steel Tempest
+is cast during
+Sweeping Blade
+, it instead affects enemies around
+Yasuo
+.
+Gathering Storm Bonus:
+Yasuo
+unleashes a whirlwind in the target direction that deals
+physical damage
+and briefly
+knocks up
+enemies hit.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Taunt
+A unit that is
+taunted
+will attempt to perform basic attacks on the
+Source
+(the
+unit
+that casted the
+Taunt
+spell) for the duration, during which they're unable to perform issued movement or attack commands, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Taunt
+is an
+immobilizing
+effect
+.
+Forced action effects
+cannot
+force the unit to perform an action that is disabled.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+and windups against the
+Source
+) and all
+channeled and charged
+abilities, as well as overrides previous
+Forced Action
+effects.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+or when the
+Source
+dies.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+References
+[
+edit
+|
+edit source
+]
+↑
+Shen's profile page
+at
+LeagueOfLegends.com

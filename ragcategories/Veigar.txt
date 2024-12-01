@@ -1,0 +1,1983 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Veigar
+the Tiny Master of Evil
+Release date
+2009-07-24
+Last changed
+V14.20
+Class(es)
+Burst
+Legacy
+Mage
+Position(s)
+Middle
+Support
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+1350
+|
+585
+Crafting
++
+810
+Ratings
+Damage
+3
+Toughness
+1
+Control
+3
+Mobility
+1
+Utility
+1
+Style
+Difficulty
+Veigar
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Veigar
+Base statistics
+Edit
+Health
+580
++108
+Mana
+490
++26
+Health regen. (per 5s)
+6.5
++0.6
+Mana regen. (per 5s)
+8
++0.8
+Armor
+18
++5.2
+Attack damage
+52
++2.7
+Magic resist.
+32
++1.3
+Crit. damage
+175%
+Move. speed
+340
+Attack range
+550
+Attack speed
+Base AS
+0.625
+Attack windup
+19.094%
+AS ratio
+N/A
+Bonus AS
++2.24
+%
+Missile speed
+1500
+Unit radius
+Gameplay radius
+55
+Selection radius
+100
+Pathing radius
+30
+Acq. radius
+525
+Special statistics
+Damage Dealt
+-10%
+Damage Received
++10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Phenomenal Evil Power
+Innate:
+Veigar
+generates a stack of
+Phenomenal Evil
+for each enemy
+champion
+hit by his abilities, and more stacks when he scores an enemy champion
+takedown
+.
+Phenomenal Evil:
+For each stack,
+Veigar
+gains
+ability power
+.
+Innate:
+Veigar
+generates a
+stack
+of
+Phenomenal Evil
+for each enemy
+champion
+hit by his
+abilities
+, and 5 stacks whenever he scores an enemy champion
+takedown
+.
+Phenomenal Evil:
+For each stack,
+Veigar
+gains
+1 ability power
+.
+Info
+Targeting input
+Passive
+The two effects stack, granting 6 stacks for each enemy champion taken down by an ability, 7 with
+Baleful Strike
+.
+Veigar's
+abilities do not have to deal damage nor affect their targets to grant a stack.
+Map-Specific Differences
+Nexus Blitz
+differences
+edit
+On-unit-kill stacks changed to 2.
+Arena
+differences
+edit
+New Effect:
+Gains 12.
+5
+Phenomenal Evil
+stacks per round.
+Edit
+Baleful Strike
+COST:
+30 / 35 / 40 / 45 / 50 mana
+COOLDOWN:
+6 / 5.
+5
+/ 5 / 4.
+5
+/ 4
+CAST TIME:
+0.
+25
+TARGET RANGE:
+1050 /
+990
+WIDTH:
+140
+SPEED:
+2200
+Active:
+Veigar
+blasts a dark bolt in the target direction that deals
+magic damage
+to the first two enemies hit. If this kills an enemy, it generates a stack of
+Phenomenal Evil
+. Large
+minions
+and
+monsters
+generate more stacks.
+Active:
+Veigar
+blasts a dark bolt in the target direction that deals
+magic damage
+to the first two enemies hit.
+Magic Damage:
+80 / 120 / 160 / 200 / 240
+(+ 50 / 55 / 60 / 65 / 70% AP)
+If this kills an enemy, it generates 1 stack of
+Phenomenal Evil
+, tripled against large
+minions
+and
+monsters
+.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Killing two enemy champions with
+Baleful Strike
+grants
++14 AP
+.
+Baleful Strike
+will only grant stacks of
+Phenomenal Evil
+from its bolt, and not any additional effect that would kill other units from the same cast.
+The stacks are added immediately on enemy kill (on next game tick).
+If the first target was killed, the second hit may deal 1 damage more on enemies further along the missile's flight path.
+This ability will cast from wherever the caster is at the end of the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio changed to
+45 / 50 / 55 / 60 / 65% AP
+.
+Edit
+Dark Matter
+COST:
+60 / 65 / 70 / 75 / 80 mana
+COOLDOWN:
+8 − 0 (based on
+Phenomenal Evil
+stacks)
+CAST TIME:
+0.
+25
+TARGET RANGE:
+950
+EFFECT RADIUS:
+240
+Active:
+Veigar
+casts down a mass of dark matter that strikes the target location after a brief delay, dealing
+magic damage
+to enemies hit. The cooldown is
+reduced
+based on stacks of
+Phenomenal Evil
+.
+Active:
+Veigar
+casts down a mass of dark matter that strikes the target location after a
+1.
+221
+seconds
+delay
+, dealing
+magic damage
+to enemies hit.
+Magic Damage:
+85 / 140 / 195 / 250 / 305
+(+ 60 / 70 / 80 / 90 / 100% AP)
+Dark Matter's
+cooldown
+is reduced based on stacks of
+Phenomenal Evil
+.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+The delay starts at the beginning of the cast time.
+If
+Veigar
+dies during the cast time,
+Dark Matter
+will still successfully fall from the sky.
+Dark Matter
+grants
+sight
+of the area during the delay.
+Edit
+Event Horizon
+COST:
+70 / 75 / 80 / 85 / 90 mana
+COOLDOWN
+:
+20 / 18.
+5
+/ 17 / 15.
+5
+/ 14
+CAST TIME:
+0.
+25
+TARGET RANGE:
+725
+EFFECT RADIUS:
+411
+/
+290
+/
+390
+Active:
+After a brief delay,
+Veigar
+erects a cage at the target location that lasts for a short time. Enemies that touch the cage edges are briefly
+knocked down
+and
+stunned
+.
+Active:
+Veigar
+forms a cage at the target location that erects after a 0.
+5
+second delay, remaining there for 3 seconds. Enemies that collide with the edges of the cage are
+knocked down
+and
+stunned
+for a duration.
+Stun Duration:
+1.
+5
+/ 1.
+75
+/ 2 / 2.
+25
+/ 2.
+5
+seconds
+Event Horizon
+can affect enemies only once per cast.
+Info
+Targeting input
+Location
+Counters
+Spell shield
+Blocked
+The stun and the knockdown are applied to units that are within a certain distance interval from the center of the area of effect.
+An enemy can be affected by
+Event Horizon
+only once every 4.
+5
+seconds.
+Units that negate the stun will still count as passing through the edges. They will become immune to the effects of
+Event Horizon
+for the period even after negating them.
+Displacement immune
+enemies will still be
+stunned
+, but not
+knocked down
+.
+At the start of the cast time, all enemy
+champions
+in a 390-radius become marked for
+Veigar
+to gain an
+assist
+on them should they perish within the standard 10 seconds assist time.
+Event Horizon
+may fail to catch enemies that move very quickly through the boundary distance.
+More modern area checks such as
+Thresh's
+The Box
+or
+Caitlyn's
+Yordle Snap Trap
+do not have this issue.
+Map-Specific Differences
+Howling Abyss
+differences
+edit
+Cooldown changed to 23 / 21.
+5
+/ 20 / 18.
+5
+/ 17 seconds.
+Arena
+differences
+edit
+Cooldown changed to 23 / 21.
+5
+/ 20 / 18.
+5
+/ 17 seconds.
+Edit
+Primordial Burst
+COST:
+100 mana
+COOLDOWN:
+100 / 80 / 60
+CAST TIME:
+0.
+25
+TARGET RANGE:
+650
+Active:
+Veigar
+sends a primordial burst at the target enemy champion that deals
+magic damage
+based on
+their
+missing
+health
+.
+Active:
+Veigar
+sends a primordial burst at the target enemy champion that deals
+magic damage
+, increased by
+0% − 100% (based on target's
+missing
+health)
+.
+Minimum Magic Damage:
+175 / 250 / 325
+(+ 65 / 70 / 75% AP)
+Maximum Magic Damage:
+350 / 500 / 650
+(+ 130 / 140 / 150% AP)
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Veigar (Collection)
+.
+Original
+View in 3D
+585
+23.07.2009
+An enthusiastic master of dark sorcery, Veigar has embraced powers that few mortals dare approach. As a free-spirited inhabitant of Bandle City, he longed to push beyond the limitations of yordle magic, and turned instead to arcane texts that had been hidden away for thousands of years. Now a stubborn creature with an endless fascination for the mysteries of the universe, Veigar is often underestimated by others—but even though he believes himself truly evil, he possesses an inner morality that leads some to question his deeper motivations.
+Bob Beal
+Sixmorevodka Studio
+Loot eligible
+White Mage
+View in 3D
+390
+17.12.2009
+A master of healing magic residing within an ancient cathedral, Veigar self-identifies as a dastardly archvillain rather than the pious cleric he clearly is. His magic has cured ailments and dispelled curses from across the land, much to his chagrin.
+Bob Beal
+Unknown artist
+Medieval
+Loot eligible
+Curling
+View in 3D
+520
+12.02.2010
+Curling is a sport where players slide stones across the ice with a stick. Veigar is an evil yordle obsessed with annihilating the great cities of Valoran. It just makes sense.
+Bob Beal
+Unknown artist
+Winter Sports
+Loot eligible
+Legacy
+Veigar Greybeard
+View in 3D
+750
+08.09.2010
+A suspiciously helpful wizard the party meets early in their adventure, Veigar Greybeard holds a dastardly secret—he's the true villain of Riftquest! Of course, this is obvious to anyone who played the starter campaign, but you still shouldn't spoil it for newcomers.
+Bob Beal
+Unknown artist
+Rift Quest
+Loot eligible
+Leprechaun
+View in 3D
+520
+15.03.2011
+Contrary to popular belief, Veigar won't grant three wishes, isn't a fairy, and doesn't hide gold coins at the end of a rainbow. He will, however, kill you. Which is none of the things you want out of a magic leprechaun.
+Bob Beal
+Unknown artist
+Fables
+Loot eligible
+New SFX/VFX
+Baron Von
+View in 3D
+975
+27.06.2011
+Ruler of the New Bandle Republic, Veigar considers himself the ultimate dark power of the wasteland—an evil so great that no man, woman, or creature would ever dare challenge his authority. Recently, he fixed up a water purifier and an electric grid for the city, too. An electric grid… OF EVIL!
+Bob Beal
+Unknown artist
+Road Warrior
+Loot eligible
+Legacy
+Superb Villain
+View in 3D
+975
+02.01.2012
+The villainous Veigar is at it again! Reigning from the top floor of the Veigar Company skyscraper, the criminal mastermind hatches the vilest plans New Valoran has ever seen! Yet even when his schemes are foiled, he always escapes punishment, biding his time until his next chance to strike!
+Bob Beal
+Unknown artist
+Silver Age
+Loot eligible
+New SFX/VFX
+Bad Santa
+View in 3D
+975
+14.12.2012
+Most Santas wish to bring joy and enchantment to children everywhere, but Veigar wants no such thing. His dark ambitions have grown beyond simply thwarting Snowdown—he schemes to throw the world into chaos, blotting out the holidays with his evil forever.
+Bob Beal
+Volta Studio
+Snowdown Showdown
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Final Boss
+View in 3D
+1820
+27.08.2014
+Once merely a mini-boss with a Napoleon complex, Veigar has ripped into the code of Arcade World to summon hundreds of other bosses to his side. Together they'll stop at nothing to reach his ultimate goal: take the world for himself, and give the heroes a final Game Over.
+Scott McNeil
+Unknown artist
+Arcade: Battle Bosses
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+Final Boss Veigar Chromas
+Mythic
+Omega Squad
+View in 3D
+1350
+26.07.2017
+A heavy artillery specialist with a serious chip on his shoulder, Veigar has a troubling habit of calling down huge amounts of explosive ordnance for even the most mundane problems. He thinks of it as “a fun quirk.”
+Bob Beal
+Jojo So
+Omega Squad
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Omega Squad Veigar Chromas
+Catseye
+Sapphire
+Tanzanite
+Elderwood
+View in 3D
+1350
+29.08.2019
+A small number of the Elderwood's children remain largely unaffected by the growing influence of the Coven, to the relief of scholars and storytellers alike. Unfortunately, those particular children are some of the most whimsical and dangerous, including among their number the insane goblin Veigar and his cursed, hallucinogenic toadstools.
+Bob Beal
+Maki Planas Mata
+Elderwood
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Elderwood Veigar Chromas
+Amethyst
+Catseye
+Emerald
+Obsidian
+Pearl
+Rainbow
+Rose Quartz
+Ruby
+Turquoise
+Furyhorn Cosplay
+View in 3D
+1350
+01.04.2020
+50% fury, 50% horn,100% evil.
+Bob Beal
+Horace 'Hozure' Hsu
+Definitely Not
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Furyhorn Cosplay Veigar Chromas
+Aquamarine
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Astronaut
+View in 3D
+1350
+01.07.2021
+A scientist conducting research on alien energy sources, Veigar ventured too far into empty space... but the Veigar that came back was different from the one that was set adrift. No one is sure why, but something about him is more… evil? And purple.
+Bob Beal
+West Studio
+Astronauts
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Astronaut Veigar Chromas
+Catseye
+Citrine
+Emerald
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Monster Tamer
+View in 3D
+1350
+11.08.2022
+Veigar has big plans. BIG. First, he'll amass an army of monsters, preferably from the darkest, scariest corners of the land. Then he'll use the CORE to create a bond with said monsters and amplify their power. Then he'll take over the world!! Hmm... he might have missed a step.
+Bob Beal
+Fortune 'Fortuneee' K
+Monster Tamers
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Monster Tamer Veigar Chromas
+Catseye
+Jasper
+Obsidian
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+King Beegar
+View in 3D
+1350
+22.11.2023
+Beegar's waited a whole 10 days (that's a long time in bee-years) for his moment to strike. It's finally here, and the Queen Bee's crown is in his sights. Long live the Bee-sistance!
+Bob Beal
+Exia Xiaotong, West Studio
+Bees!
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+King Beegar Chromas
+Amethyst
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Fright Night
+View in 3D
+1820
+25.09.2024
+In the dreadful, dreary wood, campers scampered about with glee, gathering fallen branches from the gnarled, cursed trees. They tossed them onto a makeshift pyre and read the incantations. From the flames, Veigar erupted, ready to vanquish his competition.
+Scott McNeil
+Lejia Chan, Kudos Productions
+Fright Night
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+Fright Night Veigar Chromas
+Amethyst
+Ghoulish
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.20
+Dark Matter
+AP ratio reduced to
+60 / 70 / 80 / 90 / 100% AP
+from
+70 / 80 / 90 / 100 / 110% AP
+.
+V14.9
+Stats
+Selection radius increased to 100 units from 93.
+V14.5
+Baleful Strike
+AP ratio increased to
+50 / 55 / 60 / 65 / 70% AP
+from
+45 / 50 / 55 / 60 / 65% AP
+.
+Primordial Burst
+Cooldown reduced to 100 / 80 / 60 seconds from 120 / 90 / 60.
+V14.2
+Stats
+Base health increased to 580 from 550.
+V13.22
+Stats
+Basic attack missile speed increased to 1500 from 1100.
+V13.7
+Baleful Strike
+AP ratio changed to
+45 / 50 / 55 / 60 / 65% AP
+from
+60% AP
+at all ranks.
+Dark Matter
+AP ratio changed to
+70 / 80 / 90 / 100 / 110% AP
+from
+100% AP
+at all ranks.
+Event Horizon
+Removed:
+Can no longer hide his VFX from enemies by placing it inside certain walls.
+Bug Fix:
+Zone placement particles are now properly visible to enemies from the Fog of War.
+Primordial Burst
+AP ratio reduced to
+65 / 70 / 75% AP
+from
+75% AP
+at all ranks.
+V13.6
+Stats
+Base health reduced to 550 from 575.
+Base armor reduced to 18 from 21.
+Dark Matter
+Base damage changed to 85 / 140 / 195 / 250 / 305 from 100 / 150 / 200 / 250 / 300.
+V13.5
+General
+Bug Fix:
+Now properly plays his laugh voice line upon scoring a killing blow with
+Primordial Burst
+.
+V13.4
+Baleful Strike
+Cast range increased to 1050 units from 950.
+Dark Matter
+Cast range increased to 950 units from 900.
+V12.11
+Baleful Strike
+Bug Fix:
+Tooltip no longer incorrectly states that additional stacks of
+Phenomenal Evil
+would be granted from scoring a killing blow on champions hit.
+Event Horizon
+Cooldown increased to 20 / 18.
+5
+/ 17 / 15.
+5
+/ 14 seconds from 20 / 18 / 16 / 14 / 12.
+V12.10
+Stats
+Base health increased to 575 from 505.
+Health growth increased to 108 from 94.
+Armor growth increased to 5.
+2
+from 4.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V12.4
+Stats
+Base armor reduced to 21 from 23.
+Armor growth increased to 4 from 3.
+75
+.
+Baleful Strike
+Bug Fix:
+Tooltip now correctly states that scoring the last hit against enemy champions grant 1 stack of
+Phenomenal Evil
+, not 3.
+Event Horizon
+Cooldown increased to 20 / 18 / 16 / 14 / 12 seconds from 18 / 16.
+5
+/ 15 / 13.
+5
+/ 12.
+V12.2
+Baleful Strike
+Cooldown reduced to 6 / 5.
+5
+/ 5 / 4.
+5
+/ 4 seconds from 7 / 6.
+5
+/ 6 / 5.
+5
+/ 5.
+Phenomenal Evil
+stacks from large minions and monsters increased to 3 from 2.
+V11.10
+- May 12th Hotfix
+Event Horizon
+Bug Fix:
+Fixed a bug where it wasn't properly stunning all targets.
+V11.4
+Baleful Strike
+Mana cost reduced to 30 / 35 / 40 / 45 / 50 from 40 / 45 / 50 / 55 / 60.
+Primordial Burst
+Cooldown reduced to 120 / 90 / 60 seconds from 120 / 100 / 80.
+V10.16
+Stats
+Base magic resistance increased to 32 from 30.
+V10.6
+Stats
+Base attack damage increased to 52 from 50.
+71
+.
+Attack damage growth increased to 2.
+7
+from 2.
+625
+.
+Base armor increased to 23 from 22.
+55
+.
+Baleful Strike
+Base damage increased to 80 / 120 / 160 / 200 / 240 from 70 / 110 / 150 / 190 / 230.
+V9.19
+Event Horizon
+Cooldown reduced to 18 / 16.
+5
+/ 15 / 13.
+5
+/ 12 seconds from 18 / 17 / 16 / 15 / 14.
+V9.1
+Phenomenal Evil Power
+New Effect:
+Can now ping the current amount of stacks.
+V8.19
+General
+Basic attack and ability visual effects have been updated for base skin and all skins using base VFX.
+Non-VO audio has been updated for base skin and all skins using base SFX.
+Bad Santa Veigar
+VFX updated.
+Leprechaun Veigar
+VFX updated.
+V8.18
+Omega Squad Veigar
+Dark Matter
+Bug Fix:
+Warning indicator is now much clearer for colorblind players.
+V8.9
+Stats
+Base mana increased to 490 from 392.
+4
+.
+Mana growth reduced to 26 from 52.
+Base mana regeneration increased to 8 from 6.
+V8.8
+Leprechaun Veigar
+Dark Matter
+Bug Fix:
+VFX once again have rainbows.
+V8.2
+Primordial Burst
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V7.22
+Stats
+Base health increased to 505 from 492.
+76
+.
+Health growth increased to 94 from 82.
+V7.19
+Stats
+Base attack range increased to 550 from 525.
+Base health regeneration increased to 6.
+5
+from 5.
+424
+.
+Health regeneration growth increased to 0.
+6
+to 0.
+55
+Dark Matter
+Cooldown reduced to 8 seconds at all ranks from 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8.
+New Effect:
+The
+base
+cooldown is reduced by
+0% − 99.
+99
+% (based on
+Phenomenal Evil
+stacks)
+.
+This stacks
+multiplicitively
+with
+cooldown reduction
+.
+Bad Santa Veigar
+Bug Fix:
+No longer has visible seams on very low settings.
+V7.12
+Primordial Burst
+Bug Fix:
+Fixed a bug where his laugh wasn't playing correctly when landing a killing blow with it.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.5
+Final Boss Veigar
+Primordial Burst
+Bug Fix:
+Fixed a bug VFX would be misplaced.
+V6.19
+Primordial Burst
+Bug Fix:
+Final Boss Veigar
+once again plays VO lines when casting
+Primordial Burst
+.
+V6.17
+Phenomenal Evil Power
+AP gain from champion takedowns increased to 5 from 3.
+Event Horizon
+Bug Fix:
+Enemies can now see the warning ring when
+Event Horizon
+is cast into terrain.
+V6.14
+Dark Matter
+Bug Fix:
+Bad Santa Veigar's
+custom particles for
+Dark Matter
+have been restored.
+V6.10
+General
+Bug Fix:
+Restored
+Curling Veigar
+vintage border for players who owned him as a limited skin.
+Baleful Strike
+Bug Fix:
+Final Boss Veigar
+'s
+Baleful Strike
+no longer turns units invisible when killing them.
+V6.9
+Phenomenal Evil Power
+(Innate)
+New Innate:
+Veigar gains a stack of
+Phenomenal Evil
+whenever he hits an enemy champion with an ability, and 3 stacks whenever he scores a champion takedown. Veigar gains 1 Ability Power for every stack of
+Phenomenal Evil
+.
+Baleful Strike
+Passive removed.
+AP on champion takedowns.
+Revised Tooltip:
+Killing a unit with Baleful Strike grants 1 stack of
+Phenomenal Evil
+, doubled for large minions and monsters.
+Champion kills with Baleful Strike grant a total of 5 stacks, combining the effects of hitting a champion with an ability (+1) and scoring a champion takedown (+3)  in his passive and the killing a unit (+1) in this ability
+Mana cost reduced to 40 / 45 / 50 / 55 / 60 from 60 / 65 / 70 / 75 / 80.
+Dark Matter
+Mana cost reduced to 60 / 65 / 70 / 75 / 80 from 70 / 75 / 80 / 85 / 90.
+Event Horizon
+Mana cost reduced to 70 / 75 / 80 / 85 / 90 from 80 / 85 / 90 / 95 / 100.
+Primordial Burst
+Mana cost reducd to 100 from 125.
+Removed:
+Enemy AP ratio.
+Base damage reduced to 175 / 250 / 325 from 250 / 375 / 500.
+AP ratio reduced to
+75% AP
+from
+100% AP
+New Effect:
+Now deals
+「 1% increased damage for every
+0.
+67
+% of his target's missing health
+」
+「 1.
+5
+% increased damage for every
+1% of his target's missing health
+」
+, up to double damage to targets at
+33% of their maximum health or less
+.
+Maximum damage: 350 / 500 / 650
+(+ 150% AP)
+.
+V6.8
+General
+Splash artwork for
+Veigar Greybeard
+updated to the Chinese art.
+V5.22
+Stats
+Base mana increased to 392.
+4
+from 342.
+4
+.
+Mana growth reduced to 52 from 55.
+V5.21
+Baleful Strike
+Base damage reduced to 70 / 110 / 150 / 190 / 230 from 80 / 125 / 170 / 215 / 260.
+Dark Matter
+Base damage reduced to 100 / 150 / 200 / 250 / 300 from 120 / 170 / 220 / 270 / 320.
+V5.18
+Baleful Strike
+The passive will now generate AP on assists.
+Dark Matter
+Cast time removed (previously 0.25 seconds).
+Veigar must still complete a 0.25 second casting animation to begin issuing new commands, but all effects now happen instantly.
+Total delay effectively reduced to 1.
+25
+seconds from 1.
+5
+.
+V5.13
+Primordial Burst
+Missile size now scales with Veigar's ability power.
+This will reduce the base size of the projectile for some skins, and is capped at 1500 ability power.
+V5.6
+Equilibrium
+Mana regen increased to 1.
+5
+% per
+1% missing mana
+from 1% per
+1% missing mana
+.
+Baleful Strike
+Range increased to 950 from 850.
+Event Horizon
+Enemy dashes through Event Horizon's walls will stop at them instead.
+V5.5
+Baleful Strike
+Missile speed increased to 2000 from 1750.
+Fixed a bug where Baleful Strike would fail to cast if you got CCed during the cast.
+Event Horizon
+Delay before walls appear decreased to 0.
+5
+from 0.
+75
+.
+Warning particle display now occurs on cast rather than after cast time.
+V5.4
+General
+New ability effects.
+Baleful Strike
+Reworked Active:
+Now a linear colliding skillshot, but can hit two targets.
+Ability power gain can be triggered up to twice per cast.
+Range increased to 850 from 650.
+Cooldown changed to 7 / 6.
+5
+/ 6 / 5.
+5
+/ 5 seconds from 8 / 7 / 6 / 5 / 4.
+Dark Matter
+Mana cost reduced to 70 / 75 / 80 / 85 / 90 from 70 / 80 / 90 / 100 / 110.
+Cooldown reduced to 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8 seconds from 10 at all ranks.
+Event Horizon
+New Effect:
+Now has a 0.
+75
+seconds delay and warning particles before the walls appear.
+Mana cost reduced to 80 / 85 / 90 / 95 / 100 from 80 / 90 / 100 / 110 / 120.
+Cooldown reduced to 18 / 17 / 16 / 15 / 14 seconds from 20 / 19 / 18 / 17 / 16.
+Range increased to 700 from 650.
+Primordial Burst
+Ability power ratio reduced to
+(+ 100% AP)
+from
+(+ 120% AP)
+.
+Mana cost reduced to 125 at all ranks from 125 / 175 / 225.
+Cooldown reduced to 120 / 100 / 80 seconds from 130 / 110 / 90.
+Trivia
+[
+edit
+|
+edit source
+]
+Veigar
+is one of 15 champions that have an ability that infinitely stacks an effect:
+Aurelion Sol
+,
+Bard
+,
+Bel'Veth
+,
+Cho'Gath
+,
+Draven
+,
+Kindred
+,
+Nasus
+,
+Senna
+,
+Shyvana
+,
+Sion
+,
+Smolder
+,
+Swain
+,
+Sylas
+, and
+Thresh
+.
+In Veigar's case,
+Phenomenal Evil Power
+infinitely stacks his
+ability power
+.
+When Veigar uses
+Primordial Burst
+to
+kill
+an enemy champion, he will laugh malevolently.
+Veigar possess the most laugh emotes of any champion, at 6.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Burst
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Burst Mages
+aim to single out vulnerable targets by locking them down and following up with a devastating barrage of damage from range. They are strongest when using their full suite of spells executed perfectly to maximum effect, and most vulnerable when they cannot deliver.
+Examples
+Annie
+Syndra
+Veigar
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Takedown
+Takedown
+refers to a
+kill
+or
+assist
+being acceptable, with the type of enemy specified in each use case.
+Takedown
+is associated with triggering a
+passive
+effect, or timed effects shortly after scoring.
+League of Legends content
+Baleful Strike
+COOLDOWN:
+6 / 5.
+5
+/ 5 / 4.
+5
+/ 4
+Active:
+Veigar
+blasts a dark bolt in the target direction that deals
+magic damage
+to the first two enemies hit.
+If this kills an enemy, it generates a stack of
+Phenomenal Evil
+. Large
+minions
+and
+monsters
+generate more stacks.
+League of Legends content
+Nexus Blitz
+An explosive game mode known as Nexus Blitz. Traverse down one of two different paths in order to attack your enemy at their weakest point. Work with your allies to siege the enemy base and destroy their Nexus!
+Regular Modes
+Classic 5v5
+Custom
+Maps
+Temple of Lily and Lotus
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Phenomenal Evil Power
+Innate:
+Veigar
+generates a stack of
+Phenomenal Evil
+for each enemy
+champion
+hit by his abilities, and more stacks when he scores an enemy champion
+takedown
+.
+Phenomenal Evil:
+For each stack,
+Veigar
+gains
+ability power
+.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Knockdown
+Knockdown
+only affects units that are performing a
+dash
+or being displaced by an
+airborne
+effect. A unit that is
+knocked down
+has its
+dash
+or
+displacement
+interrupted and is placed on the ground instantly.
+Knockdown
+is not a
+status effect
+.
+Interrupts:
+Interrupts all
+dashes
+and
+airborne effects
+(displacement
+and
+status effects).
+Knock ups
+will not have their
+airborne
+status removed if there is no sourced debuff, but their displacement still ends.
+Reduction:
+The effect is instantaneous.
+There is nothing to reduce.
+Resist:
+Resisted by
+crowd control immunity
+and
+displacement immunity
+.
+Removal:
+The effect is instantaneous.
+There is nothing to remove.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Displacement immune
+A unit that is
+displacement immune
+is
+immune
+to all
+Airborne
+effects in addition to the following effects:
+Crowd control
+Knockdown
+Suspension
+Kinematics
+Sleep
+Stasis
+Champion abilities
+Ambessa's
+Public Execution
+Mordekaiser's
+Realm of Death
+Skarner's
+Ixtal's Impact
+and
+Impale
+Sett's
+The Show Stopper
+Tahm Kench's
+Devour
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+The Box
+COOLDOWN:
+120 / 100 / 80
+Active:
+Thresh
+erects a pentagon of spectral walls around him that each last a few seconds. A wall will break upon enemy champion contact, dealing
+magic damage
+and
+slowing
+them for a short time.
+League of Legends content
+Yordle Snap Trap
+RECHARGE:
+26 / 22 / 18 / 14 / 10
+Active:
+Caitlyn
+sets a trap at the target location that lasts for a while. The trap springs when an enemy champion steps on it,
+revealing
+and
+rooting
+them.
+Caitlyn
+periodically
+stocks
+a charge of
+Yordle Snap Trap
+, up to a cap.
+The next
+Headshot
+against a trapped target will deal
+bonus
+physical damage
+.
+League of Legends content
+Howling Abyss
+The Howling Abyss is a bottomless crevasse located in the coldest, cruelest, part of the
+Freljord
+. Legends say that, long ago, a great battle took place here on the narrow bridge spanning this chasm. No one remembers who fought here, or why, but it is said that if you listen carefully to the wind you can still hear the cries of the vanquished tossed howling into the Abyss.
+Regular Modes
+Classic 5v5
+(
+All random
+)
+Custom
+Featured Game Modes
+Legend of the Poro King
+One For All
+One For All: Mirror Mode
+Snowdown Showdown
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Dark Matter
+COOLDOWN:
+8 − 0 (based on
+Phenomenal Evil
+stacks)
+Active:
+Veigar
+casts down a mass of dark matter that strikes the target location after a brief delay, dealing
+magic damage
+to enemies hit.
+The cooldown is
+reduced
+based on stacks of
+Phenomenal Evil
+.
+League of Legends content
+Primordial Burst
+COOLDOWN:
+100 / 80 / 60
+Active:
+Veigar
+sends a primordial burst at the target enemy champion that deals
+magic damage
+based on
+their
+missing
+health
+.
+League of Legends content
+Event Horizon
+COOLDOWN:
+20 / 18.
+5
+/ 17 / 15.
+5
+/ 14
+Active:
+After a brief delay,
+Veigar
+erects a cage at the target location that lasts for a short time. Enemies that touch the cage edges are briefly
+knocked down
+and
+stunned
+.
+Removed content
+League of Legends content
+Template:Data Veigar/Equilibrium
+References
+[
+edit
+|
+edit source
+]
+↑
+Veigar's profile page
+at
+LeagueOfLegends.com

@@ -1,0 +1,2744 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Seraphine
+the Starry-Eyed Songstress
+Release date
+2020-10-29
+Last changed
+V14.22
+Class(es)
+Burst
+Enchanter
+Legacy
+Support
+Mage
+Position(s)
+Bottom
+Support
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+3
+Toughness
+1
+Control
+3
+Mobility
+1
+Utility
+2
+Style
+Difficulty
+Seraphine
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Seraphine
+Base statistics
+Edit
+Health
+570
++90
+Mana
+360
++25
+Health regen. (per 5s)
+6.5
++0.6
+Mana regen. (per 5s)
+11.5
++0.95
+Armor
+26
++4.2
+Attack damage
+50
++3
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+525
+Attack speed
+Base AS
+0.669
+Attack windup
+18.7%
+AS ratio
+0.625
+Bonus AS
++2
+%
+Missile speed
+1800
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+525
+Special statistics
+Damage Dealt
+-10%
+Damage Received
++20%
+Healing
+-20%
+Shielding
+-20%
+Ability Haste
+-20
+Damage Dealt
+-5%
+Damage Received
++0%
+Healing
+-10%
+Shielding
+-10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-8%
+Damage Received
++0%
+Healing
+-20%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Stage Presence
+EFFECT RADIUS:
+800
+SPEED:
+3000
+Innate - Echo:
+Seraphine's
+basic ability
+casts generate stacks of
+Echo
+. At max stacks, her next basic ability consumes them all to cast twice in quick succession.
+Innate - Harmony:
+Seraphine's
+ability casts grant
+Notes
+to her and nearby allied champions, which last a few seconds and stack up to a cap. While any
+Notes
+are active,
+Seraphine's
+basic attacks gain
+bonus
+range
+based on total
+Notes
+, and will fire them all at the target to deal
+magic damage
+for each
+Note
+hit.
+Innate - Echo:
+Seraphine's
+basic abilities
+generate a
+stack
+of
+Echo
+, stacking up to 2 times. At 2 stacks,
+Seraphine's
+next basic ability casts an additional time for
+1 mana
+after a
+0.
+033
+seconds
+delay, consuming all
+Echo
+stacks after the
+cast time
+of the second cast.
+Seraphine
+gains maximum stacks of
+Echo
+when the game starts and upon
+respawning
+.
+Innate - Harmony:
+Seraphine's
+ability casts grant a
+Note
+to herself and nearby allied
+champions
+that lasts 6 seconds, refreshes on subsequent
+Notes
+and stacks up to 4 times on each unit.
+While any amount of
+Notes
+are active,
+Seraphine's
+next
+basic attack
+is empowered to have an
+uncancellable windup
+, gain
+25
+bonus
+attack range
+per
+Note
+, and fire all
+Notes
+at the target, with each one dealing
+4 − 25 (based on level)
+(+ 4% AP)
+magic damage
+, reduced by 75% for
+Notes
+from allies.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+Magic
+Counters
+Spell shield
+Not Blocked
+Parries
+Bypass
+Projectile
+Blocked
+Echo Details:
+Echo's
+current stacks are represented by a counter under
+Seraphine's
+health bar
+, visible to all players. The last stack is highlighted to indicate that an
+Echo
+cast is ready.
+Seraphine's
+basic abilities alternate their icons between 3 different ones each, depending on the current amount of stacks she has.
+The additional cast must complete for
+Echo
+stacks to be consumed; if the cast time does not finish or does not begin at all, or if the ability fails to cast when there is not enough
+mana
+,
+Seraphine
+will keep her stacks.
+The additional cast does not affect the
+cooldown
+of the mimicked ability.
+The additional cast counts as a separate
+cast instance
+for the purpose of e.g.
+Electrocute
+or
+Conqueror
+.
+Harmony Details:
+Notes
+orbit at a radius of 100 from the center of their holder and they fire from this location.
+The empowered attack can
+critically strike
+.
+The empowered attack will not trigger against
+wards
+.
+Notes
+are fired one after another with a short delay.
+Seraphine
+can grant
+Notes
+to more than 4 allied champions.
+Harmony
+does
+not
+grant
+Notes
+to
+clones
+.
+Harmony
+grants
+Notes
+even if the ally is
+untargetable
+.
+The
+Notes
+will fire from allies regardless of how far they are away from
+Seraphine
+.
+Seraphine
+gains a faint blue attack range indicator when there are
+Notes
+present.
+Notes
+do not discharge when attacking
+wards
+, allowing
+Seraphine
+to attack them from increased range multiple times.
+Other Details:
+Seraphine
+, while alive, will play music if there is at least one ally champion nearby.
+This is audible to
+Seraphine
+and all allied champions that are in range of
+Harmony
+, indicative of if they can receive a
+Note
+or not.
+Video
+Edit
+High Note
+COST:
+60 / 70 / 80 / 90 / 100 Mana
+COOLDOWN:
+8 / 7.
+5
+/ 7 / 6.
+5
+/ 6
+CAST TIME:
+0.
+25
+TARGET RANGE:
+900
+EFFECT RADIUS:
+350
+SPEED:
+1300
+Active:
+Seraphine
+hurls a soundwave to the target location that quickly expands upon arrival, dealing
+magic damage
+to enemies within based on
+their
+missing
+health
+.
+Active:
+Seraphine
+hurls a soundwave to the target location that quickly expands in a radius upon arrival, dealing
+magic damage
+to enemies within the area.
+Magic Damage:
+60 / 85 / 110 / 135 / 160
+(+ 50% AP)
+Against
+champions
+, the damage is
+increased
+by
+0% − 60% (based on target's
+missing
+health)
+.
+Maximum Champion Damage:
+96 / 136 / 176 / 216 / 256
+(+ 80% AP)
+High Note will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+High Note
+uses a modified icon for the
+second and
+third stack of
+Stage Presence
+.
+The maximum damage of
+High Note
+uses a
+cosmetic critical strike
+.
+High Note
+will fire from wherever
+Seraphine
+is at the end of the cast time.
+The impact delay depends solely on the missile speed. It is 0 seconds to 0.
+75
+seconds (after end of cast time) within the standard cast radius, but can be increased further by
+Seraphine
+being moved away from the cast location during the cast time.
+PENDING FOR TEST:
+The area of effect is covered via expansion in several rings (similar to
+Frozen Tomb's
+area of effect) and targets can only be hit once.
+The range indicator for the target range has a radius of 950 units, but the center of
+High Note
+can only be cast up to 900 units. The area indicator shows the proper 350 area of effect radius and cast location.
+Video
+Edit
+Surround Sound
+COST:
+70 / 75 / 80 / 85 / 90 Mana
+COOLDOWN:
+22
+CAST TIME:
+0.
+25
+EFFECT RADIUS:
+800
+Active:
+Seraphine
+shields
+herself and nearby allied champions for a short time. She also gains a burst of
+movement speed
+and grants allies
+bonus
+movement speed
+. If
+Seraphine
+already had a
+shield
+,
+Surround Sound
+will pulse after the duration,
+healing
+herself and nearby allies based on
+their
+missing
+health
+, which is further increased based on the number of allies affected.
+Active:
+Seraphine
+grants a
+shield
+to herself and nearby allied champions for 2.
+5
+seconds. For the same duration, she also gains
+20%
+(+ 2% per 100 AP)
+decaying
+bonus
+movement speed
+and grants allies
+8%
+(+ 0.
+8
+% per 100 AP)
+bonus
+movement speed
+.
+Shield Strength:
+60 / 80 / 100 / 120 / 140
+(+ 20% AP)
+If
+Seraphine
+already had a
+shield
+at the time of cast,
+Surround Sound
+will pulse after the duration,
+healing
+herself and nearby allied champions, increased for each
+ally
+.
+Heal Per Ally:
+3 / 3.
+5
+/ 4 / 4.
+5
+/ 5% of target's
+missing
+health
+Surround Sound's shield and
+bonus
+movement speed
+can stack up to 2 times.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Counters
+Projectile
+See Notes
+Surround Sound
+uses a modified icon for the
+second and
+third stack of
+Stage Presence
+.
+All effects are gained at the start of the cast time.
+Seraphine
+can move during the cast time.
+Surround Sound's
+shield
+buff can have up to 2 stacks, for a total of 200% shield strength at a time.
+Most shields in the game can only have one stack, refreshing their shield strength when reapplied.
+Surround Sound
+will empower from any
+shield
+that
+Seraphine
+has. It does not have to be sourced from
+Surround Sound
+.
+Casting
+Surround Sound
+during the 2.
+5
+-second delay refreshes the delay.
+The
+heal
+affects
+clones
+and counts them for increasing the
+missing
+health percentage.
+A large indicator similar to
+Redemption's
+signals the heal area of effect and delay.
+The heal will be canceled and the indicator disappears when
+Seraphine
+dies.
+The heal occurs instantly on
+Seraphine
+and all nearby allied champions once the delay ends.
+There is a missile that flows through all allied champions which can be blocked by
+Wind Wall
+. The heal is unaffected by this.
+Surround Sound
+will affect
+untargetable
+allies.
+Video
+Edit
+Beat Drop
+COST:
+60 Mana
+COOLDOWN:
+11 / 10.
+5
+/ 10 / 9.
+5
+/ 9
+CAST TIME:
+0.
+25
+TARGET RANGE:
+1300
+WIDTH:
+140
+SPEED:
+1200
+Active:
+Seraphine
+fires a heavy soundwave in the target direction that deals
+magic damage
+and briefly
+slows
+enemies hit. Enemies that are already
+slowed
+are also
+rooted
+for the same duration. Enemies that are
+immobilized
+or
+grounded
+are also
+stunned
+for the same duration.
+Active:
+Seraphine
+fires a heavy soundwave in the target direction that deals
+magic damage
+to enemies hit, reduced to 70% against
+minions
+, and
+slows
+them by 99% for a few seconds.
+Magic Damage:
+70 / 100 / 130 / 160 / 190
+(+ 50% AP)
+Minion Damage:
+49 / 70 / 91 / 112 / 133
+(+ 35% AP)
+Disable Duration:
+1.
+1
+/ 1.
+2
+/ 1.
+3
+/ 1.
+4
+/ 1.
+5
+seconds
+Enemies that are already
+slowed
+are also
+rooted
+for the same duration.
+Enemies that are
+immobilized
+or
+grounded
+are also
+stunned
+for the same duration.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Beat Drop
+will only be empowered from
+slows
+,
+immobilizes
+, and
+grounding
+effects applied by herself or her allies.
+Beat Drop
+uses a modified icon for the
+second and
+third stack of
+Stage Presence
+.
+Beat Drop
+may still be empowered even if the disable ends shortly after the ability hits.
+The
+root
+and the
+stun
+cannot apply at the same time.
+The root will only apply if the target is
+slowed
+and not
+immobilized
+or
+grounded
+.
+The stun will apply as normal; it does not consider if the target is
+slowed
+.
+The root will be overridden by the stun if the target is hit by
+Beat Drop
+again while they were rooted by it.
+A quarter note will appear next to an enemy
+champion
+while they are
+slowed
+and two quarter notes tied will appear if they are
+immobilized
+or
+grounded
+.
+This indicates if
+Beat Drop
+will apply an additional
+crowd control
+effect if it strikes the target.
+This ability will cast from wherever the caster is at the end of the cast time.
+Tips & Tricks
+The
+charm
+from
+Encore
+, which is an
+immobilize
+, can trigger the
+stun
+from
+Beat Drop
+.
+Beat Drop's
+additional effects will always trigger after the application of
+other
+crowd control
+effects when applied at the same time (e.g. the
+slow
+from
+Rylai's Crystal Scepter
+will always apply before
+Beat Drop
+, thus the
+root
+will always be triggered).
+Video
+Edit
+Encore
+COST:
+100 Mana
+COOLDOWN:
+160 / 140 / 120
+CAST TIME:
+0.
+5
+TARGET RANGE:
+1200
+WIDTH:
+320
+SPEED:
+1600
+Active:
+Seraphine
+projects a captivating force in the target direction that deals
+magic damage
+to enemies hit, briefly
+charming
+,
+slowing
+, and
+revealing
+them.
+Encore's
+range extends upon hitting allied or enemy
+champions
+. Allied champions hit gain max
+Notes
+.
+Active:
+Seraphine
+projects a captivating force in the target direction that deals
+magic damage
+to enemies hit,
+charms
+them, during which they are
+revealed
+, and
+slows
+them by 40% for a duration, increasing by 15% every 0.
+25
+seconds over the duration up to 99%.
+Magic Damage:
+150 / 200 / 250
+(+ 40% AP)
+Disable Duration:
+1.
+25
+/ 1.
+5
+/ 1.
+75
+seconds
+Encore's
+projectile resets its remaining travel distance whenever it hits an allied or enemy
+champion
+, excluding
+Seraphine
+. Allied champions hit gain
+4 Notes
+.
+Activation alert.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Encore
+has two cast times. Both last 0.
+5
+seconds. The wave will always project after the first cast time, and the second cast time only serves as a
+lock out
+for
+Seraphine
+.
+Seraphine
+cannot buffer casts during the first cast time, but she may do so during the second cast time.
+Clones
+also count for
+Encore's
+extension.
+Encore
+will not extend on enemy champions that are
+untargetable
+, but will do so for allied champions.
+Spell shield
+will also prevent
+Encore
+from extending.
+This ability will cast from wherever the caster is at the end of the cast time.
+Encore
+fires from
+Seraphine's
+location at the end of the initial cast time.
+There is no limit as to how many times the wave can extend.
+Each
+Encore
+cast cannot extend from the same
+champion
+more than once.
+PENDING FOR TEST:
+:
+Champions that died, clearing marker buffs
+Video
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Seraphine (Collection)
+.
+Original
+View in 3D
+975
+29.10.2020
+Born in Piltover to Zaunite parents, Seraphine can hear the souls of others—the world sings to her, and she sings back. Though these sounds overwhelmed her in her youth, she now draws on them for inspiration, turning the chaos into a symphony. She performs for the sister cities to remind their citizens that they're not alone, that they're stronger together, and that, in her eyes, their potential is limitless.
+Michele Panu
+Jennifer Wuestling
+Loot eligible
+KDA ALL OUT Indie
+View in 3D
+3250
+29.10.2020
+With a stunning voice and a sunny disposition, Seraphine has big dreams about her music and what she can offer the world. She knows that someday, if she just keeps trying, she'll make her beloved cat Bao proud.
+Michele Panu
+Alex 'alexplank' Flores
+K/DA
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+KDA ALL OUT Rising Star
+View in 3D
+Special
+29.10.2020
+Seraphine's life is changing faster than she ever expected, and she's trying to hold on to her unique voice, keep up with Kai'Sa's intimidatingly sharp choreography, and still somehow manage to get enough sleep.
+Michele Panu
+Alex 'alexplank' Flores
+K/DA
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+KDA ALL OUT Indie
+. Store variants are discounted for multiple purchases.
+KDA ALL OUT Superstar
+View in 3D
+Special
+29.10.2020
+After her whirlwind rise to stardom, Seraphine is on top of the world, and the charts, with her feature on K/DA's new EP. Her music and her message are resonating with her fans, and she's excited to show them what's to come on her journey of self-discovery through music.
+Michele Panu
+Alex 'alexplank' Flores
+K/DA
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+KDA ALL OUT Indie
+. Store variants are discounted for multiple purchases.
+Graceful Phoenix
+View in 3D
+1350
+02.09.2021
+A champion of the common folk, Seraphine's music united her community in defense against a mysterious force that sought to wipe them out. The fenghuang heard Seraphine's graceful song, and blessed her with the power to fight the darkness back.
+Michele Panu
+Bo 'chenbowow' Chen
+Phoenixmancers
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Graceful Phoenix Seraphine Chromas
+Emerald
+Golden Tiger
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Ocean Song
+View in 3D
+1350
+09.06.2022
+After taking a break to recharge her creative spirit, Seraphine is back! Rather than dive straight into a solo tour, she's drawing on the relaxed energy of the Ocean Song Festival to ease herself back into singing. With no setlist, she's going to listen to her audience and let the musical current take her.
+Michele Panu
+Jeremy 'Jermu' Anninos
+Ocean Song
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Ocean Song Seraphine Chromas
+Amethyst
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Prestige Ocean Song
+View in 3D
+Special
+09.06.2022
+Never content to swim with the tide, Seraphine's making waves with her new sea breeze look. Whether it's on the runway or the concert stage, beach season's open, and the water's warm.
+Michele Panu
+Sora Kim, West Studio
+Ocean Song
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Ocean Song
+. Store variants are discounted for multiple purchases.
+Faerie Court
+View in 3D
+1350
+23.03.2023
+A sunny siren of the Summer Court, it was Lady Seraphine's skillful makeover talents that helped get Karma and Kalista ready to face the nobility with style. She is a master of courtly manners and was more than happy to teach her new friends everything that really counts about being fabulous!
+Michele Panu
+Silvia Meiliani, Caravan Studio
+Faerie Court
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Faerie Court Seraphine Chromas
+Aquamarine
+Catseye
+Emerald
+Obsidian
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+Winsome
+Star Guardian
+View in 3D
+1350
+28.06.2023
+Seraphine has toured the entire galaxy as a solo act, but now it's time for a Star Guardian collab. She's ecstatic to team up with a new group of heroes, and she isn't afraid to share that enthusiasm. They're fighting for true love… what could be more romantic than that?!
+Michele Panu
+Forrest Imel, West Studio
+Star Guardian Season 4
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Star Guardian Seraphine Chromas
+Emerald
+Obsidian
+Pearl
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Battle Dove
+View in 3D
+1820
+17.07.2024
+Seraphine was Anima Squad's comms officer, the "girl in the chair"—until she became the first Battle Dove, using her naturally sensitive hearing to operate a new AnimaTech suit that weaponizes sound waves to rock the battlefield! When she intercepts a strange distress call, Seraphine gets her first mission: find the source, and lead a team to the rescue.
+Michele Panu
+Alsie Lau
+Anima Squad
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+Battle Dove Seraphine Chromas
+Amethyst
+Emerald
+Nightwire
+Rose Quartz
+Ruby
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.22
+High Note
+AP ratio reduced to
+50% AP
+from
+60% AP
+.
+Maximum AP ratio against champions reduced to
+80% AP
+from
+96% AP
+.
+V14.17
+Surround Sound
+Base shield reduced to 60 / 80 / 100 / 120 / 140 from 60 / 85 / 110 / 135 / 160.
+Cooldown increased to 22 seconds at all ranks from 22 / 21 / 20 / 19 / 18.
+V14.15
+General
+Bug Fix:
+Abilities SFX are no longer audible through the Fog of War.
+V14.9
+High Note
+AP ratio increased to
+60% AP
+from
+50% AP
+.
+Maximum champion AP ratio increased to
+96% AP
+from
+80% AP
+.
+V14.5
+- Mid-scope Update
+Stats
+Base attack damage reduced to 50 from 55.
+Mana growth reduced to 25 from 50.
+Mana regeneration growth increased to 0.
+95
+from 0.
+4
+.
+Base movement speed increased to 330 from 325.
+Stage Presence
+Base damage per note changed to
+4 − 25 (based on level)
+from
+5 / 10 / 18 / 30 (based on level)
+.
+AP ratio per note reduced to
+4% AP
+from
+5% AP
+.
+Minion damage reduced to 100% from 300%.
+High Note
+Missile speed increased to 1300 from 1200.
+Cooldown changed to 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6 seconds from 10 / 8.
+75
+/ 7.
+5
+/ 6.
+25
+/ 5.
+Mana cost changed to 60 / 70 / 80 / 90 / 100 from 65 / 70 / 75 / 80 / 85.
+Base damage increased to 60 / 85 / 110 / 135 / 160 from 55 / 80 / 105 / 130 / 155.
+Bonus damage increased to
+0% − 60% (based on target's
+missing
+health)
+from
+0% − 50%
+.
+Removed:
+Bonus damage no longer affects non-champions.
+Removed:
+No longer prevents minions from dying to other minions while in flight.
+Surround Sound
+Cooldown changed to 22 / 21 / 20 / 19 / 18 seconds from 28 / 25 / 22 / 19 / 16.
+Mana cost reduced to 70 / 75 / 80 / 85 / 90 from 80 / 85 / 90 / 95 / 100.
+Base shield increased to 60 / 85 / 110 / 135 / 160 from 50 / 75 / 100 / 125 / 150.
+Self bonus movement speed AP ratio reduced to
+2% per 100 AP
+from
+4% per 100 AP
+.
+Ally movement speed unchanged at 40% of the self value.
+Ally movement speed AP ratio reduced to
+0.
+8
+per 100 AP
+from
+1.
+6
+per 100 AP
+.
+Beat Drop
+Cooldown changed to 11 / 10.
+5
+/ 10 / 9.
+5
+/ 9 seconds from 10 at all ranks.
+Mana cost reduced to 60 at all ranks from 60 / 65 / 70 / 75 / 80.
+Base damage changed to 70 / 100 / 130 / 160 / 190 from 60 / 95 / 130 / 165 / 200.
+AP ratio increased to
+50% AP
+from
+35% AP
+.
+Disable duration changed to 1.
+1
+/ 1.
+2
+/ 1.
+3
+/ 1.
+4
+/ 1.
+5
+seconds from 1.
+25
+at all ranks.
+Minion damage reduced to 70% from 100%.
+Encore
+Cooldown increased to 160 / 140 / 120 seconds from 160 / 130 / 100.
+AP ratio reduced to
+40% AP
+from
+60% AP
+.
+V13.22
+Stage Presence
+Base damage per note increased to
+5 / 10 / 18 / 30 (based on level)
+from
+4 / 8 / 14 / 24 (based on level)
+.
+AP ratio per note reduced to
+5% AP
+from
+7% AP
+.
+High Note
+Cooldown increased to 10 / 8.
+75
+/ 7.
+5
+/ 6.
+25
+/ 5 seconds from 9 / 8 / 7 / 6 / 5.
+Surround Sound
+Shield AP ratio reduced to
+20% AP
+from
+25% AP
+.
+V13.21
+Stats
+Base armor increased to 26 from 19.
+Health growth reduced to 90 from 104.
+Base mana reduced to 360 from 440.
+Mana growth increased to 50 from 40.
+Base mana regeneration increased to 11.
+5
+from 8.
+Mana regeneration growth reduced to 0.
+4
+from 1.
+Attack speed growth increased to 2% from 1%.
+High Note
+Minimum base damage increased to 55 / 80 / 105 / 130 / 155 from 55 / 70 / 85 / 100 / 115.
+Maximum base damage increased to 82.
+5
+/ 120 / 157.
+5
+/ 195 / 232.
+5
+from 82.
+5
+/ 105 / 127.
+5
+/ 150 / 172.
+5
+.
+Minimum AP ratio changed to
+50% AP
+at all ranks from
+45 / 50 / 55 / 60 / 65% AP
+.
+Maximum AP ratio changed to
+75% AP
+at all ranks from
+67.
+5
+/ 75 / 82.
+5
+/ 90 / 97.
+5
+% AP
+.
+Cooldown reduced to 9 / 8 / 7 / 6 / 5 seconds from 10 / 9 / 8 / 7 / 6.
+Surround Sound
+Cooldown reduced to 28 / 25 / 22 / 19 / 16 seconds from 28 / 26 / 24 / 22 / 20.
+Mana cost increased to 80 / 85 / 90 / 95 / 100 from 50 / 60 / 70 / 80 / 90.
+Base shield increased to 50 / 75 / 100 / 125 / 150 from 50 / 70 / 90 / 110 / 130.
+Base heal reduced to
+3 / 3.
+5
+/ 4 / 4.
+5
+/ 5% of target's
+missing
+health
+from
+5 / 5.
+5
+/ 6 / 6.
+5
+/ 7%
+.
+Removed:
+Heal no longer scales with
+0.
+4
+% per 100 AP
+of
+target's
+missing
+health
+.
+Beat Drop
+Mana cost reduced to 60 / 65 / 70 / 75 / 80 from 60 / 70 / 80 / 90 / 100.
+Base damage increased to 60 / 95 / 130 / 165 / 200 from 60 / 80 / 100 / 120 / 140.
+V13.16
+General
+Adjusted splash artwork for
+Star Guardian Seraphine
+.
+V12.14
+Surround Sound
+Shield AP ratio reduced to
+25% AP
+from
+35% AP
+.
+Heal AP ratio reduced to
+0.
+4
+% per 100 AP
+from
+0.
+6
+% per 100 AP
+.
+V12.13
+Beat Drop
+Tooltip no longer lists cooldown on each level in the level up grid as it no longer scales.
+V12.12
+- June 30th Hotfix
+Stage Presence
+AP ratio changed to
+7% AP
+at all levels from
+6 / 7 / 8 / 9% (based on level)
+AP
+.
+Beat Drop
+Disable duration reduced to 1.
+25
+seconds from 1.
+5
+.
+V12.12
+General
+Adjusted splash artwork for
+Ocean Song Seraphine
+and
+Prestige Ocean Song Seraphine
+.
+Beat Drop
+Cooldown changed to 10 seconds at all ranks from 11 / 10.
+5
+/ 10 / 9.
+5
+/ 9.
+Disable duration increased to 1.
+5
+seconds from 1.
+V12.10
+Stats
+Base health increased to 570 from 500.
+Health growth increased to 104 from 90.
+Armor growth increased to 4.
+2
+from 3.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Surround Sound
+Base shield reduced to 50 / 70 / 90 / 110 / 130 from 60 / 80 / 100 / 120 / 140.
+Shield AP ratio reduced to
+35% AP
+from
+40% AP
+.
+Heal AP ratio reduced to
+0.
+6
+% per 100 AP
+from
+0.
+75
+% per 100 AP
+.
+V12.5
+Surround Sound
+Mana cost reduced to 50 / 60 / 70 / 80 / 90 from 50 / 70 / 90 / 110 / 130.
+Cooldown changed to 28 / 26 / 24 / 22 / 20 seconds from 26 / 25 / 24 / 23 / 22.
+Self base shield changed to 60 / 80 / 100 / 120 / 140 from
+75 − 225 (based on level)
+.
+Self shield AP ratio reduced to
+40% AP
+from
+45% AP
+.
+Ally base shield changed to 60 / 80 / 100 / 120 / 140 from
+50 − 150 (based on level)
+.
+Ally shield AP ratio increased to
+40% AP
+from
+30% AP
+.
+Base heal increased to
+5 / 5.
+5
+/ 6 / 6.
+5
+/ 7%
+missing
+health
+from
+5%
+at all ranks.
+Heal AP ratio reduced to
+0.
+75
+% per 100 AP
+from
+1.
+125
+% per 100 AP
+.
+Beat Drop
+Cooldown reduced to 11 / 10.
+5
+/ 10 / 9.
+5
+/ 9 seconds from 13 / 12 / 11 / 10 / 9.
+V12.3
+- February 3rd Hotfix
+Stage Presence
+Bug Fix:
+Fixed a bug where her abilities would get canceled if cast while attacking an enemy with an empowered basic attack.
+V12.2
+K/DA ALL OUT Seraphine Indie
+Bug Fix:
+In-game music mute toggle buttons has been fixed and will display correctly next to the champion icon in the scoreboard every game.
+V11.19
+Encore
+Cooldown reduced to 160 / 130 / 100 seconds from 180 / 150 / 120.
+V11.14
+High Note
+AP ratio increased to
+45 / 50 / 55 / 60 / 65% AP
+from
+40 / 45 / 50 / 55 / 60% AP
+.
+Maximum AP ratio increased to
+67.
+5
+/ 75 / 82.
+5
+/ 90 / 97.
+5
+% AP
+from
+60 / 67.
+5
+/ 75 / 82.
+5
+/ 90% AP
+.
+V11.11
+Surround Sound
+Self base shield increased to
+75 − 225 (based on level)
+from
+75 − 150 (based on level)
+.
+Ally base shield increased to
+50 − 150 (based on level)
+from
+50 − 100 (based on level)
+.
+V11.7
+Stage Presence
+Bug Fix:
+Can no longer trigger
+Moonstone Renewer's
+Starlit Grace heal when
+Stage Presence
+grants Notes based on nearby allies. She should only be able to trigger
+Moonstone Renewer's
+Starlit Grace when she directly damages enemies and casts actual abilities on allies.
+Surround Sound
+Bug Fix:
+Fixed a bug where it would not trigger
+Moonstone Renewer's
+Starlit Grace.
+V11.5
+Stage Presence
+Note base damage changed to
+4 / 8 / 14 / 24 (based on level)
+from
+4 − 16 (based on level)
+.
+Removed:
+Notes no longer deal 95% damage of the previous one to non-minions.
+New Effect:
+Notes from allies now deal 25% damage.
+Encore
+Cooldown increased to 180 / 150 / 120 seconds from 160 / 140 / 120.
+V11.3
+Stage Presence
+Base damage per note reduced to
+4 − 16 (based on level)
+from
+5 − 20 (based on level)
+.
+Surround Sound
+Ally base shield reduced to
+50 − 100 (based on level)
+from
+60 − 120 (based on level)
+.
+Self base shield reduced to
+75 − 150 (based on level)
+from
+90 − 180 (based on level)
+.
+V11.1
+- January 8th Hotfix
+High Note
+Bug Fix:
+Can now properly stack
+Tear of the Goddess
+mana charges with this ability.
+V10.25
+Stats
+Health growth increased to 90 from 80.
+Surround Sound
+New Effect:
+Self shield is now increased by 50%.
+Self shield increased to
+90 − 180 (based on level)
+(+ 45% AP)
+from
+60 − 120 (based on level)
+(+ 30% AP)
+.
+V10.23
+Stats
+Base mana regeneration reduced to 8 from 10.
+Stage Presence
+AP ratio changed to
+6 / 7 / 8 / 9% (based on level)
+AP
+from
+7.
+5
+% AP
+at all levels.
+High Note
+Base damage increased to 55 / 70 / 85 / 100 / 115 from 55 / 65 / 75 / 85 / 95.
+AP ratio changed to
+40 / 45 / 50 / 55 / 60% AP
+from
+55% AP
+at all ranks.
+Beat Drop
+Base damage reduced to 60 / 80 / 100 / 120 / 140 from 60 / 85 / 110 / 135 / 160.
+Minion damage increased to 100% at all ranks from 60 / 70 / 80 / 90 / 100%.
+V10.22
+- Added
+Stage Presence
+(Innate)
+Innate - Echo:
+Seraphine
+basic abilities generate a stack of
+Echo
+, stacking up to 2 times. At 2 stacks,
+Seraphine's
+next basic ability casts an additional time at no cost after a
+0.
+033
+seconds
+delay, consuming all
+Echo
+stacks after the cast time of the second cast completes.
+Seraphine
+gains full stacks of
+Echo
+when the game starts and upon respawning.
+Innate - Harmony:
+Seraphine's
+abilities grant a
+Note
+to her and all nearby allied champions, lasting 6 seconds, up-to 4
+Notes
+at a time can be present per unit.
+Seraphine's
+next basic attack gains 25
+bonus
+attack range per active
+Note
+and fires all of them at the target, dealing
+5 − 20 (based on level)
+(+ 7.
+5
+% AP)
+magic damage
+for each
+Note
+discharged.
+Subsequent
+Notes
+deal 95% of the previous
+Note's
+damage to non-minions.
+Notes
+deal 200%
+bonus
+damage to minions.
+Effect Radius:
+800
+.
+Speed:
+3000
+.
+High Note
+(Q)
+Active:
+Seraphine
+hurls a soundwave to the target location that quickly expands in a radius upon impact, dealing 55 / 65 / 75 / 85 / 95
+(+ 55% AP)
+magic damage
+to enemies in the area, increased by
+0% − 50% (based on target's
+missing
+health)
+.
+Mana Cost:
+65 / 70 / 75 / 80 / 85.
+Cooldown:
+10 / 8.
+75
+/ 7.
+5
+/ 6.
+25
+/ 5 seconds.
+Target Range:
+900.
+Effect Radius:
+350.
+Speed:
+1200.
+Cast Time:
+0.
+25
+seconds.
+Surround Sound
+(W)
+Active:
+Seraphine
+inspires nearby ally champions with her music, granting herself 20%
+(+ 4% per 100 AP)
+decaying
+bonus
+movement speed
+and her allies 8%
+(+ 1.
+6
+% per 100 AP)
+bonus
+movement speed
+. She and her allies are also shielded for
+60 − 120 (based on level)
+(+ 30% AP)
+for 2.
+5
+seconds.
+Surround Sound
+will heal
+Seraphine
+and all nearby allied champions for
+5%
+(+ 1.
+125
+% per 100 AP)
+of
+missing
+health
+per ally after a 2.
+5
+-second delay if
+Seraphine
+already had a shield at the time of cast.
+Surround Sound's effects can stack up to 2 times.
+Mana Cost:
+50 / 70 / 90 / 110 / 130.
+Cooldown:
+26 / 25 / 24 / 23 / 22 seconds.
+Effect Radius:
+800
+.
+Cast Time:
+0.
+25
+seconds.
+Beat Drop
+(E)
+Active:
+Seraphine
+fires a heavy soundwave in a line in the target direction, dealing 60 / 85 / 110 / 135 / 160
+(+ 35% AP)
+magic damage
+to enemies struck, reduced to 60 / 70 / 80 / 90 / 100% against minions, and
+slowing
+them by 99% for 1 second.
+Enemies that are already
+slowed
+are also
+rooted
+for the same duration. Enemies that are
+immobilized
+or
+grounded
+are also
+stunned
+for the same duration.
+Mana Cost:
+60 / 70 / 80 / 90 / 100.
+Cooldown:
+13 / 12 / 11 / 10 / 9 seconds.
+Target Range:
+1300.
+Width:
+140.
+Speed:
+1200.
+Cast Time:
+0.
+25
+seconds.
+Encore
+(R)
+Active:
+Seraphine
+projects a captivating force in the target direction that deals 150 / 200 / 250
+(+ 60% AP)
+magic damage
+to all enemies struck and
+charms
+,
+slows
+, and
+reveals
+them for 1.
+25
+/ 1.
+5
+/ 1.
+75
+seconds.
+Encore's
+projectile resets its remaining travel distance whenever it strikes an allied or enemy champion, excluding
+Seraphine
+. Additionally, all struck allied champions gain 4
+Notes
+.
+Mana Cost:
+100.
+Cooldown:
+160 / 140 / 120 seconds.
+Target Range:
+1200.
+Width:
+320.
+Speed:
+1600.
+Cast Time:
+0.
+5
+seconds.
+Trivia
+[
+edit
+|
+edit source
+]
+Her joke animation is a reference to
+Dance Dance Revolution
+.
+Seraphine's Champion Spotlight on the
+League of Legends
+YouTube channel garnered the most dislikes for any Champion, with 138k (68%) dislikes before the platform made these numbers private (circa Nov 2021). However, it remained the third most liked spotlight behind
+Sett
+and
+Yasuo
+.
+Her spotlight received the most dislikes in Korea, totaling around 93%.
+Seraphine is the first champion to be simultaneously released in
+League of Legends
+and
+Wild Rift
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Burst
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Burst Mages
+aim to single out vulnerable targets by locking them down and following up with a devastating barrage of damage from range. They are strongest when using their full suite of spells executed perfectly to maximum effect, and most vulnerable when they cannot deliver.
+Examples
+Annie
+Syndra
+Veigar
+League of Legends content
+Enchanter
+Controllers
+are defensive casters that oversee the battlefield by protecting and opening up opportunities for their allies.
+Enchanters
+focus on amplifying their allies' effectiveness by directly augmenting them and defending them from incoming threats. Enchanters themselves are often quite fragile and bring relatively low damage to the table, meaning they really only shine when grouped together with others.
+Examples
+Janna
+Sona
+Soraka
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Bottom
+Within a
+drafted team
+, the
+Bottom Carry
+is one of the two champions assigned to the bottom lane alongside the
+Support
+. Being the most vulnerable, the
+Bottom Carry
+has to acquire as much gold as possible to purchase key items that will greatly increase their fighting potential.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Bottom Carry
+is expected to fulfill the former designation: the position is made for champions that highly depend on item-based power spikes.
+Marksmen
+are the most likely champions to be selected in the
+Bottom Carry
+position.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Cast instance
+Cast instance is the identifier that tells the
+source
+of spells. Multiple spells, such as basic attacks and abilities, under the same cast instance behave as one for certain interactions. Some notable examples:
+Conqueror's
+stacking can only be triggered once per cast instance.
+Electrocute
+and
+Phase Rush
+can only receive 1 stack for their activation per cast instance.
+Muramana
+deals its damage once per cast instance.
+Not to be confused with damage instance, which is each individual effects, even under the same cast instance.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Clone
+A
+clone
+or
+decoy
+is a specific type of
+pet
+that attempts to imitate a
+champion
+, copying their current vitality, stats, items, level, and most status effects upon creation. They are considered champions against many effects that do not strictly require
+player
+champions, else they are considered
+minions
+either small or large among certain cases.
+The
+damage
+they deal is attributed to them alone, but they transfer last hit and kill credit. Killing a
+clone
+awards
+25
+and
+44
+.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Ward
+Wards
+are deployable units that that grant
+sight
+over the surrounding area. They can only be destroyed by
+basic attacks
+, granting
+gold
+and
+experience
+.
+There are three kinds of deployable
+wards
+available for purchase:
+Control Ward
+,
+Warding Totem
+, and
+Farsight Alteration
+. Other types of wards, such as
+Zombie Ward
+, are usable through various means.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Stage Presence
+Innate - Echo:
+Seraphine's
+basic ability
+casts generate stacks of
+Echo
+. At max stacks, her next basic ability consumes them all to cast twice in quick succession.
+Innate - Harmony:
+Seraphine's
+ability casts grant
+Notes
+to her and nearby allied champions, which last a few seconds and stack up to a cap.
+While any
+Notes
+are active,
+Seraphine's
+basic attacks gain
+bonus
+range
+based on total
+Notes
+, and will fire them all at the target to deal
+magic damage
+for each
+Note
+hit.
+League of Legends content
+Frozen Tomb
+COOLDOWN:
+120 / 100 / 80
+Active:
+Lissandra
+can cast
+Frozen Tomb
+on herself or an enemy champion.
+Enemy Cast:
+Lissandra
+briefly freezes the target enemy champion,
+knocking them down
+and
+stunning
+them.
+Self Cast:
+Lissandra
+instantly entombs herself in ice, entering
+stasis
+for 2.
+5
+seconds and
+healing
+herself over the duration based on
+her
+missing
+health
+.
+Frozen Tomb:
+Frozen Tomb
+creates a field of ice that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Wind Wall
+COOLDOWN:
+25 / 23 / 21 / 19 / 17
+Active:
+Yasuo
+raises a wind wall that drifts in the target direction for a few seconds, blocking all enemy
+projectiles
+that hit it.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Root
+A unit that is
+rooted
+is unable to control its movement or activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Rooted
+units can still be displaced.
+Root
+is an
+immobilizing
+effect
+.
+Moving
+includes movement commands.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Immobilize
+Immobilized
+units cannot control their movement. The following crowd control effects
+immobilize
+the unit:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Root
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Impaired movement
+is a similar term that, in addition to the above, also refers to units that are
+slowed
+.
+League of Legends content
+Ground
+A unit that is
+grounded
+is unable to activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Grounded
+units can still be displaced.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Ground
+is the only type of
+crowd control
+that is most commonly found in persistent area of effects, which will reapply the status effect continuously.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Charm
+A unit that is
+charmed
+is forced to move directly toward the
+Source
+(the
+unit
+that casted the
+Charm
+spell) for the duration, during which they're unable to perform issued movement commands, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+. All
+charms
+also apply a
+slow
+.
+Charm
+is an
+immobilizing
+effect
+.
+Forced action effects
+cannot
+force the unit to perform an action that is disabled.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities, as well as overrides previous
+Forced Action
+effects.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+or when the
+Source
+dies.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Encore
+COOLDOWN:
+160 / 140 / 120
+Active:
+Seraphine
+projects a captivating force in the target direction that deals
+magic damage
+to enemies hit, briefly
+charming
+,
+slowing
+, and
+revealing
+them.
+Encore's
+range extends upon hitting allied or enemy
+champions
+. Allied champions hit gain max
+Notes
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Seraphine's profile page
+at
+LeagueOfLegends.com

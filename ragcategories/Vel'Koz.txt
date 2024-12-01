@@ -1,0 +1,2142 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Vel'Koz
+the Eye of the Void
+Release date
+2014-02-27
+Last changed
+V14.22
+Class(es)
+Artillery
+Legacy
+Mage
+Support
+Position(s)
+Support
+Middle
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+3141
+|
+880
+Crafting
++
+Ratings
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+1
+Utility
+1
+Style
+Difficulty
+Vel'Koz
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Velkoz
+Base statistics
+Edit
+Health
+590
++102
+Mana
+469
++21
+Health regen. (per 5s)
+5.5
++0.55
+Mana regen. (per 5s)
+8
++0.8
+Armor
+22
++4.7
+Attack damage
+55
++3.1416
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+340
+Attack range
+525
+Attack speed
+Base AS
+0.643
+Attack windup
+20%
+AS ratio
+0.625
+Bonus AS
++1.59
+%
+Missile speed
+Non-projectile
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+575
+Special statistics
+Damage Dealt
+-5%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Organic Deconstruction
+Innate:
+Vel'Koz
+abilities apply a stack of
+Deconstruction
+to enemies hit for a few seconds. The third stack consumes them all to deal
+bonus
+true damage
+.
+Innate:
+Vel'Koz's
+abilities
+apply a
+stack
+of
+Deconstruction
+to enemies hit for 7 seconds, refreshing on
+basic attacks
+and subsequent applications and stacking up to 3 times.
+The third stack consumes them all to deal
+35 − 180 (based on level)
+(+ 60% AP)
+bonus
+true damage
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+True
+Counters
+Spell shield
+Blocked
+No additional notes.
+Edit
+Plasma Fission
+COST:
+40 / 45 / 50 / 55 / 60 Mana
+COOLDOWN
+:
+7
+CAST TIME:
+0.
+25
+RANGE:
+1100
+/
+1100
+WIDTH:
+100
+/
+90
+SPEED:
+1300
+/
+2100
+Active:
+Vel'Koz
+fires a plasma bolt that deals
+magic damage
+to the first enemy hit,
+slowing
+them for a short time.
+Plasma Fission
+can be recast while the bolt is in flight, and does so automatically upon hitting an enemy or max range.
+Recast:
+The bolt splits in two, each firing in perpendicular opposite directions. Whenever
+Plasma Fission
+kills an enemy,
+Vel'Koz
+restores
+mana
+.
+Active:
+Vel'Koz
+fires a plasma bolt in the target direction that deals
+magic damage
+to the first enemy hit and
+slows
+them by 70% decaying over a duration.
+Plasma Fission
+can be recast after 0.
+25
+seconds while the bolt is in flight, and does so automatically upon hitting an enemy or maximum range.
+Magic Damage:
+80 / 120 / 160 / 200 / 240
+(+ 90% AP)
+Slow Duration:
+1 / 1.
+4
+/ 1.
+8
+/ 2.
+2
+/ 2.
+6
+seconds
+Recast:
+Vel'Koz
+splits the bolt in two
+over 0.
+25
+seconds
+, each part firing perpendicularly in opposite directions and applying the same effects to enemies hit.
+Whenever
+Plasma Fission
+kills an enemy,
+Vel'Koz
+restores
+mana
+.
+Mana Restored per Kill:
+20 / 22.
+5
+/ 25 / 27.
+5
+/ 30
+Maximum Mana Restored:
+60 / 67.
+5
+/ 75 / 82.
+5
+/ 90
+Info
+Targeting input
+Direction
+/
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+The initial cast counts as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Detonating the ability manually does not.
+An enemy cannot be hit by multiple bolts even when having blocked one with a
+spell shield
+.
+The split occurs at a location 55 units in front of the primary bolt's final location.
+Plasma Fission
+can reach a maximum 1595 units diagonally (ignoring the split missile's width and enemy hitbox radius), reaching this distance after a total of about ~1.
+65
+seconds.
+This ability will cast from wherever the caster is at the end of the cast time.
+Edit
+Void Rift
+COST:
+50 / 55 / 60 / 65 / 70 Mana + 1 Charge
+CAST TIME:
+none
+STATIC COOLDOWN
+:
+1.
+5
+RECHARGE:
+19 / 18 / 17 / 16 / 15
+RANGE:
+1105
+/
+1105
+/
+-95
+WIDTH:
+175
+/
+175
+SPEED:
+1700
+Active:
+Vel'Koz
+cracks a rift in the target direction that opens after a brief delay, cascading through the area to deal
+magic damage
+to enemies within. After a brief delay, the rift collapses, dealing
+magic damage
+to enemies within.
+Vel'Koz
+periodically stocks a charge of
+Void Rift
+, up to a maximum of 2.
+Active:
+Vel'Koz
+cracks a rift in the target direction that opens after a 0.
+25
+-second delay, cascading through the area over 0.
+65
+seconds to deal
+magic damage
+to enemies within.
+Magic Damage:
+30 / 50 / 70 / 90 / 110
+(+ 20% AP)
+After
+0.
+75
+seconds
+, the rift violently collapses, dealing
+magic damage
+to enemies within and granting
+sight
+of the surrounding area for 0.
+25
+seconds.
+Magic Damage:
+45 / 75 / 105 / 135 / 165
+(+ 25% AP)
+Total Magic Damage:
+75 / 125 / 175 / 225 / 275
+(+ 45% AP)
+Vel'Koz
+periodically
+stocks
+a
+Void Rift
+charge, up to a maximum of 2.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+See Notes
+Unbreakable
+and
+Wind Wall
+will block the ripple and prevent the rift from forming further, but they will not destroy the section that was created already.
+Spell shield
+only blocks one instance of damage.
+Edit
+Tectonic Disruption
+COST:
+50 / 55 / 60 / 65 / 70 Mana
+COOLDOWN:
+14 / 13.
+5
+/ 13 / 12.
+5
+/ 12
+CAST TIME:
+0.
+25
+TARGET RANGE:
+800
+EFFECT RADIUS:
+225
+Active:
+Vel'Koz
+hurls a disruptive anomaly at the target location that deals
+magic damage
+to enemies hit, briefly
+knocks them up
+and
+stuns
+them.
+Active:
+Vel'Koz
+hurls a disruptive anomaly that lands to the target location after
+0.
+25
+− 0.
+55
+(based on cast distance)
+seconds, dealing
+magic damage
+to enemies hit and
+knocking them up
+and
+stunning
+them for 0.
+75
+seconds, as well as granting
+sight
+of the area briefly.
+Magic Damage:
+70 / 100 / 130 / 160 / 190
+(+ 30% AP)
+If
+Tectonic Disruption
+is cast in close proximity of
+Vel'Koz
+, the anomaly will also slightly
+knock back
+enemies hit in the direction of the cast.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+See Notes
+The required proximity for the
+knock back
+is relative to
+Vel'Koz's
+position when casting and not his current one.
+While the effect is fully prevented by blocking the missile (e.g. with
+Unbreakable
+and
+Wind Wall
+), the missile may not be destroyed
+visually
+.
+(bug)
+The area of effect indicator appears at the end of the cast time.
+It will persist even if the cast cancels (e.g.
+Vel'Koz
+dies before cast time completes) despite the projectile not firing.
+Displacement immunity
+will also resist the application of the
+stun
+.
+Edit
+Life Form Disintegration Ray
+COST:
+100 Mana
+COOLDOWN
+:
+100 / 90 / 80
+CAST TIME:
+none
+RANGE:
+1555
+WIDTH:
+175
+Passive - Researched:
+Applying 3
+Deconstruction
+stacks will mark the target
+Researched
+for a few seconds, which refreshes on basic attacks and ability hits.
+Active:
+Vel'Koz
+channels
+for a short time to project an energy beam that continually deals
+magic damage
+, applies
+Deconstruction
+, and briefly
+slows
+enemies hit. During this time,
+Vel'Koz
+can steer the beam in the target direction.
+Life Form Disintegration Ray
+can be recast within the duration, and does so automatically afterwards.
+Recast:
+Vel'Koz
+ends
+Life Form Disintegration Ray
+.
+Researched
+Bonus:
+The beam deals
+true damage
+instead.
+Passive - Researched:
+Applying 3
+Deconstruction
+stacks to an enemy
+champion
+marks them as
+Researched
+for 7 seconds, refreshing on basic attacks and ability hits against them.
+Active:
+After a 0.
+2
+-second delay,
+Vel'Koz
+channels
+for up to 2.
+6
+seconds to project an energy beam, during which he can steer the beam in the target direction.
+Life Form Disintegration Ray
+can be recast after 1 second during the channel, and does so automatically after the duration.
+The beam deals
+magic damage
+to enemies hit every 0.
+2
+seconds, and
+slows
+them by 20%, lingering for 1 second.
+Deconstruction
+is applied every 0.
+7
+seconds to enemies hit.
+Researched
+enemies take
+true damage
+instead.
+Damage Per Tick:
+34.
+62
+/ 48.
+08
+/ 61.
+54
+(+ 9.
+62
+% AP)
+Maximum Damage:
+450 / 625 / 800
+(+ 125% AP)
+Recast:
+Vel'Koz
+ends
+Life Form Disintegration Ray
+.
+Info
+Targeting input
+Direction
+Damage type
+Type
+AOE DOT damage
+Sub-type
+Magic
+/
+True
+Counters
+Projectile
+Not Blocked
+Disruption
+Interrupted
+Life Form Disintegration Ray's
+direction updates gradually (moving the cursor from one side of
+Vel'Koz
+to the other will not make him rotate instantly).
+Vel'Koz
+will
+reveal
+himself if the ray is near an enemy champion.
+The beam hits in a rectangular shape, intersecting with the edge of an enemy
+gameplay radius
+.
+Because of this, the effect will hit enemies whose center location is to the sides and/or slightly behind Vel'Koz, as long as their radius intersects with the area.
+The following table refers for interactions while
+Vel'Koz
+is
+channeling
+:
+Type
+Channel
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+Hextech Rocketbelt
+Interrupted by
+All item-actives not specified above interrupt
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Hexflash
+Interrupted by
+Teleport
+Recall
+Interrupted by
+Death
+Cast-inhibiting effects
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Vel'Koz (Collection)
+.
+Original
+View in 3D
+880
+27.02.2014
+It is unclear if Vel’Koz was the first Voidborn to emerge on Runeterra, but there has certainly never been another to match his level of cruel, calculating sentience. While his kin devour or defile everything around them, he seeks instead to scrutinize and study the physical realm—and the strange, warlike beings that dwell there—for any weakness the Void might exploit. But Vel’Koz is far from a passive observer, striking back at threats with deadly plasma, or by disrupting the very fabric of the world itself.
+Erik Braa
+Christian Fell, Alex 'alexplank' Flores
+Loot eligible
+Battlecast
+View in 3D
+1350
+27.02.2014
+An airborne data collection unit based on the now-extinct Vel'Koz lifeform, these Battlecast monstrosities sweep their concentrated energy beams over heavily populated areas. Survey data from the lifeless wreckage automatically calibrates the entire fleets' weapons systems, making the units a deadlier threat with every skirmish.
+Erik Braa
+Michal Ivan, Puppetworks Animation Studio
+Battlecast
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Arclight
+View in 3D
+1350
+28.01.2015
+A sublime being of living energy, Vel'Koz is the subject of legend, myth, and worship. Once every millenium he descends to the mortal plane, choosing those worthy enough to carry out his inscrutable will, and transforming them into creatures of transcendent power—the Arclight.
+Erik Braa
+Sixmorevodka Studio
+Arclight
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Definitely Not
+View in 3D
+750
+31.03.2016
+I'm not a laser squid, I'm a man!
+Erik Braa
+Alvin Lee
+Definitely Not
+Loot eligible
+Infernal
+View in 3D
+1350
+16.07.2020
+Scarce is known of Vel'Koz, owing to the fact that most who witness him combust at his mere presence. What is known, however, is that this cataclysmic titan can level entire civilizations with his incinerating gaze, leaving only smouldering ruin. Woe be to those fixed in the behemoth's infernal gaze, for there will be no remains left to bury.
+Erik Braa
+Xiao Guang Sun, West Studio
+Infernal
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Infernal Vel'Koz Chromas
+Amethyst
+Catseye
+Emerald
+Rainbow
+Rose Quartz
+Ruby
+Blackfrost
+View in 3D
+1350
+15.04.2021
+Beneath the ice they slumber, trapped as two worlds pass them by. Watching, waiting, for the day they will rise again, and all will be buried in ice.
+Erik Braa
+Gabriela Dea Julia, West Studio
+Blackfrost
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Blackfrost Vel'Koz Chromas
+Amethyst
+Aquamarine
+Citrine
+Emerald
+Obsidian
+Pearl
+Ruby
+Turquoise
+Bee'Koz
+View in 3D
+1350
+22.11.2023
+Controllable tentacles made out of honey? That's bee-nius!
+Erik Braa
+Nathaniel Himawan, West Studio
+Bees!
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Bee'Koz Chromas
+Amethyst
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.22
+- November 6th Hotfix
+Tectonic Disruption
+Bug Fix:
+Travel time is once again reduced with decreasing cast distance, instead of always requiring the maximum amount of time.
+V14.22
+Tectonic Disruption
+Cooldown reduced to 14 / 13.
+5
+/ 13 / 12.
+5
+/ 12 seconds from 16 / 15 / 14 / 13 / 12.
+Life Form Disintegration Ray
+Coldown reduced to 100 / 90 / 80 seconds from 120 / 100 / 80.
+V14.9
+Stats
+Selection radius increased to 120 units from 88.
+8889007568359
+.
+V14.7
+Arclight Vel'Koz
+,
+Bee'Koz
+,
+Battlecast Vel'Koz
+Void Rift
+Bug Fix:
+No longer uses VFX and particles from
+Star Guardian Rell's
+Magnet Storm
+.
+V14.1
+Tectonic Disruption
+Travel time reduced to
+0.
+25
+− 0.
+55
+(based on cast distance)
+seconds from 0.
+55
+seconds at all distances.
+New Effect:
+Ground indicator now appears when the cast time has finished and not on-cast.
+V13.24
+Void Rift
+Bug Fix:
+Rift missile and the entire visual effects now spawn even if he dies in the first 0.
+25
+seconds after casting. Consequently, the rift collapse damage is now accompanied by its proper visuals in this case.
+Tectonic Disruption
+New Effect:
+Missile now spawns near the target location instead of at his location.
+Bug Fix:
+Spell no longer fizzles out it if he moved further than 1100 units away from the target location before the end of the cast time (e.g. using
+Flash
+).
+V13.23
+Organic Deconstruction
+Base true damage increased to
+35 − 180 (based on level)
+from
+33 − 169 (based on level)
+.
+AP ratio increased to
+60% AP
+from
+50% AP
+.
+V13.22
+Stats
+Base attack speed increased to 0.
+643
+from 0.
+625
+.
+Attack speed growth increased to 1.
+59
+% from 1.
+36
+%.
+V13.8
+Life Form Disintegration Ray
+Bug Fix:
+Minimum recast delay increased to 1 second from 0.
+75
+seconds into the channel.
+V12.10
+Stats
+Base health increased to 590 from 520.
+Health growth increased to 102 from 88.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V12.8
+Plasma Fission
+AP ratio increased to
+90% AP
+from
+80% AP
+.
+Void Rift
+Initial AP ratio increased to
+20% AP
+from
+15% AP
+.
+V12.5
+Lifeform Disintegration Ray
+Bug Fix:
+When it is cast in spectate mode, no longer causes the game replay to crash.
+V12.3
+General
+Updated visual effects.
+Original Vel'Koz
+Complete overhaul and adjusted hitbox indicators.
+Battlecast Vel'Koz
+Some cleanup.
+Arclight Vel'Koz
+Cleanup and new E indicator.
+Infernal Vel'Koz
+Minor tweaks and new E indicator.
+Blackfrost Vel'Koz
+Minor tweaks and new E indicator.
+V11.1
+Stats
+Base attack damage increased to 55 from 54.
+83787
+.
+Base armor increased to 22 from 21.
+88
+.
+V10.24
+Plasma Fission
+Bug Fix:
+Now properly triggers
+Horizon Focus
+.
+Hit sound no longer plays twice when the spell hits an enemy for the first time before splitting on base and all skins.
+Battlecast Vel'Koz
+Bug Fix:
+Dance sound effects now loop correctly.
+Bug Fix:
+Restored the sound that plays while
+Plasma Fission's
+plasma bolt travels after splitting has been restored.
+Arclight Vel'Koz
+Bug Fix:
+Dance sound effects now loop correctly.
+Bug Fix:
+Restored the sound that plays when an enemy has been hit by
+Void Rift's
+detonate.
+Infernal Vel'Koz
+Now plays metal sounds when hit instead of flesh sounds.
+Bug Fix:
+Restored respawn sound effects.
+Bug Fix:
+Restored the sound that plays when a second stack of his passive is applied to enemy champions.
+V10.6
+General
+Recommended items updated.
+V9.6
+Life Form Disintegration Ray
+New Effect:
+Now triggers effects that are triggered by DoT AoE abilities.
+V8.14
+Plasma Fission
+AP ratio increased to
+80% AP
+from
+60% AP
+.
+V8.9
+Stats
+Base mana increased to 469 from 375.
+6
+.
+Mana growth reduced to 21 from 42.
+Base mana regeneration increased to 8 from 6.
+V8.3
+Stats
+Base health regeneration increased to 5.
+5
+from 5.
+424
+.
+V7.23
+Battlecast Vel'Koz
+Life Form Disintegration Ray
+Bug Fix:
+Red beam VFX are no longer missing.
+V7.22
+Stats
+Base health increased to 520 from 507.
+68
+.
+Health growth increased to 88 from 76.
+V7.19
+Definitely Not Vel'Koz
+Bug Fix:
+Tentacles no longer abruptly transition during animations.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V6.15
+General
+Bug Fix:
+Arclight Vel'Koz's
+spawning portal no longer sits on top of his tentacles during his respawn animation.
+V6.11
+Plasma Fission
+Slow decay duration increased to 1 / 1.
+4
+/ 1.
+8
+/ 2.
+2
+/ 2.
+6
+seconds from 1 / 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2
+Lifeform Disintegration Ray
+Base damage reduced to 450 / 625 / 800 from 500 / 725 / 950
+New Effect:
+Enemies hit gain an
+Organic Deconstruction
+stack once every 0.
+7
+seconds, up to 3 times. Enemies that become
+Researched during the channel are dealt true damage for the remainder of its duration
+V6.10
+Organic Deconstruction
+AP ratio increased to
+50% AP
+from
+40% AP
+Lifeform Disintegration Ray
+AP ratio increased to
+125% AP
+from
+100% AP
+V6.9
+Organic Deconstruction
+Per-level damage reduced to 8 from 10
+Removed:
+Lifeform Disintegration Ray
+applying stacks
+New Effect:
+Has a
+40% AP
+ratio
+Plasma Fission
+New Effect:
+If it kills a target Vel'Koz restores 20 / 22.
+5
+/ 25 / 27.
+5
+/ 30 mana
+Removed:
+Target indicator being visible to enemies
+Void Rift
+Initial AP ratio reduced to
+15% AP
+from
+25% AP
+Detonation AP ratio reduced to
+25% AP
+from
+37.5% AP
+Tectonic Disruption
+AP ratio reduced to
+30% AP
+from
+50% AP
+Lifeform Disintegration Ray
+New Effect:
+Enemies with 3
+Organic Deconstruction
+stacks are marked as
+Researched for 7 seconds. Damage from basic attacks and abilities refreshes this duration.
+New Effect:
+Researched enemies are dealt true damage
+Base damage increased to 500 / 725 / 950 from 500 / 700 / 900
+AP ratio increased to
+100% AP
+from
+60% AP
+Cooldown reduced to 120 / 100 / 80 seconds from 130 / 110 / 90
+V6.2
+Lifeform Disintegration Ray
+Bug Fix:
+Doing various strange things if cast right when Vel'Koz last-hits a target
+V5.22
+Stats
+Mana increased to 375.
+6
+from 325.
+6
+Mana growth reduced to 42 from 45
+V5.16
+Plasma Fission
+Reactivation delay reduced to 0.
+25
+seconds from 0.
+3
+Secondary bolts range increased to 1100 from 900
+V5.6
+Lifeform Disintegration Ray
+New Effect:
+Vel'Koz can cancel it early by taking
+Dark Passage
+V4.13
+Void Rift
+Area of effect width increased to 88 from 65 to match visuals
+Lifeform Disintegration Ray
+Range increased to 1550 from 1500 to match visuals
+V4.12
+Plasma Fission
+New Effect:
+Bolt will split right after Vel'Koz dies
+V4.5
+Stats
+Armor increased to 16 from 12
+V4.4
+General
+Texture update to Classic
+V4.3
+Added
+Trivia
+[
+edit
+|
+edit source
+]
+Vel'Koz has
+Pi
+(3.
+141592
+) attack damage growth and uses
+Trigonometry
+to land
+Plasma Fission
+.
+Vel'Koz's taunt is
+Schrödinger's equation
+written in
+Visitor language
+from
+V
+by
+Kenneth Johnson
+.
+Vel'Koz is based on the
+Oculothorax
+archetype, with one of these in particular (
+Shuma-Gorath
+from
+Marvel Comics
+) used as the basis for
+Life Form Disintegration Ray
+.
+Vel'Koz's personality might have been based on the amoral Decepticon scientist
+Shockwave
+, from the
+Transformers
+franchise. Shockwave's head consists mostly of his single glaring eye, which might also have inspired Vel'Koz.
+Vel'Koz had his game assets reused for several
+featured game modes
+.
+He was given a retexture and features as a monster called the "Shooty Eyeball Monster" (along with its huge variant) in
+Invasion
+.
+His animations were reused for the
+Landsquid
+and
+Squidtooth
+monsters in
+Odyssey: Extraction
+.
+Life Form Disintegration Ray
+is the longest ability name, at 28 characters long.
+For contrast, it is longer than
+Hop
+, the shortest ability name at 3 characters long, by 25 characters.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Artillery
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Artillery Mages
+are the masters of range, and they leverage that advantage to whittle down their opponents over time from great distances. In turn, Artillery Mages are severely punished when enemies finally succeed in closing in on them, due to their extreme fragility and limited mobility.
+Examples
+Jayce
+Xerath
+Ziggs
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+True damage
+Applies:
+Corrupting Potion
+Omnivamp
+Mitigated by:
+Damage shields
+Invulnerability
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Unbreakable
+COOLDOWN:
+16 / 14 / 12 / 10 / 8
+Active:
+Braum
+sets his shield in a direction for a few seconds, intercepting any enemy
+projectiles
+to hit him and be destroyed.
+He gains damage reduction and negates the first instance of damage dealt by a champion completely from this direction.
+League of Legends content
+Wind Wall
+COOLDOWN:
+25 / 23 / 21 / 19 / 17
+Active:
+Yasuo
+raises a wind wall that drifts in the target direction for a few seconds, blocking all enemy
+projectiles
+that hit it.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Displacement immune
+A unit that is
+displacement immune
+is
+immune
+to all
+Airborne
+effects in addition to the following effects:
+Crowd control
+Knockdown
+Suspension
+Kinematics
+Sleep
+Stasis
+Champion abilities
+Ambessa's
+Public Execution
+Mordekaiser's
+Realm of Death
+Skarner's
+Ixtal's Impact
+and
+Impale
+Sett's
+The Show Stopper
+Tahm Kench's
+Devour
+League of Legends content
+Organic Deconstruction
+Innate:
+Vel'Koz
+abilities apply a stack of
+Deconstruction
+to enemies hit for a few seconds.
+The third stack consumes them all to deal
+bonus
+true damage
+.
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Life Form Disintegration Ray
+COOLDOWN:
+100 / 90 / 80
+Passive - Researched:
+Applying 3
+Deconstruction
+stacks will mark the target
+Researched
+for a few seconds, which refreshes on basic attacks and ability hits.
+Active:
+Vel'Koz
+channels
+for a short time to project an energy beam that continually deals
+magic damage
+, applies
+Deconstruction
+, and briefly
+slows
+enemies hit. During this time,
+Vel'Koz
+can steer the beam in the target direction.
+Life Form Disintegration Ray
+can be recast within the duration, and does so automatically afterwards.
+Recast:
+Vel'Koz
+ends
+Life Form Disintegration Ray
+.
+Researched
+Bonus:
+The beam deals
+true damage
+instead.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Persistent area damage
+Persistent area damage
+is technically not a separate type of damage, but rather a hybrid classification that is applied to some spells.
+In situations where
+persistent damage
+and
+area damage
+would have conflicting outputs, the conflict is resolved by choosing the weakest possible outcome.
+Physical vamp
+and
+Spell vamp
+(where applicable) heals with one-third effectiveness, as with
+area damage
+.
+Arcane Comet's
+cooldown is reduced by 5%, as with
+persistent damage
+, per target affected.
+Counter Strike
+reduces the damage dealt by 25%, as with
+area damage
+.
+League of Legends content
+Tectonic Disruption
+COOLDOWN:
+14 / 13.
+5
+/ 13 / 12.
+5
+/ 12
+Active:
+Vel'Koz
+hurls a disruptive anomaly at the target location that deals
+magic damage
+to enemies hit, briefly
+knocks them up
+and
+stuns
+them.
+League of Legends content
+Life Form Disintegration Ray
+COOLDOWN:
+100 / 90 / 80
+Passive - Researched:
+Applying 3
+Deconstruction
+stacks will mark the target
+Researched
+for a few seconds, which refreshes on basic attacks and ability hits.
+Active:
+Vel'Koz
+channels
+for a short time to project an energy beam that continually deals
+magic damage
+, applies
+Deconstruction
+, and briefly
+slows
+enemies hit. During this time,
+Vel'Koz
+can steer the beam in the target direction.
+Life Form Disintegration Ray
+can be recast within the duration, and does so automatically afterwards.
+Recast:
+Vel'Koz
+ends
+Life Form Disintegration Ray
+.
+Researched
+Bonus:
+The beam deals
+true damage
+instead.
+League of Legends content
+Void Rift
+RECHARGE:
+19 / 18 / 17 / 16 / 15
+Active:
+Vel'Koz
+cracks a rift in the target direction that opens after a brief delay, cascading through the area to deal
+magic damage
+to enemies within.
+After a brief delay, the rift collapses, dealing
+magic damage
+to enemies within.
+Vel'Koz
+periodically stocks a charge of
+Void Rift
+, up to a maximum of 2.
+League of Legends content
+Magnet Storm
+COOLDOWN:
+120 / 100 / 80
+Active:
+Rell
+erupts in magnetic fury,
+pulling
+nearby enemies inward. She then emits a
+Kinematic
+field that continually deals
+magic damage
+over a short time.
+Kinematics
+:
+Kinematics drags enemies toward the
+Source
+, but does not disable their actions nor intercept other forms of movement.
+League of Legends content
+Plasma Fission
+COOLDOWN:
+7
+Active:
+Vel'Koz
+fires a plasma bolt that deals
+magic damage
+to the first enemy hit,
+slowing
+them for a short time.
+Plasma Fission
+can be recast while the bolt is in flight, and does so automatically upon hitting an enemy or max range.
+Recast:
+The bolt splits in two, each firing in perpendicular opposite directions.
+Whenever
+Plasma Fission
+kills an enemy,
+Vel'Koz
+restores
+mana
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Vel'Koz's profile page
+at
+LeagueOfLegends.com

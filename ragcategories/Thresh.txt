@@ -1,0 +1,2837 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Thresh
+the Chain Warden
+Release date
+2013-01-23
+Last changed
+V14.8
+Class(es)
+Catcher
+Legacy
+Support
+Tank
+Position(s)
+Support
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+1
+Toughness
+2
+Control
+3
+Mobility
+1
+Utility
+3
+Style
+Difficulty
+Thresh
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Thresh
+Base statistics
+Edit
+Health
+600
++120
+Mana
+274
++44
+Health regen. (per 5s)
+7
++0.55
+Mana regen. (per 5s)
+6
++0.8
+Armor
+33
++0
+Attack damage
+56
++2.2
+Magic resist.
+30
++1.55
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+450
+Attack speed
+Base AS
+0.625
+Attack windup
+23.958% (mod. 0.25)
+AS ratio
+N/A
+Bonus AS
++3.5
+%
+Missile speed
+Non-projectile
+Unit radius
+Gameplay radius
+65
+Selection radius
+125
+Pathing radius
+36
+Acq. radius
+475
+Special statistics
+Damage Dealt
++0%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Ability Haste
++20
+Damage Dealt
++0%
+Damage Received
++0%
+Move Speed
++5%
+Damage Dealt
++0%
+Damage Received
+-13%
+Shielding
++20%
+Damage Dealt
++0%
+Damage Received
++0%
+Shielding
++0%
+Move Speed
++20%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Damnation
+EFFECT RADIUS:
+1900
+Innate:
+Thresh's
+armor
+does not increase by
+leveling
+up.
+Innate:
+Enemy
+champions
+and large enemies that die near
+Thresh
+will drop a
+Soul
+for a period.
+Thresh
+automatically collects
+Souls
+near him or
+Dark Passage
+.
+Soul:
+For each stack,
+Thresh
+gains
+ability power
+and
+bonus
+armor
+.
+Innate:
+Thresh's
+armor
+does not increase through
+growth (per level)
+.
+Innate:
+Enemy
+champions
+, large
+minions
+and large
+monsters
+that die near
+Thresh
+drop a
+Soul
+for 8 seconds. Epic monsters drop 2
+Souls
+while lesser minions and monsters have a 33.
+3
+% chance to drop a
+Soul
+.
+Thresh
+automatically collects
+Souls
+near him or a placed
+Dark Passage
+.
+Soul:
+For each
+stack
+,
+Thresh
+gains
+1 ability power
+and
+1
+bonus
+armor
+.
+Info
+Targeting input
+Passive
+Souls
+grant a small area of
+sight
+.
+Souls
+are visible to allies and only become visible to enemies if their team has
+sight
+of
+Thresh
+.
+The probability for
+souls
+dropping from small minions and monster on
+Summoner's Rift
+starts at 33% but adjusts dynamically to match the expected quota of
+souls
+dropped (lowers if above, rises if below, remains if even).
+Souls
+collected are not considered when adjusting the probability.
+Nunu & Willump
+drop a soul each.
+Map-Specific Differences
+Howling Abyss
+differences
+edit
+Stacks per soul changed to 2.
+Nexus Blitz
+differences
+edit
+Stacks per soul changed to 2.
+Ultra Rapid Fire
+differences
+edit
+Stacks per soul changed to 3.
+Arena
+differences
+edit
+New Effect:
+Gains 11.
+25
+Soul
+stacks per round.
+Edit
+Death Sentence
+COST:
+70 Mana
+COOLDOWN
+:
+19 / 16.
+5
+/ 14 / 11.
+5
+/ 9
+CAST TIME:
+0.
+5
+RANGE:
+1100 /
+1040
+EFFECT RADIUS:
+Global
+/
+3000
+WIDTH:
+140
+SPEED:
+1900
+/
+1400
+Active:
+Thresh
+casts out his scythe in the target direction that catches the first enemy hit, dealing
+magic damage
+,
+reducing
+the cooldown, and briefly
+stunning
+and
+revealing
+them.
+Thresh
+will also mark them
+Shackled
+, during which he is briefly
+slowed
+and unable to declare basic attacks. While the target is
+stunned
+,
+Thresh
+pulls
+them twice over a short distance. He can also recast
+Death Sentence
+.
+Recast - Deathly Leap:
+Thresh
+dashes
+to the
+Shackled
+enemy.
+Active:
+Thresh
+throws out his scythe in the target direction, becoming
+unable
+to move or attack while it is in flight.
+The scythe catches the first enemy hit to deal
+magic damage
+and
+stun
+and
+reveal
+them for 1.
+5
+seconds, as well as reduce
+Death Sentence's
+current
+cooldown
+by 2 seconds.
+Thresh
+will also mark the target
+Shackled
+for 1.
+5
+seconds, during which he is unable to declare basic attacks, and is
+slowed
+by 20% for 1 second.
+Magic Damage:
+100 / 150 / 200 / 250 / 300
+(+ 90% AP)
+While the target is
+stunned
+,
+Thresh
+tugs twice over 0.
+8
+seconds,
+pulling
+the target a short distance with each tug. After 0.
+5
+seconds of hitting an enemy or instantly after hitting a
+minion
+or
+monster
+,
+Thresh
+can recast the ability while the target is
+Shackled
+, which will cause him to stop tugging.
+Recast - Deathly Leap:
+Thresh
+dashes
+to the
+Shackled
+enemy, becoming able to attack again upon arrival. He can cast
+Dark Passage
+and
+Flay
+during the dash.
+Info
+Targeting input
+Direction
+/
+Auto
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Grounded
+See Notes
+Knockdown
+Interrupted
+Thresh
+will track the target if they change locations.
+He will dash to the target's previous location if the target is too far away or moves beyond
+2000
+units.
+This ability will cast from wherever the caster is at the end of the cast time.
+Thresh
+will not tug if the target is too close to him.
+Thresh
+will turn his facing direction towards the cast direction only after
+Death Sentence's
+cast is complete.
+If
+Thresh
+is facing
+more
+than 90° away from the cast direction in either direction, he will turn to face
+exactly
+90° away from the cast direction over the cast time, then turn towards the cast direction when the missile is fired.
+If
+Thresh
+is facing
+less
+than 90° away from the cast direction, he will keep his facing direction until the missile is fired.
+This prevents the enemy from knowing where exactly
+Thresh
+is aiming at before the cast animation is complete.
+Death Sentence
+triggers on-cast effects (such as
+Spellblade
+and triggering
+Force Pulse's
+passive) once at the start of the cast, and once at the end of the cast. It may trigger on-cast effects a third time when casting
+Deathly Leap
+.
+This is because a separate spell is cast to prevent
+Thresh
+from facing towards the target direction immediately, which is (incorrectly) flagged to trigger on-cast effects.
+(bug)
+Deathly Leap
+has a maximum cast range. If
+Thresh
+or his victim move too far away from one another,
+Death Sentence
+will show its cooldown prematurely, preventing
+Deathly Leap
+from being cast.
+This behaves similarly to a tether range.
+If
+Thresh
+is already outside the maximum range when the scythe lands and the
+hook
+is created,
+Death Sentence
+will not be on cooldown
+(bug)
+, however actually casting
+Deathly Leap
+will cause it to fizzle unless
+Thresh
+has walked into range again.
+Death Sentence
+cannot be recast while
+grounded
+or
+rooted
+.
+Death Sentence
+can be recast even while the target is
+untargetable
+.
+Only
+Death Sentence's
+first chain tug puts the target
+airborne
+. Outside the first ~0.
+3
+seconds, the target is only stunned.
+(bug)
+Death Sentence
+will not
+stun
+enemies that are
+displacement immune
+or
+immune to crowd control
+but the target will still be
+hooked
+and
+Thresh
+is still granted the ability to recast for his dash.
+Thresh
+will not tug at all if the
+stun
+is not active on the target or if he used the recast.
+Spell shield
+will block all of
+Death Sentence's
+effects, including the
+hook
+as well as prevent the cooldown reduction.
+Death Sentence's
+stun
+duration is affected by
+tenacity
+but the
+hook
+will always persist for 1.
+5
+seconds, unless the target uses a
+cleansing
+effect, in which case the
+hook
+is removed.
+Death Sentence's
+stun
+will persist even if
+Thresh
+dies before the duration ends. The tug will not occur as
+Thresh
+is not alive.
+Type
+Cast time
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio changed to
+130% AP
+.
+Cooldown changed to 11 / 10.
+5
+/ 10 / 9.
+5
+/ 9 seconds.
+Edit
+Dark Passage
+COST:
+50 / 55 / 60 / 65 / 70 Mana
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+CAST TIME:
+none
+TARGET RANGE:
+950
+EFFECT RADIUS:
+350
+/
+150
+TETHER RADIUS:
+1500
+Active:
+Thresh
+throws his lantern to the target location that remains for a few seconds while he remains nearby. He and the first allied champion to come near the lantern are granted a
+shield
+for a few seconds, with the amount based on
+Souls
+. An ally can grab the lantern to
+dash
+to
+Thresh
+and gain the shield, but cannot do so while
+immobilized
+,
+grounded
+, or
+silenced
+.
+Active:
+Thresh
+throws his lantern to the target location over 0.
+5
+seconds, lasting for 6 seconds while he remains nearby and granting
+sight
+of its surroundings. If
+Thresh
+moves too far away from the lantern, it returns back to him immediately.
+Thresh
+and the first allied champion to come near the lantern are granted a
+shield
+for 4 seconds. An ally can select the lantern while in proximity of it,
+dashing
+to
+Thresh
+and gaining the shield.
+Shield Strength:
+50 / 70 / 90 / 110 / 130 (+ 2 per
+Soul
+collected)
+An ally cannot select the lantern while
+immobilized
+,
+grounded
+, or
+silenced
+. The lantern will not expire from
+Thresh
+moving too far away if he is dashing with
+Deathly Leap
+.
+Info
+Targeting input
+Location
+Damage type
+Type
+Counters
+Projectile
+Blocked
+The dashing ally will track
+Thresh
+if he changes locations.
+They will dash to
+Thresh's
+previous location if he is too far away or moves beyond
+2200
+units.
+The lantern is considered a unit and can be targeted by an allied
+Teleport
+,
+Leap Strike
+,
+Shunpo
+, and
+Safeguard
+.
+It is
+untargetable
+to enemies.
+The lantern's duration and maximum leash range are each displayed as a circle on the ground.
+Thresh
+will gain
+Dark Passage's
+shield from moving out of leash range of the lantern.
+Dark Passage
+is special cased to trigger
+Guardian
+.
+Tips & Tricks
+Since the ally needs to select the lantern, enemies may create targetable units on top of the lantern to impede allies from grabbing it (i.e
+Warding Totem
+).
+Edit
+Flay
+COST:
+60 / 65 / 70 / 75 / 80 Mana
+COOLDOWN:
+13 / 12.
+25
+/ 11.
+5
+/ 10.
+75
+/ 10
+CAST TIME:
+0.
+3889
+RANGE:
+-550
+/
+525
+EFFECT RADIUS:
+270
+WIDTH:
+220
+SPEED:
+2000
+Passive:
+Thresh's
+basic attacks deal
+bonus
+magic damage
+based on
+Souls
+, which increases over a period without basic attacking enemies.
+Active:
+Thresh
+sweeps his chain in a broad area, dealing
+magic damage
+to enemies hit and
+knocking
+them in the target direction, after which they are briefly
+slowed
+.
+Passive:
+Thresh's
+basic attacks
+are empowered to deal
+bonus
+magic damage
+, with the
+AD
+ratio increasing over 10 seconds without basic attacking enemies.
+Minimum Bonus Magic Damage:
+1.
+5
+per
+Soul
+collected
+(+ 0% AD)
+Maximum Bonus Magic Damage:
+1.
+5
+per
+Soul
+collected
+(+ 80 / 110 / 140 / 170 / 200% AD)
+Active:
+Thresh
+sweeps his chain across the ground in a broad line and a radius around him, starting behind him and towards the target direction. Enemies hit are dealt
+magic damage
+and
+knocked
+200 units in the target direction, and then are
+slowed
+for 1 second.
+Magic Damage:
+75 / 120 / 165 / 210 / 255
+(+ 70% AP)
+Slow:
+20 / 25 / 30 / 35 / 40%
+"This way!"
+Info
+Targeting input
+Direction
+Damage type
+Type
+See Notes
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Parries
+Missing
+Projectile
+Not Blocked
+Flay's
+effects start at the start of the cast time.
+Thresh
+can cast other spells once the cast time completes, but remains unable to attack and move and use mobility spells (such as
+Flash
+) until the chain completed its way entirely.
+Applies
+area damage
+on the ability and deals
+proc damage
+on the enhanced basic attack.
+The knockback's
+airborne
+debuff is set to last longer than the forced movement, but gets removed as soon as the forced movement from
+Flay
+ends or is overridden by another.
+Flay's
+passive's buff icon changes colors depending on charge level. At 100%,
+Thresh's
+scythe will glow green and a sound effect will play.
+0 - 50%
+50 - 75%
+75% - 100%
+100%
+Runaan's Hurricane's
+Wind's Fury
+will apply
+Flay's
+passive to each enemy hit, with the secondary targets taking minimum damage (charge resets upon hitting the primary target).
+The enhanced attack applies other
+on-hit effects
+and can
+critically strike
+as normal (the bonus damage cannot).
+Flay's
+passive enhanced attack can be
+dodged
+(the enhanced attack is not consumed and the charge is not reset) and
+blocked
+(the enhanced attack is consumed and the charge is reset).
+The empowered attack will not trigger against
+structures
+nor
+wards
+.
+PENDING FOR TEST:
+: Enhanced attack's interactions with
+blinding
+effects (regarding both bonus damage and charge reset).
+Type
+Cast time
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio changed to
+90% AP
+.
+Maximum AD ratio changed to
+100 / 150 / 200 / 250 / 300% AD
+.
+Edit
+The Box
+COST:
+100 Mana
+COOLDOWN:
+120 / 100 / 80
+CAST TIME:
+0.
+45
+WIDTH:
+30
+Side length:
+470
+Active:
+Thresh
+erects a pentagon of spectral walls around him that each last a few seconds. A wall will break upon enemy champion contact, dealing
+magic damage
+and
+slowing
+them for a short time.
+Active:
+Thresh
+erects a pentagon of spectral walls around him that each last for 5 seconds. A wall will break upon enemy champion contact, dealing
+magic damage
+and
+slowing
+them by 99% for 2 seconds.
+Magic Damage:
+250 / 400 / 550
+(+ 100% AP)
+Enemies that break a wall cannot do so again for 1 second. Subsequent walls they break will deal no damage and
+slow
+for only 1 second.
+"Nowhere to hide."
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+This ability will cast from wherever the caster is at the start of the cast time.
+The Box
+always uses
+quick cast
+, regardless of player settings.
+The Box
+always faces into the same direction (one of the walls is due North, and spreads West-East).
+The cast indicator does not show this behavior.
+The corners of
+The Box
+are placed 400 units around
+Thresh
+.
+Each wall is 470.
+228
+units long.
+Each wall passes 323.
+607
+units from the center of
+The Box
+at the closest approach (ignoring its width).
+A pentagon has an angle of 72° between each corner.
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio changed to
+130% AP
+.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Thresh (Collection)
+.
+Original
+View in 3D
+880
+23.01.2013
+Sadistic and cunning, Thresh is an ambitious and restless spirit of the Shadow Isles. Once the custodian of countless arcane secrets, he was undone by a power greater than life or death, and now sustains himself by tormenting and breaking others with slow, excruciating inventiveness. His victims suffer far beyond their brief mortal coil as Thresh wreaks agony upon their souls, imprisoning them in his unholy lantern to torture for all eternity.
+Mark Oliver
+Bo Lu
+Loot eligible
+Deep Terror
+View in 3D
+975
+23.01.2013
+“If there really was a kingdom beneath the sea, it must have been destroyed long ago. How else do you explain the revenants that prey upon these shores? How else does that thing—Thresh—exist, trapping our souls in his accursed diving bell?”
+Mark Oliver
+Christian Fell
+Forgotten Depths
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Worlds 2013
+View in 3D
+975
+03.10.2013
+Celebrating Worlds 2013 in North America.
+Mark Oliver
+Bo Lu
+World Championship
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Worlds 2013 Thresh Chromas
+Golden
+Blood Moon
+View in 3D
+975
+08.01.2015
+A demon summoned on the night of the Blood Moon, Thresh's insatiable urge to torture and kill is fueled by thousands of vengeful spirits drawn to his lantern. Entire villages are left slaughtered in his wake, their blood staining the land for decades.
+Mark Oliver
+Esben Lash Rasmussen
+Blood Moon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+SSW
+View in 3D
+750
+13.05.2015
+Honoring Mata's winning performance as Thresh during the 2014 World Championship.
+Mark Oliver
+Alvin Lee, Pan Chengwei
+World Champions: 2014
+Loot eligible
+Legacy
+Dark Star
+View in 3D
+1820
+15.06.2016
+A cosmic nightmare who worships the all-consuming Dark Star, Thresh vows to feed the whole of existence to his “god” until all matter, time, and thought are erased. His work will be complete when nothing remains, freeing him to finally leap into the singularity and become one with the end of the universe.
+Mark Oliver
+Victor '3rdColossus' Maury
+Dark Star
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dark Star Thresh Chromas
+Antimatter
+High Noon
+View in 3D
+1350
+30.08.2018
+An ancient devil who stalks the great expanses of the Old West, Thresh's cruel visage is burned into the minds of all living things who fear the day he will come to claim their souls. His arrival spells doom for any settlement, its residents flayed and left to rot in the sun.
+Mark Oliver
+Alvin Lee
+High Noon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+High Noon Thresh Chromas
+Obsidian
+Pearl
+Ruby
+Sapphire
+Tanzanite
+Pulsefire
+View in 3D
+1350
+21.11.2019
+As head of the Remembrancers, Thresh usually remains behind the scenes pulling the chains of time rather than stepping into the stream himself. Yet recent events have caused him to leave his temporal citadel, bringing his pulsefire lantern to bear.
+Mark Oliver
+David Villegas, West Studio
+Pulsefire
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Prestige Pulsefire
+View in 3D
+Special
+21.11.2019
+As paradoxes multiply and more rogue agents rebel against the grasp of the chrono-enforcers, Thresh, as commander of the Rembrancers, takes matters into his own hands. He must not yield control of time to these interlopers… nor to the growing Praetorian threat.
+Mark Oliver
+Kudos Productions
+Pulsefire
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Pulsefire
+. Store variants are discounted for multiple purchases.
+FPX
+View in 3D
+1350
+30.04.2020
+Honoring Crisp's winning performance as Thresh during the 2019 World Championship.
+Mark Oliver
+Pan Chengwei
+World Champions: 2019
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+FPX Thresh Chromas
+Elite
+Spirit Blossom
+View in 3D
+1820
+22.07.2020
+An ancient demon of obsession, Thresh delights in tormenting the spirits of those he deems as flawed, but blossoming with potential. He haunts the spiritual afterlife as a supreme collector of souls, tempting the dead away from their path to salvation until they are trapped for eternity within their own memories.
+Mark Oliver
+Jeremy 'Jermu' Anninos
+Spirit Blossom
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Transforming
+Chromas
+Spirit Blossom Thresh Chromas
+Catseye
+Emerald
+Night Blossom
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Unbound
+View in 3D
+750
+29.07.2021
+With every soul the Ruination seized, Thresh's lantern burned brighter. He had planned for this moment, after all: the chance to scour far beyond the Shadow Isles, the Mist's reach so much greater than his own. Reaping all he had so meticulously sown, Thresh was at last unbound from the shackles of the isles. He had forgotten how good it feels to have skin...
+Mark Oliver
+Francis Tneh, West Studio
+Ruined
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Steel Dragon
+View in 3D
+1350
+21.10.2021
+The Steel Dragon, happiest curled up in its cavernous archive amidst its treasures, needed someone with a talent for acquiring esoteric new treasures—and its eye fell on Thresh. Honored to assist, Thresh's limitless appetite for acquisition warped into obsession. Now he stops at nothing to acquire what he wants, justifying his cruelty in the name of his benefactor.
+Mark Oliver
+Huyy Nguyen, West Studio
+Dragonmancers
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Steel Dragon Thresh Chromas
+Amethyst
+Aquamarine
+Catseye
+Emberclaw
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Turquoise
+Prestige Pulsefire (2022)
+View in 3D
+Special
+01.04.2022
+As paradoxes multiply and more rogue agents rebel against the grasp of the chrono-enforcers, Thresh, as commander of the Rembrancers, takes matters into his own hands. He must not yield control of time to these interlopers… nor to the growing Praetorian threat.
+Mark Oliver
+Kudos Productions
+Pulsefire
+Loot ineligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Prestige Pulsefire
+. Store variants are discounted for multiple purchases.
+Lunar Emperor
+View in 3D
+1350
+26.01.2023
+Some are destined to rule. Others hear only echoes of glory, knowing nothing of the sacrifices that must be made! You must put your empire before EVERYTHING... even the lives of your subjects. The Emperor Thresh still guides his people, their souls forever safe, though their bodies were washed away. Someday, he'll heal his broken empire. All he needs is a kind empress' helping hand.
+Mark Oliver
+Alex 'alexplank' Flores
+Lunar Revel
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Lunar Emperor Thresh Chromas
+Citrine
+Emerald
+Granite
+Obsidian
+Pearl
+Resplendent
+Rose Quartz
+Ruby
+Turquoise
+Winterblessed
+View in 3D
+1350
+06.12.2023
+Thresh, Sylas, and Camille laughed as the Aurora surged within them, until the laughs turned to screams! The raw power of the Aurora was too much, killing the inventor and dancer and leaving only a corrupted Thresh behind. Believing himself to be the rightful new Polaris, he raised his weapon, ready to doom Senna... when suddenly, Lucian appeared!
+Mark Oliver
+Jiunn Kuo, Kudos Productions
+Winterblessed
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Winterblessed Thresh Chromas
+Amethyst
+Citrine
+Emerald
+Obsidian
+Pearl
+Ruby
+Sapphire
+Turquoise
+Wreathguard
+Janitor
+View in 3D
+1350
+11.09.2024
+There aren't many places, let alone stock brokerage firms, that will hire an ethically questionable, skull-faced custodian named Thresh, but Mundo wouldn't be a trillionaire if he didn't know a good bet when he saw one. Who better to clean up dirty money than a demon janitor?
+Mark Oliver
+Huyy Nguyen, West Studio
+Day Job
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Janitor Thresh Chromas
+Citrine
+Emerald
+Meteorite
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.9
+General
+Adjusted splash artwork for
+FPX Thresh
+.
+V14.8
+Stats
+Base armor increased to 33 from 31.
+Magic resistance growth increased to 1.
+55
+from 1.
+3
+.
+V14.4
+Stats
+Base armor increased to 31 from 28.
+Flay
+Active base damage increased to 75 / 120 / 165 / 210 / 255 from 75 / 115 / 155 / 195 / 235.
+The Box
+Cooldown reduced to 120 / 100 / 80 seconds from 140 / 120 / 100.
+V13.20
+Worlds 2013 Thresh
+Skin renamed to
+Worlds 2013 Thresh
+from
+Championship Thresh
+.
+V13.18
+Dark Passage
+Shield strength per soul increased to 2 from 1.
+5
+.
+V13.7
+Death Sentence
+Cooldown refund reduced to 2 seconds from 3.
+V13.4
+Death Sentence
+Base damage increased to 100 / 150 / 200 / 250 / 300 from 100 / 145 / 190 / 235 / 280.
+AP ratio increased to
+90% AP
+from
+80% AP
+.
+Cooldown reduced to 19 / 16.
+5
+/ 14 / 11.
+5
+/ 9 seconds from 19 / 17 / 15 / 13 / 11.
+Dark Passage
+Base shield reduced to 50 / 70 / 90 / 110 / 130 from 50 / 75 / 100 / 125 / 150.
+Cooldown reduced to 21 / 20 / 19 / 18 / 17 seconds from 22 / 20.
+5
+/ 19 / 17.
+5
+/ 16.
+Flay
+Base damage increased to 75 / 115 / 155 / 195 / 235 from 75 / 110 / 145 / 180 / 215.
+AP ratio increased to
+70% AP
+from
+60% AP
+.
+V13.3
+- February 8th Hotfix
+Flay
+AP ratio increased to
+60% AP
+from
+40% AP
+.
+V13.3
+Death Sentence
+Base damage increased to 100 / 145 / 190 / 235 / 280 from 100 / 140 / 180 / 220 / 260.
+AP ratio increased to
+80% AP
+from
+50% AP
+.
+Dark Passage
+Shield strength per soul reduced to 1.
+5
+from 2.
+V12.18
+Stats
+Health growth increased to 120 from 115.
+Flay
+Active base damage increased to 75 / 110 / 145 / 180 / 215 from 65 / 95 / 125 / 155 / 185.
+V12.15
+Death Sentence
+Base damage increased to 100 / 140 / 180 / 220 / 260 from 80 / 120 / 160 / 200 / 240.
+Cooldown reduced to 19 / 17 / 15 / 13 / 11 seconds from 20 / 18 / 16 / 14 / 12.
+V12.13
+Damnation
+Bug Fix:
+No longer is shown in the HUD as a temporary buff.
+V12.10
+Stats
+Base health increased to 600 from 530.
+Health growth increased to 115 from 95.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Dark Passage
+Base shield reduced to 50 / 75 / 100 / 125 / 150 from 60 / 90 / 120 / 150 / 180.
+V12.9
+Damnation
+Bonus armor per soul increased to 1 from 0.
+75
+.
+Ability power per soul increased to 1 from 0.
+75
+.
+Dark Passage
+Shield strength per soul increased to 2 from 1.
+V11.20
+General
+Adjusted splash artwork for
+Unbound Thresh
+.
+Unbound Thresh
+Model updated to reflect his appearance in
+A Night at the Inn
+.
+V11.18
+Stats
+Base movement speed reduced to 330 from 335.
+Flay
+Minimum damage per soul increased to 1.
+5
+from 1.
+Maximum damage AD ratio reduced to
+80 / 110 / 140 / 170 / 200% AD
+from
+100 / 125 / 150 / 175 / 200% AD
+.
+Maximum damage per soul increased to 1.
+5
+from 1.
+V11.15
+Flay
+Cooldown increased to 13 / 12.
+25
+/ 11.
+5
+/ 10.
+75
+/ 10 seconds from 11 / 10.
+5
+/ 10 / 9.
+5
+/ 9.
+V11.10
+Stats
+Base health reduced to 530 from 561.
+Health growth increased to 95 from 93.
+V11.8
+Flay
+Cooldown increased to 11 / 10.
+5
+/ 10 / 9.
+5
+/ 9 seconds from 9 at all ranks.
+V11.7
+Dark Passage
+Base shield reduced to 60 / 90 / 120 / 150 / 180 from 60 / 100 / 140 / 180 / 220.
+V11.1
+Stats
+Base health increased to 561 from 560.
+52
+.
+V10.15
+Dark Passage
+Cooldown increased to 22 / 20.
+5
+/ 19 / 17.
+5
+/ 16 seconds from 22 / 19.
+5
+/ 17 / 14.
+5
+/ 12.
+V10.9
+Dark Star Thresh
+Bug Fix:
+Lantern is now properly visible after he dies and respawns.
+V10.8
+Death Sentence
+Indicator added to show recast ability timer.
+V10.6
+General
+Recommended items updated.
+V10.2
+Flay
+Quick cast indicator updated to better match hitbox on all skins.
+Pulsefire Thresh
+Death Sentence
+Added width indicators.
+Bug Fix:
+Now properly uses his new cast effect.
+Flay
+Added circles indicators to match his other skins.
+Prestige Pulsefire Thresh
+Death Sentence
+Added width indicators.
+Flay
+Added circles indicators to match his other skins.
+V10.1
+General
+New visual effects.
+Basic attack trails added with new hit effects.
+Idle effects cleaned up and improved his idle effects overall to match his actual appearance.
+All skins generally cleaned up and matched with the base skin changes.
+Damnation
+Updated souls' appearance and power-up visuals.
+Death Sentence
+Cleared up the hitbox, adjusted the hook's position, updated the hit and link break effects, and changed the wind-up effect.
+Dark Passage
+Updated the Lantern's missile, edge, and AoE indicators to be more noticeable and in-theme.
+The Lantern will now also rotate much more fluidly.
+Flay
+Added a circle indicator to show the actual hitbox.
+Deep Terror Thresh
+More bubbles.
+Worlds 2013 Thresh
+New Championship themed particles and cleaned up.
+Blood Moon Thresh
+Cleaned up with some thematic improvements.
+V9.24
+- December 12th Hotfix
+Prestige Pulsefire Thresh
+Bug Fix:
+Now properly ends
+Hextech Flashtraption's
+channel animation.
+V9.23
+- November 25th Hotfix
+Flay
+Increased the ability's indicator width to match the actual hitbox for gameplay clarity.
+V9.22
+Damnation
+New in-game quest with
+Senna
+.
+V9.17
+Dark Passage
+Bug Fix:
+Is now properly disabled when
+grounded
+.
+V9.12
+- June 13th Hotfix
+Dark Passage
+Bug Fix:
+After
+Dark Passage
+expires, the enemy team's
+Trundle
+no longer heals for an excessive amount of health.
+V9.4
+Death Sentence
+Mana cost increased to 70 from 60.
+Cooldown increased to 20 / 18 / 16 / 14 / 12 seconds from 16 / 15 / 14 / 13 / 12.
+V8.24
+Dark Star Thresh
+Death Sentence
+Bug Fix:
+No longer has classic particles when breaking the chain.
+V8.23
+General
+Bug Fix:
+Basic attack once again plays audio at max range.
+V8.19
+Death Sentence
+Mana cost reduced to 60 from 80.
+Cooldown reduced to 16 / 15 / 14 / 13 / 12 seconds from 20 / 18 / 16 / 14 / 12.
+V8.15
+Dark Passage
+Cooldown reduced to 22 / 19.
+5
+/ 17 / 14.
+5
+/ 12 seconds from 22 / 20.
+5
+/ 19 / 17.
+5
+/ 16.
+Flay
+Maximum AD ratio increased to
+100 / 125 / 150 / 175 / 200% AD
+from
+80 / 110 / 140 / 170 / 200% AD
+.
+V8.9
+Worlds 2013 Thresh
+The Box
+Bug Fix:
+VFX are no longer misplaced if the ability is cast while moving.
+V8.3
+Stats
+Base health regeneration increased to 7 from 6.
+924
+.
+V7.23
+Death Sentence
+Bug Fix:
+Chain once again disappears if he hits a spell shielded unit.
+Dark Star Thresh
+Bug Fix:
+Is no longer missing his VO when collecting souls.
+V7.22
+Stats
+Base attack damage increased to 56 from 47.
+696
+.
+Base armor increased to 28 from 16.
+V7.21
+Worlds 2013 Thresh
+Dark Passage
+Bug Fix:
+Now properly plays the lantern-landing SFX when using
+Dark Passage
+.
+V7.17
+Dark Star Thresh
+Bug Fix:
+Center body buffbone now follow his model during all animations.
+V7.15
+Flay
+Bug Fix:
+No longer leaves enemies stunned for a brief moment after displacing them.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.4
+Dark Passage
+Bug Fix:
+Jhin's
+fourth shot now correctly crits after he takes the lantern.
+V6.22
+Dark Passage
+Bug Fix:
+Having global cast range under specific circumstances (lantern does not spawn but Thresh gains sight of the target area)
+V6.21
+Death Sentence
+Bug Fix:
+Thresh dashing in a random direction when using
+Deathly Leap
+to cross a base gate.
+V6.17
+The Box
+Cooldown reduced to 140 / 120 / 100 seconds from 150 / 140 / 130.
+Dark Star Thresh
+Death Sentence
+Bug Fix:
+Thresh's corpse getting stuck in a T pose when he dies during cast animation.
+Dark Passage
+Lantern toss animation updated to avoid similarities with
+Scatter the Weak
+.
+V6.16
+Deep Terror Thresh
+Dark Passage
+Bug Fix:
+Missing glowing trail between Thresh and lantern when cast.
+Worlds 2013 Thresh
+Dark Passage
+Bug Fix:
+Missing glowing trail between Thresh and lantern when cast.
+V6.13
+Damnation
+New Effect:
+Epic monsters drop 2 souls.
+Dark Passage
+Removed:
+AP ratio.
+New Effect:
+Shield strength increases by 1 for each collected
+soul
+.
+Removed:
+Thresh walking into range when targeting beyond maximum cast range.
+New Effect:
+Casting beyond maximum range during
+Death Sentence
+makes the lantern land at maximum range in the target direction.
+New Effect:
+Lantern remains for a short duration if Thresh slightly exceeds maximum leash range by moving towards
+Death Sentence's
+tethered target.
+V6.12
+Howling Abyss
+Damnation
+Each collected soul counts as 2 from 1.
+V6.2
+Damnation
+New Effect:
+Rift Herald
+drops a soul.
+V6.1
+Damnation
+Bug Fix:
+Uncollected souls visually flying towards Thresh after their duration ends instead of vanishing.
+V5.16
+Stats
+Health growth increased to 93 from 89.
+V5.15
+Damnation
+New Effect:
+Rift Scuttler
+drops a soul.
+V5.13
+Damnation
+Bug Fix:
+Thresh collecting souls from extreme distances but not gaining any bonuses.
+Bug Fix:
+Rift Scuttler
+not dropping a soul.
+Dark Passage
+New Effect:
+Lantern waits for Thresh to land from
+Deathly Leap
+even if he exceeds maximum leash range.
+V4.14
+Flay
+Bug Fix:
+Sometimes not displacing enemies.
+V4.13
+Dark Passage
+Shield changed to only affect first ally to come near the lantern as well as Thresh.
+Flay
+Bug Fix:
+Slow duration display error in tooltip (1.
+5
+seconds instead of the intended 1)
+The Box
+Removed:
+Walls beyond the first damaging the same target.
+V4.11
+General
+Model hitbox size increased by
+15 units
+to match average size.
+V4.10
+Flay
+Bug Fix:
+Buff icon display error.
+V4.7
+Dominion
+Damnation
+Each collected soul counts as 2 from 4.
+V4.5
+Stats
+Base armor increased to 16 from 12.
+V4.4
+Dominion
+Damnation
+Each collected soul counts as 4 from 1.
+The Box
+Cooldown reduced to 120 / 110 / 100 seconds from 150 / 140 / 130.
+V4.4
+Damnation
+Soul duration reduced to 8 seconds from 14.
+V4.2
+Stats
+Attack range reduced to 450 from 475.
+V4.1
+Dark Passage
+New Effect:
+Lantern has indicator particles for nearby allies to indicate it can be clicked.
+New Effect:
+Lantern is considered terrain while active.
+The Box
+Cast time increased to 0.
+75
+seconds from 0.
+5
+.
+V3.13
+General
+Basic attack wind-up reduction reduced to 0.
+25
+% per
+1%
+bonus
+attack speed
+from 1 per 1.
+Stats
+Attack speed per level increased to 3% from 1%.
+V3.12
+Death Sentence
+Cooldown increased to 20 / 18 / 16 / 14 / 12 seconds from 18 / 16.
+5
+/ 15 / 13.
+5
+/ 12.
+New Effect:
+Cooldown is reduced by 3 seconds upon hitting an enemy.
+Flay
+Passive bonus damage charge start changed to after Thresh's basic attacks end.
+V3.10
+Stats
+Base health reduced to 441 from 452.
+Base armor reduced to 12 from 18.
+Damnation
+Bonus armor changed to 0.
+75
+per soul from 1 on first one and then diminishing returns per each collected after.
+Bonus ability power changed to 0.
+75
+per soul from 1 on first one and then diminishing returns per each collected after.
+V3.8
+Death Sentence
+Bug Fix:
+Thresh being able to use
+Flash
+while tethered to his target.
+V3.6
+Death Sentence
+Base damage increased to 80 / 120 / 160 / 200 / 240 from 80 / 110 / 140 / 170 / 200.
+Removed:
+Passive bonus magic damage on basic attacks.
+Flay
+New Effect:
+Thresh's basic attacks deal bonus magic damage, increased with time spent not attacking enemy units or neutral monsters.
+Base damage reduced to 65 / 95 / 125 / 155 / 185 from 65 / 105 / 145 / 185 / 225.
+Bug Fix:
+Passive bonus damage being consumed when Thresh attacks wards.
+Bug Fix:
+Active sometimes dealing more damage than intended.
+V1.0.0.154
+Added.
+Trivia
+[
+edit
+|
+edit source
+]
+Thresh
+is one of 15 champions that have an ability that infinitely stacks an effect:
+Aurelion Sol
+,
+Bard
+,
+Bel'Veth
+,
+Cho'Gath
+,
+Draven
+,
+Kindred
+,
+Nasus
+,
+Senna
+,
+Shyvana
+,
+Sion
+,
+Smolder
+,
+Swain
+,
+Sylas
+, and
+Veigar
+.
+In Thresh's case,
+Damnation
+infinitely stacks his
+ability power
+and
+armor
+.
+Thresh's name originated from the verb for harvesting (souls).
+[2]
+He may also be named after
+Dennis 'Thresh' Fong
+, who popularized WASD movement keys and is considered the first professional gamer.
+Thresh was the first
+champion
+to:
+Be released in
+2013
+.
+His base
+health
+at
+level
+18 was also 2013 on release.
+Cost
+7800
+on
+first week after release
+.
+Feature
+ranged
+non-projectile
+basic attacks
+.
+Feature an
+attack windup
+modifier (of 0.25).
+Feature a
+Respawn
+animation on the Classic skin.
+Thresh and
+Urgot
+used to be the only champions classified as
+ranged
+tanks
+before having their roles changes in 2013.
+Thresh has three different sets of basic attack animations depending on how far he is from the target he is hitting (melee, mid-range, full attack range).
+Thresh's dance references
+Poi
+dancing
+(he swings his
+scythe
+and
+lantern
+, or his scythe and the lantern's hook if he cast
+Dark Passage
+before dancing).
+A side-by-side comparison can be seen
+here
+.
+Dark Passage
+is the eldest ability that grants an allied displacement.
+Thresh's theme references
+Rain Rain Go Away
+and/or
+Ring a Ring o' Roses
+.
+Death Recap
+used to read
+"You have opened
+The Box
+. Your prize: death"
+.
+If
+Senna
+and Thresh are played on opposing teams, a
+quest
+will trigger. This in-game quest consists in one killing the other to earn the opposing champion's stack of souls.
+[3]
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Catcher
+Controllers
+are defensive casters that oversee the battlefield by protecting and opening up opportunities for their allies.
+Catchers
+specialize in locking down opponents or, in some cases, entire battlefields by creating intense zones of threat that only foolish enemies would dare wade through. Although not as reliant on their friends as Enchanters, the fragile Catchers greatly benefit from allied presence - both to deter incoming danger and to help capitalize on targets they've locked down.
+Examples
+Blitzcrank
+Morgana
+Zyra
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Dark Passage
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Active:
+Thresh
+throws his lantern to the target location that remains for a few seconds while he remains nearby. He and the first allied champion to come near the lantern are granted a
+shield
+for a few seconds, with the amount based on
+Souls
+.
+An ally can grab the lantern to
+dash
+to
+Thresh
+and gain the shield, but cannot do so while
+immobilized
+,
+grounded
+, or
+silenced
+.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Summoner's Rift
+The newest and most venerated battleground is known as Summoner's Rift. Traverse down one of three different paths in order to attack your enemy at their weakest point. Work with your allies to siege the enemy base and destroy their Nexus!
+Regular Modes
+Classic 5v5
+Custom
+Featured Game Modes
+Black Market Brawlers
+Doom Bots
+Hexakill
+Hunt of the Blood Moon
+Nemesis Draft
+Nexus Siege
+One For All
+One For All: Mirror Mode
+Ultra Rapid Fire
+League of Legends content
+Howling Abyss
+The Howling Abyss is a bottomless crevasse located in the coldest, cruelest, part of the
+Freljord
+. Legends say that, long ago, a great battle took place here on the narrow bridge spanning this chasm. No one remembers who fought here, or why, but it is said that if you listen carefully to the wind you can still hear the cries of the vanquished tossed howling into the Abyss.
+Regular Modes
+Classic 5v5
+(
+All random
+)
+Custom
+Featured Game Modes
+Legend of the Poro King
+One For All
+One For All: Mirror Mode
+Snowdown Showdown
+League of Legends content
+Nexus Blitz
+An explosive game mode known as Nexus Blitz. Traverse down one of two different paths in order to attack your enemy at their weakest point. Work with your allies to siege the enemy base and destroy their Nexus!
+Regular Modes
+Classic 5v5
+Custom
+Maps
+Temple of Lily and Lotus
+League of Legends content
+Ultra Rapid Fire (U.R.F.)
+Ultra Rapid Fire
+is a
+Featured Game Mode
+that takes place on
+Summoner's Rift
+with the same objective as
+Classic 5v5
+, except all
+champions
+benefit from the
+Awesome Buff of Awesomely Awesome Buffing
+that grants excessive  ability haste and removes ability costs. The gameplay is
+explosive
+. The game mode can be played as
+All Random
+or
+Blind pick
+depending on the year.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+True sight
+True Sight
+reveals units through
+fog of war
+,
+brush
+, and
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Lockout
+A champion that is
+locked out
+is unable to perform certain actions such as casting abilities, moving, or attacking. The prevented actions can vary per instance.
+Lockout does not interact with
+crowd control
+mechanics unless otherwise stated.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Flay
+COOLDOWN:
+13 / 12.
+25
+/ 11.
+5
+/ 10.
+75
+/ 10
+Passive:
+Thresh's
+basic attacks deal
+bonus
+magic damage
+based on
+Souls
+, which increases over a period without basic attacking enemies.
+Active:
+Thresh
+sweeps his chain in a broad area, dealing
+magic damage
+to enemies hit and
+knocking
+them in the target direction, after which they are briefly
+slowed
+.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Ground
+A unit that is
+grounded
+is unable to activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Grounded
+units can still be displaced.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Ground
+is the only type of
+crowd control
+that is most commonly found in persistent area of effects, which will reapply the status effect continuously.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Root
+A unit that is
+rooted
+is unable to control its movement or activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Rooted
+units can still be displaced.
+Root
+is an
+immobilizing
+effect
+.
+Moving
+includes movement commands.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Thresh's profile page
+at
+LeagueOfLegends.com
+↑
+IronStylus on champion names
+↑
+August on Senna Quest

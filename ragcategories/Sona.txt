@@ -1,0 +1,2619 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Sona
+Maven of the Strings
+Release date
+2010-09-21
+Last changed
+V14.7
+Class(es)
+Enchanter
+Legacy
+Support
+Mage
+Position(s)
+Support
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+450
+|
+260
+Crafting
++
+270
+Ratings
+Damage
+2
+Toughness
+1
+Control
+2
+Mobility
+1
+Utility
+2
+Style
+Difficulty
+Sona
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Sona
+Base statistics
+Edit
+Health
+550
++91
+Mana
+340
++45
+Health regen. (per 5s)
+5.5
++0.55
+Mana regen. (per 5s)
+11.5
++0.4
+Armor
+26
++4.2
+Attack damage
+49
++3
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+325
+Attack range
+550
+Attack speed
+Base AS
+0.644
+Attack windup
+17.182%
+AS ratio
+N/A
+Bonus AS
++2.3
+%
+Missile speed
+1500
+Unit radius
+Gameplay radius
+65
+Selection radius
+110
+Pathing radius
+35
+Acq. radius
+800
+Special statistics
+Damage Dealt
++0%
+Damage Received
++10%
+Healing
+-15%
+Shielding
+-15%
+Ability Haste
+-20
+Damage Dealt
+-5%
+Damage Received
++0%
+Healing
+-10%
+Shielding
+-10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-10%
+Damage Received
++0%
+Healing
+-30%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Power Chord
+Innate - Accelerando:
+Sona
+gains a permanent stack of
+Accelerando
+each time she hits an enemy champion with
+Hymn of Valor
+and each time she mitigates sufficient damage or heals damaged allies with
+Aria of Perseverance
+. If she has max stacks, she instead
+reduces
+the cooldown of
+Crescendo
+each time.
+Innate - Melody:
+Sona's
+basic abilities incur a
+brief
+cooldown on her other basic abilities, and cause her to generate a unique
+aura
+for a short time that empowers herself and nearby allied champions.
+Innate - Power Chord:
+Sona's
+basic abilities generate permanent stacks of
+Power Chord
+. At 3 stacks, her next basic attack consumes them all to become empowered with bonus magic damage and apply an additional effect based on the last basic ability cast.
+Accelerando:
+For each stack,
+Sona
+gains
+basic ability haste
+.
+Innate - Accelerando:
+Sona
+generates a
+stack
+of
+Accelerando
+each time she hits an enemy
+champion
+with
+Hymn of Valor
+and each time she mitigates sufficient damage or heals damaged allies with
+Aria of Perseverance
+, stacking up to 120 times. At maximum stacks, she instead reduces the
+current
+cooldown
+of
+Crescendo
+by 1.
+5
+seconds each time.
+Accelerando:
+For each stack,
+Sona
+gains
+0.
+5
+basic ability haste
+, up to 60 at maximum stacks.
+Innate - Melody:
+Whenever
+Sona
+casts a
+basic ability
+, her other basic abilities incur a
+0.
+5
+-second
+global cooldown and she generates a unique
+aura
+for 3 seconds that empowers herself and nearby allied champions.
+Innate - Power Chord:
+Sona's
+basic abilities generate a stack of
+Power Chord
+, stacking up to 3 times. At 3 stacks, her next
+basic attack
+is empowered to consume them all to have an
+uncancellable windup
+, deal
+20 − 240 (based on level)
+(+ 20% AP)
+bonus
+magic damage
+, and apply an additional effect based on the last basic ability she cast:
+Hymn of Valor
+-
+Staccato:
+Deals
+30 − 360 (based on level)
+(+ 30% AP)
+modified
+magic damage
+.
+Aria of Perseverance
+-
+Diminuendo:
+Reduces the target's
+size
+by 8% and damage dealt by 25%
+(+ 4% per 100 AP)
+for 3 seconds.
+Song of Celerity
+-
+Tempo:
+Slows
+the target by 50%
+(+ 4% per 100 AP)
+for 2 seconds, capped at a maximum of 99%.
+Gaining Power Chord's empowered attack
+resets
+Sona's
+basic attack timer.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Parries
+Blocked
+Power Chord
+stacks are represented by a counter under
+Sona's
+health bar
+, visible to the player only. It will light up when the empowered effect is available.
+When
+Power Chord
+is ready,
+Sona
+gains a ring around her. This ring will have a different color depending on the last ability used (
+blue
+,
+green
+or
+purple
+).
+The effect does not change if abilities are used while the projectile is in motion.
+The triggering attack will apply other
+on-hit effects
+and can
+critically strike
+as normal.
+Sona
+retains
+Power Chord's
+stacks when entering
+resurrection
+.
+The empowered attack will trigger but not be consumed nor apply its effects against
+wards
+.
+Map-Specific Differences
+Ultra Rapid Fire
+differences
+edit
+Global cooldown set to 0.
+5
+seconds.
+Arena
+differences
+edit
+New Effect:
+Gains 12.
+5
+Accelerando
+stacks per round.
+Edit
+Hymn of Valor
+COST:
+50 / 55 / 60 / 65 / 70 mana
+COOLDOWN:
+8
+CAST TIME:
+none
+EFFECT RADIUS:
+825
+/
+400
+SPEED:
+1300
+Active:
+Sona
+projects sound bolts to the two nearest enemies that each deal
+magic damage
+, and she gains a stack of
+Accelerando
+for each bolt that damages an enemy
+champion
+.
+Melody
+Bonus:
+Sona
+and tagged allied champions deal
+bonus
+magic damage
+on their next basic attack within a few seconds.
+Power Chord
+– Staccato:
+Power Chord
+deals
+increased
+magic damage
+.
+Active:
+Sona
+sends out bolts of sound to the two nearest
+visible
+enemies, prioritizing champions. Each bolt deals
+magic damage
+and grants
+sight
+of the area around the target for 1 second.
+Sona
+gains a stack of
+Accelerando
+for each bolt that hits an enemy
+champion
+.
+Magic Damage:
+50 / 80 / 110 / 140 / 170
+(+ 40% AP)
+Melody
+Bonus:
+Sona
+and tagged allied champions deal
+bonus
+magic damage
+on their next basic attack within 5 seconds.
+Bonus Magic Damage:
+10 / 15 / 20 / 25 / 30
+(+ 10% of
+Sona's
+AP)
+Info
+Targeting input
+Auto
+Target out-of-range override
+Invalid target override
+The ability will cast with no valid targets.
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Sight of the targets' area is granted on-cast.
+The
+Melody
+empowerment given to tagged allies respects
+enchantment redirection
+.
+The empowered attack will trigger but not be consumed against
+wards
+.
+Edit
+Aria of Perseverance
+COST:
+80 / 85 / 90 / 95 / 100 mana
+COOLDOWN:
+10
+CAST TIME:
+none
+EFFECT RADIUS:
+1000
+/
+400
+SPEED:
+1300
+Active:
+Sona
+heals
+herself and projects a sound bolt that heals the most wounded allied champion nearby.
+Melody
+Bonus:
+Sona
+and tagged allied champions receive a brief
+shield
+.
+Sona
+gains a stack of
+Accelerando
+whenever she
+heals
+an ally or
+shields
+a minimum amount of damage for an ally with
+Aria of Perseverance
+.
+Power Chord
+– Diminuendo:
+Power Chord
+reduces the target's
+size
+and damage output for a short time.
+Active:
+Sona
+heals
+herself and sends out a tone to heal the
+most wounded
+allied champion nearby.
+Heal:
+30 / 45 / 60 / 75 / 90
+(+ 30% AP)
+Melody
+Bonus:
+Sona
+and tagged allied champions are granted a
+shield
+for 1.
+5
+seconds.
+Shield Strength:
+25 / 45 / 65 / 85 / 105
+(+ 25% of
+Sona's
+AP)
+Sona
+gains a stack of
+Accelerando
+whenever she
+heals
+a wounded ally or
+shields
+a minimum amount of damage for an ally with
+Aria of Perseverance
+.
+Minimum Damage Mitigated:
+25 / 45 / 65 / 85 / 105
+Info
+Targeting input
+Auto
+Target out-of-range override
+Invalid target override
+The ability will cast with no valid targets.
+Damage type
+Type
+If no one is injured,
+Aria of Perseverance
+will target the closest allied champion.
+The projectile of
+Aria of Perseverance
+will follow an ally in stealth but will not reveal them.
+Edit
+Song of Celerity
+COST:
+65 mana
+COOLDOWN:
+14
+CAST TIME:
+none
+EFFECT RADIUS:
+400
+Active:
+Sona
+gains
+bonus
+movement speed
+for a short time, which is extended to a few seconds if she does not take damage during this time.
+Melody
+Bonus:
+Tagged allied champions gain
+bonus
+movement speed
+for a short time.
+Power Chord
+– Tempo:
+Power Chord
+slows
+the target for a short time.
+Active:
+Sona
+gains
+20%
+(+ 2% per 100 AP)
+bonus
+movement speed
+for 7 seconds. If she takes damage during this time, the duration ends prematurely once or if 3 seconds have elapsed.
+Melody
+Bonus:
+Tagged allied champions gain
+bonus
+movement speed
+for 3 seconds.
+Bonus Movement Speed:
+10 / 12 / 14 / 16 / 18%
+(+ 2% per 100 of
+Sona's
+AP)
+Info
+Targeting input
+Auto
+Target out-of-range override
+To achieve a 99%
+slow
+with the empowered attack via
+Power Chord
+, it would require at least
+1475 AP
+.
+Edit
+Crescendo
+COST:
+100 mana
+COOLDOWN:
+140 / 120 / 100
+CAST TIME:
+0.
+25
+RANGE:
+1000
+WIDTH:
+280
+SPEED:
+2400
+Active:
+Sona
+strikes an irresistible chord in the target direction that deals
+magic damage
+to enemies hit and briefly
+stuns
+them.
+Active:
+Sona
+strikes an irresistible chord in the target direction that deals
+magic damage
+to enemies hit and
+stuns
+them for 1.
+5
+seconds.
+Magic Damage:
+150 / 250 / 350
+(+ 50% AP)
+"Crescendo!"
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+This ability will cast from wherever the caster is at the start of the cast time.
+While stunned by
+Crescendo
+, enemies will perform their Dance emote.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Sona (Collection)
+.
+Original
+View in 3D
+790
+21.09.2010
+Sona is Demacia’s foremost virtuoso of the stringed etwahl, speaking only through her graceful chords and vibrant arias. This genteel manner has endeared her to the highborn, though others suspect her spellbinding melodies to actually emanate magic—a Demacian taboo. Silent to outsiders but somehow understood by close companions, Sona plucks her harmonies not only to soothe injured allies, but also to strike down unsuspecting enemies.
+Erin Fitzgerald
+Shilin Huang
+Loot eligible
+Muse
+View in 3D
+975
+21.09.2010
+Sona is a goddess of inspiration, compelling her worshippers to create profound works of art for all the world to see. Forgotten with the march of time, she has recently enjoyed a resurgence of followers in the form of coffee-addled waiters working on their 'next big screenplay idea.'
+Erin Fitzgerald
+Unknown artist
+Fables
+Loot eligible
+Legacy
+New SFX/VFX
+Pentakill
+View in 3D
+975
+21.09.2010
+Never tell Sona of PENTAKILL that keyboards aren't metal. Her instrument is filled with living barbed wire and a sonic scream loud enough to bring other, lesser musical genres crashing to their knees.
+Erin Fitzgerald
+Pan Chengwei
+Pentakill
+Loot eligible
+New SFX/VFX
+Silent Night
+View in 3D
+520
+14.12.2010
+Drifting through the streets as she plays, Sona's beautiful melodies bring out the wonder of fresh snowfalls, quiet evenings by the fire, and time spent with family and friends. She can also weaponize these songs, raining destruction upon those who would spoil the holidays.
+Erin Fitzgerald
+Unknown artist
+Snowdown Showdown
+Loot eligible
+Legacy
+Additional/unique quotes
+New SFX/VFX
+Guqin
+View in 3D
+975
+10.01.2012
+Erin Fitzgerald
+Unknown artist
+Lunar Revel
+Loot eligible
+Additional/unique quotes
+New SFX/VFX
+Chromas
+Guqin Sona Chromas
+Golden
+Meteorite
+Arcade
+View in 3D
+1350
+31.08.2012
+Being forcefully transported from the real world to fight an army of evil video game bosses is no sweat for Sona. She was the first person to beat Keyboard Solo 4's ultra solo mode on nightmare difficulty—a feat that, by the developers' own admission, should not have been possible.
+Erin Fitzgerald
+Katie 'TeaTime' De Sousa
+Arcade: Heroes
+Loot eligible
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+Chromas
+Arcade Sona Chromas
+K.O.
+DJ
+View in 3D
+3250
+25.02.2015
+Erin Fitzgerald
+Michelle Hoefener
+DJ
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Transforming
+Includes Extras
+Chromas
+DJ Sona forms
+Concussive
+Ethereal
+Sweetheart
+View in 3D
+975
+11.02.2016
+Sona's quiet elegance and mastery of enchanted music might make the heart go all aflutter, but don't be fooled—she can still cut a man in half at thirty paces with her harp's soundwaves. That's the duality of love: sometimes you win, sometimes you get cut in half by soundwaves.
+Erin Fitzgerald
+Yan Li
+Heartbreakers
+Loot eligible
+Legacy
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+Odyssey
+View in 3D
+1350
+12.09.2018
+Once member of the Templar Order, Sona was born with the ability to commune directly with ora, and the creatures from which it is harvested. More recently, she has sought out Yasuo, troubled captain of the Morning Star, and joined his ragtag crew—hoping to avert a disaster that could destroy the entire galaxy.
+Erin Fitzgerald
+Kelly Aleshire
+Odyssey
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Odyssey Sona Chromas
+Aquamarine
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+PsyOps
+View in 3D
+1820
+03.09.2020
+An immensely powerful psychic, Sona has spent the past several years locked in darkness, subjected to harrowing experiments to further the Black Rose Group's aims of manufacturing the perfect human bioweapon. Freeing herself during the assault on the BRG's research facility, she discovers her power has grown to near-omnipotence, making her less a human than a psychic god.
+Erin Fitzgerald
+Esben Lash Rasmussen
+PsyOps
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Transforming
+Chromas
+PsyOps Sona Chromas
+Amethyst
+Citrine
+Emerald
+Hunter
+Obsidian
+Ruby
+Sapphire
+Turquoise
+Pentakill Lost Chapter
+View in 3D
+1350
+09.09.2021
+All hail, Sona, the Silent Virtuoso! An artist's soul can change the world, and with the harmonious power of creation at her fingertips, she will prove that what is made can yet be unmade.
+Erin Fitzgerald
+David Villegas, West Studio
+Pentakill III: The Lost Chapter
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Pentakill III: Lost Chapter Sona Chromas
+Aquamarine
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Star Guardian
+View in 3D
+1350
+14.07.2022
+Quiet and reflective, Sona spends her time away from the Guardians as a composer of music... and her time with them as a fighter of incredible power, blasting enemies away with sonically charged starlight. Though she cannot speak, she always makes her voice heard through deeds... or her chatterbox familiar-slash-interpreter, Chiizu.
+Erin Fitzgerald
+Zhong Yang, West Studio
+Star Guardian Season 4
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Star Guardian Sona Chromas
+Amethyst
+Aquamarine
+Brilliant
+Catseye
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Immortal Journey
+View in 3D
+1350
+16.08.2023
+As a newly immortal member of the Radiant Passion School, Sona's power is in building harmony from dissonance. To her, immortality only comes through finding your shared harmony with your fellow people, and she sees her students as strong notes to be built into immortal chords. It is in this shared passion that makes anything possible.
+Erin Fitzgerald
+Ina Wong, West Studio
+Immortal Journey
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Immortal Journey Sona Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Prestige Immortal Journey
+View in 3D
+Special
+16.08.2023
+A virtuoso artist radiating passion in whatever she does, Sona paused her promising music career to enroll in fashion school. Now a graduate, the Gala is the first showing of her debut line, and Sona is more than happy to let her work do the talking. Unlike her classmates, she has no dreams of becoming immortal through her designs. The journey is enough.
+Erin Fitzgerald
+Francis Tneh, West Studio
+Immortal Journey
+Loot ineligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Immortal Journey
+. Store variants are discounted for multiple purchases.
+Victorious
+View in 3D
+Special
+10.10.2024
+Victorious Sona was earned by players who accumulated enough split points in Ranked. Luring the unsuspecting into a false sense of ease with her melodies, Sona is as quick to pluck her allies from the brink of death as she is to send her foes to their grand finale.
+Erin Fitzgerald
+Santiago Parra, Pandart Studio
+Victorious
+Loot ineligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Victorious Sona Chromas
+Bronze
+Challenger
+Diamond
+Emerald
+Gold
+Grandmaster
+Master
+Platinum
+Silver
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.7
+Power Chord
+Staccato
+damage modifier increased to 150% from 140%.
+Staccato
+base damage increased to
+30 − 360 (based on level)
+from
+28 − 336 (based on level)
+.
+Stacatto
+AP ratio increased to
+30% AP
+from
+28% AP
+.
+Hymn of Valor
+On-hit AP ratio reduced to
+10% AP
+from
+20% AP
+.
+Aria of Perseverance
+Heal AP ratio increased to
+30% AP
+from
+15% AP
+.
+Song of Celerity
+Ally bonus movement speed increased to 10 / 12 / 14 / 16 / 18% from 10 / 11 / 12 / 13 / 14%.
+V13.21
+Hymn of Valor
+Damage now triggers
+Sona's
+own damage effects but still grants kill credit to the ally applying it.
+V13.17
+PsyOps Sona
+Power Chord
+Bug Fix:
+VFX overlay for when her passive was ready no longer behaves unintentionally.
+Prestige Immortal Journey Sona
+Bug Fix:
+HUD now uses the correct splash art for her icon instead of using the base
+Immortal Journey Sona
+.
+V13.16
+Star Guardian Sona
+Bug Fix:
+Death animation no longer causes the feet on her character model to bend backwards.
+V13.14
+Aria of Perseverance
+Bug Fix:
+Cast no longer grants a stack of
+Accelerando
+while having
+Moonstone Renewer
+.
+V13.13
+Aria of Perseverance
+Bug Fix:
+Casting the ability no longer causes
+Moonstone Renewer's
+chain shield to last for 25000 seconds.
+V13.8
+Power Chord
+Bug Fix:
+Passive effect is no longer duplicated if specific cast inputs were made at the same time.
+V12.19
+Hymn of Valor
+Base damage increased to 50 / 80 / 110 / 140 / 170 from 40 / 70 / 100 / 130 / 160.
+Song of Celerity
+Base slow increased to 50% from 40%.
+V12.12
+Power Chord
+Bug Fix:
+Can no longer gain an additional empowered basic attack by casting an ability immediately after another empowered basic attack.
+V12.11
+Aria of Perseverance
+Minimum damage blocked reduced to 25 / 45 / 65 / 85 / 105 from 25 / 50 / 75 / 100 / 125.
+V12.10
+Stats
+Base health increased to 550 from 480.
+Health growth increased to 91 from 77.
+Armor growth increased to 4.
+2
+from 3.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Aria of Perseverance
+Base heal reduced to 30 / 45 / 60 / 75 / 90 from 30 / 50 / 70 / 90 / 110.
+Heal AP ratio reduced to
+15% AP
+from
+20% AP
+.
+Base shield reduced to 25 / 45 / 65 / 85 / 105 from 25 / 50 / 75 / 100 / 125.
+Shield AP ratio reduced to
+25% AP
+from
+30% AP
+.
+V12.8
+Power Chord
+Bug Fix:
+Can no longer reset the user's basic attack timer against wards by casting an ability while at maximum stacks.
+V12.5
+Power Chord
+Bug Fix:
+Empowered basic attack is now properly consumed and applied when used against allied units while
+Berserked
+.
+V12.2
+General
+Updated visual effects.
+Original Sona
+Complete overhaul.
+Muse Sona
+Minor details added to new base.
+Pentakill Sona
+Same as new base
+Silent Night Sona
+Recolored from new base.
+Guqin Sona
+Minor details added to new base.
+Arcade Sona
+Complete overhaul.
+DJ Sona
+Complete overhaul and additional special celebration effects for each passive aura.
+Bug Fix:
+In-game music mute toggle buttons has been fixed and will display correctly next to the champion icon in the scoreboard every game.
+Sweetheart Sona
+Same as new base, plus some cleanup.
+Odyssey Sona
+Minimal tweaks.
+Pentakill III: Lost Chapter Sona
+Minimal tweaks.
+V12.1
+Stats
+Armor growth reduced to 3 from 3.
+3
+.
+Song of Celerity
+Cooldown increased to 14 seconds from 12.
+V11.19
+Stats
+Base armor reduced to 26 from 28.
+Power Chord
+Base damage reduced to
+20 − 240 (based on level)
+from
+20 − 245 (based on level)
+.
+Hymn of Valor
+Removed:
+Bolts no longer target enemies that are not in vision.
+Song of Celerity
+Bug Fix:
+Power Chord's
+empowered attack slow is now properly considered a slow debuff; no longer bypasses effects that affect slows.
+V11.18
+Hymn of Valor
+Bug Fix:
+Fixed a bug where buffing an ally with the Melody aura did not grant her a Mana Charge stack on
+Tear of the Goddess
+.
+Bug Fix:
+Fixed a bug where it would incorrectly grant a stack of Accelerando even if negated by a spell shield.
+V11.16
+- Gameplay Update
+Power Chord
+New Innate - Accelerando:
+Sona
+gains stacks of
+Accelerando
+from using
+Hymn of Valor
+and
+Aria of Perseverance
+. She gains 0.
+5
+basic ability haste per stack of
+Accelerando
+, up to 60 basic ability haste at 120 stacks. At maximum stacks, each stack gained thereafter reduces
+Crescendo's
+current cooldown by 1.
+5
+seconds per stack.
+Base damage increased to
+20 − 245 (based on level)
+from
+20 − 240 (based on level)
+.
+Hymn of Valor
+bonus damage unchanged.
+New Effect:
+Now retains stacks even after entering
+resurrection
+.
+Hymn of Valor
+New Effect:
+Gain a stack of
+Accelerando
+for each bolt that damages a champion.
+New Effect/Undocumented:
+Now grants vision of targets for 1 second as soon as it is cast.
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 75 / 80 / 85 / 90 / 95.
+Undocumented:
+No longer requires
+vision
+of enemies in range to automatically fire bolts at them.
+Removed:
+Granting an ally (other than herself) the aura no longer refunds 30 mana per cast.
+Aria of Perseverance
+New Effect:
+Gain a stack of
+Accelerando
+whenever you heal a wounded ally or shield an ally from at least 25 / 50 / 75 / 100 / 125 damage with this ability.
+Mana cost reduced to 80 / 85 / 90 / 95 / 100 from 105 / 110 / 115 / 120 / 125.
+Removed:
+Granting an ally (other than herself) the aura no longer refunds 30 mana per cast.
+Song of Celerity
+Mana cost reduced to 65 from 90.
+Removed:
+Granting an ally (other than herself) the aura no longer refunds 30 mana per cast.
+Crescendo
+Removed:
+No longer passively reduces her basic ability cooldowns by 10 / 25 / 40%.
+New Effect:
+Now affects every enemy unit, instead of only enemy champions.
+V10.23
+Song of Celerity
+Bug Fix:
+Tooltip now states the proper amount of bonus movement speed allies will receive.
+V10.21
+PsyOps Sona
+Crescendo
+Bug Fix:
+Now correctly plays her transformation animation even when moving while leveling up
+Crescendo
+.
+V10.18
+General
+Updated voice over.
+V10.17
+Stats
+Base health reduced to 480 from 482.
+36
+.
+Base mana reduced to 340 from 340.
+6
+.
+Hymn of Valor
+Active AP ratio reduced to
+40% AP
+from
+50% AP
+.
+Aria of Perseverance
+Heal AP ratio reduced to
+20% AP
+from
+25% AP
+.
+Song of Celerity
+Self bonus movement speed AP ratio reduced to
+2% per 100 AP
+from
+3% per 100 AP
+.
+Ally bonus movement speed AP ratio reduced to
+2% per 100 AP
+from
+3% per 100 AP
+.
+V10.6
+General
+Recommended items updated.
+V10.5
+Stats
+Base attack damage increased to 49 from 45.
+Attack damage growth increased to 3 from 2.
+Song of Celerity
+Self bonus movement speed increased to 20% at all ranks from 10 / 11 / 12 / 13 / 14%.
+DJ Sona
+Bug Fix:
+Quickly changing forms no longer locks her with Ethereal form's helm.
+V10.4
+- February 21st Hotfix
+Stats
+Base attack damage reduced to 45 from 49.
+Attack damage growth reduced to 2 from 3.
+Song of Celerity
+Self bonus movement speed reduced to 10 / 11 / 12 / 13 / 14% from 20% at all ranks.
+V10.4
+Hymn of Valor
+New Effect:
+Granting an ally (other than herself) the aura refunds 30 mana per cast.
+Mana cost increased to 75 / 80 / 85 / 90 / 95 from 50 / 55 / 60 / 65 / 70.
+Aria of Perseverance
+New Effect:
+Granting an ally (other than herself) the aura refunds 30 mana per cast.
+Mana cost increased to 105 / 110 / 115 / 120 / 125 from 80 / 85 / 90 / 95 / 100.
+Song of Celerity
+New Effect:
+Granting an ally (other than herself) the aura refunds 30 mana per cast.
+Mana cost increased to 90 from 65.
+V10.3
+Song of Celerity
+Self base bonus movement speed reduced to 20% from 25%.
+Self bonus movement speed AP ratio reduced to
+3% per 100 AP
+from
+4% per 100 AP
+.
+V10.2
+Song of Celerity
+Self base bonus movement speed increased to 25% at all ranks from 10 / 11 / 12 / 13 / 14%.
+Self bonus movement speed AP ratio increased to
+4% per 100 AP
+from
+3% per 100 AP
+.
+V9.21
+Power Chord
+New Effect:
+When
+Power Chord
+is ready, her resource bar now changes color based on her current active aura.
+Bug Fix:
+Her abilities no longer fail to generate
+Power Chord
+stacks immediately after an empowered attack.
+V9.20
+Power Chord
+New Effect:
+Added a resource bar so that it's easier for
+Sona
+to track her own passive (only visible to her).
+V9.13
+Hymn of Valor
+Aura damage AP ratio reduced to
+20% AP
+from
+30% AP
+.
+Song of Celerity
+AP ratio reduced to
+3% per 100 AP
+from
+6% per 100 AP
+.
+V9.12
+General
+Adjusted splash artwork for
+Pentakill Sona
+.
+V8.9
+Stats
+Base attack damage increased to 49 from 46.
+Power Chord
+Base damage increased to
+20 − 240 (based on level)
+from
+15 − 235 (based on level)
+.
+V8.7
+DJ Sona
+Bug Fix:
+Concussive form VO lines are no longer cut off when played.
+V8.3
+Stats
+Base health regeneration increased to 5.
+5
+from 5.
+424
+.
+V8.2
+Hymn of Valor
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 60 / 65 / 70 / 75 / 80.
+V7.24
+Hymn of Valor
+Mana cost increased to 60 / 65 / 70 / 75 / 80 from 45 / 50 / 55 / 60 / 65.
+Base on-hit magic damage reduced to 10 / 15 / 20 / 25 / 30 from 20 / 30 / 40 / 50 / 60.
+On-hit magic damage AP ratio increased to
+30% AP
+from
+20% AP
+.
+V7.23
+Aria of Perseverance
+Bug Fix:
+Fixed a bug where multiple instances of the same shielding effect were stacking, rather than refreshing.
+This bug mostly occurred at high levels of CDR.
+V7.22 November 12th Hotfix
+Stats
+Base armor reduced to 28 from 30.
+Base attack damage reduced to 46 from 50.
+04
+.
+Aria of Perseverance
+Base heal reduced to 30 / 50 / 70 / 90 / 110 from 35 / 55 / 75 / 95 / 115.
+Base shield strength reduced to 25 / 50 / 75 / 100 / 125 from 30 / 55 / 80 / 105 / 130.
+V7.22
+Stats
+Base armor increased to 30 from 20.
+544
+.
+V7.16
+General
+Texture update to
+Pentakill Sona
+.
+V7.12
+DJ Sona
+Bug Fix:
+The tail end of her recall SFX now play consistently.
+V7.9
+May 4th Hotfix
+General
+New Effect:
+Attack animations have received non-gameplay impacting adjustments.
+Power Chord
+New Effect:
+Sona
+now uses crit animation while under the effect of
+Power Chord
+.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.5
+DJ Sona
+Bug Fix:
+No longer stops moving after switching tracks.
+V7.3
+Arcade Sona
+Aria of Perseverance
+Bug Fix:
+Shield particles now correctly disappear when the shield is broken.
+V7.2
+General
+Bug Fix:
+Fixed a spectator bug where after skipping forward or backward,
+Ethereal DJ Sona
+would sometimes leave disembodied chunks of her gear on the map.
+V6.18
+General
+Adjusted splash artwork for
+Pentakill Sona
+.
+V6.16
+General
+Bug Fix:
+Arcade
+and
+DJ Sona
+aura VFX have been increased in size to match her recent gameplay changes.
+Song of Celerity
+Self movement speed reduced to 10 / 11 / 12 / 13 / 14% from 13 / 14 / 15 / 16 / 17%.
+Aura movement speed AP ratio reduced to
+6% per 100 AP
+from
+8% per 100 AP
+.
+Crescendo
+Basic ability cooldown reduction reduced to 10 / 25 / 40% from 20 / 30 / 40%.
+V6.15
+Aria of Perseverance
+Bug Fix:
+Fixed a bug where
+Aria of Perseverance
+could be cast instantly after
+Song of Celerity
+, rather than being gated behind
+Sona's
+brief "global cooldown" after casting a basic ability.
+V6.14
+July 20th Hotfix
+Aria of Perseverance
+Heal reduced to 35 / 55 / 75 / 95 / 115 from 40 / 65 / 90 / 115 / 140.
+Song of Celerity
+Bonus movement speed reduced to 13 / 14 / 15 / 16 / 17% from 16 / 17 / 18 / 19 / 20%.
+V6.14
+General
+Aura radius increased to 400 from 350.
+Aura duration no longer extends for up to 2 seconds when affecting allies.
+Power Chord
+Base damage increased to
+15 − 235 (based on level)
+from
+13 − 192 (based on level)
+.
+Hymn of Valor
+Base damage reduced to 40 / 70 / 100 / 130 / 160 from 40 / 80 / 120 / 160 / 200.
+Aria of Perseverance
+Base heal increased to 40 / 65 / 90 / 115 / 140 from 30 / 50 / 70 / 90 / 110.
+Heal AP ratio increased to
+25% AP
+from
+20% AP
+.
+Base shield health increased to 30 / 55 / 80 / 105 / 130 from 35 / 55 / 75 / 95 / 115.
+Shield AP ratio increased to
+30% AP
+from
+20% AP
+.
+Removed:
+Increased healing based on
+missing health
+.
+Diminuendo
+Target now deals 25% less damage for 3 seconds, up from 20%.
+AP scaling increased to
+4% AP per 100 AP
+from
+2% AP per 100 AP
+.
+New Effect:
+Now shrinks targets for duration of debuff.
+Song of Celerity
+Active self movement speed increased to 16 / 17 / 18 / 19 / 20% movement speed for 3 seconds (and up to 7 seconds if
+Sona
+is out of combat) from 13 / 14 / 15 / 16 / 17% decaying over 3 seconds.
+Aura movement speed AP ratio increased to
+6% per 100 AP
+from
+4% per 100 AP
+.
+Aura movement speed duration increased to 3 seconds from 1.
+5
+.
+Crescendo
+Removed:
+Increases potency of basic abilities.
+New Effect:
+Grants 20 / 30 / 40%
+base
+cooldown reduction on basic abilities.
+Stacks multiplicatively with cooldown reduction.
+V6.8
+General
+Splash artwork for
+Muse Sona
+updated to the Chinese art.
+V5.22
+Stats
+Mana regen increased to 11.
+5
+from 9.
+V5.5
+Power Chord
+Removed:
+Being consumed on hitting
+Scrying Orb
+,
+Farsight Orb
+, or
+Sentinel
+.
+Crescendo
+Mana cost reduced to 100 at all ranks from 100 / 150 / 200.
+V5.1
+Stats
+Movement speed reduced to 325 from 330.
+Power Chord
+Staccato
+damage reduced to 40% from 50.
+V4.21
+Hymn of Valor
+Bug Fix:
+First cast causing game lag.
+V4.20
+Hymn of Valor
+On-hit damage AP ratio reduced to 20% from 25%.
+Aria of Perseverance
+Heal increased to 30 / 50 / 70 / 90 / 110 from 25 / 45 / 65 / 85 / 105.
+Modifier reduced to
+0.
+5
+% of ally's missing health
+from 1.
+Mana cost increased to 80 / 85 / 90 / 95 / 100 from 70 / 75 / 80 / 85 / 90.
+V4.17
+Hymn of Valor
+Fixed a bug where the damage range was 700 instead of the intended 850.
+V4.13
+Visual and Gameplay update.
+Texture update to all skins.
+All auras' radius reduced to 350 from 1000.
+Aura duration changed to 3 seconds from indefinite.
+New Effect:
+Aura duration increased by 0.
+5
+seconds each time Sona tags an ally.
+Stats
+Base armor increased to 15 from 12.
+Base health reduced to 353 from 380.
+Health per level increased to 77 from 70.
+Power Chord
+Staccato
+damage reduced to 50% from 100.
+Hymn of Valor
+Base damage reduced to 40 / 80 / 120 / 160 / 200 from 50 / 100 / 150 / 200 / 250.
+Revised Aura:
+Sona and allies touched by the aura will deal 20 / 30 / 40 / 50 / 60
+(+ 25% AP)
+bonus magic damage on their next autoattack within the next 5 seconds.
+Cooldown increased to 8 seconds from 7.
+Aria of Perseverance
+Heal changed to 25 / 45 / 65 / 85 / 105
+(+ 20% AP)
+from 40 / 55 / 70 / 85 / 100
+(+ 25% AP)
+.
+New Effect:
+Heal increases by 1% for every
+1% of ally's missing health
+.
+New Aura:
+Sona and allies touched by the aura gain a shield that mitigates the next 35 / 55 / 75 / 95 / 115
+(+ 20% AP)
+damage for up to 1.
+5
+seconds.
+Mana cost increased to 70 / 75 / 80 / 85 / 90 from 60 / 65 / 70 / 75 / 80.
+Cooldown increased to 10 seconds from 7.
+Song of Celerity
+Revised Active:
+Sona gains 13 / 14 / 15 / 16 / 17%
+(+ 7.
+5
+% per 100 AP)
+bonus movement speed, decaying to the aura bonus over 3 seconds.
+New Aura:
+Allies touched by the aura gain 10 / 11 / 12 / 13 / 14%
+(+ 3.
+5
+% per 100 AP)
+bonus movement speed for 1.
+5
+seconds.
+Cooldown increased to 12 seconds from 7.
+Crescendo
+New Passive:
+Ranking up increases the strength of Sona's auras and
+Song of Celerity
+'s self bonus movement speed.
+Hymn of Valor
+: + 10 / 20 / 40 extra on-hit magic damage.
+Aria of Perseverance
+: + 10 / 20 / 40 extra shield.
+Song of Celerity
+: + 2 / 4 / 6% bonus movement speed.
+Clarity:
+Animation updated to reflect both skillshot targeting and area of effect.
+Trivia
+[
+edit
+|
+edit source
+]
+A
+Power Chord
+consists of a double root and the fifth, often heard in rock music.
+A
+Hymn
+(Greek: 'song of praises') is
+a type of song
+usually associated to religion.
+While
+Hymn of Valor's
+aura is active, the game's theme can be heard.
+An
+Aria
+is
+a type of melody
+usually associated with operas.
+Crescendo
+(Italian: 'growing') refers to
+the amplification of volume in music.
+In-game
+Crescendo
+triggers both a
+stun
+and the target(s)' dance emote simultaneously.
+Sona was deemed overpowered/obnoxious for
+Ultra Rapid Fire
+in April 2014, and was ultimately disabled in non-custom games.
+At one time, Sona held the title of lowest base
+Armor
+(9).
+Sona's Deutsch/German title,
+Die Virtuosin
+, is the feminine derivative of
+Jhin's
+title,
+Der Virtuose
+.
+Enemy champions hit by
+Crescendo
+will be forced to dance while they are stunned.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Enchanter
+Controllers
+are defensive casters that oversee the battlefield by protecting and opening up opportunities for their allies.
+Enchanters
+focus on amplifying their allies' effectiveness by directly augmenting them and defending them from incoming threats. Enchanters themselves are often quite fragile and bring relatively low damage to the table, meaning they really only shine when grouped together with others.
+Examples
+Janna
+Sona
+Soraka
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Hymn of Valor
+COOLDOWN:
+8
+Active:
+Sona
+projects sound bolts to the two nearest enemies that each deal
+magic damage
+, and she gains a stack of
+Accelerando
+for each bolt that damages an enemy
+champion
+.
+Melody
+Bonus:
+Sona
+and tagged allied champions deal
+bonus
+magic damage
+on their next basic attack within a few seconds.
+Power Chord
+– Staccato:
+Power Chord
+deals
+increased
+magic damage
+.
+League of Legends content
+Aria of Perseverance
+COOLDOWN:
+10
+Active:
+Sona
+heals
+herself and projects a sound bolt that heals the most wounded allied champion nearby.
+Melody
+Bonus:
+Sona
+and tagged allied champions receive a brief
+shield
+.
+Sona
+gains a stack of
+Accelerando
+whenever she
+heals
+an ally or
+shields
+a minimum amount of damage for an ally with
+Aria of Perseverance
+.
+Power Chord
+– Diminuendo:
+Power Chord
+reduces the target's
+size
+and damage output for a short time.
+League of Legends content
+Crescendo
+COOLDOWN:
+140 / 120 / 100
+Active:
+Sona
+strikes an irresistible chord in the target direction that deals
+magic damage
+to enemies hit and briefly
+stuns
+them.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Song of Celerity
+COOLDOWN:
+14
+Active:
+Sona
+gains
+bonus
+movement speed
+for a short time, which is extended to a few seconds if she does not take damage during this time.
+Melody
+Bonus:
+Tagged allied champions gain
+bonus
+movement speed
+for a short time.
+Power Chord
+– Tempo:
+Power Chord
+slows
+the target for a short time.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Resurrection
+A unit that is protected by
+Resurrection
+will enter a revival state and dispel most debuffs upon taking
+fatal damage
+. After the state completes, the unit is revived.
+Resurrection
+effects do not count for kills or assists.
+Resurrection
+sources have a hierarchy, and will trigger in the following order:
+Zilean's
+Chronoshift
+Guardian Angel
+Anivia's
+Rebirth
+and
+Zac's
+Cell Division
+Resurrection
+will always take precedence over
+zombie state
+effects. Entering
+resurrection
+does not cancel cast times.
+Renata Glasc's
+Bailout
+always takes priority over
+resurrection
+.
+League of Legends content
+Ultra Rapid Fire (U.R.F.)
+Ultra Rapid Fire
+is a
+Featured Game Mode
+that takes place on
+Summoner's Rift
+with the same objective as
+Classic 5v5
+, except all
+champions
+benefit from the
+Awesome Buff of Awesomely Awesome Buffing
+that grants excessive  ability haste and removes ability costs. The gameplay is
+explosive
+. The game mode can be played as
+All Random
+or
+Blind pick
+depending on the year.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Power Chord
+Innate - Accelerando:
+Sona
+gains a permanent stack of
+Accelerando
+each time she hits an enemy champion with
+Hymn of Valor
+and each time she mitigates sufficient damage or heals damaged allies with
+Aria of Perseverance
+. If she has max stacks, she instead
+reduces
+the cooldown of
+Crescendo
+each time.
+Innate - Melody:
+Sona's
+basic abilities incur a
+brief
+cooldown on her other basic abilities, and cause her to generate a unique
+aura
+for a short time that empowers herself and nearby allied champions.
+Innate - Power Chord:
+Sona's
+basic abilities generate permanent stacks of
+Power Chord
+. At 3 stacks, her next basic attack consumes them all to become empowered with bonus magic damage and apply an additional effect based on the last basic ability cast.
+Accelerando:
+For each stack,
+Sona
+gains
+basic ability haste
+.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Enchantment redirection
+A certain group of damaging abilities called
+enchantments
+or
+empowerments
+require interaction of an
+empowerer
+, with an
+ally
+hitting an enemy. Enchantments commonly include mark detonations or
+buffs
+given to allies. The credit for an applied enchantment is directed in the following ways:
+Any damage dealt through the ally by the enchantment is credited to the empowerer instead of the ally. Effects that can trigger on-damage instances of the empowerer (e.g.
+Summon Aery
+;
+Morellonomicon's
+Grievous Wounds
+on magic damage; etc.) will trigger and also be credited to the empowerer. For the empowerer's redirected damage only, the ally will apply the empowerer's damage modifiers (e.g.
+magic penetration
+).
+Any unit
+kill
+achieved by the ally having applied the empowerer's redirected damage, is credited to the ally instead of the empowerer.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Berserk
+A unit that is
+berserk
+will attempt to perform basic attacks on a nearby unit for the duration, during which they're unable to perform issued movement or attack commands, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+. Any associated effects included with basic attacks can persist beyond the
+Berserk
+duration.
+Berserk
+is an
+immobilizing
+effect
+.
+Forced action effects
+cannot
+force the unit to perform an action that is disabled.
+Units that are
+berserk
+search for targets within a
+1000 radius of them. Sources of
+berserk
+have their own targeting priority system, including the
+berserked
+unit's allies. The target does not need to be visible for the
+berserked
+unit to attack them.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+and windups against the acquired target) and all
+channeled and charged
+abilities, as well as overrides previous
+Forced Action
+effects.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Sentinel
+RECHARGE:
+90 / 80 / 70 / 60 / 50
+Passive - Soul-Marked:
+While
+Kalista
+and her
+Oathsworn
+are
+tethered
+, their basic attacks and
+Pierce
+apply a
+Soul-Mark
+to their targets for a few seconds. If both
+Soul-Marks
+are applied to the same target, they take
+bonus
+magic damage
+.
+Passive:
+Kalista
+periodically
+stocks
+a
+Sentinel
+charge, up to a cap.
+Active:
+Kalista
+summons a
+Sentinel
+that patrols back and forth on a path to the target location, granting
+sight
+along its trajectory as it travels.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+References
+[
+edit
+|
+edit source
+]
+↑
+Sona's profile page
+at
+LeagueOfLegends.com

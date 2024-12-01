@@ -1,0 +1,2446 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Quinn
+Demacia's Wings
+Release date
+2013-03-01
+Last changed
+V14.19
+Class(es)
+Specialist
+Legacy
+Marksman
+Assassin
+Position(s)
+Top
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+3
+Utility
+1
+Style
+Difficulty
+Quinn
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Quinn
+Base statistics
+Edit
+Health
+565
++107
+Mana
+269
++35
+Health regen. (per 5s)
+5.5
++0.55
+Mana regen. (per 5s)
+7
++0.4
+Armor
+28
++4.7
+Attack damage
+59
++2.7
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+525
+Attack speed
+Base AS
+0.668
+Attack windup
+17.544%
+AS ratio
+N/A
+Bonus AS
++3.1
+%
+Missile speed
+2000
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+750
+Special statistics
+Damage Dealt
++10%
+Damage Received
+-10%
+Total Attack Speed
++2.5%
+Tenacity & Slow Resist
++20%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
+-5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+The champion
+Quinn
+consists of two beings:
+The
+human
+Quinn
+is the primary one answering movement commands and performing
+basic attacks
+.
+The
+azurite eagle
+Valor
+is used to visualise various
+abilities
+, and appears in
+emotes
+. He is not one distinct unit, instead being used as both a
+projectile
+, and as a visual indicator of effects.
+Edit
+Harrier
+EFFECT RADIUS:
+525
+Innate:
+Quinn's
+damaging abilities mark enemies with
+Vulnerable
+and
+reveal
+them for a few seconds. Periodically,
+Valor
+marks a nearby enemy with
+Vulnerable
+.
+Quinn's
+next basic attack against a
+Vulnerable
+target consumes the mark to deal
+bonus
+physical damage
+.
+Innate:
+Quinn's
+Blinding Assault
+against the primary target,
+Vault
+, and
+Skystrike
+mark enemies hit with
+Vulnerable
+for 4 seconds, during which they are
+revealed
+. If no
+Vulnerable
+target exists for 1 second,
+Valor
+automatically marks a nearby
+visible
+enemy. He cannot do this again for
+8 − 2.
+93
+(based on critical strike chance)
+seconds after the mark expired or was consumed or overwritten by another mark.
+Quinn's
+basic attacks
+against
+Vulnerable
+targets are empowered to consume the mark to deal
+10 − 95 (based on level)
+(+
+16% − 50% (based on level)
+AD)
+bonus
+physical damage
+.
+While
+Behind Enemy Lines
+is active,
+Harrier
+is disabled and all
+Vulnerable
+marks are removed.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+Physical
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+If a mark applied by an ability is overwritten, consumed, or timed out,
+Harrier
+goes on a 1-second cooldown if it's not already on cooldown.
+Harrier's
+targeting priority:
+Last unit hit (if it was a small minion it appears to select a different target).
+Lowest-health enemy champion.
+Lowest-health enemy minion.
+Harrier
+is consumed even if it is parried, the attack is negated in any case.
+Harrier
+will not mark enemy
+minions
+while
+Quinn
+is not
+visible
+, but will mark enemy
+champions
+.
+Map-Specific Differences
+One for All
+differences
+edit
+Quinns
+may only trigger the bonus damage from their own
+Vulnerable
+debuffs.
+Note that all active debuffs are visible to all
+Quinns
+and are not easily distinguished unless its appearance is modified by a skin.
+Enemies can have multiple
+Vulnerable
+debuffs active on them at a time.
+Arena
+differences
+edit
+Base damage changed to
+11.
+5
+− 109.
+25
+(based on level)
+.
+AD ratio changed to
+118.
+4
+% − 157.
+5
+% (based on level)
+AD
+.
+Video
+Edit
+Blinding Assault
+COST:
+50 / 55 / 60 / 65 / 70 Mana
+COOLDOWN:
+11 / 10.
+5
+/ 10 / 9.
+5
+/ 9
+CAST TIME:
+0.
+25
+TARGET RANGE:
+1050
+EFFECT RADIUS:
+210
+WIDTH:
+120
+SPEED:
+1550
+Sight Reduction:
+350
+Active:
+Quinn
+sends
+Valor
+in the target direction who stops upon hitting an enemy, dealing
+physical damage
+all nearby enemies. If the primary target was a
+champion
+, they become briefly
+nearsighted
+, otherwise they are
+disarmed
+instead.
+Active:
+Quinn
+sends
+Valor
+in the target direction who stops upon hitting an enemy, marking them as
+Vulnerable
+and dealing
+physical damage
+to all nearby enemies.
+Physical Damage:
+20 / 40 / 60 / 80 / 100
+(+ 80 / 90 / 100 / 110 / 120% AD)
+(+ 50% AP)
+If the primary target was a
+champion
+, they become
+nearsighted
+for 1.
+75
+seconds, otherwise they are
+disarmed
+instead.
+"Gouge 'em, Valor!"
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Blinding Assault's
+nearsight
+will persist through
+death
+.
+This ability will cast from wherever the caster is at the start of the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+AD ratio changed to
+90 / 100 / 110 / 120 / 130% AD
+.
+AP ratio changed to
+75% AP
+.
+Video
+Edit
+Heightened Senses
+COOLDOWN:
+50 / 45 / 40 / 35 / 30
+CAST TIME:
+none
+EFFECT RADIUS:
+2100
+Passive:
+Attacking a
+Vulnerable
+target or consuming a mark grants
+Quinn
+bonus
+attack speed
+and
+bonus
+movement speed
+for a short time.
+Active:
+Valor
+gains
+sight
+of the surrounding area for a short time,
+revealing
+enemies detected.
+Passive:
+Whenever
+Quinn
+uses a basic attack
+on-attack
+against a
+Vulnerable
+target or consumes their mark, she gains
+bonus
+attack speed
+and
+bonus
+movement speed
+for 2 seconds.
+Bonus Attack Speed:
+28 / 36 / 44 / 52 / 60%
+Bonus Movement Speed:
+20 / 25 / 30 / 35 / 40%
+Active:
+Valor
+grants
+sight
+of the surrounding area for 2 seconds and
+reveals
+enemy champions within for the same duration.
+"Eyes in the sky."
+Info
+Targeting input
+Auto
+Counters
+Spell shield
+Not Blocked
+No additional details.
+Map-Specific Differences
+One for All
+differences
+edit
+Quinns
+will gain the passive bonus for attacking a
+Vulnerable
+enemy versus enemies marked by any
+Quinn
+.
+Note that only the
+Quinn
+who applied the mark can consume the mark for bonus damage. One
+Quinn
+can apply the mark and then deliberately not trigger the mark to allow their allies to continually trigger the passive bonus.
+Arena
+differences
+edit
+Attack speed changed to 30 / 40 / 50 / 60 / 70%.
+Cooldown changed to 20 / 17.
+5
+/ 15 / 12.
+5
+/ 10 seconds.
+Video
+Edit
+Vault
+COST:
+50 Mana
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+CAST TIME:
+none
+TARGET RANGE:
+600
+SPEED:
+2500
+/
+850
+Active:
+Quinn
+dashes
+to the target enemy, dealing
+physical damage
+,
+knocking them back
+, marking them as
+Vulnerable
+, and briefly
+slowing
+them. She then
+leaps
+backward.
+Active:
+Quinn
+dashes
+to the target enemy, marking them as
+Vulnerable
+, dealing
+physical damage
+,
+knocking them back
+a very short distance over 0.
+5
+seconds, and
+slowing
+them by 50% decaying over 1.
+5
+seconds. She then
+leaps back
+525 units away from them.
+Physical damage:
+40 / 65 / 90 / 115 / 140
+(+ 20%
+bonus
+AD)
+Heightened Senses
+can be cast during either of the dashes.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Quinn
+will track the target if they change locations.
+She will dash to the target's previous location without applying
+Vault's
+effects if the target is too far away or moves beyond
+1200
+units.
+Vault
+resets
+Quinn's
+remaining attack cooldown a short delay after the first dash ends (even if interrupted).
+This delay is a fuzzy 0.
+25
+to 0.
+5
+seconds and this matches up with the moment the target of
+Vault
+is marked as
+Vulnerable
+.
+Quinn
+will automatically attempt to attack the target once she completes
+Vault
+.
+The target will turn to face the opposite direction after being
+knocked back
+.
+Unlike its constant cast range
+Vault's
+bounce's can vary to allow
+Quinn
+to close or to make a gap between herself and the target (depending on casting position) or even to jump through a wall (if there is enough landing room on the other side).
+Vault
+also interrupts basic attacks with
+uncancellable windups
+.
+(note)
+Video
+Edit
+Behind Enemy Lines
+COST:
+100 / 50 / 0 Mana
+COOLDOWN
+:
+3
+CAST TIME:
+0.
+25
+Active:
+Quinn
+channels
+for a short time to pair up with
+Valor
+. They then become united, increasing her
+movement speed
+and becoming
+ghosted
+. The duo lose the movement speed boost upon taking non-minion damage, and disband upon being
+immobilized
+,
+grounded
+, or
+silenced
+. While united,
+Quinn
+can cast
+Skystrike
+.
+Active:
+Quinn
+channels
+for 2 seconds, signaling
+Valor
+to pair up. Upon completion, he picks her up and they unite, increasing her
+total
+movement speed
+, granting her
+ghosting
+, and allowing her to cast
+Skystrike
+.
+Behind Enemy Lines
+can be recast after 0.
+5
+seconds during the channel.
+Total Movement Speed Increase:
+70 / 100 / 130%
+Taking damage from non-
+minions
+while
+Behind Enemy Lines
+is active or while
+Quinn
+is
+channeling
+the ability causes her to lose the
+bonus total
+movement speed
+for 3 seconds. Becoming
+immobilized
+,
+grounded
+, or
+silenced
+ends
+Behind Enemy Lines
+immediately and puts it on
+cooldown
+without performing
+Skystrike
+.
+Once
+Behind Enemy Lines
+has been learned,
+respawning
+or returning to the allied
+summoning platform
+will spawn
+Valor
+instantly.
+Recast:
+Quinn
+cancels the channel, placing
+Behind Enemy Lines
+on cooldown.
+"Valor, to me!"
+Edit
+Skystrike
+CAST TIME:
+none
+EFFECT RADIUS:
+700
+Active:
+Quinn
+disbands from
+Valor
+and rains arrows down around her, dealing
+physical damage
+to nearby enemies.
+Quinn's
+attacks and damaging abilities automatically activate
+Skystrike
+.
+Active:
+Quinn
+detaches from
+Valor
+, ending
+Behind Enemy Lines'
+effects and raining arrows down around her, dealing
+70% AD
+physical damage
+to nearby enemies and marking them as
+Vulnerable
+.
+Declaring a
+basic attack
+or casting
+Blinding Assault
+or
+Vault
+during
+Behind Enemy Lines
+automatically activates
+Skystrike
+.
+Targeting input
+Auto
+Counters
+Grounded
+Disabled
+Disruption
+Interrupted
+Notes
+Taking damage from non-
+minions
+removes the bonus movement speed buff temporarily by suppressing it with the status effect of a
+slow
+.
+Behind Enemy Lines
+does not refund its
+mana cost
+if the channel was canceled via recast.
+The only exception is if
+Quinn's
+mana
+falls below the
+mana cost
+, in which case she is granted enough
+mana
+back (the equal amount needed) to be able to cast
+Behind Enemy Lines
+again.
+Respawning
+or returning to the
+summoning platform
+will not spawn
+Valor
+if
+Behind Enemy Lines
+is on cooldown.
+If
+Valor
+is spawned by
+respawning
+or returning to the
+summoning platform
+,
+Skystrike
+will be disabled from being manually cast for 2.
+5
+seconds upon uniting. However, it will still automatically activate upon declaring a
+basic attack
+or casting
+Blinding Assault
+or
+Vault
+.
+Behind Enemy Lines
+ends immediately without
+Skystrike
+being cast if she enters or is inside the enemy
+fountain
+. The ability will go on full
+cooldown
+.
+Quinn
+will also spawn
+Valor
+when entering the enemy fountain but she will instantly lose him afterwards.
+Self-
+immobilizations
+such as
+Zhonya's Hourglass
+also count for ending
+Behind Enemy Lines
+.
+The following table refers for interactions while
+Quinn
+is
+channeling
+:
+Behind Enemy Lines
+is not a
+movement channel
+, and so will not be
+interrupted
+by
+root
+and
+ground
+.
+Type
+Channel
+Attacking
+Interrupts
+Abilities
+Interrupts
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+Hextech Rocketbelt
+Interrupted by
+All item-actives not specified above interrupt
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+N/A
+Interrupted by
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+Death
+Cast-inhibiting effects
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Notes
+If
+Quinn
+uses
+Vault
+while
+Behind Enemy Lines
+is active,
+Skystrike
+will activate at her target's location after she bounces back.
+Upon respawning,
+Quinn's
+first
+Skytrike
+will deal double the normal amount of damage (
+140% AD
+) to enemies hit.
+(bug)
+Arena
+differences
+edit
+AD ratio changed to
+100% AD
+.
+Pets
+[
+edit
+|
+edit source
+]
+Valor
+Control type
+N/A
+Target type
+N/A
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Quinn (Collection)
+.
+Original
+View in 3D
+880
+01.03.2013
+Quinn is an elite ranger-knight of Demacia, who undertakes dangerous missions deep in enemy territory. She and her legendary eagle, Valor, share an unbreakable bond, and their foes are often slain before they realize they are fighting not one, but two of the kingdom’s greatest heroes. Nimble and acrobatic when required, Quinn takes aim with her crossbow while Valor marks their elusive targets from above, making them a deadly pair on the battlefield.
+Lauren Mayhew
+Katie 'TeaTime' De Sousa
+Loot eligible
+Phoenix
+View in 3D
+975
+01.03.2013
+The daring duo Quinn and the phoenix Valor are always near when crime is afoot! Combining their legendary powers, they clean up the streets of New Valoran with a well-placed arrows and the burning flames of justice!
+Lauren Mayhew
+Michelle Hoefener
+Silver Age
+Loot eligible
+New SFX/VFX
+Woad Scout
+View in 3D
+975
+09.06.2014
+Pity those poor souls lost in the northern mountains—Quinn, scout of the Woad Tribe, will always find them. And those who cross her path are said never to return.
+Lauren Mayhew
+Unknown artist
+Woad
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Corsair
+View in 3D
+750
+22.07.2015
+For enterprising pirate crews, Quinn is a highly sought after lookout, though she comes at a high price for someone typically hidden away in the crow's nest. Then again, how many other hired hands can take out half a boarding party before they make it off their ship?
+Lauren Mayhew
+Sixmorevodka Studio
+Bilgewater: Burning Tides
+Loot eligible
+New SFX/VFX
+Heartseeker
+View in 3D
+975
+02.02.2017
+It's a bird! It's a plane! It's a… dove? Quinn takes up the mantle of the Heartseekers to channel her inner romantic, peppering the battlefield with dozens of razor-sharp arrows and giant, stinging bird scratches.
+Lauren Mayhew
+Xu 'Crow God' Cheng
+Heartbreakers
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Warden
+View in 3D
+1350
+07.01.2021
+The Protectorate of old gained its power from bonds: bonds between comrades, bonds to armor, bonds to its edicts. Quinn follows in the footsteps of her ancestors, having forged a bond with a familiar she has named Valor, in honor of the Protectorate's central tenet.
+Lauren Mayhew
+Ina Wong, West Studio
+Warden
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Warden Quinn Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Star Guardian
+View in 3D
+1350
+28.07.2022
+Hailing from a sister city along with Rell, Quinn and her familiar Valor are known back home as a dynamic monster-fighting duo... mask and all. Valoran City represents a big step up from what they're used to, but the two are ready to fight the darkness as only they know how.
+Lauren Mayhew
+Eric Xie, West Studio
+Star Guardian Season 4
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Star Guardian Quinn Chromas
+Brilliant
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.19
+General
+Updated visual effects.
+The following skins are affected:
+Original Quinn
+,
+Phoenix Quinn
+,
+Woad Scout Quinn
+,
+Corsair Quinn
+,
+Heartseeker Quinn
+.
+Warden Quinn
+Updated
+Blinding Assault
+VFX.
+V14.4
+Behind Enemy Lines
+Bug Fix:
+Linger VFX no longer follow her while in her ultimate form.
+V13.20
+Stats
+Attack damage growth increased to 2.
+7
+from 2.
+4
+.
+Base health reduced to 565 from 603.
+Base movement speed reduced to 330 from 335.
+V13.17
+Stats
+Health growth increased to 107 from 99.
+Blinding Assault
+Base damage reduced to 20 / 40 / 60 / 80 / 100 from 20 / 45 / 70 / 95 / 120.
+Vault
+Base damage reduced to 40 / 65 / 90 / 115 / 140 from 40 / 70 / 100 / 130 / 160.
+V12.22
+Stats
+Base mana regeneration increased to 7 from 6.
+97
+.
+V12.14
+General
+Bug Fix:
+Knocked up/stunned animation is now correctly played.
+V12.10
+Stats
+Base health increased to 603 from 533.
+Health growth increased to 99 from 85.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V12.3
+Heightened Senses
+Bonus attack speed increased to 28 / 36 / 44 / 52 / 60% from 20 / 30 / 40 / 50 / 60%.
+Skystrike
+AD ratio increased to
+70% AD
+from
+40% AD
+.
+V11.21
+Heightened Senses
+Bonus attack speed reduced to 20 / 30 / 40 / 50 / 60% from 20 / 35 / 50 / 65 / 80%.
+V11.18
+General
+Bug Fix:
+Base voice lines have been remastered to sound clearer, cleaner, and smoother.
+V11.5
+General
+Undocumented:
+Quinn and Valor now properly take turns talking during their
+joke emote
+.
+Heartseeker Quinn
+Bug Fix:
+Recall SFX now play properly.
+V11.1
+Stats
+Base health increased to 533 from 532.
+8
+.
+V10.9
+Blinding Assault
+Nearsight
+duration increased to 1.
+75
+seconds from 1.
+5
+.
+V9.4
+General
+Base run animation updated.
+V8.16
+Stats
+Attack damage growth reduced to 2.
+4
+from 3.
+V8.15
+Stats
+Base armor reduced to 28 from 32.
+Harrier
+Base damage reduced to
+10 − 95 (based on level)
+from
+15 − 100 (based on level)
+.
+V8.13
+General
+Adjusted splash artwork for
+Corsair Quinn
+.
+V8.7
+Behind Enemy Lines
+Bug Fix:
+Fixed a bug where
+Skystrike
+would fail to activate when cast after respawning.
+Bug Fix:
+Fixed a bug where
+Behind Enemy Lines
+could not be cast until she respawned or returned to the summoning platform if she got interrupted during her
+Vault
+dash.
+Bug Fix:
+Fixed a bug where
+Blinding Assault
+would visually pass through targets if cast during
+Behind Enemy Lines
+.
+V8.6
+Stats
+Base attack damage reduced to 59 from 62.
+Attack damage growth increased to 3 from 2.
+41
+.
+Harrier
+New Effect:
+Basic attacks that are already in-flight will now trigger and consume the
+Harrier
+mark.
+New audio cues have been added for hitting a target with a
+Vulnerable
+mark.
+Behind Enemy Lines
+New Effect:
+Skystrike
+now marks as
+Vulnerable
+all enemy champions hit.
+New Effect:
+Taking damage while channeling no longer breaks channel.
+New Effect:
+Taking damage from non-minions while
+Behind Enemy Lines
+is active no longer breaks the channel or form. Instead, the movement speed bonus is removed for 3 seconds.
+New Effect:
+Taking damage from minions no longer has any effect.
+New Effect:
+Returning to the fountain now automatically casts
+Behind Enemy Lines
+if it has been learned.
+Removed:
+No longer goes on 3-second cooldown when in combat.
+Bug Fix:
+Skystrike
+no longer fails to cast if cast within the last 10 seconds.
+Bug Fix:
+Skystrike
+no longer deals double damage when cast by reactivating R.
+Bug Fix:
+Behind Enemy Lines
+no longer ends immediately when used near a turret that
+Quinn
+had been attacking.
+Bug Fix:
+Canceling
+Behind Enemy Lines
+while
+Presence of Mind
+is active no longer refunds mana that was never consumed.
+Bug Fix:
+Behind Enemy Lines
+no longer removes existing movement orders or ignores new movement orders given during its cast and channel.
+V8.3
+Stats
+Base health regeneration increased to 5.
+5
+from 5.
+424
+.
+V8.2
+Vault
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V7.22
+Stats
+Base attack damage increased to 62 from 54.
+46
+.
+Base armor increased to 32 from 23.
+38
+.
+V7.18
+Heartseeker Quinn
+Bug Fix:
+Is once again swinging on her swing during her recall animation.
+V7.15
+Heartseeker Quinn
+Bug Fix:
+Pieces of bracer no longer disappear during her laugh animation.
+V7.13
+Phoenix Quinn
+Skystrike
+Bug Fix:
+No longer uses classic skin sound.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.7
+Behind Enemy Lines
+Bug Fix:
+Fixed a bug where some types of enemy champion damage (e.g.
+Ignite
+,
+Titanic Hydra
+,
+Statikk Shiv
+etc) didn't end the effect.
+V7.6
+Heightened Senses
+Bonus attack speed increased to 20 / 35 / 50 / 65 / 80% from 20 / 25 / 30 / 35 / 40%.
+Skystrike
+AD ratio reduced to
+40% AD
+from
+100% AD
+.
+New Effect:
+After putting at least one point in
+Behind Enemy Lines
+,
+Quinn
+respawns as Valor after deaths for the rest of the game.
+V7.3
+Harrier
+Bug Fix:
+Fixed a bug where, if
+Quinn
+canceled a basic attack against a target marked by
+Harrier
+and quickly attacked again afterward,
+Harrier
+didn't deal bonus physical damage.
+V7.2
+Vault
+Bug Fix:
+Fixed a bug where if she
+Vaulted
+Gangplank
+at the same time as he triggered a
+Powder Keg
+explosion on multiple targets, it made for one fast pirate.
+V6.6
+Blinding Assault
+Cooldown increased to 11 / 10.
+5
+/ 10 / 9.
+5
+/ 9 seconds from 11 / 10 / 9 / 8 / 7.
+Disables duration reduced to 1.
+5
+seconds from 2.
+V6.5
+Blinding Assault
+Bug Fix:
+Some enhanced basic attacks missing while nearsighted.
+V5.24
+Stats
+Base attack damage reduced to 54.
+46
+from 56.
+46
+.
+Blinding Assault
+Mana cost increased to 50 / 55 / 60 / 65 / 70 from 50 at all ranks.
+Base damage reduced to 20 / 45 / 70 / 95 / 120 from 25 / 55 / 85 / 115 / 145.
+AD ratio reduced to
+80 / 90 / 100 / 110 / 120% AD
+from
+80 / 95 / 110 / 125 / 140% AD
+.
+V5.23
+Harrier
+Bonus damage changed to
+15 − 100 (based on level)
+(+
+16 − 50 (based on level)
+% AD)
+from
+50% AD
+Blinding Assault
+Renamed from
+Aerial Assault
+Base damage increased to 25 / 55 / 85 / 115 / 145 from 20 / 45 / 70 / 95 / 120
+AD ratio increased to
+(+ 80 / 95 / 110 / 125 / 140% AD)
+from
+(+ 70 / 75 / 80 / 85 / 90% AD)
+AP ratio increased to
+(+ 50% AP)
+from
+(+ 35% AP)
+Removed:
+Increased damage based on target's missing health
+Removed:
+On-kill 50% cooldown reduction
+New Effect:
+Applies nearsight to primary target and disarms non-champion ones
+Behind Enemy Lines
+Renamed from
+Tag Team
+V5.22
+Gameplay Update
+General
+Recommended items updated
+Stats
+Attack damage increased to 56.
+46
+from 51.
+04
+Attack damage growth reduced to 2.
+41
+from 3
+Harrier
+Bonus damage changed to
+50% AD
+from
+25 − 215 (based on level)
+(+ 50% Bonus AD)
+Valor AI updated
+Cooldown changed to
+8 − 2.
+93
+(based on critical strike chance %)
+from
+10
+/
+7
+Aerial Assault
+Renamed from
+Blinding Assault
+Removed:
+Blind
+New Effect:
+Targets hit are marked as
+Vulnerable
+(area-of-effect damage unchanged)
+New Effect:
+Cooldown is reduced by 50% if it kills at least one target
+Base damage reduced to 20 / 45 / 70 / 95 / 120 from 70 / 110 / 150 / 190 / 230
+AD ratio increased to
+(+ 70 / 75 / 80 / 85 / 90% Bonus AD)
+from
+(+ 65% Bonus AD)
+at all ranks
+AP ratio reduced to
+(+ 35% AP)
+from
+(+ 50% AP)
+New Effect:
+Damage is increased by 1% for every
+1% of target's missing health
+up to 40 / 90 / 140 / 190 / 240
+(+ 140 / 150 / 160 / 170 / 180% Bonus AD)
+(+ 70% AP)
+maximum damage
+Mana cost reduced to 50 at all ranks from 50 / 55 / 60 / 65 / 70
+Cast time reduced to 0.
+25
+seconds from 0.
+31
+Projectile width reduced to 60 from 80
+Heightened Senses
+Passive bonus movement speed changed to 20 / 25 / 30 / 35 / 40% from 20 / 30 / 40 / 50 / 60 flat
+Passive duration reduced to 2 seconds from 3
+Vault
+Dash speed increased
+Backflip AI updated
+Slow duration reduced to 1.
+5
+seconds from 2
+Range reduced to 675 from 700
+Tag Team
+Removed:
+Valor replacing Quinn upon activation
+New Effect:
+Upon activation and after channeling for 2 seconds, Valor soars down and picks up Quinn, granting her substantially increased movement speed. Quinn can cast
+Skystrike
+while being carried by Valor, but taking damage or being disabled while channeling or while being carried will make Valor fly away and place Tag Team on a 3 seconds cooldown without triggering
+Skystrike
+Removed:
+Cooldown
+Movement speed increase changed to
+70 / 100 / 130% total
+Cost changed to 100 / 50 / 0 from 100 at all ranks
+Skystrike
+New Effect:
+Triggers automatically with Quinn's first basic attack,
+Aerial Assault
+, or
+Vault
+during
+Tag Team
+Damage changed to
+100% AD
+from 100 / 150 / 200
+(+ 50% Bonus AD)
+Removed:
+Increased damage based on target's missing health
+Trivia
+[
+edit
+|
+edit source
+]
+Quinn is the first champion whose name starts with
+Q
+(back then the only remaining unused letter in the alphabet regarding champion names).
+Quinn's dance references
+Are You That Somebody
+by
+Aaliyah
+.
+A side-by-side comparison can be seen
+here.
+Only
+Skystrike
+fires Quinn's crossbow despite it being her weapon of choice.
+Quinn's bolts are
+fletched
+with blue feathers which turn to a much lighter shade when hitting a target marked by
+Harrier
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Specialist
+Specialists
+are champions that do not fit into the "neat little boxes" of the other classes, and represent Riot's ideal of having a champion roster with a lot of distinctiveness and diversity.
+Examples
+Azir
+Teemo
+Heimerdinger
+Singed
+Gangplank
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Standard sight
+Standard sight
+reveals units through
+fog of war
+and
+brush
+, but
+not
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Blinding Assault
+COOLDOWN:
+11 / 10.
+5
+/ 10 / 9.
+5
+/ 9
+Active:
+Quinn
+sends
+Valor
+in the target direction who stops upon hitting an enemy, dealing
+physical damage
+all nearby enemies.
+If the primary target was a
+champion
+, they become briefly
+nearsighted
+, otherwise they are
+disarmed
+instead.
+League of Legends content
+Vault
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+Active:
+Quinn
+dashes
+to the target enemy, dealing
+physical damage
+,
+knocking them back
+, marking them as
+Vulnerable
+, and briefly
+slowing
+them. She then
+leaps
+backward.
+League of Legends content
+Behind Enemy Lines
+COOLDOWN:
+3
+Active:
+Quinn
+channels
+for a short time to pair up with
+Valor
+. They then become united, increasing her
+movement speed
+and becoming
+ghosted
+.
+The duo lose the movement speed boost upon taking non-minion damage, and disband upon being
+immobilized
+,
+grounded
+, or
+silenced
+.
+While united,
+Quinn
+can cast
+Skystrike
+.
+Skystrike
+Active:
+Quinn
+disbands from
+Valor
+and rains arrows down around her, dealing
+physical damage
+to nearby enemies.
+Quinn's
+attacks and damaging abilities automatically activate
+Skystrike
+.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Behind Enemy Lines
+COOLDOWN:
+3
+Active:
+Quinn
+channels
+for a short time to pair up with
+Valor
+. They then become united, increasing her
+movement speed
+and becoming
+ghosted
+.
+The duo lose the movement speed boost upon taking non-minion damage, and disband upon being
+immobilized
+,
+grounded
+, or
+silenced
+.
+While united,
+Quinn
+can cast
+Skystrike
+.
+Skystrike
+Active:
+Quinn
+disbands from
+Valor
+and rains arrows down around her, dealing
+physical damage
+to nearby enemies.
+Quinn's
+attacks and damaging abilities automatically activate
+Skystrike
+.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+One For All
+Players battle in a 5v5
+Draft Pick
+in
+Summoner's Rift
+, with the only difference being that all
+champions
+on each team are the same.
+During champion select, all players have the power to ban one champion from being picked at the start. After bans from both teams have been declared, players can choose to vote for a champion they want to play by a percent chance, or by majority rule if no other champions have been contested.
+All champions receive the
+One for All buff
+, which grants 70
+summoner spell haste
+and
+40
+bonus
+movement speed
+.
+Karthus
+and
+Teemo
+are disabled in this mode.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Nearsight
+A unit that is
+nearsighted
+has their
+sight
+radius reduced and
+cannot
+see beyond their sight radius.
+While nearsighted, units cannot reveal
+stealthed
+wards
+or
+traps
+. Nearsighted units lose vision of all their allies as well as all external sources of vision (including from wards or abilities). This prevents
+unit-targeted
+effects, including
+basic attacks
+, from being used outside of the unit's reduced sight radius.
+True sight
+and
+unobstructed vision
+do
+not
+bypass the vision blocked by
+nearsight
+.
+Sources of
+nearsight
+do
+not
+stack with each other; only the application with the greatest sight reduction will take effect.
+Interrupts:
+Interrupts target commands if the
+nearsighted
+unit's target is outside of their new vision area and prevents
+automated target acquisition
+.
+Reduction:
+The
+duration
+is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+with the exceptions of
+Fiora's
+Riposte
+and
+Morgana's
+Black Shield
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast),
+Cleanse
+, and
+Mikael's Blessing
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Disarm
+A unit that is
+disarmed
+is unable to declare
+basic attack
+commands for the duration.
+Interrupts:
+Interrupts
+basic attack windups
+(excluding
+uncancellable windups
+) and
+Samira's
+Inferno Trigger
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast) and
+Mikael's Blessing
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Harrier
+Innate:
+Quinn's
+damaging abilities mark enemies with
+Vulnerable
+and
+reveal
+them for a few seconds. Periodically,
+Valor
+marks a nearby enemy with
+Vulnerable
+.
+Quinn's
+next basic attack against a
+Vulnerable
+target consumes the mark to deal
+bonus
+physical damage
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Heightened Senses
+COOLDOWN:
+50 / 45 / 40 / 35 / 30
+Passive:
+Attacking a
+Vulnerable
+target or consuming a mark grants
+Quinn
+bonus
+attack speed
+and
+bonus
+movement speed
+for a short time.
+Active:
+Valor
+gains
+sight
+of the surrounding area for a short time,
+revealing
+enemies detected.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+References
+[
+edit
+|
+edit source
+]
+↑
+Quinn's profile page
+at
+LeagueOfLegends.com

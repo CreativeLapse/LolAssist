@@ -1,0 +1,2784 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Volibear
+the Relentless Storm
+Release date
+2011-11-29
+Last changed
+V14.21
+Class(es)
+Juggernaut
+Legacy
+Fighter
+Tank
+Position(s)
+Top
+Jungle
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+1350
+|
+585
+Crafting
++
+810
+Ratings
+Damage
+2
+Toughness
+3
+Control
+2
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Volibear
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Volibear
+Base statistics
+Edit
+Health
+650
++104
+Mana
+350
++70
+Health regen. (per 5s)
+9
++0.75
+Mana regen. (per 5s)
+6.25
++0.5
+Armor
+31
++5.2
+Attack damage
+60
++3.5
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+340
+Attack range
+150
+Attack speed
+Base AS
+0.625
+Attack windup
+30%
+AS ratio
+0.7
+Bonus AS
++2
+%
+Unit radius
+Gameplay radius
+80
+Selection radius
+125
+Pathing radius
+50
+Acq. radius
+400
+Special statistics
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-10%
+Damage Received
++10%
+Shielding
+-20%
+Damage Dealt
+-5%
+Damage Received
++10%
+Healing
+-20%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+The Relentless Storm
+EFFECT RADIUS:
+450
+Innate:
+Volibear's
+basic attacks and ability hits generate a stack of
+The Relentless Storm
+, which stacks up to 5 times. At 5 stacks, he gains Lightning Claws.
+The Relentless Storm:
+For each stack,
+Volibear
+gains
+bonus
+attack speed
+.
+Lightning Claws:
+Volibear's
+basic attacks deal
+bonus
+magic damage
+that can chain to up to four surrounding enemies.
+Innate:
+Whenever
+Volibear
+damages at least one enemy with a
+basic attack
+or
+ability
+, he generates a
+stack
+of
+The Relentless Storm
+for 6 seconds, refreshing on subsequent damage and stacking up to 5 times. At 5 stacks,
+Volibear
+gains
+Lightning Claws
+.
+The Relentless Storm:
+For each stack,
+Volibear
+gains
+5%
+(+ 4% per 100 AP)
+bonus
+attack speed
+, up to
+25%
+(+ 20% per 100 AP)
+.
+Lightning Claws:
+Volibear's
+claws ignite with lightning, empowering his basic attacks
+on-hit
+to deal
+11 − 60 (based on level)
+(+ 50% AP)
+bonus
+magic damage
+to the target and the nearest
+visible
+enemy within 450 units of the target, chaining up to 4 subsequent targets.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Default damage
+Sub-type
+Magic
+Counters
+Spell shield
+Not Blocked
+Parries
+See Notes
+Projectile
+Not Blocked
+Volibear's
+spikes visually grow as
+The Relentless Storm
+stacks.
+Stacks of
+The Relentless Storm
+are also granted
+on-hit
+, but will specifically not be if the target is
+invulnerable
+.
+While at four stacks, the next attack or ability on-hit reaching the fifth stack will be empowered by
+Lightning Claws
+.
+A stack of
+The Relentless Storm
+is not gained if the attack is
+dodged
+and/or missed if
+Volibear
+is
+blinded
+. A stack is granted even if the attack is
+blocked
+. In all cases,
+Lightning Claws
+will not apply (on-hit damage is parried and the bounce is prevented).
+Since
+Frenzied Maul
+cannot be missed while
+Volibear
+is
+blinded
+, gaining stacks from
+The Relentless Storm
+and applying
+Lighting Claws
+from the ability will not be prevented from that parry effect.
+Volibear
+has a hidden passive that grants him
+1 armor
+for every enemy
+Zilean
+within 800 range of him.
+Likewise,
+Zilean
+gains
+1 ability power
+for every nearby
+Volibear
+.
+Neither
+Volibear
+nor
+Zilean
+need
+sight
+of one another to gain these bonuses.
+The empowered attacks do not affect
+structures
+nor
+wards
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Lightning AP ratio changed to
+40% AP
+.
+Edit
+Thundering Smash
+COST:
+50 Mana
+COOLDOWN
+:
+14 / 13 / 12 / 11 / 10
+CAST TIME:
+none
+Active:
+Volibear
+becomes
+ghosted
+and gains
+bonus
+movement speed
+for a few seconds, increased while facing an enemy champion. During this time, his next basic attack will
+dash
+to the target, dealing
+bonus
+physical damage
+and briefly
+stunning
+them.
+Active:
+Volibear
+drops on all fours, becoming
+ghosted
+and gaining
+bonus
+movement speed
+for 4 seconds, doubled while facing a
+visible
+enemy
+champion
+within 2000 units.
+Bonus Movement Speed:
+12 / 16 / 20 / 24 / 28%
+Increased Bonus Movement Speed:
+24 / 32 / 40 / 48 / 56%
+During this time,
+Volibear's
+next basic attack is empowered to have an
+uncancellable windup
+, gain
+25
+bonus
+range
+, and
+pounce
+on the target
+, dealing
+bonus
+physical damage
+and
+stunning
+them for 1 second. This damage
+applies
+life steal
+at 100% effectiveness.
+Bonus Physical Damage:
+10 / 30 / 50 / 70 / 90
+(+ 120%
+bonus
+AD)
+If
+Volibear
+becomes
+immobilized
+or
+polymorphed
+by an enemy during
+Thundering Smash
+, the effect ends prematurely and the
+cooldown
+is reset.
+Thundering Smash
+resets
+Volibear's
+basic attack timer.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Basic damage
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Parries
+Blocked
+Grounded
+Not Disabled
+Knockdown
+See Notes
+Thundering Smash's
+empowered attack scales with
+Volibear's
+attack speed
+.
+Thundering Smash
+deals
+basic damage
+, but also triggers spell effects by dealing an additional 0
+spell damage
+.
+Thundering Smash
+will still apply its effects to the target even if the
+dash
+is
+interrupted
+, but not if he goes into
+resurrection
+.
+Thundering Smash's
+attack triggers against
+structures
+and
+wards
+, consuming the effect but dealing its bonus damage, if applicable.
+The windup for the attack completes even if the target becomes
+untargetable
+but the
+stun
+and damage do not apply.
+Thundering Smash's
+reset does not trigger from
+drowsy
+and is only granted after falling
+asleep
+.
+The
+player's
+screen will flash red briefly and cue a sound effect when
+Volibear
+becomes
+immobilized
+while
+Thundering Smash
+is active.
+Thundering Smash's
+attack does not put
+Volibear's
+basic attack on cooldown.
+This results in the same functionality as
+Leona's
+Shield of Daybreak
+, effectively being a double attack reset.
+If Thundering Smash's buff appears as the first on the buff bar, the empowered attack will fail against
+structures
+.
+(bug)
+Map-Specific Differences
+Arena
+differences
+edit
+Bonus AD ratio changed to
+60%
+bonus
+AD
+.
+Cooldown changed to 16 / 15 / 14 / 13 / 12 seconds.
+Edit
+Frenzied Maul
+COST:
+30 / 35 / 40 / 45 / 50 Mana
+COOLDOWN:
+5
+CAST TIME:
+0.
+25
+TARGET RANGE:
+325
+/
+350
+Active:
+Volibear
+strikes the target enemy to deal
+physical damage
+based on
+his
+bonus
+health
+, apply
+on-hit
+and
+on-attack
+effects, and mark them
+Wounded
+for a period.
+Wounded Bonus:
+Frenzied Maul
+deals increased damage and
+heals
+Volibear
+based on
+his
+missing
+health
+.
+Active:
+Volibear
+slashes the target enemy with his claws to deal
+physical damage
+, apply
+on-hit
+and
+on-attack
+effects at 100% effectiveness, and mark them
+Wounded
+for 8 seconds.
+Physical Damage:
+5 / 30 / 55 / 80 / 105
+(+ 100% AD)
+(+ 6% of his
+bonus
+health)
+Increased Damage:
+7.
+5
+/ 45 / 82.
+5
+/ 120 / 157.
+5
+(+ 150% AD)
+(+ 9% of his
+bonus
+health)
+Wounded Bonus:
+If the target is
+Wounded
+,
+Volibear
+takes a bite out of them, dealing
+50% increased damage
+and
+healing
+himself. The heal is halved against
+minions
+.
+Heal:
+20 / 35 / 50 / 65 / 80
+(+ 8 / 11 / 14 / 17 / 20% of his
+missing
+health)
+Minion Heal:
+10 / 17.
+5
+/ 25 / 32.
+5
+/ 40
+(+ 4 / 5.
+5
+/ 7 / 8.
+5
+/ 10% of his
+missing
+health)
+Frenzied Maul
+applies
+life steal
+at 100% effectiveness.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Basic damage
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Parries
+See Notes
+Volibear
+will be ordered to
+basic attack
+the target after casting
+Frenzied Maul
+.
+Frenzied Maul
+deals
+basic damage
+, but also triggers spell effects by dealing an additional 0
+spell damage
+.
+Frenzied Maul's
+bite
+heals
+even if it is blocked by
+spell shield
+.
+Frenzied Maul's
+strike can be
+dodged
+and
+blocked
+, but it cannot miss if
+Volibear
+is
+blinded
+. The
+Wound
+mark does not apply if
+dodged
+, but will otherwise do so regardless.
+The bite can be
+blocked
+but
+Volibear
+still heals. It does not heal nor deal damage if the bite is
+dodged
+. The bite cannot miss if
+Volibear
+is
+blinded
+.
+Frenzied Maul
+deals bonus damage and heals if the target is still
+Wounded
+after the cast time. If the mark wares off before the cast time completes, the ability's animation will appear as if the bite was applied but there is no bonus damage or heal.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+Map-Specific Differences
+Howling Abyss
+differences
+edit
+Heal health ratio changed to
+8 / 10 / 12 / 14 / 16% of his
+missing
+health
+.
+Arena
+differences
+edit
+Damage health ratio changed to
+5% of his
+bonus
+health
+.
+Base heal changed to 10 / 25 / 40 / 55 / 70.
+Heal health ratio changed to
+6 / 8 / 10 / 12 / 14% of his
+missing
+health
+.
+Edit
+Sky Splitter
+COST:
+60 Mana
+COOLDOWN
+:
+14
+CAST TIME:
+none
+TARGET RANGE:
+1200
+EFFECT RADIUS:
+325
+/
+425
+Active:
+Volibear
+conjures a lightning bolt that shortly strikes the target location to deal
+magic damage
+to enemies hit based on
+their
+maximum
+health
+,
+slowing
+them for a short time. The bolt can hit
+Volibear
+, which
+shields
+him for a portion of
+his
+maximum
+health
+for a short time.
+Active:
+Volibear
+summons a lightning bolt to strike at the target location after a 2-second delay, granting
+sight
+of the area for 1 second after the first second of the delay. If
+Volibear
+is within the strike, he gains a
+shield
+equal to
+14% of his
+maximum
+health
+(+ 75% AP)
+for 3 seconds.
+The bolt deals
+magic damage
+to enemies hit, capped at 650 against non-
+champions
+, and
+slows
+them by 40% for 2 seconds.
+Magic Damage:
+80 / 110 / 140 / 170 / 200
+(+ 80% AP)
+(+ 11 / 12 / 13 / 14 / 15% of target's
+maximum
+health)
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Enemies cannot see the location of the cast for the first second, but they can already tell that the spell is underway by noticing
+Volibear's
+cast animation.
+Volibear can cast
+Sky Splitter
+during the movement speed boost from
+Thundering Smash
+to prevent the animation from playing.
+Volibear
+will receive the
+shield
+even if he is
+untargetable
+.
+Map-Specific Differences
+Howling Abyss
+differences
+edit
+Shield health ratio changed to
+11% of his
+maximum
+health
+.
+Arena
+differences
+edit
+Base damage changed to 60 / 85 / 110 / 135 / 160.
+Damage AP ratio changed to
+70% AP
+.
+Damage health ratio changed to
+9 / 10 / 11 / 12 / 13% of target's
+maximum
+health
+.
+Shield AP ratio changed to
+65% AP
+.
+Shield health ratio changed to
+11% of
+maximum
+health
+.
+Edit
+Stormbringer
+COST:
+100 Mana
+COOLDOWN
+:
+160 / 135 / 110
+CAST TIME:
+none
+TARGET RANGE:
+700
+EFFECT RADIUS:
+300
+/
+500
+/
+700
+SPEED:
+750
+Active:
+Volibear
+gains
+Stormbringer
+and
+leaps
+with
+Cc-immunity
+to the target location. The impact deals
+physical damage
+to enemies hit in the epicenter, and briefly
+slows
+nearby enemies. Nearby
+turrets
+will be dealt the same
+physical damage
+and become disabled for a few seconds.
+Stormbringer:
+Volibear
+embiggens for a period, gaining
+ghosting
+,
+bonus
+health
+,
+bonus
+attack range
+.
+Cc-immunity
+:
+Crowd control
+cannot be applied during this time.
+Active:
+Volibear
+gains
+Stormbringer
+for 12 seconds and
+leaps
+to the target location with
+displacement immunity
+, granting
+sight
+of the area in a 500 radius during the travel.
+Stormbringer:
+Volibear
+gains
+ghosting
+,
+bonus
+health
+,
+50
+bonus
+attack range
+, 25 increased range on
+Frenzied Maul
+, and 35% increased
+size
+.
+Bonus Health:
+175 / 350 / 525
+Volibear
+impacts
+after 1 second,
+slowing
+nearby enemies by 50% decaying over 1 second. Enemies within the epicenter are also dealt
+physical damage
+.
+Physical Damage:
+300 / 500 / 700
+(+ 250%
+bonus
+AD)
+(+ 125% AP)
+Volibear
+also disables enemy
+turrets
+in an area for a duration, rendering them unable to attack, as well as dealing them the
+same damage
+.
+Turret Disable Duration:
+2 / 3 / 4 seconds
+Stormbringer will cast at max range if cast beyond that.
+Thundering Smash's
+duration will be paused for the
+leap
+.
+I am the storm!
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Not Interrupted
+Stormbringer
+will disable any turret that is not the
+Nexus Obelisk
+, even if it is
+untargetable
+.
+Stormbringer
+will not deal damage to untargetable turrets.
+Volibear
+grows to his new size over 1.
+25
+seconds, starting 0.
+25
+seconds after landing, and shrinks back to his normal size over 0.
+5
+seconds after
+Stormbinger's
+status ends, respectively.
+Volibear
+leaps
+over 1 second regardless of distance or
+movement speed
+.
+Volibear
+impacts immediately at his current location if
+Stormbringer
+is cast over terrain he cannot pass through (due to not being able to cover the distance required).
+(bug)
+The additional bonuses are granted on-cast.
+The turret disable debuff is named
+Ohmwrecker
+.
+Disabling a
+turret
+does not prevent aggro of the current target it is locked onto. The increased turret shot damage from
+Ohmwrecker
+is also reset.
+Turrets maintain the same targeting behavior even when disabled; damaging an enemy champion will still draw turret aggro. However, if the turret's desired target leaves range or has become an invalid target, it will lock onto the most previous target it was going to attack prior to becoming disabled, or instead, find a new one if that condition is not applicable.
+The following table refers for interactions while
+Volibear
+is dashing:
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Volibear (Collection)
+.
+Original
+View in 3D
+880
+29.11.2011
+To those who still revere him, the Volibear is the storm made manifest. Destructive, wild, and stubbornly resolute, he existed before mortals walked the Freljord’s tundra, and is fiercely protective of the lands that he and his demi-god kin created. Cultivating a deep hatred of civilization and the weakness it brought with it, he now fights to return to the old ways—when the land was untamed, and blood spilled freely—and eagerly battles all who oppose him, with tooth, claw, and thundering domination.
+David Sobolov
+Alex 'alexplank' Flores
+Loot eligible
+Thunder Lord
+View in 3D
+520
+29.11.2011
+In an age before man, King Voli ruled the bitter northlands, and he was as harsh and unforgiving as they were. It is said that he waged a terrible war against his brother, the great King Ornn, and that their struggle razed mountains and emptied seas, as the two of them became like beasts themselves.
+David Sobolov
+West Studio
+Thunder Lord
+Loot eligible
+Northern Storm
+View in 3D
+750
+29.11.2011
+It's easy to get used to having a bear in the platoon. He never gets cold, he sleeps all the time, and he can tear through a fully armored regiment of enemy soldiers in about six seconds. It's very easy to get used to having a bear in the platoon.
+David Sobolov
+West Studio
+Arctic Ops
+Loot eligible
+Legacy
+Runeguard
+View in 3D
+975
+29.04.2013
+David Sobolov
+Xiao Guang Sun, West Studio
+Otherroads
+Loot eligible
+New Animations/Recall
+Captain
+View in 3D
+750
+28.11.2014
+For Volibear's years of service on the Force, he was awarded the honorary title of Captain. For his utter incompetence in the field, it was made certain he would remain on desk duty for the rest of his career. Even so, he and Constable Trundle always end up patrolling the streets with mountains of paperwork left in their wake.
+David Sobolov
+Unknown artist
+Cops and Robbers
+Loot eligible
+New SFX/VFX
+El Rayo
+View in 3D
+750
+01.06.2016
+The Wrestling Federation of Valoran would like to put these terrible rumors about our beloved El Rayo to bed once and for all. One: he is definitely a bear, and not a man dressed as a bear, as some might claim. Two: bears make amazing wrestlers.
+David Sobolov
+Kelly Aleshire
+Luchador
+Loot eligible
+The Thousand-Pierced Bear
+View in 3D
+975
+28.05.2020
+Ancient Freljordian legends speak of spirit walkers consumed by the true spirit of the unrelenting bear—a force older than the Freljord itself. Those who dare to invoke its name cannot fathom the terrible, primal power they call down upon themselves.
+David Sobolov
+Choe HeonHwa
+Coven
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Duality Dragon
+View in 3D
+1350
+21.10.2021
+Volibear was the greatest terror in the forest, until the nearby volcano erupted. In the frenzy of escape, Volibear came across a child who was similarly trapped, and heeded a strange instinct—he saved the child. The Duality Dragon saw and made the mighty predator an offer: the power to hone the duality of his nature, both fury and compassion.
+David Sobolov
+Felipe Martini, West Studio
+Dragonmancers
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Duality Dragon Volibear Chromas
+Aquamarine
+Citrine
+Emberclaw
+Emerald
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Prestige Duality Dragon
+View in 3D
+Special
+21.10.2021
+Volibear stands poised between the two drives of his core self—rage and mercy, impulse and restraint, neither overwhelming the other. Balance is an active struggle; each day the predator and protector clash, and each day Volibear's will grows stronger by the grace of the dragon's gift.
+David Sobolov
+Edward Chee, West Studio
+Dragonmancers
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Duality Dragon
+. Store variants are discounted for multiple purchases.
+Inkshadow
+View in 3D
+1350
+03.05.2023
+A spirit of fury and war, many vengeful souls have made contracts with the Volibear, and only Udyr has survived for longer than a year. Whether his charges succeed in taking revenge or meet violent ends, each one who dies gives him more power. More power means more wayward mortals seek him out for contracts—and thus the bear will never go hungry.
+David Sobolov
+Jack Hsu, West Studio
+Inkshadow
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Inkshadow Volibear Chromas
+Emerald
+Inked
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.21
+Sky Splitter
+Cooldown increased to 14 from 12.
+V14.10
+Thundering Smash
+Removed:
+The empowered attack is no longer able to make Volibear dash over thin enough walls if his target on the other side is within his attack range.
+V14.8
+The Relentless Storm
+Bug Fix:
+Adaptive and converted stats are now considered for this ability's scalings.
+V14.7
+Thundering Smash
+Removed:
+Bonus damage is no longer affected by critical strike modifiers.
+Stormbringer
+Cooldown increased to 160 / 135 / 110 seconds from 140 / 120 / 100.
+V14.6
+Thundering Smash
+Bonus movement speed reduced to 12 / 16 / 20 / 24 / 28% from 12 / 17 / 22 / 27 / 32%.
+Increased bonus movement speed reduced to 24 / 32 / 40 / 48 / 56% from 24 / 34 / 44 / 54 / 64%.
+Frenzied Maul
+Bug Fix:
+No longer unintentionally applies the mark or heal when dodged.
+Stormbringer
+Cooldown increased to 140 / 120 / 100 seconds from 130 / 115 / 100.
+V14.5
+Thundering Smash
+Bug Fix:
+Now properly draws the aggro of enemy minions towards the caster if it is used against an enemy champion.
+Frenzied Maul
+Bug Fix:
+Now properly draws the aggro of enemy minions towards the caster if it is used against an enemy champion.
+V14.4
+Thundering Smash
+Bonus movement speed increased to 12 / 17 / 22 / 27 / 32% from 8 / 12 / 16 / 20 / 24%.
+Increased bonus movement speed increased to 24 / 34 / 44 / 54 / 64% from 16 / 24 / 32 / 40 / 48%.
+Sky Splitter
+Cooldown reduced to 12 seconds from 13.
+Stormbringer
+Cooldown reduced to 130 / 115 / 100 seconds from 160 / 140 / 120.
+Tower disable duration reduced to 2 / 3 / 4 seconds from 3 / 4 / 5.
+Immunity during the dash changed to
+displacement immunity
+from total
+crowd control immunity
+.
+V14.2
+Thundering Smash
+New Effect:
+Empowered attack now gains 25 bonus attack range.
+V13.14
+The Relentless Storm
+Damage AP ratio increased to
+50% AP
+from
+40% AP
+.
+Thundering Smash
+Bug Fix:
+No longer locks out basic attacks for longer than usual after using the empowered attack at high amounts of attack speed.
+Frenzied Maul
+Heal health ratio increased to
+8 / 11 / 14 / 17 / 20%
+missing
+health
+from
+8 / 10 / 12 / 14 / 16%
+.
+V13.9
+General
+Bug Fix:
+VFX for
+Recall
+animations on all skins now properly disappear if the channel is interrupted.
+Frenzied Maul
+Damage health ratio increased to
+6% of his
+bonus
+health
+from
+5%
+.
+Heal health ratio increased to
+8 / 10 / 12 / 14 / 16% of his
+missing
+health
+from
+7 / 8.
+5
+/ 10 / 11.
+5
+/ 13%
+.
+V12.13
+Thundering Smash
+Base damage reduced to 10 / 30 / 50 / 70 / 90 from 20 / 40 / 60 / 80 / 100.
+Bonus movement speed reduced to 8 / 12 / 16 / 20 / 24% from 10 / 14 / 18 / 22 / 26%.
+Frenzied Maul
+Base damage reduced to 5 / 30 / 55 / 80 / 105 from 10 / 35 / 60 / 85 / 110.
+Damage health ratio reduced to
+5%
+bonus
+health
+from
+6%
+.
+Sky Splitter
+Damage cap reduced to 650 from 750.
+Bug Fix:
+Can no longer walk through the spawn gate at the start of the game by casting the ability.
+V12.10
+Stats
+Base health increased to 650 from 580.
+Health growth increased to 104 from 90.
+Armor growth increased to 5.
+2
+from 4.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Frenzied Maul
+Heal health ratio reduced to
+7 / 8.
+5
+/ 10 / 11.
+5
+/ 13%
+missing
+health
+from
+8 / 10 / 12 / 14 / 16%
+.
+Sky Splitter
+Base shield reduced to
+14%
+maximum
+health
+from
+15%
+.
+Shield AP ratio reduced to
+75% AP
+from
+80% AP
+.
+Stormbringer
+Bonus health reduced to 175 / 350 / 525 from from 200 / 400 / 600.
+V12.2
+Stats
+Attack damage growth increased to 3.
+5
+from 3.
+Sky Splitter
+Cooldown reduced to 13 seconds from 15.
+V11.23
+Thundering Smash
+Bug Fix:
+Empowered attack is no longer lost after completing
+Stormbringer's
+dash.
+V11.12
+General
+Adjusted splash artwork for
+El Rayo Volibear
+.
+V11.6
+Frenzied Maul
+Healing against monsters increased to 100% from 50%.
+Sky Splitter
+Damage cap against non-champions increased to 750 at all ranks from 150 / 300 / 450 / 600 / 750.
+V10.24
+Sky Splitter
+Undocumented:
+Cooldown no longer gets reduced by 1 second per 50 Ability Power, to a minimum of 5 seconds.
+V10.23
+Stats
+Mana growth increased to 70 from 50.
+The Relentless Storm
+New Effect:
+Now grants
+4% per 100 AP
+bonus
+attack speed
+per stack.
+Sky Splitter
+Damage cap increased to 150 / 300 / 450 / 600 / 750 from 150 / 250 / 350 / 450 / 550.
+Undocumented:
+Cooldown now additionally gets reduced by 1 second per 50 Ability Power, to a minimum of 5 seconds.
+V10.16
+Thundering Smash
+Bonus movement speed reduced to 10 / 14 / 18 / 22 / 26% from 15 / 20 / 25 / 30 / 35%.
+Increased bonus movement speed reduced to 20 / 28 / 36 / 44 / 52% from 30 / 40 / 50 / 60 / 70%.
+V10.14
+Stats
+Base attack speed reduced to 0.
+625
+from 0.
+66
+.
+Frenzied Maul
+New Effect:
+Healing against monsters is now reduced by 50%.
+Stormbringer
+Bug Fix:
+When casting it after activating
+Predator
+, no longer becomes
+displacement immune
+until death.
+V10.12
+General
+Bug Fix:
+Humming while idle restored but at a lower frequency.
+Disabled in
+V10.11
+Volibear's Eternals are now live.
+Stats
+Mana growth increased to 50 from 40.
+Health growth increased to 90 from 85.
+The Relentless Storm
+Visual effects brightness reduced when fully stacked.
+Thundering Smash
+New Effect:
+Is now an
+unstoppable basic attack
+.
+New Effect:
+Empowered attack now scales with his attack speed.
+Bug Fix:
+Reset will no longer fail if quickly recast after being interrupted.
+Frenzied Maul
+Bug Fix:
+Will now continue to attack his target after casting on them.
+Bug Fix:
+Now consistently basic attacks when cancelling the animation.
+Wounded
+visual effect is now larger and more anchored to the target.
+Sky Splitter
+Bug Fix:
+Now consistently basic attacks when cancelling the animation.
+Improved visual clarity.
+Impact crater now disperses faster.
+Stormbringer
+Turret disable duration changed to 3 / 4 / 5 seconds from 2 / 4 / 6.
+Epicenter radius increased to 300 units from 250.
+Base damage increased to 300 / 500 / 700 from 250 / 475 / 700.
+Removed:
+No longer basic attacks after landing.
+Improved visual clarity.
+Model size slightly reduced.
+Disabled turret visual effect is now darker.
+Impact crater now disperses faster.
+V10.11
+- June 2nd Hotfix
+General
+Removed:
+No longer hums while idle, due to high frequency.
+Planned to be restored in
+V10.12
+V10.11
+- June 1st Hotfix
+Thundering Smash
+Bonus movement speed increased to 15 / 20 / 25 / 30 / 35% from 10 / 15 / 20 / 25 / 30%.
+Sky Splitter
+Base damage increased to 80 / 110 / 140 / 170 / 200 from 60 / 90 / 120 / 150 / 180.
+Health ratio increased to
+11 / 12 / 13 / 14 / 15% of target's
+maximum
+health
+from
+7 / 8.
+5
+/ 10 / 11.
+5
+/ 13%
+.
+Damage cap increased to 150 / 250 / 350 / 450 / 550 from 100 / 200 / 300 / 400 / 500.
+V10.11
+- Full Relaunch
+General
+Title changed to
+the Relentless Storm
+from
+the Thunder's Roar
+.
+Complete visual upgrade across all skins.
+New skin:
+The Thousand-Pierced Bear
+.
+New splash artwork for
+Original Volibear
+,
+Thunder Lord Volibear
+,
+Runeguard Volibear
+,
+Northern Storm Volibear
+.
+Adjusted splash artwork for
+Captain Volibear
+and
+El Rayo Volibear
+.
+New lore.
+New voice-over.
+Stats
+Base health reduced to 580 from 584.
+48
+.
+Health growth reduced to 85 from 86.
+Base mana increased to 350 from 270.
+4
+.
+Mana growth increased to 40 from 30.
+Base armor reduced to 31 from 35.
+Base magic resistance reduced to 32 from 32.
+1
+.
+Base health regeneration increased to 9 from 8.
+Health regeneration growth increased to 0.
+75
+from 0.
+65
+.
+Base mana regeneration reduced to 6.
+25
+from 8.
+092
+.
+Mana regeneration growth reduced to 0.
+5
+from 0.
+65
+.
+Base attack damage reduced to 60 from 68.
+Attack damage growth reduced to 3 from 3.
+3
+.
+Base attack speed increased to 0.
+66
+from 0.
+658
+.
+Attack speed ratio increased to 0.
+7
+from 0.
+658
+.
+Attack speed growth reduced to 2% from 2.
+67
+%.
+Base attack range increased to 150 from 125.
+Base movement speed reduced to 340 from 345.
+The Relentless Storm
+(Innate)
+Innate:
+Volibear
+gains 1 stack of
+The Relentless Storm
+whenever he damages an enemy with
+basic attacks
+on-hit and abilities, up to a maximum of 5.
+The Relentless Storm
+lasts for 6 seconds, refreshing whenever
+Volibear
+gains a stack. At maximum stacks, he gains
+Lightning Claws
+.
+The Relentless Storm:
+Volibear
+gains
+5%
+bonus
+attack speed
+per stack, up to
+25%
+bonus
+attack speed
+.
+Lightning Claws:
+Volibear's
+claws ignite with lightning, causing his basic attacks on-hit to deal
+11 − 60 (based on level)
+(+ 40% AP)
+bonus
+magic damage
+to the target and the closest
+visible
+enemy within 450 units of the target, chaining up to 4 subsequent targets.
+Effect Radius:
+450
+.
+Thundering Smash
+(Q)
+Active:
+Volibear
+drops on all fours, becoming
+ghosted
+and gaining 10 / 15 / 20 / 25 / 30%
+bonus
+movement speed
+for 4 seconds, doubled when moving towards
+visible
+enemy
+champions
+.
+While active,
+Volibear's
+next basic attack within the duration
+pounces
+on the target
+, deals 20 / 40 / 60 / 80 / 100
+(+ 120%
+bonus
+AD)
+bonus
+physical damage
+, and
+stuns
+the target for 1 second.
+If
+Volibear
+becomes
+immobilized
+while
+Thundering Smash
+is active, the effect ends prematurely and the
+cooldown
+is reset.
+Thundering Smash
+resets
+Volibear's
+basic attack timer, benefits from
+life steal
+and is affected by
+critical strike
+modifiers.
+Mana Cost:
+50.
+Cooldown:
+14 / 13 / 12 / 11 / 10
+seconds.
+Frenzied Maul
+(W)
+Active:
+Volibear
+strikes the target enemy, dealing 10 / 35 / 60 / 85 / 110
+(+ 100% AD)
+(+ 6% of his
+bonus
+health)
+physical damage
+, applying
+on-hit
+effects, and
+Wounding
+them for 8 seconds.
+If
+Frenzied Maul
+targets a
+Wounded
+enemy,
+Volibear
+bites the target, dealing
+50% increased damage
+and
+healing
+himself for 20 / 35 / 50 / 65 / 80
+(+ 8 / 10 / 12 / 14 / 16% of his
+missing
+health)
+. The heal is halved against
+minions
+.
+Frenzied Maul
+also benefits from
+life steal
+.
+Mana Cost:
+30 / 35 / 40 / 45 / 50.
+Cooldown:
+5 seconds.
+Target Range:
+325
+/
+350
+.
+Cast Time:
+0.
+25
+seconds.
+Sky Splitter
+(E)
+Active:
+Volibear
+summons a lightning bolt to strike at the target location after a 2-second delay. Enemies can see the cast location indicator after a 1-second delay. If
+Volibear
+is within the lightning strike, he
+shields
+himself for
+15% of his
+maximum
+health
+(+ 80% AP)
+for 3 seconds.
+The lightning bolt deals 60 / 90 / 120 / 150 / 180
+(+ 80% AP)
+(+ 7 / 8.
+5
+/ 10 / 11.
+5
+/ 13% of target's
+maximum
+health)
+magic damage
+to all enemies struck, capped at 100 / 200 / 300 / 400 / 500 against non-champions,
+slowing
+them by 40% for 2 seconds, and grants
+sight
+of the area for
+X
+seconds.
+Mana Cost:
+60.
+Cooldown:
+15 seconds.
+Target Range:
+1200.
+Effect Radius:
+325
+/
+425
+.
+Stormbringer
+(R)
+Active:
+Volibear
+gains
+Stormbringer
+for 12 seconds and
+leaps
+to the target location with
+immunity to crowd control
+as well as granting
+sight
+of the area in a 500 radius during it. If
+Thundering Smash
+is active when
+Stormbringer
+is cast, its duration is refreshed.
+Stormbringer:
+Volibear
+becomes
+ghosted
+and gains 200 / 400 / 600
+bonus
+health
+,
+50
+bonus
+attack range
+, 25 increased range on
+Frenzied Maul
+, and 25% increased size.
+Volibear
+impacts
+after a 1 second delay,
+slowing
+all enemies in an area by 50%, decaying over 1 second. Enemies in the epicenter are also dealt 250 / 475 / 700
+(+ 250%
+bonus
+AD)
+(+ 125% AP)
+physical damage
+.
+Volibear
+also disables enemy
+turrets
+in an area for 2 / 4 / 6 seconds, dealing them the same
+physical damage
+.
+Stormbringer will cast at max range if cast beyond that.
+Mana Cost:
+100.
+Cooldown:
+160 / 140 / 120
+seconds.
+Target Range:
+700.
+Effect Radius:
+250
+/
+500
+/
+700
+.
+Speed:
+750
+.
+Trivia
+[
+edit
+|
+edit source
+]
+Volibear was the first champion released in
+Season Two
+.
+He was named after
+Travis 'Volibar' George
+, from a long running forum meme of him supporting armored bears in the League.
+[2]
+Volibar
+comes from Basque
+bolu
+"mill" and
+ibar
+"valley".
+[3]
+This demi-god's preferred epithet
+Valhir
+is possibly based on unattested
+Old Norse
+*
+Val
+hyrr
+[4]
+[5]
+"fire of the battle-slain";
+valr
+"battle-slain" is also found in
+Valhalla
+"hall of the battle-slain" and
+Valkyrie
+"chooser of the battle-slain".
+His other epithet
+the Volibear
+possibly also contains a variant of
+valr
+.
+His
+Ursine
+tribe possibly references on real-world
+bear worship
+and the norse
+Berserker
+.
+Volibear might have been inspired by the
+Panserbjørne
+(Danish/Norwegian: 'armored bears') from
+His Dark Materials
+by
+Philip Pullman
+.
+Volibear's dance both before and after his
+visual update
+references Sam B's
+dance
+in
+America's Got Talent
+.
+A side-by-side comparison from before his update can be seen
+here
+.
+A side-by-side comparison from after his update can be seen
+here
+.
+In Volibear's '
+Champion Spotlight
+', his release skin names were erroneously used to label the opposite one (i.e. '
+Thunder Lord
+' was on '
+Northern Storm
+' and vice versa).
+Rolling Thunder
+might be referencing
+the eponymous piece
+by
+Henry Fillmore
+and/or
+Operation Rolling Thunder
+from the
+Vietnam War
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Juggernaut
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+Juggernauts
+are melee titans who relentlessly march down the opposition and devastate those foolish enough to get within their grasp. They are the only subclass who excel at both dealing and taking significant amounts of damage, but in turn they have a tough time closing in on targets due to their low range and extremely limited mobility.
+Examples
+Dr. Mundo
+Darius
+Mordekaiser
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Default damage
+Default damage
+is dealt by effects that are not otherwise classified, or are deliberately left unclassified. This most common source of
+default damage
+is splash damage from basic attacks.
+Default damage
+does not interact with most other effects, such as
+Conqueror
+stacking,
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of the damage's non-reactive nature (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Invulnerability
+A unit that is
+Invulnerable
+reduces all damage taken to
+0
+and prevents effects that trigger from damage.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Frenzied Maul
+COOLDOWN:
+5
+Active:
+Volibear
+strikes the target enemy to deal
+physical damage
+based on
+his
+bonus
+health
+, apply
+on-hit
+and
+on-attack
+effects, and mark them
+Wounded
+for a period.
+Wounded Bonus:
+Frenzied Maul
+deals increased damage and
+heals
+Volibear
+based on
+his
+missing
+health
+.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Applies life steal
+"Applies life steal"
+is a
+damage tag
+that gives an ability the property of having a damage source apply
+life steal
+like
+basic attack damage
+would.
+This tag is located on some abilities that deal
+spell damage
+(e.g.
+Samira's
+Flair
+and
+Inferno Trigger
+) and
+items
+that deal damage
+on-hit
+.
+Life steal
+does not have a penalty for
+area of effect
+abilities and is always applied to the damage dealt at 100% effectiveness, unless otherwise specified. Unlike
+Vamp
+, the
+"applies life steal"
+tag applies life steal directly and does not
+heal
+based on damage dealt and the life steal
+stat
+. Therefore healing modifiers that affect
+life steal
+also affect abilities with the
+"applies life steal"
+tag.
+League of Legends content
+Immobilize
+Immobilized
+units cannot control their movement. The following crowd control effects
+immobilize
+the unit:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Root
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Impaired movement
+is a similar term that, in addition to the above, also refers to units that are
+slowed
+.
+League of Legends content
+Polymorph
+A unit that is
+polymorphed
+is
+silenced
+and turned into a helpless critter.
+A unit that is
+silenced
+is unable to cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Polymorph
+combines
+silence
+with additional effects; it is the signature effect of
+Lulu's
+Whimsy
+, which also
+disarms
+and reduces the target's movement speed for the duration.
+Interrupts:
+Interrupts all
+attack windups
+(including
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Life steal
+,
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Interrupt
+Interrupt
+is a quality of crowd control that
+interrupts
+an in-progress effect, preventing its completion or causing the effect to go off at an
+interrupted
+state.
+The following crowd control effects
+interrupt
+channeled and charged
+abilities (unless otherwise noted by the ability):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+The following crowd control effects
+interrupt
+dashes
+:
+Airborne
+Knockdown
+Stasis
+Basic attack windups
+are
+interrupted
+by all forms of crowd control that inhibit attacking.
+Ground
+and
+Root
+only
+interrupt
+channeled and charged movement abilities.
+League of Legends content
+Resurrection
+A unit that is protected by
+Resurrection
+will enter a revival state and dispel most debuffs upon taking
+fatal damage
+. After the state completes, the unit is revived.
+Resurrection
+effects do not count for kills or assists.
+Resurrection
+sources have a hierarchy, and will trigger in the following order:
+Zilean's
+Chronoshift
+Guardian Angel
+Anivia's
+Rebirth
+and
+Zac's
+Cell Division
+Resurrection
+will always take precedence over
+zombie state
+effects. Entering
+resurrection
+does not cancel cast times.
+Renata Glasc's
+Bailout
+always takes priority over
+resurrection
+.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Ward
+Wards
+are deployable units that that grant
+sight
+over the surrounding area. They can only be destroyed by
+basic attacks
+, granting
+gold
+and
+experience
+.
+There are three kinds of deployable
+wards
+available for purchase:
+Control Ward
+,
+Warding Totem
+, and
+Farsight Alteration
+. Other types of wards, such as
+Zombie Ward
+, are usable through various means.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Volibear's profile page
+at
+LeagueOfLegends.com
+↑
+IronStylus on champion names
+↑
+Trask, R. L.
+Etyologogical Dictionary of Basque
+, p. 146, 217
+↑
+hyrr
+in Zoëga (1910)
+A Concise Dictionary of Old Icelandic
+↑
+Kroonen, G.
+Etymological Dictionary of Proto-Germanic
+p. 258

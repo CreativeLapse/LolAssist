@@ -1,0 +1,3065 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Varus
+the Arrow of Retribution
+Release date
+2012-05-08
+Last changed
+V14.22
+Class(es)
+Marksman
+Artillery
+Legacy
+Marksman
+Mage
+Position(s)
+Bottom
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+1
+Utility
+1
+Style
+Difficulty
+Varus
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Varus
+Base statistics
+Edit
+Health
+600
++105
+Mana
+360
++40
+Health regen. (per 5s)
+3.5
++0.55
+Mana regen. (per 5s)
+8
++0.8
+Armor
+27
++4.6
+Attack damage
+59
++3.4
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+575
+Attack speed
+Base AS
+0.658
+Attack windup
+17.544%
+AS ratio
+N/A
+Bonus AS
++3.5
+%
+Missile speed
+2000
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+600
+Special statistics
+Damage Dealt
+-2%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Living Vengeance
+Innate:
+When
+Varus
+kills an enemy, he gains
+bonus
+attack speed
+,
+bonus
+attack damage
+, and
+ability power
+for a few seconds. The amount is based on his other sources of
+bonus
+attack speed
+, and is increased on an enemy
+champion
+takedown
+.
+Innate:
+When
+Varus
+kills an enemy, he gains
+10 / 15 / 20% (based on level)
+bonus
+attack speed
+as well as
+bonus
+attack damage
+and
+ability power
+equal to
+10%
+bonus
+attack speed
+for
+5 / 7 / 9 / 11 (based on level)
+seconds.
+This is increased to
+50%
+bonus
+attack speed
+and
+bonus
+attack damage
+and
+ability power
+equal to
+25%
+bonus
+attack speed
+upon scoring a
+champion
+takedown
+.
+While
+Living Vengeance's
+bonus is active,
+Varus'
+attack speed cap is increased to 3.
+Info
+Targeting input
+Passive
+Living Vengeance's
+buff can be refreshed and is triggered when
+Varus
+kills any unit.
+The increased bonus gained from taking down an enemy champion takes priority over the lesser bonus. That bonus can only be refreshed by scoring another takedown.
+Edit
+Piercing Arrow
+COST:
+65 / 70 / 75 / 80 / 85 mana
+COOLDOWN
+:
+16 / 15 / 14 / 13 / 12
+CAST TIME:
+none
+RANGE:
+895 − 1595 (based on channel time)
+WIDTH:
+140
+SPEED:
+1900
+Active:
+Varus
+charges
+up to a few seconds, increasing the
+range
+of his shot.
+Piercing Arrow
+can be recast within the duration and will cancel automatically afterwards, refunding a portion of the
+mana cost
+.
+Recast:
+Varus
+fires a piercing arrow in the target direction that deals
+physical damage
+to enemies hit based on channel time.
+Active:
+Varus
+charges
+while being
+slowed
+by 20% for up to 4 seconds to increase
+Piercing Arrow's
+range
+over the first 1.
+5
+seconds and its  effects over the first 1.
+25
+seconds of the channel.
+Piercing Arrow
+can be recast within the duration. If the charge completes without reactivation,
+Piercing Arrow
+is cancelled and refunds
+50% of the mana cost
+.
+Recast:
+Varus
+fires a piercing arrow in the target direction that deals
+physical damage
+to enemies hit. The damage of the arrow as well as any detonated
+Blight
+stacks are both increased by
+0% − 50% (based on channel time)
+, and the arrow's damage is reduced by
+0% − 67% (based on number of enemies hit)
+.
+Minimum Physical Damage:
+60 / 106.
+67
+/ 153.
+33
+/ 200 / 246.
+67
+(+ 86.
+67
+/ 93.
+33
+/ 100 / 106.
+67
+/ 113.
+33
+%
+bonus
+AD)
+Maximum Physical Damage:
+90 / 160 / 230 / 300 / 370
+(+ 130 / 140 / 150 / 160 / 170%
+bonus
+AD)
+Minimum Reduced Damage:
+19.
+8
+/ 35.
+2
+/ 50.
+6
+/ 66 / 81.
+4
+(+ 28.
+6
+/ 30.
+8
+/ 33 / 35.
+2
+/ 37.
+4
+%
+bonus
+AD)
+Maximum Reduced Damage:
+29.
+7
+/ 52.
+8
+/ 75.
+9
+/ 99 / 122.
+1
+(+ 42.
+9
+/ 46.
+2
+/ 49.
+5
+/ 52.
+8
+/ 56.
+1
+%
+bonus
+AD)
+Info
+Targeting input
+Auto
+/
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Disruption
+Interrupted
+The arrow missile range is 825 to 1525; The range increases by 140 per 0.
+25
+seconds for the first 1.
+25
+seconds. Upon reaching its maximum range, it also strikes additional targets in a
+70 radius, rounding off the struck area.
+The indicator for the range of the spell will be displayed for the entire channel.
+Piercing Arrow
+will cast from wherever
+Varus
+is at the end of the channel.
+At maximum effect charge, all damage caused by
+Piercing Arrow
+will trigger
+cosmetic critical strike
+text.
+In the game,
+Blighted Quiver's
+stack consumption and its active effect's damage through
+Piercing Arrow
+are incorrectly displayed as
+real critical strikes.
+(bug)
+The following table refers for interactions while
+Varus
+is
+channeling
+:
+Type
+Charge channel
+Attacking
+Disabled
+Abilities
+Blighted Quiver
+is usable during the first 0.
+85
+seconds, otherwise, it's disabled.
+Hail of Arrows
+and
+Chain of Corruption
+are disabled. This ability recasts to end channel.
+Movement
+Allowed
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled, but can still use trinkets.
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Disabled
+Teleport
+Recall
+Interrupted by
+Hexflash
+(Recasts)
+Interrupted by
+Death
+Cast-inhibiting effects
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 13 / 12 / 11 / 10 / 9 seconds.
+Edit
+Blighted Quiver
+COOLDOWN
+:
+40
+CAST TIME:
+none
+Passive:
+Varus'
+basic attacks deal
+bonus
+magic damage
+and apply a stack of
+Blight
+, which stacks up to 3 times.
+Varus'
+abilities consume all
+Blight
+stacks on enemies hit to apply the effect.
+Active:
+Varus'
+next
+Piercing Arrow
+within a few seconds is empowered to deal
+bonus
+magic damage
+to enemies based on
+their
+missing
+health
+, increased based on charge time. If he does not cast
+Piercing Arrow
+,
+Blighted Quiver
+can be recast within the duration, and does so automatically afterwards.
+Recast:
+Varus
+ends
+Blighted Quiver
+, placing it on a
+brief
+cooldown.
+Blight:
+For each stack consumed, the target is dealt
+bonus
+magic damage
+based on their
+health
+. Against a
+champion
+or epic
+monster
+, his basic abilities'
+cooldown
+is
+reduced
+. If
+Piercing Arrow
+consumes the stacks, both the damage and the cooldown reduction are increased based on its charge time.
+Passive:
+Varus'
+basic attacks
+are empowered to deal
+bonus
+magic damage
+and apply a
+stack
+of
+Blight
+on-hit
+for 6 seconds, refreshing on subsequent applications and stacking up to 3 times.
+Varus'
+abilities detonate all
+Blight
+stacks on enemies hit, consuming them to apply new effects.
+Bonus Magic Damage:
+8 / 13 / 18 / 23 / 28
+(+ 35% AP)
+Blight:
+For each stack consumed, the target is dealt
+bonus
+magic damage
+. If the stacks were consumed with
+Piercing Arrow
+, this damage is increased by
+0% − 50% (based on
+Piercing Arrow's
+charge time)
+. This damage is capped at 120 per stack against
+monsters
+, for a total cap of 360 at maximum stacks.
+Additionally, each stack consumed against a
+champion
+or epic
+monster
+reduces the
+remaining
+cooldowns
+of
+Varus'
+basic abilities by 13% of each of their
+total
+cooldowns, up to a 39% cooldown reduction per target. If the stacks were consumed with
+Piercing Arrow
+, the cooldown reduction is increased by
+0% − 50% (based on
+Piercing Arrow's
+charge time)
+, up to a
+39% − 58.
+5
+%
+cooldown reduction per target from consuming maximum stacks against them.
+Bonus Magic Damage per Stack:
+3 / 3.
+5
+/ 4 / 4.
+5
+/ 5%
+(+ 1.
+5
+% per 100 AP)
+of the target's
+maximum
+health
+Bonus Magic Damage at Max Stacks:
+9 / 10.
+5
+/ 12 / 13.
+5
+/ 15%
+(+ 4.
+5
+% per 100 AP)
+of the target's
+maximum
+health
+Maximum Bonus Magic Damage per Stack:
+4.
+5
+/ 5.
+25
+/ 6 / 6.
+75
+/ 7.
+5
+%
+(+ 2.
+25
+% per 100 AP)
+of the target's
+maximum
+health
+Maximum Bonus Magic Damage at Max Stacks:
+13.
+5
+/ 15.
+75
+/ 18 / 20.
+25
+/ 22.
+5
+%
+(+ 6.
+75
+% per 100 AP)
+of the target's
+maximum
+health
+Active:
+Varus'
+next
+Piercing Arrow
+within 5.
+5
+seconds is empowered to deal
+additional bonus
+magic damage
+. This damage is further increased by
+0% − 50% (based on
+Piercing Arrow's
+charge time)
+. This damage is capped at 360 against
+monsters
+.
+Active Magic Damage:
+6 / 8 / 10 / 12 / 14% of target's
+missing
+health
+Increased Active Magic Damage:
+9 / 12 / 15 / 18 / 21% of target's
+missing
+health
+If
+Varus
+does not cast
+Piercing Arrow
+,
+Blighted Quiver
+can be recast after 1 second within the duration, and does so automatically afterwards or when he dies.
+Blighted Quiver
+can be cast during the first 0.
+85
+seconds of
+Piercing Arrow's
+charge, and will be placed on full cooldown after the charge ends even if
+Piercing Arrow
+is not recast.
+Recast:
+Varus
+ends
+Blighted Quiver
+and places it on a 1-second cooldown.
+Blighted Quiver's active and recast can both be used while affected by
+cast-inhibiting crowd control
+.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Proc damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Parries
+Missing
+The monster damage cap is also increased by
+0% − 50% (based on
+Piercing Arrow's
+charge time)
+if the stacks were consumed with
+Piercing Arrow
+.
+Spell shield
+will not block the
+on-hit
+damage but will block the consumption damage if the target is hit by his abilities.
+Blighted Quiver's
+active damage is dealt after the damage of
+Piercing Arrow
+.
+Blighted Quiver
+does not count as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+The attacks do not affect
+structures
+nor
+wards
+.
+PENDING FOR TEST:
+:
+Blighted Quiver's
+on-hit interaction with
+parrying
+effects (
+dodge
+,
+block
+,
+blind
+).
+Edit
+Hail of Arrows
+COST:
+80 mana
+COOLDOWN:
+18 / 16 / 14 / 12 / 10
+CAST TIME:
+0.
+2419
+TARGET RANGE:
+925
+EFFECT RADIUS:
+300
+Active:
+Varus
+fires a hail of arrows to the target location that deals
+physical damage
+to enemies hit. The area then becomes desecrated for a few seconds,
+slowing
+enemies within and inflicting them with
+Grievous Wounds
+.
+Grievous Wounds
+:
+The target receives reduced
+healing
+and
+health regeneration
+.
+Active:
+Varus
+fires a hail of arrows at the target location that land after 0.
+5
+seconds, dealing
+physical damage
+to enemies hit.
+Physical Damage:
+60 / 100 / 140 / 180 / 220
+(+ 100%
+bonus
+AD)
+The area then becomes desecrated for 4 seconds,
+slowing
+enemies within and inflicting them with
+Grievous Wounds
+.
+Slow:
+30 / 35 / 40 / 45 / 50%
+Hail of Arrows will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Slow
+lingers for 0.
+25
+seconds after leaving the marked area.
+Hail of Arrows
+consumes
+Blighted Quiver
+stacks for bonus damage a second time after ~0.
+3
+seconds of hitting, allowing stacks applied during this time to be triggered.
+Map-Specific Differences
+Arena
+differences
+edit
+Bonus AD ratio changed to
+110%
+bonus
+AD
+.
+Edit
+Chain of Corruption
+COST:
+100 mana
+COOLDOWN:
+100 / 80 / 60
+CAST TIME:
+0.
+2419
+RANGE:
+1370
+EFFECT RADIUS:
+650
+WIDTH:
+240
+TETHER RADIUS:
+650
+SPEED:
+1500
+Active:
+Varus
+unleashes a tendril in the target direction that infects the first enemy champion hit, dealing
+magic damage
+and
+rooting
+them for a short time. They are also
+revealed
+and rapidly inflicted with
+Blight
+stacks. Upon impact, the tendril roots into the ground from which it
+tethers
+to nearby enemy
+champions
+. If a target stays within range after its duration, they become infected and a new tendril will spread from them.
+Chain of Corruption's
+spread can repeat indefinitely until there are no new targets.
+Active:
+Varus
+unleashes a tendril of corruption in the target direction that infects the first enemy champion hit, dealing
+magic damage
+and
+rooting
+them for 2 seconds, during which they are
+revealed
+. Over the first 1.
+5
+seconds of the root, they are also inflicted with maximum stacks of
+Blight
+.
+Magic Damage:
+150 / 250 / 350
+(+ 100% AP)
+Upon impact, the tendril roots into the ground from which it seeks out nearby enemy
+champions
+. If a target does not leave the area within 2 seconds, they subsequently become infected as well, taking the same damage and effects. A new tendril is then spread out from the infected target that is closest to a nearby uninfected enemy champion. The infection can spread repeatedly until there are no new targets.
+The target does not have to be
+visible
+to be caught by the tendril.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Enemy champions can be targeted again by the corruption's tether if they were not infected the previous time, even if they were targeted and got out of range.
+A tendril that roots into the ground will only seek nearby enemy champions that were already in the area.
+Chain of Corruption
+will not infect
+crowd control immune
+targets or those protected by
+spell shields
+(but will still seek them).
+Varus
+will turn to face the target direction at the start of the cast.
+The tendril cannot seek enemy champions that are
+untargetable
+.
+This ability will cast from wherever the caster is at the end of the cast time.
+Consuming the
+Blight's
+stacks applied by
+Chain of Corruption
+will deal bonus magic damage based on
+Blighted Quiver's
+rank. If the ability hasn't been ranked yet, the three
+Blight
+stacks will still be applied but they will be considered to be at rank 0, dealing
+1.
+25
+%
+(+ 2% per 100 AP)
+of the target's
+maximum
+health
+per stack.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Varus (Collection)
+.
+Original
+View in 3D
+880
+08.05.2012
+One of the ancient darkin, Varus was a deadly killer who loved to torment his foes, driving them almost to insanity before delivering the killing arrow. He was imprisoned at the end of the Great Darkin War, but escaped centuries later in the remade flesh of two Ionian hunters—they had unwittingly released him, cursed to bear the bow containing his bound essence. Varus now seeks out those who trapped him, in order to enact his brutal vengeance, but the mortal souls within still resist him every step of the way.
+Gavin Hammon
+Jessica 'OwleyCat' Oyhenart
+Loot eligible
+Blight Crystal
+View in 3D
+975
+08.05.2012
+Wielding radiant mineral bows, three excavators dove into a cave of crystalline monsters. But only the grimly determined Varus emerged. While shattering the horrors that lurked in dark depths, they lost all grasp of time, sense, and self. Varus became an amalgam of crystal, monster, and man—now fracturing the world he once sought to make safe.
+Gavin Hammon
+Unknown artist
+Legacy
+Loot eligible
+New SFX/VFX
+Arclight
+View in 3D
+975
+05.12.2012
+The archer Varus, bathed in the transcendental energies of the Arclight, found himself connected to a great cosmic wholeness more ancient than he had ever known. He now enforces this oneness, turning away entire armies long before they can ignite the flames of war.
+Gavin Hammon
+Concept Art House
+Arclight
+Loot eligible
+Voice filter
+New SFX/VFX
+Arctic Ops
+View in 3D
+1350
+20.03.2014
+Varus leaps from the rampart, a hail of arrows flying from his bow and freezing the ground beneath his victims. As they struggle to regroup, he draws a missile—circuits flashing along its spine—and lets fly. Thanks for the archer, High Command!
+Gavin Hammon
+Charles 'Yideth' Liu
+Arctic Ops
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Heartseeker
+View in 3D
+1350
+13.02.2015
+Love hurts, and Varus is ready to prove it with a quiver full of romance and the seasoned eye of a veteran matchmaker. Angelic harps follow him across the world as he searches for unwitting lovebirds, who soon find their chests pierced by deadly heart-shaped arrowtips.
+Gavin Hammon
+Sixmorevodka Studio
+Heartbreakers
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Varus Swiftbolt
+View in 3D
+750
+07.12.2015
+Two archers cursed by an ancient, evil monster, Varus is roleplaying one archer cursed by an ancient, evil monster. It's not much of a departure for him, but Varus is way better at hunting Noxians than playing tabletop games.
+Gavin Hammon
+Unknown artist
+Rift Quest
+Loot eligible
+Dark Star
+View in 3D
+1350
+15.06.2016
+An interstellar titan containing multitudes within his eldritch mind, Varus serves the all-consuming Dark Star, a dread singularity born in the darkness of deep space. His arrival is a cataclysmic extinction event, erasing entire planetary systems as if they were never there.
+Gavin Hammon
+Xu 'Crow God' Cheng
+Dark Star
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dark Star Varus Chromas
+Antimatter
+Conqueror
+View in 3D
+975
+25.04.2018
+Commemorating the 2018 Mid-Season Invitational in Europe.
+Gavin Hammon
+Alvin Lee
+Conqueror
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Conqueror Varus Chromas
+Golden
+Infernal
+View in 3D
+1350
+05.09.2019
+The Infernal Varus rips massive gouts of magma from the foundation of the earth, before firing them in volleys at those who would fight back against him. Each arrow lands with the ferocity of an exploding volcano, reducing all resistance to ash.
+Gavin Hammon
+West Studio
+Infernal
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Infernal Varus Chromas
+Catseye
+Pearl
+Peridot
+Rose Quartz
+Ruby
+PROJECT
+View in 3D
+1350
+27.05.2021
+A replacement for the traitorous Ashe model, Varus is the latest in PROJECT Corporation's biological weapons... and a controversial experiment, with one body inhabited by three sentient minds. A Command Line counter-espionage operative acting on behalf of the PROJECT initiative, they work alongside the resistance to mitigate the risk posed by Mordekaiser to their corporate interests.
+Gavin Hammon
+Svetlana Tigai, West Studio
+PROJECT
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+PROJECT: Varus Chromas
+Amethyst
+Catseye
+Emerald
+Obsidian
+Pearl
+Reckoning
+Rose Quartz
+Ruby
+Sapphire
+Cosmic Hunter
+View in 3D
+1350
+24.11.2020
+A young member of the cosmic court, minted in the image of the Dark Star corruptant Varus. Tasked with destroying his monstrous doppelganger, this new Varus seeks his place among the stars after his task is finally complete.
+Gavin Hammon
+West Studio
+Cosmic
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Cosmic Hunter Varus Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Turquoise
+High Noon
+View in 3D
+1350
+12.05.2022
+Ain't nothin' for a dead angel to do but resign himself to grief. Varus was content to allow Mordekaiser to take him past the infernal gates themselves… Until a ragtag gang of thieves interrupted his mourning. Varus now picks up his bow once more, riding as a Harbinger. It's high time he got revenge for the massacre of Heaven.
+Gavin Hammon
+Ina Wong, West Studio
+High Noon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+High Noon Varus Chromas
+Catseye
+Emerald
+Nomad
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Snow Moon
+View in 3D
+1350
+18.05.2023
+Blood Moon cultists drove Varus' comrades mad, forcing him to take their lives. Awash with grief, he begged the Snow Moon Order to numb the pain, to make him an instrument of ice cold revenge. The Order attempted to purify him of these heretical emotions… but Valmar and Kai's voices linger in his mind, and vengeance still smolders in his cold heart.
+Gavin Hammon
+Jeremy Chong, West Studio
+Snow Moon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Snow Moon Varus Chromas
+Amethyst
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Turquoise
+Empyrean
+View in 3D
+1820
+01.05.2024
+Having lost his family, Varus was already consumed by vengeance when his realm collapsed. Not only did he survive, due to Nocturne's meddling, but two visiting Empyreans, Kai and Valmar, were absorbed into his bow. With the Foreglow stoking his rage, Varus vows to wipe out every last Empyrean, no matter what his new "friends" say.
+Gavin Hammon
+Lejia Chan, Kudos Productions
+Empyrean
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+Empyrean Varus Chromas
+Emerald
+Neon Facade
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.22
+Blighted Quiver
+On-hit base damage increased to 8 / 13 / 18 / 23 / 28 from 5 / 10 / 15 / 20 / 25.
+V14.18
+Piercing Arrow
+Minimum bonus AD ratio reduced to
+86.
+67
+/ 93.
+33
+/ 100 / 106.
+67
+/ 113.
+33
+%
+bonus
+AD
+from
+100 / 106.
+67
+/ 113.
+33
+/ 120 / 126.
+67
+%
+.
+Maximum bonus AD ratio reduced to
+130 / 140 / 150 / 160 / 170%
+bonus
+AD
+from
+150 / 160 / 170 / 180 / 190%
+.
+Hail of Arrows
+Bonus AD ratio reduced to
+100%
+bonus
+AD
+from
+110%
+.
+V14.17
+Piercing Arrow
+Minimum base damage increased to 60 / 106.
+67
+/ 153.
+33
+/ 200 / 246.
+67
+from 10 / 46.
+67
+/ 83.
+33
+/ 120 / 156.
+67
+.
+Maximum base damage increased to 90 / 160 / 230 / 300 / 370 from 15 / 70 / 125 / 180 / 235.
+Minimum AD ratio changed to
+100 / 106.
+67
+/ 113.
+33
+/ 120 / 126.
+67
+%
+bonus
+AD
+from
+83.
+33
+/ 86.
+67
+/ 90 / 93.
+33
+/ 96.
+67
+%
+total
+AD
+.
+Maximum AD ratio changed to
+150 / 160 / 170 / 180 / 190%
+bonus
+AD
+from
+125 / 130 / 135 / 140 / 145%
+total
+AD
+.
+Hail of Arrows
+Bonus AD ratio increased to
+110%
+bonus
+AD
+from
+90%
+.
+V14.16
+Piercing Arrow
+Bug Fix:
+No longer casts in a different direction from the cursor if used while ending a long distance movement.
+V14.15
+Stats
+Base attack damage increased to 59 from 57.
+Living Vengeance
+Bonus attack speed increased to
+10 / 15 / 20% (based on level)
+from 10% at all levels.
+Champion takedown bonus attack speed increased to 50% from 40%.
+Champion takedown bonus attack damage and ability power increased to
+25%
+bonus
+attack speed
+from
+15%
+.
+Attack speed cap increased to 3.
+0
+from 2.
+7632
+.
+Blighted Quiver
+On-hit base damage reduced to 5 / 10 / 15 / 20 / 25 from 7 / 14 / 21 / 28 / 35.
+V14.13
+Stats
+Base attack damage reduced to 57 from 60.
+Attack speed growth reduced to 3.
+5
+% from 4%.
+Living Vengeance
+New Effect:
+When
+Varus
+kills an enemy, he gains
+10%
+bonus
+attack speed
+as well as
+bonus
+attack damage
+and
+ability power
+equal to
+10%
+bonus
+attack speed
+for
+5 / 7 / 9 / 11 (based on level)
+seconds. This is increased to
+40%
+bonus
+attack speed
+and
+bonus
+attack damage
+and
+ability power
+equal to
+15%
+bonus
+attack speed
+upon scoring a champion takedown. While
+Living Vengeance's
+bonus is active,
+Varus'
+attack speed cap is increased to 2.
+7632
+.
+Old Effect:
+When
+Varus
+kills an enemy, he gains
+10 / 15 / 20% (based on level)
+(+
+20% − 23.
+4
+% (based on level)
+bonus
+attack speed)
+bonus
+attack speed for
+5 / 7 / 9 / 11 (based on level)
+seconds, increased to
+40%
+(+
+40% − 46.
+8
+% (based on level)
+bonus
+attack speed)
+bonus
+attack speed upon scoring a champion takedown.
+Blighted Quiver
+On-hit base damage increased to 7 / 14 / 21 / 28 / 35 from 7 / 13 / 19 / 25 / 31.
+Cooldown refund per stack increased to 13% from 12%.
+Maximum cooldown reduction increased to 39% from 36%.
+Piercing Arrow
+bonus damage changed to
+6 / 8 / 10 / 12 / 14% of target's
+missing
+health
+from
+6% − 14% (based on level)
+.
+Maximum
+Piercing Arrow
+bonus damage changed to
+9 / 12 / 15 / 18 / 21% of target's
+missing
+health
+from
+9% − 21% (based on level)
+.
+Cast grace period during
+Piercing Arrow
+increased to 0.
+85
+seconds from 0.
+25
+.
+V14.4
+Stats
+Base attack damage reduced to 60 from 62.
+V14.3
+Hail of Arrows
+Bug Fix:
+Corrected the phantom missile's cast timing to properly coincide with the VFX, which would previously break spell shields earlier than expected.
+V13.22
+Piercing Arrow
+Bug Fix:
+Cast indicator no longer always displays the line indicator even if the setting was disabled.
+V13.21
+Blighted Quiver
+On-hit base damage increased to 7 / 13 / 19 / 25 / 31 from 7 / 12 / 17 / 22 / 27.
+Bug Fix:
+Buff timer VFX is now displayed clearly.
+Hail of Arrows
+Slow increased to 30 / 35 / 40 / 45 / 50% from 25 / 30 / 35 / 40 / 45%.
+V13.20
+Piercing Arrow
+Undocumented/New Effect:
+Cast indicator now includes a line for the arrow.
+V13.18
+General
+Updated ability icons.
+V13.16
+General
+Bug Fix:
+Several issues with voice line playback have been resolved.
+Cosmic Hunter Varus
+Piercing Arrow
+Bug Fix:
+SFX for the cast no longer plays even if the cast did not go off.
+V13.14
+General
+Bug Fix:
+Several issues with voice line playback have been corrected.
+V13.13
+General
+Updated voice over.
+Blighted Quiver
+On-hit AP ratio increased to
+35% AP
+from
+30% AP
+.
+Detonation AP ratio per stack reduced to
+1.
+5
+% per 100 AP
+from
+2.
+5
+% per 100 AP
+.
+Detonation maximum AP ratio reduced to
+4.
+5
+% per 100 AP
+from
+7.
+5
+% per 100 AP
+.
+V13.10
+Piercing Arrow
+Bug Fix:
+Hit VFX against minions and non-epic jungle monsters on
+Conqueror Varus
+,
+Infernal Varus
+,
+PROJECT: Varus
+, and
+Cosmic Hunter Varus
+is now properly displayed.
+V13.4
+Blighted Quiver
+Bug Fix:
+Now properly displays the VFX of its stacks on enemies even if they briefly left vision.
+V13.3
+Hail of Arrows
+Grievous Wounds
+strength increased to 40% from 25%.
+Bug Fix:
+Effect is now fully nullified if the main missile collides with projectile-interception effects, rather than triggering at the location of impact.
+V12.14
+Stats
+Base attack damage increased to 62 from 59.
+Piercing Arrow
+Bug Fix:
+VFX no longer stop rendering after casting
+Hail of Arrows
+.
+V12.11
+Hail of Arrows
+Grievous Wounds
+strength reduced to 25% from 30%.
+V12.10
+Stats
+Base health increased to 600 from 530.
+Health growth increased to 105 from 91.
+Armor growth increased to 4.
+6
+from 3.
+4
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Hail of Arrows
+Grievous Wounds
+strength reduced to 30% from 40%.
+V12.9
+Living Vengeance
+Bonus attack speed ratio on champion takedown increased to
+40% − 46.
+8
+% (based on level)
+bonus
+attack speed
+from
+30% − 35.
+1
+% (based on level)
+.
+Bonus attack speed ratio on non-champion kill increased to
+20% − 23.
+4
+% (based on level)
+bonus
+attack speed
+from
+15% − 17.
+55
+% (based on level)
+.
+Blighted Quiver
+On-hit base damage increased to 7 / 12 / 17 / 22 / 27 from 7 / 10.
+5
+/ 14 / 17.
+5
+/ 21.
+V12.5
+- March 9th Hotfix
+Blighted Quiver
+On-hit base damage increased to 7 / 10.
+5
+/ 14 / 17.
+5
+/ 21 from 7 / 9 / 11 / 13 / 15.
+Chain of Corruption
+Base damage increased to 150 / 250 / 350 from 150 / 200 / 250.
+V12.3
+Piercing Arrow
+Bug Fix:
+Charge cancellation VFX has been restored for all skins.
+V11.24
+- December 15th Hotfix
+Living Vengeance
+Bonus attack speed duration increased to
+5 / 7 / 9 / 11 (based on level)
+seconds from 5 at all levels.
+Blighted Quiver
+On-hit base damage increased to 7 / 9 / 11 / 13 / 15 from 7 / 8 / 9 / 10 / 11.
+On-hit AP ratio increased to
+30% AP
+from
+25% AP
+.
+Detonation AP ratio per stack increased to
+2.
+5
+% per 100 AP
+from
+2% per 100 AP
+.
+Detonation maximum AP ratio increased to
+7.
+5
+% per 100 AP
+from
+6% per 100 AP
+.
+V11.24
+General
+Updated visual effects.
+V11.22
+Hail of Arrows
+Bonus AD ratio increased to
+90%
+bonus
+AD
+from
+60%
+.
+V11.19
+Piercing Arrow
+Cooldown increased to 16 / 15 / 14 / 13 / 12 seconds from 16 / 14.
+5
+/ 13 / 11.
+5
+/ 10.
+V11.18
+Stats
+Base attack damage reduced to 59 from 61.
+Living Vengeance
+Base bonus attack speed on non-champion kill reduced to
+10 / 15 / 20% (based on level)
+from 20% at all levels.
+V11.12
+Blighted Quiver
+Active damage modifier reduced to
+0% − 50% (based on
+Piercing Arrow's
+charge time)
+from
+0% − 80% (based on
+Piercing Arrow's
+charge time)
+.
+Maximum
+Piercing Arrow
+bonus damage reduced to
+9% − 21% (based on level)
+of the target's
+missing
+health
+from
+10.
+8
+% − 25.
+2
+% (based on level)
+.
+V11.7
+Stats
+Attack damage growth increased to 3.
+4
+from 3.
+V11.4
+Blighted Quiver
+Active damage modifier increased to
+0% − 80% (based on
+Piercing Arrow's
+charge time)
+from
+0% − 50% (based on
+Piercing Arrow's
+charge time)
+.
+Maximum
+Piercing Arrow
+bonus damage increased to
+10.
+8
+% − 25.
+2
+% (based on level)
+of the target's
+missing
+health
+from
+9% − 21% (based on level)
+.
+V11.2
+Stats
+Mana growth increased to 40 from 33.
+Chain of Corruption
+Cooldown reduced to 100 / 80 / 60 seconds from 120 / 90 / 60.
+V11.1
+- January 6th Hotfix
+Piercing Arrow
+Mana cost reduced to 65 / 70 / 75 / 80 / 85 from 70 / 75 / 80 / 85 / 90.
+Cooldown reduced to 16 / 14.
+5
+/ 13 / 11.
+5
+/ 10 seconds from 18 / 16 / 14 / 12 / 10.
+V10.24
+Piercing Arrow
+Removed:
+Consuming
+Blight
+with
+Piercing Arrow
+no longer reduces its cooldown by 3 seconds.
+New Effect:
+Blight
+consumed by
+Piercing Arrow
+now increases the detonation damage by
+0% − 50% (based on
+Piercing Arrow's
+charge time)
+.
+New Effect:
+When
+Piercing Arrow
+is fully charged, all
+damaging effects triggered by it
+will now display critical strike impact text.
+Blighted Quiver
+On-hit base damage reduced to 7 / 8 / 9 / 10 / 11 from 7 / 10.
+5
+/ 14 / 17.
+5
+/ 21.
+New Effect:
+Detonating
+Blight
+against champions and epic monsters now reduces his basic ability cooldowns by 12% per stack, up to 36% at 3 stacks detonated. This is further increased by
+0% − 50% (based on
+Piercing Arrow's
+charge time)
+, for a combined possible cooldown reduction of
+36% − 54%
+.
+Chain of Corruption
+New Effect:
+Now snaps to face the target direction at the start of cast.
+Missile speed reduced to 1500 from 1950.
+V10.20
+Hail of Arrows
+Base damage increased to 60 / 100 / 140 / 180 / 220 from 50 / 90 / 130 / 170 / 210.
+Chain of Corruption
+Cooldown reduced to 120 / 90 / 60 seconds from 130 / 100 / 70.
+V10.17
+Stats
+Attack speed growth increased to 4% from 3%.
+Living Vengeance
+Bonus attack speed ratio on champion takedown increased to
+30% − 35.
+1
+% (based on level)
+bonus
+attack speed
+from
+30%
+bonus
+attack speed from non-growth sources
+at all levels.
+Bonus attack speed ratio on non-champion kill increased to
+15% − 17.
+55
+% (based on level)
+bonus
+attack speed
+from
+15%
+bonus
+attack speed from non-growth sources
+at all levels.
+V10.14
+Piercing Arrow
+Maximum AD ratio reduced to
+125 / 130 / 135 / 140 / 145% AD
+from
+150% AD
+at all ranks.
+Minimum AD ratio reduced to
+83.
+33
+/ 86.
+67
+/ 90 / 93.
+33
+/ 96.
+67
+% AD
+from
+100% AD
+at all ranks.
+Hail of Arrows
+Base damage reduced to 50 / 90 / 130 / 170 / 210 from 70 / 105 / 140 / 175 / 210.
+V10.12
+Stats
+Attack damage growth reduced to 3 from 3.
+11
+.
+Piercing Arrow
+Minimum AD ratio reduced to
+100% AD
+from
+110% AD
+.
+Maximum AD ratio reduced to
+150% AD
+from
+165% AD
+.
+V10.11
+Stats
+Base health increased to 530 from 500.
+Health growth increased to 91 from 89.
+V10.8
+Piercing Arrow
+Indicator added to show recast ability timer.
+Chain of Corruption
+Cooldown increased to 130 / 100 / 70 seconds from 110 / 90 / 70.
+V10.6
+General
+Recommended items updated.
+Hail of Arrows
+Bug Fix:
+When attempting to cast it outside of its maximum range immediately after
+Flashing
+, the ability's position will now properly update and cast at its post-Flash max range.
+V10.5
+Hail of Arrows
+Now casts at maximum range instead of casting in the targeted area.
+V10.1
+Piercing Arrow
+Cooldown reduced to 18 / 16 / 14 / 12 / 10 from 20 / 18 / 16 / 14 / 12.
+Blight stack detonation cooldown reduction reduced to 3 seconds from 4.
+V9.20
+Stats
+Base attack damage increased to 61 from 59.
+Base mana regeneration increased to 8 from 7.
+34
+.
+Base mana reduced to 360 from 360.
+48
+.
+Base health increased to 500 from 499.
+V9.4
+Blighted Quiver
+Bug Fix:
+Fixed a bug where the detonation damage was lower than intended.
+V9.1
+Hail of Arrows
+Bug Fix:
+Slow zone VFX no longer fail to appear if cast from Fog of War.
+V8.24b
+Blighted Quiver
+Active damage increased to
+6% − 14% (based on level)
+of the target's
+missing
+health
+6 / 8 / 10 / 12 / 14% (based on level)
+of the target's
+missing
+health
+from
+6% − 10% (based on level)
+.
+Chain of Corruption
+Base damage increased to 150 / 200 / 250 from 100 / 175 / 250.
+V8.24
+Blighted Quiver
+Bug Fix:
+Fixed a bug that allowed his allies to detonate it.
+V8.17
+Stats
+Base health reduced to 499 from 549.
+Health growth increased to 89 from 86.
+V8.13
+- July 3rd Hotfix
+Piercing Arrow
+Minimum AD ratio increased to
+110% AD
+from
+100% AD
+.
+Maximum AD ratio increased to
+165% AD
+from
+150% AD
+.
+Blighted Quiver
+On-hit base damage increased to 7 / 10.
+5
+/ 14 / 17.
+5
+/ 21 from 5 / 9 / 13 / 17 / 21.
+Health ratio per stack increased to
+3 / 3.
+5
+/ 4 / 4.
+5
+/ 5% of target's
+maximum
+health
+from
+2 / 2.
+75
+/ 3.
+5
+/ 4.
+25
+/ 5%
+.
+V8.11
+Stats
+Base health increased to 549 from 537.
+76
+.
+Health growth increased to 86 from 82.
+Base armor reduced to 27 from 32.
+Base health regeneration reduced to 3.
+5
+from 5.
+5
+.
+Base attack damage reduced to 59 from 63.
+Attack damage growth increased to 3.
+11
+from 2.
+41
+.
+V8.9
+Blighted Quiver
+Bug Fix:
+Fixed a bug where the basic attack played the base skin's sound effects instead of those for whatever skin was in use.
+Bug Fix:
+Unique SFX have been restored for
+Varus
+and all skins.
+V8.8
+Living Vengeance
+Bonus attack speed ratio on champion takedown reduced to
+30%
+bonus
+attack speed from non-growth sources
+from
+50%
+.
+Bonus attack speed ratio on minion or monster kill reduced to
+15%
+bonus
+attack speed from non-growth sources
+from
+25%
+.
+Blighted Quiver
+On-hit base damage reduced to 5 / 9 / 13 / 17 / 21 from 10 / 14 / 18 / 22 / 26.
+New Active:
+Varus'
+next
+Piercing Arrow
+deals
+6% − 10% (based on level)
+of the target's
+missing
+health
+bonus magic damage, increased by
+0% − 50% (based on
+Piercing Arrow's
+charge time)
+for a maximum of
+9% − 15% (based on level)
+of the target's
+missing
+health
+. This damage is capped at 360 against monsters.
+Cooldown:
+40 seconds.
+This damage is dealt after the damage of
+Piercing Arrow
+.
+V8.3
+Stats
+Base health regeneration increased to 5.
+5
+from 5.
+424
+.
+V8.1
+General
+New splash artwork for
+Original Varus
+.
+V7.22
+Stats
+Base attack damage increased to 63 from 54.
+66
+.
+Base armor increased to 32 from 23.
+212
+.
+Hail of Arrows
+Base damage increased to 70 / 105 / 140 / 175 / 210 from 45 / 80 / 115 / 150 / 185.
+Dark Star Varus
+Bug Fix:
+Shields now follow his model during his recall animation.
+V7.19
+Dark Star Varus
+Bug Fix:
+Blue tendrils no longer flicker during several graphics settings.
+V7.13
+Chain of Corruption
+Bug Fix:
+Fixed a bug where hitting it, at its maximum range, wouldn't make it spread through enemies.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.6
+Piercing Arrow
+Cooldown reduction if hitting
+Blighted
+enemy champion increased to 4 seconds from
+4 − 2.
+2
+(based on cooldown reduction)
+.
+V7.5
+- March 10th Hotfix
+Piercing Arrow
+Bug Fix:
+Cooldown refund against
+Blighted
+targets now properly applies at
+Piercing Arrow's
+max distance.
+V7.5
+Piercing Arrow
+Maximum AD ratio reduced to
+150% AD
+from
+165% AD
+.
+Cooldown increased to 20 / 18 / 16 / 14 / 12 seconds from 16 / 14 / 12 / 10 / 8.
+New Effect:
+Cooldown is now reduced by
+4 − 1.
+75
+(based on cooldown reduction)
+seconds if the arrow detonates
+Blight
+stacks from at least one enemy champion.
+Blighted Quiver
+Undocumented:
+Tooltip now indicates maximum damage per stack against monsters.
+V7.4
+Heartseeker Varus
+Piercing Arrow
+Bug Fix:
+Now correctly gets audio when hitting an enemy in Fog of War with
+Piercing Arrow
+.
+V6.24
+Living Vengeance
+Duration on champion kills reduced to 5 seconds from 6.
+New Effect:
+Bonus attack speed from champion kills now scales with
+50%
+bonus
+attack speed from non-growth sources
+.
+Duration on non-champion kills increased to 5 seconds from 3.
+New Effect:
+Bonus attack speed from non-champion kills now scales with
+25%
+bonus
+attack speed from non-growth sources
+.
+V6.13
+Hail of Arrows
+Bug Fix:
+Restored custom particles for
+Blight Crystal Varus's
+Hail of Arrows
+when the arrows land.
+V6.10
+Piercing Arrow
+Bug Fix:
+No longer occasionally deals damage against spell shielded targets.
+V6.1
+Hail of Arrows
+Updated to use new
+Grievous Wounds
+-
+40% self-healing reduction instead of 50% incoming-healing reduction
+.
+V5.22
+Stats
+Base attack damage increased to 54.
+66
+from 49.
+04
+.
+Attack damage growth reduced to 2.
+41
+from 3.
+Base mana increased to 360.
+48
+from 310.
+48
+.
+Mana growth reduced to 33 from 36.
+Chain of Corruption
+New Effect:
+Now displays max. spread range to
+Varus
+and his enemies if there is at least one tendril.
+New Effect:
+Rooted
+targets now gain 3 stacks of
+Blight
+over the duration.
+Base damage reduced to 100 / 175 / 250 from 150 / 250 / 350.
+V5.5
+Piercing Arrow
+Now begins its cooldown at charge start, rather than when the arrow fires.
+V5.3
+Chain of Corruption
+Missle width increased to 120 from 100.
+V4.21
+Stats
+Mana regeneration growth increased to 0.
+8
+from 0.
+5
+.
+V4.16
+Piercing Arrow
+Line indicator removed (Now uses range circle again as per previous functionality).
+V4.13
+Piercing Arrow
+Now shows a line indicator in addition to circle indicator while charging.
+Chain of Corruption
+Cooldown reduced to 110 / 90 / 70 seconds from 120 / 105 / 90 seconds.
+V4.5
+Stats
+Base armor increased to 17.
+5
+from 13.
+5
+.
+V3.13
+Chain of Corruption
+Mana cost reduced to 100 from 120.
+V3.8
+Piercing Arrow
+Fixed a bug where casting Piercing Arrow while targeting an enemy would cause Varus to stop moving.
+Hail of Arrows
+Slow refresh rate reduced to 0.
+25
+seconds.
+V3.7
+Stats
+Base movement speed reduced to 330 from 335.
+Piercing Arrow
+Minimum damage increased to 10 / 47 / 83 / 120 / 157 from 10 / 43 / 77 / 110 / 143.
+Maximum damage increased to 15 / 70 / 125 / 180 / 235 from 15 / 65 / 115 / 165 / 215.
+Improved hit detection at the end of the missile.
+Hail of Arrows
+Base damage reduced to 65 / 100 / 135 / 170 / 205 from 65 / 105 / 145 / 185 / 225.
+Chain of Corruption
+Improved hit detection at the end of the missile.
+V1.0.0.152
+Stats
+Movement speed increased to 335 from 310.
+V1.0.0.145
+Piercing Arrow
+Fixed: no longer sometimes fires from a point above his bow.
+Fixed: now more reliably hits targets at the end of its range.
+Blighted Quiver
+Ability power ratio on Blight stack detonation increased to
+(+ 2% AP)
+per stack from
+(+ 1% AP)
+.
+Chain of Corruption
+Missile width increased to 100 from 60.
+Increased missile visibility.
+Spread range from primary target to nearby targets increased to 550 from 450.
+Tendril break range increased to 600 from 550.
+V1.0.0.139
+Added May 8th
+Living Vengeance
+(Innate)
+On kill or assist, Varus temporarily gains attack speed. This bonus is larger if the enemy is a champion.
+Piercing Arrow
+(Q)
+Varus readies and then fires a powerful shot that gains extra range and damage the longer he spends preparing to fire.
+Blighted Quiver
+(W)
+Varus' basic attacks deal bonus magic damage and apply Blight. Varus' other abilities detonate Blight, dealing magic damage based on the target's maximum health.
+Hail of Arrows
+(E)
+Varus fires a hail of arrows that deal physical damage and desecrate the ground. Desecrated ground slows enemies' movement speed and reduces their healing and regeneration.
+Chain of Corruption
+(Ultimate)
+Varus flings out a tendril of corruption that immobilizes the first enemy champion hit and then spreads towards nearby uninfected champions, immobilizing them too on contact.
+Trivia
+[
+edit
+|
+edit source
+]
+Varus was the first champion to be released in
+Season Two
+with only one alternative skin, with subsequent champions following this pattern.
+Varus' title "
+The Arrow of Retribution"
+strongly resembles
+Kalista's
+title
+"The Spear of Vengeance"
+.
+Varus is, along with
+Blitzcrank
+,
+Caitlyn
+,
+Lissandra
+,
+Rumble
+,
+Sion
+,
+Vi
+,
+Xerath
+, and
+Ziggs
+, one of the few champions that can apply crowd control on themselves.
+Varus' body style is similar to the one of
+Solus
+, the T'Lan leader from the game
+Breakdown
+.
+Varus is the first of three dark-themed champions with a light-themed skin, the second being
+Syndra
+and the third being
+Aatrox
+.
+Of these three, Varus' skin is the only one not of the Justicar theme.
+Varus is the only
+Darkin
+champion whose abilities currently have
+ability power
+ratios.
+This is most likely because Varus was retconned into being a Darkin in 2017, 5 years after his release in 2012.
+Prior to his rework in Season 8,
+Aatrox
+also had an ability power ratio on his then-ultimate, Massacre.
+Varus,
+Blitzcrank
+,
+Caitlyn
+,
+Lissandra
+,
+Rumble
+,
+Sion
+,
+Vi
+,
+Viego
+,
+Xerath
+, and
+Ziggs
+are the only champions who can apply
+crowd control
+on themselves.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Marksman
+Marksmen
+(formerly "Carries") excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger. Although Marksmen have the ability to stay relatively safe by kiting their foes, they are very fragile and are extremely reliant on powerful item purchases to become true damage threats.
+At present, Marksmen do not have any official subclasses. The following have been considered:
+Demolisher
+Scrapper
+Examples
+Ashe
+Ezreal
+Lucian
+Kai'Sa
+Jhin
+League of Legends content
+Artillery
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Artillery Mages
+are the masters of range, and they leverage that advantage to whittle down their opponents over time from great distances. In turn, Artillery Mages are severely punished when enemies finally succeed in closing in on them, due to their extreme fragility and limited mobility.
+Examples
+Jayce
+Xerath
+Ziggs
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Bottom
+Within a
+drafted team
+, the
+Bottom Carry
+is one of the two champions assigned to the bottom lane alongside the
+Support
+. Being the most vulnerable, the
+Bottom Carry
+has to acquire as much gold as possible to purchase key items that will greatly increase their fighting potential.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Bottom Carry
+is expected to fulfill the former designation: the position is made for champions that highly depend on item-based power spikes.
+Marksmen
+are the most likely champions to be selected in the
+Bottom Carry
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Takedown
+Takedown
+refers to a
+kill
+or
+assist
+being acceptable, with the type of enemy specified in each use case.
+Takedown
+is associated with triggering a
+passive
+effect, or timed effects shortly after scoring.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Blighted Quiver
+COOLDOWN:
+40
+Passive:
+Varus'
+basic attacks deal
+bonus
+magic damage
+and apply a stack of
+Blight
+, which stacks up to 3 times.
+Varus'
+abilities consume all
+Blight
+stacks on enemies hit to apply the effect.
+Active:
+Varus'
+next
+Piercing Arrow
+within a few seconds is empowered to deal
+bonus
+magic damage
+to enemies based on
+their
+missing
+health
+, increased based on charge time. If he does not cast
+Piercing Arrow
+,
+Blighted Quiver
+can be recast within the duration, and does so automatically afterwards.
+Recast:
+Varus
+ends
+Blighted Quiver
+, placing it on a
+brief
+cooldown.
+Blight:
+For each stack consumed, the target is dealt
+bonus
+magic damage
+based on their
+health
+. Against a
+champion
+or epic
+monster
+, his basic abilities'
+cooldown
+is
+reduced
+. If
+Piercing Arrow
+consumes the stacks, both the damage and the cooldown reduction are increased based on its charge time.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Hail of Arrows
+COOLDOWN:
+18 / 16 / 14 / 12 / 10
+Active:
+Varus
+fires a hail of arrows to the target location that deals
+physical damage
+to enemies hit.
+The area then becomes desecrated for a few seconds,
+slowing
+enemies within and inflicting them with
+Grievous Wounds
+.
+Grievous Wounds
+:
+The target receives reduced
+healing
+and
+health regeneration
+.
+League of Legends content
+Chain of Corruption
+COOLDOWN:
+100 / 80 / 60
+Active:
+Varus
+unleashes a tendril in the target direction that infects the first enemy champion hit, dealing
+magic damage
+and
+rooting
+them for a short time. They are also
+revealed
+and rapidly inflicted with
+Blight
+stacks.
+Upon impact, the tendril roots into the ground from which it
+tethers
+to nearby enemy
+champions
+. If a target stays within range after its duration, they become infected and a new tendril will spread from them.
+Chain of Corruption's
+spread can repeat indefinitely until there are no new targets.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Piercing Arrow
+COOLDOWN:
+16 / 15 / 14 / 13 / 12
+Active:
+Varus
+charges
+up to a few seconds, increasing the
+range
+of his shot.
+Piercing Arrow
+can be recast within the duration and will cancel automatically afterwards, refunding a portion of the
+mana cost
+.
+Recast:
+Varus
+fires a piercing arrow in the target direction that deals
+physical damage
+to enemies hit based on channel time.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Cast-inhibiting crowd control
+A unit that is affected by
+cast-inhibiting crowd control
+is unable to cast abilities, activate items, or use summoner spells. The following crowd control effects disable casting of all spells and abilities as well as interrupts all
+channels
+:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Note that
+Disrupt
+is not a status effect and solely interrupts channels, and thus cannot fall under this classification.
+Root
+and
+Ground
+only disable movement spells and abilities.
+Stasis
+and
+Suppression
+are the only crowd control effects that disable all summoner spells from use; all other cast-inhibiting crowd control only disable movement summoner spells.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Grievous Wounds
+Grievous Wounds
+is a debuff that reduces self-healing, incoming healing, and health regeneration by 40%.
+Grievous Wounds
+does not
+stack
+, the duration of the
+debuff
+will overlap on separate effects and refresh on the same effect.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Varus's profile page
+at
+LeagueOfLegends.com

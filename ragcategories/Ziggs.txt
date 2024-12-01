@@ -1,0 +1,2415 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Ziggs
+the Hexplosives Expert
+Release date
+2012-02-01
+Last changed
+V14.18
+Class(es)
+Artillery
+Legacy
+Mage
+Position(s)
+Bottom
+Middle
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Ziggs
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Ziggs
+Base statistics
+Edit
+Health
+606
++106
+Mana
+480
++23.5
+Health regen. (per 5s)
+6.5
++0.6
+Mana regen. (per 5s)
+8
++0.8
+Armor
+21
++4.7
+Attack damage
+55
++3.1
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+325
+Attack range
+550
+Attack speed
+Base AS
+0.656
+Attack windup
+20%
+AS ratio
+N/A
+Bonus AS
++2
+%
+Missile speed
+1500
+Unit radius
+Gameplay radius
+55
+Selection radius
+100
+Pathing radius
+30
+Acq. radius
+800
+Special statistics
+Damage Dealt
+-13%
+Damage Received
++20%
+Ability Haste
+-20
+Damage Dealt
+-5%
+Damage Received
++0%
+Ability Haste
+-10
+Damage Dealt
++0%
+Damage Received
+-5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Short Fuse
+STATIC COOLDOWN
+:
+12
+SPEED:
+1500
+Innate:
+Periodically,
+Ziggs'
+next basic attack will deal
+bonus
+magic damage
+, increased against
+structures
+.
+Short Fuse's
+cooldown is
+reduced
+whenever
+Ziggs
+casts an ability.
+Innate:
+Periodically,
+Ziggs
+empowers his next
+basic attack
+to deal
+20 − 160 (based on level)
+(+ 50% AP)
+bonus
+magic damage
+,
+「 increased by 75% against
+structures
+. 」
+「 increased to
+35 − 280 (based on level)
+(+ 87.
+5
+% AP)
+against
+structures
+. 」
+Short Fuse's
+cooldown
+is reduced by
+4 / 5 / 6 (based on level)
+seconds whenever
+Ziggs
+casts an
+ability
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+Magic
+Counters
+Spell shield
+Not Blocked
+Parries
+Missing
+The empowered attack will not trigger against
+wards
+.
+PENDING FOR TEST:
+:
+Short Fuse's
+interactions with
+dodging
+,
+blocking
+, and
+blinding
+effects.
+Map-Specific Differences
+Howling Abyss
+differences
+edit
+Damage to structures changed to 150%.
+Arena
+differences
+edit
+AP ratio changed to
+75% AP
+.
+Edit
+Bouncing Bomb
+COST:
+50 / 55 / 60 / 65 / 70 Mana
+COOLDOWN:
+6 / 5.
+5
+/ 5 / 4.
+5
+/ 4
+CAST TIME:
+0.
+25
+TARGET RANGE:
+850
+RANGE:
+1400
+COLLISION RADIUS:
+180
+EFFECT RADIUS:
+240
+SPEED:
+1700
+/
+Fixed time
+Active:
+Ziggs
+throws a bomb to the target location that bounces twice forward. It will explode upon hitting an enemy, terrain, or the final bounce, dealing
+magic damage
+to nearby enemies.
+Active:
+Ziggs
+throws a bomb to the target location that bounces forward up to two times, with the distance traveled each time being based on how far it was originally thrown.
+The bomb explodes upon landing near an enemy, within terrain, or the final bounce, dealing
+magic damage
+to nearby enemies.
+Magic Damage:
+85 / 135 / 185 / 235 / 285
+(+ 65% AP)
+Bouncing Bomb will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Bouncing Bomb
+can be thrown or bounce over units/terrain.
+Spell shield
+will block the damage of the explosion, but the explosion can still damage other targets in the radius.
+Ziggs
+will throw the bomb from his location at the end of the cast time, towards the
+pre-clamped
+cast location, causing the bounces to adjust their angle accordingly.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 125 / 175 / 225 / 275 / 325.
+AP ratio changed to
+80% AP
+.
+Cooldown changed to 4 seconds at all ranks.
+Edit
+Satchel Charge
+COST:
+80 Mana
+COOLDOWN
+:
+20 / 18 / 16 / 14 / 12
+CAST TIME:
+0.
+25
+TARGET RANGE:
+1000
+EFFECT RADIUS:
+325 /
+400
+SPEED:
+1750
+Active:
+Ziggs
+hurls a charge to the target location that remains for a few seconds.
+Satchel Charge
+can be recast within the duration, and does so automatically afterwards.
+Recast:
+The charge explodes to deal
+magic damage
+and
+knock back
+nearby enemies hit. If this hits
+Ziggs
+, he will
+dash
+farther away. The explosion will
+execute
+turrets
+hit
+below a certain health
+.
+Active:
+Ziggs
+hurls a charge to the target location, remaining there for 4 seconds and granting
+sight
+of the area.
+Satchel Charge
+can be recast within the duration, and does so automatically afterwards. If recast while in flight, the charge will explode immediately upon landing.
+Recast:
+Ziggs
+detonates the charge, causing it to explode to deal
+magic damage
+to nearby enemies and
+knock them back
+up to 500 units away from the center of the explosion, though not through terrain. If this hits
+Ziggs
+, he will
+dash
+up to 825 units away from the center.
+Magic Damage:
+70 / 105 / 140 / 175 / 210
+(+ 50% AP)
+Turret Explosion:
+The explosion also
+executes
+enemy
+turrets
+within that are below a
+maximum
+health
+threshold.
+Demolition Threshold:
+25 / 27.
+5
+/ 30 / 32.
+5
+/ 35% of turret's
+maximum
+health
+Ziggs
+does not
+dash
+if he is
+immobilized
+or
+grounded
+. He can cast any of his abilities during the dash.
+Info
+Targeting input
+Location
+/
+Auto
+Damage type
+Type
+See Notes
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Grounded
+See Notes
+Knockdown
+Interrupted
+The initial cast counts as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Detonating the ability manually does not.
+Deals
+area damage
+to non-turrets and
+raw damage
+to turrets.
+Satchel Charge's
+distance increases with proximity to the charge, resulting in being knocked straight up when aligned directly on top of it.
+Ziggs
+will not
+dash
+from
+Satchel Charge's
+detonation while
+Teleporting
+but he will while
+Recalling
+.
+Map-Specific Differences
+Howling Abyss
+differences
+edit
+Tower execute threshold changed to
+12.
+5
+/ 15 / 17.
+5
+/ 20 / 22.
+5
+% of turret's
+maximum
+health
+.
+Arena
+differences
+edit
+Cooldown changed to 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8 seconds.
+Edit
+Hexplosive Minefield
+COST:
+70 / 80 / 90 / 100 / 110 mana
+COOLDOWN:
+16
+CAST TIME:
+0.
+25
+TARGET RANGE:
+900
+EFFECT RADIUS:
+335
+/
+135
+SPEED:
+1550
+Active:
+Ziggs
+scatters proximity mines over the target location that remain a period. Each mine will explode upon contact with an enemy or terrain, dealing
+magic damage
+and briefly
+slowing
+them.
+Active:
+Ziggs
+scatters a cluster of 11 proximity mines over the target location that grant
+sight
+of the area for 2 seconds,
+arming after 0.
+5
+seconds
+and lasting for up to 10 seconds.
+Each mine within the area explodes upon contact with terrain or an enemy, dealing
+magic damage
+and
+slowing
+them for 1.
+5
+seconds, as well as granting
+sight
+of the area around the explosion for 2 seconds. An enemy takes 40% damage from subsequent mines.
+Magic Damage per Mine:
+30 / 70 / 110 / 150 / 190
+(+ 30% AP)
+Reduced Damage per Mine:
+12 / 28 / 44 / 60 / 76
+(+ 12% AP)
+Maximum Total Magic Damage:
+150 / 350 / 550 / 750 / 950
+(+ 150% AP)
+Slow:
+10 / 20 / 30 / 40 / 50%
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+The mine cluster is built of 2 rings, with 3 mines in the inner ring (radius pending for test) and 8 mines on the other ring (200 radius), all equally spaced.
+The angular offset is randomized on each cast.
+Because of the
+135 detonation radius of each mine, the total possible range of a mine from the minefield hitting an enemy from the cast location is
+335 units. It will often be slightly less as the minefield is not guaranteed to be angled the right way for this.
+Mines will not explode upon contact with
+player-generated terrain
+.
+Spell shield
+will block the effects of a single detonation.
+Map-Specific Differences
+Arena
+differences
+edit
+Now affected by +30 ability haste.
+Slow changed to 30 / 40 / 50 / 60 / 70%.
+Edit
+Mega Inferno Bomb
+COST:
+100 Mana
+COOLDOWN:
+120 / 95 / 70
+CAST TIME:
+0.
+375
+TARGET RANGE:
+5000
+EFFECT RADIUS:
+525
+INNER RADIUS:
+250
+SPEED:
+2250
+Active:
+Ziggs
+catapults the
+Mega Inferno Bomb
+to the target location that deals
+magic damage
+to enemies hit, increased at the epicenter.
+Active:
+Ziggs
+catapults the
+Mega Inferno Bomb
+to the target location, granting
+sight
+within a 600 radius around its destination for 4 seconds.
+The bomb explodes upon arrival to deal
+magic damage
+to enemies hit, increased by 50% against those in the epicenter.
+Magic Damage:
+200 / 300 / 400
+(+ 73.
+3
+3
+% AP)
+Increased Damage:
+300 / 450 / 600
+(+ 110% AP)
+"I bring the Big One!"
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Allies cannot see
+Mega Inferno Bomb's
+area indicator until shortly before the blast.
+Mega Inferno Bomb
+takes 2.
+64
+seconds from the start of the cast time to land when
+Ziggs
+casts at maximum range (reduced to 1.
+617
+seconds from the start of the cast time when casting within
+2700
+units).
+When cast within 2700 units,
+Mega Inferno Bomb
+has a fixed travel time. Beyond that, the travel time is equal to the cast distance divided by the now-fixed missile speed.
+The area reveal on the target location begins as soon as the cast time is completed and can see into
+brush
+and across terrain.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 300 / 450 / 600.
+AP ratio changed to
+85% AP
+.
+Empowered damage changed to 450 / 675 / 900.
+Empowered AP ratio changed to
+127.
+5
+% AP
+.
+Cooldown changed to 70 / 60 / 50 seconds.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Ziggs (Collection)
+.
+Original
+View in 3D
+880
+01.02.2012
+With a love of big bombs and short fuses, the yordle Ziggs is an explosive force of nature. As an inventor’s assistant in Piltover, he was bored by his predictable life and befriended a mad, blue-haired bomber named Jinx. After a wild night on the town, Ziggs took her advice and moved to Zaun, where he now explores his fascinations more freely, terrorizing the chem-barons and regular citizens alike in his never ending quest to blow stuff up.
+Alessandro Juliani
+Kienan 'Knockwurst' Lafferty
+Loot eligible
+Mad Scientist
+View in 3D
+975
+01.02.2012
+The last time Ziggs plugged two electromagnetic charges into his brain, he almost exploded. Maybe, three will do the trick.
+Alessandro Juliani
+Alex Konstad
+Mad Scientists
+Loot eligible
+Major
+View in 3D
+975
+01.02.2012
+Alessandro Juliani
+Unknown artist
+Legacy
+Loot eligible
+Legacy
+Pool Party
+View in 3D
+1350
+04.09.2012
+Ziggs is obsessed with creating the biggest water balloon in the history of poolside festivities, for reasons lost on everyone he's ever met. He keeps insisting he's a 'waterologist,' which isn't a real thing.
+Alessandro Juliani
+Kienan 'Knockwurst' Lafferty
+Pool Party
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Snow Day
+View in 3D
+975
+14.12.2012
+Ziggs knows a thing or two about lobbing bombs, and he's happy to take a break and throw snowballs around instead. If by “a couple”, you mean several hundred, and by “balls”, you mean volatile spheres of explosive wintery death.
+Alessandro Juliani
+James Strehle
+Snow Day
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Master Arcanist
+View in 3D
+1350
+06.05.2015
+Ziggs dwells at the crossroads of science and magic, striking an eccentric figure whose collection of enchanted artifacts and forbidden tomes rivals the greatest in the known world. He uses this arcane knowledge to make bombs. Magic bombs. Big ones.
+Alessandro Juliani
+Alex 'alexplank' Flores
+Arcanists
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Battle Boss
+View in 3D
+1350
+08.08.2017
+A boss originally from Super Yordle Bombers, Ziggs was transported to Arcade World for one purpose: blow up everything. Armed with his signature explosives (and the programming to use them!) he has wrought digital destruction the way only an angry mini-boss can.
+Alessandro Juliani
+Alex 'alexplank' Flores
+Arcade: Battle Bosses
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Odyssey
+View in 3D
+1350
+12.09.2018
+A disgraced engineer best known for rapid advances in ora mining technology, Ziggs lost everything when a young technician and her hulking manager “accidentally” rigged one of his devices to explode ahead of schedule. Bitter and manic, he now travels between ora hotspots in a mad gamble to regain his former prestige.
+Alessandro Juliani
+Jem Flores
+Odyssey
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Odyssey Ziggs Chromas
+Aquamarine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sugar Rush
+View in 3D
+1350
+17.12.2019
+The famed Gumball Grenadier, Ziggs, bursts across Candy Kingdom! Everyone knows to enjoy his colorful explosions… from a safe distance.
+Alessandro Juliani
+Xiao Guang Sun, West Studio
+Sugar Rush
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Sugar Rush Ziggs Chromas
+Amethyst
+Aquamarine
+Catseye
+Meteorite
+Peridot
+Ruby
+Sandstone
+Sweet Tooth
+Hextech
+View in 3D
+Special
+03.09.2020
+Famed inventor of Tocker, Ziggs is a savant to some, to others a maniac. All can agree that no matter the consequences, Ziggs seems to enjoy his experiments—especially the subsequent explosions. What is perhaps most miraculous of all is how he and Tocker have survived so many blasts over the years.
+Alessandro Juliani
+Horace 'Hozure' Hsu
+Hextech
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+BZZZiggs
+View in 3D
+1350
+03.03.2022
+According to all known laws of apiculture, bees shouldn't be given explosives. Hey! Put that bouncing bomb down, bee!
+Alessandro Juliani
+Huyy Nguyen, West Studio
+Bees!
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+BZZZiggs Chromas
+Emerald
+Obsidian
+Pearl
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+La Ilusión
+View in 3D
+1350
+27.09.2023
+Driven mad by no longer remembering anything of who or what he was when he was alive, Ziggs and his Eidola Muerte family wander the world sowing chaos. Whether it's lobbing Ardor to weaken a building pylon or lighting a destructive thought in someone's mind like a brushfire, there is no reason behind his madness, only whatever catches his cool blue eyes.
+Alessandro Juliani
+Yuyu Wong, Kudos Productions
+La Ilusión
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+La Ilusión Ziggs Chromas
+Citrine
+Emerald
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Vivida
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.18
+Short Fuse
+Structure damage reduced to 175% from 250%.
+Base damage against structures reduced to
+35 − 280 (based on level)
+from
+50 − 400 (based on level)
+.
+AP ratio against structures reduced to
+87.
+5
+% AP
+from
+125% AP
+.
+V14.3
+Stats
+Base armor increased to 21 from 18.
+Armor growth increased to 4.
+7
+from 4.
+5
+.
+Satchel Charge
+Cooldown reduced to 20 / 18 / 16 / 14 / 12 seconds from 24 / 21 / 18 / 15 / 12.
+V14.2
+Satchel Charge
+Bug Fix:
+Cast is no longer locked out while he is
+grounded
+or
+rooted
+.
+V13.23
+Stats
+Base attack damage increased to 55 from 54.
+Bouncing Bomb
+Base damage reduced to 85 / 135 / 185 / 235 / 285 from 95 / 145 / 195 / 245 / 295.
+Satchel Charge
+Cooldown increased to 24 / 21 / 18 / 15 / 12 seconds from 20 / 18 / 16 / 14 / 12.
+Mana cost increased to 80 from 65.
+V13.22
+Stats
+Base armor reduced to 18 from 22.
+Attack windup reduced to 20% from 20.
+833333
+%.
+V13.20
+Bouncing Bomb
+Collision radius increased to 180 units from 150.
+V13.19
+Battle Boss Ziggs
+and
+Odyssey Ziggs
+Satchel Charge
+Bug Fix:
+VFX now properly renders in front of all terrain and is thus no longer cut off when placed on slopes.
+V12.20
+Bouncing Bomb
+Base damage increased to 95 / 145 / 195 / 245 / 295 from 85 / 135 / 185 / 235 / 285.
+V12.10
+Stats
+Base health increased to 606 from 536.
+Health growth increased to 106 from 92.
+Armor growth increased to 4.
+5
+from 3.
+3
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V11.16
+Stats
+Base mana increased to 480 from 420.
+Hexplosive Minefield
+Base damage per mine changed to 30 / 70 / 110 / 150 / 190 from 40 / 75 / 110 / 145 / 180.
+Reduced base damage per mine changed to 12 / 28 / 44 / 60 / 76 from 16 / 30 / 44 / 58 / 72.
+Maximum base damage changed to 150 / 350 / 550 / 750 / 950 from 200 / 375 / 550 / 725 / 900.
+Slow reduced to 10 / 20 / 30 / 40 / 50% from 30 / 35 / 40 / 45 / 50%.
+V11.14
+Stats
+Base mana reduced to 420 from 480.
+V11.12
+Bouncing Bomb
+Base damage increased to 85 / 135 / 185 / 235 / 285 from 85 / 130 / 175 / 220 / 265.
+Mega Inferno Bomb
+Medium to long distance cast missile speed increased to 2250 from 1550.
+Minimum travel time of 1.
+2
+seconds unchanged.
+Radius in which the missile uses this fixed travel time adjusted to 2700 from 2000 to correspond to the missile speed increase for long casts.
+V11.1
+Stats
+Base attack damage reduced to 54 from 54.
+208
+.
+Base armor increased to 22 from 21.
+544
+.
+V10.22
+Hexplosive Minefield
+Bug Fix:
+Now properly render over impassable terrain on certain skins.
+V10.16
+Short Fuse
+AP ratio increased to
+50% AP
+at all levels from
+30 / 40 / 50% (based on level)
+AP
+.
+Bonus damage against structures increased to 150% from 100%.
+V10.2
+Bouncing Bomb
+Base damage increased to 85 / 130 / 175 / 220 / 265 from 75 / 120 / 165 / 210 / 255
+Satchel Charge
+Self knockback distance increased to 500 units from 400.
+Hexplosive Minefield
+Slow changed increased to 30 / 35 / 40 / 45 / 50% from 20 / 25 / 30 / 35 / 40%.
+V9.16
+Satchel Charge
+AP ratio increased to
+50% AP
+from
+35% AP
+.
+Cooldown reduced to 20 / 18 / 16 / 14 / 12 seconds from 24 / 21 / 18 / 15 / 12.
+Mega Inferno Bomb
+Cooldown reduced to 120 / 95 / 70 seconds from 120 / 105 / 90.
+V9.15
+Hexplosive Minefield
+Bug Fix:
+No longer causes small hitches to characters on or sometimes off-screen when cast.
+V9.12
+General
+New visual effects.
+New basic attack sparky missiles and hit effects.
+Short Fuse
+Empowered hits are more explode-y; missiles are more sparky.
+Bouncing Bomb
+More sparks, new missile, and the explosion now leaves a crater that shows the size of the AoE.
+Satchel Charge
+New explosion that leaves behind a crater.
+New upward movement to reinforce the knock-up feel.
+New hit effects.
+Adjusted AoE indicators to match hitbox.
+Hexplosive Minefield
+Subtle trail on the missiles and range indicator on the mines.
+Leaves small craters on impact.
+More sparks.
+Mega Inferno Bomb
+Mushroom cloud and more sparks.
+New cast, indicators, missile, AoE, and hit effects.
+Mad Scientist Ziggs
+Now with more bubbles and green goo.
+Pool Party Ziggs
+Cleaned up the noise on his abilities and adjusted to better match the rest of the skin line.
+Snow Day Ziggs
+Cleaned up the noise on his abilities and added some warmth to his missiles and explosions.
+Master Arcanist Ziggs
+Added the crater in his ultimate and updated the indicator to match the base skin's.
+Odyssey Ziggs
+Added the crater in his ultimate.
+V9.1
+Mega Inferno Bomb
+New Effect:
+Can now ping whether the ability is within range or not.
+Battle Boss Ziggs
+Mega Inferno Bomb
+Bug Fix:
+No longer uses classic VFX for long-range casts.
+V8.21
+Mega Inferno Bomb
+Bug Fix:
+Tooltip now indicates the amount of damage done in the outer ring.
+V8.9
+Stats
+Base mana increased to 480 from 384.
+Mana growth reduced to 23.
+5
+from 47.
+Base mana regeneration increased to 8 from 6.
+Hexplosive Minefield
+Base damage per mine increased to 40 / 75 / 110 / 145 / 180 from 40 / 65 / 90 / 115 / 140.
+V8.3
+Stats
+Base health regeneration increased to 6.
+5
+from 6.
+258
+.
+V7.22
+Stats
+Base health increased to 536 from 524.
+4
+.
+Health growth increased to 92 from 80.
+V7.19
+Snow Day Ziggs
+Bug Fix:
+Passive VFX have been restored.
+V7.15
+Satchel Charge
+Cooldown reduced to 24 / 21 / 18 / 15 / 12 seconds from 26 / 24 / 22 / 20 / 18.
+V7.14
+Snow Day Ziggs
+Bug Fix:
+Joke audio no longer restarts toward the end of the animation.
+V7.11
+Master Arcanist Ziggs
+Bug Fix:
+You can once again hear his bomb exploding in his stomach during his joke.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V6.24
+Pool Party Ziggs
+Bug Fix:
+Desynchronized audio during idle animation where Ziggs shakes his water balloon and smacks it against his head.
+V6.21
+Hexplosive Minefield
+Mine detonation timer refresh rate increased to 0.
+1
+seconds from 0.
+25
+.
+V6.20
+Master Arcanist Ziggs
+Bouncing Bomb
+Bug Fix:
+Missing explosion visual effects.
+V6.13
+Bouncing Bomb
+Bug Fix:
+Explosion inconsistency when bouncing near large units (
+Baron Nashor
+,
+Dragon
+,
+Cho'Gath
+with maximum
+Feast
+stacks)
+V6.11
+Mega Inferno Bomb
+Bug Fix:
+Ziggs walking a short distance forward before casting from maximum range.
+V6.10
+Short Fuse
+Bug Fix:
+Cooldown being incorrecting reduced when Ziggs uses abilities while
+Satchel Charge
+is active.
+V6.9
+Short Fuse
+AP ratio increased to
+30 / 40 / 50 (based on level)
+% AP
+from
+25 / 30 / 35 (based on level)
+% AP
+.
+Cooldown reduction on ability use increased to
+4 / 5 / 6 (based on level)
+seconds from 4 at all levels.
+Satchel Charge
+New Effect:
+Destroys turrets below 25 / 27.
+5
+/ 30 / 32.
+5
+/ 35% of their maximum health.
+Mega Inferno Bomb
+Cooldown reduced to 120 / 105 / 90 seconds from 120 at all ranks.
+Removed:
+Double damage against minions.
+V6.8
+General
+Adjusted splash artwork for
+Major Ziggs
+.
+V6.3
+Mega Inferno Bomb
+AP ratio increased to
+73.
+3
+% AP
+from
+72% AP
+.
+Epicenter damage increased to
+「 150% from 125% 」
+「 300 / 450 / 600
+(+ 110% AP)
+from 250 / 375 / 500
+(+ 90% AP)
+」
+.
+New Effect:
+Target area indicator displays epicenter radius.
+V5.24
+Short Fuse
+Damage to structures increased to
+「 200% from 150% 」
+「
+40 − 320 (based on level)
+(+
+50 / 60 / 70 (based on level)
+% AP)
+from
+30 − 240 (based on level)
+(+
+37.
+5
+/ 45 / 52.
+5
+(based on level)
+% AP)
+」
+V5.22
+Stats
+Base mana increased to 384 from 334.
+Mana growth reduced to 47 from 50.
+V5.6
+Bouncing Bomb
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 50 / 60 / 70 / 80 / 90.
+V4.13
+Mega Inferno Bomb
+Cooldown increased to 120 seconds at all ranks from 120 / 105 / 90.
+V4.12
+Short Fuse
+Bug Fix:
+Cooldown being incorrectly reduced when casting
+Satchel Charge
+.
+V4.11
+Stats
+Base movement speed reduced to 325 from 330.
+Bouncing Bomb
+Explosion trigger radius reduced to 150 from 180.
+V4.5
+Stats
+Attack range reduced to 550 from 575.
+Base armor increased to 16 from 12.
+V4.2
+Short Fuse
+Base damage changed to
+20 − 160 (based on level)
+from
+20 − 160 (based on level)
+AP ratio reduced to
+(+
+25 / 30 / 35 (based on level)
+% AP)
+from
+(+ 35% AP)
+at all levels.
+Hexplosive Minefield
+New Effect:
+Minions take secondary reduced damage.
+V3.13
+Short Fuse
+Base damage increased to
+20 − 160 (based on level)
+from
+20 − 139 (based on level)
+Bouncing Bomb
+If you attempt to cast outside of maximum range, Ziggs will now cast the ability at maximum range rather than move to get in range.
+Satchel Charge
+Radius increased to 325 from 275.
+Hexplosive Minefield
+Removed:
+Minions taking secondary reduced damage.
+Detonation radius per mine increased to 150 from 135.
+Mega Inferno Bomb
+New Effect:
+Deals 200% damage to minions.
+V3.9
+Satchel Charge
+New Effect:
+Can be activated mid-flight to detonate upon landing.
+Projectile speed increased to 1750 from 1600.
+Displacement distance increased to 400 from 350.
+Cooldown start changed to on-cast from upon detonation.
+V3.02
+Hexplosive Minefield
+Bug Fix:
+Mine detonation sound effect not playing.
+Short Fuse
+Removed:
+Being consumed by attacking wards.
+V1.0.0.154
+Short Fuse
+Cooldown indicator updated to show availability more accurately.
+V1.0.0.152
+Stats
+Movement speed increased to 330 from 305.
+V1.0.0.151
+Short Fuse
+New Effect:
+Deals 150% damage to structures.
+V1.0.0.147b
+Satchel Charge
+Self displacement range increased.
+Enemy displacement height increased.
+Mega Inferno Bomb
+Secondary damage increased to 80% from 75%.
+V1.0.0.145
+Satchel Charge
+Bug Fix:
+Ticking sound effect playing incorrectly.
+V1.0.0.143
+Satchel Charge
+Cooldown reduced to 26 / 24 / 22 / 20 / 18 seconds from 30 / 27 / 24 / 21 / 18.
+V1.0.0.142
+Bouncing Bomb
+Mana cost reduced to 50 / 60 / 70 / 80 / 90 from 60 / 70 / 80 / 90 / 100.
+V1.0.0.139
+Short Fuse
+Bug Fix:
+Not triggering when Ziggs is silenced.
+V1.0.0.138
+Hexplosive Minefield
+Bug Fix:
+Slow value displayed in tooltip being higher than intended.
+V1.0.0.135
+Hexplosive Minefield
+Mana cost reduced to 70 / 80 / 90 / 100 / 110 from 80 / 90 / 100 / 110 / 120.
+Slow duration reduced to 1.
+5
+seconds from 2.
+Secondary reduced damage reduced to 40% from 50%.
+February 23rd Hotfix
+Mad Scientist Ziggs
+Bug Fix:
+Leaving particles on the map.
+V1.0.0.133
+Added
+Trivia
+[
+edit
+|
+edit source
+]
+Ziggs is the first (so far only) champion to have all his abilities (except innates) be the same type (ground-targeted area of effect).
+Ziggs,
+Blitzcrank
+,
+Caitlyn
+,
+Lissandra
+,
+Rumble
+,
+Sion
+,
+Varus
+,
+Vi
+,
+Viego
+, and
+Xerath
+are the only champions who can apply
+crowd control
+on themselves.
+Ziggs' dance references
+'Midget Superstar'.
+A side-by-side comparison can be seen
+here.
+Ziggs was a
+nickname
+for Rioter
+Joe 'Hephastopheles' Ziegler
+.
+Heimerdinger
+reveals that Ziggs's full name is
+Zigmund
+, from
+Proto-Germanic
+*segiz
+"victory" &
+*mundō
+"
+protection
+";
+[2]
+the latter element is shared with
+Dr. Mundo
+.
+Ziggs and
+Nautilus
+were first conceived as '
+Ivan
+the Mad Bomber'.
+Hexplosive Minefield
+was conceived as Ziggs' ultimate (was later replaced by
+Mega Inferno Bomb
+)
+Mega Inferno Bomb's
+icon references a
+nuclear weapon
+.
+Ziggs seems to be the mascot for
+featured game modes
+.
+This is evident from his likeness being used on
+numerous
+summoner
+icons
+that represent or commemorate them, as well as having his
+teaser picture
+be the base for the promotional art
+for
+a
+lot
+of
+these
+game
+modes
+.
+A prop of Ziggs'
+Hexplosive Bomb
+was crafted in an episode of YouTube series
+DIY Prop Shop
+.
+This video can be viewed
+here
+.
+There are also videos where the following are crafted:
+Diana's
+Crescent Moonblade
+(
+functional
+)
+Katarina's
+Daggers
+(
+functional
+)
+Leona's
+Zenith Blade
+(
+functional
+)
+Master Yi's
+'Highlander' Ring Sword
+(
+functional
+)
+Poppy's
+Hammer of Orlon
+(
+functional
+)
+Yasuo's
+'Last Breath' Sword
+(
+functional
+)
+The icon for
+Satchel Charge
+is reused for the
+Teamfight Tactics
+item
+Demolitionist's Charge
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Artillery
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Artillery Mages
+are the masters of range, and they leverage that advantage to whittle down their opponents over time from great distances. In turn, Artillery Mages are severely punished when enemies finally succeed in closing in on them, due to their extreme fragility and limited mobility.
+Examples
+Jayce
+Xerath
+Ziggs
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Bottom
+Within a
+drafted team
+, the
+Bottom Carry
+is one of the two champions assigned to the bottom lane alongside the
+Support
+. Being the most vulnerable, the
+Bottom Carry
+has to acquire as much gold as possible to purchase key items that will greatly increase their fighting potential.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Bottom Carry
+is expected to fulfill the former designation: the position is made for champions that highly depend on item-based power spikes.
+Marksmen
+are the most likely champions to be selected in the
+Bottom Carry
+position.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Howling Abyss
+The Howling Abyss is a bottomless crevasse located in the coldest, cruelest, part of the
+Freljord
+. Legends say that, long ago, a great battle took place here on the narrow bridge spanning this chasm. No one remembers who fought here, or why, but it is said that if you listen carefully to the wind you can still hear the cries of the vanquished tossed howling into the Abyss.
+Regular Modes
+Classic 5v5
+(
+All random
+)
+Custom
+Featured Game Modes
+Legend of the Poro King
+One For All
+One For All: Mirror Mode
+Snowdown Showdown
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Execute
+Executes
+deal
+true damage
+equal to
+100% of the target's
+current
+health
+through the
+raw damage
+source type, ignoring all mitigations.
+They do not bypass
+invulnerability
+and effects that prevent falling below a health amount, unless the source type is
+internalraw
+.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Immobilize
+Immobilized
+units cannot control their movement. The following crowd control effects
+immobilize
+the unit:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Root
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Impaired movement
+is a similar term that, in addition to the above, also refers to units that are
+slowed
+.
+League of Legends content
+Ground
+A unit that is
+grounded
+is unable to activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Grounded
+units can still be displaced.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Ground
+is the only type of
+crowd control
+that is most commonly found in persistent area of effects, which will reapply the status effect continuously.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Raw damage
+Raw damage
+is a type of damage that normally ignores resistances,
+shields
+, and
+minimum health threshold
+and
+resurrection
+effects on the target.
+Invulnerability
+and
+spell shields
+,  where applicable, are the only ways to reduce or negate
+raw damage
+. Current champion-sources of
+raw damage
+against an enemy always deal more than
+100% of the target's
+current
+health
+(
+"execution damage"
+). Current champion-sources of
+raw damage
+against the player's own champion or an ally are special-cased to take place during effects that protect champions from death. Current implementations of
+minimum health thresholds
+are special-cased to leave units at
+1 health
+rather than the threshold, when they are dealt lethal
+raw damage
+.
+Raw damage
+does not interact with
+any
+effect.
+Internal raw
+damage is a form of
+raw damage
+that also bypasses
+invulnerability
+and has no overrides in place to prevent it from killing death-protected champions. The
+Nexus Obelisk
+,
+Zac's
+Cell Division
+redirected damage, and
+Rift Herald's
+self-damage also have this modified form.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Brush
+Brush
+is a common terrain feature that obstructs
+sight
+for any unit outside of it.
+League of Legends content
+Short Fuse
+STATIC CD:
+12
+Innate:
+Periodically,
+Ziggs'
+next basic attack will deal
+bonus
+magic damage
+, increased against
+structures
+.
+Short Fuse's
+cooldown is
+reduced
+whenever
+Ziggs
+casts an ability.
+League of Legends content
+Satchel Charge
+COOLDOWN:
+20 / 18 / 16 / 14 / 12
+Active:
+Ziggs
+hurls a charge to the target location that remains for a few seconds.
+Satchel Charge
+can be recast within the duration, and does so automatically afterwards.
+Recast:
+The charge explodes to deal
+magic damage
+and
+knock back
+nearby enemies hit. If this hits
+Ziggs
+, he will
+dash
+farther away.
+The explosion will
+execute
+turrets
+hit
+below a certain health
+.
+League of Legends content
+Root
+A unit that is
+rooted
+is unable to control its movement or activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Rooted
+units can still be displaced.
+Root
+is an
+immobilizing
+effect
+.
+Moving
+includes movement commands.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Bouncing Bomb
+COOLDOWN:
+6 / 5.
+5
+/ 5 / 4.
+5
+/ 4
+Active:
+Ziggs
+throws a bomb to the target location that bounces twice forward. It will explode upon hitting an enemy, terrain, or the final bounce, dealing
+magic damage
+to nearby enemies.
+League of Legends content
+Hexplosive Minefield
+COOLDOWN:
+16
+Active:
+Ziggs
+scatters proximity mines over the target location that remain a period. Each mine will explode upon contact with an enemy or terrain, dealing
+magic damage
+and briefly
+slowing
+them.
+League of Legends content
+Mega Inferno Bomb
+COOLDOWN:
+120 / 95 / 70
+Active:
+Ziggs
+catapults the
+Mega Inferno Bomb
+to the target location that deals
+magic damage
+to enemies hit, increased at the epicenter.
+References
+[
+edit
+|
+edit source
+]
+↑
+Ziggs's profile page
+at
+LeagueOfLegends.com
+↑
+Kroonen, G.
+Etymological Dictionary of Proto-Germanic
+, pp. 430, 375-6

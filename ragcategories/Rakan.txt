@@ -1,0 +1,2472 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Rakan
+The Charmer
+Release date
+2017-04-19
+Last changed
+V14.20
+Class(es)
+Catcher
+Legacy
+Support
+Position(s)
+Support
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Magic
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+1
+Toughness
+2
+Control
+3
+Mobility
+3
+Utility
+3
+Style
+Difficulty
+Rakan
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Rakan
+Base statistics
+Edit
+Health
+610
++99
+Mana
+315
++50
+Health regen. (per 5s)
+5
++0.5
+Mana regen. (per 5s)
+8.75
++0.5
+Armor
+30
++4.9
+Attack damage
+62
++3.5
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+300
+Attack speed
+Base AS
+0.635
+Attack windup
+17.143%
+AS ratio
+N/A
+Bonus AS
++3
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+125
+Pathing radius
+35
+Acq. radius
+475
+Special statistics
+Damage Dealt
++0%
+Damage Received
+-5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Rakan
+has ability interactions with
+Xayah
+.
+Edit
+Fey Feathers
+COOLDOWN:
+40 − 14.
+5
+(based on level)
+Innate:
+Periodically,
+Rakan
+generates a
+shield
+that regenerates out of combat if not broken.
+Rakan's
+basic attacks and ability hits against enemy
+champions
+reduce
+this ability's cooldown.
+Innate - Lover's Leap:
+Rakan
+and
+Xayah
+may
+Recall
+together by
+channeling
+their
+Recalls
+beside each other.
+Innate:
+Periodically,
+Rakan
+grants himself a
+shield
+for
+30 − 225 (based on level)
+(+ 95% AP)
+that lasts until broken. After being
+out of combat
+for 5 seconds, any leftover shield will be restored to
+maximum
+value.
+Rakan's
+basic attacks
+and
+ability
+hits reduce
+Fey Feathers'
+cooldown
+by 1 second for each enemy
+champion
+hit.
+Innate - Lover's Leap:
+If either
+Rakan
+or
+Xayah
+is channeling
+Recall
+, the other may move nearby and channel their own to join alongside them.
+Both
+reach base at the time of which the initiator's
+Recall
+completes.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Revitalize
+will record bonus shielding when a new shield is created, but not when it regenerates. In either case, there is no bonus shielding received.
+The cooldown reduction is granted even if the ability is blocked by a
+spell shield
+.
+Edit
+Gleaming Quill
+COST:
+45 Mana
+COOLDOWN
+:
+11 / 10 / 9 / 8 / 7
+CAST TIME:
+0.
+25
+TARGET RANGE:
+900
+EFFECT RADIUS:
+200
+Active:
+Rakan
+slings an enchanted feather in the target direction that deals
+magic damage
+to the first enemy hit. If the feather hits an enemy
+champion
+or epic
+monster
+,
+Rakan
+winds up a circular mark around him over a few seconds. When the mark completes, Rakan
+heals
+himself. If
+Rakan
+collides with an allied champion, the mark instantly completes to grant an increased heal to all champions within the circle.
+Active:
+Rakan
+slings an enchanted feather in the target direction that deals
+magic damage
+to the first enemy hit.
+Magic Damage:
+70 / 115 / 160 / 205 / 250
+(+ 70% AP)
+If the target was an enemy
+champion
+or epic
+monster
+, a radius is marked around
+Rakan
+. After 3 seconds or if an allied champion enters the radius,
+Rakan
+heals
+himself and nearby allied champions for
+40 − 210 (based on level)
+(+ 55% AP)
+.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+The trigger radius is slightly smaller than the heal radius.
+Spell shield
+will not prevent the marked area from being formed.
+The heal can activate immediately after the projectile hits the target, before the healing return animation completes.
+This ability will cast from wherever the caster is at the end of the cast time.
+The heal will trigger and affect
+Rakan
+even if he is
+untargetable
+.
+Edit
+Grand Entrance
+COST:
+50 / 60 / 70 / 80 / 90 Mana
+COOLDOWN
+:
+16 / 14.
+5
+/ 13 / 11.
+5
+/ 10
+CAST TIME:
+none
+TARGET RANGE:
+600
+EFFECT RADIUS:
+275
+SPEED:
+1700
+Active:
+Rakan
+dashes
+to the target location. After a brief delay, he deals
+magic damage
+and briefly
+knocks up
+nearby enemies.
+Active:
+Rakan
+dashes
+to the target location. After a 0.
+35
+-second delay upon arrival, he deals
+magic damage
+to nearby enemies and
+knocks them up
+for 1 second.
+Magic Damage:
+70 / 120 / 170 / 220 / 270
+(+ 80% AP)
+Rakan
+will be
+knocked down
+by any
+immobilizing
+or
+polymorphing
+crowd control during the dash.
+Grand Entrance will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Sleep
+does not count for knocking the dash down.
+(bug)
+Edit
+Battle Dance
+COST:
+40 / 45 / 50 / 55 / 60 Mana
+COOLDOWN
+:
+20 / 18 / 16 / 14 / 12
+CAST TIME:
+none
+TARGET RANGE:
+700
+/
+1000
+SPEED:
+1250
++ 80% movement speed
+Passive:
+Rakan
+can cast or re-cast
+Battle Dance
+at an increased
+range
+when targeting
+Xayah
+.
+Active:
+Rakan
+shields
+the target allied champion for a short time, then
+dashes
+to them.
+Battle Dance
+can be recast once with no cost.
+Recast:
+Rakan
+mimics the first cast.
+Active:
+Rakan
+grants a
+shield
+to the target allied champion for 3 seconds and then
+dashes
+to and around them.
+Battle Dance
+can be recast within 5 seconds at no additional cost.
+Shield Strength:
+50 / 75 / 100 / 125 / 150
+(+ 70% AP)
+Recast:
+Rakan
+mimics the first cast's effects.
+Rakan
+will be
+knocked down
+by any
+immobilizing
+or
+polymorphing
+crowd control during the dash.
+If
+Xayah
+is the target, Battle Dance can be cast from an increased range.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Counters
+Grounded
+Disabled
+Knockdown
+Interrupted
+Both casts count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+The shields do not stack if
+Battle Dance
+is cast on the same target twice. Only the duration and shield amount is refreshed.
+Battle Dance
+, its recast, and its empowered version on
+Xayah
+all have a
+forgiveness radius
+of 175 units.
+Sleep
+does not count for knocking the dash down.
+(bug)
+Edit
+The Quickness
+COST:
+100 Mana
+COOLDOWN
+:
+130 / 110 / 90
+CAST TIME:
+0.5
+COLLISION RADIUS:
+150
+Active:
+Rakan
+breaks into a captivating sprint,
+ghosting
+and gaining
+bonus
+movement speed
+for a few seconds.
+Rakan
+deals
+magic damage
+to enemies he touches, briefly
+charming
+and
+slowing
+them. Unique enemy
+champion
+collisions slightly extend
+The Quickness'
+duration. The first enemy
+champion
+Rakan
+touches also grants him a burst of
+bonus
+movement speed
+.
+Active:
+Rakan
+breaks into a captivating sprint for 4 seconds, gaining
+ghosting
+and
+75%
+bonus
+movement speed
+for the duration. During this time, he deals
+magic damage
+to enemies he collides with and
+charms
+and
+slows
+them by 75% for a duration. This cannot affect the same enemy more than once.
+Magic Damage:
+100 / 200 / 300
+(+ 50% AP)
+Disable Duration:
+1 / 1.
+25
+/ 1.
+5
+seconds
+Colliding with an enemy
+champion
+extends
+The Quickness'
+duration by 0.
+25
+seconds, which can occur once per champion. When
+Rakan
+collides with his first enemy champion, he gains an additional
+75%
+bonus
+movement speed
+that decays after 0.
+5
+seconds by 20% every 0.
+5
+seconds, then by 15% after decaying by 60% over 1.
+5
+seconds.
+During The Quickness,
+Rakan
+cannot basic attack enemy champions he did not collide with, unless the attack command was inputted before the ability was activated.
+"Party starter!"
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+The following table refers for interactions while
+Rakan
+is in cast time:
+Type
+Cast time
+Attacking
+Allowed
+Abilities
+Grand Entrance
+is disabled but can still be buffered.
+Gleaming Quill
+and
+Battle Dance
+are usable.
+Movement
+Allowed
+Items
+Usable
+All items are usable
+Disabled
+N/A
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Teleport
+Recall
+Hexflash
+Disabled
+Flash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Rakan (Collection)
+.
+Original
+View in 3D
+975
+18.04.2017
+As mercurial as he is charming, Rakan is an infamous vastayan troublemaker and the greatest battle-dancer in Lhotlan tribal history. To the humans of the Ionian highlands, his name has long been synonymous with wild festivals, uncontrollable parties, and anarchic music. Few would suspect this energetic, traveling showman is also partner to the rebel Xayah, and is dedicated to her cause.
+Ronan Summers
+Evan 'Somnicidal' Monteiro, Jason Chan, Joshua 'HUGEnFAST' Brian Smith
+Loot eligible
+Cosmic Dawn
+View in 3D
+1350
+18.04.2017
+Dawn chases dusk beneath the sea, two lovers locked in an endless waltz across the stars. Thus Rakan is never far behind Xayah, his breaking light glowing always above her shadow.
+Ronan Summers
+Kelly Aleshire
+Cosmic
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Sweetheart
+View in 3D
+1350
+12.02.2018
+Love is in the air, and this time Rakan has a plan. He swears, this time, it will definitely, almost absolutely certainly happen. He's thought about every poetic phrase, every dreamy dance move—but still, he can't decide on what the perfect gift would be: chocolates, or flowers?
+Ronan Summers
+Jean 'Curing' Go
+Heartbreakers
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+SSG
+View in 3D
+1350
+20.07.2018
+Honoring CoreJJ's winning performance as Rakan during the 2017 World Championship.
+Ronan Summers
+Rudy Siswanto, Pan Chengwei
+World Champions: 2017
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+iG
+View in 3D
+1350
+23.04.2019
+Honoring Baolan's winning performance as Rakan during the 2018 World Championship.
+Ronan Summers
+Pan Chengwei
+World Champions: 2018
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Star Guardian
+View in 3D
+1820
+12.09.2019
+Many years ago, Rakan was destroyed in the fight against Zoe, alongside his lover Xayah. The pair were then resurrected and turned against their allies -- a fact Rakan seems keenly aware of. Biding his time to strike, he has a plan to purify the darkness from Xayah's heart... though the price may be losing himself to evil forever.
+Ronan Summers
+Esben Lash Rasmussen, Atey Ghailan
+Star Guardian Season 3
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Transforming
+Chromas
+Star Guardian Rakan Chromas
+Aquamarine
+Rose Quartz
+Ruby
+Elderwood
+View in 3D
+1350
+10.12.2020
+Deep in the shaded canopies of the Elderwood, the Fey Prince Rakan and Princess Xayah hold court over two rival fairy dominions. Star-crossed lovers uninterested in the affairs of mortals, their playful romance has insulated their people from the horrors befalling the outside world.
+Ronan Summers
+West Studio
+Elderwood
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Elderwood Rakan Chromas
+Catseye
+Emberwood
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Arcana
+View in 3D
+1350
+14.04.2022
+One half of a perpetually incomplete whole, Rakan's fated love was not in the Lower World, but among the Higher Arcana far above. As the two rush to meet betwixt the lands of their birth, fate bubbles and boils over—a roiling sea from which a new order may emerge.
+Ronan Summers
+Marie Magny, West Studio
+Arcana
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Arcana Rakan Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Broken Covenant
+View in 3D
+1350
+09.03.2023
+Rakan's mouth always got him into trouble, and after getting caught stealing from Vladimir and nearly killed, he awoke to find himself a newly turned Neverghaast, thanks to his beloved Xayah. In the time they've been separated while she repays his debt, Rakan can feel his thirsts grow and dreads showing his partner the monster he fears he's becoming.
+Ronan Summers
+Marie Magny, West Studio
+Broken Covenant
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Broken Covenant Rakan Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Redeemed Star Guardian
+View in 3D
+1820
+11.10.2023
+The darkness never suited Rakan—the First Star's light complements the glossy shine of his hair more than any chaos magic could. Plus, making evil plans is not really his style. A guardian once more, Rakan can now enjoy a welcome respite and perhaps a dance or two with Xayah.
+Ronan Summers
+Ina Wong, West Studio
+Star Guardian Season 4
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Star Guardian
+. Store variants are discounted for multiple purchases.
+Dragonmancer
+View in 3D
+1350
+09.01.2024
+Rakan wished to fight by his beloved Xayah's side, vowing to be her worthy equal after she gained the fenghuang's blessing. This vow took him inward, to a landscape of his nightmares, to confront his fears given form. Unflinching in battles of the mind and body, guarding the purity of his heart and love, Rakan earned the grace of the Devotion Dragon.
+Ronan Summers
+Yuyu Wong, Kudos Productions
+Dragonmancers
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dragonmancer Rakan Chromas
+Amethyst
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Turquoise
+Prestige Dragonmancer
+View in 3D
+Special
+09.01.2024
+The dragon-blessed Rakan sports clean-cut scale textures and sharp selections of armor to highlight his best angles. His charm shines through the elegant, organic swoops of his form-fitting wear—and his devotion to the runway is unbeatable.
+Ronan Summers
+Lejia Chan, Kudos Productions
+Dragonmancers
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Dragonmancer
+. Store variants are discounted for multiple purchases.
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.20
+Battle Dance
+New Effect:
+Cast & recast now have a forgiveness radius of 175 units.
+This also applies to the extended version for
+Xayah
+.
+V14.10
+Star Guardian Rakan
+Bug Fix:
+Certain VO quotes that did not play can now once again properly be triggered by their events.
+V14.2
+Grand Entrance
+Bug Fix:
+No longer counts as an 'immunity' spell to Challenges, making Rakan eligible to the category for those instead of the proper categories.
+V13.20
+iG Rakan
+Bug Fix:
+Model no longer swaps back to its idle position if
+Zhonya's Hourglass'
+Stasis was activated during his
+Recall
+animation.
+Star Guardian Rakan
+Bug Fix:
+Homeguard animation now properly plays even if it was activated prior to 14 minutes.
+V13.8
+Stats
+Base armor reduced to 30 from 32.
+Armor growth reduced to 4.
+9
+from 5.
+1
+.
+V13.6
+General
+Broken Covenant Rakan's
+eyebrow on his model has been updated to reflect his splash art.
+V13.5
+General
+Bug Fix:
+Arcana Rakan's
+arm no longer moves unnaturally during certain idle animations.
+Bug Fix:
+Star Guardian Rakan's
+body is now properly invisible after dying.
+Battle Dance
+Bug Fix:
+Shield VFX no longer persists even after the shield is fully destroyed.
+V13.3
+Gleaming Quill
+Base heal increased to
+40 − 210 (based on level)
+from
+30 − 115 (based on level)
+.
+Mana cost reduced to 45 from 60.
+Cooldown reduced to 11 / 10 / 9 / 8 / 7 seconds from 12 / 11 / 10 / 9 / 8.
+Grand Entrance
+Base damage reduced to 70 / 120 / 170 / 220 / 270 from 70 / 125 / 180 / 235 / 290.
+AP ratio increased to
+80% AP
+from
+70% AP
+.
+V12.22
+General
+Range type changed to
+melee
+from
+ranged
+.
+V12.21
+The Quickness
+Bug Fix:
+Enemies hit by
+The Quickness
+and
+Grand Entrance
+can no longer use items and abilities while airborne.
+V12.19
+Fey Feathers
+Shield AP ratio increased to
+95% AP
+from
+85% AP
+.
+Gleaming Quill
+AP ratio increased to
+70% AP
+from
+60% AP
+.
+V12.15
+Battle Dance
+Bug Fix:
+Fixed a bug where he would automatically cast it again to an ally after using
+Flash
+.
+V12.11
+Gleaming Quill
+Base heal increased to
+30 − 115 (based on level)
+from
+18 − 90 (based on level)
+.
+Grand Entrance
+Cooldown reduced to 16 / 14.
+5
+/ 13 / 11.
+5
+/ 10 seconds from 18 / 16.
+5
+/ 15 / 13.
+5
+/ 12.
+Battle Dance
+Mana cost reduced to 40 / 45 / 50 / 55 / 60 from 60 / 70 / 80 / 90 / 100.
+Base shield increased to 50 / 75 / 100 / 125 / 150 from 35 / 60 / 85 / 110 / 135.
+V12.10
+Stats
+Base health increased to 610 from 540.
+Health growth increased to 99 from 85.
+Armor growth increased to 5.
+1
+from 3.
+9
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Fey Feathers
+Base shield reduced to
+30 − 225 (based on level)
+from
+33 − 254 (based on level)
+.
+Shield AP ratio reduced to
+85% AP
+from
+90% AP
+.
+Gleaming Quill
+Base heal reduced to
+18 − 90 (based on level)
+from
+18 − 120 (based on level)
+.
+Heal AP ratio reduced to
+55% AP
+from
+70% AP
+.
+Battle Dance
+Base shield reduced to 35 / 60 / 85 / 110 / 135 from 40 / 65 / 90 / 115 / 140.
+Shield AP ratio reduced to
+70% AP
+from
+80% AP
+.
+V11.8
+Battle Dance
+Bug Fix:
+Second cast now properly triggers
+Summon Aery
+.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.21
+- October 16th Hotfix
+The Quickness
+Bug Fix:
+Fixed a bug where charmed enemies would still be able to move and cast abilities.
+V10.16
+The Quickness
+Initial bonus movement speed increased to 75% from 50%.
+Undocumented:
+Bonus movement speed from colliding with first enemy champion reduced to 75% from 100%.
+V10.15
+Fey Feathers
+Cooldown reduced to
+40 − 14.
+5
+(based on level)
+seconds from
+40 − 16 (based on level)
+.
+V10.13
+Grand Entrance
+Base damage increased to 70 / 125 / 180 / 235 / 290 from 70 / 120 / 170 / 220 / 270.
+V10.6
+General
+Recommended items updated.
+V10.5
+Battle Dance
+Bug Fix:
+Can no longer stack
+Spellbinder
+by casting the second dash on allies that are out of range.
+V9.19
+The Quickness
+Bug Fix:
+Fixed a bug where his self-only R marker would display in Spectator Mode.
+V9.10
+Battle Dance
+Bug Fix:
+Can now properly recast it even when his mana is lower than the ability's cost.
+V9.9
+- May 2nd Hotfix
+Battle Dance
+Bug Fix:
+Fixed a bug where mana cost was incorrect when used with
+Xayah
+.
+V9.9
+Stats
+Base health increased to 540 from 480.
+Base armor increased to 32 from 29.
+Base attack damage reduced to 62 from 70.
+Base magic resistance increased to 32.
+1
+from 30.
+Magic resistance growth increased to 1.
+25
+from 0.
+5
+.
+Grand Entrance
+Dash speed increased to 1700 from 1500.
+The Quickness
+New Effect:
+Can no longer cast
+Grand Entrance
+or
+Flash
+during the first 0.
+5
+seconds of
+The Quickness
+.
+New Effect:
+While active, can now buffer
+Grand Entrance
+.
+V9.5
+Grand Entrance
+Base damage increased to 70 / 120 / 170 / 220 / 270 from 70 / 115 / 160 / 205 / 250.
+Dash speed increased to 1500 from 1400 (+
+0 / 45 / 80 (based on type of boots)
+).
+V9.2
+General
+Recommended items updated.
+Stats
+Base armor reduced to 29 from 33.
+Grand Entrance
+Dash speed changed to 1400 (+
+0 / 45 / 80 (based on type of boots)
+) from 2050
+(+ 30% movement speed)
+.
+Delay on arrival before impact reduced to 0.
+35
+seconds from 0.
+5
+.
+The Quickness
+Bug Fix:
+Fixed a bug that caused it to sometimes not affect his basic attack target.
+V8.16
+Stats
+Base health reduced to 480 from 510.
+Base armor reduced to 33 from 36.
+V8.15
+SSG Rakan
+Bug Fix:
+Now properly listed as World Champions: 2017 in the Skins Collections tab.
+V8.14
+Gleaming Quill
+Cooldown increased to 12 / 11 / 10 / 9 / 8 seconds from 12 / 10.
+5
+/ 9 / 7.
+5
+/ 6.
+The Quickness
+Cooldown increased to 130 / 110 / 90 seconds from 120 / 100 / 80.
+V8.11
+Gleaming Quill
+Base heal reduced to
+18 − 120 (based on level)
+from
+22.
+5
+− 150 (based on level)
+.
+Battle Dance
+Base shield strength reduced to 40 / 65 / 90 / 115 / 140 from 50 / 75 / 100 / 125 / 150.
+V8.7
+Grand Entrance
+Bug Fix:
+Has been optimized, which will eliminated reported frame drops.
+Sweetheart Rakan
+Grand Entrance
+Bug Fix:
+Has been optimized, which will eliminated reported frame drops.
+V8.6
+Gleaming Quill
+AP ratio increased to
+60% AP
+from
+50% AP
+.
+Grand Entrance
+AP ratio increased to
+70% AP
+from
+50% AP
+.
+Battle Dance
+Range increased to 700 from 600.
+Range towards
+Xayah
+unchanged at 1000.
+V8.4
+Sweetheart Rakan
+Bug Fix:
+Health bar has been adjusted so it no longer obscures several animations.
+V8.3
+Cosmic Dawn Rakan
+Bug Fix:
+No longer has a receding hairline.
+VFX no longer reveal the bottom of his head.
+V7.22
+Stats
+Base attack damage increased to 70 from 62.
+Base armor increased to 36 from 24.
+V7.18
+Grand Entrance
+Dash speed changed to 2050 (+ 30% movement speed) from 1800 (+ 100% movement speed).
+The Quickness
+Collision radius reduced to 150 from 200.
+Cooldown reduced to 120 / 100 / 80 seconds from 120 / 110 / 100.
+V7.13
+June 28th Hotfix
+Grand Entrance
+Bug Fix:
+Fixed a bug where, if he was interrupted during the dash, he became unable to use
+Flash
+until re-casting
+Grand Entrance
+.
+V7.12
+Fey Feathers
+Bug Fix:
+Now properly benefits from effects that modify heal and shield values (ex.
+Forbidden Idol
+line,
+Windspeaker's Blessing
+).
+The Quickness
+Bug Fix:
+Cooldown availability now displays accurately for allies in the HUD.
+Bug Fix:
+Enemies affected by the charm no longer walk in the wrong direction if they cast a spell the instant before being hit by the charm.
+V7.11
+General
+Bug Fix:
+Rakan's
+warding VO lines are no longer audible to enemies (sometimes giving away his position through fog of war). Allies can still hear him.
+Bug Fix:
+Fixed a bug where, when
+Xayah
+and
+Rakan
+use
+Lover's Leap
+Recall
+while empowered by
+Baron
+, only the champion who started the
+Recall
+would gain Empowered
+Recall's
+bonus movement speed.
+Cosmic Dawn Rakan
+Bug Fix:
+Once again creates a starry nebula during his
+Recall
+.
+V7.10
+May 19th Hotfix
+The Quickness
+Bug Fix:
+Fixed a few bugs with it interacting oddly with other effects.
+V7.10
+Gleaming Quill
+Range increased to 900 from 800.
+Grand Entrance
+Base damage increased to 70 / 115 / 160 / 205 / 250 from 70 / 110 / 150 / 190 / 230.
+Battle Dance
+Shield strength reduced to 50 / 75 / 100 / 125 / 150 from 50 / 85 / 120 / 155 / 190.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+Cosmic Dawn Rakan
+Bug Fix:
+No longer leaves behind a purple ghost of himself after
+Recalling
+.
+Bug Fix:
+No longer turns himself purple when his
+Recall
+is cancelled.
+Bug Fix:
+Fixed
+Recall
+and death audio.
+Gleaming Quill
+Bug Fix:
+Fixed a bug that could cause it to cost no mana in certain situations.
+V7.8
+Added
+Fey Feathers
+Innate:
+Rakan's
+periodically generates a
+33 − 254 (based on level)
+(+ 90% AP)
+shield. Damaging an enemy champion with a basic attack or ability reduces
+Fey Feathers
+cooldown by 1 second.
+Lover's Leap:
+If either
+Rakan
+or
+Xayah
+is
+recalling
+, the other may move nearby and activate their own recall to join them.
+Both
+reach base at the time of which the initiator's recall ends.
+Static Cooldown:
+40 − 16 (based on level)
+seconds
+Gleaming Quill
+Active:
+Rakan
+slings an enchanted feather forward, dealing 70 / 115 / 160 / 205 / 250
+(+ 50% AP)
+magic damage to the first enemy hit. If that enemy was a champion or epic monster, a small circular area is marked around
+Rakan
+. After a short period of time or if an ally champion comes into contact with the marked area,
+Rakan
+heals himself and surrounding allies by
+23 − 150 (based on level)
+(+ 70% AP)
+.
+Mana Cost:
+60
+Cooldown:
+12 / 10.
+5
+/ 9 / 7.
+5
+/ 6 seconds
+Grand Entrance
+Active:
+Rakan
+dashes forward, landing stylishly at his destination. After a dramatic pause, he leaps into the air, dealing 70 / 110 / 150 / 190 / 230
+(+ 50% AP)
+magic damage and
+knocking up
+surrounding enemies for 1 second.
+Mana Cost:
+50 / 60 / 70 / 80 / 90
+Cooldown:
+18 / 16.
+5
+/ 15 / 13.
+5
+/ 12 seconds
+Battle Dance
+Active:
+Rakan
+leaps to an ally champion, shielding them for 50 / 85 / 120 / 155 / 190
+(+ 80% AP)
+for 3 seconds.
+Battle Dance
+can be re-cast for 5 seconds at no cost. When re-cast,
+Rakan
+may select the same target again.
+If
+Xayah
+is the target,
+Battle Dance
+is able to be cast from an increased range.
+Mana Cost:
+60 / 70 / 80 / 90 / 100
+Cooldown:
+20 / 18 / 16 / 14 / 12 seconds
+The Quickness
+Active:
+Rakan
+enchants his coat with a captivating sheen for the next 4 seconds, dealing 100 / 200 / 300
+(+ 50% AP)
+magic damage and
+charming
+each enemy he touches for 1 / 1.
+25
+/ 1.
+5
+seconds. Enemies can only be affected once.
+Rakan
+benefits from 50%
+bonus
+movement speed for the duration, which is briefly increased to 200% upon first damaging an enemy champion before decaying back down to 50%.
+Mana Cost:
+100
+Cooldown:
+120 / 110 / 100 seconds seconds
+Trivia
+[
+edit
+|
+edit source
+]
+Rakan's and
+Xayah's
+dual release is the first one since
+V1.0.0.72
+.
+They were also the first
+champions
+released in
+2017
+.
+Rakan's and Xayah's loading screens always align themselves to the rightmost side before a game starts and when picked on the same team (to mirror their shared splash art).
+Rakan's cloak is actually his wings disguised by Vastayan magic in order to blend in with humans.
+Rakan and Xayah are sometimes depicted together with combined wings. The one-winged
+Jian bird
+in Chinese mythology has a similar codependency, which represents the bond of two lovers.
+Rakan has the second highest basic attack range amongst
+melee
+champions (300 units) behind
+Lillia
+(325 units).
+He used to have the lowest basic attack range amongst
+ranged
+champions prior to
+V12.22
+.
+Rakan's favorite human food is chocolate; even though chocolate's theobromine may
+poison
+Rakan due to his half-bird physiology, his human half may help metabolize the compound & alleviate its effects.
+Rakan's dance references
+Jailhouse Rock
+by
+Elvis Presley
+.
+A side-by-side comparison can be seen
+here.
+He shared this dance with
+Pantheon
+, until the latter eventually got a full relaunch.
+When Rakan
+basic attacks
+from a far distance he hits his target with his cape, if he is closer, he will punch them instead.
+At release, Rakan had a hidden passive: he also dealt 1 more
+physical damage
+with his punches.
+[2]
+His name resembles the
+Malay
+noun
+rakan
+"friend, relative";
+He is the only champion with 3 points at 3 skills by the client classification.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Catcher
+Controllers
+are defensive casters that oversee the battlefield by protecting and opening up opportunities for their allies.
+Catchers
+specialize in locking down opponents or, in some cases, entire battlefields by creating intense zones of threat that only foolish enemies would dare wade through. Although not as reliant on their friends as Enchanters, the fragile Catchers greatly benefit from allied presence - both to deter incoming danger and to help capitalize on targets they've locked down.
+Examples
+Blitzcrank
+Morgana
+Zyra
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except unstoppable ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Knockdown
+Knockdown
+only affects units that are performing a
+dash
+or being displaced by an
+airborne
+effect. A unit that is
+knocked down
+has its
+dash
+or
+displacement
+interrupted and is placed on the ground instantly.
+Knockdown
+is not a
+status effect
+.
+Interrupts:
+Interrupts all
+dashes
+and
+airborne effects
+(displacement
+and
+status effects).
+Knock ups
+will not have their
+airborne
+status removed if there is no sourced debuff, but their displacement still ends.
+Reduction:
+The effect is instantaneous.
+There is nothing to reduce.
+Resist:
+Resisted by
+crowd control immunity
+and
+displacement immunity
+.
+Removal:
+The effect is instantaneous.
+There is nothing to remove.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Immobilize
+Immobilized
+units cannot control their movement. The following crowd control effects
+immobilize
+the unit:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Root
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Impaired movement
+is a similar term that, in addition to the above, also refers to units that are
+slowed
+.
+League of Legends content
+Polymorph
+A unit that is
+polymorphed
+is
+silenced
+and turned into a helpless critter.
+A unit that is
+silenced
+is unable to cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Polymorph
+combines
+silence
+with additional effects; it is the signature effect of
+Lulu's
+Whimsy
+, which also
+disarms
+and reduces the target's movement speed for the duration.
+Interrupts:
+Interrupts all
+attack windups
+(including
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Sleep
+A unit that is
+asleep
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Sleep
+occurs after the duration of
+drowsiness
+finishes.
+Sleep
+is an
+immobilizing
+effect
+.
+Interrupts:
+Falling
+asleep
+interrupts
+attack windups
+(excluding
+uncancellable basic attacks
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+and taking damage (excluding damage from
+persistent damage
+,
+minions
+, and small and medium
+monsters
+, and any damage smaller than or equal to 10 post-mitigation).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Targeting forgiveness
+Certain unit-targeted abilities present an accuracy-grace system called
+targeting forgiveness
+.
+When no valid target is
+directly selected
+upon using the ability, it will automatically search for one within a certain
+center-to-center
+forgiveness radius
+. If a valid target is found within the forgiveness radius, the ability will automatically acquire them and cast on them. If multiple targets are found, the nearest one to the forgiveness radius' center is chosen.
+Only ally-targeted abilities may utilize this system. Not to be confused with a different, priority-based system that a few other spells (e.g.
+Smite
+) use.
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Charm
+A unit that is
+charmed
+is forced to move directly toward the
+Source
+(the
+unit
+that casted the
+Charm
+spell) for the duration, during which they're unable to perform issued movement commands, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+. All
+charms
+also apply a
+slow
+.
+Charm
+is an
+immobilizing
+effect
+.
+Forced action effects
+cannot
+force the unit to perform an action that is disabled.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities, as well as overrides previous
+Forced Action
+effects.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+or when the
+Source
+dies.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units, or other units to move through them.
+League of Legends content
+Resurrection
+A unit that is protected by
+Resurrection
+will enter a revival state and dispel most debuffs upon taking
+fatal damage
+. After the state completes, the unit is revived.
+Resurrection
+effects do not count for kills or assists.
+Resurrection
+sources have a hierarchy, and will trigger in the following order:
+Zilean's
+Chronoshift
+Guardian Angel
+Anivia's
+Rebirth
+and
+Zac's
+Cell Division
+Resurrection
+will always take precedence over
+zombie state
+effects. Entering
+resurrection
+does not cancel cast times.
+Renata Glasc's
+Bailout
+always takes priority over
+resurrection
+.
+League of Legends content
+Battle Dance
+COOLDOWN:
+20 / 18 / 16 / 14 / 12
+Passive:
+Rakan
+can cast or re-cast
+Battle Dance
+at an increased
+range
+when targeting
+Xayah
+.
+Active:
+Rakan
+shields
+the target allied champion for a short time, then
+dashes
+to them.
+Battle Dance
+can be recast once with no cost.
+Recast:
+Rakan
+mimics the first cast.
+League of Legends content
+Grand Entrance
+COOLDOWN:
+16 / 14.
+5
+/ 13 / 11.
+5
+/ 10
+Active:
+Rakan
+dashes
+to the target location.
+After a brief delay, he deals
+magic damage
+and briefly
+knocks up
+nearby enemies.
+References
+[
+edit
+|
+edit source
+]
+↑
+Rakan's profile page
+at
+LeagueOfLegends.com
+↑
+Rakan deals 1 less damage with Melee Attack

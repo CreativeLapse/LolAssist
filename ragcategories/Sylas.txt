@@ -1,0 +1,3613 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Sylas
+the Unshackled
+Release date
+2019-01-25
+Last changed
+V14.22
+Class(es)
+Burst
+Skirmisher
+Legacy
+Mage
+Assassin
+Position(s)
+Middle
+Top
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Magic
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+2
+Toughness
+2
+Control
+1
+Mobility
+3
+Utility
+1
+Style
+Difficulty
+Sylas
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Sylas
+Base statistics
+Edit
+Health
+600
++122
+Mana
+400
++70
+Health regen. (per 5s)
+9
++0.9
+Mana regen. (per 5s)
+8
++0.8
+Armor
+29
++5.2
+Attack damage
+61
++3
+Magic resist.
+32
++2.55
+Crit. damage
+175%
+Move. speed
+340
+Attack range
+175
+Attack speed
+Base AS
+0.645
+Attack windup
+16.774%
+AS ratio
+N/A
+Bonus AS
++3.5
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+100
+Pathing radius
+35
+Acq. radius
+525
+Special statistics
+Damage Dealt
++5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Petricite Burst
+EFFECT RADIUS:
+300
+Innate:
+Sylas'
+ability casts generate stacks of
+Unshackled
+that stack up to a cap. While he has stacks, he gains tremendous
+bonus
+attack speed
+.
+Innate - Unshackled:
+Sylas'
+next basic attack consumes a stack to whirl his chains around him, dealing
+magic damage
+to the target and reduced
+magic damage
+to nearby enemies.
+Innate:
+Whenever
+Sylas
+casts an
+ability
+, he generate a
+stack
+of
+Unshackled
+for 4 seconds, refreshing on subsequent casts and stacking up to 3 times.
+Unshackled:
+Sylas'
+next
+basic attack
+gains
+125%
+bonus
+attack speed
+and is empowered to consume a stack to whirl his chains around him, which has an
+uncancellable windup
+and deals
+130% AD
+(+ 30% AP)
+magic damage
+to the primary target and
+40% AD
+(+ 20% AP)
+magic damage
+to nearby enemies.
+Damage to secondary targets executes
+minions
+that would be left below
+25 health
+.
+Petricite Burst
+can
+critically strike
+for
+(75% +
+40%
+) AD
+bonus
+magic damage
+to all targets hit.
+Info
+Targeting input
+Passive
+Damage type
+Type
+See Notes
+Sub-type
+Magic
+Counters
+Spell shield
+Not Blocked
+Parries
+See Notes
+Spellblade
+damage does not get converted to magic damage, and will deal its damage only to the primary target.
+Applies
+proc damage
+to the primary target and
+area damage
+to secondary targets.
+Petricite Burst
+only applies on-hit effects to the primary target.
+Petricite Burst
+attacks benefit from
+life steal
+.
+Petricite Burst
+can be
+dodged
+,
+blocked
+, or missed while
+Sylas
+is
+blinded
+as the primary target but not as a secondary target.
+Edit
+Chain Lash
+COST:
+55 Mana
+COOLDOWN:
+10 / 9 / 8 / 7 / 6
+CAST TIME:
+0.
+4
+TARGET RANGE:
+50
+/
+775
+EFFECT RADIUS:
+180
+/
+200
+Active:
+Sylas
+lashes out two chains that converge at the target location, dealing
+magic damage
+to enemies hit and
+slowing
+them for a brief moment. After a brief delay, the intersection explodes to deal
+magic damage
+to enemies within.
+Active:
+Sylas
+lashes out two chains that converge to the target location and extend beyond it up to a maximum range, dealing
+magic damage
+to enemies hit and
+slowing
+them for 1.
+5
+seconds.
+Magic Damage:
+40 / 60 / 80 / 100 / 120
+(+ 40% AP)
+Slow:
+15 / 20 / 25 / 30 / 35%
+After a 0.
+6
+-second delay, the chains' intersection explodes to deal
+magic damage
+to enemies within, reduced to 40% against
+minions
+.
+Magic Damage:
+60 / 115 / 170 / 225 / 280
+(+ 80% AP)
+Total Magic Damage:
+100 / 175 / 250 / 325 / 400
+(+ 120% AP)
+Minion Damage:
+24 / 46 / 68 / 90 / 112
+(+ 32% AP)
+Total Minion Damage:
+64 / 106 / 148 / 190 / 232
+(+ 72% AP)
+Chain Lash will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+The detonation's effect radius center is placed at the intersection between the chains from the initial cast, meaning a max range cast can create a detonation that reaches further than the chains do.
+Edit
+Kingslayer
+COST:
+50 / 60 / 70 / 80 / 90 Mana
+COOLDOWN:
+12 / 10.
+5
+/ 9 / 7.
+5
+/ 6
+CAST TIME:
+none
+RANGE:
+400
+Active:
+Sylas
+dashes
+to the target enemy and strikes them to deal
+magic damage
+. If this hits a
+champion
+,
+Sylas
+is also
+healed
+, increased based on
+his
+missing
+health
+.
+Active:
+Sylas
+dashes
+to the front of the target enemy's location then strikes them to deal
+magic damage
+.
+Magic Damage:
+75 / 110 / 145 / 180 / 215
+(+ 60% AP)
+If this damages a
+champion
+,
+Sylas
+is also
+healed
+, increased by
+0% − 100% (based on his
+missing
+health)
+.
+Minimum Heal:
+20 / 40 / 60 / 80 / 100
+(+ 20% AP)
+(+ 5% of his
+bonus
+health)
+Maximum Heal:
+40 / 80 / 120 / 160 / 200
+(+ 40% AP)
+(+ 10% of his
+bonus
+health)
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+The damage will be dealt if the dash completed uninterrupted, and regardless of how far the target's location is at the end of the dash.
+Sylas
+will heal even if the target champion dies before the dash is completed.
+The only exception is if the target becomes
+untargetable
+, in which case
+Kingslayer
+will have no effect.
+Map-Specific Differences
+Arena
+differences
+edit
+Minimum heal AP ratio changed to
+20% AP
+.
+Maximum heal AP ratio changed to
+40% AP
+.
+Damage AP ratio changed to
+65% AP
+.
+Cooldown changed to 13 / 11.
+5
+/ 10 / 8.
+5
+/ 7 seconds.
+Edit
+Abscond
+COST:
+65 Mana
+COOLDOWN
+:
+13 / 12 / 11 / 10 / 9
+CAST TIME:
+none
+TARGET RANGE:
+400
+SPEED:
+1450
+Active:
+Sylas
+dashes
+to the target location. He can then cast
+Abduct
+within a short time.
+Active:
+Sylas
+dashes
+to the target location. Within 3.
+5
+seconds, he can cast
+Abduct
+after a
+0.
+2
+-second delay
+from casting
+Abscond
+.
+Kingslayer
+can be cast during the dash. Abscond will cast at max range if cast beyond that.
+Edit
+Abduct
+CAST TIME:
+0.
+25
+RANGE:
+950
+/
+790
+WIDTH:
+120
+SPEED:
+2500 - 400
+/
+1800
+Active:
+Sylas
+whips his chains in the target direction that deal
+magic damage
+and briefly
+stun
+the first enemy hit,
+revealing
+them. He will then
+dash
+to the target and briefly
+knock them up
+upon arrival.
+Active:
+Sylas
+whips out his chains in the target direction that deal
+magic damage
+to the first enemy hit and
+reveal
+and
+stun
+them for 0.
+5
+seconds. Upon hitting the target,
+Sylas
+dashes
+to their location and
+knocks them up
+for 0.
+5
+seconds upon arrival.
+Magic Damage:
+80 / 130 / 180 / 230 / 280
+(+ 80% AP)
+Sylas
+is
+unable
+to cast
+Chain Lash
+while the chains are in flight.
+Targeting input
+Location
+Counters
+Grounded
+Disabled
+Knockdown
+Interrupted
+Notes
+No additional details.
+Targeting input
+Direction
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Notes
+Abduct
+counts as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Sylas
+will not dash to his target if the chains are blocked by
+spell shield
+.
+The target will be revealed for 2 seconds if the dash is interrupted.
+Abduct
+will still apply the
+knock up
+if the target is
+untargetable
+by the end of the dash.
+This ability will cast from wherever the caster is at the start of the cast time.
+Sylas
+is unable to perform actions while dashing to the target, and becomes able to again after 0.
+05
+seconds of the dash ending.
+Sylas
+will not dash to the target hit if he is
+channeling
+or
+dashing
+from a
+Hijacked
+ability.
+Abduct
+will not apply the
+knock up
+when this happens.
+If the chains connect before a pre-channel cast time is complete then Sylas will dash to the target and the ability will cancel.
+Edit
+Hijack
+COST:
+75 Mana
+COOLDOWN
+:
+80 / 55 / 30
+CAST TIME:
+0.
+25
+TARGET RANGE:
+950
+SPEED:
+2200
+On-Target Cooldown
+:
+200% of target's base ultimate cooldown
+Active:
+Sylas
+launches his chains at the target enemy champion, gaining a copy of their
+ultimate ability
+and briefly
+revealing
+them. He cannot steal from the same champion again for a while, and can hold the
+hijacked
+ability for some time, during which he can recast
+Hijack
+.
+Recast:
+Sylas
+casts his
+hijacked
+ability at no cost.
+Hijacked
+abilities that do not scale with
+ability power
+have their
+attack damage
+ratios converted to
+ability power
+ratios.
+Active:
+Sylas
+launches his chains at the target enemy champion, gaining a copy of their
+ultimate ability
+and
+revealing
+them for 0.
+825
+seconds at the start of the cast time.
+Sylas
+cannot select the same champion again for a set duration, and can hold the
+hijacked
+ultimate for up to 90 seconds, during which he can recast
+Hijack
+.
+Recast:
+Sylas
+casts his hijacked ultimate ability at no cost, scaling based on
+Hijack's
+rank and his own
+statistics
+.
+Hijacked
+ultimates and abilities that do not scale with
+ability power
+have their
+attack damage
+ratios converted to
+ability power
+ratios, scaling with
+0.
+6
+% AP
+per
+1%
+total
+AD
+, and
+0.
+4
+% AP
+per
+1%
+bonus
+AD
+respectively.
+"What's yours is mine!"
+Info
+Targeting input
+Unit
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Petricite Burst
+'s
+stack from casting
+Hijack
+is given after
+Sylas
+receives the Hijacked ability.
+Hijack'
+s per target cooldown is indicated by a ring under recently targetted enemy champions, and is only visible to
+Sylas
+and each individual enemy.
+If
+Sylas
+casts
+Hijack
+on a
+clone
+, no ultimate is stolen and the ability will be placed on full cooldown.
+The same does not occur for champions within a
+zombie state
+.
+Clones
+do not copy
+Hijack's
+target cooldown indicator, potentially revealing them to
+Sylas
+.
+Neeko's
+Inherent Glamour
+does not hide her personal cooldown indicator, nor does she copy her allies'.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+If the same happens when casting an on-target stolen ability, the ability will instead cancel and go on cooldown.
+If
+Hijack
+is intercepted by
+Braum's
+Unbreakable
+,
+Sylas
+will gain a copy of
+Glacial Fissure
+instead and an on-target cooldown will be applied to him.
+If
+Braum
+has an on-target cooldown on him (by being previously
+Hijacked
+) upon interception, no ultimate will be stolen.
+Since the copied ability scales based on
+Hijack's
+rank, abilities can be copied regardless of their rank.
+Hijack
+will copy all passives, actives and recast effects of the stolen ability.
+Hijack
+will not trigger the effects of other abilities unless absolutely necessary.
+Shape-shifting ultimates will transform
+Sylas
+into the target's alternate form, replacing his basic abilities and
+base
+stats. Namely:
+Cougar Form
+,
+Spider Form
+,
+Cannon Form
+and
+Dragon Form
+.
+Dragon's Descent
+transforms
+Sylas'
+mana
+, into
+Shyvana's
+fury
+, being able to replenishing it by basic attacking. At the end of the effect,
+Sylas
+gains his previous mana.
+Dragon's Descent
+does not refresh ability cooldowns upon transforming.
+Spider Form
+freezes Sylas' original cooldowns on their current values, causing them to not come off cooldown during Spider Form.
+(bug)
+Upon transforming back from
+Cannon Form
+, Sylas' next basic attack deals
+Transform Mercury Hammer
+'s bonus magic damage and uses his critical strike animation.
+Transforming into
+Cannon Form
+with more than 2 stacks of Unshackled and then casting
+Hypercharge
+will limit its effect until the currently held Unshackled stacks are spent.
+(bug)
+Transforming into
+Cougar Form
+with more than 2 stacks of Unshackled and then casting
+Takedown
+will disable Takedown's effect until the buff timer runs out.
+(bug)
+Permanent transformations last for ~5 minutes or until toggled off.
+The alternate abilities of transforming champions will cost mana and scale with the ranks as appropriate for the ability (e.g. ranks in R for Nidalee and ranks in Q/W/E for Jayce/Elise).
+Upon transforming, a
+Petricite Burst
+stack will be deducted.
+Petricite Burst
+stacks will still be gained from abilities cast in alternate forms, but the stacks are gained independently from the normal ones.
+If
+Sylas
+has both normal and transformed stacks,
+Petricite Burst
+will prioritize consuming
+Sylas
+stacks before the transformed ones.
+Ultimates comply with
+One for All
+rules if an ally is playing the hijacked champion. For example, an allied
+Darius'
+Hemorrhage
+stacks will increase the damage of the hijacked
+Noxian Guillotine
+; or an allied
+Syndra's
+Dark Sphere
+will add extra damage to hijacked
+Unleashed Power
+as well as producing 3 spheres that she can use.
+Ultimate Interactions
+Ahri's
+Spirit Rush
+- Gains a charge upon scoring a champion
+takedown
+within 3 seconds of damaging them.
+Akshan's
+Comeuppance
+-
+Sylas
+can cast
+Abscond
+, but doing so ends the channel prematurely. If
+Comeuppance
+is cast after
+Abduct
+but before the chains hit a target,
+Sylas
+isn't pulled to the target and the channel continues as usual.
+Amumu's
+Curse of the Sad Mummy
+- Does not apply
+Cursed Touch
+.
+Aphelios'
+Moonlight Vigil
+- Based on the
+main weapon
+at the moment of steal.
+Crescendum
+empowers his basic attacks temporarily.
+Calibrum
+does not apply marks.
+Severum
+grants a shield if healed while at full health.
+Ashe's
+Enchanted Crystal Arrow
+- Does not apply
+Frost Shot
+to secondary targets.
+Brand's
+Pyroclasm
+- Does not apply stacks of
+Blaze
+.
+Cho'Gath's
+Feast
+- Gains permanent
+Feast
+stacks on-kill.
+Corki's
+Missile Barrage
+- Gains max charges.
+Darius'
+Noxian Guillotine
+- Does not apply a stack of
+Hemorrhage
+. Upon gaining a reset from a Rank 3
+Noxian Guillotine
+,
+Sylas
+can hold onto the ability for up to 300 seconds.
+Fiora's
+Grand Challenge
+- Gains
+movement speed
+in the effect and deals bonus
+Vitals
+true damage and can trigger the area healing.
+Galio's
+Hero's Entrance
+- Gives
+Sylas
+and allies
+Shield of Durand's
+magic
+shield
+, based on
+Kingslayer
+rank.
+Gangplank's
+Cannon Barrage
+- Does not steal cannon upgrades.
+Gnar's
+GNAR!
+- Gains a usable ultimate regardless of cast on
+Mini Gnar
+or
+Mega Gnar
+.
+Gwen's
+Needlework
+- Does not apply
+Thousand Cuts
+.
+Heimerdinger's
+UPGRADE!!!
+-
+Sylas's
+basic abilities are replaced with
+Heimerdinger's
+empowered abilities. The upgrade buff lasts until the ultimate can be stolen again.
+Illaoi's
+Leap of Faith
+- Does not reduce
+cooldown
+of
+Kingslayer
+.
+Irelia's
+Vanguard's Edge
+- Applies marks of
+Bladesurge
+.
+Jax's
+Grandmaster-At-Arms
+- Applies magic damage on-hit while holding onto
+Grandmaster-At-Arms
+and while it is active.
+Kassadin's
+Riftwalk
+- Only provides one use.
+Kai'Sa's
+Killer Instinct
+-
+Sylas'
+basic attacks,
+Abduct
+and nearby allies'
+immobilizations
+apply stacks of
+Plasma
+, up to 4.
+Sylas
+is unable to apply the 5th stack necessary to expunge the stacks.
+Kalista's
+Fate's Call
+- Only castable with a
+link
+(purchasable in the
+Shop
+for
+0 gold
+).
+Karma's
+Mantra
+-
+Sylas'
+basic abilities are replaced with
+Karma's
+empowered abilities, according to
+Sylas'
+own ability ranks (including
+Hijack
+for Mantra bonuses).
+Katarina's
+Death Lotus
+- Can be cast without a target.
+Kayn's
+Umbral Trespass
+- Based on current form (
+Shadow Assassin
+/
+Rhaast
+).
+Kha'Zix's
+Void Assault
+- Can steal the ability's
+evolution
+bonus effects.
+Kennen's
+Slicing Maelstrom
+- Applies
+Mark of the Storm
+.
+Kled's
+Chaaaaaaaarge!!!
+- Does not need
+mount
+to cast.
+Kog'Maw's
+Living Artillery
+- Only provides one use.
+LeBlanc's
+Mimic
+- Uses the empowered version of
+LeBlanc's
+last cast basic ability.
+Mimic Sigil of Malice
+does not apply its mark. If she has not cast any abilities,
+Mimic Sigil of Malice
+is copied.
+Leona's
+Solar Flare
+- Does not apply
+Sunlight
+.
+Lillia's
+Lilting Lullaby
+-
+Sylas'
+abilities apply
+Dream-Laden Bough's
+debuff, which does not deal its damage over time.
+Lucian's
+The Culling
+- Can cast
+Abscond
+and
+Abduct
+freely during the channel.
+Lux's
+Final Spark
+- Does not apply
+Illumination
+.
+Master Yi's
+Highlander
+-
+Takedowns
+reduce basic ability cooldowns while holding onto
+Highlander
+and while it is active.
+Mordekaiser's
+Realm of Death
+- Can join the
+dimension
+of outgoing realms if cast in the proper range
+(does not extend their duration)
+.
+Nasus'
+Fury of the Sands
+- Does not reduce
+cooldown
+of
+Chain Lash
+.
+Neeko's
+Inherent Glamour
+- Always steals
+Pop Blossom
+, regardless of the champion Neeko is disguised as.
+Olaf's
+Ragnarok
+- Does not grant
+AD
+based on
+Sylas'
+AP
+, despite the tooltip indicating so.
+Orianna's
+Command: Shockwave
+- Cast on self without a
+Ball
+.
+Pantheon's
+Grand Starfall
+- The spear deals damage based on
+Chain Lash
+rank and scales with
+46% AP
+.
+Quinn's
+Behind Enemy Lines
+- Does not cast
+Skystrike
+upon attacking an enemy champion. It can be casted manually however.
+Rengar's
+Thrill of the Hunt
+-
+Sylas
+will gain
+Unseen Predator
+on his next attack.
+Renekton's
+Dominus
+- Grants
+Sylas
+20 mana
+on cast and then
+5 mana
+per second (up to
+75 total mana
+over the duration).
+Rek'Sai's
+Void Rush
+-
+Sylas'
+attacks against enemy champions will apply a
+mark
+which can be used to cast the ability.
+Riven's
+Blade of the Exile
+- Grants
+AD
+based on
+Sylas'
+AP
+on cast and grants him 75
+bonus
+attack range for his auto attacks aswell for
+Chain Lash
+and
+Kingslayer
+.
+Samira's
+Inferno Trigger
+- Can use without a
+Grade
+.
+Seraphine's
+Encore
+- Allies do not gain
+Notes
+.
+Shaco's
+Hallucinate
+- Creates a
+Sylas
+Clone that also copies
+Sylas'
+stolen ultimate indicator. The clone behaves like a
+Shaco
+clone, being able to
+Backstab
+, apply
+Two-Shiv Poison
+'s slow scaling with
+Abscond
+rank, and summoning
+mini-boxes
+that deal damage based on
+Hijack
+rank.
+Shyvana's
+Dragon's Descent
+- Has a 200 second base cooldown.
+Skarner's
+Impale
+- Can freely cast abilities during the suppression, but cannot basic attack or
+Flash
+.
+Sylas'
+Hijack
+- Steals the ability that the enemy
+Sylas
+has stolen. Cannot be targeted if no ability has been stolen.
+Syndra's
+Unleashed Power
+- Throws a minimum of 3
+spheres
+, which are left on the ground afterwards and vanish after 6 seconds.
+Talon's
+Shadow Assault
+- Does not apply
+Blade's End
+.
+Tahm Kench's
+Devour
+-
+Sylas'
+basic attacks apply
+An Acquired Taste
+, allowing him to cast
+Devour
+on enemies.
+Teemo's
+Noxious Trap
+- Gains max charges.
+Tristana's
+Buster Shot
+- Always has 525 cast range as
+Sylas
+does not benefit from
+Draw a Bead's
+per-level cast range increase.
+Twitch's
+Spray and Pray
+- Gains 300 attack range and his attacks produce missiles that travel 850 range. These attacks are classified as
+melee
+.
+Udyr
+- Steals
+Wingborne Storm
+, and can recast to
+Awaken
+it. Effects are based on
+Hijack's
+rank.
+Urgot's
+Fear Beyond Death
+- Can cast
+Kingslayer
+during the recast.
+Varus'
+Chain of Corruption
+- Applies stacks of
+Blight
+to targets hit that can be detonated by
+Sylas'
+other abilities, dealing damage based on
+Kingslayer
+rank.
+Vayne's
+Final Hour
+- Gains the
+AD
+and
+MS
+bonuses. Additionally,
+Sylas
+gains
+invisibility
+when he casts
+Chain Lash
+.
+Vel'Koz's
+Life Form Disintegration Ray
+- Does not apply
+Organic Deconstruction
+.
+Viego's
+Sovereign's Domination
+- Always steals
+Heartbreaker
+, regardless of the champion Viego is possessing.
+Viktor's
+Chaos Storm
+- Can steal the ability's
+evolution
+bonus effects.
+Xayah's
+Featherstorm
+-
+Feathers
+do not interact with an ally or enemy
+Xayah
+.
+Yasuo's
+Last Breath
+-
+Critical strikes
+ignore 50% of the target's
+bonus
+armor
+after activation.
+Yuumi's
+Final Chapter
+- Can freely cast abilities during the channel.
+Zac's
+Let's Bounce!
+- Cannot declare attacks nor use any abilities nor while bouncing.
+Sylas
+does not create
+chunks
+.
+Zeri's
+Lightning Crash
+- Can gain
+Overcharge's
+effects and refresh it on basic attacks (even without being charged) and abilities.
+Zed's
+Death Mark
+-
+Shadow
+does not mimic abilities but can be reactivated to
+swap
+places.
+Map-Specific Differences
+Arena
+differences
+edit
+Enemy ultimate cooldown is refreshed each round.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Sylas (Collection)
+.
+Original
+View in 3D
+975
+25.01.2019
+Raised in one of Demacia’s lesser quarters, Sylas of Dregbourne has come to symbolize the darker side of the Great City. As a boy, his ability to root out hidden sorcery caught the attention of the notorious mageseekers, who eventually imprisoned him for turning those same powers against them. Having now broken free, Sylas lives as a hardened revolutionary, using the magic of those around him to destroy the kingdom he once served… and his band of outcast mage followers seems to grow by the day.
+Fergus O'Donnell
+Victor '3rdColossus' Maury
+Loot eligible
+Lunar Wraith
+View in 3D
+1350
+25.01.2019
+The hateful lord of the lunar wraiths, Sylas has waited eons to invade the heavenly realm, and depose its godly stewards. What happens to the balance between heaven and earth is not his concern; he simply craves chaos, and the hour of his triumph is fast approaching.
+Fergus O'Donnell
+Zeen Chin
+Lunar Revel
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Lunar Wraith Sylas Chromas
+Amethyst
+Aquamarine
+Catseye
+Obsidian
+Pearl
+Ruby
+Freljord
+View in 3D
+1350
+10.01.2020
+Free from the kingdom that once imprisoned him, Sylas of Dregbourne marches from Demacia to the Freljord. With every step he takes, he remembers what others have branded him: Mage, Traitor, Kingslayer—names he revels in as he endures the bitter cold, his heart warmed by the fires of rebellion. It will be here, in the icy north, that he will seize the ancient power needed to fuel his revolution…
+Fergus O'Donnell
+Katya Cyan, West Studio
+Freljord
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Freljord Sylas Chromas
+Amethyst
+Pearl
+Ruby
+Turquoise
+PROJECT
+View in 3D
+1350
+27.05.2021
+A self-styled leader of the outcasts who live beyond the city's walls, Sylas has heeded Ashe's call and rallied the Renegades in defense of the City. Though his true motives are the collapse of PROJECT and the capital surveillance state, for now he's content destroying the armies of a dangerous rogue AI.
+Fergus O'Donnell
+David Villegas, West Studio
+PROJECT
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+PROJECT: Sylas Chromas
+Amethyst
+Catseye
+Citrine
+Pearl
+Peridot
+Reckoning
+Ruby
+Sapphire
+Turquoise
+Prestige PROJECT
+View in 3D
+Special
+27.05.2021
+With the Outcasts, G/Netic, and PROJECT itself faced with an insurmountable enemy, each faction turns to dangerous experimental technologies and long-lost robotics of a past age, hoping for an edge. Sylas, however, had a plan all along—integrating jailbroken corporate upgrades for the ultra-wealthy, so he can one day turn them on PROJECT.
+Fergus O'Donnell
+David Villegas, West Studio
+PROJECT
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+PROJECT
+. Store variants are discounted for multiple purchases.
+Battle Wolf
+View in 3D
+1350
+31.03.2022
+Sylas is the leader of Wolf Team: a daring, ruthless strike force under the banner of Anima Squad. Though he rejects anyone claiming authority over him (Commander Fortune included), Sylas knows that if humanity falls, there will be nothing left to fight for.
+Fergus O'Donnell
+Jennifer Wuestling
+Anima Squad
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Battle Wolf Sylas Chromas
+Citrine
+Emerald
+Nightwire
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+Ashen Slayer
+View in 3D
+Special
+22.09.2022
+Sylas deeply loved magic, but long years of imprisonment made him hateful. As a knight, he deigned to take as much power for himself as he could, and perhaps become a new wellspring of enchantment… yet, it was all for naught. Now only the dying shadow of magic remains, with he its final, bitter champion.
+Fergus O'Donnell
+Félix Donadio, West Studio
+Ashen Knights
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Ashen Slayer Sylas Chromas
+Emberwoken
+Winterblessed
+View in 3D
+1350
+06.12.2023
+The disgraced inventor, Sylas, had long harbored a grudge against Polaris and had prepared a special device for this occasion: gauntlets capable of absorbing the Aurora. He'd tested it on Hwei earlier, but now turned his focus to Polaris. Powerless to resist, Senna's power was taken away, to be spread among Sylas, Camille, and Thresh.
+Fergus O'Donnell
+Jennifer Wuestling
+Winterblessed
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Winterblessed Sylas Chromas
+Citrine
+Obsidian
+Pearl
+Peridot
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Wreathguard
+Dark Star
+View in 3D
+1820
+23.10.2024
+Sylas is a corruptant of the Dark Star, born from a civilization of shackles that was silenced in a collective cry for justice that never came. He lays low the forces of creation and destruction in an endless quest to destroy any and all structures of power. Heedless of morality, he seeks only to equalize the universe.
+Fergus O'Donnell
+Pandart Studio
+Dark Star
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Transforming
+Chromas
+Dark Star Sylas Chromas
+Emerald
+Pearl
+Quasar
+Rose Quartz
+Ruby
+Sapphire
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.22
+Stats
+Health growth reduced to 122 from 129.
+V14.17
+Kingslayer
+Damage AP ratio reduced to
+60% AP
+from
+70% AP
+.
+V14.16
+Stats
+Base health increased to 600 from 575.
+Petricite Burst
+Primary target AP ratio increased to
+30% AP
+from
+25% AP
+.
+Kingslayer
+Base damage increased to 75 / 110 / 145 / 180 / 215 from 65 / 100 / 135 / 170 / 205.
+Hijack
+Bug Fix:
+Now properly keeps the passive effects of
+Jax's
+Grandmaster-At-Arms
+and
+Master Yi's
+Highlander
+for the duration of the active spells.
+V14.15
+Stats
+Base armor increased to 29 from 27.
+Chain Lash
+Explosion base damage reduced to 60 / 115 / 170 / 225 / 280 from 70 / 125 / 180 / 235 / 290.
+Explosion AP ratio reduced to
+80% AP
+from
+90% AP
+.
+Cooldown reduced to 10 / 9 / 8 / 7 / 6 seconds from 11 / 10 / 9 / 8 / 7.
+Kingslayer
+Damage AP ratio reduced to
+70% AP
+from
+80% AP
+.
+Heal AP ratio reduced to
+20% AP
+from
+35% AP
+.
+New Effect:
+Heal now scales with
+5% of his
+bonus
+health
+.
+Abduct
+AP ratio reduced to
+80% AP
+from
+100% AP
+.
+V14.10
+Hijack
+Bug Fix:
+No longer keeps stolen abilities if their hold timer ends during the windup or cast of
+Empowered Recall
+.
+V14.9
+Hijack
+Bug Fix:
+Now properly gains a charge of
+Essence Rush
+on takedown when using
+Ahri's
+Spirit Rush
+.
+Bug Fix:
+Hijacking
+Taliyah's
+Weaver's Wall
+from a user while either recast is available for them no longer grants Sylas the recasts themselves, which would be useless without the first cast, instead of granting the entire ability.
+V14.8
+Chain Lash
+Monster detonation damage increased to 100% from 70%.
+Minion damage unchanged.
+V14.7
+Chain Lash
+Monster detonation damage increased to 70% from 40%.
+Monster base detonation damage increased to 49 / 87.
+5
+/ 126 / 164.
+5
+/ 203 from 28 / 50 / 72 / 94 / 116.
+Monster detonation AP ratio increased to
+63% AP
+from
+36% AP
+.
+Minion damage unchanged.
+V14.5
+Petricite Burst
+Bug Fix:
+Critical strikes with the empowered attacks now properly benefit from critical strike damage modifiers.
+Bug Fix:
+Damage now properly benefits from life steal.
+Kingslayer
+Bug Fix:
+Now properly draws the aggro of enemy minions towards the caster if it is used against an enemy champion.
+Hijack
+Bug Fix:
+No longer incorrectly converts AD ratios to AP even if his adaptive damage type was AD.
+V14.1
+Petricite Burst
+Bug Fix:
+Empowered attack's damage now counts as 'single target' against the primary target for the purposes of other systems, such as
+Press the Attack
+.
+V13.24
+- December 12th Hotfix
+Kingslayer
+Base damage reduced to 65 / 100 / 135 / 170 / 205 from 70 / 105 / 140 / 175 / 210.
+Damage AP ratio reduced to
+80% AP
+from
+90% AP
+.
+Minimum heal AP ratio reduced to
+35% AP
+from
+40% AP
+.
+V13.24
+Ashen Slayer Sylas
+,
+Battle Wolf Sylas
+,
+Prestige PROJECT: Sylas
+,
+PROJECT: Sylas
+Hijack
+Bug Fix:
+Clone model from
+Hallucinate
+no longer has corrupted textures if the enemy
+Shaco
+was using the following skins:
+Prestige Soul Fighter Shaco
+,
+Soul Fighter Shaco
+,
+Winterblessed Shaco
+,
+Crime City Nightmare Shaco
+and
+Arcanist Shaco
+.
+V13.22
+Hijack
+Bug Fix:
+Champion portrait UI for hijacked ultimates now displays the correct character icon to indicated the copied ultimate even if the target was a different champion at the time.
+V13.16
+Stats
+Base mana increased to 400 from 310.
+V13.14
+Abduct
+Bug Fix:
+Hitting the ability no longer sometimes has the dash destination offset a long distance from the target's location when the immediate area near the target was not pathable (blocked by units or terrain).
+V13.11
+Hijack
+Bug Fix:
+No longer sometimes becomes disabled if the caster dies during the cast time of a hijacked
+Weaver's Wall
+.
+Bug Fix:
+No longer causes a giant wall to appear when using the
+PROJECT: Sylas
+skin with specific ultimates.
+V13.10
+Hijack
+Bug Fix:
+Can now properly cast
+Samira's
+Inferno Trigger
+without any stacks of her
+Daredevil Impulse
+.
+V13.4
+General
+Bug Fix:
+Particle types are now properly aligned with
+Battle Wolf Sylas'
+body parts.
+V12.23
+Hijack
+Bug Fix:
+On-target cooldown for
+Tahm Kench's
+Devour
+now properly calculates from its cooldown instead of 0 (the wrapper spell's cooldown), which caused it to use Hijack's minimum target cooldown instead.
+V12.22
+Hijack
+Bug Fix:
+Now always steals the active effect of
+K'Sante's
+All Out
+and not the recast if the target had
+All Out
+active.
+V12.17
+Stats
+Base health reduced to 575 from 595.
+Chain Lash
+Cooldown increased to 11 / 10 / 9 / 8 / 7 seconds from 10 / 9 / 8 / 7 / 6.
+V12.16
+Hijack
+Bug Fix:
+VFX bug when stealing an enemy
+Ekko's
+Chronobreak
+with the
+Star Guardian Ekko
+or
+Prestige Star Guardian Ekko
+skin has been fixed.
+V12.14
+General
+Bug Fix:
+Knocked up/stunned animation is now correctly played.
+V12.12
+Hijack
+Bug Fix:
+Casting a stolen
+Final Spark
+no longer consumes 100 mana or fails if used while he has less than 100 current mana.
+V12.11
+Kingslayer
+Mana cost reduced to 50 / 60 / 70 / 80 / 90 from 60 / 70 / 80 / 90 / 100.
+Minimum heal AP ratio increased to
+40% AP
+from
+35% AP
+.
+Cooldown reduced to 12 / 10.
+5
+/ 9 / 7.
+5
+/ 6 seconds from 13 / 11.
+5
+/ 10 / 8.
+5
+/ 7.
+Abscond
+Cooldown reduced to 13 / 12 / 11 / 10 / 9 seconds from 14 / 13 / 12 / 11 / 10.
+Hijack
+Bug Fix:
+A hijacked
+Grand Challenge
+now properly has its heal scale with AP.
+V12.10
+Stats
+Base health increased to 595 from 525.
+Health growth increased to 129 from 115.
+Armor growth increased to 5.
+2
+from 4.
+Magic resistance growth increased to 2.
+55
+from 1.
+75
+.
+Kingslayer
+Minimum base heal reduced to 20 / 40 / 60 / 80 / 100 from 25 / 50 / 75 / 100 / 125.
+Minimum heal AP ratio reduced to
+35% AP
+from
+40% AP
+.
+V12.8
+Hijack
+Cooldown reduced to 80 / 55 / 30 seconds from 100 / 70 / 40.
+V12.7
+Hijack
+Bug Fix:
+Now properly reverts back to
+Hijack
+even after the caster dies with
+Vex's
+Shadow Surge's
+recast being active.
+V12.1
+Hijack
+Bug Fix:
+Fixed interactions with stolen
+Lux's
+Final Spark
+and stolen
+Miss Fortune's
+Bullet Time
+.
+V11.20
+Hijack
+Bug Fix:
+Fixed a bug where he would not get another cast of
+Vex's
+stolen
+Shadow Surge
+if the marked target died within the ability's reset window.
+V11.19
+Stats
+Base mana increased to 310 from 280.
+Base mana regeneration increased to 8 from 7.
+V11.17
+Hijack
+Bug Fix:
+Fixed a bug where the cooldown would sometimes not revert correctly if he died while casting a hijacked ultimate.
+Bug Fix:
+Fixed several visual bugs that occured when he hijacked
+Gun Goddess Miss Fortune's
+Bullet Time
+.
+V11.15
+Chain Lash
+Detonation base damage increased to 70 / 125 / 180 / 235 / 290 from 60 / 115 / 170 / 225 / 280.
+Detonation AP ratio increased to
+90% AP
+from
+80% AP
+.
+Kingslayer
+Base heal reduced to 25 / 50 / 75 / 100 / 125 from 30 / 60 / 90 / 120 / 150.
+Maximum base heal reduced to 50 / 100 / 150 / 200 / 250 from 60 / 120 / 180 / 240 / 300.
+Heal AP ratio reduced to
+40% AP
+from
+45% AP
+.
+Maximum heal AP ratio reduced to
+80% AP
+from
+90% AP
+.
+V11.14
+Hijack
+Bug Fix:
+Hijacking
+Devour
+now properly allows Sylas to apply stacks of
+An Acquired Taste
+on his basic attacks against enemy champions.
+V11.13
+- June 22nd Hotfix
+Hijack
+Bug Fix:
+No longer keeps
+Rek'Sai's
+Void Rush
+for one additional cast.
+Bug Fix:
+Hijacking
+Jayce's
+ultimate while he is in Cannon Form once again gives
+Sylas
+Transform Mercury Cannon
+, instead of
+Transform Mercury Hammer
+, which would not give
+Sylas
+access to Jayce's melee abilities when cast, either.
+V11.12
+General
+Adjusted splash artwork for
+Prestige PROJECT: Sylas
+.
+PROJECT: Sylas
+Chromas now use its respective chain colors for
+Chain Lash
+and
+Abduct
+.
+V11.10
+Petricite Burst
+Bug Fix:
+Muramana's
+Shock now triggers on secondary targets properly.
+V11.7
+Petricite Burst
+Bug Fix:
+Can no longer gain charges when using certain item actives, such as
+Everfrost's
+Glaciate or
+Galeforce's
+Cloudburst.
+Hijack
+Bug Fix:
+Fixed a bug where stealing an ultimate would remove
+Petricite Burst
+stacks.
+V11.6
+Petricite Burst
+Bonus attack speed increased to 125% from 80%.
+Kingslayer
+Cooldown reduced to 13 / 11.
+25
+/ 9.
+5
+/ 7.
+75
+/ 6 seconds from 13 / 11.
+5
+/ 10 / 8.
+5
+/ 7.
+Mana cost reduced to 60 / 70 / 80 / 90 / 100 from 70 / 80 / 90 / 100 / 110.
+Heal AP ratio reduced to
+45% AP
+from
+50% AP
+.
+V11.3
+Chain Lash
+Mana cost changed to 55 at all ranks from 50 / 55 / 60 / 65 / 70.
+Kingslayer
+Base damage increased to 70 / 105 / 140 / 175 / 210 from 60 / 95 / 130 / 165 / 200.
+Damage AP ratio increased to
+90% AP
+from
+85% AP
+.
+V11.1
+- January 6th Hotfix
+Hijack
+Bug Fix:
+When he hijacks
+Ekko's
+Chronobreak
+, he is no longer able to use it twice immediately.
+V10.25
+Petricite Burst
+Bug Fix:
+Now properly gets kill credit for empowered attacks landed.
+V10.23
+Stats
+Mana growth increased to 70 from 50.
+Hijack
+Undocumented:
+Sylas now loses all
+Petricite Burst
+stacks upon receiving a new spell via
+Hijack
+V10.20
+Hijack
+Bug Fix:
+No longer loses all of his mana after stealing
+Shyvana's
+Dragon's Descent
+.
+V10.19
+Hijack
+Cooldown reduced to 100 / 70 / 40 seconds from 100 / 80 / 60.
+V10.14
+Hijack
+Bug Fix:
+No longer keeps
+Elise's
+Rappel
+until he steals her ultimate again if he dies while casting it.
+V10.13
+Hijack
+Bug Fix:
+Now permanently gains health and increases in model size from successful kills with a stolen
+Feast
+from an enemy
+Cho'Gath
+.
+V10.11
+Hijack
+Bug Fix:
+Now properly gains bonus attack speed from
+Petricite Burst
+when holding
+Jax's
+Grandmaster's Might
+.
+Bug Fix:
+Fixed a bug where he would not deal damage to all enemies with a stolen
+Karthus'
+Requiem
+.
+V10.9
+Hijack
+Bug Fix:
+Timer for specific champions will no longer show in spectator mode.
+V10.7
+- April 1st Hotfix
+Hijack
+Bug Fix:
+Sylas
+and allies will now properly gain
+Shield of Durand's
+magic damage shield if
+Sylas
+casts
+Hero's Entrance
+.
+V10.4
+Chain Lash
+Lash base damage increased to 40 / 60 / 80 / 100 / 120 from 40 / 55 / 70 / 85 / 100.
+V10.2
+- January 27th Hotfix
+Kingslayer
+Bug Fix:
+No longer gets another instance of
+Kingslayer
+upon hitting a target with
+Abduct
+within 0.
+5
+- 2 seconds of the
+Kingslayer
+cast.
+V10.2
+Chain Lash
+Bug Fix:
+Is now properly disabled during
+Abduct
+after casting a stolen ultimate.
+Abduct
+Undocumented:
+Now applies an instance of
+Kingslayer
+to
+Abduct's
+target if
+Abduct
+is casted shortly after
+Kingslayer
+.
+V10.1
+- January 8th Hotfix
+Petricite Burst
+Primary target AD ratio increased to
+130% AD
+from
+110% AD
+.
+Bonus attack speed increased to 80% from 60%.
+Chain Lash
+Detonation base damage increased to 60 / 115 / 170 / 225 / 280 from 60 / 105 / 150 / 195 / 240.
+Kingslayer
+Cooldown reduced to 13 / 11.
+5
+/ 10 / 8.
+5
+/ 7 seconds from 14 / 12.
+5
+/ 11 / 9.
+5
+/ 8.
+V10.1
+Stats
+Base health reduced to 525 from 585.
+Health growth increased to 115 from 95.
+Base armor reduced to 27 from 32.
+Armor growth increased to 4 from 3.
+Base magic resistance reduced to 32 from 39.
+Magic resistance growth increased to 1.
+75
+from 1.
+25
+.
+Petricite Burst
+Primary target AP ratio increased to
+25% AP
+from
+20% AP
+.
+Effect radius reduced to 300 units from 400.
+New Effect:
+Now grants
+60%
+bonus
+attack speed
+while he has a charge.
+Maximum charges increased to 3 from 2.
+New Effect:
+Damage to secondary targets now executes minions below 25 health.
+Chain Lash
+Cooldown increased to 10 / 9 / 8 / 7 / 6 seconds from 9 / 8 / 7 / 6 / 5.
+Lash base damage reduced to 40 / 55 / 70 / 85 / 100 from 45 / 70 / 95 / 120 / 145.
+Lash AP ratio reduced to
+40% AP
+from
+60% AP
+.
+Undocumented:
+Lash slow duration reduced to 1.
+5
+seconds from 2.
+Detonation base damage increased to 60 / 105 / 150 / 195 / 240 from 45 / 70 / 95 / 120 / 145.
+Detonation AP ratio increased to
+80% AP
+from
+60% AP
+.
+Detonation damage reduction against minions and monsters increased to 60% from 45%.
+Removed:
+The detonation no longer
+slows
+for 22.
+5
+/ 30 / 37.
+5
+/ 45 / 52.
+5
+% for 2 seconds.
+Kingslayer
+Removed:
+No longer resets
+Sylas'
+basic attack timer.
+Damage AP ratio increased to
+85% AP
+from
+65% AP
+.
+Undocumented:
+Base heal reduced to 30 / 60 / 90 / 120 / 150 from 70 / 90 / 110 / 130 / 150.
+Cooldown reduced to 14 / 12.
+5
+/ 11 / 9.
+5
+/ 8 seconds from 14 / 13.
+5
+/ 13 / 12.
+5
+/ 12.
+Removed:
+Damage is no longer increased by 50% against targets below
+40% of their
+maximum
+health
+.
+Removed:
+Healing is no longer increased by 75% if
+Sylas
+is below
+40% of his
+maximum
+health
+.
+New Effect:
+Healing is now increased by
+0% − 100% (based on
+Sylas'
+missing
+health)
+.
+Mana cost increased to 70 / 80 / 90 / 100 / 110 from 40 / 45 / 50 / 55 / 60.
+Abscond
+Removed:
+No longer resets
+Sylas'
+basic attack timer.
+Cooldown reduced to 14 / 13 / 12 / 11 / 10 seconds from 14 at all ranks.
+Removed:
+No longer shields for 80 / 115 / 150 / 185 / 220
+(+ 100% AP)
+against magic damage for 2 seconds upon dashing.
+Abduct
+Base damage increased to 80 / 130 / 180 / 230 / 280 from 70 / 85 / 100 / 115 / 130.
+AP ratio increased to
+100% AP
+from
+20% AP
+.
+Removed:
+Can no longer cast
+Chain Lash
+while dashing.
+Lock out after dashing reduced to 0.
+05
+seconds from 0.
+2
+.
+Undocumented:
+Sylas
+can now basic attack before the chains reach his target.
+Hijack
+Removed:
+No longer resets
+Sylas'
+basic attack timer.
+V9.24b
+- December 20th Hotfix
+Kingslayer
+Undocumented:
+Is no longer cancelled by
+Abduct's
+dash.
+Hijack
+Transformed
+Petricite Burst
+stacks no longer trigger on-hit effects an additional time.
+V9.22
+Stats
+Base health regeneration increased to 9 from 7.
+Health regeneration growth reduced to 0.
+9
+from 1.
+Base magic resistance increased to 39 from 36.
+1
+.
+Kingslayer
+Mana cost reduced to 40 / 45 / 50 / 55 / 60 from 50 / 55 / 60 / 65 / 70.
+V9.21
+Hijack
+Bug Fix:
+When
+Hijacking
+Nidalee's
+Aspect of the Cougar
+and using her
+Takedown
+, he'll now properly do damage with it.
+Undocumented:
+Petricite Burst
+no longer triggers when attacking with
+Takedown
+.
+Undocumented:
+Transformed
+Petricite Burst
+stacks (i.e stacked while in
+cougar form
+) no longer deal double damage.
+Undocumented:
+Transformed
+Petricite Burst
+stacks now trigger on-hit effects an additional time instead of an additional 3 times.
+Undocumented:
+No longer consumes all transformed stacks with one basic attack.
+Undocumented:
+Now prioritizes consuming
+Sylas
+stacks and then transformed stacks.
+Undocumented:
+Petricite Burst
+now deals damage if a single transformed stack is consumed.
+V9.19
+- September 26th Hotfix
+Stats
+Base armor increased to 32 from 28.
+Armor growth increased to 3 from 2.
+5
+.
+V9.19
+Stats
+Base armor reduced to 28 from 32.
+Armor growth reduced to 2.
+5
+from 3.
+Petricite Burst
+Removed:
+No longer has a base damage of
+9 − 60 (based on level)
+.
+Removed:
+No longer deals 50% reduced damage against minions who aren't his primary target.
+AD ratio increased to
+110% AD
+from
+100% AD
+.
+Non-primary target AD ratio reduced to
+40% AD
+from
+100% AD
+.
+Chain Lash
+Bug Fix:
+Tooltip now displays the correct time of delay before detonation.
+V9.17
+Hijack
+Bug Fix:
+If he dies immediately after casting
+Pantheon's
+Grand Starfall
+via
+Hijack
+, he will no longer be locked out of using items and basic abilities.
+V9.16
+Chain Lash
+New Effect:
+The detonation now deals 45% reduced damage to monsters.
+Hijack
+Bug Fix:
+Now properly heals himself when casting a
+Hijacked
+Renewal
+from
+Karma
+.
+V9.14
+Stats
+Base health regeneration reduced to 7 from 7.
+5
+.
+Petricite Burst
+Damage to minions who aren't his primary target increased to 50% from 30%.
+Chain Lash
+Detonation base damage increased to 45 / 70 / 95 / 120 / 145 from 40 / 60 / 80 / 100 / 120.
+Detonation AP ratio increased to
+60% AP
+from
+40% AP
+.
+Abscond
+New Effect:
+Now shields against magic damage for 80 / 115 / 150 / 185 / 220
+(+ 100% AP)
+for 2 seconds upon dashing.
+Cooldown reduced to 14 seconds at all ranks from 18 / 17 / 16 / 15 / 14.
+Mana cost changed to 65 at all ranks from 55 / 60 / 65 / 70 / 75.
+Abduct
+Removed:
+No longer shields for 80 / 115 / 150 / 185 / 220
+(+ 100% AP)
+for 2 seconds if he hits an enemy champion or monster.
+Knockup duration reduced to 0.
+35
+seconds from 0.
+5
+.
+Hijack
+Cast range reduced to 950 units from 1050.
+Stolen ultimate duration reduced to 90 seconds from 120.
+Cooldown increased to 100 / 80 / 60 seconds from 85 / 50 / 15.
+Minimum enemy ultimate cooldown increased to 40 seconds from 20.
+Bonus AD ratio conversion reduced to
+0.
+4
+% AP
+per
+1%
+bonus
+AD
+from
+0.
+5
+% AP
+per
+1%
+bonus
+AD
+.
+Total AD ratio conversion reduced to
+0.
+6
+% AP
+per
+1%
+total
+AD
+from
+0.
+7
+% AP
+per
+1%
+total
+AD
+.
+V9.13
+Stats
+Base attack damage increased to 61 from 58.
+Health growth increased to 95 from 85.
+Kingslayer
+Base damage increased to 65 / 100 / 135 / 170 / 205 from 60 / 90 / 120 / 150 / 180.
+Abscond
+Bug Fix:
+Tooltip now properly mentions all mana scaling per rank information.
+V9.12
+Petricite Burst
+New Effect:
+Now can store up to 2 charges.
+Base damage increased to
+9 − 60 (based on level)
+from
+5 − 47.
+5
+(based on level)
+.
+New Effect:
+Now deals 30% damage to minions who aren't his primary targets.
+Chain Lash
+Detonation base damage reduced to 40 / 60 / 80 / 100 / 120 from 45 / 70 / 95 / 120 / 145.
+Detonation AP ratio reduced to
+40% AP
+from
+60% AP
+.
+Detonation radius against minions reduced to 180 units from 200.
+Kingslayer
+Base heal strength increased to 70 / 90 / 110 / 130 / 150 from 60 / 80 / 100 / 120 / 140.
+Heal AP ratio increased to
+50% AP
+from
+40% AP
+.
+Abscond
+Removed:
+No longer shields for 60 / 90 / 120 / 150 / 180
+(+ 90% AP)
+for 2 seconds upon dashing.
+Cooldown increased to 18 / 17 / 16 / 15 / 14 seconds from 18 / 16 / 14 / 12 / 10.
+Abduct
+New Effect:
+Now shields for 80 / 115 / 150 / 185 / 220
+(+ 100% AP)
+for 2 seconds if he hits an enemy champion or monster.
+V9.9
+Kingslayer
+Base damage increased to 60 / 90 / 120 / 150 / 180 from 50 / 75 / 100 / 125 / 150.
+V9.7
+Stats
+Base health regeneration reduced to 7.
+5
+from 9.
+5
+.
+Kingslayer
+Base damage reduced to 50 / 75 / 100 / 125 / 150 from 60 / 90 / 120 / 150 / 180.
+Abscond
+Cooldown increased 18 / 16 / 14 / 12 / 10 seconds from 12 / 11.
+5
+/ 11 / 10.
+5
+/ 10.
+V9.6
+- March 20th Hotfix
+Hijack
+Bug Fix:
+No longer gains unlimited shrooms and missiles after using
+Hijack
+on
+Noxious Trap
+and
+Missile Barrage
+, respectively.
+Bug Fix:
+After stealing
+Noxious Trap
+,
+Hijack
+no longer goes on a 30 minute cooldown after casting his
+Abscond / Abduct
+and using up remaining shrooms.
+V9.6
+Kingslayer
+Heal AP ratio reduced to
+40% AP
+from
+45% AP
+.
+Bonus healing at low-health reduced to 75% from 100%.
+V9.5
+Kingslayer
+Base heal changed to 60 / 80 / 100 / 120 / 140 from 50 / 80 / 110 / 140 / 170.
+Heal AP ratio increased to
+45% AP
+from
+35% AP
+.
+Damage AP ratio increased to
+65% AP
+from
+55% AP
+.
+Bug Fix:
+No longer heals twice if the target died because of
+Kingslayer
+.
+V9.4
+Chain Lash
+Detonation radius against champions increased to 180 units from 150.
+New Effect:
+Now includes an indicator to show the detonation location and radius.
+Kingslayer
+Base heal reduced to 50 / 80 / 110 / 140 / 170 from 50 / 85 / 120 / 155 / 190.
+New Effect:
+Icon border now glows when he is within the maximum healing threshold.
+New Effect:
+Kingslayer's
+damage displays as a
+cosmetic critical strike
+if his target was within the bonus damage threshold.
+Undocumented:
+Now makes allied
+Tentacles
+slam (those spawned by a hijacked
+Leap of Faith
+and those spawned by an allied
+Illaoi
+).
+Hijack
+Removed:
+No longer draws turret aggro when stealing an enemy's ultimate.
+Bug Fix:
+No longer fizzles if he loses sight of his target before the cast finishes.
+V9.2
+- January 31st Hotfix
+Hijack
+Bug Fix:
+If he casts a stolen
+Kayn's
+Umbral Trespass
+on a spellshielded target, his ult now properly reverts to
+Hijack
+instead of staying as
+Umbral Trespass
+.
+Bug Fix:
+If he
+Hijacks
+Sion's
+Unstoppable Onslaught
+while
+Sion
+is in his
+passive
+form, the stolen ult now properly scales with
+Sylas'
+R rank instead of Q rank (which allowed it to deal huge "rank 5" damage).
+V9.2
+- January 28th Hotfix
+Stats
+Base attack damage increased to 58 from 55.
+04
+.
+Magic resist growth increased to 1.
+25
+from 0.
+5
+.
+Abduct
+Base damage increased to 70 / 85 / 100 / 115 / 130 from 50 / 65 / 80 / 95 / 110.
+V9.2
+- Added
+Petricite Burst
+(Innate)
+Innate:
+After casting a spell,
+Sylas'
+next basic attack is modified to whirl his chains around him, dealing
+5 − 48 (based on level)
+(+ 100% AD)
+(+ 20% AP)
+magic damage to the target and nearby enemies.
+Chain Lash
+(Q)
+Active:
+Sylas
+lashes out with his chains that converge to the target location and extend beyond it up to a maximum range, dealing 45 / 70 / 95 / 120 / 145
+(+ 60% AP)
+magic damage and
+slowing
+enemies hit by 15 / 20 / 25 / 30 / 35% for 2 seconds.
+After a 0.
+5
+-seconds delay, the chains' intersection detonates with the same magic damage and
+slows
+enemies hit by 50% for 2 seconds. Against
+minions
+the detonation deals 45% reduced damage.
+Mana Cost:
+50 / 55 / 60 / 65 / 70.
+Cooldown:
+9 / 8 / 7 / 6 / 5 seconds.
+Kingslayer
+(W)
+Active:
+Sylas
+lunges at a target enemy with a powerful strike, dealing 60 / 90 / 120 / 150 / 180
+(+ 55% AP)
+magic damage, increased by 50% against targets
+below
+40% health
+.
+Against enemy champions,
+Sylas
+heals for 50 / 85 / 120 / 155 / 190
+(+ 35% AP)
+health, doubled if he's
+below
+40% health
+.
+Mana Cost:
+50 / 55 / 60 / 65 / 70.
+Cooldown:
+14 / 13.
+5
+/ 13 / 12.
+5
+/ 12 seconds.
+Abscond / Abduct
+(E)
+First Cast - Abscond:
+Sylas
+dashes forward to the target location and shields himself for 60 / 90 / 120 / 150 / 180
+(+ 90% AP)
+health for 2 seconds.
+For the next X seconds,
+Sylas
+may cast
+Abduct
+.
+Second Cast - Abduct:
+Sylas
+whips out his chains in the target direction, dealing 50 / 65 / 80 / 95 / 110
+(+ 20% AP)
+magic damage and
+stunning
+the first enemy hit, pulling himself towards them, and
+knocking
+them up for 0.
+5
+seconds upon arrival.
+Mana Cost:
+55 / 60 / 65 / 70 / 75.
+Cooldown:
+12 / 11.
+5
+/ 11 / 10.
+5
+/ 10 seconds.
+Hijack
+(R)
+Passive:
+While
+Hijack
+is available,
+Sylas
+can select a target enemy champion to gain a copy of their ultimate ability at the cost of mana.
+Sylas
+cannot select the same champion again for a set duration.
+Active:
+Sylas
+casts his hijacked ultimate ability without cost, scaling based on
+Hijack's
+rank and his own statistics.
+All
+Hijacked
+ultimates and abilities that do not scale with
+ability power
+have their
+attack damage
+ratios converted to
+ability power
+ratios, scaling with
+0.
+7
+% AP
+per
+1%
+total
+AD
+, and
+0.
+5
+% AP
+per
+1%
+bonus
+AD
+.
+Mana Cost:
+75.
+Cooldown:
+85 / 50 / 15 seconds.
+On-Target Cooldown:
+200% of target's ultimate cooldown, with a minimum of 20 seconds.
+Trivia
+[
+edit
+|
+edit source
+]
+Sylas
+is one of 15 champions that have an ability that infinitely stacks an effect:
+Aurelion Sol
+,
+Bard
+,
+Bel'Veth
+,
+Cho'Gath
+,
+Draven
+,
+Kindred
+,
+Nasus
+,
+Senna
+,
+Shyvana
+,
+Sion
+,
+Smolder
+,
+Swain
+,
+Thresh
+, and
+Veigar
+.
+In Sylas's case,
+Hijack
+infinitely stacks his
+health
+if he steals
+Cho'Gath's
+Feast
+.
+Sylas is the first champion to have an animation when he cancels his
+Recall
+.
+[2]
+Sylas was the first champion released in 2019.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Burst
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Burst Mages
+aim to single out vulnerable targets by locking them down and following up with a devastating barrage of damage from range. They are strongest when using their full suite of spells executed perfectly to maximum effect, and most vulnerable when they cannot deliver.
+Examples
+Annie
+Syndra
+Veigar
+League of Legends content
+Skirmisher
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Skirmishers
+(also known as Duelists) aim to shred through any nearby enemy that approaches. Because Skirmishers lack high-end burst damage or reliable ways of closing in on high-priority targets, they are instead armed with situationally powerful defensive tools to survive in the fray, along with extreme sustained damage to cut down even the most durable targets.
+Examples
+Fiora
+Jax
+Yasuo
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Spellblade
+Spellblade
+is an unique named item effect that grants additional effects on the next
+on-hit
+trigger after casting a champion ability.
+The following items have
+Spellblade
+:
+Sheen
+Bloodsong
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Abscond
+COOLDOWN:
+13 / 12 / 11 / 10 / 9
+Active:
+Sylas
+dashes
+to the target location. He can then cast
+Abduct
+within a short time.
+Abduct
+Active:
+Sylas
+whips his chains in the target direction that deal
+magic damage
+and briefly
+stun
+the first enemy hit,
+revealing
+them. He will then
+dash
+to the target and briefly
+knock them up
+upon arrival.
+League of Legends content
+Kingslayer
+COOLDOWN:
+12 / 10.
+5
+/ 9 / 7.
+5
+/ 6
+Active:
+Sylas
+dashes
+to the target enemy and strikes them to deal
+magic damage
+.
+If this hits a
+champion
+,
+Sylas
+is also
+healed
+, increased based on
+his
+missing
+health
+.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Standard sight
+Standard sight
+reveals units through
+fog of war
+and
+brush
+, but
+not
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Lockout
+A champion that is
+locked out
+is unable to perform certain actions such as casting abilities, moving, or attacking. The prevented actions can vary per instance.
+Lockout does not interact with
+crowd control
+mechanics unless otherwise stated.
+References
+[
+edit
+|
+edit source
+]
+↑
+Sylas's profile page
+at
+LeagueOfLegends.com
+↑
+Sylas Recall Cancel

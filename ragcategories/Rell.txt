@@ -1,0 +1,2613 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Rell
+the Iron Maiden
+Release date
+2020-12-10
+Last changed
+V14.23
+Class(es)
+Vanguard
+Legacy
+Tank
+Support
+Position(s)
+Support
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Magic
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+1
+Toughness
+3
+Control
+3
+Mobility
+2
+Utility
+2
+Style
+Difficulty
+Rell
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Rell
+Base statistics
+Edit
+Health
+610
++104
+Mana
+320
++40
+Health regen. (per 5s)
+7.5
++0.85
+Mana regen. (per 5s)
+7
++0.7
+Armor
+30
++4.3
+Attack damage
+55
++3
+Magic resist.
+28
++1.8
+Crit. damage
+175%
+Move. speed
+315
+Attack range
+175
+Attack speed
+Base AS
+0.625
+Attack windup
+21% (mod. 1)
+AS ratio
+N/A
+Bonus AS
++2
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+400
+Special statistics
+Damage Dealt
+-5%
+Damage Received
++0%
+Healing
+-10%
+Shielding
+-10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-10%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Break the Mold
+Innate:
+Rell's
+basic attacks reduce the target's
+armor
+and
+magic resist
+for a few seconds. Basic attacks against enemy
+champions
+will refresh the duration for all nearby afflicted enemies.
+Rell
+gains
+bonus
+armor
+and
+bonus
+magic resist
+equal to the sum reduced from all afflicted enemies,
+Break the Mold's
+damage is increased by the sum resistances reduced from the target.
+Innate:
+Rell's
+basic attacks
+deal
+bonus
+magic damage
+on-hit
+equal to the sum of
+5% of her
+total
+armor
+and
+5% of her
+total
+magic resistance
+.
+Innate:
+Rell's
+basic attacks and
+abilities
+against non-
+minions
+reduce the target's
+armor
+and
+magic resistance
+by 2% for 5 seconds, refreshing on subsequent hits and stacking up to 5 times for a maximum of 10% reduction.
+Rell
+gains
+bonus
+armor
+and
+bonus
+magic resistance
+equal to the sum resistances reduced from all afflicted enemies.
+Break the Mold
+will reduce the target's
+armor
+and
+magic resistance
+by a minimum of
+1 − 2 (based on level)
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+Magic
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+The attacks do not affect
+structures
+.
+Edit
+Shattering Strike
+COST:
+50 mana
+COOLDOWN:
+11 / 10.
+5
+/ 10 / 9.
+5
+/ 9
+CAST TIME:
+0.
+4
+RANGE:
+520
+/
+-220
+WIDTH:
+150
+Active:
+Rell
+thrusts her lance in the target direction that destroys damage
+shields
+of enemies hit before dealing
+magic damage
+and
+stunning
+.
+Active:
+Rell
+thrusts her lance in the target direction,
+lunging
+forward 100 units and destroying the damage-mitigating
+shields
+of all enemies hit (excluding the shields of
+monsters
+) before dealing them
+magic damage
+and
+stunning
+them for 0.
+65
+seconds.
+Magic Damage:
+60 / 100 / 140 / 180 / 220
+(+ 60% AP)
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+This ability will cast from wherever the caster is at the end of the cast time.
+Rell
+is
+locked out
+of moving, attacking, and casting any other ability for 0.
+35
+seconds after
+Shattering Strike
+is cast.
+Edit
+Ferromancy: Crash Down
+COST:
+40 Mana
+COOLDOWN:
+10
+CAST TIME:
+0.
+625
+TARGET RANGE:
+400
+/
+100
+COLLISION RADIUS:
+200
+EFFECT RADIUS:
+180
+Passive - Mounted Alacrity:
+While
+Rell
+is
+Mounted
+, she gains
+bonus
+movement speed
+.
+Active:
+Rell
+becomes
+Dismounted
+and
+leaps
+to the target location, gaining a
+shield
+that lasts until destroyed or casting
+Ferromancy: Mount Up
+. Upon arrival, she deals
+magic damage
+and briefly
+knocks up
+and
+stuns
+enemies hit. She will continue
+sliding
+forward to affect further enemies along her path. While
+Rell
+is
+Dismounted
+, she can cast
+Ferromancy: Mount Up
+. She will revert to
+Mounted
+form after
+recalling
+or respawning.
+Passive - Mounted Alacrity:
+While
+Rell
+is
+Mounted
+, she gains
+bonus
+movement speed
+.
+Bonus Movement Speed:
+20 / 25 / 30 / 35 / 40
+Active:
+Rell
+becomes
+Dismounted
+and
+leaps
+to the target location over the cast time, granting herself a
+shield
+that lasts until destroyed or casting
+Ferromancy: Mount Up
+. Upon arrival, she deals
+magic damage
+to nearby enemies,
+stuns
+them for 0.
+8
+seconds, and
+knocks them up
+for 0.
+4
+seconds. She will continue
+sliding
+forward another 320 units over
+0.
+5
+seconds
+, though not through terrain, affecting further enemies along her path.
+Shield Strength:
+15 / 40 / 65 / 90 / 115
+(+ 12% of
+maximum
+health)
+Magic Damage:
+60 / 90 / 120 / 150 / 180
+(+ 60% AP)
+While
+Rell
+is
+Dismounted
+, she can cast
+Ferromancy: Mount Up
+. Upon completing a
+Recall
+channel or respawning,
+Rell
+will automatically revert to
+Mounted
+form without casting the ability and reset
+Ferromancy: Mount Up's
+cooldown
+.
+This ability can be cast only while Rell is
+Mounted
+.
+Rell
+can cast
+Magnet Storm
+during the dash, and is not considered to be dismounted until after the leap ends. Ferromancy: Crash Down will cast at max range if cast beyond that.
+"Armoring up!"
+Edit
+Ferromancy: Mount Up
+COOLDOWN:
+10
+CAST TIME:
+0.
+25
+Passive:
+While
+Rell
+is
+Dismounted
+, she gains
+bonus
+armor
+and
+bonus
+magic resist
+.
+Active:
+Rell
+becomes
+Mounted
+and gains
+bonus
+movement speed
+for a short time, increased while moving towards enemy
+champions
+. During this time,
+Rell's
+next basic attack will gain
+bonus
+attack range
+and causes her to
+charge
+to the target, dealing
+bonus
+magic damage
+before briefly
+stunning
+and
+flinging
+them over. While
+Rell
+is
+Mounted
+, she can cast
+Ferromancy: Crash Down
+.
+Passive:
+While
+Rell
+is
+Dismounted
+, she gains
+15%
+bonus
+armor
+,
+15%
+bonus
+magic resistance
+,
+20%
+bonus
+attack speed
+, and
+75
+bonus
+attack range
+.
+Active:
+Rell
+becomes
+Mounted
+, gaining
+30%
+bonus
+movement speed
+decaying over 2 seconds and empowering her next basic attack within 3.
+5
+seconds to have a 0.
+2
+-second cast time, gain
+100
+bonus
+attack range
+and cause her to
+charge
+at the target's location, during which she also gains
+40%
+bonus
+attack speed
+. Upon arrival or collision, she deals
+bonus
+magic damage
+,
+stuns
+the target for 0.
+6
+seconds, and
+flings
+them 150 units over herself, though not through terrain, over 0.
+4
+seconds.
+Bonus Magic Damage:
+10 / 25 / 40 / 55 / 70
+(+ 40% AP)
+While
+Rell
+is
+Mounted
+, she can cast
+Ferromancy: Crash Down
+.
+Ferromancy: Mount Up
+resets
+Rell's
+basic attack timer. This ability can be cast only while
+Rell
+is
+Dismounted
+.
+"Mount up!"
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Notes
+Rell
+slides
+between 250 and 350 units in testing, depending on how far the spell was targeted. It is not known where this is intended.
+If
+Rell
+dashes before a wall on the map, the slide will cover a shorter distance to the terrain over the same time, moving slower.
+PENDING FOR TEST:
+Interaction with player-made walls.
+The following table refers for interactions while
+Rell
+is dashing/in cast time:
+Attacking
+Disabled
+Abilities
+Shattering Strike
+is disabled.
+Full Tilt
+and
+Magnet Storm
+are usable.
+Movement
+Disabled
+Items
+Usable
+All the other item-actives are usable
+Disabled
+Hextech Rocketbelt
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death
+Targeting input
+Auto
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Parries
+Blocked
+Grounded
+Not Disabled
+Knockdown
+See Notes
+Notes
+Rell
+will always respawn and start the game as mounted.
+The basic attack reset is not considered one for
+Hail of Blades
+.
+Rell
+can use the empowered attack even while
+grounded
+or
+rooted
+.
+The
+dash
+can be
+knocked down
+but the attack's effects will still be applied.
+The movement speed reduction is a negative bonus, not a
+slow
+, and is thus not reduced by
+slow resist
+.
+Displacement immunity
+will not resist the application of the
+stun
+.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the empowered attack's cast time, it is cancelled but not consumed.
+Edit
+Full Tilt
+COST:
+40 Mana
+COOLDOWN:
+14 / 13 / 12 / 11 / 10
+CAST TIME:
+none
+RANGE:
+1200
+EFFECT RADIUS:
+300
+Passive:
+Rell
+gains
+bonus
+movement speed
+, reduced while
+in-combat
+.
+Active:
+Rell
+empowers herself and an ally with
+bonus
+movement speed
+for a few seconds, which is increased when moving near the empowered ally or an enemy
+champion
+.
+Rell's
+next basic attack or
+Shattering Strike
+within 5 seconds will also explode, dealing
+magic damage
+to nearby enemies.
+Active:
+Rell
+powers up herself and the target allied champion for 3 seconds, both gaining
+10%
+bonus
+movement speed
+which increases to
+25%
+while moving within 1200 units of the empowered ally or an enemy.
+Additionally,
+Rell's
+next basic attack or
+Shattering Strike
+within 5 seconds creates an explosion that deals
+bonus
+magic damage
+. The damage based on the target's health ratio is capped at
+150 − 300 (based on level)
+against monsters and structures.
+Bonus Magic Damage:
+5 / 5.
+5
+/ 6 / 6.
+5
+/ 7%
+(+ 3% per 100 AP)
+of target's
+maximum
+health
+If cast without a valid target, or
+self-cast
+,
+Full Tilt
+will automatically target the closest allied champion in range.
+Info
+Targeting input
+Unit
+/
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+No additional details.
+Edit
+Magnet Storm
+COST:
+100 Mana
+COOLDOWN
+:
+120 / 100 / 80
+CAST TIME:
+0.
+25
+EFFECT RADIUS:
+450
+/
+375
+INNER RADIUS:
+225
+SPEED:
+300
+Active:
+Rell
+erupts in magnetic fury,
+pulling
+nearby enemies inward. She then emits a
+Kinematic
+field that continually deals
+magic damage
+over a short time.
+Kinematics
+:
+Kinematics drags enemies toward the
+Source
+, but does not disable their actions nor intercept other forms of movement.
+Active:
+Rell
+erupts with magnetic fury,
+pulling
+nearby enemies
+inward
+. She then creates a gravitational field around her for the next 2 seconds that deals
+magic damage
+every 0.
+25
+seconds to nearby enemies and
+drags
+them towards her.
+Magic Damage Per Tick:
+15 / 25 / 35
+(+ 13.
+75
+% AP)
+Total Magic Damage:
+120 / 200 / 280
+(+ 110% AP)
+"Nobody leaves!"
+Info
+Targeting input
+Auto
+Damage type
+Type
+AOE DOT damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+This ability will cast from wherever the caster is at the end of the cast time.
+Magnet Storm
+will
+not
+drag units that are:
+Dashing
+.
+Being displaced (e.g. by
+airborne
+effects)
+Attached
+.
+Displacement immune
+.
+Immune to crowd control
+.
+Spell shield
+will block the initial
+pull
+but not the dragging effect.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Rell (Collection)
+.
+Original
+View in 3D
+975
+10.12.2020
+The product of brutal experimentation at the hands of the Black Rose, Rell is a defiant, living weapon determined to topple Noxus. Her childhood was one of misery and horror, enduring unspeakable procedures to perfect and weaponize her magical control over metal... until she staged a violent escape, killing many of her captors in the process. Now branded as a criminal, Rell attacks Noxian soldiers on sight as she searches for survivors of her old 'academy,' defending the meek while delivering violent death to her former overseers.
+Laya DeLeon Hayes
+Jeremy 'Jermu' Anninos
+Loot eligible
+Battle Queen
+View in 3D
+1350
+10.12.2020
+A young woman from the magic-starved Queendom of Calamity, volunteered for the coronation by a shadowy cabal of aristocrats after a series of magical experiments. Having now won the crown and the power of her crest, Rell has discovered her powers were stolen from the people of her country, and she has vowed revenge on her puppeteers.
+Laya DeLeon Hayes
+Bo 'chenbowow' Chen
+Battle Queens
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Battle Queen Rell Chromas
+Aquamarine
+Catseye
+Coronation
+Obsidian
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Star Guardian
+View in 3D
+1350
+28.07.2022
+Hailing from a sister city along with Quinn, Rell is a delinquent loner who does what she wants, when she wants, and avoids making friends by pushing everyone away. In battle she rides atop her mighty steed Sebastien, her simmering rage transforming her into a starlit knight who defends the meek from harm.
+Laya DeLeon Hayes
+Park Jun Seong, West Studio
+Star Guardian Season 4
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Star Guardian Rell Chromas
+Brilliant
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+High Noon
+View in 3D
+1350
+20.03.2024
+Rell ran as her home rotted away at the Fifth Harbinger's hands, but the young Powder Witch ain't running now. She squares her shoulders and swings into the saddle of a horse made of magic, steam, and fire. From its back, she looks down at the haunted gunslinger. “Come on, old man. We got a second chance, I ain't gonna waste it.”
+Laya DeLeon Hayes
+Huyy Nguyen, West Studio
+High Noon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+High Noon Rell Chromas
+Citrine
+Emerald
+Noonday
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.23
+- Gameplay Update
+Stats
+Base mana reduced to 320 from 350.
+Mana growth reduced to 40 from 45.
+Base mana regeneration increased to 7 from 6.
+Mana regeneration growth increased to 0.
+7
+from 0.
+35
+.
+Base armor reduced to 30 from 36.
+Armor growth increased to 4.
+3
+from 4.
+2
+.
+Base magic resistance reduced to 28 from 30.
+Magic resistance growth reduced to 1.
+8
+from 2.
+05
+.
+Attack speed growth increased to 2% from 1.
+5
+%.
+Attack windup reduced to 18.
+75
+% from 21%.
+Attack windup time is no longer reduced by
+0% − 7.
+14
+% (based on level)
+.
+Attack windup modifier increased to 1 (default) from 0.
+4
+.
+Base movement speed reduced to 315 from 330.
+Break the Mold
+Minimum resistance steal increased to
+1 − 2 (based on level)
+from
+0.
+8
+− 2 (based on level)
+.
+New Effect:
+Now deals on-hit
+magic damage
+equal to
+5%
+total
+armor
+and
+5%
+total
+magic resistance
+.
+Shattering Strike
+Stun duration reduced to 0.
+65
+seconds from 0.
+75
+.
+Ferromancy: Crash Down
+Cooldown reduced to 10 seconds from 11.
+Knock up duration reduced to 0.
+4
+seconds from 1.
+New Effect:
+Now also
+stuns
+for 0.
+8
+seconds at the start of the displacement.
+New Effect - Mounted Alacrity:
+While
+Rell
+is mounted, she passively gains
+20 / 25 / 30 / 35 / 40
+bonus
+movement speed
+.
+Base shield increased to 15 / 40 / 65 / 90 / 115 from 15 / 40 / 65 / 90 / 110.
+Ferromancy: Mount Up
+Cooldown reduced to 10 seconds from 11.
+Stun duration reduced to 0.
+6
+seconds from 1.
+Removed:
+Rell's
+movement speed
+is no longer reduced by 10% while dismounted.
+Bonus resistances increased to 15% from 12%.
+Bonus attack speed reduced to 20% from 30%.
+Full Tilt
+Cooldown reduced to 14 / 13 / 12 / 11 / 10 seconds from 15 at all ranks.
+Removed - Mounted Alacrity:
+Rell
+no longer passively gains
+5 − 50 (based on level)
+bonus
+movement speed
+while
+Mounted
+, reduced by 50% while in combat.
+Effect name moved to
+Ferromancy: Crash Down
+.
+Removed:
+Active movement speed no longer ramps up linearly from 75% of its maximum value over the first 2 seconds.
+Base movement speed reduced to 10% from 12 / 13 / 14 / 15 / 16%.
+Rally movement speed modifier increased to 250% of base from 200%.
+Rally movement speed changed to 25% from 24 / 26 / 28 / 30 / 32%.
+Removed:
+No longer has a base damage of 25 / 35 / 45 / 55 / 65.
+Removed:
+Damage no longer scales with
+50% AP
+.
+Health ratio increased to
+5 / 5.
+5
+/ 6 / 6.
+5
+/ 7% of target's
+maximum
+health
+from
+3%
+at all ranks.
+New Effect:
+Health ratio now scales with
+3% per 100 AP
+.
+Monster damage cap increased to
+150 − 300 (based on level)
+from 150 at all levels.
+New Effect:
+Damage based on the target's health now applies against structures.
+New Effect:
+Damage based on the target's health is now capped at
+150 − 300 (based on level)
+against structures.
+V14.18
+Full Tilt
+Bonus movement speed reduced to 12 / 13 / 14 / 15 / 16% from 12 / 14 / 16 / 18 / 20%.
+Increased bonus movement speed reduced to 24 / 26 / 28 / 30 / 32% from 24 / 28 / 32 / 36 / 40%.
+V14.16
+Full Tilt
+Bug Fix:
+Bonus damage no longer improperly counts towards applying the resistances reduction from
+Break the Mold
+if applied by
+Shattering Strike
+.
+V14.14
+Full Tilt
+Bug Fix:
+Can no longer be used on allies without having vision of them.
+V14.7
+Stats
+Magic resistance growth increased to 2.
+05
+from 1.
+85
+.
+Shattering Strike
+Removed:
+No longer deals 170 / 245 / 320 / 395 / 470
+bonus
+damage against monsters.
+Ferromancy: Crash Down
+Removed:
+No longer deals 125 / 150 / 175 / 200 / 225
+bonus
+damage against monsters.
+Ferromancy: Mount Up
+Removed:
+No longer deals 55 / 110 / 165 / 220 / 275
+bonus
+damage against monsters.
+Full Tilt
+Removed:
+No longer deals 120 / 165 / 210 / 255 / 300
+bonus
+damage against monsters.
+V14.4
+Shattering Strike
+Removed:
+No longer destroys shields against monsters.
+V13.23
+Magnet Storm
+Bug Fix:
+Casting the ability in combination with
+Ferromancy: Crash Down
+no longer sometimes causes the kinematics drag effect of
+Magnet Storm
+to interrupt enemy channeled abilities.
+V13.18
+Full Tilt
+Bonus movement speed reduced to 12 / 14 / 16 / 18 / 20% from 15 / 17.
+5
+/ 20 / 22.
+5
+/ 25%.
+Increased bonus movement speed reduced to 24 / 28 / 32 / 36 / 40% from 30 / 35 / 40 / 45 / 50%.
+V13.15
+Break the Mold
+Bug Fix:
+Shattering Strike
+,
+Ferromancy: Crash Down
+,
+Ferromancy: Mount Up
+, and
+Magnet Storm
+no longer apply the resistances reduction before their damage.
+Shattering Strike
+Bug Fix:
+Targeting direction now remains absolute during the cast.
+Ferromancy: Mount Up
+Empowered attack dash speed has been increased.
+Bug Fix:
+Now properly applies the bonus damage to epic monsters at all times.
+Bug Fix:
+Empowered attack no longer sometimes fails to trigger against the
+Rift Scuttler
+.
+Bug Fix:
+Empowered attack now properly deals its damage to monsters.
+Full Tilt
+Bug Fix:
+Now properly calculates
+Break the Mold's
+resistances reduction for all stacks rather than excluding one of them.
+V13.14
+Stats
+Base armor reduced to 36 from 39.
+Break the Mold
+Resistance steal per stack reduced to 2% from 3%.
+Minimum resistance steal reduced to
+0.
+8
+− 2 (based on level)
+from
+1.
+25
+− 3 (based on level)
+.
+V13.13
+Stats
+Base health regeneration reduced to 7.
+5
+from 8.
+5
+.
+Base magic resistance reduced to 30 from 32.
+Magic resistance growth reduced to 1.
+85
+from 2.
+05
+.
+Shattering Strike
+Bonus monster damage increased to 170 / 245 / 320 / 395 / 470 from 150 / 220 / 290 / 360 / 430.
+Ferromancy: Crash Down
+Base shield reduced to 15 / 40 / 65 / 90 / 110 from 35 / 60 / 85 / 110 / 135.
+Ferromancy: Mount Up
+Bonus attack speed changed to 30% at all ranks from 15 / 20 / 25 / 30 / 35%.
+Full Tilt
+Bonus monster damage increased to 120 / 165 / 210 / 255 / 300 from 100 / 145 / 190 / 235 / 280.
+V13.12
+General
+Default adaptive force changed to ability power from attack damage.
+Bug Fix:
+Critical strike on-hit VFX now properly lines up with her weapon while dismounted.
+Break the Mold
+Bug Fix:
+Can no longer extend passive stacks from the same target.
+Shattering Strike
+Cast time reduced to 0.
+4
+seconds from 0.
+5
+.
+Base damage reduced to 60 / 100 / 140 / 180 / 220 from 70 / 110 / 150 / 190 / 230.
+Damage against monsters reduced to 100% from 300%.
+New Effect:
+Now deals 150 / 220 / 290 / 360 / 430 bonus damage against monsters.
+Bug Fix:
+No longer changes its targeting direction from using
+Flash
+.
+Ferromancy: Crash Down
+Base damage reduced to 60 / 90 / 120 / 150 / 180 from 70 / 100 / 130 / 160 / 190.
+Damage against monsters reduced to 100% from 300%.
+New Effect:
+Now deals 125 / 150 / 175 / 200 / 225 bonus damage against monsters.
+Bug Fix:
+Now properly functions even while affected by crowd control.
+Bug Fix:
+Several visual issues no longer occur from spawning as dismounted.
+Bug Fix:
+Can no longer skip the animation from casting
+Full Tilt
+.
+Ferromancy: Mount Up
+Damage against monsters reduced to 100% from 300%.
+New Effect:
+Now deals 55 / 110 / 165 / 220 / 275 bonus damage against monsters.
+Bug Fix:
+Now properly functions even while affected by crowd control.
+Full Tilt
+Base damage reduced to 25 / 35 / 45 / 55 / 65 from 35 / 50 / 65 / 80 / 95.
+Health ratio reduced to
+3% of target's
+maximum
+health
+from
+4%
+.
+New Effect:
+Health ratio is now capped at 150 against monsters.
+Damage against monsters reduced to 100% from 250%.
+New Effect:
+Now deals 100 / 145 / 190 / 235 / 280 bonus damage against monsters.
+Bug Fix:
+Now properly functions even while affected by crowd control.
+Bug Fix:
+No longer has animation issues during the cast.
+V13.11
+- June 2nd Hotfix
+Stats
+Base health regeneration increased to 8.
+5
+from 7.
+Health regeneration growth increased to 0.
+85
+from 0.
+55
+.
+Base armor increased to 39 from 32.
+Armor growth increased to 4.
+2
+from 3.
+Magic resistance growth increased to 2.
+05
+from 1.
+Break the Mold
+Resistance steal per stack increased to 3% from 2.
+5
+%.
+Shattering Strike
+Base damage increased to 70 / 110 / 150 / 190 / 230 from 60 / 95 / 130 / 165 / 200.
+AP ratio increased to
+60% AP
+from
+50% AP
+.
+Damage against monsters increased to 300% from 250%.
+Ferromancy: Crash Down
+Base shield increased to 35 / 60 / 85 / 110 / 135 from 30 / 55 / 80 / 105 / 130.
+Shield health ratio increased to
+12%
+maximum
+health
+from
+10%
+.
+Knock up duration increased to 1 second from 0.
+75
+.
+Damage against monsters increased to 300% from 250%.
+Ferromancy: Mount Up
+Self-slow reduced to 10% from 15%.
+Damage against monsters increased to 300% from 250%.
+Full Tilt
+Base damage increased to 35 / 50 / 65 / 80 / 95 from 25 / 35 / 45 / 55 / 65.
+AP ratio increased to
+50% AP
+from
+30% AP
+.
+Health ratio increased to
+4% of target's
+maximum
+health
+at all ranks from
+2 / 2.
+5
+/ 3 / 3.
+5
+/ 4%
+.
+V13.11
+- Gameplay Update
+General
+Updated ability icons.
+Bug Fix:
+Walk animation no longer freezes when continuously transitioning from the walk animation to the idle animation.
+Stats
+Base attack speed increased to 0.
+625
+from 0.
+55
+.
+Attack speed ratio increased to 0.
+625
+from 0.
+55
+.
+Attack speed growth reduced to 1.
+5
+% from 2%.
+Armor growth reduced to 3 from 4.
+2
+.
+Magic resistance growth reduced to 1 from 2.
+05
+.
+Base movement speed reduced to 330 from 335.
+Break the Mold
+Resistance steal reduced to 2.
+5
+% from 10%.
+Minimum resistance reduction reduced to
+1.
+25
+− 3 (based on level)
+from
+5 − 12 (based on level)
+.
+Duration increased to 5 seconds from 4.
+Removed:
+No longer steals
+0.
+5
+− 2 (based on level)
+resistances from minions.
+New Effect:
+Resistance steal now stacks up to 5 times per target.
+New Effect:
+Abilities now apply one stack per target.
+New Effect:
+Gained resistances remain for the full duration even if a target dies.
+Removed:
+No longer deals
+8 − 16 (based on level)
+bonus
+magic damage on-hit and
+Break the Mold's
+bonus
+damage is increased equal to the sum resistances reduced from the target.
+Removed:
+Damaging a new enemy champion no longer refreshes duration on all targets.
+Shattering Strike
+Base damage reduced to 60 / 95 / 130 / 165 / 200 from 70 / 115 / 160 / 205 / 250.
+Damage against monsters increased to 250% from 100%.
+Cast time increased to 0.
+5
+seconds from 0.
+35
+.
+Forward range reduced to 520 units from 685.
+Backward range increased to 220 units from 150.
+Cooldown increased to 11 / 10.
+5
+/ 10 / 9.
+5
+/ 9 seconds from 9 / 8 / 7 / 6 / 5.
+New Effect:
+Now stuns targets hit for 0.
+75
+seconds.
+New Effect:
+Now
+lunges
+forward 100 units when casting.
+Does not count as a movement spell.
+Removed:
+Damage is no longer reduced to 50% against targets beyond the first.
+Removed:
+No longer heals herself or an ally tethered with
+Attract and Repel
+for 10 / 15 / 20 / 25 / 30
+(+ 30% AP)
+(+ 4% of
+missing
+health)
+per champion hit.
+Ferromancy: Crash Down
+Removed:
+While
+Rell
+is
+Mounted
+, no longer gains
+5% − 15% (based on level)
+bonus
+movement speed
+, which is only
+20% − 40% (based on level)
+as effective for 3 seconds when she takes damage from non-
+minions
+and is removed for 4 seconds when she becomes
+immobilized
+or
+polymorphed
+.
+Damage against monsters increased to 250% from 100%.
+Base damage reduced to 70 / 100 / 130 / 160 / 190 from 70 / 105 / 140 / 175 / 210.
+Base shield reduced to 30 / 55 / 80 / 105 / 130 from 35 / 60 / 85 / 110 / 135.
+Shield health ratio reduced to
+10%
+maximum
+health
+from
+12%
+.
+Slide distance reduced to 320 units from 375.
+Effect radius reduced to 180 units from 200.
+Dash range reduced to 400 units from 500.
+Knock up duration reduced to 0.
+75
+seconds from 1.
+Ferromancy: Mount Up
+New Effect:
+Now passively grants her
+15 / 20 / 25 / 30 / 35%
+bonus
+attack speed
+and 75
+bonus
+attack range while dismounted.
+New Effect:
+Now reduces her movement speed by 15% while dismounted.
+Bonus resistances increased to 12% from 10%.
+Removed:
+Base movement speed is no longer modified to 280 while dismounted.
+Removed:
+Movement speed is no longer capped at
+290 − 400 (based on level)
+while dismounted.
+Damage against monsters increased to 250% from 100%.
+New Effect:
+Active now grants 30%
+bonus
+movement speed decaying over 2 seconds.
+Removed:
+Active no longer grants 15%
+bonus
+movement speed for 3.
+5
+seconds, increased to 25 / 30 / 35 / 40 / 45% while moving towards enemy
+champions
+.
+Full Tilt
+- New E
+Cost:
+40 mana.
+Cooldown:
+15 seconds.
+Range:
+1200 units.
+Passive - Mounted Alacrity:
+While
+Mounted
+,
+Rell
+gains
+5 − 50 (based on level)
+bonus
+movement speed, reduced to 50% effectiveness while in combat.
+Active:
+Rell
+powers up herself and the target allied champion for 3 seconds, both gaining
+bonus
+movement speed that ramps up from 75% of the maximum value over the first 2 seconds, up to 15 / 17.
+5
+/ 20 / 22.
+5
+/ 25%, doubled to 30 / 35 / 40 / 45 / 50% while moving towards enemies or an empowered ally within 1200 units. Additionally,
+Rell's
+next basic attack or
+Shattering Strike
+within 5 seconds creates an explosion in a 300 unit radius, dealing 25 / 35 / 45 / 55 / 65
+(+ 30% AP)
+(+ 2 / 2.
+5
+/ 3 / 3.
+5
+/ 4% of target's
+maximum
+health)
+magic damage, increased to 250% against monsters. Against
+structures
+, does not apply the damage based on the target's health.
+Trivia
+[
+edit
+|
+edit source
+]
+Rell's lance is featured in the
+promotional art
+for Preseason 2021 Mythic Forge as a reveal teaser.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Vanguard
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+Vanguards
+are offensive tanks. Vanguards lead the charge for their team and specialize at bringing the action. Their explosive team fight initiation seeks to catch enemies out of position while allowing allies to follow-up to devastating effect.
+Examples
+Amumu
+Leona
+Sejuani
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+Incoming
+shields
+can trigger bonus effects from
+Shield Bash
+. Outgoing
+shields
+can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+. Shield reduction effects, exclusively
+Serpent's Fang
+, reduce all incoming and outgoing
+shields
+.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Lunge
+A
+lunge
+refers to the movement of a champion
+during
+an ability's cast animation (
+such as short-ranged abilities
+) or an empowered attack's animation (
+such as empowerments that grant
+bonus range
+), in order to place the champion in range for a follow-up attack.
+Lunge
+is a movement distinct from
+dashes
+, primarily by not triggering effects that would otherwise interact with dashes, such as
+Poppy's
+Steadfast Presence
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Lockout
+A champion that is
+locked out
+is unable to perform certain actions such as casting abilities, moving, or attacking. The prevented actions can vary per instance.
+Lockout does not interact with
+crowd control
+mechanics unless otherwise stated.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Ferromancy: Mount Up
+COOLDOWN:
+10
+Passive:
+While
+Rell
+is
+Dismounted
+, she gains
+bonus
+armor
+and
+bonus
+magic resist
+.
+Active:
+Rell
+becomes
+Mounted
+and gains
+bonus
+movement speed
+for a short time, increased while moving towards enemy
+champions
+.
+During this time,
+Rell's
+next basic attack will gain
+bonus
+attack range
+and causes her to
+charge
+to the target, dealing
+bonus
+magic damage
+before briefly
+stunning
+and
+flinging
+them over.
+While
+Rell
+is
+Mounted
+, she can cast
+Ferromancy: Crash Down
+.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Magnet Storm
+COOLDOWN:
+120 / 100 / 80
+Active:
+Rell
+erupts in magnetic fury,
+pulling
+nearby enemies inward. She then emits a
+Kinematic
+field that continually deals
+magic damage
+over a short time.
+Kinematics
+:
+Kinematics drags enemies toward the
+Source
+, but does not disable their actions nor intercept other forms of movement.
+League of Legends content
+Ferromancy: Crash Down
+COOLDOWN:
+10
+Passive - Mounted Alacrity:
+While
+Rell
+is
+Mounted
+, she gains
+bonus
+movement speed
+.
+Active:
+Rell
+becomes
+Dismounted
+and
+leaps
+to the target location, gaining a
+shield
+that lasts until destroyed or casting
+Ferromancy: Mount Up
+.
+Upon arrival, she deals
+magic damage
+and briefly
+knocks up
+and
+stuns
+enemies hit. She will continue
+sliding
+forward to affect further enemies along her path.
+While
+Rell
+is
+Dismounted
+, she can cast
+Ferromancy: Mount Up
+. She will revert to
+Mounted
+form after
+recalling
+or respawning.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Shattering Strike
+COOLDOWN:
+11 / 10.
+5
+/ 10 / 9.
+5
+/ 9
+Active:
+Rell
+thrusts her lance in the target direction that destroys damage
+shields
+of enemies hit before dealing
+magic damage
+and
+stunning
+.
+League of Legends content
+Full Tilt
+COOLDOWN:
+14 / 13 / 12 / 11 / 10
+Passive:
+Rell
+gains
+bonus
+movement speed
+, reduced while
+in-combat
+.
+Active:
+Rell
+empowers herself and an ally with
+bonus
+movement speed
+for a few seconds, which is increased when moving near the empowered ally or an enemy
+champion
+.
+Rell's
+next basic attack or
+Shattering Strike
+within 5 seconds will also explode, dealing
+magic damage
+to nearby enemies.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Ground
+A unit that is
+grounded
+is unable to activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Grounded
+units can still be displaced.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Ground
+is the only type of
+crowd control
+that is most commonly found in persistent area of effects, which will reapply the status effect continuously.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Yone's
+Soul Unbound
+(recast).
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Root
+A unit that is
+rooted
+is unable to control its movement or activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Rooted
+units can still be displaced.
+Root
+is an
+immobilizing
+effect
+.
+Moving
+includes movement commands.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Knockdown
+Knockdown
+only affects units that are performing a
+dash
+or being displaced by an
+airborne
+effect. A unit that is
+knocked down
+has its
+dash
+or
+displacement
+interrupted and is placed on the ground instantly.
+Knockdown
+is not a
+status effect
+.
+Interrupts:
+Interrupts all
+dashes
+and
+airborne effects
+(displacement
+and
+status effects).
+Knock ups
+will not have their
+airborne
+status removed if there is no sourced debuff, but their displacement still ends.
+Reduction:
+The effect is instantaneous.
+There is nothing to reduce.
+Resist:
+Resisted by
+crowd control immunity
+and
+displacement immunity
+.
+Removal:
+The effect is instantaneous.
+There is nothing to remove.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Slow resist
+Slow resist
+is a stat that directly reduces the effectiveness of
+slows
+.
+League of Legends content
+Displacement immune
+A unit that is
+displacement immune
+is
+immune
+to all
+Airborne
+effects in addition to the following effects:
+Crowd control
+Knockdown
+Suspension
+Kinematics
+Sleep
+Stasis
+Champion abilities
+Ambessa's
+Public Execution
+Mordekaiser's
+Realm of Death
+Skarner's
+Ixtal's Impact
+and
+Impale
+Sett's
+The Show Stopper
+Tahm Kench's
+Devour
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Rell's profile page
+at
+LeagueOfLegends.com

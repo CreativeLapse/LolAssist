@@ -1,0 +1,2628 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Qiyana
+Empress of the Elements
+Release date
+2019-06-28
+Last changed
+V14.21
+Class(es)
+Assassin
+Legacy
+Assassin
+Fighter
+Position(s)
+Middle
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Qiyana
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Qiyana
+Base statistics
+Edit
+Health
+590
++124
+Mana
+375
++60
+Health regen. (per 5s)
+8
++0.9
+Mana regen. (per 5s)
+8
++0.7
+Armor
+31
++4.7
+Attack damage
+66
++3.1
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+150
+Attack speed
+Base AS
+0.688
+Attack windup
+15.333%
+AS ratio
+0.625
+Bonus AS
++2.1
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+750
+Special statistics
+Damage Dealt
++15%
+Damage Received
+-10%
+Tenacity & Slow Resist
++20%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++5%
+Damage Received
+-8%
+Damage Dealt
++0%
+Damage Received
+-10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Royal Privilege
+TARGET IMMUNITY
+:
+25
+Innate:
+Qiyana's
+basic attacks and basic abilities deal
+additional
+physical damage
+. This effect cannot recur on the same target for a period of time. Gathering an
+Element
+with
+Terrashape
+will
+reset
+the cooldown.
+Innate:
+Qiyana's
+basic attacks
+and
+basic abilities
+deal
+15 − 83 (based on level)
+(+ 30%
+bonus
+AD)
+(+ 30% AP)
+additional
+physical damage
+.
+This effect cannot occur on the same target more than once every few seconds.
+Gathering an
+Element
+with
+Terrashape
+resets
+Royal Privilege's
+per-target
+cooldown
+for enemies affected by
+Royal Privilege
+using a different
+Element
+(or no
+Element
+).
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+Physical
+Counters
+Parries
+Missing
+Royal Privilege's
+trigger from a basic attack can be
+blocked
+(bonus damage is negated and the on-target cooldown does not apply).
+Royal Privilege
+will not apply a cooldown to targets that are hit with an
+Elemental Wrath
+that has a different
+Element
+than the
+Element
+Qiyana
+currently holds.
+This does not occur if a new
+Elemental Wrath
+with a different
+Element
+is cast before the first one lands.
+The effect will not trigger against
+structures
+nor
+wards
+.
+PENDING FOR TEST:
+:
+Royal Privilege's
+interaction with
+parrying
+effects (
+dodge
+,
+blind
+).
+Map-Specific Differences
+Arena
+differences
+edit
+Bonus AD ratio changed to
+50%
+bonus
+AD
+.
+AP ratio changed to
+50% AP
+.
+Edit
+Edge of Ixtal
+COST:
+35 mana
+COOLDOWN:
+7
+CAST TIME:
+0.
+25
+RANGE:
+525
+/
+-40
+WIDTH:
+140
+Active:
+Qiyana
+slashes forward in the target direction, dealing
+physical damage
+to enemies hit in a line. Gathering an
+Element
+with
+Terrashape
+will
+reset
+the cooldown and upgrades
+Edge of Ixtal
+into
+Elemental Wrath
+.
+Active:
+Qiyana
+slashes forward in the target direction, dealing
+physical damage
+to enemies in a line, reduced to 75% damage against targets beyond the first.
+Edge of Ixtal
+deals 175% damage against
+monsters
+.
+Physical Damage:
+60 / 90 / 120 / 150 / 180
+(+ 90%
+bonus
+AD)
+Reduced Damage:
+45 / 67.
+5
+/ 90 / 112.
+5
+/ 135
+(+ 67.
+5
+%
+bonus
+AD)
+Gathering an
+Element
+with
+Terrashape
+resets
+Edge of Ixtal's
+cooldown
+and upgrades it into
+Elemental Wrath
+.
+If cast during
+Audacity's
+dash towards an enemy
+champion
+and the target is within 150 units of
+Qiyana
+at the end of the dash,
+Edge of Ixtal
+will autonomously aim at the target.
+Edit
+Elemental Wrath
+RANGE:
+865
+/
+-50
+WIDTH:
+250
+/
+200
+SPEED:
+1600
+/
+2000
+Active:
+Qiyana
+hurls her blade in the target direction that blasts in a line upon hitting an enemy or max range, dealing
+physical damage
+, reduced against enemies beyond the closest. This consumes the current
+Element
+to empower the blade with an additional effect.
+Brush
+:
+The blade creates a grass field around
+Qiyana
+that lasts a short time, granting her
+invisibility
+and
+bonus
+movement speed
+until she attacks or exits the field.
+River
+:
+The blast briefly
+roots
+enemies hit, then briefly
+slows
+them.
+Terrain
+:
+The blast deals
+bonus
+damage
+against enemies
+below half health
+.
+Active:
+Qiyana
+hurls her blade in the target direction that blasts in a line upon hitting an enemy or maximum range, consuming the current
+Element
+to empower the blade with an additional effect.
+Enemies hit are dealt
+Edge of Ixtal's
+damage, reduced to 75% against subsequent enemies beyond the closest.
+Elemental Wrath
+deals 175% damage against
+monsters
+.
+Physical Damage:
+60 / 90 / 120 / 150 / 180
+(+ 90%
+bonus
+AD)
+Reduced Damage:
+45 / 67.
+5
+/ 90 / 112.
+5
+/ 135
+(+ 67.
+5
+%
+bonus
+AD)
+Brush
+:
+The blade creates a grass field around
+Qiyana
+that lasts for up to 3 seconds, granting her
+invisibility
+and
+20%
+bonus
+movement speed
+until she attacks, casts an ability other than
+Terrashape
+, or exits the field.
+River
+:
+The blast
+roots
+enemies hit for 0.
+5
+seconds, then
+slows
+them by 20% for 1 second.
+Terrain
+:
+The blast deals
+60% increased damage
+against enemies below
+50% of their
+maximum
+health
+. Subsequent targets beyond the closest that are below the threshold take 35% increased damage instead.
+Increased Damage:
+96 / 144 / 192 / 240 / 288
+(+ 144%
+bonus
+AD)
+Subsequent Increased Damage:
+81 / 121.
+5
+/ 162 / 202.
+5
+/ 243
+(+ 121.
+5
+%
+bonus
+AD)
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Notes
+If cast during
+Audacity
+and the target uses a dash or blink or is no longer in vision,
+Edge of Ixtal
+will aim at the target's last location prior to them starting the dash or blink or being in vision.
+This ability will cast from wherever the caster is at the end of the cast time.
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Notes
+This ability will cast from wherever the caster is at the end of the cast time.
+Using a basic attack breaks the stealth at the start of the attack windup.
+Arena
+differences
+edit
+Brush bonus movement speed changed to 40%.
+River root duration changed to 1 second.
+Edit
+Terrashape
+COST:
+25 / 30 / 35 / 40 / 45 mana
+COOLDOWN:
+7
+CAST TIME:
+none
+TARGET RANGE:
+1100
+EFFECT RADIUS:
+366
+SPEED:
+440 +
+100% movement speed
+Passive:
+While holding an
+Element
+,
+Qiyana
+gains
+bonus
+attack speed
+and
+attack range
+, as well as
+bonus
+magic damage
+on her basic attacks and basic abilities.
+Qiyana
+gains
+bonus
+movement speed
+speed while moving near the current
+Element
+.
+Active:
+Qiyana
+dashes
+in the target direction to gather the
+Element
+of the nearest
+Brush
+,
+River
+or
+Terrain
+she targeted.
+Passive:
+While holding an
+Element
+,
+Qiyana
+gains
+bonus
+attack speed
+,
+25
+bonus
+attack range
+and
+bonus
+magic damage
+on her basic attacks
+on-hit
+and basic abilities. While
+out-of-combat
+and moving near the
+Element
+currently being held, she gains
+bonus
+movement speed
+.
+Bonus Attack Speed:
+5 / 10 / 15 / 20 / 25%
+Bonus Magic Damage:
+8 / 16 / 24 / 32 / 40
+(+ 20%
+bonus
+AD)
+(+ 45% AP)
+Bonus Movement Speed:
+3 / 5 / 7 / 9 / 11%
+Active:
+Qiyana
+dashes
+up to 300 units towards the target location to gather the
+Element
+of the nearest
+Brush
+,
+River
+or
+Terrain
+she targeted.
+A target Element is required to cast this ability
+.
+Once
+Terrashape
+has been learned,
+Qiyana
+is automatically given the
+Terrain
+element upon
+respawning
+.
+Qiyana
+can cast any of her abilities during the dash.
+Info
+Targeting input
+Location
+Damage type
+Type
+Proc damage
+Sub-type
+Magic
+Counters
+Parries
+Missing
+Grounded
+Disabled
+Knockdown
+Interrupted
+Terrashape
+does not interact with
+player-generated terrain
+.
+The water puddles formed by the
+Ocean Rift
+on
+Summoner's Rift
+count as valid terrain for obtaining the
+River
+element.
+The
+brushes
+grown by
+Ivern's
+Brushmaker
+count for gathering the
+Brush
+element.
+Passive bonus damage from basic attacks can be
+blocked
+.
+The passive damage works with
+Guinsoo's Rageblade's
+Phantom Hit
+.
+PENDING FOR TEST:
+: Passive bonus damage interaction with
+parrying
+effects (
+dodge
+,
+blind
+).
+Map-Specific Differences
+Howling Abyss
+differences
+edit
+Targeting a Health Relic on
+Howling Abyss
+grants the
+River
+Element
+.
+Edit
+Audacity
+COST:
+40 / 45 / 50 / 55 / 60 mana
+COOLDOWN:
+11 / 10 / 9 / 8 / 7
+CAST TIME:
+none
+TARGET RANGE:
+650
+SPEED:
+600 +
+100% movement speed
+Active:
+Qiyana
+dashes
+toward the target enemy and deals
+physical damage
+upon arrival.
+Active:
+Qiyana
+dashes
+a fixed distance in the direction of the target enemy. If they are in range upon arrival, she deals
+physical damage
+.
+Physical Damage:
+50 / 90 / 130 / 170 / 210
+(+ 50%
+bonus
+AD)
+Qiyana
+can cast any of her abilities during the dash.
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Audacity
+only damages targets if within 250 range upon completion of the dash.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 70 / 120 / 170 / 220 / 270.
+Edit
+Supreme Display of Talent
+COST:
+100 mana
+COOLDOWN:
+120
+CAST TIME:
+0.
+25
+TARGET RANGE:
+875
+EFFECT RADIUS:
+11000
+WIDTH:
+280
+/
+120
+SPEED:
+2000
+/
+2840
+Active:
+Qiyana
+sweeps a windblast in the target direction that
+knocks back
+enemies hit and stops upon hitting
+Terrain
+. The windblast creates a cascading shockwave across any
+River
+or
+Brush
+it passes, as well as around the borders of
+Terrain
+it hits. The shockwave briefly
+stuns
+enemies hit and deals
+physical damage
+based on
+their
+maximum
+health
+.
+Active:
+Qiyana
+sweeps a windblast in the target direction that
+knocks back
+enemies hit, though not through terrain, and stops upon hitting
+Terrain
+.
+The windblast creates a cascading shockwave across any
+River
+or
+Brush
+it passes through, as well as around the borders of
+Terrain
+it reaches, dealing
+physical damage
+to enemies hit,
+stunning
+them for
+0.
+5
+− 1 (based on proximity)
+seconds, and briefly granting
+sight
+of the area along its path. The damage based on the target's health ratio is capped against
+monsters
+.
+Physical Damage:
+100 / 200 / 300
+(+ 125%
+bonus
+AD)
+(+ 10% of target's
+maximum
+health)
+Capped Monster Health Damage:
+500 / 750 / 1000
+(+ 125%
+bonus
+AD)
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+See Notes
+The windblast needs only to reach near terrain to trigger the terrain shockwave.
+The shockwave grants sight along each part of its path for 0.
+75
+seconds.
+Artificial terrain (e.g,
+Anivia's
+Crystallize
+,
+Taliyah's
+Weaver's Wall
+,
+Trundle's
+Pillar of Ice
+) touching map terrain will be treated as a single piece of terrain, even when bridging two pieces of map terrain together; the shockwave will wrap around all connecting terrain. The shockwave's path is determined once it initially spreads; any expired terrain will be treated as if it were still there.
+Projectile-intercepting
+effects will block the windblast but not the shockwave.
+This ability will cast from wherever the caster is at the end of the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 80 seconds.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Qiyana (Collection)
+.
+Original
+View in 3D
+975
+28.06.2019
+In the jungle city of Ixaocan, Qiyana plots her own ruthless path to the high seat of the Yun Tal. Last in line to succeed her parents, she faces those who stand in her way with brash confidence and unprecedented mastery over elemental magic. With the land itself obeying her every command, Qiyana sees herself as the greatest elementalist in the history of Ixaocan—and by that right, deserving of not only a city, but an empire.
+Montse Hernandez
+Atey Ghailan
+Loot eligible
+Battle Boss
+View in 3D
+1350
+28.06.2019
+A princess constantly in need of saving in the 1981 arcade port of “Super Ixaocan Bros.,” Qiyana needed very little convincing to empower herself with malignant Battle Boss code. She wasted no time testing her newfound abilities on the aforementioned Super Ixaocan Brothers. They're dead now. She lives in their castle.
+Montse Hernandez
+Jennifer Wuestling
+Arcade: Battle Bosses
+Loot eligible
+Voice filter
+Additional/unique quotes
+New SFX/VFX
+New Animations/Recall
+Chromas
+Battle Boss Qiyana Chromas
+Catseye
+K.O.
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+True Damage
+View in 3D
+1350
+10.11.2019
+Qiyana is the daughter of Latin music royalty. With her family's esteemed reputation, she has an easy path to superstardom—and yet, she has her eyes set on something grander. With her brash confidence and rebellious persona, she is determined to change the game in not just music, but the entirety of pop culture.
+Montse Hernandez
+Atey Ghailan
+True Damage
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Prestige True Damage
+View in 3D
+Special
+10.11.2019
+Always a fixture in the spotlight, Qiyana dressed to impress at True Damage's sold-out concert in Paris. While the paparazzi swarmed her with photos and questions, she reveled in the attention, knowing this was only the beginning of her empire of celebrity.
+Montse Hernandez
+Jessica 'OwleyCat' Oyhenart
+True Damage
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Prestige True Damage
+. Store variants are discounted for multiple purchases.
+Battle Queen
+View in 3D
+1350
+10.12.2020
+Qiyana is the youngest in a line of sisters who have been Queens of Ixtal for most of the recent Coronations. She's been waiting impatiently for her chance at the Crest and the title. Now that she has it, she intends to use the power she gains in the tournament to remake Ixtal in her vision.
+Montse Hernandez
+Unknown artist
+Battle Queens
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Battle Queen Qiyana Chromas
+Catseye
+Coronation
+Emerald
+Obsidian
+Pearl
+Ruby
+Sapphire
+Turquoise
+Shockblade
+View in 3D
+1350
+17.02.2022
+Tempestuous as the Storm itself, Qiyana braved the Cloud Ritual despite warnings that no one had survived in years. Perhaps it was her display of stubborn courage the Storm found worthy, or something else; either way, she is now Shen's student, determined to master lightning the same way she mastered the other elements.
+Montse Hernandez
+Félix Donadio, West Studio
+Shockblade
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Shockblade Qiyana Chromas
+Amethyst
+Aquamarine
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Prestige True Damage (2022)
+View in 3D
+Special
+01.04.2022
+Always a fixture in the spotlight, Qiyana dressed to impress at True Damage's sold-out concert in Paris. While the paparazzi swarmed her with photos and questions, she reveled in the attention, knowing this was only the beginning of her empire of celebrity.
+Montse Hernandez
+Jessica 'OwleyCat' Oyhenart
+True Damage
+Loot ineligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Prestige True Damage
+. Store variants are discounted for multiple purchases.
+Lunar Empress
+View in 3D
+1350
+26.01.2023
+For some, forgiveness is a blessing; for Empress Qiyana, it is a necessity. Though the hostility between her empire and the Empire of the Great Sea is the fault of her sisters, she seeks atonement at this year's banquet. The only barrier to a reconciliation with Empress Ashe is her pride... and a centuries-old grudge between her guardian Malphite and a newly resurfaced giant serpent.
+Montse Hernandez
+Augusto Quirino, West Studio
+Lunar Revel
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Lunar Empress Qiyana Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Resplendent
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+La Ilusión
+View in 3D
+1350
+27.09.2023
+Qiyana was a prodigiously self-centered athlete, but after dying during a championship match without warning, her family's love-stricken grief transformed her into an Eidola Vida. Still ashamed of her failure, Qiyana realizes her family never cared about what she did, only who she was. Filled with their love, she's ready to watch over them until the end.
+Montse Hernandez
+Augusto Quirino, West Studio
+La Ilusión
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+La Ilusión Qiyana Chromas
+Amethyst
+Catseye
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Vivida
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.21
+Stats
+Base health regeneration increased to 8 from 6.
+Terrashape
+Bonus AD ratio increased to
+20%
+bonus
+AD
+from
+10%
+.
+V14.16
+Stats
+Base armor increased to 31 from 28.
+Edge of Ixtal
+Base damage changed to 60 / 90 / 120 / 150 / 180 from 50 / 85 / 120 / 155 / 190.
+Bonus AD ratio increased to
+90%
+bonus
+AD
+from
+75%
+.
+Monster damage increased to 175% from 150%.
+Terrashape
+Base damage reduced to 8 / 16 / 24 / 32 / 40 from 8 / 22 / 36 / 50 / 64.
+Supreme Display of Talent
+Bonus AD ratio reduced to
+125%
+bonus
+AD
+from
+170%
+.
+Monster damage cap bonus AD ratio reduced to
+125%
+bonus
+AD
+from
+150%
+.
+Base monster damage cap unchanged.
+V14.15
+General
+Bug Fix:
+Corrected multiple triggers for various voicelines. This also resolves enemies being able to hear VO that is normally only meant for the player.
+V14.1
+Terrashape
+Bug Fix:
+Terrashape
+into
+Edge of Ixtal
+fast buffer no longer sends
+Edge of Ixtal
+towards the 0,0,0 map coordinate.
+Supreme Display of Talent
+Knockback duration increased slightly to reduce chances of it not overlapping with wall stun.
+V13.24
+Stats
+Base mana increased to 375 from 320.
+Mana growth increased to 60 from 50.
+V13.5
+Edge of Ixtal
+Base damage increased to 50 / 85 / 120 / 155 / 190 from 50 / 80 / 110 / 140 / 170.
+Audacity
+Cooldown reduced to 11 / 10 / 9 / 8 / 7 seconds from 12 / 11 / 10 / 9 / 8.
+V13.4
+Royal Privilege
+Bug Fix:
+On-target cooldown reset now behaves more consistently when casting
+Elemental Wrath
+,
+Terrashape
+, and
+Elemental Wrath
+again in quick succession.
+V12.15
+Royal Privilege
+Bonus AD ratio reduced to
+30%
+bonus
+AD
+from
+45%
+.
+Bug Fix:
+No longer applies an extra proc of
+Royal Privilege
+with
+First Strike
+equipped.
+V12.14
+Elemental Wrath
+Bug Fix:
+Casting the ability twice, both before and after using
+Terrashape
+, no longer causes it to deal less damage than intended.
+V12.11
+Edge of Ixtal
+Bug Fix:
+Now consistenly collides with targets that are moving towards the caster.
+V12.10
+Stats
+Base health increased to 590 from 520.
+Health growth increased to 124 from 110.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+V12.4
+Royal Privilege
+Bonus AD ratio reduced to
+45%
+bonus
+AD
+from
+55%
+.
+V12.2
+Stats
+Base health regeneration reduced to 6 from 7.
+5
+.
+Elemental Wrath
+Grass trail duration reduced to 3 seconds from 3.
+5
+.
+V11.22
+Stats
+Base health reduced to 520 from 590.
+Health growth increased to 110 from 90.
+Edge of Ixtal
+Base damage changed to 50 / 80 / 110 / 140 / 170 from 60 / 85 / 110 / 135 / 160.
+Bonus AD ratio reduced to
+75%
+bonus
+AD
+from
+90%
+.
+Audacity
+Base damage increased to 50 / 90 / 130 / 170 / 210 from 50 / 80 / 110 / 140 / 170.
+Bonus AD ratio reduced to
+50%
+bonus
+AD
+from
+70%
+.
+V11.19
+Edge of Ixtal
+Damage against monsters increased to 150% from 125%.
+Edge of Ixtal
+autonomously aiming at
+Audacity's
+target now also requires the enemy champion to be within
+Qiyana's
+basic attack range (150 units) at the end of the dash.
+Bug Fix:
+Cooldown can no longer be sometimes bypassed after casting
+Terrashape
+.
+V11.18
+- September 9th Hotfix
+Edge of Ixtal
+Bug Fix:
+Fixed a bug where displacements would cause the autonomous targeting by casting it during
+Audacity
+to become dysfunctional.
+V11.18
+Stats
+Base health regeneration reduced to 7.
+5
+from 9.
+Base attack speed increased to 0.
+688
+from 0.
+625
+.
+Attack speed ratio unchanged.
+Edge of Ixtal
+Damage against monsters increased to 125% from 100%.
+New Effect:
+If cast during
+Audacity
+and the target uses a dash or blink or is no longer in vision during the dash, the ability will now aim at the target's last position prior to them starting the dash or blink or being in vision.
+Audacity
+Base damage reduced to 50 / 80 / 110 / 140 / 170 from 60 / 90 / 120 / 150 / 180.
+V11.11
+Terrashape
+Bonus movement speed reduced to 3 / 5 / 7 / 9 / 11% from 5 / 7 / 9 / 11 / 13%.
+V11.5
+Terrashape
+Base bonus magic damage damage increased to 8 / 22 / 36 / 50 / 64 from 8 / 16 / 24 / 32 / 40.
+Bonus magic damage AP ratio increased to
+45% AP
+from
+30% AP
+.
+Bonus movement speed increased to 5 / 7 / 9 / 11 / 13% from 5 / 6.
+25
+/ 7.
+5
+/ 8.
+75
+/ 10%.
+Supreme Display of Talent
+Base damage increased to 100 / 200 / 300 from 100 / 170 / 240.
+V11.1
+Stats
+Base health regeneration increased to 9 from 8.
+5
+.
+Health regeneration growth increased to 0.
+9
+from 0.
+65
+.
+Base attack damage increased to 66 from 64.
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.17
+Terrashape
+Bonus AD ratio reduced to
+10%
+bonus
+AD
+from
+20%
+.
+Audacity
+Base damage reduced to 60 / 90 / 120 / 150 / 180 from 60 / 95 / 130 / 165 / 200.
+V10.13
+Elemental Wrath
+Bug Fix:
+Fixed a bug where it would not damage its target if she died before the ability landed.
+V10.12
+Elemental Wrath
+Bug Fix:
+Brush-empowered
+Elemental Wrath
+now properly leaves a stealth trail when she casts it after reviving from something like
+Guardian Angel
+or
+Zilean's
+Time Warp
+.
+V10.6
+General
+Recommended items updated.
+V10.4
+Supreme Display of Talent
+Bug Fix:
+No longer breaks unstoppable animations/abilities when cast in the river or in a brush.
+Bug Fix:
+When casting the ability towards a wall just barely within
+Yasuo's
+Wind Wall
+, she should no longer be able to successfully explode the targeted wall.
+Battle Boss Qiyana
+Royal Privilege
+Bug Fix:
+Cooldown indicator is no longer barely visible in brush.
+V10.2
+Terrashape
+Bonus attack speed changed to 5 / 10 / 15 / 20 / 25% from 20% at all ranks.
+V9.24b
+Edge of Ixtal
+Bug Fix:
+Range indicator now displays the intended range when she hasn't gathered any Elements and "Enable Line Missile" is disabled.
+V9.23
+True Damage Qiyana
+Loading screen border is now uniquely colored per True Damage skin.
+V9.21
+Supreme Display of Talent
+Bug Fix:
+VFX no longer desynchronize with its effects and they properly follow the outline around terrain all the way through from the enemies' perspective if it is cast in Fog of War.
+V9.20
+Edge of Ixtal
+Base damage reduced to 60 / 85 / 110 / 135 / 160 from 80 / 100 / 120 / 140 / 160.
+Elemental Wrath
+Base damage reduced to 60 / 85 / 110 / 135 / 160 from 80 / 100 / 120 / 140 / 160.
+Bug Fix:
+No longer breaks stealth when using
+Terrashape
+.
+V9.17
+Audacity
+Base damage reduced to 60 / 95 / 130 / 165 / 200 from 70 / 105 / 140 / 175 / 210.
+Supreme Display of Talent
+Cooldown increased to 120 seconds at all ranks from 120 / 100 / 80.
+V9.15
+Terrashape
+New Effect:
+Now gains
+River
+Element
+when dashing towards a Health Relic on
+Howling Abyss
+.
+Audacity
+New Effect:
+Now only damages targets if within 250 range at the end of the dash.
+Enemies that dash or
+Flash
+away can now dodge Audacity's damage.
+Supreme Display of Talent
+Cooldown changed to 120 / 100 / 80 seconds from 100 at all ranks.
+V9.14
+- July 22nd Hotfix
+Audacity
+Bug Fix:
+Targets no longer face and cast abilities towards the center of the map when hit by
+Edge of Ixtal
+casted during
+Audacity
+.
+V9.14
+Terrashape
+Bug Fix:
+Passive now triggers correctly with
+Liandry's Torment
+.
+V9.13
+- July 3rd Hotfix
+Edge of Ixtal
+Bug Fix:
+No longer gets locked out of auto-attacking after stealthing from a brush enchanted
+Edge of Ixtal
+.
+V9.13
+- July 2nd Hotfix
+Edge of Ixtal
+Bug Fix:
+No longer gets stuck aiming at the same target for the rest of the game.
+V9.13
+- Added
+Royal Privilege
+(Innate)
+Innate:
+Qiyana's
+next basic attack or damaging ability against a target unit deals
+15 − 83 (based on level)
+(+ 55%
+bonus
+AD)
+(+ 30% AP)
+bonus
+physical damage
+.
+This effect cannot occur on the same target more than once every 25 seconds, not affected by cooldown reduction.
+Royal Privilege's
+cooldown on all targets is
+reset
+upon gathering or changing an
+Element
+.
+Edge of Ixtal
+(Q)
+Active - Edge of Ixtal:
+Qiyana
+slashes forward in a line, dealing 80 / 100 / 120 / 140 / 160
+(+ 90%
+bonus
+AD)
+physical damage
+, reduced to 75% damage against subsequent units beyond the closest.
+Upon gathering an
+Element
+,
+Edge of Ixtal
+is upgraded to
+Elemental Wrath
+and its cooldown is
+reset
+.
+Active - Elemental Wrath:
+Qiyana
+consumes her current
+Element
+and
+hurls
+her blade out instead, which detonates in a line upon colliding with an enemy or reaching maximum range, dealing the same damage to all units hit and applying a bonus effect based on the consumed
+Element
+.
+River
+:
+Roots
+for X seconds, then
+slows
+by 20% for 1 second.
+Wall
+:
+Enemies below
+50% of
+maximum
+health
+take 60%
+bonus
+damage.
+Brush
+:
+The blade raises a
+grass trail
+behind for 3.
+5
+seconds, granting
+Qiyana
+invisibility
+and
+20%
+bonus
+movement speed
+until she attacks or exits.
+Target Range:
+650.
+Mana Cost:
+35.
+Cooldown:
+7 seconds.
+Terrashape
+(W)
+Passive:
+While holding an
+Element
+,
+Qiyana
+gains
+20%
+bonus
+attack speed
+, 25
+bonus
+range, her basic attacks and basic abilities deal 8 / 16 / 24 / 32 / 40
+(+ 20%
+bonus
+AD)
+(+ 30% AP)
+bonus
+magic damage
+, and she gains out-of-combat 5 / 6.
+25
+/ 7.
+5
+/ 8.
+75
+/ 10%
+bonus
+movement speed
+while moving through the
+Element
+currently being held.
+Active:
+Qiyana
+dashes
+towards a target location, potentially gathering an
+Element
+of the
+Wall
+,
+River
+or
+Brush
+she targeted.
+Mana Cost:
+25 / 30 / 35 / 40 / 45.
+Cooldown:
+7 seconds.
+Audacity
+(E)
+Active:
+Qiyana
+dashes
+a fixed distance towards the target unit, dealing 70 / 105 / 140 / 175 / 210
+(+ 70%
+bonus
+AD)
+physical damage
+.
+Casting
+Edge of Ixtal
+during
+Audacity
+will aim at the dash target.
+Target Range:
+650.
+Mana Cost:
+40 / 45 / 50 / 55 / 60.
+Cooldown:
+12 / 11 / 10 / 9 / 8 seconds.
+Supreme Display of Talent
+(R)
+Active:
+Qiyana
+sends a
+windblast
+in the target direction that
+knocks back
+enemies. The
+windblast
+stops upon hitting a
+Wall
+.
+The
+windblast
+then creates a shockwave across any
+River
+or
+Brush
+it passes through, as well as around the borders of
+terrain
+it reaches, dealing 100 / 170 / 240
+(+ 170%
+bonus
+AD)
+(+ 10% of target's
+maximum
+health)
+physical damage
+and
+stunning
+enemies for
+0.
+5
+− 1 (based on proximity)
+seconds. The damage based on the target's health is capped against
+monsters
+at 500 / 750 / 1000
+(+ 150%
+bonus
+AD)
+physical damage
+.
+Target Range:
+950.
+Mana Cost:
+100.
+Cooldown:
+100 seconds.
+Trivia
+[
+edit
+|
+edit source
+]
+While
+Quinn
+was the first champion whose name starts with Q, the then only remaining unused letter in the alphabet regarding champion names prior to her release, Qiyana's release made it so there were at least 2 champions starting with each letter of the alphabet.
+Qiyana
+dabs
+if she uses any emote within 10 seconds of a takedown.
+[2]
+Qiyana is the strongest among the 10 sisters and this might be referring to '1v9,’ a common player term used when both having bad teammates and enemies.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Assassin
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Assassins
+specialize in infiltrating enemy lines with their unrivaled mobility to quickly dispatch high-priority targets. Due to their mostly melee nature, Assassins must put themselves into dangerous positions in order to execute their targets. Luckily, they often have defensive tricks up their sleeves that, if used cleverly, allow them to effectively avoid incoming damage.
+Examples
+Akali
+Evelynn
+Zed
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Terrashape
+COOLDOWN:
+7
+Passive:
+While holding an
+Element
+,
+Qiyana
+gains
+bonus
+attack speed
+and
+attack range
+, as well as
+bonus
+magic damage
+on her basic attacks and basic abilities.
+Qiyana
+gains
+bonus
+movement speed
+speed while moving near the current
+Element
+.
+Active:
+Qiyana
+dashes
+in the target direction to gather the
+Element
+of the nearest
+Brush
+,
+River
+or
+Terrain
+she targeted.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Edge of Ixtal
+COOLDOWN:
+7
+Active:
+Qiyana
+slashes forward in the target direction, dealing
+physical damage
+to enemies hit in a line.
+Gathering an
+Element
+with
+Terrashape
+will
+reset
+the cooldown and upgrades
+Edge of Ixtal
+into
+Elemental Wrath
+.
+Elemental Wrath
+Active:
+Qiyana
+hurls her blade in the target direction that blasts in a line upon hitting an enemy or max range, dealing
+physical damage
+, reduced against enemies beyond the closest. This consumes the current
+Element
+to empower the blade with an additional effect.
+Brush
+:
+The blade creates a grass field around
+Qiyana
+that lasts a short time, granting her
+invisibility
+and
+bonus
+movement speed
+until she attacks or exits the field.
+River
+:
+The blast briefly
+roots
+enemies hit, then briefly
+slows
+them.
+Terrain
+:
+The blast deals
+bonus
+damage
+against enemies
+below half health
+.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Audacity
+COOLDOWN:
+11 / 10 / 9 / 8 / 7
+Active:
+Qiyana
+dashes
+toward the target enemy and deals
+physical damage
+upon arrival.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Invisibility
+Invisibility
+is a form of stealth that renders a unit hidden from enemy
+vision
+for a
+short
+period of time. It can be utilized to sneak in on opponents as well as the ability to reposition in-combat or simply to flee from a skirmish. It also grants
+ghosting
+.
+Invisible
+units can
+only
+be revealed by
+True Sight
+.
+Stealthed
+units shimmer their character model for 0.
+6
+seconds whenever they take damage.
+A unit will shimmer for every instance of damage they take, and shimmering does not make the unit targetable nor remove the
+stealth
+effect, but grants positional information to the enemy.
+League of Legends content
+Root
+A unit that is
+rooted
+is unable to control its movement or activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Rooted
+units can still be displaced.
+Root
+is an
+immobilizing
+effect
+.
+Moving
+includes movement commands.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Magic damage
+Applies:
+Corrupting Potion
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Nullifying Orb
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Summoner's Rift
+The newest and most venerated battleground is known as Summoner's Rift. Traverse down one of three different paths in order to attack your enemy at their weakest point. Work with your allies to siege the enemy base and destroy their Nexus!
+Regular Modes
+Classic 5v5
+Custom
+Featured Game Modes
+Black Market Brawlers
+Doom Bots
+Hexakill
+Hunt of the Blood Moon
+Nemesis Draft
+Nexus Siege
+One For All
+One For All: Mirror Mode
+Ultra Rapid Fire
+League of Legends content
+Brush
+Brush
+is a common terrain feature that obstructs
+sight
+for any unit outside of it.
+League of Legends content
+Brushmaker
+RECHARGE:
+20
+Passive:
+While
+Ivern
+is in
+brush
+, his basic attacks deal
+bonus
+magic damage
+.
+Active:
+Ivern
+grows a patch of
+brush
+at the target location. More brush will be created if grown near
+terrain
+or other brush.
+League of Legends content
+Howling Abyss
+The Howling Abyss is a bottomless crevasse located in the coldest, cruelest, part of the
+Freljord
+. Legends say that, long ago, a great battle took place here on the narrow bridge spanning this chasm. No one remembers who fought here, or why, but it is said that if you listen carefully to the wind you can still hear the cries of the vanquished tossed howling into the Abyss.
+Regular Modes
+Classic 5v5
+(
+All random
+)
+Custom
+Featured Game Modes
+Legend of the Poro King
+One For All
+One For All: Mirror Mode
+Snowdown Showdown
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+References
+[
+edit
+|
+edit source
+]
+↑
+Qiyana's profile page
+at
+LeagueOfLegends.com
+↑
+Qiyana Dabs

@@ -1,0 +1,2439 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Sivir
+the Battle Mistress
+Release date
+2009-02-21
+Last changed
+V14.21
+Class(es)
+Marksman
+Legacy
+Marksman
+Position(s)
+Bottom
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Store price
+450
+|
+260
+Crafting
++
+270
+Ratings
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+1
+Utility
+2
+Style
+Difficulty
+Sivir
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Sivir
+Base statistics
+Edit
+Health
+600
++104
+Mana
+340
++45
+Health regen. (per 5s)
+3.25
++0.55
+Mana regen. (per 5s)
+6
++0.8
+Armor
+30
++4.45
+Attack damage
+60
++2.5
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+335
+Attack range
+500
+Attack speed
+Base AS
+0.625
+Attack windup
+12%
+AS ratio
+N/A
+Bonus AS
++2
+%
+Missile speed
+1750
+Unit radius
+Gameplay radius
+65
+Selection radius
+115
+Pathing radius
+35
+Acq. radius
+500
+Special statistics
+Damage Dealt
+-10%
+Damage Received
++5%
+Damage Dealt
+-5%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-10%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Fleet of Foot
+Innate:
+Sivir's
+basic attacks and damaging abilities against enemy
+champions
+briefly grant her a burst of
+move speed
+.
+Innate:
+Sivir's
+basic attacks
+and
+ability
+hits against enemy
+champions
+grant her
+55 − 75 (based on level)
+bonus
+movement speed
+decaying over 1.
+5
+seconds, refreshing on subsequent hits.
+Info
+Targeting input
+Passive
+No additional details.
+Map-Specific Differences
+Ultra Rapid Fire
+differences
+edit
+Bonus movement speed changed to
+55 / 60 / 65 / 70 / 75 / 80 (based on level)
+.
+Edit
+Boomerang Blade
+COST:
+55 / 60 / 65 / 70 / 75 Mana
+COOLDOWN:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8
+CAST TIME:
+0.
+25
+− 0.
+1
+(based on
+bonus
+attack speed)
+TARGET RANGE:
+1250
+WIDTH:
+180
+/
+200
+SPEED:
+1450
+/
+1200
+Active:
+Sivir
+hurls her crossblade in the target direction that deals
+physical damage
+to enemies hit. At max range, it homes back to
+Sivir
+to deal
+physical damage
+to enemies hit.
+Active:
+Sivir
+hurls her crossblade in the target direction, dealing
+physical damage
+to enemies within its path, increased by
+0% − 50% (based on critical strike chance)
+.
+Physical Damage:
+60 / 85 / 110 / 135 / 160
+(+ 100%
+bonus
+AD)
+(+ 60% AP)
+Boomerang Blade's
+damage is reduced by
+0% − 60% (based on non-champions hit)
+. Upon reaching maximum range, the crossblade returns to her, resetting the damage modifier and dealing the same damage to enemies on its way back.
+Minimum Damage:
+24 / 34 / 44 / 54 / 64
+(+ 40%
+bonus
+AD)
+(+ 24% AP)
+Total Maximum Champion Damage:
+120 / 170 / 220 / 270 / 320
+(+ 200%
+bonus
+AD)
+(+ 120% AP)
+Enemies can be hit only once per pass.
+"Take this!"
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Due to the cast time effectively rounding up to full game ticks, at undesturbed game tick interval times the technical minimum cast time is
+0.
+198
+seconds
+reached at
+99.
+8
+%
+bonus
+attack speed
+.
+This ability will cast from wherever the caster is at the end of the cast time.
+If
+Sivir
+enters
+stasis
+during
+Boomerang Blade's
+initial flight, it will not return to her.
+This will also prevent it from dealing damage a second time.
+The damage reduction per unit hit resets back to full damage upon changing direction.
+Boomerang Blade
+will still return to
+Sivir
+even if she dies before it changes direction.
+Spell shield
+only blocks one instance of damage.
+Map-Specific Differences
+Howling Abyss
+differences
+edit
+Cooldown changed to 14 / 13 / 12 / 11 / 10 seconds.
+Arena
+differences
+edit
+AD ratio changed to
+80 / 85 / 90 / 95 / 100% AD
+.
+Edit
+Ricochet
+COST:
+60 Mana
+COOLDOWN
+:
+12
+CAST TIME:
+none
+EFFECT RADIUS:
+500
+SPEED:
+1750
+/
+1000
+Active:
+Sivir's
+gains
+bonus
+attack speed
+for a few seconds. During this time, her basic attacks create projectiles that repeatedly bounce to nearby surrounding enemies, dealing
+physical damage
+.
+Active:
+Sivir
+empowers her crossblade for the next 4 seconds, gaining
+bonus
+attack speed
+and causing her basic attacks to bounce to additional surrounding enemies, dealing them
+physical damage
+. If the triggering attack
+critically strikes
+, the bounces will do so as well.
+Ricochet
+deals 65% damage against
+minions
+and executes them if they would be left below
+15 health
+.
+Bonus Attack Speed:
+20 / 25 / 30 / 35 / 40%
+Bounce Damage:
+30 / 35 / 40 / 45 / 50% AD
+Minion Bounce Damage:
+19.
+5
+/ 22.
+75
+/ 26 / 29.
+25
+/ 32.
+5
+% AD
+Bounces occur only up to 8 times and can target each enemy up to one additional time per empowered attack. They prioritize the nearest new target, then the nearest target if no new targets are available.
+Ricochet
+resets
+Sivir's
+basic attack timer. The target does not have to be
+visible
+to be bounced to.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Default damage
+Sub-type
+Physical
+Counters
+Spell shield
+Not Blocked
+Parries
+Missing
+Projectile
+Blocked
+Ricochet
+-enhanced basic attacks can bounce from structures onto secondary targets but not from nearby units onto structures.
+PENDING FOR TEST:
+:
+Ricochet's
+interactions with
+dodging
+,
+blocking
+, and
+blinding
+effects.
+Ricochet
+do not apply to additional targets with
+Runaan's Hurricane
+.
+Edit
+Spell Shield
+COOLDOWN:
+24 / 22.
+5
+/ 21 / 19.
+5
+/ 18
+CAST TIME:
+none
+Active:
+Sivir
+briefly gains a
+spell shield
+.
+Sivir
+heals
+herself and activates
+Fleet of Foot
+if it blocks an ability.
+Active:
+Sivir
+gains a
+spell shield
+for 1.
+5
+seconds. Upon successfully blocking a hostile effect, she
+heals
+herself and activates
+Fleet of Foot
+after 0.
+25
+seconds.
+Heal:
+60 / 65 / 70 / 75 / 80% AD
+(+ 50% AP)
+"Nice try."
+Info
+Targeting input
+Auto
+Spell Shield
+will heal and activate
+Fleet of Foot
+if any effect is blocked. This includes effects such as
+champion abilities
+,
+item effects
+,
+Dragon's
+basic attacks, as well as the abilities of
+Baron Nashor
+and
+Rift Herald
+.
+Spell Shield
+will still block abilities that have already been applied to
+Sivir
+if the delayed effects of that ability is
+area of effect
+(e.g.
+Blaze's
+explosion,
+Chum the Waters
+, and
+Time Bomb
+).
+Edit
+On the Hunt
+COST:
+100 Mana
+COOLDOWN
+:
+120 / 100 / 80
+CAST TIME:
+none
+EFFECT RADIUS:
+1000
+Active:
+Sivir
+gains
+On the Hunt
+for a period, and creates an aura that grants allied champions
+On the Hunt
+for the remaining duration.
+Sivir
+can refresh her duration whenever she scores an enemy
+takedown
+within a short time of damaging them.
+On the Hunt:
+Gain
+bonus
+movement speed
+.
+Sivir's
+basic attacks
+reduce
+her current basic ability cooldowns.
+Active:
+Sivir
+gains
+On the Hunt
+for a duration and grants it to nearby allied champions for the remaining duration.
+Buff Duration:
+8 / 10 / 12 seconds
+On the Hunt:
+Gain
+bonus
+movement speed
+.
+Bonus Movement Speed:
+20 / 25 / 30%
+While active,
+Sivir's
+basic attacks
+on-attack
+reduce her basic abilities'
+current
+cooldowns
+by 0.
+5
+seconds each.
+Sivir
+can refresh the duration of her
+On the Hunt
+buff whenever she scores a
+takedown
+against an enemy champion within 3 seconds of damaging them.
+Info
+Targeting input
+Auto
+No additional notes.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Sivir (Collection)
+.
+Original
+View in 3D
+260
+21.02.2009
+Sivir is a renowned fortune hunter and mercenary captain who plies her trade in the deserts of Shurima. Armed with her legendary jeweled crossblade, she has fought and won countless battles for those who can afford her exorbitant price. Known for her fearless resolve and endless ambition, she prides herself on recovering buried treasures from the perilous tombs of Shurima—for a generous bounty. With ancient forces stirring the very bones of Shurima, Sivir finds herself torn between conflicting destinies.
+Alexa Kahn
+Julia Yurtsev
+Loot eligible
+Warrior Princess
+View in 3D
+520
+27.04.2010
+Alexa Kahn
+Unknown artist
+Legacy
+Loot eligible
+Spectacular
+View in 3D
+975
+08.06.2010
+Alexa Kahn
+Unknown artist
+Legacy
+Loot eligible
+Legacy
+Huntress
+View in 3D
+Special
+07.02.2011
+Alexa Kahn
+Unknown artist
+Prehistoric Hunters
+Loot ineligible
+Bandit
+View in 3D
+750
+21.03.2011
+Alexa Kahn
+Unknown artist
+Legacy
+Loot eligible
+PAX
+View in 3D
+Special
+25.08.2011
+A special event skin given away PAX Prime 2011.
+Alexa Kahn
+Unknown artist
+PAX
+Loot ineligible
+Snowstorm
+View in 3D
+975
+19.12.2013
+The wild and brash Battle Mistress known as Sivir cares only for the thrill of combat and the rattle of coin. She relentlessly hunts her bounties across the ice, cutting down opponents with a massive, razor-sharp snowflake as hard and unforgiving as the cruelest snowstorm.
+Alexa Kahn
+Michelle Hoefener
+Winter Wonder
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Snowstorm Sivir Chromas
+Golden
+Warden
+View in 3D
+750
+17.02.2015
+The Wardens, like the Protectorate before them, cannot rely on innumerable conquered peoples to bolster its military as the Marauders do. Sivir, a skilled sellsword, was sworn into the order's ranks, only to take up the cause in earnest when she learned the organization's true purpose.
+Alexa Kahn
+Unknown artist
+Warden
+Loot eligible
+Victorious
+View in 3D
+Special
+12.11.2015
+Victorious Sivir was awarded to players who reached Gold or higher in the 2015 season. As the ultimate battle mistress, Sivir wears a winged crown of victory and wields a golden weapon.
+Alexa Kahn
+Jean 'Curing' Go
+Victorious
+Loot ineligible
+New SFX/VFX
+New Animations/Recall
+Neo PAX
+View in 3D
+Special
+30.08.2017
+A special event skin given away PAX West 2017.
+Alexa Kahn
+Unknown artist
+PAX
+Loot ineligible
+New SFX/VFX
+This skin is a variant of
+PAX
+. Store variants are discounted for multiple purchases.
+Pizza Delivery
+View in 3D
+1350
+29.03.2018
+The fastest pizza delivery girl on the continent, Sivir has racked up an impressive nine consecutive awards from corporate headquarters, and hasn't seen a customer complaint since online reviews were invented. Her vicious rivalry with Birdio is well documented, and the two will do anything to one-up each other.
+Alexa Kahn
+Alex 'alexplank' Flores
+Culinary Masters
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Transforming
+Chromas
+Pizza Delivery Sivir Chromas
+Amethyst
+Aquamarine
+Catseye
+Obsidian
+Rose Quartz
+Blood Moon
+View in 3D
+1350
+10.01.2019
+A newly anointed priestess of the Blood Moon cult, Sivir wields a weapon that is both a killing tool and a key to the hellish mirror world where all demons are born. Slowly but surely, it has merged her twinned selves, and now it is no longer clear where the human ends and the monster begins.
+Alexa Kahn
+Horace 'Hozure' Hsu
+Blood Moon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Blood Moon Sivir Chromas
+Citrine
+Emerald
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Odyssey
+View in 3D
+1350
+15.10.2020
+Sivir runs her own small bounty hunting operation on the fringes of the galaxy. She's self-made and tough, having lost her parents to the Demaxian empire many years prior, but holds on to her soft and sympathetic side despite that hardened exterior. Sivir was hired by Karma, along with the other mercs, to free the captured templars.
+Alexa Kahn
+Kudos Productions
+Odyssey
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Odyssey Sivir Chromas
+Catseye
+Emerald
+Merc
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Cafe Cuties
+View in 3D
+1350
+02.12.2021
+Sivir began as a pastry chef, but has since transitioned to “front-of-house defense specialist”. Her protective nature has gotten her into a few scraps with unruly customers, but Sivir's love of her work, her friends, and the cafe is what she's really fighting for. If you want to talk to the manager, she's got some words for you, too.
+Alexa Kahn
+Ina Wong, West Studio
+Cafe Cuties
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Cafe Cuties Sivir Chromas
+Catseye
+Emerald
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Solar Eclipse
+View in 3D
+1820
+28.04.2022
+A mercenary Eclipse Knight known for her skill in battle and lack of chivalry, Sivir sells her services eliminating witches and monsters who menace the countryside, ignoring threats that do not prove lucrative. Though many knights find nobility in their stated purpose, Sivir cares naught but for coin, pledging to aid her order only in their final, dire hour.
+Alexa Kahn
+David Villegas, West Studio
+Eclipse
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+Solar Eclipse Sivir Chromas
+Catseye
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Mythmaker
+View in 3D
+1350
+12.01.2023
+Once the hero of “The Great Beast Galio”, Sivir's myth-world is forever changed when the Lunar Players interrupt her climactic battle, and she discovers that she is no longer the protagonist. Grappling with the question of who she is if she's not saving the day, Sivir must now carve out a role for herself in a tale whose future is suddenly unwritten.
+Alexa Kahn
+Alsie Lau, West Studio
+Mythmaker
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Mythmaker Sivir Chromas
+Citrine
+Emerald
+Gilded
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Prestige Mythmaker
+View in 3D
+Special
+12.01.2023
+Sivir seeks nothing short of opulence, her beautiful clothes symbols of personal success as much as they are points of sartorial pride. It's important that she looks impeccable: the New Year is here, after all, and starting it off right means stepping out in style.
+Alexa Kahn
+Jennifer Wuestling
+Mythmaker
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Mythmaker
+. Store variants are discounted for multiple purchases.
+Primal Ambush
+View in 3D
+1350
+24.01.2024
+Born into greatness, Sivir quickly discovered that her enhanced capabilities were the key to earning higher mercenary payouts. As a master of instinct, she clawed her way through countless battles and struck down any target in the way of her coin. However, her current bounty, the leader of the Favorclaw, may prove to be a beast beyond even her reach.
+Alexa Kahn
+Su Fu, Kudos Productions
+Primal Ambush
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Primal Ambush Sivir Chromas
+Amethyst
+Citrine
+Emerald
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Ann-Sivir-sary
+View in 3D
+Special
+17.10.2024
+10:27 Riot Annie-Versary(Annie) signals that enemies are missing
+10:27 Riot Annie-Versary(Annie) signals that enemies are missing
+10:27 Riot Annie-Versary(Annie) signals that enemies are missing
+10:27 Riot Annie-Versary(Annie) signals that…
+Alexa Kahn
+Jiunn Kuo, Kudos Productions
+Fist Bumps and Festivities
+Loot ineligible
+New SFX/VFX
+New Animations/Recall
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.21
+Stats
+Base attack damage increased to 60 from 58.
+Boomerang Blade
+Base damage increased to 60 / 85 / 110 / 135 / 160 from 15 / 30 / 45 / 60 / 75.
+AD ratio changed to
+100%
+bonus
+AD
+at all ranks from
+80 / 85 / 90 / 95 / 100%
+total
+AD
+.
+V14.5
+Stats
+Base armor increased to 30 from 26.
+V13.12
+Stats
+Attack damage growth reduced to 2.
+5
+from 2.
+8
+.
+Ricochet
+AD ratio increased to
+30 / 35 / 40 / 45 / 50% AD
+from
+25 / 30 / 35 / 40 / 45% AD
+.
+V13.10
+Boomerang Blade
+Bug Fix:
+Return missile targeting back to
+Sivir
+can now properly be created when she is
+untargetable
+or has entered
+stasis
+while it was being sent out.
+V13.9
+General
+New splash artwork for
+Original Sivir
+.
+V13.5
+General
+Bug Fix:
+Now properly plays her voiceover interaction with
+Azir
+.
+V13.1b
+Stats
+Mana growth increased to 45 from 40.
+Ricochet
+Mana cost reduced to 60 at all ranks from 60 / 65 / 70 / 75 / 80.
+V12.17
+Stats
+Attack damage growth reduced to 2.
+8
+from 3.
+Ricochet
+AD ratio reduced to
+25 / 30 / 35 / 40 / 45% AD
+from
+30 / 35 / 40 / 45 / 50% AD
+.
+V12.15
+Stats
+Attack damage growth reduced to 3 from 3.
+3
+.
+Spell Shield
+Cooldown increased to 24 / 22.
+5
+/ 21 / 19.
+5
+/ 18 seconds from 22 / 20 / 18 / 16 / 14.
+On the Hunt
+Cooldown increased to 120 / 100 / 80 seconds from 100 / 85 / 70.
+V12.14
+Boomerang Blade
+Bug Fix:
+Cast time reduced to
+0.
+25
+− 0.
+1
+(based on
+bonus
+attack speed)
+from
+0.
+25
+− 0.
+188
+(based on
+bonus
+attack speed)
+.
+Due to the cast time effectively rounding up to full game ticks, at undisturbed game tick interval times the technical minimum cast time is now
+0.
+132
+seconds
+reached at
+94.
+4
+%
+bonus
+attack speed
+, from
+0.
+198
+seconds
+reached at
+99.
+8
+%
+bonus
+attack speed
+.
+Ricochet
+Damage against minions reduced to 65% from 80%.
+New Effect:
+Bounces now execute minions that are left below 15 health.
+V12.13
+- July 13th Hotfix
+Boomerang Blade
+Base damage reduced to 15 / 30 / 45 / 60 / 75 from 25 / 40 / 55 / 70 / 85.
+Ricochet
+Mana cost increased to 60 / 65 / 70 / 75 / 80 from 60 at all ranks.
+Cooldown increased to 12 seconds from 10.
+V12.13
+- Gameplay Update
+Stats
+Base attack damage reduced to 58 from 63.
+Base health reduced to 600 from 632.
+Base mana increased to 340 from 325.
+Base mana regeneration reduced to 6 from 8.
+Attack damage growth increased to 3.
+3
+from 3.
+Attack speed growth increased to 2% from 1.
+6
+%.
+Mana growth reduced to 40 from 50.
+Mana regeneration growth reduced to 0.
+8
+from 0.
+9
+.
+Fleet of Foot
+Duration reduced to 1.
+5
+seconds from 2.
+New Effect:
+Bonus movement speed now decays over the duration.
+Bonus movement speed increased to
+55 − 75 (based on level)
+from
+35 − 55 (based on level)
+.
+Boomerang Blade
+Base damage reduced to 25 / 40 / 55 / 70 / 85 from 35 / 50 / 65 / 80 / 95.
+AD ratio changed to
+80 / 85 / 90 / 95 / 100% AD
+from
+70 / 85 / 100 / 115 / 130% AD
+.
+AP ratio increased to
+60% AP
+from
+50% AP
+.
+New Effect:
+Damage is now increased by
+0% − 50% (based on critical strike chance)
+.
+Cooldown increased to 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8 seconds from 7 at all ranks.
+New Effect:
+Cast time now scales down to 0 seconds based on bonus attack speed.
+Mana cost reduced to 55 / 60 / 65 / 70 / 75 from 70 / 80 / 90 / 100 / 110.
+Outgoing missile speed increased to 1450 from 1350.
+Returning missile speed reduced to 1200 from 1350.
+Ricochet
+Removed:
+No longer ends after 3 attacks.
+Duration increased to 4 seconds from 3.
+New Effect:
+Now grants
+20 / 25 / 30 / 35 / 40%
+bonus
+attack speed
+while active.
+Removed:
+No longer able to bounce to new targets indefinitely.
+New Effect:
+Basic attacks bounce to other nearby enemies, up to 8 total bounces. Bounces can target each enemy up to one additional time per attack. Bounces prioritize the nearest new target, then the nearest target if no new targets are available.
+AD ratio reduced to
+30 / 35 / 40 / 45 / 50% AD
+from
+30 / 45 / 60 / 75 / 90% AD
+.
+Bounce range increased to 500 units from 450.
+Bounce speed increased to 1000 from 700.
+Mana cost reduced to 60 from 75.
+Damage against minions reduced to 80% from 100%.
+Cooldown changed to 10 seconds at all ranks from 12 / 10.
+5
+/ 9 / 7.
+5
+/ 6.
+Bug Fix:
+Now deals the correct amount of damage to
+Zyra's
+Plants
+.
+Spell Shield
+Removed:
+No longer restores 110 / 120 / 130 / 140 / 150 mana upon successfully blocking a hostile effect.
+New Effect:
+Now restores
+60 / 65 / 70 / 75 / 80% AD
+(+ 50% AP)
+health after 0.
+25
+seconds of successfully blocking a hostile effect.
+New Effect:
+Now activates
+Fleet of Foot
+after 0.
+25
+seconds of successfully blocking a hostile effect.
+Cooldown increased to 22 / 20 / 18 / 16 / 14 seconds from 22 / 19 / 16 / 13 / 10.
+On the Hunt
+Cooldown reduced to 100 / 85 / 70 seconds from 120 / 100 / 80.
+Removed:
+No longer grants her
+30 / 45 / 60%
+bonus
+attack speed
+while
+Ricochet
+is active.
+Removed:
+Bonus movement speed no longer decays after 2 / 3 / 4 seconds.
+Bonus movement speed reduced to 20 / 25 / 30% from 40 / 50 / 60%.
+Duration increased to 8 / 10 / 12 seconds from 8 at all ranks.
+New Effect:
+Duration is now refreshed upon scoring a takedown against enemy champions damaged within the last 3 seconds.
+New Effect:
+Basic attacks now reduce basic ability cooldowns by 0.
+5
+seconds while active.
+V12.11
+Boomerang Blade
+Bug Fix:
+Now is audible to allies even if the target is hit while not in sight.
+V12.10
+Stats
+Base health increased to 632 from 562.
+Health growth increased to 104 from 90.
+Armor growth increased to 4.
+45
+from 3.
+25
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V11.16
+Ricochet
+AD ratio increased to
+30 / 45 / 60 / 75 / 90% AD
+from
+30 / 40 / 50 / 60 / 70% AD
+.
+V11.1
+- January 6th Hotfix
+Stats
+Base mana increased to 325 from 284.
+Boomerang Blade
+Damage fall-off now resets when the boomerang begins to return.
+V10.19
+Fleet of Foot
+Bonus movement speed increased to
+35 − 55 (based on level)
+from
+30 − 50 (based on level)
+.
+V10.16
+Fleet of Foot
+Bug Fix:
+SFX has been restored across all skins, including the base.
+V10.11
+Stats
+Base health increased to 562 from 532.
+Health growth increased to 90 from 88.
+V10.10
+Spell Shield
+Mana restored increased to 110 / 120 / 130 / 140 / 150 from 80 / 95 / 110 / 125 / 140.
+V10.9
+General
+New voice lines from Ascension added.
+V10.5
+Boomerang Blade
+Base damage reduced to 35 / 50 / 65 / 80 / 95 from 35 / 55 / 75 / 95 / 115.
+AD ratio increased to
+70 / 85 / 100 / 115 / 130% AD
+from
+70 / 80 / 90 / 100 / 110% AD
+.
+On the Hunt
+Minimum bonus movement speed increased to 20 / 25 / 30% from 20% at all ranks.
+V9.24
+Stats
+Base attack damage increased to 63 from 61.
+V9.17
+Ricochet
+Bug Fix:
+Now properly bounces when recast when she reaches 45% CDR by holding
+Spear of Shojin
+or
+Cosmic Insight
+.
+V9.16
+Ricochet
+AD ratio reduced to
+30 / 40 / 50 / 60 / 70% AD
+from
+50 / 55 / 60 / 65 / 70% AD
+.
+V9.13
+Stats
+Attack damage growth reduced to 3 from 3.
+11
+.
+Base mana regeneration reduced to 8 from 8.
+012
+.
+Ricochet
+Mana cost increased to 75 from 60.
+V9.4
+Ricochet
+Bug Fix:
+AD ratio reduced to
+50 / 55 / 60 / 65 / 70% AD
+from
+55 / 60 / 65 / 70 / 75% AD
+.
+V9.1
+Boomerang Blade
+Hitting an enemy champion no longer decreases
+Boomerang Blade's
+damage against subsequent targets.
+Ricochet
+Undocumented:
+AD ratio increased to
+55 / 60 / 65 / 70 / 75% AD
+from
+50 / 55 / 60 / 65 / 70% AD
+On the Hunt
+New Effect:
+Ability icon HUD now shows the remaining duration of the ability.
+V8.14
+Boomerang Blade
+Cooldown reduced to 7 seconds from 9.
+V8.11
+Stats
+Base health increased to 532 from 515.
+76
+.
+Health growth increased to 88 from 82.
+Base armor reduced to 26 from 31.
+Base health regeneration reduced to 3.
+25
+from 5.
+Base attack damage reduced to 61 from 65.
+Attack damage growth increased to 3.
+11
+from 2.
+41
+.
+V8.7
+Pizza Delivery Sivir
+Bug Fix:
+No longer uses classic VFX and SFX when using her auto attacks.
+Bug Fix:
+Auto attack projectile is no longer misaligned.
+V8.3
+Stats
+Base health regeneration reduced to 5 from 5.
+174
+.
+V7.22
+Stats
+Base attack damage increased to 65 from 57.
+46
+.
+Base armor increased to 31 from 22.
+21
+.
+V7.19
+Spell Shield
+Now block only the first ability that hits, rather than every ability that hits at the same time the shield is broken.
+V7.18
+Spell Shield
+Bug Fix:
+Fixed a bug where it could block summoner spells if they were cast at the same time as any ability.
+V7.17
+Neo PAX Sivir
+New loot-exclusive skin, available from 8/31/17 (11:00 PT) until 1/8/18 (23:59 PT) for
+10
+.
+Original PAX Sivir
+owners will automatically receive
+Neo PAX Sivir
+and a special loading border for their original skin. The original PAX Sivir will
+not
+be given away, added to loot, or made available again.
+V7.15
+July 26th Hotfix
+Boomerang Blade
+Base damage reduced to 35 / 55 / 75 / 95 / 115 from 55 / 75 / 95 / 115 / 135.
+V7.15
+Boomerang Blade
+Base damage increased to 55 / 75 / 95 / 115 / 135 from 25 / 45 / 65 / 85 / 105.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.5
+Boomerang Blade
+Bug Fix:
+Fixed a bug where it disappeared into the ground if thrown at a higher-elevation location.
+V6.17
+Ricochet
+Base damage reduced to
+50 / 55 / 60 / 65 / 70% AD
+from
+60 / 65 / 70 / 75 / 80% AD
+.
+On the Hunt
+Passive bonus attack speed reduced to 30 / 45 / 60% from 40 / 60 / 80%.
+V6.9
+General
+New splash artwork for
+PAX Sivir
+.
+V6.8
+General
+Splash artwork for
+Warrior Princess Sivir
+,
+Spectacular Sivir
+,
+Huntress Sivir
+,
+Bandit Sivir
+and
+PAX Sivir
+updated to the Chinese art.
+V6.4
+Ricochet
+New Effect:
+If Sivir critically strikes her target the bounces will do so as well.
+V5.24
+Ricochet
+AD ratio increased to
+60 / 65 / 70 / 75 / 80% AD
+from
+50 / 55 / 60 / 65 / 70% AD
+.
+V5.22
+Stats
+Attack damage increased to 57.
+46
+from 52.
+04
+.
+Attack damage growth reduced to 2.
+41
+from 3.
+Attack speed reduced to 0.
+625
+from 0.
+66
+.
+Attack delay increased to 0 from  −  0.
+05
+.
+Ricochet
+Cooldown beginning changed to on-cast from after all attacks being used.
+Cooldown increased to 12 / 10.
+5
+/ 9 / 7.
+5
+/ 6 seconds from 9 / 8 / 7 / 6 / 5.
+Duration reduced to 4 seconds from 6.
+V5.15
+On the Hunt
+Initial bonus movement speed reduced to 40 / 50 / 60% from 60 at all ranks.
+Allied bonus movement speed and its duration changed to match Sivir's remaining ones depending on when allies get in range.
+V5.11
+On the Hunt
+Initial bonus movement speed duration reduced to 2 / 3 / 4 seconds from 2 / 4 / 6.
+V4.16
+General
+Additional quotes, including special quotes for Ascension.
+V4.15
+Boomerang Blade
+Collision damage application changed to edge of projectile from center.
+Range increased to 1250 from 1175 to match visuals.
+Bug Fix:
+Whenever projectile return began Sivir's basic attacks would cancel.
+V4.13
+On the Hunt
+Initial bonus movement speed duration increased to 2 / 4 / 6 seconds from 2 / 3 / 4.
+V4.10
+General
+Base mana increased to 250 from 246.
+Mana per level increased to 50 from 43.
+Mana regen per level increased to 0.
+9
+from 0.
+5
+.
+V4.5
+Stats
+Armor increased to 16.
+75
+from 12.
+75
+.
+V4.4
+Boomerang Blade
+Per-target damage reduction increased to 15% from 10.
+Ricochet
+Mana cost increased to 60 from 40.
+Spell Shield
+Mana gain increased to 80 / 95 / 110 / 125 / 140 from 60 / 75 / 90 / 105 / 120.
+V3.15
+Fleet of Foot
+Bonus movement speed reduced to
+30 / 35 / 40 / 45 / 50 (based on level)
+from 50 at all levels.
+Spell Shield
+Duration reduced to 1.
+5
+seconds from 3.
+On the Hunt
+Allied duration reduced to 8 seconds from 10.
+Initial bonus movement speed duration changed to 2 / 3 / 4 seconds from 4 at all ranks.
+Cooldown increased to 120 / 100 / 80 from 120 / 90 / 60.
+V3.14
+Boomerang Blade
+Damage changed to 25 / 45 / 65 / 85 / 105
+(+ 70 / 80 / 90 / 100 / 110% AD)
+from 60 / 105 / 150 / 195 / 240
+(+ 110% Bonus AD)
+.
+Per-target damage reduction reduced to 10% from 20.
+V3.13
+General
+Visual Update.
+New models and textures for all skins.
+New splash artwork
+Original Sivir
+.
+New voice-over.
+Stats
+Attack speed per level reduced to 1.
+6
+% from 3.
+28
+.
+Ricochet
+Number of bouncing basic attacks increased to 3 from 1.
+Per-bounce damage reduction changed to
+50 / 55 / 60 / 65 / 70% AD
+from 20% total damage.
+Removed:
+Maximum number of bounces.
+New Effect:
+Enemies can only be hit once.
+Cooldown increased to 9 / 8 / 7 / 6 / 5 seconds from 7 / 6 / 5 / 4 / 3.
+Spell Shield
+Mana cost reduced to 0 from 75.
+Mana gain reduced to 60 / 75 / 90 / 105 / 120 mana from 150 at all ranks.
+On the Hunt
+Removed:
+Self and allied bonus attack speed.
+New Effect:
+Sivir passively gains 40 / 60 / 80% bonus attack speed while
+Ricochet
+is active.
+Bonus movement speed changed to 60% decaying to 20 after 4 seconds to 20% for the duration.
+Cooldown changed to 120 / 90 / 60 seconds from 100 / 90 / 80.
+Removed:
+Cast time.
+V3.6
+Fleet of Foot
+New Effect:
+Triggers when
+Boomerang Blade
+and
+Ricochet
+hit enemy champions.
+V3.02
+Ricochet
+Bug Fix:
+Early-ranks cooldown longer than intended.
+V1.0.0.152
+Stats
+Movement speed increased to 335 from 310.
+V1.0.0.139
+Boomerang Blade
+AD ratio increased to
+(+ 110% Bonus AD)
+from
+(+ 100% Bonus AD)
+.
+V1.0.0.133
+Boomerang Blade
+Base damage reduced to 60 / 105 / 150 / 195 / 240 from 70 / 115 / 160 / 205 / 250.
+AD ratio reduced to
+(+ 100% Bonus AD)
+from
+(+ 110% Bonus AD)
+.
+On the Hunt
+Bonus movement speed reduced to 20% from 25.
+Duration reduced to 10 seconds from 15.
+V1.0.0.131
+General
+Recommended items updated.
+Boomerang Blade
+Base damage reduced to 70 / 115 / 160 / 205 / 250 from 80 / 125 / 170 / 215 / 260.
+New Effect:
+Has a
+(+ 50% AP)
+ratio.
+Ricochet
+Per-bounce damage reduction reduced to 20% from 25.
+Bug Fix:
+Costing additional mana on throwing the projectile.
+V1.0.0.130
+Gameplay Update
+General
+Basic attack projectile speed increased to 1400 from 1200.
+Attack frames updated to be more responsive.
+Recommended items updated.
+Stats
+Attack range increased to 500 from 425.
+Attack speed reduced to 0.
+658
+from 0.
+679
+.
+Attack damage reduced to 49 from 52.
+11
+.
+Fleet of Foot
+Removed:
+Dodge chance while moving.
+Sivir's basic attacks against enemy champions grant her 50 bonus movement speed for 2 seconds.
+Boomerang Blade
+Mana cost reduced to 70 / 80 / 90 / 100 / 110 from 80 / 90 / 100 / 110 / 120.
+Damage changed to physical from magic.
+AD ratio increased to
+(+ 110% Bonus AD)
+from
+(+ 100% Bonus AD)
+.
+Removed:
+(+ 75% AP)
+ratio.
+Ricochet
+Removed:
+Toggle.
+New Effect:
+Sivir's next basic attack bounces to 5 additional targets dealing 20 / 35 / 50 / 65 / 80
+(+ 100% AD)
+physical damage to the first target and 25% reduced damage to each subsequent one.
+Cooldown 7 / 6 / 5 / 4 / 3 seconds.
+Cost: 40 Mana.
+On the Hunt
+New Effect:
+For the duration allies who didn't get the bonuses on-cast will get them if they get in range of Sivir.
+Bonus attack speed changed to 30 / 45 / 60% from 30 / 60 / 90.
+Allied bonus attack speed increased to 50% from 33.
+Cooldown changed to 100 / 90 / 80 seconds from 90 at all ranks.
+Trivia
+[
+edit
+|
+edit source
+]
+Sivir, the Battle Mistress
+Sivir is
+voiced
+by
+Rebecca Schweitzer
+.
+Original Morgana
+is also voiced by the same voice actress.
+Sivir was the first champion to have a 10-point-rating for
+Ability Power
+.
+In the
+2009 Official Teaser Trailer
+for
+League of Legends
+as well as in one of the
+concept art
+for her, Sivir had pink hair.
+In the
+Founding Interns of League of Legends YouTube video
+uploaded by the
+Riot Games
+Channel
+, concept art for Sivir was shown to depict her with blonde hair and an overall wildly different design.
+The moments she appears in the video are
+here
+and
+here
+.
+Sivir is the second to feature two '
+Champion Spotlights
+' due to significant gameplay changes (the others being
+Ezreal
+,
+Karma
+,
+Katarina
+, and
+Lee Sin
+).
+Sivir was one of the first six champions designed, together with
+Annie
+,
+Lee Sin
+,
+Singed
+,
+Sion
+, and
+Twisted Fate
+.
+[2]
+[3]
+Sivir
+resembles Latin adjective
+severus
+"grim, stern, strict".
+Sivir, the Battle Mistress
+Sivir's
+Chalicar's
+name and design were inspired by the Indian
+chakram
+.
+Her dance references the Arm Wave
+dance
+.
+A side-by-side comparison can be seen
+here.
+Sivir was going to have an
+e-sports skin
+to celebrate
+SK Telecom T1
+winning the Season 5 World Championship.
+SKT T1
+Bang
+(the one she represented) requested she be swapped for
+SKT T1 Kalista
+after
+the whole set
+was pulled from
+PBE
+back in
+V6.8
+to be updated.
+Sivir is voiced by
+Alexa Kahn
+in
+Legends of Runeterra
+.
+[4]
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Marksman
+Marksmen
+(formerly "Carries") excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger. Although Marksmen have the ability to stay relatively safe by kiting their foes, they are very fragile and are extremely reliant on powerful item purchases to become true damage threats.
+At present, Marksmen do not have any official subclasses. The following have been considered:
+Demolisher
+Scrapper
+Examples
+Ashe
+Ezreal
+Lucian
+Kai'Sa
+Jhin
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Bottom
+Within a
+drafted team
+, the
+Bottom Carry
+is one of the two champions assigned to the bottom lane alongside the
+Support
+. Being the most vulnerable, the
+Bottom Carry
+has to acquire as much gold as possible to purchase key items that will greatly increase their fighting potential.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Bottom Carry
+is expected to fulfill the former designation: the position is made for champions that highly depend on item-based power spikes.
+Marksmen
+are the most likely champions to be selected in the
+Bottom Carry
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Ultra Rapid Fire (U.R.F.)
+Ultra Rapid Fire
+is a
+Featured Game Mode
+that takes place on
+Summoner's Rift
+with the same objective as
+Classic 5v5
+, except all
+champions
+benefit from the
+Awesome Buff of Awesomely Awesome Buffing
+that grants excessive  ability haste and removes ability costs. The gameplay is
+explosive
+. The game mode can be played as
+All Random
+or
+Blind pick
+depending on the year.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Howling Abyss
+The Howling Abyss is a bottomless crevasse located in the coldest, cruelest, part of the
+Freljord
+. Legends say that, long ago, a great battle took place here on the narrow bridge spanning this chasm. No one remembers who fought here, or why, but it is said that if you listen carefully to the wind you can still hear the cries of the vanquished tossed howling into the Abyss.
+Regular Modes
+Classic 5v5
+(
+All random
+)
+Custom
+Featured Game Modes
+Legend of the Poro King
+One For All
+One For All: Mirror Mode
+Snowdown Showdown
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Default damage
+Default damage
+is dealt by effects that are not otherwise classified, or are deliberately left unclassified. This most common source of
+default damage
+is splash damage from basic attacks.
+Default damage
+does not interact with most other effects, such as
+Conqueror
+stacking,
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of the damage's non-reactive nature (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Fleet of Foot
+Innate:
+Sivir's
+basic attacks and damaging abilities against enemy
+champions
+briefly grant her a burst of
+move speed
+.
+League of Legends content
+Blaze
+Innate:
+Brand's
+abilities apply a stack of
+Ablaze
+to enemies hit. Subsequent abilities used against a target with
+Ablaze
+are empowered. Killing an enemy afflicted with
+Ablaze
+or with an ability restores
+mana
+.
+At three stacks,
+champions
+and large
+monsters
+become unstable and explode, dealing
+magic damage
+to nearby enemies and applying a stack of
+Ablaze
+.
+Ablaze
+cannot stack more than once on enemies who have recently exploded.
+Ablaze:
+While afflicted with
+Ablaze
+, the target is continually dealt
+magic damage
+equal to a portion of
+their
+maximum
+health
+.
+League of Legends content
+Chum the Waters
+COOLDOWN:
+100 / 85 / 70
+Active:
+Fizz
+tosses a lure in the target direction that lands on the ground, attracting a shark that erupts after a short delay, dealing
+magic damage
+to nearby enemies,
+knocking them back
+and
+slowing
+them.
+The farther the lure flies, the larger the shark that is attracted, increasing the effects.
+The lure attaches to the first enemy champion that touches it,
+slowing
+them. The shark will
+knockup
+the target instead of knocking them back.
+League of Legends content
+Time Bomb
+COOLDOWN:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8
+Active:
+Zilean
+throws a ticking time bomb to the target location that will attach upon enemy contact,
+revealing
+them. It will detonate after a short time or when the attached unit dies, dealing
+magic damage
+to nearby enemies hit.
+The bomb will detonate immediately if another bomb attaches to the same target, briefly
+stunning
+enemies hit.
+League of Legends content
+Takedown
+Takedown
+refers to a
+kill
+or
+assist
+being acceptable, with the type of enemy specified in each use case.
+Takedown
+is associated with triggering a
+passive
+effect, or timed effects shortly after scoring.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Boomerang Blade
+COOLDOWN:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8
+Active:
+Sivir
+hurls her crossblade in the target direction that deals
+physical damage
+to enemies hit.
+At max range, it homes back to
+Sivir
+to deal
+physical damage
+to enemies hit.
+League of Legends content
+Ricochet
+COOLDOWN:
+12
+Active:
+Sivir's
+gains
+bonus
+attack speed
+for a few seconds. During this time, her basic attacks create projectiles that repeatedly bounce to nearby surrounding enemies, dealing
+physical damage
+.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Stasis
+A unit that is in
+stasis
+is unable to control its movement, declare attacks, cast abilities, activate items or use
+any
+summoner spell
+for the duration, while also being
+invulnerable
+and
+untargetable
+.
+Stasis
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), all
+channeled and charged
+abilities and all
+dashes
+and
+displacements
+. Units that are being
+knocked up
+will be placed on the ground, but aren't
+knocked down
+(the
+airborne
+status is not removed in this case).
+Reduction:
+The
+duration
+is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Epic monsters
+and
+turrets
+are special cased to be affected by
+stasis
+despite them being
+crowd control immune
+.
+Removal:
+Cannot be removed by any means (except through
+death
+), and will prevent the activation of abilities that would usually remove
+crowd control
+effects.
+Quicksilver
+will either be placed on a short cooldown, remain usable, or become disabled.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Spell Shield
+COOLDOWN:
+24 / 22.
+5
+/ 21 / 19.
+5
+/ 18
+Active:
+Sivir
+briefly gains a
+spell shield
+.
+Sivir
+heals
+herself and activates
+Fleet of Foot
+if it blocks an ability.
+References
+[
+edit
+|
+edit source
+]
+↑
+Sivir's profile page
+at
+LeagueOfLegends.com
+↑
+@Riot, the first champion EVER made
+↑
+Guinsoo expanding first roster to six champions
+↑
+fizzNchips on LoR Sivir's VA

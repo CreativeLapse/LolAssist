@@ -1,0 +1,2405 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Vayne
+the Night Hunter
+Release date
+2011-05-10
+Last changed
+V14.22
+Class(es)
+Marksman
+Legacy
+Marksman
+Assassin
+Position(s)
+Bottom
+Top
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Store price
+3150
+|
+790
+Crafting
++
+1890
+Ratings
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Vayne
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Vayne
+Base statistics
+Edit
+Health
+550
++103
+Mana
+232
++35
+Health regen. (per 5s)
+3.5
++0.55
+Mana regen. (per 5s)
+7
++0.4
+Armor
+23
++4.6
+Attack damage
+60
++2.35
+Magic resist.
+30
++1.3
+Crit. damage
+175%
+Move. speed
+330
+Attack range
+550
+Attack speed
+Base AS
+0.658
+Attack windup
+17.544%
+AS ratio
+N/A
+Bonus AS
++3.3
+%
+Missile speed
+2000
+Unit radius
+Gameplay radius
+65
+Selection radius
+120
+Pathing radius
+35
+Acq. radius
+575
+Special statistics
+Damage Dealt
++5%
+Damage Received
+-5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-3%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Night Hunter
+EFFECT RADIUS:
+2000
+Innate:
+Vayne
+gains
+bonus
+movement speed
+while facing a nearby enemy champion, significantly increased during
+Final Hour
+.
+Innate:
+Vayne
+gains
+30
+bonus
+movement speed
+while facing a nearby
+visible
+enemy champion, increased to
+90
+while under the effects of
+Final Hour
+.
+Info
+Targeting input
+Passive
+The
+bonus
+movement speed persists for 2 seconds after
+Vayne
+loses
+sight
+of an enemy champion.
+Edit
+Tumble
+COST:
+30 Mana
+COOLDOWN
+:
+6 / 5 / 4 / 3 / 2
+CAST TIME:
+none
+RANGE:
+300
+SPEED:
+500 +
+total
+movement speed
+Active:
+Vayne
+dashes
+in the target direction. Her next basic attack within a few seconds will deal
+bonus
+physical damage
+.
+Active:
+Vayne
+dashes
+a fixed distance in the target direction, though not through terrain, and empowers her next
+basic attack
+within 3 seconds to have an
+uncancelable windup
+and deal
+bonus
+physical damage
+.
+Bonus Physical Damage:
+75 / 85 / 95 / 105 / 115% AD
+(+ 50% AP)
+Tumble
+resets
+Vayne's
+basic attack timer.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Counters
+Parries
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+The bonus damage applies
+life steal
+.
+Although
+Tumble
+will reset the basic attack timer,
+Vayne
+cannot attack until the animation is complete.
+Vayne
+can cast
+Final Hour
+during
+Tumble
+. She does not become
+invisible
+during the dash.
+Map-Specific Differences
+Arena
+differences
+edit
+AD ratio changed to
+50 / 60 / 70 / 80 / 90% AD
+.
+Edit
+Silver Bolts
+Passive:
+Vayne's
+basic attacks and
+Condemn
+will apply a stack of
+Silver Bolts
+, which expires upon attacking a new enemy. The third stack will consume them all to deal
+bonus
+true damage
+based on the
+target's
+maximum
+health
+.
+Passive:
+Vayne's
+basic attacks
+on-hit
+and
+Condemn
+apply a
+stack
+of
+Silver Bolts
+for 3.
+5
+seconds, refreshing on subsequent applications, expiring upon attacking a new enemy, and stacking up to 3 times.
+The third stack consumes them all to deal
+bonus
+true damage
+, with a minimum threshold. This damage is capped at 200 against
+monsters
+.
+Bonus True Damage:
+6 / 7 / 8 / 9 / 10% of target's
+maximum
+health
+Minimum Bonus Damage:
+50 / 65 / 80 / 95 / 110
+"Purge with silver."
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+True
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Stacks
+are not removed if
+Vayne
+switches to attacking a target immune to
+Silver Bolts
+(
+structures
+,
+wards
+).
+Silver Bolts
+do not apply to additional targets with
+Runaan's Hurricane
+.
+The stacks can be consumed even if the target is in
+stasis
+.
+The attacks do not affect
+structures
+nor
+wards
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Damage changed to
+4 / 4.
+5
+/ 5 / 5.
+5
+/ 6% of target's
+maximum
+health
+.
+Edit
+Condemn
+COST:
+90 Mana
+COOLDOWN:
+20 / 18 / 16 / 14 / 12
+CAST TIME:
+0.
+25
+TARGET RANGE:
+550
+SPEED:
+2200
+/
+2000
+Active:
+Vayne
+fires a heavy bolt at the target enemy that deals
+physical damage
+and
+knocks them back
+. If the target hits
+terrain
+, they are briefly
+stunned
+and dealt
+bonus
+physical damage
+.
+Active:
+Vayne
+fires a heavy bolt at the target enemy that deals
+physical damage
+and
+knocks them back
+475 units, though not through terrain.
+Physical Damage:
+50 / 85 / 120 / 155 / 190
+(+ 50%
+bonus
+AD)
+If the target collides with
+terrain
+, they take
+bonus
+physical damage
+and become
+stunned
+for 1.
+5
+seconds.
+Bonus Physical Damage:
+75 / 127.
+5
+/ 180 / 232.
+5
+/ 285
+(+ 75%
+bonus
+AD)
+Total Physical Damage:
+125 / 212.
+5
+/ 300 / 387.
+5
+/ 475
+(+ 125%
+bonus
+AD)
+Info
+Targeting input
+Unit
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Condemn's
+displacement
+direction is determined at the end of the cast time.
+Because of this,
+Vayne
+may use
+Flash
+during the cast time to create a better angle.
+Cleansing
+the
+knock back
+will also end the displacement early.
+The
+spell indicator
+for this ability also displays the direction for the knock back relative to
+Vayne's
+position.
+Condemn's
+stun
+duration starts when
+Vayne's
+target collides with a wall (they can be immobilized for up to 2 seconds depending on
+displacement
+duration based on distance traveled).
+Condemn's
+missile will fail to fire if
+Vayne
+is
+suppressed
+during the cast time.
+(note)
+Condemn
+can interact with
+player-generated terrain
+.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+Edit
+Final Hour
+COST:
+80 Mana
+COOLDOWN
+:
+100 / 85 / 70
+CAST TIME:
+none
+Active:
+Vayne
+equips her crossbow for a long duration, gaining
+attack damage
+. During
+Final Hour
+,
+Night Hunter
+grants increased
+movement speed
+, and
+Tumble
+is empowered to have a
+reduced
+cooldown and grant
+Vayne
+invisibility
+. Scoring a
+takedown
+extends
+Final Hour's
+duration.
+Active:
+Vayne
+equips her crossbow, gaining
+bonus
+attack damage
+for a duration.
+Effect Duration:
+8 / 10 / 12 seconds
+Bonus Attack Damage:
+35 / 50 / 65
+While active,
+Final Hour
+empowers
+Night Hunter
+to have tripled
+bonus
+movement speed
+and
+Tumble
+to have a reduced
+cooldown
+. Additionally,
+Tumble's
+cast grants
+Vayne
+invisibility
+for 1 second. Attacking or casting abilities ends the stealth immediately.
+Tumble
+Cooldown Reduction:
+30 / 40 / 50%
+Scoring an enemy champion
+takedown
+within 3 seconds of damaging them will extend
+Final Hour's
+duration by 4 seconds, up to its original duration.
+"Time for reckoning."
+Info
+Targeting input
+Auto
+Vayne's
+animations and basic attack projectiles change slightly during
+Final Hour
+.
+Tumble's
+visual effects can be seen by enemies upon
+Vayne
+becoming invisible.
+Using a basic attack breaks the stealth at the start of the attack windup.
+Map-Specific Differences
+Arena
+differences
+edit
+Bonus attack damage changed to 10 / 20 / 30.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Vayne (Collection)
+.
+Original
+View in 3D
+880
+10.05.2011
+Shauna Vayne is a deadly, remorseless Demacian monster hunter, who has dedicated her life to finding and destroying the demon that murdered her family. Armed with a wrist-mounted crossbow and a heart full of vengeance, she is only truly happy when slaying practitioners or creations of the dark arts, striking from the shadows with a flurry of silver bolts.
+Nika Futterman
+Pan Chengwei
+Loot eligible
+Vindicator
+View in 3D
+520
+10.05.2011
+Nika Futterman
+Unknown artist
+Trick-or-Treat
+Loot eligible
+Legacy
+Aristocrat
+View in 3D
+520
+10.05.2011
+Vayne never imagined slaying monsters would bring her fame and fortune. Now that she has them, she finds it terribly difficult to return to a life when her crossbow and arrows weren't made from pure gold.
+Nika Futterman
+Katie 'TeaTime' De Sousa
+High Society
+Loot eligible
+Dragonslayer
+View in 3D
+975
+24.08.2011
+Many heeded the call of the dragonslayers as they mustered their forces, from common cutpurses to fabled monster hunters. Vayne was one such legendary recruit—for what is a dragon, if not the deadliest beast of all?
+Nika Futterman
+Unknown artist
+Dragon World
+Loot eligible
+New SFX/VFX
+Chromas
+Dragonslayer Vayne Chromas
+Green
+Red
+Silver
+Heartseeker
+View in 3D
+975
+14.02.2012
+Take a tumble with Heartseeker Vayne, the season of romance's number one exterminator of supernatural horrors! With her trusty crossbow, iron will, and years of brutal training, she'll make sure no heart will ever escape her grasp.
+Nika Futterman
+Unknown artist
+Heartbreakers
+Loot eligible
+Legacy
+New SFX/VFX
+SKT T1
+View in 3D
+750
+04.05.2014
+Honoring Piglet's winning performance as Vayne during the 2013 World Championship.
+Nika Futterman
+Bo Lu
+World Champions: 2013
+Loot eligible
+Legacy
+New SFX/VFX
+Arclight
+View in 3D
+975
+20.04.2015
+Empowered by the Arclight, the slayer Vayne was shown the creeping darkness lurking beneath the foundations of the world. Tasked to fight it back at all costs, she will stop at nothing to drive each new horror from whence it came.
+Nika Futterman
+Sixmorevodka Studio
+Arclight
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Soulstealer
+View in 3D
+Special
+28.07.2016
+Once a hunter of all things tainted, Vayne has become the very thing she sought to destroy. Her twisted mind warps her perception, causing her to see an enemy in every living thing. She takes souls with impunity, with no stain of these vile deeds upon her conscience.
+Nika Futterman
+Esben Lash Rasmussen
+Soulstealer
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Soulstealer Vayne Chromas
+First Decennial
+Tenfold Triumph
+PROJECT
+View in 3D
+1820
+22.11.2017
+Augmented with classified tech, Vayne was once a member of PROJECT's counter-espionage unit. After she was betrayed by the corporation she served, she now stalks the shadows as a vigilante, searching for ways to break PROJECT and the technology that haunts her soul.
+Alexa Kahn
+Pan Chengwei
+PROJECT
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Firecracker
+View in 3D
+1350
+28.01.2019
+Vayne has donned her finest Lunar Revel garb in her endless quest to root out evil everywhere, including citywide celebrations. One would assume it's better not to spend holidays around a grown woman shooting firecrackers out of a metal wrist-pig, but it's been that kind of year.
+Nika Futterman
+Bo 'chenbowow' Chen
+Lunar Revel: Firecracker
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Firecracker Vayne Chromas
+Golden Tiger
+Prestige Firecracker
+View in 3D
+Special
+28.01.2019
+Vayne has donned her even finer Lunar Revel garb, noting the growing anxiety around her explosive-shooting metal wrist-pig. Fashion upgrades solve all problems.
+Nika Futterman
+Bo 'chenbowow' Chen
+Lunar Revel: Firecracker
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Firecracker
+. Store variants are discounted for multiple purchases.
+Spirit Blossom
+View in 3D
+1350
+22.07.2020
+Vayne came from a lost clan of monster hunters, annihilated to the last when the primordial demon of pain chanced upon their hidden village. Unable to let go, and doomed to her own obsessions for eternity, she hunts the creature without end, always unable to catch it.
+Nika Futterman
+Unknown artist
+Spirit Blossom
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Spirit Blossom Vayne Chromas
+Citrine
+Emerald
+Night Blossom
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+FPX
+View in 3D
+1350
+30.04.2020
+Honoring LWX's winning performance as Vayne during the 2019 World Championship with the help of Lil'Black, Lil'Orange, Firmiana and Lil'White.
+Nika Futterman
+Pan Chengwei
+World Champions: 2019
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+FPX Vayne Chromas
+Elite
+Sentinel
+View in 3D
+1820
+08.07.2021
+Ever striving to become a better monster hunter, Vayne joins the Sentinels primarily to advance her own arsenal and learn from their battle with the Black Mist. It doesn't hurt that she is also defending Runeterra from evil, of course. If she must endure the friendship of a fool like Graves to do so, she will. The cause is worth it.
+Alexa Kahn
+Jennifer Wuestling
+Sentinels of Light
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+Chromas
+Sentinel Vayne Chromas
+Amethyst
+Emerald
+Resolute
+Rose Quartz
+Ruby
+Sapphire
+Battle Bat
+View in 3D
+1350
+31.03.2022
+Vayne is Anima Squad's premiere intel expert, infiltrating enemy strongholds to strike first, strike fast, and strike hard. She's willing to do anything it takes to ensure humanity's survival, even if sometimes that means butting heads with the leadership of Commander Fortune.
+Nika Futterman
+Jennifer Wuestling
+Anima Squad
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Battle Bat Vayne Chromas
+Citrine
+Emerald
+Nightwire
+Obsidian
+Rose Quartz
+Ruby
+Sandstone
+Sapphire
+Turquoise
+Prestige Firecracker (2022)
+View in 3D
+Special
+01.04.2022
+Vayne has donned her even finer Lunar Revel garb, noting the growing anxiety around her explosive-shooting metal wrist-pig. Fashion upgrades solve all problems.
+Nika Futterman
+Bo 'chenbowow' Chen
+Lunar Revel: Firecracker
+Loot ineligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Prestige Firecracker
+. Store variants are discounted for multiple purchases.
+Dawnbringer
+View in 3D
+1350
+20.04.2023
+An overconfident god keen to show her potential to the Dawnbringers, Vayne ruthlessly hunts the Nightbringers out of her deep fear of the gods' foretold destruction. So violent are her actions that she undermines herself by leaving even more chaos in her wake. Still, she hopes killing Jarvan will be enough to cement her standing within the light.
+Nika Futterman
+Su Fu, Kudos Productions
+Nightbringer and Dawnbringer
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dawnbringer Vayne Chromas
+Citrine
+Emerald
+Obsidian
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Dragonmancer
+View in 3D
+1350
+09.01.2024
+Vayne vowed to hunt the blazing, rotting forces that arose from Brand's destruction. She never faltered, even when cornered on a remote coast, where she fought to the brink of death. By fate, her narrow victory coincided with the turn of a new night, and the Midnight Dragon came down to imbue her spirit with blessed darkness, sharp as draconic scales.
+Nika Futterman
+Pandart Studio
+Dragonmancers
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dragonmancer Vayne Chromas
+Amethyst
+Citrine
+Emerald
+Obsidian
+Pearl
+Ruby
+Sapphire
+Turquoise
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.22
+Final Hour
+Attack damage increased to 35 / 50 / 65 from 25 / 40 / 55.
+V14.9
+General
+Adjusted splash artwork for
+SKT T1 Vayne
+and
+FPX Vayne
+..
+V14.6
+Tumble
+Bug Fix:
+Animation no longer sometimes stutters upon issuing movement commands at a very  used during
+Final Hour
+.
+V14.5
+Night Hunter
+Bonus movement speed reduced to 30 from 45.
+Tumble
+Cooldown increased to 6 / 5 / 4 / 3 / 2 seconds from 4 / 3.
+5
+/ 3 / 2.
+5
+/ 2.
+V14.2
+Tumble
+New Effect:
+Empowered attack's windup is now
+uncancelable
+.
+V13.20
+Night Hunter
+Bug Fix:
+Movement speed buff is now properly displayed in the buff bar when it is active.
+V13.18
+General
+Updated ability icons.
+V13.15
+Final Hour
+Bug Fix:
+Casting
+Tumble
+now properly triggers the invisibility.
+V13.10
+Tumble
+New Effect:
+Damage now scales with
+50% AP
+.
+V13.6
+Night Hunter
+Bonus movement speed increased to 45 from 30.
+Bonus movement speed during
+Final Hour
+unchanged.
+Tumble
+Duration reduced to 3 seconds from 7.
+AD ratio increased to
+75 / 85 / 95 / 105 / 115% AD
+from
+60 / 65 / 70 / 75 / 80% AD
+.
+Silver Bolts
+Health ratio changed to
+6 / 7 / 8 / 9 / 10% of target's
+maximum
+health
+from
+4 / 6 / 8 / 10 / 12%
+.
+V12.22
+Stats
+Attack damage growth reduced to 2.
+35
+from 2.
+36
+.
+Base mana increased to 232 from 231.
+8
+.
+Base mana regeneration increased to 7 from 6.
+97
+.
+V12.10
+- May 25th Hotfix
+Stats
+Base health reduced to 550 from 585.
+Silver Bolts
+Health ratio reduced to
+4 / 6 / 8 / 10 / 12% of target's
+maximum
+health
+from
+4 / 6.
+5
+/ 9 / 11.
+5
+/ 14%
+.
+V12.10
+Stats
+Base health increased to 585 from 515.
+Health growth increased to 103 from 89.
+Armor growth increased to 4.
+6
+from 3.
+4
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V12.2
+General
+Updated visual effects.
+Original Vayne
+Complete overhaul.
+Dragonslayer Vayne
+Recolored from base with added smoke and flames.
+Heartseeker Vayne
+Recolored from base with heart in W decal.
+SKT T1 Vayne
+Same as new base, different missiles to match model.
+Arclight Vayne
+Recolored from base with more golden, divine sparks.
+V11.24
+- December 15th Hotfix
+Final Hour
+Bonus attack damage reduced to 25 / 40 / 55 from 35 / 50 / 65.
+V11.22
+PROJECT: Vayne
+Bug Fix:
+Voiceover issues have been fixed.
+V11.21
+Tumble
+New Effect:
+Now trigger spell effects when dealing damage.
+V10.20
+Tumble
+Bug Fix:
+The sound that plays when she enters stealth no longer cuts off from the enemy perspective.
+PROJECT: Vayne
+Bug Fix:
+When hit by an enemy, she will now make metallic sounds instead of the normal blood/flesh sounds.
+V10.19
+Final Hour
+Bonus attack damage increased to 35 / 50 / 65 from 25 / 40 / 55.
+V10.11
+Tumble
+AD ratio increased to
+60 / 65 / 70 / 75 / 80% AD
+from
+50 / 55 / 60 / 65 / 70% AD
+.
+V10.6
+General
+Recommended items updated.
+V10.4
+PROJECT: Vayne
+Final Hour
+Bug Fix:
+HUD no longer disappears prematurely.
+V9.19
+Final Hour
+Bonus attack damage increased to 25 / 40 / 55 from 20 / 30 / 40.
+V9.15
+Condemn
+Wall increased damage 150% from 100%.
+New Effect:
+Now deals
+Condemn's
+damage instantly, instead of after the knockback.
+V9.11
+- May 30th Hotfix
+Final Hour
+Bug Fix:
+Fixed a bug where it removed
+Night Hunter's
+bonus movement speed instead of tripling it.
+V9.10
+Final Hour
+Tumble
+cooldown reduction reduced to 30 / 40 / 50% from 50% at all ranks.
+V9.3
+Prestige Firecracker Vayne
+Condemn
+Bug Fix:
+Projectile color has been slightly changed to disambiguate it from her
+Final Hour
+basic attacks.
+V9.1
+Tumble
+New Effect:
+Ability icon HUD now shows the remaining duration for the empowered attack.
+Final Hour
+New Effect:
+Tumble
+cooldown now reduced by 50% when
+Final Hour
+is active.
+New Effect:
+Ability icon HUD now shows the remaining duration of the ability.
+V8.18
+Tumble
+Cooldown reduced to 4 / 3.
+5
+/ 3 / 2.
+5
+/ 2 seconds from 6 / 5 / 4 / 3 / 2.
+V8.14
+Silver Bolts
+Target's health ratio increased to
+4 / 6.
+5
+/ 9 / 11.
+5
+/ 14% of target's
+maximum
+health
+from
+4 / 6 / 8 / 10 / 12%
+.
+V8.11
+Stats
+Base health increased to 515 from 498.
+44
+.
+Health growth increased to 89 from 83.
+Base armor reduced to 23 from 28.
+Base health regeneration reduced to 3.
+5
+from 5.
+5
+.
+Base attack damage reduced to 60 from 64.
+Attack damage growth increased to 2.
+36
+from 1.
+66
+.
+V8.3
+Stats
+Base health regeneration increased to 5.
+5
+from 5.
+424
+.
+V8.2
+Stats
+Attack speed growth reduced to 3.
+3
+% from 4%.
+Condemn
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+Final Hour
+Bonus attack damage reduced to 20 / 30 / 40 from 30 / 50 / 70.
+V8.1
+Tumble
+Bug Fix:
+Her first
+Tumble
+attack out of
+Final Hour's
+stealth can now correctly be heard/seen.
+V7.24
+PROJECT: Vayne
+Bug Fix:
+No longer triggers ward placement VO lines when using a
+Health Potion
+.
+Bug Fix:
+Hair and cape now loop fluently during idle animations.
+V7.22
+Stats
+Base attack damage increased to 64 from 55.
+88
+.
+Base armor increased to 28 from 19.
+012
+.
+Condemn
+Base damage increased to 50 / 85 / 120 / 155 / 190 from 45 / 80 / 115 / 150 / 185.
+V7.19
+Tumble
+Removed:
+Bonus damage being able to critically strike.
+Bonus damage increased to
+50 / 55 / 60 / 65 / 70% AD
+from
+30 / 35 / 40 / 45 / 50% AD
+.
+Silver Bolts
+True damage reduced to
+4 / 6 / 8 / 10 / 12% of target's
+maximum
+health
+from
+6 / 7.
+5
+/ 9 / 10.
+5
+/ 12%
+.
+Minimum true damage changed to 50 / 65 / 80 / 95 / 110 from 40 / 60 / 80 / 100 / 120.
+Final Hour
+New Effect:
+The duration of
+Final Hour
+is extended by 4 seconds whenever a champion damaged by
+Vayne
+dies within 3 seconds.
+Final Hour's duration cannot be increased beyond its original maximum duration.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.8
+Dragonslayer Vayne
+Green Chroma
+Bug Fix:
+Made easier to see on Summoner's Rift.
+V6.24
+Tumble
+Bonus damage reduced to
+30 / 35 / 40 / 45 / 50% AD
+from
+30 / 40 / 50 / 60 / 70% AD
+.
+V6.22
+Final Hour
+Stealth reclassified as
+invisibility
+.
+V6.20
+Tumble
+Bug Fix:
+Vayne being able to go through some walls.
+V6.17
+Tumble
+Bonus damage increased to
+30 / 40 / 50 / 60 / 70% AD
+from
+30 / 35 / 40 / 45 / 50% AD
+.
+V6.16
+Tumble
+Bug Fix:
+Incorrectly damaging inhibitors and the nexus.
+V6.15
+Tumble
+New Effect:
+Affects turrets.
+Bug Fix:
+Tumble's bonus damage and Vayne's basic attack no longer crit independently of one another. If one crits, so does the other.
+V6.8
+General
+Splash artwork for
+Vindicator Vayne
+, updated to the Chinese art.
+V5.22
+Stats
+Base attack damage increased to 55.
+88
+from 50.
+46
+.
+Attack damage growth reduced to 1.
+66
+from 3.
+25
+.
+Tumble
+Duration increased to 7 seconds from 6.
+Silver Bolts
+Removed:
+Flat damage.
+New Effect:
+Deals 40 / 60 / 80 / 100 / 120 minimum damage.
+Health ratio increased to
+6 / 7.
+5
+/ 9 / 10.
+5
+/ 12% of target's
+maximum
+health
+from
+4 / 5 / 6 / 7 / 8%
+.
+V5.20
+Stats
+Base attack damage reduced to 50.
+46
+from 53.
+V5.14
+Tumble
+Cooldown start changed to when Vayne attacks from upon hitting a target.
+New Effect:
+Enhanced attack is consumed even if target becomes invulnerable/untargetable while projectile is traveling.
+V4.16
+Condemn
+New Effect:
+Interacts with player-created terrain (
+Crystallize
+,
+Emperor's Divide
+,
+Cataclysm
+,
+Pillar of Ice
+)
+V4.15
+General
+New splash artwork for
+Original Vayne
+.
+V4.13
+General
+Attack speed per level increased to 4% from 3.
+1
+%.
+Tumble
+Bug Fix:
+Bonus damage having an extra
+10% AD
+ratio during
+Final Hour
+.
+Final Hour
+Bonus AD increased to 30 / 50 / 70 from 25 / 40 / 55.
+V4.5
+Stats
+Base armor increased to 13.
+3
+from 9.
+3
+.
+V3.15
+Condemn
+Bug Fix:
+Targets sometimes not being stunned if they move/are displaced right when projectile hits and they collide with a wall.
+V3.14
+Condemn
+Removed:
+Vayne being able to queue up a basic attack after hitting enemy champions.
+Bug Fix:
+Targets briefly becoming unable to perform any actions after being displaced (even if they were not stunned)
+Damage application changed to after target's displacement from when projectile hits.
+New Effect:
+Damage text uses critical strike format when target collides with a wall.
+V3.10
+Condemn
+Bug Fix:
+Cast range being longer than intended (650 instead of the intended 550)
+Final Hour
+Cooldown increased to 100 / 85 / 70 seconds from 70.
+V3.6
+Condemn
+Range updated to match Vayne's basic attack range.
+V3.03
+Stats
+Mana per level increased to 35 from 27.
+Tumble
+Mana cost reduced to 30 from 40.
+V1.0.0.152
+Stats
+Movement speed increased to 330 from 305.
+V1.0.0.147b
+Stats
+Movement speed increased to 305 from 300.
+V1.0.0.142
+General
+Ability tooltips updated.
+V1.0.0.132
+Stats
+Base movement speed reduced to 300 from 305.
+Night Hunter
+Bonus movement speed reduced to 30 from 40.
+Tumble
+Bonus damage reduced to
+30 / 35 / 40 / 45 / 50% AD
+from
+40 / 45 / 50 / 55 / 60% AD
+.
+Final Hour
+Tumble
+stealth duration reduced to 1 second from 1.
+5
+.
+V1.0.0.130
+Condemn
+Bug Fix:
+Small errors.
+November 17th Hotfix
+Condemn
+Bug Fix:
+Not applying
+Silver Bolts
+stacks on targets hit.
+V1.0.0.122
+Silver Bolts
+Bug Fix:
+Stacks still applying if Vayne is blinded.
+V1.0.0.120
+Tumble
+Bonus damage reduced to
+40 / 45 / 50 / 55 / 60% AD
+from
+55 / 60 / 65 / 70 / 75% AD
+.
+Silver Bolts
+Removed:
+Third stack being blocked by
+spell shields
+.
+Condemn
+Base damage reduced to 45 / 80 / 115 / 150 / 185 from 50 / 90 / 130 / 170 / 210.
+Final Hour
+Night Hunter
+bonus movement speed while active reduced to
+「 300% from 400% 」
+「 120 from 160 」
+.
+Bonus AD reduced to 25 / 40 / 55 from 35 / 55 / 75.
+V1.0.0.119
+General
+Adjusted splash artwork for
+Vindicator Vayne
+.
+V1.0.0.118b
+Stats
+Attack range reduced to 550 from 555.
+Base movement speed reduced to 305 from 310.
+Tumble
+Mana cost increased to 40 from 35.
+Silver Bolts
+Base damage reduced to 20 / 30 / 40 / 50 / 60 from 30 / 40 / 50 / 60 / 70.
+Condemn
+Base damage reduced to 50 / 90 / 130 / 170 / 210 from 60 / 100 / 140 / 180 / 220.
+May 10th Hotfix
+Silver Bolts
+Bug Fix:
+Sometimes causing infinite
+Guardian Angel
+revival loops.
+V1.0.0.118
+Added
+Trivia
+[
+edit
+|
+edit source
+]
+Vayne is
+voiced
+by
+Nika Futterman
+.
+Vayne's dance references
+gun fu
+, also known as the
+Gun Kata
+.
+A side-by-side comparison can be seen
+here.
+Silver Bolts
+references
+werewolf fiction
+, possibly inspired by silver's & other heavy metals'
+antimicrobial properties
+.
+Vayne,
+Aatrox
+and
+Viego
+are currently the only champions with an ability named the same as their title (
+Night Hunter
+,
+The Darkin Blade
+, and
+Blade of the Ruined King
+).
+As per her retconned lore, Vayne hunts and kills monsters, hybrids, shape-shifters, etc. not due to any ethical guidelines, but to satisfy her bloodlust, making her resemble
+Dexter Morgan
+, a fictional serial killer who mostly targets other morally deplorable murderers.
+Similarly, Vayne & Dexter both developed
+killing urge
+after witnessing their respective parents being murdered (Vayne's father & mother; Dexter's
+mother
+).
+Vayne
+,
+Warwick
+and
+Trundle
+are the only champions without damaging area-of-effect abilities.
+Vayne was nearly cancelled due to her concept artist unable to properly concept her with a big hat.
+[2]
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Marksman
+Marksmen
+(formerly "Carries") excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger. Although Marksmen have the ability to stay relatively safe by kiting their foes, they are very fragile and are extremely reliant on powerful item purchases to become true damage threats.
+At present, Marksmen do not have any official subclasses. The following have been considered:
+Demolisher
+Scrapper
+Examples
+Ashe
+Ezreal
+Lucian
+Kai'Sa
+Jhin
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Bottom
+Within a
+drafted team
+, the
+Bottom Carry
+is one of the two champions assigned to the bottom lane alongside the
+Support
+. Being the most vulnerable, the
+Bottom Carry
+has to acquire as much gold as possible to purchase key items that will greatly increase their fighting potential.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Bottom Carry
+is expected to fulfill the former designation: the position is made for champions that highly depend on item-based power spikes.
+Marksmen
+are the most likely champions to be selected in the
+Bottom Carry
+position.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Final Hour
+COOLDOWN:
+100 / 85 / 70
+Active:
+Vayne
+equips her crossbow for a long duration, gaining
+attack damage
+.
+During
+Final Hour
+,
+Night Hunter
+grants increased
+movement speed
+, and
+Tumble
+is empowered to have a
+reduced
+cooldown and grant
+Vayne
+invisibility
+.
+Scoring a
+takedown
+extends
+Final Hour's
+duration.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Invisibility
+Invisibility
+is a form of stealth that renders a unit hidden from enemy
+vision
+for a
+short
+period of time. It can be utilized to sneak in on opponents as well as the ability to reposition in-combat or simply to flee from a skirmish. It also grants
+ghosting
+.
+Invisible
+units can
+only
+be revealed by
+True Sight
+.
+Stealthed
+units shimmer their character model for 0.
+6
+seconds whenever they take damage.
+A unit will shimmer for every instance of damage they take, and shimmering does not make the unit targetable nor remove the
+stealth
+effect, but grants positional information to the enemy.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Condemn
+COOLDOWN:
+20 / 18 / 16 / 14 / 12
+Active:
+Vayne
+fires a heavy bolt at the target enemy that deals
+physical damage
+and
+knocks them back
+.
+If the target hits
+terrain
+, they are briefly
+stunned
+and dealt
+bonus
+physical damage
+.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+True damage
+Applies:
+Corrupting Potion
+Omnivamp
+Mitigated by:
+Damage shields
+Invulnerability
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Ward
+Wards
+are deployable units that that grant
+sight
+over the surrounding area. They can only be destroyed by
+basic attacks
+, granting
+gold
+and
+experience
+.
+There are three kinds of deployable
+wards
+available for purchase:
+Control Ward
+,
+Warding Totem
+, and
+Farsight Alteration
+. Other types of wards, such as
+Zombie Ward
+, are usable through various means.
+League of Legends content
+Stasis
+A unit that is in
+stasis
+is unable to control its movement, declare attacks, cast abilities, activate items or use
+any
+summoner spell
+for the duration, while also being
+invulnerable
+and
+untargetable
+.
+Stasis
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), all
+channeled and charged
+abilities and all
+dashes
+and
+displacements
+. Units that are being
+knocked up
+will be placed on the ground, but aren't
+knocked down
+(the
+airborne
+status is not removed in this case).
+Reduction:
+The
+duration
+is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Epic monsters
+and
+turrets
+are special cased to be affected by
+stasis
+despite them being
+crowd control immune
+.
+Removal:
+Cannot be removed by any means (except through
+death
+), and will prevent the activation of abilities that would usually remove
+crowd control
+effects.
+Quicksilver
+will either be placed on a short cooldown, remain usable, or become disabled.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Cleanse
+A unit that is
+cleansed
+has all applicable
+crowd control
+status effects removed.
+Due to the nature of the
+cleanse
+interaction, cleansing abilities and effects remain castable in circumstances that would otherwise inhibit casting, unless special-cased.
+"
+Cleanse
+" does not always refer to the act of removing
+all
+crowd control effects, some sources would specify only one or a few types of crowd control.
+A
+cleanse
+does not remove
+Stasis
+, but will remove the disable portion of
+Airborne
+.
+League of Legends content
+Suppression
+A unit that is
+suppressed
+is unable to control its movement, declare attacks, cast abilities, activate items or use
+any
+summoner spell
+for the duration.
+Suppression
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+with the exceptions of
+Cleanse
+and
+Mikael's Blessing
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Night Hunter
+Innate:
+Vayne
+gains
+bonus
+movement speed
+while facing a nearby enemy champion, significantly increased during
+Final Hour
+.
+League of Legends content
+Tumble
+COOLDOWN:
+6 / 5 / 4 / 3 / 2
+Active:
+Vayne
+dashes
+in the target direction. Her next basic attack within a few seconds will deal
+bonus
+physical damage
+.
+References
+[
+edit
+|
+edit source
+]
+↑
+Vayne's profile page
+at
+LeagueOfLegends.com
+↑
+FeralPony on Hat Vayne

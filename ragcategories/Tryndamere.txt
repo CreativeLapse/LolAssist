@@ -1,0 +1,2482 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Tryndamere
+the Barbarian King
+Release date
+2009-05-01
+Last changed
+V14.20
+Class(es)
+Skirmisher
+Legacy
+Fighter
+Assassin
+Position(s)
+Top
+Resource
+Fury
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+1350
+|
+585
+Crafting
++
+810
+Ratings
+Damage
+3
+Toughness
+2
+Control
+1
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Tryndamere
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Tryndamere
+Base statistics
+Edit
+Health
+696
++108
+Resource
+N/A
+Health regen. (per 5s)
+8.5
++0.9
+Secondary Bar
+Fury
+(100)
+Armor
+33
++4.8
+Attack damage
+66
++4
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+345
+Attack range
+175
+Attack speed
+Base AS
+0.67
+Attack windup
+19%
+AS ratio
+0.694
+Bonus AS
++3.4
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+135
+Pathing radius
+35
+Acq. radius
+400
+Special statistics
+Damage Dealt
++10%
+Damage Received
+-10%
+Healing
++35%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Battle Fury
+Innate:
+Tryndamere
+generates
+Fury
+on his
+basic attacks
+,
+critical strikes
+, and enemy kills. His
+Fury
+begins to decay after a period without dealing or taking damage.
+Tryndamere
+gains
+critical strike chance
+based on his
+Fury
+.
+Innate:
+Tryndamere
+generates
+5 Fury
+on his
+basic attacks
+, and
+10 Fury
+on
+critical strikes
+and each time he kills an enemy. After 8 seconds without dealing or taking damage,
+Tryndamere
+loses
+5 Fury
+per second.
+Tryndamere
+gains
+0% − 50% (based on Fury)
+critical strike chance
+.
+Info
+Targeting input
+Passive
+Fury
+generation stacks additively: if the given action triggers multiple ways of generating
+Fury
+, all of them apply.
+Killing an enemy with a basic attack
+basic attack
+generates
+15 Fury
+(
+5 Fury
+from the
+basic attack
++
+10 Fury
+from the kill).
+Killing an enemy with a
+critical strike
+generates
+20 Fury
+(
+10 Fury
+from the
+critical strike
++
+10 Fury
+from the kill).
+The
+Fury
+gain for killing an enemy also stacks with
+Spinning Slash
+'s
+Fury
+generation per enemy hit.
+Attacks against
+structures
+will not grant bonus
+Fury
+, but will still reset the timer on
+Fury
+decay.
+Attacks against
+wards
+behave like attacks on normal enemies, generating
+5 Fury
+and resetting the decay timer. Attacks against wards can
+critically strike
+, generating
+10 Fury
+.
+Attacks against
+jungle plants
+will generate
+5 Fury
+and reset the decay timer. Attacks can also
+critically strike
+, generating
+10 Fury
+. Additionally,
+Honeyfruit
+drops restore
+5 Fury
+for each pod collected and reset the decay timer.
+Attacking an
+Honeyfruit
+and collecting the pods generates
+30 Fury
+, or
+35 Fury
+if the plant was hit by a
+critical strike
+.
+Fury
+is only granted if the
+basic attack
+hits and will not be granted if
+Tryndamere
+cancels his
+basic attack
+windup.
+Map-Specific Differences
+Arena
+differences
+edit
+Fury generation changed to 150%.
+Edit
+Bloodlust
+COST:
+100%
+Current
+Fury
+COOLDOWN:
+12
+CAST TIME:
+none
+Passive:
+Tryndamere
+gains
+bonus
+attack damage
+, increased based on
+his
+missing
+health
+.
+Active:
+Tryndamere
+consumes all of his
+Fury
+to
+heal
+himself based on
+Fury
+consumed.
+Passive:
+Tryndamere
+gains
+bonus
+attack damage
+, plus an additional amount based on his
+missing
+health
+.
+Bonus Attack Damage:
+5 / 10 / 15 / 20 / 25
+Additional Bonus AD:
+0.
+15
+/ 0.
+25
+/ 0.
+35
+/ 0.
+45
+/ 0.
+55
+per
+1%
+missing
+health
+Maximum Total Bonus AD:
+20 / 35 / 50 / 65 / 80
+Active:
+Tryndamere
+consumes all of his
+Fury
+to
+heal
+himself, increased for every point of
+Fury
+consumed.
+Minimum Heal:
+30 / 40 / 50 / 60 / 70
+(+ 30% AP)
+Heal Per 1 Fury:
+0.
+5
+/ 0.
+95
+/ 1.
+4
+/ 1.
+85
+/ 2.
+3
+(+ 1.
+2
+% AP)
+Maximum Heal:
+80 / 135 / 190 / 245 / 300
+(+ 150% AP)
+Info
+Targeting input
+Auto
+Bloodlust
+can still be activated even if
+Tryndamere
+does not have any
+Fury
+.
+Bloodlust
+can be activated at any point of
+Tryndamere's
+basic attack
+.
+Note that if an
+basic attack
+will
+critically strike
+is determined when the
+basic attack
+starts.
+This means that if
+Bloodlust
+is cast during Tryndamere's
+basic attack
+windup, the attack will use the
+critical strike
+chance given by the
+Fury
+before
+the
+Bloodlust
+cast.
+Furthermore, the
+Fury
+for that
+basic attack
+will be given once the windup completes. This lets
+Tryndamere
+start building
+Fury
+immediately.
+Map-Specific Differences
+Arena
+differences
+edit
+Base heal changed to 60 / 80 / 100 / 120 / 140.
+Heal AP ratio changed to
+50% AP
+.
+Heal per 1 Fury changed to 1 / 1.
+75
+/ 2.
+5
+/ 3.
+25
+/ 4.
+Heal per 1 Fury AP ratio changed to
+2% AP
+.
+Edit
+Mocking Shout
+COOLDOWN:
+14
+CAST TIME:
+0.
+3
+EFFECT RADIUS:
+850
+Active:
+Tryndamere
+reduces the
+attack damage
+of nearby champions for a few seconds. Targets facing away from him are also
+slowed
+.
+Active:
+Tryndamere
+reduces the
+attack damage
+of nearby enemy champions for 4 seconds.
+Attack Damage Reduction:
+20 / 35 / 50 / 65 / 80
+Targets facing in the opposite direction of
+Tryndamere
+are also
+slowed
+for the duration.
+Slow:
+30 / 37.
+5
+/ 45 / 52.
+5
+/ 60%
+A nearby enemy champion is required to cast this ability. The target does not have to be
+visible
+to be targeted by this ability.
+Info
+Targeting input
+Auto
+Counters
+Spell shield
+Blocked
+Mocking Shout
+very briefly
+reveals
+Tryndamere
+if he uses it while in the fog of war to enemies.
+Map-Specific Differences
+Arena
+differences
+edit
+Slow strength changed to 50 / 57.
+5
+/ 65 / 72.
+5
+/ 80%.
+Attack damage reduction changed to 30 / 52.
+5
+/ 75 / 97.
+5
+/ 120.
+Edit
+Spinning Slash
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+CAST TIME:
+none
+TARGET RANGE:
+660
+EFFECT RADIUS:
+225
+Active:
+Tryndamere
+dashes
+to the target location, dealing
+physical damage
+and generating
+Fury
+per enemy hit.
+Critical strikes
+reduce
+Spinning Slash's
+cooldown, increased against
+champions
+.
+Active:
+Tryndamere
+dashes
+to the target location, dealing
+physical damage
+to enemies hit and generating
+2 Fury
+per enemy hit, increased to
+5 Fury
+against champions.
+Physical Damage:
+75 / 105 / 135 / 165 / 195
+(+ 130%
+bonus
+AD)
+(+ 80% AP)
+Critical strikes
+reduce
+Spinning Slash's
+current
+cooldown
+by 0.
+75
+seconds, doubled to 1.
+5
+seconds against
+champions
+.
+Bloodlust
+and
+Undying Rage
+can be cast during the dash. Spinning Slash will cast at max range if cast beyond that.
+Info
+Targeting input
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Parries
+Missing
+Grounded
+Disabled
+Knockdown
+Interrupted
+Spinning Slash'
+s
+Fury
+generation stacks additively with
+Battle Fury
+'s
+Fury
+generation on kill.
+Killing an minion with
+Spinning Slash
+grants
+12 Fury
+(
+2 Fury
+from enemy hit +
+10 Fury
+from the kill).
+Killing an champion with
+Spinning Slash
+grants
+15 Fury
+(
+5 Fury
+from champion hit +
+10 Fury
+from the kill).
+There is no cooldown on
+Fury
+generation on kill with
+Spinning Slash
+.
+Spinning Slash
+has no minimum dash range.
+Flash
+will interrupt the
+dash
+but
+Spinning Slash
+will deal damage to enemies at the new location instantly.
+Enemies already hit by
+Spinning Slash
+cannot be damaged more than once.
+To ensure
+Spinning Slash
+deals damage when dashing away from an enemy champion,
+Tryndamere
+needs to move
+r-35
+units towards the enemy beyond the distance he can basic attack at, where
+r
+represents the enemy's radius and
+35
+is the distance in units beyond
+Tryndamere's
+basic attack range that
+Spinning Slash
+can reach.
+The cooldown reduction upon
+critically striking
+triggers on
+wards
+and
+jungle plants
+.
+The cooldown reduction upon
+critically striking
+triggers even if the attack is
+blocked
+.
+PENDING FOR TEST:
+: Cooldown reduction on
+critical strike
+interaction with
+parrying
+effects (
+dodge
+,
+blind
+).
+Edit
+Undying Rage
+COOLDOWN:
+120 / 100 / 80
+CAST TIME:
+none
+Active:
+Tryndamere
+becomes enraged, gaining
+Fury
+and a
+minimum health threshold
+for a few seconds.
+minimum health threshold
+:
+The target's health cannot be reduced below the threshold.
+Active:
+Tryndamere
+becomes enraged, instantly gaining
+Fury
+and a
+minimum health threshold
+for 5 seconds.
+Fury Gained:
+50 / 75 / 100
+Minimum Health Threshold:
+30 / 50 / 70
+Undying Rage can be used while affected by
+cast-inhibiting crowd control
+.
+Info
+Targeting input
+Auto
+No additional notes.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Tryndamere (Collection)
+.
+Original
+View in 3D
+585
+30.04.2009
+Fueled by unbridled fury and rage, Tryndamere once carved his way through the Freljord, openly challenging the greatest warriors of the north to prepare himself for even darker days ahead. The wrathful barbarian has long sought revenge for the annihilation of his clan, though more recently he has found companionship with Ashe, the Avarosan warmother, and a home with her people. His almost inhuman strength and fortitude is legendary, and has delivered him and his new allies countless victories against the greatest of odds.
+Brian Sommer
+Jason Chan
+Loot eligible
+Highland
+View in 3D
+520
+16.03.2010
+Brian Sommer
+Unknown artist
+Legacy
+Loot eligible
+Legacy
+King
+View in 3D
+520
+21.09.2010
+A proud king who was once known only as a brutal highland swordsman, Tryndamere rules his people as the martial protector of two great Freljordian houses. Yet every day he resists the pull of an intangible evil at his back, as he has not forgotten a certain blood debt that he vowed to see repaid.
+Brian Sommer
+Unknown artist
+Medieval
+Loot eligible
+Viking
+View in 3D
+750
+24.06.2011
+Vikings believed that death in battle was a ticket to the eternal realm of Valhalla. Tryndamere's signature ability is being unable to die. You… you're seeing the issue here, right?
+Brian Sommer
+Kienan 'Knockwurst' Lafferty
+Wonders of the World
+Loot eligible
+Legacy
+Demonblade
+View in 3D
+1820
+01.08.2011
+Tryndamere's cursed blade corrupted him from a once honorable barbarian into a rampaging monster. Now in a frenzy to sate his endless hunger, this demonic sword drives him to slay all. With each kill another fraction of his humanity is lost and succumbing further into the demonic sword's madness.
+Brian Sommer
+Unknown artist
+Otherroads
+Loot eligible
+New voiceover
+New SFX/VFX
+Sultan
+View in 3D
+975
+26.09.2012
+Tryndamere is a ruler from a distant land, and tales of his impossible strength and distinctive mustache have reached even the farthest-flung city-states. As is the rule rather than the exception with rulers from distant lands, his hat is exceptional.
+Brian Sommer
+Bo Lu
+Wonders of the World
+Loot eligible
+Warring Kingdoms
+View in 3D
+975
+28.01.2014
+Tryndamere  is a grand general of the Warring Kingdoms, so deadly and so feared it is said he is the god of war incarnate. Truly a spectacle to behold, it would take a thousand men to kill him in battle, and a thousand more to keep him dead.
+Brian Sommer
+Pan Chengwei
+Lunar Revel: Warring Kingdoms
+Loot eligible
+Legacy
+New Animations/Recall
+Nightmare
+View in 3D
+750
+07.06.2015
+Brian Sommer
+Michal Ivan, Sixmorevodka Studio
+Trick-or-Treat
+Loot eligible
+Beast Hunter
+View in 3D
+750
+04.02.2016
+Tryndamere isn't the smartest beast hunter, but he is the strongest—possessing a stubborn rage that quite literally refuses to let him die. A single swing of his blade can cleave a beast's limb from its body, and he has the hunting trophies to prove it.
+Brian Sommer
+Victor '3rdColossus' Maury
+Prehistoric Hunters
+Loot eligible
+Chemtech
+View in 3D
+975
+05.06.2017
+A monstrous experiment created by the villainous Singed, Tryndamere was irrevocably changed when he fell into a vat of volatile chemicals. Wherever Singed goes, Tryndamere follows—yet another dastardly villain battling against New Valoran's bravest heroes!
+Brian Sommer
+Esben Lash Rasmussen
+Silver Age
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Blood Moon
+View in 3D
+1350
+20.02.2020
+The demon Tryndamere has fully assumed control over his twinned human body, using its inhuman strength to slash gaping wounds in the veil between the human and demonic realms. Shrugging off wounds considered fatal even to other demons, his is an unstoppable, unquenchable rage that would see all things consumed by the Blood Moon.
+Brian Sommer
+Unknown artist
+Blood Moon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Blood Moon Tryndamere Chromas
+Amethyst
+Citrine
+Emerald
+Obsidian
+Pearl
+Ruby
+Sapphire
+Nightbringer
+View in 3D
+1350
+23.09.2021
+A fiendish god of rage and battle, Tryndamere embodies the moment when war descends into bloodied frenzy. Peace is anathema, but perhaps Yone's crusade presents an opportunity… After all, to Tryndamere, chaos is best when it is born of order's decay.
+Brian Sommer
+Augusto Quirino, West Studio
+Nightbringer and Dawnbringer
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Nightbringer Tryndamere Chromas
+Amethyst
+Catseye
+Deathbringer
+Emerald
+Obsidian
+Ruby
+Sapphire
+Turquoise
+Victorious
+View in 3D
+Special
+20.03.2024
+Victorious Tryndamere was earned by players who accumulated enough split points in Ranked. The last thing Tryndamere's challengers would ever see was the unbridled wrath in his eyes as he decided they would be the next to meet his blade.
+Brian Sommer
+Pandart Studio
+Victorious
+Loot ineligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Victorious Tryndamere Chromas
+Bronze
+Challenger
+Diamond
+Emerald
+Gold
+Grandmaster
+Master
+Platinum
+Silver
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.20
+Stats
+Attack speed ratio increased to 0.
+694
+from 0.
+67
+.
+Armor growth increased to 4.
+8
+from 4.
+3
+.
+V14.12
+Bloodlust
+Base bonus attack damage reduced to 5 / 10 / 15 / 20 / 25 from 10 / 15 / 20 / 25 / 30.
+Spinning Slash
+Base damage reduced to 75 / 105 / 135 / 165 / 195 from 80 / 110 / 140 / 170 / 200.
+V14.10
+Battle Fury
+Critical strike chance increased to
+0% − 50% (based on Fury)
+from
+0% − 40% (based on Fury)
+.
+V14.6
+Stats
+Attack speed growth increased to 3.
+4
+% from 2.
+9
+%.
+V13.21
+Spinning Slash
+Bug Fix:
+Hit radius is no longer smaller than intended.
+Note: This was hotfixed during the previous patch.
+V13.20
+- October 11th Hotfix
+Spinning Slash
+Bug Fix:
+Now has the correct hit radius of 225 on every rank.
+V13.20
+Spinning Slash
+Undocumented/Bug Fix:
+Now lists the proper Fury gain values on hitting champions and non-champions in the tooltip.
+Rescripted to use DataValues.
+Hitbox radiuses reduced to
+80 − 200 (based on ability rank)
+from
+225.
+(bug)
+V13.18
+Stats
+Base attack damage reduced to 66 from 68.
+Health growth reduced to 108 from 115.
+V13.17
+Stats
+Attack range increased to 175 units from 125.
+Base attack damage reduced to 68 from 72.
+V13.5
+Stats
+Health growth increased to 115 from 112.
+Attack damage growth increased to 4 from 3.
+7
+.
+V12.11
+Bloodlust
+Base heal increased to 30 / 40 / 50 / 60 / 70 from 25 / 33 / 41 / 49 / 57.
+Base heal per fury 0.
+5
+/ 0.
+95
+/ 1.
+4
+/ 1.
+85
+/ 2.
+3
+from 0.
+45
+/ 0.
+75
+/ 1.
+05
+/ 1.
+35
+/ 1.
+65
+.
+Undying Rage
+Cooldown reduced to 120 / 100 / 80 seconds from 130 / 110 / 90.
+V12.10
+Stats
+Base health increased to 696 from 626.
+Health growth increased to 112 from 98.
+Armor growth increased to 4.
+3
+from 3.
+1
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Bloodlust
+Base heal reduced to 25 / 33 / 41 / 49 / 57 from 30 / 40 / 50 / 60 / 70.
+Base heal per fury reduced to 0.
+45
+/ 0.
+75
+/ 1.
+05
+/ 1.
+35
+/ 1.
+65
+from 0.
+5
+/ 0.
+95
+/ 1.
+4
+/ 1.
+85
+/ 2.
+3
+.
+V12.6
+Spinning Slash
+Cooldown reduction reduced to 0.
+75
+seconds from 1.
+Cooldown reduction against champions reduced to 1.
+5
+seconds from 2.
+Undying Rage
+Cooldown increased to 130 / 110 / 90 seconds from 110 / 100 / 90.
+V11.23
+Undying Rage
+Bug Fix:
+Casting it as soon as
+Lamb's Respite
+buff expires will no longer allow the caster to be
+executed
+while under the effect.
+V11.16
+Mocking Shout
+Bug Fix:
+Attack damage reduction now properly counts toward stacking
+Eclipse's
+Ever Rising Moon.
+V11.5
+Undying Rage
+Bug Fix:
+Now properly ignores damage dealt in excess of the health threshold from an ability that would apply
+Horizon Focus'
+Hypershot.
+V11.4
+Stats
+Base attack damage increased to 72 from 69.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+Base health increased to 626 from 625.
+64
+.
+V10.24
+Bloodlust
+Base bonus attack damage increased to 10 / 15 / 20 / 25 / 30 from 5 / 10 / 15 / 20 / 25.
+Bonus attack damage per missing health increased to 0.
+15
+/ 0.
+25
+/ 0.
+35
+/ 0.
+45
+/ 0.
+55
+from 0.
+15
+/ 0.
+2
+/ 0.
+25
+/ 0.
+3
+/ 0.
+35
+.
+Maximum bonus attack damage increased to 25 / 40 / 55 / 70 / 85 from 20 / 30 / 40 / 50 / 60.
+V10.23
+Battle Fury
+Critical strike chance per
+Fury
+changed to
+0.
+4
+%
+at all levels from
+0.
+35
+% − 0.
+5
+% (based on level)
+.
+V10.18
+Spinning Slash
+Bug Fix:
+Can no longer hit the same target multiple times.
+Undying Rage
+New Effect:
+Body will flash white for an instant at the end of his ultimate to show when the buff expires.
+V9.13
+- June 27th Hotfix
+Spinning Slash
+Bug Fix:
+Now has the proper range.
+V9.13
+Spinning Slash
+Now more quickly and reliably applies its effects to enemies they hit.
+V9.12
+General
+New visual effects.
+New basic attack hit effects and adjusted weapon trails.
+All skins cleaned up to match the new effects on the base skin.
+Battle Fury
+New rage indicator effect.
+Bloodlust
+More visible heal effect with reduced noise.
+Mocking Shout
+Added a cast effect that shows range.
+Spinning Slash
+New effect that shows the actual width of the AoE.
+Undying Rage
+New activation and buff effects.
+Demonblade Tryndamere
+New fiery effects.
+V9.10
+Spinning Slash
+Cooldown reduced to 12 / 11 / 10 / 9 / 8 seconds from 13 / 12 / 11 / 10 / 9.
+AP ratio reduced to
+80% AP
+from
+100% AP
+.
+V9.5
+Battle Fury
+Critical strike chance per
+Fury
+increased to
+0.
+35
+% − 0.
+5
+% (based on level)
+from 0.
+35
+% at all levels.
+V9.4
+General
+Recommended items no longer recommend
+Spear of Shojin
+, but instead
+Ravenous Hydra
+.
+V9.1
+Undying Rage
+New Effect:
+Ability icon HUD now shows the remaining duration of the ability.
+V8.16
+Spinning Slash
+Cooldown increased to 13 / 12 / 11 / 10 / 9 seconds from 13 / 11.
+5
+/ 10 / 8.
+5
+/ 7.
+V8.13
+Spinning Slash
+Cooldown reduced to 13 / 11.
+5
+/ 10 / 8.
+5
+/ 7 seconds from 13 / 12 / 11 / 10 / 9.
+V8.3
+Stats
+Base health regeneration reduced to 8.
+5
+from 8.
+512
+.
+Attack damage growth increased to 3.
+7
+from 3.
+2
+.
+Spinning Slash
+Bonus AD ratio increased to
+130%
+bonus
+AD
+from
+120%
+.
+V7.22
+Stats
+Base attack damage increased to 69 from 61.
+376
+.
+Base armor increased to 33 from 24.
+108
+.
+Spinning Slash
+Base damage increased to 80 / 110 / 140 / 170 / 200 from 70 / 100 / 130 / 160 / 180.
+V6.20
+Spinning Slash
+Bug Fix:
+Fixed an edge case where
+Spinning Slash
+could damage allies he spins through if they were directly on top of an enemy unit.
+V6.10
+Undying Rage
+Minimum health increased to 30 / 50 / 70 from 1.
+Removed:
+Healing
+Tryndamere
+to
+3% of his maximum health
+(if he was below that) when
+Undying Rage
+ends.
+V6.8
+General
+Splash artwork for
+Highland Tryndamere
+and
+King Tryndamere
+updated to the Chinese art.
+V5.12
+General
+Fixed a bug where Tryndamere's critical strikes were taking longer to resolve than standard basic attacks.
+V4.20
+Spinning Slash
+Fixed a bug where it would occasionally deal double damage.
+V4.10
+General
+New ability icons added.
+V4.5
+Stats
+Base armor increased to 18.
+9
+from 14.
+9
+.
+V3.13
+Spinning Slash
+On-crit cooldown reduction reduced to 1 second from 2. The effect is now doubled against champions.
+V3.12
+Twisted Treeline only
+Spinning Slash
+Cooldown increased to 15 / 14 / 13 / 12 / 11 seconds from 13 / 12 / 11 / 10 / 9.
+Undying Rage
+Cooldown increased to 120 / 110 / 100 seconds from 110 / 100 / 90.
+V3.03
+Bloodlust
+Ability power ratio adjusted to
+(+ 30% AP + 1.2% AP per Fury consumed)
+(total
+150% AP
+at maximum Fury) from
+(+ 150% AP)
+.
+V3.01
+Stats
+Base attack speed increased to 0.
+670
+from 0.
+644
+.
+Fury decay now begins after 8 seconds from after 5.
+V1.0.0.152
+Stats
+Movement speed increased to 345 from 320.
+V1.0.0.147
+General
+New splash artwork for
+Original Tryndamere
+.
+V1.0.0.132
+General
+Fury decay now begins after 5 seconds from after 8.
+Stats
+Base attack damage reduced to 56 from 59.
+2
+.
+Base health regen per 5 seconds reduced to 7.
+9
+from 10.
+9
+.
+Mocking Shout
+Attack damage reduction reduced to 20 / 35 / 50 / 65 / 80 from 20 / 40 / 60 / 80 / 100.
+V1.0.0.131
+Bloodlust
+Heal per fury reduced to 0.
+5
+/ 0.
+95
+/ 1.
+4
+/ 1.
+85
+/ 2.
+3
+from 0.
+65
+/ 1.
+15
+/ 1.
+65
+/ 2.
+15
+/ 2.
+65
+.
+V1.0.0.126
+Mocking Shout
+Now properly grants assists if the slow is not applied.
+V1.0.0.123
+Bloodlust
+Heal increased to 0.
+65
+/ 1.
+15
+/ 1.
+65
+/ 2.
+15
+/ 2.
+65
+per fury from 0.
+5
+/ 0.
+95
+/ 1.
+4
+/ 1.
+85
+/ 2.
+3
+.
+Spinning Slash
+Base damage increased to 70 / 100 / 130 / 160 / 190 from 60 / 90 / 120 / 150 / 180.
+Bonus attack damage ratio increased to
+(+ 120% Bonus AD)
+from
+(+ 100% Bonus AD)
+.
+Fixed a bug where Tryndamere was not gaining the proper Fury upon using Spinning Slash.
+V1.0.0.122
+rework
+General
+New model and animations.
+Model/hitbox increased in size by 20%.
+Tryndamere now uses Fury, gaining 5 Fury per hit, 10 per crit, and 10 extra per kill.
+Fury decays at 5 Fury per second after being out of combat for 10 seconds.
+Battle Fury
+Now grants up to 35% critical strike chance, depending on his Fury.
+Bloodlust
+Passively increases attack damage by -15 / -20 / -25 / -30 / -35 depending on Tryndamere's missing health.
+Consumes all Fury to heal Tryndamere for -50 / -95 / -140 / -185 / -230 depending on how much Fury was consumed.
+Cooldown increased to 12 seconds at all ranks from 12 / 11 / 10 / 9 / 8.
+Mocking Shout
+Is now free to cast
+Spinning Slash
+Is now free to cast.
+Cooldown increased to 13 / 12 / 11 / 10 / 9 seconds from 9.
+Base damage adjusted to 60 / 90 / 120 / 150 / 180 from 40 / 90 / 140 / 190 / 240.
+Scaling adjusted to
+(+ 100% Bonus AD)
+from
+(+ 50% total AD)
+(still scales with AP).
+Now deals physical damage instead of magic damage.
+V1.0.0.120
+Undying Rage
+Fixed a bug where it improperly showed "Endless Rage!" to represent damage being prevented.
+V1.0.0.116
+General
+Revised tooltips.
+V1.0.0.113
+General
+New splash artwork for
+Original Tryndamere
+.
+Undying Rage
+Will now always activate before
+Chronoshift
+and
+Guardian Angel
+.
+V1.0.0.111
+Undying Rage
+Fixed a bug where it could not be activated while suppressed.
+V1.0.0.109
+Battle Fury
+Passive critical chance increased to 10% + 0.4% per % missing health +0.5% per % missing health.
+Undying Rage
+Duration reduced to 5 seconds from 6.
+V1.0.0.103
+Bloodlust
+Cooldown reduced to 12 / 11 / 10 / 9 / 8 seconds from 14 / 13 / 12 / 11 / 10.
+Damage per stack increased to 5 from 3.
+Spinning Slash
+Cooldown reduced to 8 seconds from 9.
+Area of effect increased to 225 from 185.
+V1.0.0.100
+Spinning Slash
+Can no longer be cast while rooted.
+V1.0.0.86
+Bloodlust
+Cooldown reduced to 14 / 13 / 12 / 11 / 10 seconds from 18 / 16 / 14 / 12 / 10.
+Undying Rage
+Can now be cast while stunned or disabled.
+V1.0.0.85
+Battle Fury
+Critical strike chance increased to +0.5% per % missing health from +0.45%.
+Spinning Slash
+Speed has been normalized to be more responsive.
+V1.0.0.83
+Battle Fury
+Critical strike chance increased to +0.45% per % missing health from +0.25%.
+Fixed a bug that was reducing the amount of bonus critical strike chance.
+Bloodlust
+Cooldown reduced to 18 / 16 / 14 / 12 / 10 seconds from 20 / 18 / 16 / 14 / 12.
+Spinning Slash
+Can no longer be cast while immobilized.
+Undying Rage
+Cooldown reduced to 110 / 100 / 90 seconds from 130 / 115 / 100.
+V1.0.0.75
+Bloodlust
+Fixed a tooltip bug.
+V1.0.0.72
+Spinning Slash
+The first physical attack after cast will now properly animate.
+V1.0.0.63
+Battle Fury
+Critical strike chance reduced to +0.25% per % missing health at all levels from +
+0.
+3
+/ 0.
+4
+/ 0.
+5
+(based on level)
+%.
+Bloodlust
+Cooldown increased to 20 / 18 / 16 / 14 / 12 seconds from 12 at all ranks.
+Mocking Shout
+Debuff duration reduced to 4 seconds from 5.
+Spinning Slash
+Base damage reduced to 40 / 90 / 140 / 185 / 240 from 60 / 105 / 150 / 195 / 240.
+Undying Rage
+Cooldown increased to 130 / 115 / 100 seconds from 120 / 100 / 80.
+V1.0.0.61
+rework
+Battle Fury
+Now increases critical strike chance by
+0.
+3
+/ 0.
+4
+/ 0.
+5
+(based on level)
+% per % of Tryndamere's missing health.
+Bloodlust
+Now activates on critical strikes as well as kills.
+Now provides 4 attack damage and 1.
+5
+/ 2.
+25
+/ 3 / 3.
+75
+/ 4.
+5
+% critical damage per stack.
+Cooldown changed to 12 seconds from 30 / 25 / 20 / 15 / 10.
+Heal reduced to 10 / 20 / 30 / 40 / 50 per stack from 90 + 30 / 45 / 60 / 75 / 90 per stack.
+Each time you gain
+Bloodlust
+for the first time, you gain 2 stacks instead of 1.
+Heal ability power ratio increased to
+(+ 150% AP)
+from
+(+ 100% AP)
+.
+Mocking Shout
+Health cost changed to 25 from 20 / 25 / 30 / 35 / 40.
+Fixed a bug that caused the tooltip to show no health cost.
+Spinning Slash
+Range reduced to 660 from 1150.
+Damage changed to 60 / 105 / 150 / 195 / 240 +
+(+ 50% of total AD)
+from 110 / 165 / 220 / 275 / 330.
+Health cost reduced to 40 / 50 / 60 / 70 / 80 from 30 / 60 / 90 / 120 / 150.
+Cooldown is now reduced by 2 seconds each time you critically strike.
+It will fire directionally even if targeting a point outside of the cast range.
+Undying Rage
+Duration reduced to 6 seconds from 7.
+Cooldown reduced to 120 / 100 / 80 seconds from 160 / 120 / 80.
+Reduced number of
+Bloodlust
+stacks gained on activation to 4 / 6 / 8 from 3 / 6 / 9.
+If Tryndamere is below 5% health when
+Undying Rage
+ends, it will heal him to 5%.
+V1.0.0.32
+Bloodlust
+Stacks applied from casting
+Undying Rage
+should properly increase Tryndamere's stats.
+V0.9.25.34
+Mocking Shout
+Slow increased to 30 / 37 / 45 / 52 / 60% from 20 / 30 / 40 / 50 / 60%.
+V0.9.25.24
+Spinning Slash
+Fixed issue with it not working when out of range.
+V0.9.25.21
+Battle Fury
+Fixed an issue causing the bonus critical strike chance to be at half power.
+Spinning Slash
+Targeting out of range will cause Spinning Slash to immediately cast in that direction rather than moving into range first (flash functionality).
+Now has a minimum movement speed regardless of slows.
+Undying Rage
+Now makes Mocking Shout and Spinning Slash free to cast.
+V0.9.22.16
+Mocking Shout
+Slow reduced to 20 / 30 / 40 / 50 / 60% from 30 / 40 / 50 / 60 / 70%.
+V0.9.22.15
+Stats:
+Increased base damage to 60 from 57.
+Increased damage per level to 3.
+2
+from 3.
+1
+.
+Increased base health to 559 from 539.
+Mocking Shout
+Attack damage reduction now applies regardless of direction faced.
+Bloodlust
+Base heal now heals for 130 (+65 per stack).
+Spinning Slash
+Reduced cooldown to 9 seconds from 10.
+Increased damage to 110 / 160 / 210 / 270 / 330 from 90 / 150 / 210 / 270 / 330.
+Now has a minimum speed.
+V0.9.22.7
+Stats:
+Increased movement speed to 320 from 310.
+Increased base health regen to 2 from 1.
+62
+.
+Reduced health regen per level to 0.
+18
+from 0.
+2
+.
+Bloodlust
+Duration increased to 15 seconds from 10.
+V0.8.21.110
+Bloodlust
+:
+Reduced cooldown to 30 / 26 / 22 / 18 / 14 seconds from 30 at all ranks.
+Attack speed per stack increased to 8% from 7%.
+Spinning Slash
+Renamed from
+Slash
+.
+July 10, 2009 Patch
+Slash
+Damage changed to 90 / 150 / 210 / 270 / 330 from 75 / 140 / 205 / 270 / 335.
+Bloodlust
+Heal increased to 65 per stack from 50 per stack.
+Ability power ratio increased to
+(+ 20% AP)
+from
+(+ 15% AP)
+.
+Cooldown reduced to 30 seconds from 35.
+June 6, 2009 Patch
+Bloodlust
+Duration reduced to 10 seconds from 12.
+Stack duration reduced to 4 seconds from 5.
+Attack speed per stack reduced to 7 from 8.
+May 29, 2009 Patch
+Battle Fury
+Maximum crit damage bonus reduced to 50% from 70%.
+Slash
+Cast range reduced to 1000 from 1150.
+Fixed a bug with Slash's animation not transitioning correctly, causing Tryndamere to keep spinning after the slash was completed.
+Mocking Shout
+: Cooldown increased to 14 seconds from 12.
+May 23, 2009 Patch
+Undying Rage
+Duration reduced to 7 seconds from 8.
+Battle Fury
+Modified the potential crit strike modifier to .7 at all levels from 0.
+5
+/ 0.
+7
+/ 0.
+9
+/ 1 (he only achieves .7 when at 1% life).
+May 9, 2009 Patch
+General
+Tweaked Tryndamere's attack animation.
+Updated selection size and pathfinding radius.
+Stats
+Base health increased to 585 from 550.
+Health gain per level increased to 95 from 80.
+Fixed a bug where Tryndamere was not having his health regen increased per level. Now his health regen increases by 0.
+2
+per level.
+Battle Fury
+Fixed a performance issue.
+Bloodlust
+:
+Now properly stacks 2 / 4 / 6 / 8 / 10 times.
+Now instant cast.
+Changed hit particle.
+Slash
+Cooldown changed to 10 seconds at all ranks from 8 / 10 / 12 / 14 / 16.
+Speed now increases with Tryndamere's movement speed.
+Mocking Shout
+:
+Range increased to compensate for cast issues.
+Cooldown increased to 14 seconds from 11.
+Casting radius increased.
+Fixed a bug where the spell used Tryndamere's facing instead of the targets'.
+Undying Rage
+Fixed a bug that caused 1 too many stacks of Bloodlust.
+May 1, 2009 Patch
+Added.
+Trivia
+[
+edit
+|
+edit source
+]
+Tryndamere holds his sword in a similar fashion
+Pyramid Head
+from
+Silent Hill
+holds his knife.
+Tryndamere's dance references the
+Hopak
+, the traditional
+Cossack
+dance
+.
+His pre-
+V1.0.0.122
+dance references
+Bye Bye Bye
+by
+NSYNC
+.
+A side-by-side comparison can be seen
+here
+.
+He used to share this dance with
+Garen
+before they both got
+reworked
+.
+Tryndamere was the first
+manaless
+champion released.
+He was also:
+The first champion to utilize a form of the
+Fury
+resource.
+The first with 100 points in Attack Rating.
+With
+Spinning Slash
+, Tryndamere is one of the only four champions in the game to have a single damaging ability, the others being
+Zilean
+with
+Time Bomb
+, reworked
+Taric
+with
+Dazzle
+and
+Bard
+with
+Cosmic Binding
+.
+Master Yi
+and reworked
+Shen
+may also count with
+Alpha Strike
+and
+Shadow Dash
+respectively, as
+Wuju Style
+and
+Twilight Assault
+are on-hit damaging abilities and not normal damaging abilities.
+He is often seen wearing his
+horned helmet
+, but in real life, such horns are considered impractical for combat use.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Skirmisher
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Skirmishers
+(also known as Duelists) aim to shred through any nearby enemy that approaches. Because Skirmishers lack high-end burst damage or reliable ways of closing in on high-priority targets, they are instead armed with situationally powerful defensive tools to survive in the fray, along with extreme sustained damage to cut down even the most durable targets.
+Examples
+Fiora
+Jax
+Yasuo
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Fury
+Fury
+is an umbrella term for many named resources that must be generated before being usable, compared to
+Mana
+or
+Energy
+that exist in some quantity beforehand. For most users, this resource is only required by a single ability or passive effect.
+It represents
+momentum
+and encourages sustained aggression from users, often gating a power-spike or empowerment.
+Fury
+generation varies between users, but is always generated
+in-combat
+(e.g. on-hit, ability casts or taking damage) and often decays when out of combat.
+Known as
+Fury
+Rage
+Battle Fury
+Dragon Fury
+Crimson Rush
+Courage
+Grit
+Awakening
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Spinning Slash
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+Active:
+Tryndamere
+dashes
+to the target location, dealing
+physical damage
+and generating
+Fury
+per enemy hit.
+Critical strikes
+reduce
+Spinning Slash's
+cooldown, increased against
+champions
+.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Ward
+Wards
+are deployable units that that grant
+sight
+over the surrounding area. They can only be destroyed by
+basic attacks
+, granting
+gold
+and
+experience
+.
+There are three kinds of deployable
+wards
+available for purchase:
+Control Ward
+,
+Warding Totem
+, and
+Farsight Alteration
+. Other types of wards, such as
+Zombie Ward
+, are usable through various means.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Bloodlust
+COOLDOWN:
+12
+Passive:
+Tryndamere
+gains
+bonus
+attack damage
+, increased based on
+his
+missing
+health
+.
+Active:
+Tryndamere
+consumes all of his
+Fury
+to
+heal
+himself based on
+Fury
+consumed.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Undying Rage
+COOLDOWN:
+120 / 100 / 80
+Active:
+Tryndamere
+becomes enraged, gaining
+Fury
+and a
+minimum health threshold
+for a few seconds.
+minimum health threshold
+:
+The target's health cannot be reduced below the threshold.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most area of effect abilities, as well as a select few basic attacks, items and runes. Most sources of
+area damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many items effects are triggered whenever you deal an instance of
+area damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Physical vamp
+(where applicable) heals with one-third effectiveness.
+Arcane Comet's
+cooldown is reduced by 10% whenever you deal an instance of
+area damage
+, per target effected.
+Area damage
+is reduced by 25% versus
+Counter Strike
+.
+Effects triggered by damage sub-types will occur (e.g.
+The Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Battle Fury
+Innate:
+Tryndamere
+generates
+Fury
+on his
+basic attacks
+,
+critical strikes
+, and enemy kills. His
+Fury
+begins to decay after a period without dealing or taking damage.
+Tryndamere
+gains
+critical strike chance
+based on his
+Fury
+.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Minimum health threshold
+A unit under the effect of a
+minimum health threshold
+cannot have their health reduced below it by common means such as damage. The following grant this effect:
+Kindred's
+Lamb's Respite
+Pantheon's
+Grand Starfall
+Tryndamere's
+Undying Rage
+Executes
+will reduce the health of units with this state to
+1
+health. Other sources of
+raw damage
+will ignore this state.
+League of Legends content
+Cast-inhibiting crowd control
+A unit that is affected by
+cast-inhibiting crowd control
+is unable to cast abilities, activate items, or use summoner spells. The following crowd control effects disable casting of all spells and abilities as well as interrupts all
+channels
+:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Note that
+Disrupt
+is not a status effect and solely interrupts channels, and thus cannot fall under this classification.
+Root
+and
+Ground
+only disable movement spells and abilities.
+Stasis
+and
+Suppression
+are the only crowd control effects that disable all summoner spells from use; all other cast-inhibiting crowd control only disable movement summoner spells.
+League of Legends content
+Lamb's Respite
+COOLDOWN:
+180 / 150 / 120
+Active:
+Lamb
+blesses the ground under herself for a few seconds. Any unit inside the area will become
+invulnerable
+upon reaching
+low health
+.
+Units within the area are
+healed
+when the blessing ends.
+League of Legends content
+Execute
+Executes
+deal
+true damage
+equal to
+100% of the target's
+current
+health
+through the
+raw damage
+source type, ignoring all mitigations.
+They do not bypass
+invulnerability
+and effects that prevent falling below a health amount, unless the source type is
+internalraw
+.
+League of Legends content
+Mocking Shout
+COOLDOWN:
+14
+Active:
+Tryndamere
+reduces the
+attack damage
+of nearby champions for a few seconds. Targets facing away from him are also
+slowed
+.
+League of Legends content
+Chronoshift
+COOLDOWN:
+120 / 90 / 60
+Active:
+Zilean
+places a protective time rune on himself or the target allied champion for a few seconds.
+If the target would die, they enter
+resurrection
+for a short time, becoming
+invulnerable
+,
+untargetable
+, and
+unable to act
+. They are
+healed
+afterwards.
+References
+[
+edit
+|
+edit source
+]
+↑
+Tryndamere's profile page
+at
+LeagueOfLegends.com

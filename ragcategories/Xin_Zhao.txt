@@ -1,0 +1,2349 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Xin Zhao
+the Seneschal of Demacia
+Release date
+2010-07-13
+Last changed
+V14.18
+Class(es)
+Diver
+Legacy
+Fighter
+Tank
+Position(s)
+Jungle
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+1350
+|
+585
+Crafting
++
+810
+Ratings
+Damage
+2
+Toughness
+2
+Control
+2
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Xin Zhao
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+XinZhao
+Base statistics
+Edit
+Health
+640
++106
+Mana
+274
++55
+Health regen. (per 5s)
+8
++0.7
+Mana regen. (per 5s)
+7.25
++0.45
+Armor
+35
++5
+Attack damage
+63
++3
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+345
+Attack range
+175
+Attack speed
+Base AS
+0.645
+Attack windup
+18.71%
+AS ratio
+N/A
+Bonus AS
++3.5
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+108
+Pathing radius
+35
+Acq. radius
+750
+Special statistics
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-3%
+Damage Received
++2%
+Healing
++20%
+Damage Dealt
++0%
+Damage Received
++10%
+Damage Dealt
+-5%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Determination
+Innate:
+Xin Zhao's
+basic attacks
+and
+Wind Becomes Lightning
+strikes generate a stack of
+Determination
+, stacking up to 3 times. Upon generating the final atack,
+Xin Zhao
+consumes them to
+heal
+himself and deal
+bonus
+physical damage
+.
+Innate:
+Xin Zhao's
+basic attacks
+and
+Wind Becomes Lightning
+strikes generate a
+stack
+of
+Determination
+, stacking up to 3 times. The third stack consumes them all to deal
+15 / 30 / 45 / 60% (based on level)
+AD
+bonus
+physical damage
+and
+heal
+Xin Zhao
+for
+3 / 3.
+5
+/ 4% (based on level)
+of his
+maximum
+health
+(+ 65% AP)
+.
+Info
+Targeting input
+Passive
+Damage type
+Type
+Proc damage
+Sub-type
+Physical
+Counters
+Spell shield
+See Notes
+Parries
+Missing
+The
+healing
+and
+bonus
+damage work on different stacking systems, each counting its stacks and being consumed separately. While both stack
+on-hit
+, the
+bonus
+damage stacks are consumed
+on-attack
+, and the healing ones
+on-hit
+.
+The
+healing
+stacks are denoted in the buff-bar.
+If
+Guinsoo's Rageblade
+were to trigger when the stacks are at maximum, they will grant the healing but not the
+bonus
+damage, thus causing an out-of-sync between the stacks shown in-game versus when the
+bonus
+damage is dealt.
+The stack counter displays 1–3 rather than the usual 0–2, meaning that a count of 1 does not translate to having 1 stack.
+Wind Becomes Lightning's
+strikes generate one stack per strike that hits at least one enemy.
+Stacks reset when
+Xin Zhao
+dies
+.
+Stacks of
+Determination
+will be gained even if the attack is
+blocked
+.
+PENDING FOR TEST:
+:
+Determination's
+interaction with
+parrying
+effects (
+dodge
+,
+blind
+).
+Determination
+deals
+proc damage
+.
+Since it is a separate instance of damage when applied by basic attack or either of
+Wind Becomes Lightning's
+strikes, flat damage reduction that applies to both the main and bonus damage such as
+Amumu's
+Tantrum's
+passive will reduce each, for twice the reduction.
+The bonus damage cannot
+critically strike
+.
+When applied by a basic attack:
+The attack uses a unique animation.
+The bonus damage benefits from
+life steal
+.
+PENDING FOR TEST:
+It
+applies life steal
+specifically.
+Neither the bonus damage or heal will be blocked by
+spell shield
+.
+When applied by either of
+Wind Becomes Lightning's
+strikes:
+Triggers against the closest target struck by the strike (equals first target to receive spell effects).
+Does not benefit from
+life steal
+, including not healing from
+Wind Becomes Lightning's
+33% conversion for this bonus damage.
+Since
+proc damage
+is 'single target',
+Vamp
+will heal from 100% of the bonus damage.
+The bonus damage will be blocked by
+spell shield
+, the heal will not.
+Map-Specific Differences
+Arena
+differences
+edit
+Heal AP ratio changed to
+85% AP
+.
+Edit
+Three Talon Strike
+COST:
+30 Mana
+COOLDOWN
+:
+7 / 6.
+5
+/ 6 / 5.
+5
+/ 5
+CAST TIME:
+none
+Active:
+Xin Zhao
+empowers his next few attacks within a duration to deal
+bonus
+physical damage
+and
+reduce
+his other ability cooldowns. The last empowered attack will also briefly
+knock up
+the target.
+Active:
+Xin Zhao
+empowers his next three basic attacks
+on-attack
+within 5 seconds to each have an
+uncancellable windup
+, deal
+bonus
+physical damage
+and reduce his other
+abilities'
+current
+cooldowns
+by 1 second. Each attack refreshes the duration.
+Bonus Physical Damage:
+16 / 29 / 42 / 55 / 68
+(+ 40%
+bonus
+AD)
+Total Bonus Physical Damage:
+48 / 87 / 126 / 165 / 204
+(+ 120%
+bonus
+AD)
+The third attack
+knocks up
+the target for 0.
+75
+seconds.
+Three Talon Strike's
+bonus
+damage is affected by
+critical strike
+modifiers.
+Three Talon Strike
+resets
+Xin Zhao's
+basic attack timer.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Spell damage
+Sub-type
+Physical
+Counters
+Spell shield
+See Notes
+Parries
+Blocked
+Spell shield
+will only block the knock up.
+The enhanced attacks present input buffering during their wind-up animation (
+Xin Zhao
+cannot be issued any commands until after it ends).
+Edit
+Wind Becomes Lightning
+COST:
+60 / 55 / 50 / 45 / 40 Mana
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+CAST TIME:
+0.
+5
+RANGE:
+1000
+/
+940
+EFFECT RADIUS:
+275
+/
+125
+WIDTH:
+80
+ANGLE:
+160º
+SPEED:
+6250
+Active:
+Xin Zhao
+slashes in an arc, then thrusts his spear in a line in the target direction. Each strike deals
+physical damage
+to enemies hit and heals
+Xin Zhao
+based on his
+life steal
+. The thrust deals increased damage based on
+critical strike chance
+and briefly
+slows
+enemies hit, enemy
+champions
+or
+monsters
+hit are also
+revealed
+and marked
+Challenged
+for a short time.
+Active:
+Xin Zhao
+slashes in an arc and, after the cast time, thrusts his spear in a line in the target direction. Each strike deals
+physical damage
+to enemies hit, modified to
+50% − 100% (based on level)
+against
+minions
+.
+The thrust deals increased damage, further by
+0% − 33.
+3
+% (based on critical strike chance)
+, and
+slows
+enemies hit by 50% for 1.
+5
+seconds. Enemy
+champions
+and
+monsters
+hit are also marked
+Challenged
+for 3 seconds, during which they are
+revealed
+.
+Slash Physical Damage:
+30 / 40 / 50 / 60 / 70
+(+ 30% AD)
+Thrust Physical Damage:
+50 / 85 / 120 / 155 / 190
+(+ 90% AD)
+(+ 65% AP)
+Total Physical Damage:
+80 / 125 / 170 / 215 / 260
+(+ 120% AD)
+(+ 65% AP)
+The durations of
+Three Talon Strike
+,
+Audacious Charge's
+bonus
+attack speed
+, and
+Crescent Guard
+are delayed relative to
+Wind Becomes Lightning's
+cast time after 0.
+2
+seconds of its activation.
+Wind Becomes Lightning's
+damage
+heals
+Xin Zhao
+for 33.
+3
+% of his
+life steal
+.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+See Notes
+Projectile
+Not Blocked
+Spell shield
+will block only a single instance of damage - either the thrust or the slash.
+The first strike will occur immediately and the second will occur after the cast time completes.
+This ability will cast from wherever the caster is at the start of the cast time.
+The first strike will occur from wherever
+Xin Zhao
+is at the start of the cast time.
+This ability will cast from wherever the caster is at the end of the cast time.
+The second strike will occur from wherever
+Xin Zhao
+is at the end of the cast time.
+The first strike's hitbox includes a
+275 radius 160° cone in front of
+Xin Zhao
+and an additional
+125 radius around him.
+The second strike's hitbox includes the same
+125 radius around
+Xin Zhao
+, a missile with
+1000 range and
+80 total width, and a
+-60 radius area check upon the end of the missile.
+The 125 radius check does not hit
+champion summoned units
+.
+(note)
+Because
+Wind Becomes Lightning
+uses an older type of 'healing based on life steal' and not
+applies life steal
+,
+Spirit Visage
+will amplify the life gain twice (+25% life steal and +25% healing), for a total of +56.
+25
+%.
+Edit
+Audacious Charge
+COST:
+50 Mana
+COOLDOWN:
+11
+CAST TIME:
+none
+TARGET RANGE:
+650
+/
+1100
+EFFECT RADIUS:
+250
+SPEED:
+2500
+Active:
+Xin Zhao
+dashes
+to the target enemy, dealing
+magic damage
+to nearby enemies and briefly
+slowing
+them. He then gains
+bonus
+attack speed
+for a few seconds.
+Audacious Charge's
+range
+is increased against a
+Challenged
+target.
+Active:
+Xin Zhao
+dashes
+to the target enemy's location, dealing
+magic damage
+to enemies near them and
+slowing
+them by 30% for 0.
+5
+seconds.
+Audacious Charge's
+range is increased against
+Challenged
+targets.
+Magic Damage:
+50 / 75 / 100 / 125 / 150
+(+ 60% AP)
+Xin Zhao
+then gains
+bonus
+attack speed
+for 5 seconds.
+Bonus Attack Speed:
+40 / 45 / 50 / 55 / 60%
+Three Talon Strike
+and
+Crescent Guard
+can be cast during the dash.
+Info
+Targeting input
+Unit
+/
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+The primary target cannot dodge
+Audacious Charge's
+effects.
+The target will always emit the area of effect from their position.
+If no unit is targeted directly,
+Audacious Charge
+will search for possible targets in a 200 radius around the target location.
+Map-Specific Differences
+Arena
+differences
+edit
+AP ratio changed to
+90% AP
+.
+Edit
+Crescent Guard
+COST:
+100 Mana
+COOLDOWN
+:
+120 / 110 / 100
+CAST TIME:
+0.
+35
+EFFECT RADIUS:
+500
+/
+450
+Passive - Challenge:
+The last enemy champion hit by
+Xin Zhao's
+basic attacks or
+Audacious Charge
+is marked
+Challenged
+for a short time.
+Active:
+Xin Zhao
+sweeps his spear to deal
+physical damage
+to nearby enemies based on
+their
+current
+health
+, this will also briefly
+knock back
+and
+stun
+those not marked
+Challenged
+. For the next few seconds,
+Xin Zhao
+is
+invulnerable
+against enemy
+champions
+far away from of him.
+Passive - Challenge:
+The last enemy champion hit by
+Xin Zhao's
+basic attacks or
+Audacious Charge
+is marked
+Challenged
+for 3 seconds.
+Active:
+Xin Zhao
+sweeps his spear around him, dealing
+physical damage
+to nearby enemies, capped at 600 against
+monsters
+, and
+knocking back
+all non-
+Challenged
+targets hit up-to 700 units over 0.
+75
+seconds, as well as
+stunning
+them for the same duration.
+Physical Damage:
+75 / 175 / 275
+(+ 100%
+bonus
+AD)
+(+ 110% AP)
+(+ 15% of target's
+current
+health)
+For the next 4 seconds,
+Xin Zhao
+is
+invulnerable
+against enemy
+champions
+far away from him.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Pets
+,
+traps
+,
+ground
+AoEs
+,
+DoTs
+, and delayed-damage abilities (e.g.
+Death Mark
+,
+Explosive Charge
+,
+Hemoplague
+) will not damage
+Xin Zhao
+if the enemy champion source is outside the circle when the damage applies.
+This ability will cast from wherever the caster is at the end of the cast time.
+Displacement immunity
+will also resist the application of the
+stun
+.
+Tips & Tricks
+Enemies will not be marked as
+Challenged
+if
+Crescent Guard
+has not been learned. Learning the ability after an enemy would have been marked will still cause them to be
+knocked back
+.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Xin Zhao (Collection)
+.
+Original
+View in 3D
+585
+13.07.2010
+Xin Zhao is a resolute warrior loyal to the ruling Lightshield dynasty. Once condemned to the fighting pits of Noxus, he survived countless gladiatorial bouts, but after being freed by Demacian forces, he swore his life and allegiance to these brave liberators. Armed with his favored three-talon spear, Xin Zhao now fights for his adopted kingdom, audaciously challenging any foe, no matter the odds.
+Richard Epcar
+Bo 'chenbowow' Chen, Victor '3rdColossus' Maury
+Loot eligible
+Commando
+View in 3D
+520
+13.07.2010
+An expert at jungle warfare, Xin Zhao can harpoon a fruit from the rainforest canopy at a hundred yards. He just chooses not to, because it gets fruit chunks all over his spear.
+Richard Epcar
+Unknown artist
+Commando
+Loot eligible
+Imperial
+View in 3D
+520
+13.07.2010
+Richard Epcar
+Unknown artist
+Legacy
+Loot eligible
+Legacy
+Viscero
+View in 3D
+975
+22.11.2010
+Richard Epcar
+Christian Fell
+Chronicle
+Loot eligible
+Legacy
+Winged Hussar
+View in 3D
+975
+26.09.2011
+A member of the vaunted winged hussars, Xin Zhao is one of the last standard bearers of a military order tracing its roots back to the late 17th century. Of course, his progenitors didn't ride an army of armored black pegasi into battle, but you know how it is.
+Richard Epcar
+Robin Ruan
+Wonders of the World
+Loot eligible
+Legacy
+Warring Kingdoms
+View in 3D
+1350
+08.02.2013
+Legendary warrior and proud general both, Xin Zhao fights across the Warring Kingdoms to preserve peace for the common man. His spear is said to be sharp enough to pierce the sky, striking with the force of thunder.
+Richard Epcar
+Michal Ivan, Puppetworks Animation Studio
+Lunar Revel: Warring Kingdoms
+Loot eligible
+New SFX/VFX
+Chromas
+Warring Kingdoms Xin Zhao Chromas
+Amethyst
+Aquamarine
+Golden
+Pearl
+Peridot
+Rose Quartz
+Ruby
+Secret Agent
+View in 3D
+975
+16.03.2015
+Most people who come into contact with Xin Zhao have a gap in their memory where the encounter once was. This is probably for the best as most encounters he's involved in tend to include close encounters of the third kind, protecting civilians against terrifying extraterrestrial invaders, or evading aggressive UFO dive bombers.
+Richard Epcar
+Sixmorevodka Studio
+Cops and Robbers
+Loot eligible
+New Animations/Recall
+Dragonslayer
+View in 3D
+1350
+09.03.2017
+The sorceress called a great mountain her home, and from it, reborn dragons poured endlessly into the sky. Though dragonslayers fell all around him, Xin Zhao struck into the monster's lair, determined to end her evil once and for all.
+Richard Epcar
+Kelly Aleshire
+Dragon World
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Dragonslayer Xin Zhao Chromas
+Amethyst
+Catseye
+Emerald
+Obsidian
+Ruby
+Sandstone
+Cosmic Defender
+View in 3D
+1350
+21.08.2018
+Great horrors are attracted to the light of newborn stars—from the corruptants of the Dark Star, to squirming, ancient things yet unknown. Xin Zhao is the steadfast protector of these cosmic cradles, driving off any that would devour them.
+Richard Epcar
+Alex 'alexplank' Flores
+Cosmic
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Cosmic Defender Xin Zhao Chromas
+Citrine
+Emerald
+Obsidian
+Ruby
+Tanzanite
+Marauder
+View in 3D
+1350
+07.01.2021
+Though brutal, the Marauders still follow a martial order established during the era of the Magelords. These commanders seek only to reclaim the might with which their order once ruled. Xin Zhao is one half of the pair of current leaders. Pragmatic and measured, he has resurrected an ancient Magelord to destroy his foes once and for all.
+Richard Epcar
+Lucas Parolin, West Studio
+Marauder
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Marauder Xin Zhao Chromas
+Amethyst
+Citrine
+Emerald
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Firecracker
+View in 3D
+1350
+26.01.2022
+Xin Zhao is a popular man at the New Year's festival— and not just because he hands out lots of red envelopes. He is the reliable protector that keeps his more chaotic friends from getting into often-explosive mischief, and does it all with a cool, casual grace that leaves everyone swooning.
+Richard Epcar
+Zoe Zhu, West Studio
+Lunar Revel: Firecracker
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+Firecracker Xin Zhao Chromas
+Catseye
+Emerald
+Golden Tiger
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.18
+Stats
+Armor growth increased to 5 from 4.
+7
+.
+Three Talon Strike
+Base damage increased to 16 / 29 / 42 / 55 / 68 from 16 / 25 / 34 / 43 / 52.
+Total base damage increased to 48 / 87 / 126 / 165 / 204 from 48 / 75 / 102 / 129 / 156.
+V14.17
+Crescent Guard
+Bug Fix:
+Invulnerability now properly functions when the ability is cast while inside
+Mordekaiser's
+Realm of Death
+.
+V14.5
+Three Talon Strike
+New Effect:
+Now triggers spell effects upon dealing damage.
+V13.17
+Determination
+Base heal changed to
+3 / 3.
+5
+/ 4% (based on level)
+maximum
+health
+from
+6 − 74 (based on level)
+.
+Removed:
+Heal no longer scales with
+10% AD
+.
+V12.22
+Stats
+Base mana regeneration reduced to 7.
+25
+from 7.
+26
+.
+V12.21
+Determination
+Bonus damage AD ratio increased to
+15 / 30 / 45 / 60% (based on level)
+AD
+from
+15 / 25 / 35 / 45% (based on level)
+AD
+.
+Heal AP ratio increased to
+65% AP
+from
+55% AP
+.
+Audacious Charge
+Cooldown reduced to 11 seconds from 12.
+V12.11
+Determination
+Heal AD ratio increased to
+10% AD
+from
+7% AD
+.
+Wind Becomes Lightning
+Thrust base damage increased to 50 / 85 / 120 / 155 / 190 from 40 / 75 / 110 / 145 / 180.
+Thrust AD ratio increased to
+90% AD
+from
+80% AD
+.
+Thrust AP ratio increased to
+65% AP
+from
+50% AP
+.
+Mana cost reduced to 60 / 55 / 50 / 45 / 40 from 60 at all ranks.
+V12.10
+Stats
+Base health increased to 640 from 570.
+Health growth increased to 106 from 92.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Determination
+Base heal reduced to
+6 − 74 (based on level)
+from
+7 − 92 (based on level)
+.
+Heal AD ratio reduced to
+7% AD
+from
+10% AD
+.
+V12.5
+Audacious Charge
+Cooldown increased to 12 seconds from 11.
+Crescent Guard
+Duration reduced to 4 seconds from 5.
+V12.4
+Crescent Guard
+Undocumented:
+Now indicates the invulnerability status UI on the health bar to self and allies.
+V11.16
+Stats
+Base attack damage reduced to 63 from 66.
+V11.14
+Wind Becomes Lightning
+Cooldown increased to 12 / 11 / 10 / 9 / 8 seconds from 12 / 10.
+5
+/ 9 / 7.
+5
+/ 6.
+V11.11
+Audacious Charge
+Bug Fix:
+Fixed a bug where it would go on cooldown and use mana despite it not being actually activated when trying to cast it on an enemy outside of its range and recasting it afterwards without a target.
+V11.8
+Audacious Charge
+Bug Fix:
+Now properly triggers and grants charges for
+Manaflow Band's
+,
+Muramana
+,
+Ravenous Hydra
+and
+Tear of the Goddess
+.
+V11.7
+Audacious Charge
+Bug Fix:
+Can no longer be cast while
+grounded
+.
+V11.6
+Determination
+Base heal reduced to
+7 − 92 (based on level)
+from
+10 − 112 (based on level)
+.
+Heal AP ratio increased to
+55% AP
+from
+40% AP
+.
+Bug Fix:
+Basic attacking an enemy after casting
+Wind Becomes Lightning
+now correctly consumes all
+Determination
+stacks.
+Three Talon Strike
+Base damage reduced to 16 / 25 / 34 / 43 / 52 from 20 / 28 / 36 / 44 / 52.
+Wind Becomes Lightning
+Visual clarity updates to hitbox and indicator.
+New Effect:
+Thrust damage is now increased by
+0% − 33.
+3
+% (based on critical strike chance)
+.
+Cast time changed to 0.
+5
+seconds at all attack speed from
+0.
+5
+/ 0.
+4
+(based on
+bonus
+attack speed)
+.
+Cooldown reduced to 12 / 10.
+5
+/ 9 / 7.
+5
+/ 6 seconds from 12 / 11 / 10 / 9 / 8.
+Mana cost increased to 60 from 45.
+Thrust range increased to 1000 units from 900.
+Thrust missile speed increased to 6250 from 5000.
+Minion damage increased to
+50% − 100% (based on level)
+from 50% at all levels.
+New Effect:
+Thrust damage now scales with
+50% AP
+.
+New Effect:
+Thrust damage now
+Challenges
+and reveals champions and monsters for 3 seconds.
+New Effect:
+Hitbox now extends slightly behind him for visual clarity.
+Audacious Charge
+New Effect:
+Dash range is now increased to 1100 units against
+Challenged
+targets.
+Cooldown reduced to 11 seconds from 12.
+Dash speed reduced to 2500 from 3000.
+Crescent Guard
+Duration increased to 5 seconds from 3.
+Removed:
+Basic attacks and ability casts no longer extend the duration by 0.
+3
+seconds.
+New Effect:
+Damage now scales with
+110% AP
+.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.23
+Stats
+Mana growth increased to 55 from 35.
+V10.18
+Wind Becomes Lightning
+Thrust base damage increased to 40 / 75 / 110 / 145 / 180 from 30 / 65 / 100 / 135 / 170.
+Thrust AD ratio increased to
+80% AD
+from
+75% AD
+.
+V10.7
+Determination
+Base heal increased to
+10 − 112 (based on level)
+from
+10 − 78 (based on level)
+.
+V10.6
+General
+Recommended items updated.
+V9.19
+Determination
+Base heal increased to
+10 − 78 (based on level)
+from
+8 − 59 (based on level)
+.
+Three Talon Strike
+Base damage increased to 20 / 28 / 36 / 44 / 52 from 20 / 25 / 30 / 35 / 40.
+V9.10
+Three Talon Strike
+Cooldown reduced to 7 / 6.
+5
+/ 6 / 5.
+5
+/ 5 seconds from 9 / 8 / 7 / 6 / 5.
+V9.2
+General
+Updated store assets for
+Warring Kingdoms Xin Zhao's
+chroma set.
+V9.1
+Crescent Guard
+Bug Fix:
+No longer deals more damage than intended when it hits multiple enemies.
+V8.11
+Stats
+Attack damage growth reduced to 3 from 3.
+3
+.
+Audacious Charge
+Slow reduced to 30% from 50%.
+V8.8
+Secret Agent Xin Zhao
+Bug Fix:
+Recall SFX have been restored.
+V8.7
+Viscero Xin Zhao
+Bug Fix:
+Seam lines have been minimized.
+V8.6
+Wind Becomes Lightning
+Bug Fix:
+No longer stops attacking after casting the ability.
+V8.4
+General
+New splash artwork for
+Original Xin Zhao
+.
+Determination
+Bonus physical damage reduced to
+15 / 25 / 35 / 45 (based on level)
+% AD
+from
+20 / 40 / 60 / 80 (based on level)
+% AD
+Wind Becomes Lightning
+Base cast time and duration extend of other abilities reduced to 0.
+5
+from 0.
+6
+.
+Spear Thrust now originates from
+Xin Zhao's
+position at the end of the cast.
+Audacious Charge
+Short-ranged dashes will now correctly move him forward to the target.
+V8.3
+Stats
+Base health regeneration reduced to 8 from 8.
+176
+.
+V8.2
+Audacious Charge
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V7.24
+Stats
+Base health reduced to 570 from 600.
+Wind Becomes Lightning
+Thrust AD ratio reduced to
+75% AD
+from
+85% AD
+.
+Warring Kingdoms Xin Zhao
+Bug Fix:
+Ruby Chroma's in-game texture now matches its store/champion select asset.
+V7.22
+Stats
+Base attack damage increased to 66 from 57.
+544
+.
+Base armor increased to 35 from 25.
+88
+.
+Three Talon Strike
+Base damage increased to 20 / 25 / 30 / 35 / 40 from 15 / 20 / 25 / 30 / 35.
+V7.21
+General
+Recommended items have been updated.
+V7.19
+General
+New animations.
+New sound effects.
+New ability icons.
+Stats
+Base attack speed reduced to 0.
+645
+from 0.
+676
+.
+Attack speed growth increased to 3.
+5
+% from 2.
+6
+%.
+Determination
+-
+New Innate
+Innate:
+Every third hit deals
+bonus
+physical damage and restores health.
+Removed:
+Damage component's classification as
+critical strike
+damage.
+New Effect:
+Damage and heal component share the same counter.
+Both now stack on hit.
+Bonus damage changed to
+20% / 40% / 60% / 80% (based on level)
+AD
+from
+25 / 37.
+5
+/ 50 / 62.
+5
+/ 75% AD
+.
+Heal's base value changed to
+8 − 59 (based on level)
+from 30 / 35 / 40 / 45 / 50.
+Heal's AD ratio changed to
+10% AD
+from
+20%
+bonus
+AD
+.
+Three Talon Strike
+-
+Q
+Base damage per hit reduced to 15 / 20 / 25 / 30 / 35 from 15 / 30 / 45 / 60 / 75
+AD ratio per hit changed to
+40%
+bonus
+AD
+from
+20% AD
+.
+Now has unique animation on each attacks and classified as on-attack instead of on-hit, so that it will not interact with
+Guinsoo's Rageblade
+.
+Wind Becomes Lightning
+-
+New W
+Active:
+Xin Zhao
+performs two swift strikes over a
+0.
+6
+/ 0.
+5
+/ 0.
+4
+(based on
+bonus
+attack speed)
+second period, the first dealing physical damage to all enemies in an arc and the second dealing a greater amount of damage and
+slowing
+all enemies in a line for 50% for 1.
+5
+seconds.
+Wind Becomes Lighting
+benefits from 33.
+3
+% of
+Xin Zhao's
+lifesteal and each strike will stack and can apply
+Determination
+.
+Slash
+deals 30 / 40 / 50 / 60 / 70
+(+ 30% AD)
+damage.
+Thrust
+deals 30 / 65 / 100 / 135 / 170
+(+ 85% AD)
+damage.
+The duration on his other abilities is paused during the effect.
+Deals only 50% damage against minions.
+Audacious Charge
+-
+E
+Mana cost reduced to 50 from 60.
+Cast range increased to 650 from 600.
+Effect radius increased to 125 from 112.
+5
+.
+Base damage reduced to 50 / 75 / 100 / 125 / 150 from 70 / 110 / 150 / 190 / 230.
+Slow duration reduced to 0.
+5
+seconds from 2.
+Slow increased to 50% at all ranks from 25 / 30 / 35 / 40 / 45%.
+New Effect:
+Grants
+40 / 45 / 50 / 55 / 60%
+bonus
+attack speed
+for 5 seconds after reaching his target.
+This is repurposed from
+Battle Cry's
+Active
+, value unchanged.
+Crescent Guard
+-
+R
+Renamed to
+Crescent Guard
+from
+Crescent Sweep
+.
+Base damage increased to 75 / 175 / 275 from 75 / 150 / 225.
+Effect radius increased to 250 from 187.
+5
+.
+New Passive - Challenge:
+The last enemy champion that
+Xin Zhao
+attacked or targeted with
+Audacious Charge
+is
+Challenged
+for 3 seconds.
+Removed:
+15 / 20 / 25 bonus resistances per champion hit.
+New Effect:
+For the next 3 seconds,
+Xin Zhao
+gains
+Awareness
+, taking 100% reduced damage from enemies who are more than 450 units away from him. Basic attacks and abilities versus champions will extend the duration by 0.
+3
+seconds, but the remaining duration cannot exceed 3 seconds.
+Trivia
+[
+edit
+|
+edit source
+]
+Xin Zhao is
+voiced
+by
+Richard Epcar
+.
+Xin Zhao was released when
+Season One
+started.
+Xin Zhao's dance references
+Seung Mi-na's
+dance
+from
+Soulcalibur II
+.
+A side-by-side comparison can be seen
+here
+.
+During development, he was called
+XenZiou
+or
+XenZhao
+.
+Xin Zhao is rendered, in Chinese localization, as
+赵信
+Zhào
+Xìn
+[ʈ͡ʂau̯˥˩ ɕin˥˩], coincidentally the name of
+a Xiongnu general
+who temporarily defected to
+Han Chinese
+forces, though historical inspiration for Xin Zhao is evidently another Chinese general,
+Zhao Yun
+.
+信
+xìn
+means "to believe, to trust" < Old Chinese
+*sins
+<
+*winʔ
+(cf.
+Sino-Tibetan
+root
+*yum
+[2]
+> 允
+yǔn
+[ɥyn˨˩˦] "to be proper, to consent"
+[3]
+).
+As a gladiator, Xin Zhao took the name of the fishing boat
+Viscero
+< Latin
+viscus
+"entrails", where he once worked on.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Diver
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+Divers
+are the more mobile portion of the Fighter class. Divers excel at singling out high-priority targets to blitz toward, immediately forcing those targets (and their teammates) to deal with the diver’s presence. Divers are not as durable as the tanks or juggernauts of the world, but Divers can take their fair share of punishment while bringing enough damage to be a real kill threat if left unchecked.
+Examples
+Hecarim
+Jarvan IV
+Vi
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Wind Becomes Lightning
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+Active:
+Xin Zhao
+slashes in an arc, then thrusts his spear in a line in the target direction. Each strike deals
+physical damage
+to enemies hit and heals
+Xin Zhao
+based on his
+life steal
+.
+The thrust deals increased damage based on
+critical strike chance
+and briefly
+slows
+enemies hit, enemy
+champions
+or
+monsters
+hit are also
+revealed
+and marked
+Challenged
+for a short time.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most on-hit effects. It is worth noting that many seeming on-hit effects are actually classified as
+spell damage
+and so will trigger ability effects. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes will still occur in spite of proc damage's non-reactive nature (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Corrupting Potion
+Black Cleaver's
+armor reduction
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their attack windup.
+Unlike on-hit, on-attack effects do not require the user to land their basic attacks, only to finish their windup.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Tantrum
+COOLDOWN:
+9 / 8 / 7 / 6 / 5
+Passive:
+Amumu
+gains damage reduction against
+physical damage
+.
+Tantrum's
+cooldown is reduced whenever he is hit by a
+basic attack
+.
+Active:
+Amumu
+releases his anger, dealing
+magic damage
+to nearby enemies.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 175% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Applies life steal
+"Applies life steal"
+is a
+damage tag
+that gives an ability the property of having a damage source apply
+life steal
+like
+basic attack damage
+would.
+This tag is located on some abilities that deal
+spell damage
+(e.g.
+Samira's
+Flair
+and
+Inferno Trigger
+) and
+items
+that deal damage
+on-hit
+.
+Life steal
+does not have a penalty for
+area of effect
+abilities and is always applied to the damage dealt at 100% effectiveness, unless otherwise specified. Unlike
+Vamp
+, the
+"applies life steal"
+tag applies life steal directly and does not
+heal
+based on damage dealt and the life steal
+stat
+. Therefore healing modifiers that affect
+life steal
+also affect abilities with the
+"applies life steal"
+tag.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Drain
+Drain
+, better known as
+Vamp
+, is a term for various
+healing
+effects that are based on damage dealt, but are not
+spell vamp
+or
+life steal
+.
+Drain
+effects benefit from
+Heal Power
+.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+does not consume a
+stack
+from successful
+attack resets
+.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most single target abilities, as well as a select few basic attacks, items and runes. Most sources of
+spell damage
+have the
+magic damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+spell damage
+. For example:
+Rylai's Crystal Scepter
+,
+Liandry's Torment
+and
+Luden's Companion
+.
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Arcane Comet's
+cooldown is reduced by 20% per instance of
+spell damage
+you deal.
+Effects triggered by damage sub-types will occur (e.g.
+Black Cleaver
+on instances of
+Physical damage
+and
+Morellonomicon
+on instances of
+Magic damage
+).
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if provoked (with the exception of the
+Rift Scuttler
+, which simply runs away when attacked).
+League of Legends content
+Standard sight
+Standard sight
+reveals units through
+fog of war
+and
+brush
+, but
+not
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Three Talon Strike
+COOLDOWN:
+7 / 6.
+5
+/ 6 / 5.
+5
+/ 5
+Active:
+Xin Zhao
+empowers his next few attacks within a duration to deal
+bonus
+physical damage
+and
+reduce
+his other ability cooldowns.
+The last empowered attack will also briefly
+knock up
+the target.
+References
+[
+edit
+|
+edit source
+]
+↑
+Xin Zhao's profile page
+at
+LeagueOfLegends.com
+↑
+http://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5675
+↑
+Schuessler, A.
+ABC Etymological Dictionary of Old Chinese
+, p. 539, 597

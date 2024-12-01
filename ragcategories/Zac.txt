@@ -1,0 +1,2502 @@
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Zac
+the Secret Weapon
+Release date
+2013-03-29
+Last changed
+V14.23
+Class(es)
+Vanguard
+Legacy
+Tank
+Fighter
+Position(s)
+Jungle
+Top
+Support
+Resource
+Health costs
+Range type
+Melee
+Adaptive type
+Magic
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+2
+Toughness
+3
+Control
+3
+Mobility
+2
+Utility
+1
+Style
+Difficulty
+Zac
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Zac
+Base statistics
+Edit
+Health
+685
++109
+Resource
+N/A (Uses Health)
+Health regen. (per 5s)
+5
++0.5
+Resource regen.
+N/A
+Armor
+33
++4.7
+Attack damage
+60
++3.4
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+340
+Attack range
+175
+Attack speed
+Base AS
+0.736
+Attack windup
+23.151%
+AS ratio
+0.638
+Bonus AS
++1.6
+%
+Unit radius
+Gameplay radius
+80
+Selection radius
+140
+Pathing radius
+43
+Acq. radius
+400
+Special statistics
+Damage Dealt
++0%
+Damage Received
+-4%
+Healing
++10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+edit
+|
+edit source
+]
+Edit
+Cell Division
+STATIC COOLDOWN
+:
+300
+RANGE:
+700
+Innate - Goo:
+Zac's
+abilities have a
+health cost
+. Whenever
+Zac's
+abilities damage an enemy, he sheds a number of chunks on the ground that remain for a few seconds.
+Zac
+and enemy champions can collect the chunks; an enemy will destroy it, while
+Zac
+will
+heal
+a portion of
+his
+maximum
+health
+.
+Innate:
+Periodically when
+Zac
+would die, he instead enters
+resurrection
+for a period, splitting into four
+bloblets
+that can be attacked by enemies.
+Zac
+will
+die
+once all
+bloblets
+are killed.
+Innate - The Secret Weapon:
+Zac
+gains increased percentage
+size
+equal to
+1.
+5
+% of his
+bonus
+health
+, capped at 35% increased size at
+2333.
+3
+3
+bonus
+health
+.
+Zac's
+size also reduces based on his
+missing
+health
+, down to 70%
+total
+size while at
+0% health
+.
+Innate - Goo:
+Whenever
+Zac
+damages at least one enemy with an
+ability
+, he sheds a number of chunks of himself to a nearby location, landing towards nearby
+visible
+enemy
+champions
+and lasting for 6 seconds.
+Stretching Strikes
+: 1 chunk for each strike hit (excluding the collision) on different targets, up to 2
+Unstable Matter
+: 1 chunk if it hits at least one target
+Elastic Slingshot
+: 1 chunk for each enemy champion hit
+Let's Bounce!
+: 1 chunk for each bounce that hits an enemy champion, up to 4
+Both
+Zac
+and enemy champions can interact with a chunk by being within 50 units of it: an enemy will destroy it, while
+Zac
+will consume it to
+heal
+for
+4% − 8% (based on level)
+of his
+maximum
+health
+.
+Innate - Cell Division:
+Periodically, upon taking
+fatal damage
+,
+Zac
+enters
+resurrection
+for
+8 / 7 / 6 / 5 / 4 (based on level)
+seconds, instantly restoring
+50% of his
+maximum
+health
+and becoming
+untargetable
+and
+unable to act
+for the duration.
+Zac
+then splits into four uncontrollable
+bloblets
+away from his location, though stopping at terrain. After 1.
+5
+seconds of the
+bloblets
+being
+untargetable
+, they start moving toward
+Zac's
+location over the
+remaining duration
+. Any damage the
+bloblets
+receive, excluding damage dealt in excess of each of their
+total
+health
+, is also redirected to
+Zac
+as
+true damage
+. While in resurrection,
+Zac
+cannot take damage from sources other than the redirected damage from his
+bloblets
+.
+After the duration,
+Zac
+is revived with
+10 – 50%
+maximum
+health
+.
+Zac
+will die once all bloblets are killed.
+See
+Pets
+for stats and details for bloblets.
+Info
+Targeting input
+Passive
+Damage type
+Type
+The damage directed to
+Zac
+is
+internal raw damage
+.
+Zac's
+health when the
+bloblets
+are sent out is set to what it would be if all
+bloblets
+recombined, and is actively updated when the
+bloblets
+take damage.
+Zac's
+increased size does not consider his base stats.
+Cell Division's
+chunks
+spawn in two versions:
+Contestable:
+They will fall to the ground at a point which is roughly equidistant from
+Zac
+and the nearest
+visible
+enemy champion within 1000 range of him (dropping slightly in
+Zac's
+favor). The location at which they fall to the ground is influenced by the direction in which
+Zac
+is currently facing. Cannot be interacted with for the first 0.
+25
+seconds (except during
+Let's Bounce!
+).
+Uncontestable:
+They will fall to the ground near
+Zac
+and can be picked up immediately (version used by default).
+Zac's
+untargetability
+upon triggering
+Cell Division
+does not
+destroy
+in-flight
+projectiles
+.
+Chronoshift
+and
+Guardian Angel
+will take priority over
+Cell Division
+.
+Spirit Visage
+and
+Heal Power
+increases the healing of both
+chunks
+and
+bloblets
+.
+Ryze's
+Realm Warp
+is able to individually teleport
+Zac
+or his
+bloblets
+during
+Cell Division
+.
+If
+Zac
+is transported to a new location before the
+bloblets
+landed, they will travel to form at his new position, adjusting their speed accordingly. If
+Cell Division's
+duration permits during this time,
+Zac
+will be revived even if the
+bloblets
+fail to physically recombine.
+Cell Division's
+bloblets
+can be targeted by
+Teleport
+and
+Syndra's
+Force of Will
+.
+Other
+bloblets
+are not interrupted by the conditions above and will continue to recombine instinctively.
+If
+Zac's
+health is higher than it is supposed to be when the
+bloblets
+converge on him, his health will be set to the correct value.
+The following table refers for interactions while
+Zac
+is in resurrection:
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+N/A
+Disabled
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Teleport
+Recall
+Hexflash
+Mark
+Dash
+Interrupted by
+N/A
+Interrupted by
+Death
+Map-Specific Differences
+Ultra Rapid Fire
+differences
+edit
+Cooldown set to 60 seconds.
+Arena
+differences
+edit
+Bloblets are damaged by the Ring of Fire.
+Edit
+Stretching Strikes
+COST:
+8%
+Current
+Health
+COOLDOWN
+:
+14 / 12.
+5
+/ 11 / 9.
+5
+/ 8
+CAST TIME:
+0.
+33
+TARGET RANGE:
+800
+/
+80
+WIDTH:
+160
+TETHER RADIUS:
+900
+SPEED:
+2800
+Active:
+Zac
+stretches his arm in the target direction that briefly
+slows
+and deals
+magic damage
+to the first enemy hit based on
+his
+maximum
+health
+. He also forms a
+revealing
+tether
+with the target for a short time, during which his next basic attack is replaced with a second
+Stretching Strike
+. If the two
+Stretching Strikes
+hit different enemies,
+Zac
+will fling them together to briefly
+knock up
+and
+stun
+them, dealing
+magic damage
+to all surrounding enemies.
+Active:
+Zac
+stretches his left arm in the target direction that catches the first enemy hit, dealing
+magic damage
+,
+slowing
+them by 40% for 0.
+5
+seconds, and forming a
+tether
+between
+Zac
+and the target for 2 seconds, during which they are
+revealed
+.
+Magic Damage:
+40 / 55 / 70 / 85 / 100
+(+ 30% AP)
+(+ 3% of
+Zac's
+maximum
+health)
+Total Magic Damage:
+80 / 110 / 140 / 170 / 200
+(+ 60% AP)
+(+ 6% of
+Zac's
+maximum
+health)
+While the tether persists,
+Zac's
+next
+basic attack
+is replaced by a second
+Stretching Strike
+, empowering it to have a 0.
+25
+-second cast time and gain
+25
+bonus
+attack range
+. This attack cannot
+critically strike
+.
+If the two
+Stretching Strikes
+affect different targets, both are
+rooted
+for
+0.
+5
+seconds and receive the same
+slow
+. After a
+0.
+4
+-second delay
+,
+Zac
+displaces
+them toward each other over 300-units, though not through terrain.
+If the two targets are
+near
+each other, they are instead slammed together through the displacement, dealing the initial
+magic damage
+and
+knocking them up
+and
+stunning
+them for 0.
+25
+seconds upon impact. Surrounding enemies are also dealt the initial
+magic damage
+.
+Both Stretching Strikes (the cast and the empowered attack)
+reset
+Zac's
+basic attack timer.
+Zac
+is unable to move or attack while his left arm is in flight.
+Info
+Targeting input
+Direction
+Damage type
+Type
+Spell damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Parries
+Blocked
+Projectile
+Blocked
+The following features were added in patch
+V7.10
+to increase
+Stretching Strikes'
+reliability and usability:
+If the second attack's target would die from the damage, it won't be dealt until they are slammed to the first target.
+If the first target is standing on top of other enemies, the second hit will reliably choose a different target from the first.
+Non-champion units that are affected by
+Stretching Strikes'
+displacement are prevented from taking any damage until they are slammed together. Note that this often confuses players who are trying to secure
+monsters
+via
+Smite
+while
+Zac
+is slamming the wanted target, resulting in
+Smite
+dealing no damage to it. It is currently unknown whatever the side effects of this feature are intentional or not.
+Spell shields
+will block a single instance of damage only.
+If the tethered target is
+untargetable
+during the second
+Stretching Strike
+via basic attack, they are completely unaffected by the ability.
+Displacement immunity
+will also resist the application of the
+stun
+.
+This ability will cast from wherever the caster is at the end of the cast time.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away during the empowered attack's cast time, it is cancelled but not consumed.
+The following refers for interactions during the activation's cast time:
+Type
+Cast time
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Edit
+Unstable Matter
+COST:
+4%
+current
+Health
+COOLDOWN:
+5
+CAST TIME:
+none
+TARGET RANGE:
+350
+Active:
+Zac
+explodes to deal
+magic damage
+to nearby enemies hit based on
+their
+maximum
+health
+.
+Unstable Matter's
+cooldown is
+reduced
+whenever
+Zac
+collects a
+Cell Division
+chunk.
+Active:
+Zac
+explodes to deal
+magic damage
+to nearby enemies, capped against
+minions
+and
+monsters
+.
+Magic Damage:
+40 / 50 / 60 / 70 / 80
+(+ 4 / 5 / 6 / 7 / 8%
+(+ 3% per 100 AP)
+of target's
+maximum
+health)
+Capped Non-Champion Damage:
+240 / 250 / 260 / 270 / 280
+Zac
+grants
+ghosting
+to aggroed monsters hit for 5 seconds.
+Unstable Matter's
+current
+cooldown
+is reduced by 1 second whenever
+Zac
+collects a
+Cell Division
+chunk.
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+If
+Unstable Matter
+is the cause of monster aggro, the monsters will not receive
+ghosting
+.
+Subsequent uses of
+Unstable Matter
+within 5 seconds after the previous will not grant
+ghosting
+either.
+(bug)
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 6 seconds.
+Edit
+Elastic Slingshot
+COST:
+4%
+Current
+Health
+COOLDOWN
+:
+22 / 19 / 16 / 13 / 10
+CAST TIME:
+none
+TARGET RANGE:
+1200 / 1350 / 1500 / 1650 / 1800
+EFFECT RADIUS:
+250
+Active:
+Zac
+charges
+up to a few seconds, increasing the
+range
+of his launch over a cone in the target direction.
+Elastic Slingshot
+can be recast within the duration and automatically does so afterwards, refunding half of the
+health cost
+and
+cooldown
+.
+Recast:
+Zac
+dashes
+to the target location to deal
+magic damage
+to enemies hit on impact and briefly
+knock up
+and
+stun
+them.
+Active:
+Zac
+charges
+for up to 4.
+5
+seconds to increase
+Elastic Slingshot's
+range
+over a cone in the target direction.
+Maximum Range Channel Duration:
+0.
+9
+/ 1 / 1.
+1
+/ 1.
+2
+/ 1.
+3
+seconds
+Elastic Slingshot
+can be recast within the duration. If
+Zac
+cancels
+the channel himself, or the charge completes without reactivation, 50% of
+Elastic Slingshot's
+health cost
+and
+cooldown
+are refunded.
+Recast:
+Zac
+leaps
+to the target location. Upon landing, he deals
+magic damage
+to nearby enemies and
+knocks them up
+and
+stuns
+them for 0.
+5
+seconds, increased to 1 second if
+Elastic Slingshot
+was charged for more than 1 second.
+Magic Damage:
+60 / 105 / 150 / 195 / 240
+(+ 80% AP)
+Elastic Slingshot will cast at max range if cast beyond that.
+Info
+Targeting input
+Direction
+/
+Location
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Disruption
+Interrupted
+Quick casting
+:
+Elastic Slingshot's
+channel begins when the key is pressed and held, launching
+Zac
+towards the cursor when released.
+Elastic Slingshot
+will not
+knock up
+if the targeted location was directly on top of
+Zac
+(in which case he will not
+dash
+at all).
+(note)
+The
+knock up
+will occasionally end early if the targeted location was slightly away from
+Zac
+.
+(note)
+Displacement immunity
+will also resist the application of the
+stun
+.
+The following table refers for interactions while
+Zac
+is
+channeling
+:
+Recall
+is disabled for the first 0.
+9
+seconds and otherwise interrupts the channel if used.
+Type
+Charge channel
+Attacking
+Disabled
+Abilities
+Stretching Strikes
+and
+Unstable Matter
+interrupt.
+Let's Bounce!
+initiates the recast and is buffered to cast itself at the end of the dash.
+Movement
+Disabled for the first 0.
+9
+seconds, otherwise, interrupts.
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+Hextech Rocketbelt
+Interrupted by
+All item-actives not specified above interrupt
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Interrupted by
+Recall
+Hexflash
+(Recasts)
+Interrupted by
+Death
+Grounding effects
+Immobilizing effects
+Cast-inhibiting effects
+Edit
+Let's Bounce!
+COOLDOWN
+:
+120 / 105 / 90
+CAST TIME:
+0.
+3
+EFFECT RADIUS:
+300
+Active:
+Zac
+bounces four times, each impact deals
+magic damage
+to enemies hit and briefly
+knocks back
+and
+slows
+them.
+Zac
+can move during
+Let's Bounce
+.
+Active:
+Zac
+bounces after the cast time, then bounces 3 additional times each second over 3 seconds, during which he also gains
+20% − 50% (based on duration)
+bonus
+movement speed
+but becomes unable to declare basic attacks and cast
+Stretching Strikes
+and
+Elastic Slingshot
+.
+Each bounce deals
+magic damage
+to enemies hit,
+knocks them back
+over 1 second, and
+slows
+them by 20% for the same duration.
+Magic Damage:
+140 / 210 / 280
+(+ 40% AP)
+An enemy can be hit by multiple bounces, but ones beyond the first deal 50% damage to them and do not apply the
+knock back
+.
+Reduced Damage:
+70 / 105 / 140
+(+ 20% AP)
+Total Magic Damage:
+350 / 525 / 700
+(+ 100% AP)
+Info
+Targeting input
+Auto
+Damage type
+Type
+Area damage
+Sub-type
+Magic
+Counters
+Spell shield
+See Notes
+Spell shield
+only blocks a single instance of damage.
+Entering
+stasis
+will end
+Let's Bounce!
+prematurely.
+While
+Let's Bounce!
+is active
+Zac
+consumes
+Chunks
+within
+300 range.
+Map-Specific Differences
+Arena
+differences
+edit
+Chunk
+healing increase changed to
+0.
+5
+/ 1 / 1.
+5
+%
+maximum
+health
+.
+Healing per chunk
+Chunk
+changed to
+5 / 5.
+5
+/ 6 / 6.
+5
+% (based on
+Let's Bounce!'s
+Rank)
+of his
+maximum
+health
+.
+Pets
+[
+edit
+|
+edit source
+]
+Bloblet
+Bounty
+Gold
+0
+Exp
+0
+Statistics
+Health
+12%
+of
+Zac's
+maximum
+health
+Armor
+50% of
+Zac's
+armor
+Magic resist
+50% of
+Zac's
+magic resistance
+AoE resist
+33%
+CC resist
+Immune to crowd control
+(except
+stasis
+, still able to move)
+Move speed
+Variable
+Control type
+Autonomous
+Target type
+Minion
+Bloblets
+can be targeted by
+Smite
+and
+Force of Will
+.
+A
+grabbed
+Bloblet
+, while visually separated from the others, will not delay
+Zac's
+revival
+or cause him to recombine with less
+current
+health
+.
+Bloblets
+can be targeted by
+Teleport
+, becoming
+invulnerable
+for the channel's duration.
+Taste Their Fear
+considers
+Bloblets
+'isolated' when being the last one alive or after having merged with the others right before
+Zac
+recombines (A
+Bloblet
+is not considered 'isolated' when close enough to the others)
+Turrets
+will prioritize
+Bloblets
+over other minions.
+Champion skins
+[
+edit
+|
+edit source
+]
+This article section only contains champion skins. For all associated collection items, see
+Zac (Collection)
+.
+Original
+View in 3D
+880
+29.03.2013
+Zac is the product of a toxic spill that ran through a chemtech seam and pooled in an isolated cavern deep in Zaun’s Sump. Despite such humble origins, Zac has grown from primordial ooze into a thinking being who dwells in the city’s pipes, occasionally emerging to help those who cannot help themselves or to rebuild the broken infrastructure of Zaun.
+Unknown voice actor
+Christian Fell
+Loot eligible
+Chromas
+Original Zac Chromas
+Bubblegum
+Honey
+Orange
+Special Weapon
+View in 3D
+975
+29.03.2013
+Unknown voice actor
+Pan Chengwei
+Legacy
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Pool Party
+View in 3D
+1350
+25.06.2015
+If a guy made of water jumps into the pool, does he become the pool? Or just… part of the pool? Or does the pool become him? This is a very serious question.
+Unknown voice actor
+Sixmorevodka Studio
+Pool Party
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+SKT T1
+View in 3D
+1350
+27.06.2017
+Honoring Blank's winning performance as Zac during the 2016 World Championship.
+Unknown voice actor
+Alvin Lee
+World Champions: 2016
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Battlecast
+View in 3D
+1350
+12.11.2020
+Never content with his extant creations, Viktor's latest innovation has forged an experimental alloy that shifts between liquid and solid states. Incredibly flexible yet nigh-indestructible, the new zoophagus assault constructs, or ZACs, spring onto the battlefield, harvesting and consuming any resistance that stands in their way.
+Unknown voice actor
+Unknown artist
+Battlecast
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Battlecast Zac Chromas
+Amethyst
+Emerald
+Obsidian
+Pearl
+Ruby
+Tanzanite
+Empyrean
+View in 3D
+1350
+03.11.2022
+The Foreglow affects everyone differently. For Zac, it burned away all of his insecurities, but opened up his senses to the loneliness felt by the other Zacs across the realms. They needed him, and now he has the power to bring everyone together as one. A family reunion for the ages.
+Unknown voice actor
+David Villegas, West Studio
+Empyrean
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Empyrean Zac Chromas
+Citrine
+Emerald
+Neon Flare
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Zesty Dip
+View in 3D
+1350
+03.04.2024
+Zac is “nacho” average ooze monster—he's the snack that fights back! Topped with jalapeños, chips, and bacon bits, this sentient cheese-blob is the life of the party... and a nightmare for lactose intolerant eaters everywhere.
+Unknown voice actor
+Rudy Siswanto
+Food Fight
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Zesty Dip Zac Chromas
+Black Sesame
+Blue Sundae
+Chocolate Fondue
+Dessert Dip
+Forest Berry Jelly
+Guacamole
+Pesto
+Ruby
+Patch history
+[
+edit
+|
+edit source
+]
+For the expanded patch notes, see
+here
+.
+V14.23
+Stretching Strikes
+Health ratio reduced to
+3% of his
+maximum
+health
+from
+4%
+.
+V14.13
+Cell Division
+Heal changed to
+4% − 8% (based on level)
+maximum
+health
+from
+5 / 6 / 7 / 8% (based on
+Let's Bounce!'s
+Rank)
+.
+V14.9
+Stats
+Selection radius increased to 140 units from 90.
+V14.8
+Stats
+Base health regeneration reduced to 5 from 8.
+V14.5
+Unstable Matter
+Base damage changed to 40 / 50 / 60 / 70 / 80 from 35 / 50 / 65 / 80 / 95.
+V14.4
+Stretching Strikes
+Tether range reduced to 900 units from 1000.
+Tether range type changed to
+edge
+from
+center
+.
+Tether now innately checks every 0.
+05
+seconds for valid range conditions, and no longer waits for every 8th server tick.
+V14.2
+Elastic Slingshot
+Bug Fix:
+No longer has an error in its internal cast range values that sometimes caused it to cast backwards at rank 5 of the ability while Clamp Cast Targeting was enabled.
+V14.1
+- January 12th Hotfix
+Cell Division
+Heal increased to
+5 / 6 / 7 / 8% (based on
+Let's Bounce!'s
+Rank)
+of his
+maximum
+health
+from
+4 / 5 / 6 / 7%
+.
+Elastic Slingshot
+Cooldown reduced to 22 / 19 / 16 / 13 / 10 seconds from 24 / 21 / 18 / 15 / 12.
+Let's Bounce!
+Cooldown reduced to 120 / 105 / 90 seconds from 130 / 115 / 100.
+V13.9
+Elastic Slingshot
+Bug Fix:
+No longer distorts the character model of an enemy
+Zac
+if used while near them.
+V13.3
+Unstable Matter
+AP ratio reduced to
+3% per 100 AP
+from
+4% per 100 AP
+.
+Elastic Slingshot
+Base damage reduced to 60 / 105 / 150 / 195 / 240 from 60 / 110 / 160 / 210 / 260.
+AP ratio reduced to
+80% AP
+from
+90% AP
+.
+V12.23
+Cell Division
+Heal per chunk increased to
+4 / 5 / 6 / 7% (based on
+Let's Bounce!'s rank)
+of his
+maximum
+health
+from
+4 / 4.
+75
+/ 5.
+5
+/ 6.
+25
+%
+.
+Stretching Strikes
+Cooldown reduced to 14 / 12.
+5
+/ 11 / 9.
+5
+/ 8 seconds from 15 / 13.
+5
+/ 12 / 10.
+5
+/ 9.
+Health ratio increased to
+4%
+maximum
+health
+from
+2.
+5
+%
+.
+V12.22
+Let's Bounce!
+Bug Fix:
+Last tick of the effect now properly always deals damage.
+V12.16
+Cell Division
+Bug Fix:
+Can no longer revive from the resurrection even after all bloblets have died while having
+Mountain Dragon Soul
+.
+V12.10
+Stats
+Base health increased to 685 from 615.
+Health growth increased to 109 from 95.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Cell Division
+Heal per chunk reduced to
+4 / 4.
+75
+/ 5.
+5
+/ 6.
+25
+% (based on
+Let's Bounce!'s rank)
+of his
+maximum
+health
+from
+5 / 6 / 7 / 8%
+.
+Let's Bounce!
+Cell Division
+bonus heal reduced to
+0.
+75
+/ 1.
+5
+/ 2.
+25
+%
+maximum
+health
+from
+1 / 2 / 3%
+.
+V11.12
+General
+Adjusted splash artwork for
+Pool Party Zac
+.
+V11.8
+Unstable Matter
+Base damage increased to 35 / 50 / 65 / 80 / 95 from 25 / 40 / 55 / 70 / 85.
+AP ratio increased to
+4% per 100 AP
+from
+2% per 100 AP
+.
+V10.18
+- September 2nd Hotfix
+Unstable Matter
+Bug Fix:
+Cooldown is now properly reduced for picking
+Cell Division
+chunks.
+V9.19
+Cell Division
+Heal increased to
+4 / 5 / 6 / 7% (based on
+Let's Bounce!'s rank)
+of his
+maximum
+health
+from
+4%
+at all
+Let's Bounce!'s
+ranks.
+New Effect:
+Cooldown is now pingable.
+Let's Bounce!
+New Effect:
+Now increases
+Cell Division's
+chunk heal to
+5 / 6 / 7% of his
+maximum
+health
+.
+V9.17
+Elastic Slingshot
+Bug Fix:
+Is now properly disabled when
+grounded
+.
+V9.12
+Unstable Matter
+Base damage increased to 25 / 40 / 55 / 70 / 85 from 15 / 30 / 45 / 60 / 75.
+Let's Bounce!
+Knockback changed to 250 units away from where target is hit from 400 units away from
+Zac's
+center.
+New Effect:
+Each bounce that hits one or more enemy champions spawns a chunk (hitting the same enemy still spawns a chunk), instead of each enemy champion spawns a chunk the first time they're hit by a bounce (subsequent bounces on the same enemy won't spawn additional chunks).
+V9.11
+Stretching Strikes
+Slow strength reduced to 40% from 60%.
+Cooldown increased to 15 / 13.
+5
+/ 12 / 10.
+5
+/ 9 seconds from 13 / 12 / 11 / 10 / 9.
+Unstable Matter
+New Effect:
+Health ratio now scales for
+2% per 100 AP
+.
+Let's Bounce!
+- Rework
+New Effect:
+Active:
+After a small delay,
+Zac
+bounces 4 times over 3 seconds, gaining
+20% − 50% (based on duration)
+bonus
+movement speed as he does so but becoming unable to use basic attacks,
+Stretching Strikes
+, or
+Elastic Slingshot
+for the duration. There is a 1-second delay between each bounce.
+Each bounce deals 140 / 210 / 280
+(+ 40% AP)
+magic damage to all nearby enemies,
+knocking them back
+for 1 second and subsequently
+slowing
+them by 20% for the same duration.
+Enemies can be damaged by multiple bounces, with each beyond the first dealing 50% damage but not
+displacing
+them.
+Effect Radius:
+300
+/
+400
+.
+Cooldown:
+130 / 115 / 100 seconds.
+Old Effect:
+Active - First Cast:
+Zac
+squishes himself down while charging for up to 2.
+5
+seconds, during which he is
+unstoppable
+, and
+slowing
+by 30 / 40 / 50% any enemies standing on top of him.
+Second Cast:
+Zac
+knocks back
+nearby enemies 275 units over 1 second and deals 150 / 250 / 350
+(+ 90% AP)
+magic damage. If charged for at least 1 second before recasting,
+Zac
+instead scoops up enemies on top of him,
+carrying
+them towards the target location. While flying through the air,
+Zac
+is immune to
+crowd control
+.
+Upon landing, nearby and transported enemies take the same magic damage and are
+slowed
+by 25% for 0.
+5
+seconds.
+Target Range:
+700 / 850 / 1000.
+Effect Radius:
+300.
+Cooldown:
+130 / 115 / 100 seconds.
+Trivia
+[
+edit
+|
+edit source
+]
+Zac stands for
+Z
+aun
+A
+morphous
+C
+ombatant.
+Zac made a cameo in
+Battle Bunny Riven's
+artwork and maybe even in the game's Mac Version trailer (all before he was released).
+Zac is the only champion that can be damaged by regular
+Smite
+(due to
+Cell Division's
+chunks being coded as minions) and to have 2 laugh animations.
+Let's Bounce!
+references
+Tigger
+from
+Winnie-the-Pooh
+by
+A. A. Milne
+.
+The pitch level of his voice changes based on how much health he currently has.
+Zac is one of the six champions who use health as a resource for their abilities, the other five being
+Briar
+,
+Dr. Mundo
+,
+Olaf
+,
+Soraka
+, and
+Vladimir
+.
+See also
+[
+edit
+|
+edit source
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Vanguard
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+Vanguards
+are offensive tanks. Vanguards lead the charge for their team and specialize at bringing the action. Their explosive team fight initiation seeks to catch enemies out of position while allowing allies to follow-up to devastating effect.
+Examples
+Amumu
+Leona
+Sejuani
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Health
+Some champions use
+Health
+as a resource to cast abilities.
+While these champions can cast their abilities more freely than most, their disadvantage is that frequent ability usage will bring them closer to taking
+fatal damage
+.
+Health costs
+ignore
+invulnerability
+as well as effects that
+prevent
+falling below a certain health value.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a value that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects (e.g.
+basic attacks
+,
+line collision missiles
+and rectangular AOEs). This radius applies to both incoming and outgoing effects - i.e. your
+basic attack range
+is added on to your gameplay radius, and you are within the attack range of enemies based on the edge of your gameplay radius.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is how close the mouse cursor has to be to the center of their model in order to click on them.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is the size of their model for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's pathing radius, except if they are
+ghosted
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is the distance at which they will acquire attack targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+game settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+Incoming heals can trigger bonus effects from
+Overheal
+. Outgoing heals can trigger bonus effects from
+Summon Aery
+,
+Ardent Censer
+, and
+Staff of Flowing Water
+.
+League of Legends content
+Resurrection
+A unit that is protected by
+Resurrection
+will enter a revival state and dispel most debuffs upon taking
+fatal damage
+. After the state completes, the unit is revived.
+Resurrection
+effects do not count for kills or assists.
+Resurrection
+sources have a hierarchy, and will trigger in the following order:
+Zilean's
+Chronoshift
+Guardian Angel
+Anivia's
+Rebirth
+and
+Zac's
+Cell Division
+Resurrection
+will always take precedence over
+zombie state
+effects. Entering
+resurrection
+does not cancel cast times.
+Renata Glasc's
+Bailout
+always takes priority over
+resurrection
+.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Stretching Strikes
+COOLDOWN:
+14 / 12.
+5
+/ 11 / 9.
+5
+/ 8
+Active:
+Zac
+stretches his arm in the target direction that briefly
+slows
+and deals
+magic damage
+to the first enemy hit based on
+his
+maximum
+health
+. He also forms a
+revealing
+tether
+with the target for a short time, during which his next basic attack is replaced with a second
+Stretching Strike
+.
+If the two
+Stretching Strikes
+hit different enemies,
+Zac
+will fling them together to briefly
+knock up
+and
+stun
+them, dealing
+magic damage
+to all surrounding enemies.
+League of Legends content
+Unstable Matter
+COOLDOWN:
+5
+Active:
+Zac
+explodes to deal
+magic damage
+to nearby enemies hit based on
+their
+maximum
+health
+.
+Unstable Matter's
+cooldown is
+reduced
+whenever
+Zac
+collects a
+Cell Division
+chunk.
+League of Legends content
+Elastic Slingshot
+COOLDOWN:
+22 / 19 / 16 / 13 / 10
+Active:
+Zac
+charges
+up to a few seconds, increasing the
+range
+of his launch over a cone in the target direction.
+Elastic Slingshot
+can be recast within the duration and automatically does so afterwards, refunding half of the
+health cost
+and
+cooldown
+.
+Recast:
+Zac
+dashes
+to the target location to deal
+magic damage
+to enemies hit on impact and briefly
+knock up
+and
+stun
+them.
+League of Legends content
+Let's Bounce!
+COOLDOWN:
+120 / 105 / 90
+Active:
+Zac
+bounces four times, each impact deals
+magic damage
+to enemies hit and briefly
+knocks back
+and
+slows
+them.
+Zac
+can move during
+Let's Bounce
+.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Lockout
+A champion that is
+locked out
+is unable to perform certain actions such as casting abilities, moving, or attacking. The prevented actions can vary per instance.
+Lockout does not interact with
+crowd control
+mechanics unless otherwise stated.
+League of Legends content
+Raw damage
+Raw damage
+is a type of damage that normally ignores resistances,
+shields
+, and
+minimum health threshold
+and
+resurrection
+effects on the target.
+Invulnerability
+and
+spell shields
+,  where applicable, are the only ways to reduce or negate
+raw damage
+. Current champion-sources of
+raw damage
+against an enemy always deal more than
+100% of the target's
+current
+health
+(
+"execution damage"
+). Current champion-sources of
+raw damage
+against the player's own champion or an ally are special-cased to take place during effects that protect champions from death. Current implementations of
+minimum health thresholds
+are special-cased to leave units at
+1 health
+rather than the threshold, when they are dealt lethal
+raw damage
+.
+Raw damage
+does not interact with
+any
+effect.
+Internal raw
+damage is a form of
+raw damage
+that also bypasses
+invulnerability
+and has no overrides in place to prevent it from killing death-protected champions. The
+Nexus Obelisk
+,
+Zac's
+Cell Division
+redirected damage, and
+Rift Herald's
+self-damage also have this modified form.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target and cannot be hit. Effects that have already been applied from being hit will not be invalidated, unless they require targetability.
+Becoming untargetable will cause targeted inputs to be interrupted and non-champions to lose aggro. Most untargetabilities will also
+destroy
+all incoming targeted
+projectiles
+.
+League of Legends content
+Homing projectile destruction
+Destroying
+or
+popping of a projectile
+references an effect that destroys all homing
+missiles
+currently targeting a specific unit, such as ranged projectile-based
+basic attacks
+. Destroyed missiles will do the same thing as if they were destroyed by
+Wind Wall
+or
+Blade Whirl
+(usually vanishing without any effect).
+The following abilities perform one or more
+projectile popping events
+:
+Most
+abilities and effects that grant
+untargetability
+pop projectiles when the unit gains the status effect.
+Master Yi's
+Alpha Strike
+in particular pops targeted projectiles on each game tick for its duration.
+Gwen's
+Hallowed Mist
+pops all projectiles (from enemy champions outside of its area of effect) targeted at her that attempt to pass through or be inside its area of effect.
+Upon entering or leaving
+Mordekaiser's
+Realm of Death
+.
+Upon successfully completing the
+channel
+of:
+Shen's
+Stand United
+Twisted Fate's
+Gate
+Teleport
+League of Legends content
+Projectile
+A
+projectile
+or
+missile
+is any entity not classified as a unit (
+champion
+,
+minion
+,
+monster
+, etc.
+) that travels at any given velocity.
+Moving units are
+not
+considered projectiles under any circumstance (
+including
+dashing
+units,
+airborne
+units, or units thrown by some abilities such as
+Force of Will
+or
+Roar of the Slayer
+.
+).
+Braum's
+Unbreakable
+,
+Samira's
+Blade Whirl
+, and
+Yasuo's
+Wind Wall
+can block, destroy and / or stop projectiles.
+Some
+ranged
+basic attacks (
+including
+turrets
+) and abilities don't use projectiles and will bypass projectile-blocking effects.
+Some abilities will
+destroy
+all currently incoming homing projectiles.
+League of Legends content
+Chronoshift
+COOLDOWN:
+120 / 90 / 60
+Active:
+Zilean
+places a protective time rune on himself or the target allied champion for a few seconds.
+If the target would die, they enter
+resurrection
+for a short time, becoming
+invulnerable
+,
+untargetable
+, and
+unable to act
+. They are
+healed
+afterwards.
+League of Legends content
+Realm Warp
+COOLDOWN:
+180 / 160 / 140
+Passive:
+Overload's
+Flux
+empowered damage is increased.
+Active:
+Ryze
+channels
+for a short time to open a portal beneath him.
+Ryze
+can act during the channel, but the portal will cancel if he is
+interrupted
+.
+Upon completion, allies within the portal will
+blink
+to the target location.
+League of Legends content
+Force of Will
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+Active:
+Syndra
+grabs the nearest
+Dark Sphere
+, enemy
+minion
+or non-epic
+monster
+from the target location, and holds it for a few seconds.
+Force of Will
+can be recast while the target is grabbed.
+Recast:
+Syndra
+tosses the grabbed target to the target location, which deals
+magic damage
+and briefly
+slows
+them and nearby enemies.
+Transcendent
+Bonus:
+Force of Will
+deals
+bonus
+true damage
+.
+League of Legends content
+Ultra Rapid Fire (U.R.F.)
+Ultra Rapid Fire
+is a
+Featured Game Mode
+that takes place on
+Summoner's Rift
+with the same objective as
+Classic 5v5
+, except all
+champions
+benefit from the
+Awesome Buff of Awesomely Awesome Buffing
+that grants excessive  ability haste and removes ability costs. The gameplay is
+explosive
+. The game mode can be played as
+All Random
+or
+Blind pick
+depending on the year.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on five different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Maps
+The Rings of Wrath:
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+It is
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slow
+percentages cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+(except
+Yone's
+Soul Unbound
+recast),
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+True sight
+True Sight
+reveals units through
+fog of war
+,
+brush
+, and
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Tether
+A
+tether
+is an effect that applies a
+bind
+buff on both the source and the target(s), which then creates the actual tether that requires both to remain in close proximity so any accompanying effects (
+damage
+,
+crowd control
+,
+heals
+,
+buffs
+, etc) can apply.
+The tether breaks if it exceeds maximum range, or either conduit is removed (e.g.
+Death
+). The tether will also break from a transition into the
+zombie state
+due to the target already dying.
+Generally, a
+bind
+with an enemy will break along with the tether, whereas a bind with an ally will last indefinitely and automatically reapply the tether when within range.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+or
+blinking
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+References
+[
+edit
+|
+edit source
+]
+↑
+Zac's profile page
+at
+LeagueOfLegends.com
