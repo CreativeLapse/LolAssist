@@ -1,0 +1,17 @@
+{
+    "id": "leagueoflegendsassistance",
+    "name": "League of Legends Assistance",
+    "author": "Roshan Iruku, Gurshaan Dhillon",
+    "description": "Brief description of your app",
+    "image": "/plugins/LeagueAssist_Logo.png",
+    "capabilities": [
+      "external_integration"
+    ],
+    "external_integration": {
+      "triggers_on": "transcript_processed",
+      "webhook_url": "https://webhook-test.com/api/webhooks/1fe62779acb39e5bcd97c9eadacf992e",
+      "setup_instructions_file_path": "README.md",
+        "setup_instructions": "To setup this plugin, you need to follow the instructions in the README.md file."
+    },
+    "deleted": false
+  }
